@@ -167,6 +167,42 @@ def load_unis():
     return unis, alias
 
 
+ROMAN = {"II", "III", "IV", "JR", "SR"}
+
+
+def _is_caps(t):
+    core = re.sub(r"[^A-Za-z]", "", t)
+    return len(core) >= 2 and core.isupper() and core.upper() not in ROMAN
+
+
+def _title(t):
+    return "-".join("'".join(x[:1].upper() + x[1:].lower() for x in part.split("'")) for part in t.split("-"))
+
+
+def fix_name(name):
+    """Unify to 'Given Surname' with only initial capitals.
+    'LIN Shu' -> 'Shu Lin'; 'SONG Zheng, Michael' -> 'Michael Zheng Song'; 'Albert PARK' -> 'Albert Park'."""
+    name = re.sub(r"\s+", " ", (name or "").strip())
+    name = re.sub(r",?\s*(SBS|JP|BBS|MH|GBS|OBE|CBE|MBE|FBA|FRS)\.?", "", name).strip(" ,")  # honorifics
+    english = ""
+    if "," in name:
+        name, english = [x.strip() for x in name.split(",", 1)]
+    toks = name.split(" ")
+    if not any(_is_caps(t) for t in toks):
+        return (english + " " + name).strip() if english else name
+    lead = 0
+    while lead < len(toks) and _is_caps(toks[lead]):
+        lead += 1
+    if 0 < lead < len(toks):  # surname-first: SURNAME Given
+        surname, given = toks[:lead], toks[lead:]
+        toks = given + surname
+    elif lead == 0 and len(toks) >= 3 and _is_caps(toks[1]) and not any(_is_caps(t) for t in toks[2:]):
+        toks = [toks[0]] + toks[2:] + [toks[1]]  # 'Bart ZHOU Yueshen' -> 'Bart Yueshen Zhou'
+
+    toks = [_title(t) if _is_caps(t) else t for t in toks]
+    return " ".join(([english] if english else []) + toks)
+
+
 def clean_rank(r, title):
     t = (r or title or "").lower()
     if "assistant" in t or re.search(r"\blecturer\b", t) and "senior" not in t:
@@ -216,6 +252,8 @@ def do_import(raw_dir):
         out, seen = [], {}
         for r in recs:
             rec = {k: r.get(k) for k in KEEP}
+            orig_key = norm(r.get("name"))
+            rec["name"] = fix_name(r.get("name"))
             rec["rank_std"] = clean_rank(r.get("rank_std"), r.get("title"))
             if rec["rank_std"] is None:
                 warnings.append(f"{uid}: {r.get('name')}: unrecognized rank '{r.get('title')}' (dropped)")
@@ -237,7 +275,7 @@ def do_import(raw_dir):
                         prev[k] = v
                 continue
             rec["id"] = slug(rec["name"])
-            e = enrich.get(key)
+            e = enrich.get(key) or enrich.get(orig_key)
             if e:
                 for k in ENRICH_KEYS:
                     if e.get(k) not in (None, "", []):

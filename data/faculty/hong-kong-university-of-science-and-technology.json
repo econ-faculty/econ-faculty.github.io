@@ -1,6 +1,6 @@
 [
  {
-  "name": "Albert PARK",
+  "name": "Albert Park",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Economics",
@@ -40,7 +40,7 @@
   "id": "albert-park"
  },
  {
-  "name": "David E COOK",
+  "name": "David E Cook",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Economics",
@@ -80,7 +80,7 @@
   "id": "david-e-cook"
  },
  {
-  "name": "Jiangtao LI",
+  "name": "Jiangtao Li",
   "rank_std": "Professor",
   "title": "Professor, Lee Heng Fellow",
   "unit": "Department of Economics",
@@ -120,7 +120,7 @@
   "id": "jiangtao-li"
  },
  {
-  "name": "Jinwoo KIM",
+  "name": "Jinwoo Kim",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Economics",
@@ -159,7 +159,7 @@
   "id": "jinwoo-kim"
  },
  {
-  "name": "Myung Hwan \"Matt\" SEO",
+  "name": "Myung Hwan \"Matt\" Seo",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Economics",
@@ -199,7 +199,7 @@
   "id": "myung-hwan-matt-seo"
  },
  {
-  "name": "Songfa ZHONG",
+  "name": "Songfa Zhong",
   "rank_std": "Professor",
   "title": "Chair Professor, Pan Yi Professor of Business",
   "unit": "Department of Economics",
@@ -239,7 +239,7 @@
   "id": "songfa-zhong"
  },
  {
-  "name": "Wooyoung LIM",
+  "name": "Wooyoung Lim",
   "rank_std": "Professor",
   "title": "Head, Professor, Lee Heng Fellow",
   "unit": "Department of Economics",
@@ -280,7 +280,7 @@
   "id": "wooyoung-lim"
  },
  {
-  "name": "Yuk Fai FONG",
+  "name": "Yuk Fai Fong",
   "rank_std": "Professor",
   "title": "Associate Dean of Business and Management, Professor, Academic Director of HKUST EMBA Program, Academic Director of HKUST DBA Program, Director of the HKUST Center for Economic Policy",
   "unit": "Department of Economics",
@@ -320,7 +320,7 @@
   "id": "yuk-fai-fong"
  },
  {
-  "name": "Jenny XU",
+  "name": "Jenny Xu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -360,7 +360,7 @@
   "id": "jenny-xu"
  },
  {
-  "name": "Kohei KAWAGUCHI (SUNADA)",
+  "name": "Kohei Kawaguchi (sunada)",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -400,7 +400,7 @@
   "id": "kohei-kawaguchi-sunada"
  },
  {
-  "name": "Martin SZYDLOWSKI",
+  "name": "Martin Szydlowski",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -440,7 +440,7 @@
   "id": "martin-szydlowski"
  },
  {
-  "name": "Pak Hung AU",
+  "name": "Pak Hung Au",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -480,7 +480,7 @@
   "id": "pak-hung-au"
  },
  {
-  "name": "Peng WANG",
+  "name": "Peng Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -520,7 +520,7 @@
   "id": "peng-wang"
  },
  {
-  "name": "Rui TANG",
+  "name": "Rui Tang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Economics",
@@ -561,7 +561,7 @@
   "id": "rui-tang"
  },
  {
-  "name": "Tao ZHU",
+  "name": "Tao Zhu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -601,7 +601,7 @@
   "id": "tao-zhu"
  },
  {
-  "name": "Yang LU",
+  "name": "Yang Lu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -640,7 +640,7 @@
   "id": "yang-lu"
  },
  {
-  "name": "Yao Amber LI",
+  "name": "Yao Amber Li",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -680,7 +680,7 @@
   "id": "yao-amber-li"
  },
  {
-  "name": "Yatang LIN",
+  "name": "Yatang Lin",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Economics",
@@ -721,7 +721,7 @@
   "id": "yatang-lin"
  },
  {
-  "name": "Byoungchan LEE",
+  "name": "Byoungchan Lee",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -761,7 +761,7 @@
   "id": "byoungchan-lee"
  },
  {
-  "name": "Deyu RAO",
+  "name": "Deyu Rao",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -802,7 +802,7 @@
   "id": "deyu-rao"
  },
  {
-  "name": "Jiaming HUANG",
+  "name": "Jiaming Huang",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -842,7 +842,7 @@
   "id": "jiaming-huang"
  },
  {
-  "name": "Junlong FENG",
+  "name": "Junlong Feng",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -882,7 +882,7 @@
   "id": "junlong-feng"
  },
  {
-  "name": "Marc DORDAL CARRERAS",
+  "name": "Marc Dordal Carreras",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -922,7 +922,7 @@
   "id": "marc-dordal-carreras"
  },
  {
-  "name": "Qinggong WU",
+  "name": "Qinggong Wu",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -962,7 +962,7 @@
   "id": "qinggong-wu"
  },
  {
-  "name": "Robin Kaiji GONG",
+  "name": "Robin Kaiji Gong",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -1001,7 +1001,7 @@
   "id": "robin-kaiji-gong"
  },
  {
-  "name": "Xuan LI",
+  "name": "Xuan Li",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -1041,7 +1041,7 @@
   "id": "xuan-li"
  },
  {
-  "name": "Zhang CHEN",
+  "name": "Zhang Chen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Economics",
@@ -1080,7 +1080,7 @@
   "id": "zhang-chen"
  },
  {
-  "name": "Allen HUANG",
+  "name": "Allen Huang",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Accounting",
@@ -1119,7 +1119,7 @@
   "id": "allen-huang"
  },
  {
-  "name": "Charles HSU",
+  "name": "Charles Hsu",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Accounting",
@@ -1158,7 +1158,7 @@
   "id": "charles-hsu"
  },
  {
-  "name": "Tai-Yuan CHEN",
+  "name": "Tai-Yuan Chen",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Accounting",
@@ -1197,7 +1197,7 @@
   "id": "tai-yuan-chen"
  },
  {
-  "name": "Amy Yunzhi ZANG 臧蘊智",
+  "name": "Amy Yunzhi Zang 臧蘊智",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Accounting",
@@ -1236,7 +1236,7 @@
   "id": "amy-yunzhi-zang"
  },
  {
-  "name": "Chao TANG",
+  "name": "Chao Tang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Accounting",
@@ -1275,7 +1275,7 @@
   "id": "chao-tang"
  },
  {
-  "name": "Peter Fusheng CHEN",
+  "name": "Peter Fusheng Chen",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Accounting",
@@ -1314,7 +1314,7 @@
   "id": "peter-fusheng-chen"
  },
  {
-  "name": "Shiheng WANG",
+  "name": "Shiheng Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Accounting",
@@ -1353,7 +1353,7 @@
   "id": "shiheng-wang"
  },
  {
-  "name": "Yue ZHENG",
+  "name": "Yue Zheng",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, MPhil/PhD Programs Coordinator",
   "unit": "Department of Accounting",
@@ -1392,7 +1392,7 @@
   "id": "yue-zheng"
  },
  {
-  "name": "Zhihong CHEN",
+  "name": "Zhihong Chen",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Accounting",
@@ -1431,7 +1431,7 @@
   "id": "zhihong-chen"
  },
  {
-  "name": "Adriano SALERNO",
+  "name": "Adriano Salerno",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1470,7 +1470,7 @@
   "id": "adriano-salerno"
  },
  {
-  "name": "Albert SHIN",
+  "name": "Albert Shin",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1509,7 +1509,7 @@
   "id": "albert-shin"
  },
  {
-  "name": "Arthur MORRIS",
+  "name": "Arthur Morris",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1548,7 +1548,7 @@
   "id": "arthur-morris"
  },
  {
-  "name": "Benda YIN",
+  "name": "Benda Yin",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1587,7 +1587,7 @@
   "id": "benda-yin"
  },
  {
-  "name": "Hwa Young KIM",
+  "name": "Hwa Young Kim",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1626,7 +1626,7 @@
   "id": "hwa-young-kim"
  },
  {
-  "name": "Jaesik KIM",
+  "name": "Jaesik Kim",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1665,7 +1665,7 @@
   "id": "jaesik-kim"
  },
  {
-  "name": "Qingkai DONG",
+  "name": "Qingkai Dong",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1704,7 +1704,7 @@
   "id": "qingkai-dong"
  },
  {
-  "name": "Tony CHO",
+  "name": "Tony Cho",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1743,7 +1743,7 @@
   "id": "tony-cho"
  },
  {
-  "name": "Wilbur CHEN",
+  "name": "Wilbur Chen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Accounting",
@@ -1782,7 +1782,7 @@
   "id": "wilbur-chen"
  },
  {
-  "name": "Abhiroop MUKHERJEE",
+  "name": "Abhiroop Mukherjee",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Finance",
@@ -1821,7 +1821,7 @@
   "id": "abhiroop-mukherjee"
  },
  {
-  "name": "Chu ZHANG",
+  "name": "Chu Zhang",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Finance",
@@ -1860,7 +1860,7 @@
   "id": "chu-zhang"
  },
  {
-  "name": "Dong LOU",
+  "name": "Dong Lou",
   "rank_std": "Professor",
   "title": "Head, Chair Professor, Citi Professor of Business",
   "unit": "Department of Finance",
@@ -1899,7 +1899,7 @@
   "id": "dong-lou"
  },
  {
-  "name": "Jialin YU",
+  "name": "Jialin Yu",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Finance",
@@ -1938,7 +1938,7 @@
   "id": "jialin-yu"
  },
  {
-  "name": "Keyu JIN",
+  "name": "Keyu Jin",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Finance",
@@ -1977,7 +1977,7 @@
   "id": "keyu-jin"
  },
  {
-  "name": "Pulak GHOSH",
+  "name": "Pulak Ghosh",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Finance",
@@ -2016,7 +2016,7 @@
   "id": "pulak-ghosh"
  },
  {
-  "name": "Utpal BHATTACHARYA",
+  "name": "Utpal Bhattacharya",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Finance",
@@ -2055,7 +2055,7 @@
   "id": "utpal-bhattacharya"
  },
  {
-  "name": "Vidhan K GOYAL",
+  "name": "Vidhan K Goyal",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Finance",
@@ -2094,7 +2094,7 @@
   "id": "vidhan-k-goyal"
  },
  {
-  "name": "Xiaoji LIN",
+  "name": "Xiaoji Lin",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Finance",
@@ -2172,7 +2172,7 @@
   "id": "yingying-li"
  },
  {
-  "name": "Briana CHANG",
+  "name": "Briana Chang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Finance",
@@ -2211,7 +2211,7 @@
   "id": "briana-chang"
  },
  {
-  "name": "Darwin CHOI",
+  "name": "Darwin Choi",
   "rank_std": "Associate Professor",
   "title": "Associate Head of FINA, Associate Professor",
   "unit": "Department of Finance",
@@ -2250,7 +2250,7 @@
   "id": "darwin-choi"
  },
  {
-  "name": "George PANAYOTOV",
+  "name": "George Panayotov",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Finance",
@@ -2289,7 +2289,7 @@
   "id": "george-panayotov"
  },
  {
-  "name": "Mengqian LU",
+  "name": "Mengqian Lu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor (Joint with CIVL)",
   "unit": "Department of Finance",
@@ -2328,7 +2328,7 @@
   "id": "mengqian-lu"
  },
  {
-  "name": "Yan JI",
+  "name": "Yan Ji",
   "rank_std": "Associate Professor",
   "title": "Liwei Huang Associate Professor of Business",
   "unit": "Department of Finance",
@@ -2367,7 +2367,7 @@
   "id": "yan-ji"
  },
  {
-  "name": "Yunzhi HU",
+  "name": "Yunzhi Hu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Finance",
@@ -2406,7 +2406,7 @@
   "id": "yunzhi-hu"
  },
  {
-  "name": "Zhanhui CHEN",
+  "name": "Zhanhui Chen",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Finance",
@@ -2445,7 +2445,7 @@
   "id": "zhanhui-chen"
  },
  {
-  "name": "Di TIAN",
+  "name": "Di Tian",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2484,7 +2484,7 @@
   "id": "di-tian"
  },
  {
-  "name": "Dongwoo NOH",
+  "name": "Dongwoo Noh",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2523,7 +2523,7 @@
   "id": "dongwoo-noh"
  },
  {
-  "name": "Emilio BISETTI",
+  "name": "Emilio Bisetti",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2562,7 +2562,7 @@
   "id": "emilio-bisetti"
  },
  {
-  "name": "Eyub YEGEN",
+  "name": "Eyub Yegen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2601,7 +2601,7 @@
   "id": "eyub-yegen"
  },
  {
-  "name": "Jun AOYAGI",
+  "name": "Jun Aoyagi",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2640,7 +2640,7 @@
   "id": "jun-aoyagi"
  },
  {
-  "name": "Maxim ALEKSEEV",
+  "name": "Maxim Alekseev",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2679,7 +2679,7 @@
   "id": "maxim-alekseev"
  },
  {
-  "name": "Xiaoliang WANG",
+  "name": "Xiaoliang Wang",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Finance",
@@ -2718,7 +2718,7 @@
   "id": "xiaoliang-wang"
  },
  {
-  "name": "Lancelot F JAMES",
+  "name": "Lancelot F James",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2760,7 +2760,7 @@
   "id": "lancelot-f-james"
  },
  {
-  "name": "Mike K P SO",
+  "name": "Mike K P So",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2799,7 +2799,7 @@
   "id": "mike-k-p-so"
  },
  {
-  "name": "Xinghua ZHENG",
+  "name": "Xinghua Zheng",
   "rank_std": "Professor",
   "title": "Professor, Lee Heng Fellow",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2839,7 +2839,7 @@
   "id": "xinghua-zheng"
  },
  {
-  "name": "Lucy L XIA",
+  "name": "Lucy L Xia",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2878,7 +2878,7 @@
   "id": "lucy-l-xia"
  },
  {
-  "name": "Xuhu WAN",
+  "name": "Xuhu Wan",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2918,7 +2918,7 @@
   "id": "xuhu-wan"
  },
  {
-  "name": "Carsten CHONG",
+  "name": "Carsten Chong",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor, Lee Heng Fellow",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -2960,7 +2960,7 @@
   "id": "carsten-chong"
  },
  {
-  "name": "James Y L THONG",
+  "name": "James Y L Thong",
   "rank_std": "Professor",
   "title": "Chair Professor, Michael Jebsen Professor of Business",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3000,7 +3000,7 @@
   "id": "james-y-l-thong"
  },
  {
-  "name": "Kai Lung HUI",
+  "name": "Kai Lung Hui",
   "rank_std": "Professor",
   "title": "Chair Professor, Elman Family Professor of Business, Associate Provost (Academic Development)",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3040,7 +3040,7 @@
   "id": "kai-lung-hui"
  },
  {
-  "name": "Kar Yan TAM",
+  "name": "Kar Yan Tam",
   "rank_std": "Professor",
   "title": "Chair Professor, Vice-President for Administration & Business",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3079,7 +3079,7 @@
   "id": "kar-yan-tam"
  },
  {
-  "name": "Yan XU",
+  "name": "Yan Xu",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3119,7 +3119,7 @@
   "id": "yan-xu"
  },
  {
-  "name": "Dongwon LEE",
+  "name": "Dongwon Lee",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3160,7 +3160,7 @@
   "id": "dongwon-lee"
  },
  {
-  "name": "Hong XU",
+  "name": "Hong Xu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3202,7 +3202,7 @@
   "id": "hong-xu"
  },
  {
-  "name": "Jing WANG",
+  "name": "Jing Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3242,7 +3242,7 @@
   "id": "jing-wang"
  },
  {
-  "name": "Rong ZHENG",
+  "name": "Rong Zheng",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3281,7 +3281,7 @@
   "id": "rong-zheng"
  },
  {
-  "name": "Tat Koon KOH",
+  "name": "Tat Koon Koh",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3323,7 +3323,7 @@
   "id": "tat-koon-koh"
  },
  {
-  "name": "Weiyin HONG",
+  "name": "Weiyin Hong",
   "rank_std": "Associate Professor",
   "title": "Deputy Head, Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3363,7 +3363,7 @@
   "id": "weiyin-hong"
  },
  {
-  "name": "Xiaojun ZHANG",
+  "name": "Xiaojun Zhang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3403,7 +3403,7 @@
   "id": "xiaojun-zhang"
  },
  {
-  "name": "Yanzhen CHEN",
+  "name": "Yanzhen Chen",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3442,7 +3442,7 @@
   "id": "yanzhen-chen"
  },
  {
-  "name": "Yi YANG",
+  "name": "Yi Yang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3481,7 +3481,7 @@
   "id": "yi-yang"
  },
  {
-  "name": "Carlos FERNÁNDEZ-LORÍA",
+  "name": "Carlos Fernández-Loría",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3520,7 +3520,7 @@
   "id": "carlos-fernandez-loria"
  },
  {
-  "name": "Chaofan ZHAI",
+  "name": "Chaofan Zhai",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3559,7 +3559,7 @@
   "id": "chaofan-zhai"
  },
  {
-  "name": "Miaozhe HAN",
+  "name": "Miaozhe Han",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3599,7 +3599,7 @@
   "id": "miaozhe-han"
  },
  {
-  "name": "Wangsheng ZHU",
+  "name": "Wangsheng Zhu",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3639,7 +3639,7 @@
   "id": "wangsheng-zhu"
  },
  {
-  "name": "Zhitao YIN",
+  "name": "Zhitao Yin",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3681,7 +3681,7 @@
   "id": "zhitao-yin"
  },
  {
-  "name": "Albert Y HA",
+  "name": "Albert Y Ha",
   "rank_std": "Professor",
   "title": "Chair Professor, Wei Lun Foundation Professor of Business",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3721,7 +3721,7 @@
   "id": "albert-y-ha"
  },
  {
-  "name": "Hongtao ZHANG",
+  "name": "Hongtao Zhang",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3760,7 +3760,7 @@
   "id": "hongtao-zhang"
  },
  {
-  "name": "Man YU",
+  "name": "Man Yu",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3801,7 +3801,7 @@
   "id": "man-yu"
  },
  {
-  "name": "Qing LI",
+  "name": "Qing Li",
   "rank_std": "Professor",
   "title": "Head, Professor, Lee Heng Fellow",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3841,7 +3841,7 @@
   "id": "qing-li"
  },
  {
-  "name": "Shaohui ZHENG",
+  "name": "Shaohui Zheng",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3882,7 +3882,7 @@
   "id": "shaohui-zheng"
  },
  {
-  "name": "Ying Ju CHEN",
+  "name": "Ying Ju Chen",
   "rank_std": "Professor",
   "title": "Chair Professor, Crown Worldwide Professor of Business",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3923,7 +3923,7 @@
   "id": "ying-ju-chen"
  },
  {
-  "name": "Dongwook SHIN",
+  "name": "Dongwook Shin",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -3965,7 +3965,7 @@
   "id": "dongwook-shin"
  },
  {
-  "name": "Ki Ling CHEUNG",
+  "name": "Ki Ling Cheung",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -4005,7 +4005,7 @@
   "id": "ki-ling-cheung"
  },
  {
-  "name": "Lijian LU",
+  "name": "Lijian Lu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -4047,7 +4047,7 @@
   "id": "lijian-lu"
  },
  {
-  "name": "Xuan WANG",
+  "name": "Xuan Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -4086,7 +4086,7 @@
   "id": "xuan-wang"
  },
  {
-  "name": "Guodong LYU",
+  "name": "Guodong Lyu",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -4126,7 +4126,7 @@
   "id": "guodong-lyu"
  },
  {
-  "name": "Yiwen SHEN",
+  "name": "Yiwen Shen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Information Systems, Business Statistics and Operations Management",
@@ -4168,7 +4168,7 @@
   "id": "yiwen-shen"
  },
  {
-  "name": "Ellick K.F. WONG",
+  "name": "Ellick K.f. Wong",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Department of Management",
@@ -4207,7 +4207,7 @@
   "id": "ellick-k-f-wong"
  },
  {
-  "name": "Frederik ANSEEL",
+  "name": "Frederik Anseel",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Management",
@@ -4247,7 +4247,7 @@
   "id": "frederik-anseel"
  },
  {
-  "name": "J.T. LI",
+  "name": "J.t. Li",
   "rank_std": "Professor",
   "title": "Lee Quo Wei Professor of Business, Chair Professor",
   "unit": "Department of Management",
@@ -4289,7 +4289,7 @@
   "id": "j-t-li"
  },
  {
-  "name": "Yaping GONG",
+  "name": "Yaping Gong",
   "rank_std": "Professor",
   "title": "Fung Term Professor of Management, Chair Professor",
   "unit": "Department of Management",
@@ -4331,7 +4331,7 @@
   "id": "yaping-gong"
  },
  {
-  "name": "Bilian (Belaine) Ni SULLIVAN",
+  "name": "Bilian (Belaine) Ni Sullivan",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Management",
@@ -4370,7 +4370,7 @@
   "id": "bilian-belaine-ni-sullivan"
  },
  {
-  "name": "Danqing WANG",
+  "name": "Danqing Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Management",
@@ -4409,7 +4409,7 @@
   "id": "danqing-wang"
  },
  {
-  "name": "Melody CHAO",
+  "name": "Melody Chao",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Management",
@@ -4448,7 +4448,7 @@
   "id": "melody-chao"
  },
  {
-  "name": "Pavel I. ZHELYAZKOV",
+  "name": "Pavel I. Zhelyazkov",
   "rank_std": "Associate Professor",
   "title": "Dr. Chung Sze-Yuen Associate Professor of Business, Associate Head",
   "unit": "Department of Management",
@@ -4488,7 +4488,7 @@
   "id": "pavel-i-zhelyazkov"
  },
  {
-  "name": "Yanfeng ZHENG",
+  "name": "Yanfeng Zheng",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Management",
@@ -4528,7 +4528,7 @@
   "id": "yanfeng-zheng"
  },
  {
-  "name": "David HAGMANN",
+  "name": "David Hagmann",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4567,7 +4567,7 @@
   "id": "david-hagmann"
  },
  {
-  "name": "Eunyoung PARK",
+  "name": "Eunyoung Park",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4607,7 +4607,7 @@
   "id": "eunyoung-park"
  },
  {
-  "name": "Jaeho CHOI",
+  "name": "Jaeho Choi",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4646,7 +4646,7 @@
   "id": "jaeho-choi"
  },
  {
-  "name": "Jingjing MA",
+  "name": "Jingjing Ma",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4686,7 +4686,7 @@
   "id": "jingjing-ma"
  },
  {
-  "name": "Martha JEONG",
+  "name": "Martha Jeong",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4725,7 +4725,7 @@
   "id": "martha-jeong"
  },
  {
-  "name": "Siyin CHEN",
+  "name": "Siyin Chen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4764,7 +4764,7 @@
   "id": "siyin-chen"
  },
  {
-  "name": "Subrina SHEN",
+  "name": "Subrina Shen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4806,7 +4806,7 @@
   "id": "subrina-shen"
  },
  {
-  "name": "T. Bradford BITTERLY",
+  "name": "T. Bradford Bitterly",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4846,7 +4846,7 @@
   "id": "t-bradford-bitterly"
  },
  {
-  "name": "Trevor SPELMAN",
+  "name": "Trevor Spelman",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4885,7 +4885,7 @@
   "id": "trevor-spelman"
  },
  {
-  "name": "Wei Jee ONG",
+  "name": "Wei Jee Ong",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4925,7 +4925,7 @@
   "id": "wei-jee-ong"
  },
  {
-  "name": "Ying LI",
+  "name": "Ying Li",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -4964,7 +4964,7 @@
   "id": "ying-li"
  },
  {
-  "name": "Ying LIN",
+  "name": "Ying Lin",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -5004,7 +5004,7 @@
   "id": "ying-lin"
  },
  {
-  "name": "Zachariah BROWN",
+  "name": "Zachariah Brown",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Management",
@@ -5043,7 +5043,7 @@
   "id": "zachariah-brown"
  },
  {
-  "name": "Jaideep SENGUPTA",
+  "name": "Jaideep Sengupta",
   "rank_std": "Professor",
   "title": "Chair Professor, Synergis-Geoffrey YEH Professor of Business",
   "unit": "Department of Marketing",
@@ -5082,7 +5082,7 @@
   "id": "jaideep-sengupta"
  },
  {
-  "name": "Jiewen HONG",
+  "name": "Jiewen Hong",
   "rank_std": "Professor",
   "title": "Head, Professor",
   "unit": "Department of Marketing",
@@ -5121,7 +5121,7 @@
   "id": "jiewen-hong"
  },
  {
-  "name": "Mengze SHI",
+  "name": "Mengze Shi",
   "rank_std": "Professor",
   "title": "Chair Professor, Yuk-Shee Chan Professor of Business",
   "unit": "Department of Marketing",
@@ -5160,7 +5160,7 @@
   "id": "mengze-shi"
  },
  {
-  "name": "Ralf VAN DER LANS",
+  "name": "Ralf Van Der Lans",
   "rank_std": "Professor",
   "title": "Chair Professor",
   "unit": "Department of Marketing",
@@ -5199,7 +5199,7 @@
   "id": "ralf-van-der-lans"
  },
  {
-  "name": "Amy DALTON",
+  "name": "Amy Dalton",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5238,7 +5238,7 @@
   "id": "amy-dalton"
  },
  {
-  "name": "Jia LIU",
+  "name": "Jia Liu",
   "rank_std": "Associate Professor",
   "title": "Associate Professor, Lee Heng Fellow",
   "unit": "Department of Marketing",
@@ -5277,7 +5277,7 @@
   "id": "jia-liu"
  },
  {
-  "name": "Rongrong ZHOU",
+  "name": "Rongrong Zhou",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5316,7 +5316,7 @@
   "id": "rongrong-zhou"
  },
  {
-  "name": "Song LIN",
+  "name": "Song Lin",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5355,7 +5355,7 @@
   "id": "song-lin"
  },
  {
-  "name": "Wenbo WANG",
+  "name": "Wenbo Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5394,7 +5394,7 @@
   "id": "wenbo-wang"
  },
  {
-  "name": "Ying ZHAO",
+  "name": "Ying Zhao",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5433,7 +5433,7 @@
   "id": "ying-zhao"
  },
  {
-  "name": "Zijun (June) SHI",
+  "name": "Zijun (June) Shi",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Department of Marketing",
@@ -5472,7 +5472,7 @@
   "id": "zijun-june-shi"
  },
  {
-  "name": "Eva BUECHEL",
+  "name": "Eva Buechel",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Marketing",
@@ -5511,7 +5511,7 @@
   "id": "eva-buechel"
  },
  {
-  "name": "Francesco GABRIELE",
+  "name": "Francesco Gabriele",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Marketing",
@@ -5550,7 +5550,7 @@
   "id": "francesco-gabriele"
  },
  {
-  "name": "Han Young JUNG",
+  "name": "Han Young Jung",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Marketing",
@@ -5589,7 +5589,7 @@
   "id": "han-young-jung"
  },
  {
-  "name": "Qihui CHEN",
+  "name": "Qihui Chen",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Marketing",
@@ -5628,7 +5628,7 @@
   "id": "qihui-chen"
  },
  {
-  "name": "Sang Kyu PARK",
+  "name": "Sang Kyu Park",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor, Lee Heng Fellow",
   "unit": "Department of Marketing",
@@ -5667,7 +5667,7 @@
   "id": "sang-kyu-park"
  },
  {
-  "name": "Tianyu HAN",
+  "name": "Tianyu Han",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Department of Marketing",
@@ -5706,7 +5706,7 @@
   "id": "tianyu-han"
  },
  {
-  "name": "Masaru YARIME",
+  "name": "Masaru Yarime",
   "rank_std": "Associate Professor",
   "title": "Associate Professor; Division of Public Policy; Division of Environment and Sustainability; PG Programs Coordinator (Public Policy)",
   "unit": "Division of Public Policy",
@@ -5746,7 +5746,7 @@
   "id": "masaru-yarime"
  },
  {
-  "name": "Carsten A. HOLZ",
+  "name": "Carsten A. Holz",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "Division of Social Science",
@@ -5785,7 +5785,7 @@
   "id": "carsten-a-holz"
  },
  {
-  "name": "Jin WANG",
+  "name": "Jin Wang",
   "rank_std": "Associate Professor",
   "title": "Associate Professor; RPG Programs Coordinator (Social Science)",
   "unit": "Division of Social Science",
@@ -5824,7 +5824,7 @@
   "id": "jin-wang"
  },
  {
-  "name": "Sangyoon PARK",
+  "name": "Sangyoon Park",
   "rank_std": "Associate Professor",
   "title": "Associate Professor",
   "unit": "Division of Social Science",
@@ -5863,7 +5863,7 @@
   "id": "sangyoon-park"
  },
  {
-  "name": "Jinlin WEI",
+  "name": "Jinlin Wei",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Division of Social Science",
@@ -5902,7 +5902,7 @@
   "id": "jinlin-wei"
  },
  {
-  "name": "Wen WANG",
+  "name": "Wen Wang",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Division of Social Science",
@@ -5942,7 +5942,7 @@
   "id": "wen-wang"
  },
  {
-  "name": "Yu-Hsiang LEI",
+  "name": "Yu-Hsiang Lei",
   "rank_std": "Assistant Professor",
   "title": "Assistant Professor",
   "unit": "Division of Social Science",
