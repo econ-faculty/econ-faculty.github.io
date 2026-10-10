@@ -12,6 +12,11 @@
     ag_resource_econ: "Agricultural & Resource Econ", environment: "Environment", law: "Law", public_health: "Public Health", other: "Other" };
   const U = D.universities;
   const P = D.people.map((r) => Object.fromEntries(D.cols.map((c, i) => [c, r[i]])));
+  const SUFFIX = /^(jr\.?|sr\.?|ii|iii|iv)$/i;
+  for (const p of P) {
+    const toks = p.name.replace(/\(.*?\)|".*?"/g, " ").split(/\s+/).filter((t) => t && !SUFFIX.test(t.replace(/,$/, "")));
+    p.sur = (toks[toks.length - 1] || p.name).normalize("NFD").replace(/[̀-ͯ]/g, "");
+  }
   const BYID = new Map(P.map((p) => [p.id, p]));
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const opt = (v, label, sel) => `<option value="${esc(v)}" ${String(sel) === String(v) ? "selected" : ""}>${esc(label)}</option>`;
@@ -59,7 +64,7 @@
   const S = {};
   function readS(q) {
     S.q = q.get("q") || ""; S.region = q.get("region") || ""; S.country = q.get("country") || ""; S.uni = q.get("uni") || "";
-    S.ut = q.get("ut") || ""; S.pf = q.get("field") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1);
+    S.ut = q.get("ut") || ""; S.pf = q.get("field") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1); S.sort = q.get("sort") || "";
     S.fields = (q.get("f") || "").split(",").filter((x) => x !== "").map(Number);
   }
   function match(p, ign) {
@@ -82,7 +87,7 @@
   }
   function renderPeople(q) {
     readS(q);
-    const list = P.filter((p) => match(p)).sort((a, b) => a.uni - b.uni || a.unit_type - b.unit_type || a.unit.localeCompare(b.unit) || a.rank - b.rank || a.name.localeCompare(b.name));
+    const list = P.filter((p) => match(p)).sort(S.sort === "first" ? ((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" })) : ((a, b) => a.sur.localeCompare(b.sur, "en", { sensitivity: "base" }) || a.name.localeCompare(b.name, "en", { sensitivity: "base" })));
     const pages = Math.max(1, Math.ceil(list.length / CONFIG.pageSize));
     S.page = Math.min(Math.max(1, S.page), pages);
     const shown = list.slice((S.page - 1) * CONFIG.pageSize, S.page * CONFIG.pageSize);
@@ -122,6 +127,7 @@
           <select id="ut"><option value="">All unit types</option>${D.unit_types.map((t, i) => opt(i, `${UT_LABEL[t]} (${count((p) => p.unit_type === i && match(p, "ut"))})`, S.ut)).join("")}</select>
           <select id="field"><option value="">All fields</option>${fieldOpts}</select>
           <select id="rank"><option value="">All ranks</option>${D.ranks.map((r, i) => opt(i, `${r} (${count((p) => p.rank === i && match(p, "rank"))})`, S.rank)).join("")}</select>
+          <select id="sort">${opt("", "Sort: last name A–Z", S.sort)}${opt("first", "Sort: first name A–Z", S.sort)}</select>
           <button class="btn" id="reset" type="button">Reset</button>
         </div>
         <div class="row"><span class="lbl">Topics</span>
@@ -142,10 +148,10 @@
         </tbody></table></section>
       ${pages > 1 ? `<div class="pager">${S.page > 1 ? `<button class="btn" data-pg="${S.page - 1}">← Prev</button>` : ""}<span class="small">Page ${S.page} / ${pages}</span>${S.page < pages ? `<button class="btn" data-pg="${S.page + 1}">Next →</button>` : ""}</div>` : ""}`;
 
-    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, field: S.pf, rank: S.rank, f: S.fields, p: page > 1 ? page : "" });
+    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, field: S.pf, rank: S.rank, f: S.fields, sort: S.sort, p: page > 1 ? page : "" });
     const rer = (page = 1) => { push(page); renderPeople(route().q); };
     bindSearch("q", (v) => { S.q = v; rer(); });
-    for (const k of ["region", "country", "uni", "ut", "field", "rank"]) document.getElementById(k).onchange = (e) => {
+    for (const k of ["region", "country", "uni", "ut", "field", "rank", "sort"]) document.getElementById(k).onchange = (e) => {
       S[k === "field" ? "pf" : k] = e.target.value;
       if (k === "region") { S.country = ""; S.uni = ""; } if (k === "country") S.uni = ""; if (k === "ut") S.pf = "";
       rer();
