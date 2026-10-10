@@ -31,7 +31,11 @@ FIELD_GROUP = {f: ("Economics" if i < 21 else "Business" if i < 35 else "Other")
 KEEP = ["name", "rank_std", "title", "unit", "unit_type", "area", "other_units", "fields_raw", "fields_std",
         "phd_institution", "phd_year", "phd_field", "ma_institution", "ma_year", "ma_field",
         "ba_institution", "ba_year", "ba_field", "education_raw", "homepage_url", "profile_url", "cv_url",
-        "google_scholar_url", "orcid", "year_joined", "source_url", "notes"]
+        "google_scholar_url", "orcid", "year_joined", "source_url", "notes",
+        "ba_country", "phd_advisors", "first_job_after_phd", "prior_positions", "year_current_rank", "cv_date", "detail_source"]
+ENRICH_KEYS = ["ba_institution", "ba_year", "ba_field", "ba_country", "ma_institution", "ma_year", "ma_field",
+               "phd_institution", "phd_year", "phd_field", "phd_advisors", "first_job_after_phd", "prior_positions",
+               "year_joined", "year_current_rank", "homepage_url", "cv_url", "google_scholar_url", "orcid", "fields_raw", "cv_date"]
 
 warnings = []
 
@@ -198,6 +202,13 @@ def do_import(raw_dir):
                 warnings.append(f"{os.path.basename(f)}: unknown university '{r.get('university')}'")
                 continue
             buckets[uid].append(r)
+    # detailed CV-level enrichment: raw/enrich/<batch>.json, matched by id or normalized name
+    enrich = {}
+    for f in sorted(glob.glob(os.path.join(raw_dir, "enrich", "*.json"))):
+        if os.path.basename(f).startswith("_"):
+            continue
+        for e in json.load(open(f, encoding="utf-8")):
+            enrich[norm(e.get("name"))] = e
     os.makedirs(os.path.join(DATA, "faculty"), exist_ok=True)
     for uid, recs in buckets.items():
         if not recs:
@@ -226,6 +237,16 @@ def do_import(raw_dir):
                         prev[k] = v
                 continue
             rec["id"] = slug(rec["name"])
+            e = enrich.get(key)
+            if e:
+                for k in ENRICH_KEYS:
+                    if e.get(k) not in (None, "", []):
+                        rec[k] = e[k]
+                for k in ("phd_year", "ba_year", "year_joined", "year_current_rank"):
+                    rec[k] = year(rec.get(k))
+                rec["detail_source"] = e.get("source")
+                if e.get("notes"):
+                    rec["notes"] = "; ".join(x for x in [rec.get("notes"), e["notes"]] if x)
             seen[key] = len(out)
             out.append(rec)
         out.sort(key=lambda r: (UNIT_TYPES.index(r["unit_type"]), r.get("unit") or "", r.get("area") or "", RANKS.index(r["rank_std"]), r["name"]))

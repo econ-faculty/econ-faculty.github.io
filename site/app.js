@@ -187,16 +187,19 @@
             <section class="box"><h3>Education</h3>
               ${edu.length ? `<ul class="timeline">${edu.map(([d, s, y, f]) => `<li><span class="deg">${d}</span><span class="yr">${y || ""}</span><span class="fd">${esc(s)}${f ? " · " + esc(f) : ""}</span></li>`).join("")}</ul>` : `<p class="small">Not yet available.</p>`}
               ${r.education_raw && !edu.length ? `<p class="small">${esc(r.education_raw)}</p>` : ""}
+              ${r.phd_advisors ? `<p class="small" style="margin-top:6px">PhD advisor(s) / committee: ${esc(r.phd_advisors)}</p>` : ""}
             </section>
             <section class="box"><h3>Appointment</h3><dl class="kv">
-              ${kv("Title", r.title)}${kv("Unit", r.unit)}${kv("Area", r.area)}${kv("Also in", r.other_units)}${kv("Joined", r.year_joined)}
-            </dl></section>
+              ${kv("Title", r.title)}${kv("Unit", r.unit)}${kv("Area", r.area)}${kv("Also in", r.other_units)}${kv("Joined", r.year_joined)}${kv("Current rank since", r.year_current_rank)}${kv("First job after PhD", r.first_job_after_phd)}
+            </dl>
+            ${r.prior_positions ? `<h3 style="margin-top:12px">Career</h3><ul class="career">${String(r.prior_positions).split(";").filter((x) => x.trim()).map((x) => `<li>${esc(x.trim())}</li>`).join("")}</ul>` : ""}
+            </section>
           </div>
           <div>
             <section class="box"><h3>Research fields</h3>
               ${r.fields_raw ? `<p>${esc(r.fields_raw)}</p>` : `<p class="small">Not listed.</p>`}</section>
             <section class="box"><h3>Publications &amp; working papers</h3><div class="coming">Coming soon.</div></section>
-            <section class="box"><h3>Source</h3><p class="small">${r.source_url ? link(r.source_url, "University directory") + " · " : ""}${r.notes ? esc(r.notes) + " · " : ""}
+            <section class="box"><h3>Source</h3><p class="small">${r.source_url ? link(r.source_url, "University directory") + " · " : ""}${r.detail_source ? "Details from " + esc(r.detail_source) + (r.cv_date ? " (" + esc(r.cv_date) + ")" : "") + " · " : ""}${r.notes ? esc(r.notes) + " · " : ""}
               <a href="${CONFIG.repoUrl}/edit/main/data/faculty/${u.id}.json" target="_blank" rel="noopener">Suggest a correction</a></p></section>
           </div>
         </div>`;
