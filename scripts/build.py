@@ -171,6 +171,8 @@ ROMAN = {"II", "III", "IV", "JR", "SR"}
 
 
 def _is_caps(t):
+    if "." in t:  # initials like 'Y.C.' stay as they are
+        return False
     core = re.sub(r"[^A-Za-z]", "", t)
     return len(core) >= 2 and core.isupper() and core.upper() not in ROMAN
 

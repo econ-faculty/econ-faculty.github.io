@@ -1200,46 +1200,6 @@
   "id": "juan-pantano"
  },
  {
-  "name": "Richard Wong Y.c.",
-  "rank_std": "Professor",
-  "title": "Provost and Deputy Vice-Chancellor; Chair of Economics; Director, Hong Kong Institute of Economics and Business Strategy; Philip Wong Kennedy Wong Professor in Political Economy",
-  "unit": "HKU Business School",
-  "unit_type": "business",
-  "area": "Economics",
-  "other_units": null,
-  "fields_raw": "Economics of Human Resources; Economics of Housing and Land; Economic Policy and Reform",
-  "fields_std": [
-   "Organizational Behavior",
-   "Real Estate"
-  ],
-  "phd_institution": "University of Chicago",
-  "phd_year": null,
-  "phd_field": "A.M",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
-  "education_raw": "Ph.D., A.M., A.B., University of Chicago",
-  "homepage_url": "http://wangyujian.hku.hk",
-  "profile_url": "https://www.hkubs.hku.hk/people/y-c-richard-wong/",
-  "cv_url": null,
-  "google_scholar_url": null,
-  "orcid": null,
-  "year_joined": null,
-  "source_url": "https://www.hkubs.hku.hk/people/faculty/?track=professoriate",
-  "notes": "Area of Economics, HKU Business School",
-  "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
-  "cv_date": null,
-  "detail_source": null,
-  "id": "richard-wong-y-c"
- },
- {
   "name": "Uta Schӧnberg",
   "rank_std": "Professor",
   "title": "The Hong Kong Jockey Club Professor in Economics; Chair of Economics; Co-Director of the James M. and Cathleen D. Stone Center on Socio-Economic Inequality in Asia",
@@ -1393,6 +1353,46 @@
   "cv_date": null,
   "detail_source": null,
   "id": "xin-tong"
+ },
+ {
+  "name": "Y.C. Richard Wong",
+  "rank_std": "Professor",
+  "title": "Provost and Deputy Vice-Chancellor; Chair of Economics; Director, Hong Kong Institute of Economics and Business Strategy; Philip Wong Kennedy Wong Professor in Political Economy",
+  "unit": "HKU Business School",
+  "unit_type": "business",
+  "area": "Economics",
+  "other_units": null,
+  "fields_raw": "Economics of Human Resources; Economics of Housing and Land; Economic Policy and Reform",
+  "fields_std": [
+   "Organizational Behavior",
+   "Real Estate"
+  ],
+  "phd_institution": "University of Chicago",
+  "phd_year": null,
+  "phd_field": "A.M",
+  "ma_institution": null,
+  "ma_year": null,
+  "ma_field": null,
+  "ba_institution": null,
+  "ba_year": null,
+  "ba_field": null,
+  "education_raw": "Ph.D., A.M., A.B., University of Chicago",
+  "homepage_url": "http://wangyujian.hku.hk",
+  "profile_url": "https://www.hkubs.hku.hk/people/y-c-richard-wong/",
+  "cv_url": null,
+  "google_scholar_url": null,
+  "orcid": null,
+  "year_joined": null,
+  "source_url": "https://www.hkubs.hku.hk/people/faculty/?track=professoriate",
+  "notes": "Area of Economics, HKU Business School",
+  "ba_country": null,
+  "phd_advisors": null,
+  "first_job_after_phd": null,
+  "prior_positions": null,
+  "year_current_rank": null,
+  "cv_date": null,
+  "detail_source": null,
+  "id": "y-c-richard-wong"
  },
  {
   "name": "Yanhui Wu",
@@ -2915,7 +2915,7 @@
   "id": "hong-zou"
  },
  {
-  "name": "Keith K.p. Wong",
+  "name": "Keith K.P. Wong",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "HKU Business School",
@@ -3921,7 +3921,7 @@
   "id": "haipeng-shen"
  },
  {
-  "name": "Michael C.l. Chau",
+  "name": "Michael C.L. Chau",
   "rank_std": "Professor",
   "title": "Professor; MAIB Programme Director",
   "unit": "HKU Business School",
@@ -5215,7 +5215,7 @@
   "id": "kevin-zheng-zhou"
  },
  {
-  "name": "Simon S.k. Lam",
+  "name": "Simon S.K. Lam",
   "rank_std": "Professor",
   "title": "Professor of Management and Strategy",
   "unit": "HKU Business School",
@@ -5256,7 +5256,7 @@
   "id": "simon-s-k-lam"
  },
  {
-  "name": "Thomas W.h. Ng",
+  "name": "Thomas W.H. Ng",
   "rank_std": "Professor",
   "title": "Professor",
   "unit": "HKU Business School",
