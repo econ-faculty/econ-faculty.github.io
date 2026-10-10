@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Econ Faculty — A Global Directory of Economics &amp; Business Faculty</title>
+<meta name="description" content="An open, searchable directory of tenure-line faculty in economics and business at leading universities worldwide: fields, education, and (soon) publications.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#/">
+      <span class="logo" aria-hidden="true">EF</span>
+      <span>
+        <span class="t1">Econ Faculty</span>
+        <span class="t2">A global directory of economics &amp; business faculty</span>
+      </span>
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#/" data-view="people">People</a>
+      <a href="#/institutions" data-view="institutions">Institutions</a>
+      <a href="#/fields" data-view="fields">Fields</a>
+      <a href="#/about" data-view="about">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="app" aria-live="polite"></main>
+
+<footer class="wrap footer">
+  <p>Data updated <span id="generated"></span> ·
+    <a id="repo-link" href="#" target="_blank" rel="noopener">Contribute or report a correction on GitHub</a> ·
+    Compiled from public university directories and personal websites.</p>
+  <p class="muted">Faculty may request corrections or removal by opening an issue. No emails or tracking.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
