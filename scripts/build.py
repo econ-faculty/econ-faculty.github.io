@@ -35,7 +35,8 @@ KEEP = ["name", "rank_std", "title", "unit", "unit_type", "area", "other_units",
         "ba_country", "phd_advisors", "first_job_after_phd", "prior_positions", "year_current_rank", "cv_date", "detail_source"]
 ENRICH_KEYS = ["ba_institution", "ba_year", "ba_field", "ba_country", "ma_institution", "ma_year", "ma_field",
                "phd_institution", "phd_year", "phd_field", "phd_advisors", "first_job_after_phd", "prior_positions",
-               "year_joined", "year_current_rank", "homepage_url", "cv_url", "google_scholar_url", "orcid", "fields_raw", "cv_date"]
+               "year_joined", "year_current_rank", "homepage_url", "cv_url", "google_scholar_url", "orcid", "fields_raw", "cv_date",
+               "fields_std"]
 
 warnings = []
 
@@ -91,7 +92,7 @@ POLICY_SUB = [
     (r"health|education|labor|labour|social|inequality|welfare", "Social Policy"),
     (r"management|organi[sz]ation|behavior|negotiation|leadership|decision|psycholog", "Public Management & Behavior"),
 ]
-FIELD_ORDER = ["Economics", "Finance", "Accounting", "Marketing", "Management", "Operations & IS", "Business Economics",
+FIELD_ORDER = ["Economics", "Finance", "Accounting", "Marketing", "Management", "Operations & IS",
                "Real Estate", "Health Care Management", "Business Law & Ethics", "Statistics & Data Science",
                "Public Policy", "Law", "Public Health"]
 
@@ -120,14 +121,9 @@ def primary_field(r):
     text = f"{fs} ; {raw}"
     if ut == "business":
         top = first(BIZ_TOP, area) or first(BIZ_TOP, fs) or "Management"
-        if top == "Business Economics":
+        if top == "Business Economics":  # economists in business schools use the Economics fields
             sub = econ_sub(r)
-            coarse = {"Microeconomic Theory": "Microeconomics & IO", "Industrial Organization": "Microeconomics & IO",
-                      "Behavioral & Experimental": "Microeconomics & IO", "Law & Economics": "Microeconomics & IO",
-                      "Macro & Monetary": "Macro & International", "International": "Macro & International",
-                      "Financial Economics": "Macro & International", "Political Economy": "Political Economy",
-                      "Economic History": "Political Economy", "Econometrics": "Econometrics & Statistics"}
-            return "Business Economics: " + (coarse.get(sub, "Applied Microeconomics") if sub else "General")
+            return f"Economics: {sub}" if sub else "Economics: General"
         if top in BIZ_SUB:
             sub = first(BIZ_SUB[top], f"{fs} ; {raw} ; {area}")
             return f"{top}: {sub or 'General'}"
@@ -144,6 +140,58 @@ def primary_field(r):
     if ut == "ag_resource_econ" and (not sub or sub in ("Microeconomic Theory", "Econometrics")):
         sub = sub or "Environment, Energy & Agriculture"
     return f"Economics: {sub}" if sub else "Economics: General"
+
+
+BIZ_FIELD = {
+    "Asset Pricing": "Finance: Asset Pricing", "Corporate Finance": "Finance: Corporate Finance",
+    "Banking & Financial Intermediation": "Finance: Banking & Intermediation", "Accounting": "Accounting",
+    "Strategy": "Management: Strategy", "Organizational Behavior": "Management: Organizational Behavior",
+    "Management & Organizations": "Management: Organizations",
+    "Entrepreneurship & Innovation": "Management: Entrepreneurship & Innovation",
+    "Operations Management": "Operations & IS: Operations Management",
+    "Information Systems": "Operations & IS: Information Systems", "Real Estate": "Real Estate",
+    "Business Ethics & Society": "Business Law & Ethics",
+}
+
+
+def field_labels(r, k=3):
+    """Up to k site field labels ('Group: Sub'), from the person's own ordered fields_std, mapped by school type.
+    Economics topics -> 'Economics: ...' everywhere (incl. business-school economists)."""
+    ut = r.get("unit_type") or "other"
+    area = (r.get("area") or "").lower()
+    raw = (r.get("fields_raw") or "").lower()
+    labels = []
+    if ut in ("public_policy", "law", "public_health"):
+        labels.append(primary_field(r))
+    elif ut == "business":
+        base = primary_field(r)  # the area the person is appointed in (Finance, Marketing, ...)
+        if not base.startswith("Economics"):
+            labels.append(base)
+    for f in r.get("fields_std") or []:
+        lab = None
+        if f in BIZ_FIELD:
+            lab = BIZ_FIELD[f]
+        elif f == "Marketing":
+            lab = "Marketing: " + (first(BIZ_SUB["Marketing"], raw + " ; " + area) or "General")
+        elif f == "Data Science & Analytics":
+            lab = "Statistics & Data Science" if re.search(r"statistic", area) else "Operations & IS: Decision Sciences & Analytics"
+        elif f == "Financial Economics":
+            lab = "Finance: General" if (ut == "business" and re.search(r"financ", area)) else "Economics: Financial Economics"
+        elif f == "Public Policy":
+            lab = "Public Policy: " + (first(POLICY_SUB, raw) or "Economic Policy")
+        elif f == "Law & Economics":
+            lab = "Law: Law & Economics" if ut == "law" else "Economics: Law & Economics"
+        elif f != "Other":
+            sub = first(ECON_SUB, f.lower())
+            lab = f"Economics: {sub}" if sub else None
+        if lab and lab not in labels:
+            labels.append(lab)
+    if not labels:
+        labels.append(primary_field(r))
+    # drop 'X: General' when a specific sub-field of the same group is present
+    groups_specific = {l.split(":")[0] for l in labels if ":" in l and not l.endswith(": General")}
+    labels = [l for l in labels if not (l.endswith(": General") and l.split(":")[0] in groups_specific)]
+    return labels[:k]
 
 
 def norm(s):
@@ -317,15 +365,16 @@ def build(check):
                 warnings.append(f"{u['id']}: {r.get('name')}: bad rank")
                 continue
             fs = [FIELDS.index(x) for x in r.get("fields_std") or [] if x in FIELDS]
-            pf = primary_field(r)
-            if pf not in pf_list:
-                pf_list.append(pf)
+            pf = field_labels(r)
+            for x in pf:
+                if x not in pf_list:
+                    pf_list.append(x)
             people.append([pid, r["name"], RANKS.index(r["rank_std"]), uidx[u["id"]], r.get("unit") or "",
                            UNIT_TYPES.index(r.get("unit_type") if r.get("unit_type") in UNIT_TYPES else "other"),
                            r.get("area") or "", fs, r.get("phd_institution") or "", r.get("phd_year") or 0,
                            1 if r.get("homepage_url") else 0, pf])
             detail[pid] = {k: v for k, v in r.items() if v not in (None, "", [])}
-            detail[pid]["field"] = pf
+            detail[pid]["fields"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
         u["by_unit_type"] = dict(cnt)
@@ -334,7 +383,7 @@ def build(check):
     pf_list.sort(key=lambda x: (FIELD_ORDER.index(x.split(":")[0]) if x.split(":")[0] in FIELD_ORDER else 99, x))
     pfi = {x: i for i, x in enumerate(pf_list)}
     for row in people:
-        row[11] = pfi[row[11]]
+        row[11] = [pfi[x] for x in row[11]]
     out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "universities": unis, "ranks": RANKS,
            "unit_types": UNIT_TYPES, "fields": FIELDS, "field_group": [FIELD_GROUP[f] for f in FIELDS],
            "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield"],
