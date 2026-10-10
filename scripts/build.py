@@ -183,7 +183,7 @@ def fix_name(name):
     """Unify to 'Given Surname' with only initial capitals.
     'LIN Shu' -> 'Shu Lin'; 'SONG Zheng, Michael' -> 'Michael Zheng Song'; 'Albert PARK' -> 'Albert Park'."""
     name = re.sub(r"\s+", " ", (name or "").strip())
-    name = re.sub(r",?\s*(SBS|JP|BBS|MH|GBS|OBE|CBE|MBE|FBA|FRS)\.?", "", name).strip(" ,")  # honorifics
+    name = re.sub(r",?\s*\b(SBS|JP|BBS|MH|GBS|OBE|CBE|MBE|FBA|FRS)\b\.?", "", name).strip(" ,")  # honorifics
     english = ""
     if "," in name:
         name, english = [x.strip() for x in name.split(",", 1)]
