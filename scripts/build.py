@@ -35,6 +35,112 @@ KEEP = ["name", "rank_std", "title", "unit", "unit_type", "area", "other_units",
 
 warnings = []
 
+# ---------------------------------------------------------------- primary field ("Group: Sub") per unit type
+ECON_SUB = [  # (field_std or keyword regex, label) — first match wins
+    (r"microeconomic theory|game theory|mechanism design|contract theory|decision theory|social choice|matching", "Microeconomic Theory"),
+    (r"macroeconomics|monetary|business cycle|growth", "Macro & Monetary"),
+    (r"econometrics|statistic", "Econometrics"),
+    (r"labor|labour|migration|personnel", "Labor"),
+    (r"public economics|public finance|taxation|fiscal", "Public"),
+    (r"industrial organization|competition|antitrust|regulation", "Industrial Organization"),
+    (r"international trade|international finance|international", "International"),
+    (r"development", "Development"),
+    (r"health", "Health"),
+    (r"education", "Education"),
+    (r"environment|energy|climate|agricultur|resource", "Environment, Energy & Agriculture"),
+    (r"urban|regional|spatial|real estate|housing", "Urban & Regional"),
+    (r"economic history|history", "Economic History"),
+    (r"political economy|politic", "Political Economy"),
+    (r"behavioral|experimental|psycholog", "Behavioral & Experimental"),
+    (r"financial economics|finance|asset pricing|corporate finance|banking", "Financial Economics"),
+    (r"law", "Law & Economics"),
+]
+BIZ_TOP = [  # (area/raw regex, group)
+    (r"financ|banking|investment", "Finance"),
+    (r"account", "Accounting"),
+    (r"marketing", "Marketing"),
+    (r"real estate", "Real Estate"),
+    (r"health care|healthcare|health policy", "Health Care Management"),
+    (r"legal|law|ethic", "Business Law & Ethics"),
+    (r"statistic|data science|econometric", "Statistics & Data Science"),
+    (r"operation|information|decision|technolog|isom|\bdot\b|\boid\b|supply chain|analytics|management science|\bmeds\b", "Operations & IS"),
+    (r"economics|\bbepp\b|business and public policy|business economics|political economy|global economy", "Business Economics"),
+    (r"strateg|organi[sz]ation|management|leadership|entrepreneur|behavio|work and|innovation", "Management"),
+]
+BIZ_SUB = {
+    "Finance": [(r"asset pricing|investment|portfolio|microstructure|derivative|fixed income|behavioral finance|empirical finance|market", "Asset Pricing"),
+                (r"corporate|governance|merger|capital structure|private equity|venture|payout|ipo", "Corporate Finance"),
+                (r"bank|intermediat|credit|fintech|household|mortgage|insurance", "Banking & Intermediation")],
+    "Marketing": [(r"consumer|psycholog|judgment|behavio|persuasion|emotion", "Consumer Behavior"),
+                  (r"quantitative|empirical|model|econometric|pricing|advertising|digital|platform|structural|analytics|machine learning|economics", "Quantitative Marketing")],
+    "Management": [(r"strateg|competitive|industry", "Strategy"),
+                   (r"entrepreneur|innovation|technology|venture", "Entrepreneurship & Innovation"),
+                   (r"organizational behavior|negotiation|leadership|team|psycholog|diversity|motivation|\bob\b", "Organizational Behavior"),
+                   (r"organi[sz]ation|sociolog|institution|management theory|work", "Organizations")],
+    "Operations & IS": [(r"information system|digital|platform|it\b|technology|e-commerce", "Information Systems"),
+                        (r"decision|analytics|optimi[sz]ation|data|statistic|risk", "Decision Sciences & Analytics"),
+                        (r"operation|supply|service|healthcare operations|inventory|logistics", "Operations Management")],
+}
+POLICY_SUB = [
+    (r"environment|energy|climate|resource|agricultur", "Environmental & Energy Policy"),
+    (r"development|poverty|global", "International Development"),
+    (r"health|education|labor|labour|social|inequality|welfare", "Social Policy"),
+    (r"management|organi[sz]ation|behavior|negotiation|leadership|decision|psycholog", "Public Management & Behavior"),
+]
+FIELD_ORDER = ["Economics", "Finance", "Accounting", "Marketing", "Management", "Operations & IS", "Business Economics",
+               "Real Estate", "Health Care Management", "Business Law & Ethics", "Statistics & Data Science",
+               "Public Policy", "Law", "Public Health"]
+
+
+def first(rules, text):
+    for pat, lab in rules:
+        if re.search(pat, text):
+            return lab
+    return None
+
+
+def econ_sub(r):
+    """Primary econ subfield: first of the person's own listed fields that maps, else keyword match on raw text."""
+    for f in r.get("fields_std") or []:
+        lab = first(ECON_SUB, f.lower())
+        if lab:
+            return lab
+    return first(ECON_SUB, (r.get("fields_raw") or "").lower())
+
+
+def primary_field(r):
+    ut = r.get("unit_type") or "other"
+    area = (r.get("area") or "").lower()
+    fs = " ; ".join(r.get("fields_std") or []).lower()
+    raw = (r.get("fields_raw") or "").lower()
+    text = f"{fs} ; {raw}"
+    if ut == "business":
+        top = first(BIZ_TOP, area) or first(BIZ_TOP, fs) or "Management"
+        if top == "Business Economics":
+            sub = econ_sub(r)
+            coarse = {"Microeconomic Theory": "Microeconomics & IO", "Industrial Organization": "Microeconomics & IO",
+                      "Behavioral & Experimental": "Microeconomics & IO", "Law & Economics": "Microeconomics & IO",
+                      "Macro & Monetary": "Macro & International", "International": "Macro & International",
+                      "Financial Economics": "Macro & International", "Political Economy": "Political Economy",
+                      "Economic History": "Political Economy", "Econometrics": "Econometrics & Statistics"}
+            return "Business Economics: " + (coarse.get(sub, "Applied Microeconomics") if sub else "General")
+        if top in BIZ_SUB:
+            sub = first(BIZ_SUB[top], f"{fs} ; {raw} ; {area}")
+            return f"{top}: {sub or 'General'}"
+        return top
+    if ut == "public_policy":
+        if re.search(r"management|organizational|negotiation|leadership|decision", fs + area):
+            return "Public Policy: Public Management & Behavior"
+        return "Public Policy: " + (first(POLICY_SUB, text) or "Economic Policy")
+    if ut == "law":
+        return "Law: Corporate & Financial Law" if re.search(r"corporate|securit|financ|bank", text) else "Law: Law & Economics"
+    if ut == "public_health":
+        return "Public Health: Health Economics & Policy"
+    sub = econ_sub(r)
+    if ut == "ag_resource_econ" and (not sub or sub in ("Microeconomic Theory", "Econometrics")):
+        sub = sub or "Environment, Energy & Agriculture"
+    return f"Economics: {sub}" if sub else "Economics: General"
+
 
 def norm(s):
     s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
@@ -132,6 +238,7 @@ def build(check):
     unis, _ = load_unis()
     uidx = {u["id"]: i for i, u in enumerate(unis)}
     people, ids = [], Counter()
+    pf_list = []
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
@@ -149,19 +256,27 @@ def build(check):
                 warnings.append(f"{u['id']}: {r.get('name')}: bad rank")
                 continue
             fs = [FIELDS.index(x) for x in r.get("fields_std") or [] if x in FIELDS]
+            pf = primary_field(r)
+            if pf not in pf_list:
+                pf_list.append(pf)
             people.append([pid, r["name"], RANKS.index(r["rank_std"]), uidx[u["id"]], r.get("unit") or "",
                            UNIT_TYPES.index(r.get("unit_type") if r.get("unit_type") in UNIT_TYPES else "other"),
                            r.get("area") or "", fs, r.get("phd_institution") or "", r.get("phd_year") or 0,
-                           1 if r.get("homepage_url") else 0])
+                           1 if r.get("homepage_url") else 0, pf])
             detail[pid] = {k: v for k, v in r.items() if v not in (None, "", [])}
+            detail[pid]["field"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
         u["by_unit_type"] = dict(cnt)
         with open(os.path.join(SITE, "people", u["id"] + ".json"), "w", encoding="utf-8") as g:
             json.dump(detail, g, ensure_ascii=False, separators=(",", ":"))
-    out = {"generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "universities": unis, "ranks": RANKS,
+    pf_list.sort(key=lambda x: (FIELD_ORDER.index(x.split(":")[0]) if x.split(":")[0] in FIELD_ORDER else 99, x))
+    pfi = {x: i for i, x in enumerate(pf_list)}
+    for row in people:
+        row[11] = pfi[row[11]]
+    out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "universities": unis, "ranks": RANKS,
            "unit_types": UNIT_TYPES, "fields": FIELDS, "field_group": [FIELD_GROUP[f] for f in FIELDS],
-           "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home"],
+           "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield"],
            "people": people}
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as g:
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")

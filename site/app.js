@@ -59,7 +59,7 @@
   const S = {};
   function readS(q) {
     S.q = q.get("q") || ""; S.region = q.get("region") || ""; S.country = q.get("country") || ""; S.uni = q.get("uni") || "";
-    S.ut = q.get("ut") || ""; S.area = q.get("area") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1);
+    S.ut = q.get("ut") || ""; S.pf = q.get("field") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1);
     S.fields = (q.get("f") || "").split(",").filter((x) => x !== "").map(Number);
   }
   function match(p, ign) {
@@ -68,11 +68,14 @@
     if (ign !== "country" && S.country && u.country !== S.country) return false;
     if (ign !== "uni" && S.uni && u.id !== S.uni) return false;
     if (ign !== "ut" && S.ut !== "" && p.unit_type !== +S.ut) return false;
-    if (ign !== "area" && S.area && p.area !== S.area) return false;
+    if (ign !== "pf" && S.pf) {
+      const lab = D.pfields[p.pfield];
+      if (S.pf.startsWith("g:") ? lab.split(":")[0] !== S.pf.slice(2) : lab !== D.pfields[+S.pf]) return false;
+    }
     if (ign !== "rank" && S.rank !== "" && p.rank !== +S.rank) return false;
     if (ign !== "fields" && S.fields.length) for (const f of S.fields) if (!p.fields.includes(f)) return false;
     if (S.q) {
-      const hay = (p.name + " " + p.unit + " " + p.area + " " + p.phd + " " + u.short + " " + u.name + " " + p.fields.map((f) => D.fields[f]).join(" ")).toLowerCase();
+      const hay = (p.name + " " + p.unit + " " + p.area + " " + D.pfields[p.pfield] + " " + p.phd + " " + u.short + " " + u.name + " " + p.fields.map((f) => D.fields[f]).join(" ")).toLowerCase();
       if (!S.q.toLowerCase().split(/\s+/).every((t) => hay.includes(t))) return false;
     }
     return true;
@@ -87,7 +90,15 @@
     const regions = uniq(U.map((u) => u.region));
     const countries = uniq(U.filter((u) => !S.region || u.region === S.region).map((u) => u.country));
     const unis = U.filter((u) => u.n && (!S.region || u.region === S.region) && (!S.country || u.country === S.country));
-    const areas = uniq(P.filter((p) => match(p, "area") && p.area).map((p) => p.area)).sort();
+    const pfc = {}; for (const p of P) if (match(p, "pf")) pfc[p.pfield] = (pfc[p.pfield] || 0) + 1;
+    const groups = uniq(D.pfields.map((x) => x.split(":")[0]));
+    const fieldOpts = groups.map((g) => {
+      const items = D.pfields.map((x, i) => [x, i]).filter(([x, i]) => x.split(":")[0] === g && pfc[i]);
+      if (!items.length) return "";
+      const tot = items.reduce((a, [, i]) => a + pfc[i], 0);
+      const subs = items.filter(([x]) => x.includes(":"));
+      return `<optgroup label="${esc(g)}">${subs.length > 1 || !subs.length ? opt("g:" + g, `${g} — all (${tot})`, S.pf) : ""}${items.map(([x, i]) => opt(i, `${x.includes(":") ? x.split(": ")[1] : x} (${pfc[i]})`, S.pf)).join("")}</optgroup>`;
+    }).join("");
     const fc = {}; for (const p of P) if (match(p, "fields")) for (const f of p.fields) fc[f] = (fc[f] || 0) + 1;
     const withPhd = list.filter((p) => p.phd).length;
 
@@ -109,34 +120,34 @@
         </div>
         <div class="row">
           <select id="ut"><option value="">All unit types</option>${D.unit_types.map((t, i) => opt(i, `${UT_LABEL[t]} (${count((p) => p.unit_type === i && match(p, "ut"))})`, S.ut)).join("")}</select>
-          <select id="area"><option value="">All areas / groups</option>${areas.map((a) => opt(a, a, S.area)).join("")}</select>
+          <select id="field"><option value="">All fields</option>${fieldOpts}</select>
           <select id="rank"><option value="">All ranks</option>${D.ranks.map((r, i) => opt(i, `${r} (${count((p) => p.rank === i && match(p, "rank"))})`, S.rank)).join("")}</select>
           <button class="btn" id="reset" type="button">Reset</button>
         </div>
-        <div class="row"><span class="lbl">Fields</span>
+        <div class="row"><span class="lbl">Topics</span>
           ${D.fields.map((f, i) => [f, i]).filter(([, i]) => fc[i] || S.fields.includes(i)).sort((a, b) => (fc[b[1]] || 0) - (fc[a[1]] || 0))
             .map(([f, i]) => `<button class="chip ${S.fields.includes(i) ? "active" : ""}" data-f="${i}">${esc(f)}<span class="c">${fc[i] || 0}</span></button>`).join("")}
         </div>
       </section>
       <p class="count">${list.length.toLocaleString()} results · page ${S.page} of ${pages}</p>
       <section class="tbl-wrap"><table>
-        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit / Area</th><th>Fields</th><th>PhD</th></tr></thead>
+        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit</th><th>Field</th><th>PhD</th></tr></thead>
         <tbody>${shown.map((p) => `<tr class="clk" data-id="${esc(p.id)}">
           <td><a href="#/p/${encodeURIComponent(p.id)}"><b>${esc(p.name)}</b></a></td>
           <td><span class="badge ${rankCls(p.rank)}">${esc(D.ranks[p.rank].replace(" Professor", ""))}</span></td>
           <td>${esc(U[p.uni].short)}</td>
           <td>${esc(p.unit)}${p.area ? `<div class="small">${esc(p.area)}</div>` : ""}</td>
-          <td>${p.fields.map((f) => `<span class="tag">${esc(D.fields[f])}</span>`).join("")}</td>
+          <td><span class="tag pf">${esc(D.pfields[p.pfield])}</span></td>
           <td class="small">${esc(p.phd)}${p.phd_year ? " " + p.phd_year : ""}</td></tr>`).join("") || `<tr><td colspan="6" class="empty">No matches.</td></tr>`}
         </tbody></table></section>
       ${pages > 1 ? `<div class="pager">${S.page > 1 ? `<button class="btn" data-pg="${S.page - 1}">← Prev</button>` : ""}<span class="small">Page ${S.page} / ${pages}</span>${S.page < pages ? `<button class="btn" data-pg="${S.page + 1}">Next →</button>` : ""}</div>` : ""}`;
 
-    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, area: S.area, rank: S.rank, f: S.fields, p: page > 1 ? page : "" });
+    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, field: S.pf, rank: S.rank, f: S.fields, p: page > 1 ? page : "" });
     const rer = (page = 1) => { push(page); renderPeople(route().q); };
     bindSearch("q", (v) => { S.q = v; rer(); });
-    for (const k of ["region", "country", "uni", "ut", "area", "rank"]) document.getElementById(k).onchange = (e) => {
-      S[k] = e.target.value;
-      if (k === "region") { S.country = ""; S.uni = ""; } if (k === "country") S.uni = ""; if (k === "uni" || k === "ut") S.area = "";
+    for (const k of ["region", "country", "uni", "ut", "field", "rank"]) document.getElementById(k).onchange = (e) => {
+      S[k === "field" ? "pf" : k] = e.target.value;
+      if (k === "region") { S.country = ""; S.uni = ""; } if (k === "country") S.uni = ""; if (k === "ut") S.pf = "";
       rer();
     };
     document.getElementById("reset").onclick = () => { history.replaceState(null, "", "#/"); renderPeople(new URLSearchParams()); };
@@ -166,6 +177,7 @@
           <div class="ttl">${esc(r.title || D.ranks[p.rank])}</div>
           <div class="ttl" style="margin-top:-6px">${esc(r.unit || "")}${r.area ? " · " + esc(r.area) : ""} · ${esc(u.name)}</div>
           <div><span class="badge ${rankCls(p.rank)}">${esc(D.ranks[p.rank])}</span> <span class="badge plain">${esc(UT_LABEL[D.unit_types[p.unit_type]])}</span>
+            <a class="badge pfb" href="#/?field=${p.pfield}">${esc(D.pfields[p.pfield])}</a>
             <span class="badge plain">${esc(u.country)}</span></div>
           <div style="margin-top:10px">${p.fields.map((f) => `<a class="tag" href="#/?f=${f}">${esc(D.fields[f])}</a>`).join("")}</div>
           ${links ? `<div class="links">${links}</div>` : ""}
@@ -209,11 +221,18 @@
 
   // ---------------------------------------------------------------- fields
   function renderFields() {
-    const c = {}; for (const p of P) for (const f of p.fields) c[f] = (c[f] || 0) + 1;
-    const groups = uniq(D.field_group);
-    app.innerHTML = `<p class="intro">Faculty by standardized research field (a person can have several). Fields are mapped from the interests listed on each profile.</p>` +
-      groups.map((g) => `<div class="group-h"><span class="nm">${esc(g)}</span></div><div class="fgrid">
-        ${D.fields.map((f, i) => [f, i]).filter(([, i]) => D.field_group[i] === g).map(([f, i]) => `<a class="fcell" href="#/?f=${i}"><span>${esc(f)}</span><span class="c">${(c[i] || 0).toLocaleString()}</span></a>`).join("")}</div>`).join("");
+    const c = {}; for (const p of P) c[p.pfield] = (c[p.pfield] || 0) + 1;
+    const t = {}; for (const p of P) for (const f of p.fields) t[f] = (t[f] || 0) + 1;
+    const groups = uniq(D.pfields.map((x) => x.split(":")[0]));
+    app.innerHTML = `<p class="intro">Each faculty member is assigned one <b>primary field</b>, organized by school type: economics subfields; business-school areas (with sub-areas for large ones such as Finance, Marketing, Management, Operations &amp; IS); public policy; law; public health. Below that, <b>topics</b> are the (possibly multiple) research interests listed on each profile.</p>` +
+      groups.map((g) => {
+        const items = D.pfields.map((x, i) => [x, i]).filter(([x]) => x.split(":")[0] === g);
+        const tot = items.reduce((a, [, i]) => a + (c[i] || 0), 0);
+        return `<div class="group-h"><a class="nm" href="#/?field=g:${encodeURIComponent(g)}">${esc(g)}</a><span class="n">${tot.toLocaleString()} faculty</span></div><div class="fgrid">
+          ${items.map(([x, i]) => `<a class="fcell" href="#/?field=${i}"><span>${esc(x.includes(":") ? x.split(": ")[1] : x)}</span><span class="c">${(c[i] || 0).toLocaleString()}</span></a>`).join("")}</div>`;
+      }).join("") +
+      `<div class="group-h"><span class="nm">Topics</span></div><div class="fgrid">${D.fields.map((f, i) => [f, i]).filter(([, i]) => t[i]).sort((a, b) => t[b[1]] - t[a[1]])
+        .map(([f, i]) => `<a class="fcell" href="#/?f=${i}"><span>${esc(f)}</span><span class="c">${t[i].toLocaleString()}</span></a>`).join("")}</div>`;
   }
 
   // ---------------------------------------------------------------- about

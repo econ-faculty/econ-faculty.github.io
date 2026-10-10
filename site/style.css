@@ -183,3 +183,5 @@ tr.clk:hover td { background: var(--accent-soft); }
 .fcell:hover { border-color: var(--accent); text-decoration: none; }
 .fcell .c { color: var(--muted); }
 .coming { border: 1px dashed var(--line); border-radius: var(--radius); padding: 18px; color: var(--muted); text-align: center; }
+.tag.pf { background: var(--accent-soft); color: var(--accent); }
+.badge.pfb { color: var(--accent); background: var(--accent-soft); }
