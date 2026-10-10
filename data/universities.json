@@ -14,9 +14,9 @@
   {"id": "london-school-of-economics", "name": "London School of Economics and Political Science", "short": "LSE", "country": "United Kingdom", "region": "Europe", "city": "London"},
   {"id": "london-business-school", "name": "London Business School", "short": "LBS", "country": "United Kingdom", "region": "Europe", "city": "London"},
   {"id": "university-of-warwick", "name": "University of Warwick", "short": "Warwick", "country": "United Kingdom", "region": "Europe", "city": "Coventry"},
-  {"id": "university-of-hong-kong", "name": "The University of Hong Kong", "short": "HKU", "country": "Hong Kong SAR, China", "region": "Asia", "city": "Hong Kong"},
-  {"id": "chinese-university-of-hong-kong", "name": "The Chinese University of Hong Kong", "short": "CUHK", "country": "Hong Kong SAR, China", "region": "Asia", "city": "Hong Kong"},
-  {"id": "hong-kong-university-of-science-and-technology", "name": "The Hong Kong University of Science and Technology", "short": "HKUST", "country": "Hong Kong SAR, China", "region": "Asia", "city": "Hong Kong"},
+  {"id": "university-of-hong-kong", "name": "The University of Hong Kong", "short": "HKU", "country": "China", "region": "Asia", "city": "Hong Kong"},
+  {"id": "chinese-university-of-hong-kong", "name": "The Chinese University of Hong Kong", "short": "CUHK", "country": "China", "region": "Asia", "city": "Hong Kong"},
+  {"id": "hong-kong-university-of-science-and-technology", "name": "The Hong Kong University of Science and Technology", "short": "HKUST", "country": "China", "region": "Asia", "city": "Hong Kong"},
   {"id": "national-university-of-singapore", "name": "National University of Singapore", "short": "NUS", "country": "Singapore", "region": "Asia", "city": "Singapore"},
   {"id": "nanyang-technological-university", "name": "Nanyang Technological University", "short": "NTU", "country": "Singapore", "region": "Asia", "city": "Singapore"},
   {"id": "singapore-management-university", "name": "Singapore Management University", "short": "SMU", "country": "Singapore", "region": "Asia", "city": "Singapore"}

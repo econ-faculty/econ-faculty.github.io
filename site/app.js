@@ -107,7 +107,7 @@
       <section class="stats">
         <div class="stat"><div class="n">${list.length.toLocaleString()}</div><div class="l">faculty${list.length !== P.length ? ` (of ${P.length.toLocaleString()})` : ""}</div>
           <div class="sub">${D.ranks.map((r, i) => `${r.replace(" Professor", "")} ${list.filter((p) => p.rank === i).length}`).join(" · ")}</div></div>
-        <div class="stat"><div class="n">${uniq(list.map((p) => p.uni)).length}</div><div class="l">institutions</div><div class="sub">${uniq(list.map((p) => U[p.uni].country)).length} countries / regions</div></div>
+        <div class="stat"><div class="n">${uniq(list.map((p) => p.uni)).length}</div><div class="l">institutions</div><div class="sub">${uniq(list.map((p) => U[p.uni].country)).length} countries</div></div>
         <div class="stat"><div class="n">${list.filter((p) => p.unit_type === 0).length.toLocaleString()}</div><div class="l">in economics departments</div><div class="sub">${list.filter((p) => p.unit_type === 1).length.toLocaleString()} in business schools</div></div>
         <div class="stat"><div class="n">${list.length ? Math.round(100 * withPhd / list.length) : 0}%</div><div class="l">with PhD information</div><div class="sub">more details being added</div></div>
       </section>
@@ -211,7 +211,7 @@
     const regions = uniq(U.map((u) => u.region));
     app.innerHTML = `<p class="intro">Institutions currently covered. The directory is growing — more universities will be added over time.</p>` +
       regions.map((rg) => `<div class="group-h"><span class="nm">${esc(rg)}</span><span class="n">${U.filter((u) => u.region === rg).reduce((a, u) => a + u.n, 0).toLocaleString()} faculty</span></div>
-        <section class="tbl-wrap"><table><thead><tr><th>Institution</th><th>Country / region</th><th class="num">Total</th>
+        <section class="tbl-wrap"><table><thead><tr><th>Institution</th><th>Country</th><th class="num">Total</th>
           ${["economics", "business", "public_policy", "ag_resource_econ"].map((t) => `<th class="num">${UT_LABEL[t]}</th>`).join("")}<th class="num">Other</th></tr></thead><tbody>
           ${U.filter((u) => u.region === rg).map((u) => {
             const b = u.by_unit_type || {};
