@@ -423,6 +423,182 @@
   "city": "New Brunswick, NJ"
  },
  {
+  "id": "emory-university",
+  "name": "Emory University",
+  "short": "Emory",
+  "country": "United States",
+  "region": "North America",
+  "city": "Atlanta, GA"
+ },
+ {
+  "id": "stony-brook-university",
+  "name": "Stony Brook University",
+  "short": "Stony Brook",
+  "country": "United States",
+  "region": "North America",
+  "city": "Stony Brook, NY"
+ },
+ {
+  "id": "syracuse-university",
+  "name": "Syracuse University",
+  "short": "Syracuse",
+  "country": "United States",
+  "region": "North America",
+  "city": "Syracuse, NY"
+ },
+ {
+  "id": "university-of-california-santa-cruz",
+  "name": "University of California, Santa Cruz",
+  "short": "UC Santa Cruz",
+  "country": "United States",
+  "region": "North America",
+  "city": "Santa Cruz, CA"
+ },
+ {
+  "id": "university-of-california-riverside",
+  "name": "University of California, Riverside",
+  "short": "UC Riverside",
+  "country": "United States",
+  "region": "North America",
+  "city": "Riverside, CA"
+ },
+ {
+  "id": "university-of-georgia",
+  "name": "University of Georgia",
+  "short": "UGA",
+  "country": "United States",
+  "region": "North America",
+  "city": "Athens, GA"
+ },
+ {
+  "id": "university-of-iowa",
+  "name": "University of Iowa",
+  "short": "Iowa",
+  "country": "United States",
+  "region": "North America",
+  "city": "Iowa City, IA"
+ },
+ {
+  "id": "university-of-oregon",
+  "name": "University of Oregon",
+  "short": "Oregon",
+  "country": "United States",
+  "region": "North America",
+  "city": "Eugene, OR"
+ },
+ {
+  "id": "southern-methodist-university",
+  "name": "Southern Methodist University",
+  "short": "SMU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Dallas, TX"
+ },
+ {
+  "id": "cuny-graduate-center",
+  "name": "CUNY Graduate Center",
+  "short": "CUNY GC",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York, NY"
+ },
+ {
+  "id": "george-washington-university",
+  "name": "George Washington University",
+  "short": "GWU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Washington, DC"
+ },
+ {
+  "id": "georgia-institute-of-technology",
+  "name": "Georgia Institute of Technology",
+  "short": "Georgia Tech",
+  "country": "United States",
+  "region": "North America",
+  "city": "Atlanta, GA"
+ },
+ {
+  "id": "georgia-state-university",
+  "name": "Georgia State University",
+  "short": "Georgia State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Atlanta, GA"
+ },
+ {
+  "id": "iowa-state-university",
+  "name": "Iowa State University",
+  "short": "Iowa State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Ames, IA"
+ },
+ {
+  "id": "north-carolina-state-university",
+  "name": "North Carolina State University",
+  "short": "NC State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Raleigh, NC"
+ },
+ {
+  "id": "university-of-florida",
+  "name": "University of Florida",
+  "short": "UF",
+  "country": "United States",
+  "region": "North America",
+  "city": "Gainesville, FL"
+ },
+ {
+  "id": "brandeis-university",
+  "name": "Brandeis University",
+  "short": "Brandeis",
+  "country": "United States",
+  "region": "North America",
+  "city": "Waltham, MA"
+ },
+ {
+  "id": "claremont-graduate-university",
+  "name": "Claremont Graduate University",
+  "short": "CGU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Claremont, CA"
+ },
+ {
+  "id": "tufts-university",
+  "name": "Tufts University",
+  "short": "Tufts",
+  "country": "United States",
+  "region": "North America",
+  "city": "Medford, MA"
+ },
+ {
+  "id": "university-of-houston",
+  "name": "University of Houston",
+  "short": "UH",
+  "country": "United States",
+  "region": "North America",
+  "city": "Houston, TX"
+ },
+ {
+  "id": "virginia-tech",
+  "name": "Virginia Tech",
+  "short": "Virginia Tech",
+  "country": "United States",
+  "region": "North America",
+  "city": "Blacksburg, VA"
+ },
+ {
+  "id": "florida-state-university",
+  "name": "Florida State University",
+  "short": "FSU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Tallahassee, FL"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",

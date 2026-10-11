@@ -1,0 +1,5160 @@
+{
+"richard chan": {
+"name": "Richard Chan",
+"papers": []
+},
+"mohammad delasay": {
+"name": "Mohammad Delasay",
+"papers": [
+{
+"title": "Delay Information Sharing in Two-Sided On-Demand Platforms",
+"authors": [
+"Siddharth Prakash Singh",
+"Mohammad Delasay",
+"Mehmet Berat Aydemir",
+"Mustafa Akan"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Dynamic Resource Allocation for Managing Homeless Shelter Requests: An Approximate Dynamic Programming Approach",
+"authors": [
+"Sina Ansari",
+"Masih Fadaki",
+"Mohammad Delasay"
+],
+"year": 2026,
+"venue": "Transportation Research Part E: Logistics and Transportation Review",
+"status": "forthcoming"
+},
+{
+"title": "Staffing Loss System with Time-Varying Arrivals: Evaluating the Reliability of SIPP and MOL",
+"authors": [
+"Mohammad Delasay",
+"Armann Ingolfsson",
+"Amir Rastpour"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Towards Resilient Data Centers: Evaluating Policies for Energy Efficiency",
+"authors": [
+"Jiaru Bai",
+"Mohammad Delasay",
+"Anshul Gandhi"
+],
+"year": 2026,
+"venue": "National Academy of Public Administration (NAPA) white paper",
+"status": "working_paper"
+},
+{
+"title": "Scalable Load Balancing in Interference-Prone Queueing Systems",
+"authors": [
+"Jazeem Abdul Jaleel",
+"Mohammad Delasay",
+"Sherwin Doroudi"
+],
+"year": 2026,
+"venue": "Annals of Operations Research",
+"status": "published"
+},
+{
+"title": "AI for Operational Efficiency in Virtual Care: An Operations-Focused Framework",
+"authors": [
+"Mohammad Delasay",
+"Soroush Saghafian"
+],
+"year": 2026,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "A Note on Information Disclosure in the Sharing Economy: An Operational Perspective",
+"authors": [
+"Mohammad Delasay",
+"Erfan Rafiekia",
+"Borzou Rostami"
+],
+"year": 2025,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Efficient Allocation of Load-Balancing and Differentiation Tasks in Tandem Queue Services",
+"authors": [
+"Mohammad Delasay",
+"Mustafa Akan"
+],
+"year": 2024,
+"venue": "Annals of Operations Research",
+"status": "published"
+},
+{
+"title": "Prioritization in the Presence of Self-Ordering Opportunities in Omnichannel Services (e-companion)",
+"authors": [
+"Kang Kang",
+"Sherwin Doroudi",
+"Mohammad Delasay"
+],
+"year": 2024,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Efficient and Accurate Lyapunov function-based Truncation Technique for Multi-dimensional Markov Chains with Applications to Discriminatory Processor Sharing and Priority Queues",
+"authors": [
+"Gagan Somashekar",
+"Mohammad Delasay",
+"Anshul Gandhi"
+],
+"year": 2023,
+"venue": "Performance Evaluation",
+"status": "published"
+},
+{
+"title": "A Queueing-Theoretic Framework for Evaluating Transmission Risks in Service Facilities During a Pandemic (e-companion)",
+"authors": [
+"Kang Kang",
+"Sherwin Doroudi",
+"Mohammad Delasay",
+"Alexander Wickeham"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Real-Time Delay Announcement Under Competition",
+"authors": [
+"Siddharth Prakash Singh",
+"Mohammad Delasay",
+"Alan Scheller-Wolf"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Truncating Multi-Dimensional Markov Chains with Accuracy Guarantee",
+"authors": [
+"Gagan Somashekar",
+"Mohammad Delasay",
+"Anshul Gandhi"
+],
+"year": 2022,
+"venue": "Proceedings of the IEEE 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)",
+"status": "published"
+},
+{
+"title": "Impacts of the COVID-19 Pandemic on Grocery Retail Operations: An Analytical Model",
+"authors": [
+"Mohammad Delasay",
+"Aditya Jain",
+"Subodha Kumar"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "A Marginal Analysis Framework to Incorporate the Externality Effect of Ordering Perishables",
+"authors": [
+"Katsunobu Sasanuma",
+"Mohammad Delasay",
+"Christine Pitocco",
+"Alan Scheller-Wolf",
+"Thomas Sexton"
+],
+"year": 2022,
+"venue": "Operations Research Perspectives",
+"status": "published"
+},
+{
+"title": "The Value of mHealth for Managing Chronic Conditions",
+"authors": [
+"Saligrama Agnihothri",
+"Leon Cui",
+"Mohammad Delasay",
+"Balaraman Rajan"
+],
+"year": 2020,
+"venue": "Health Care Management Science",
+"status": "published"
+},
+{
+"title": "Optimal Markovian Dynamic Control of Interference-Prone Server Farms",
+"authors": [
+"Scott Votke",
+"Jazeem Abdul Jaleel",
+"Suresh Amoghavarsha",
+"Mohammad Delasay",
+"Sherwin Doroudi",
+"Anshul Gandhi"
+],
+"year": 2019,
+"venue": "Proceedings of the IEEE 27th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)",
+"status": "published"
+},
+{
+"title": "Tighter Lyapunov Truncation for Multi-Dimensional Continuous-Time Markov Chains with Known Moments",
+"authors": [
+"Gagan Somashekar",
+"Mohammad Delasay",
+"Anshul Gandhi"
+],
+"year": 2019,
+"venue": "ACM Sigmetrics Performance Evaluation Review",
+"status": "published"
+},
+{
+"title": "Load Effect on Service Times",
+"authors": [
+"Mohammad Delasay",
+"Armann Ingolfsson",
+"Bora Kolfal",
+"Kenneth Schultz"
+],
+"year": 2019,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Modeling Load and Overwork in Queueing Systems with Adaptive Service Rates",
+"authors": [
+"Mohammad Delasay",
+"Armann Ingolfsson",
+"Bora Kolfal"
+],
+"year": 2018,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "Inventory Is People: How Load Affects Service Times in Emergency Response",
+"authors": [
+"Mohammad Delasay",
+"Armann Ingolfsson",
+"Kenneth Schultz"
+],
+"year": 2016,
+"venue": "Cross-Functional Inventory Research (World Scientific)",
+"status": "published"
+},
+{
+"title": "Maximizing Throughput in Finite-Source Parallel Queue Systems",
+"authors": [
+"Mohammad Delasay",
+"Bora Kolfal",
+"Armann Ingolfsson"
+],
+"year": 2012,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "An Integrated Approach for Fuzzy Project Evaluation Considering Monetary and Non-monetary Criteria",
+"authors": [
+"Masoud Rabbani",
+"Neda Manavi Zadeh",
+"Mohammad Delasay",
+"Amir Hossein Gharegozli"
+],
+"year": 2007,
+"venue": "Key Factors for Successful Logistics: Services, Transportation Concepts, IT and Management Tools (Erich Schmidt Verlag)",
+"status": "published"
+},
+{
+"title": "A Fuzzy Approach for Projects Evaluation and Selection; An Iranian Auto Manufacturer Case Study",
+"authors": [
+"Iraj Noravesh",
+"Mohammad Delasay",
+"Faegh Salehi"
+],
+"year": 2006,
+"venue": "Iranian Economic Review",
+"status": "published"
+},
+{
+"title": "Projects Evaluation and Selection for Investment Using Integrated AHP and DEA Approaches",
+"authors": [
+"Mohammad Delasay",
+"Masoud Rabbani",
+"Asghar Vazifeh"
+],
+"year": 2005,
+"venue": "Proceedings of the 35th International Conference on Computers and Industrial Engineering",
+"status": "published"
+}
+]
+},
+"andrew delton": {
+"name": "Andrew Delton",
+"papers": [
+{
+"title": "The Politics of Pooling Risk: People Want to Help the Vulnerable by Involving the Government in Healthcare",
+"authors": [
+"Alva, D. P.",
+"Andrews, T. M.",
+"Delton, A. W."
+],
+"year": 2025,
+"venue": "Political Psychology",
+"status": "published"
+},
+{
+"title": "Why Anxious People Lean to the Left on Economic Policy: Personality, Social Exclusion, and Redistribution",
+"authors": [
+"Panish, A. R.",
+"Delton, A. W."
+],
+"year": 2025,
+"venue": "British Journal of Political Science",
+"status": "published"
+},
+{
+"title": "Climate Games: Experiments on How People Prevent Disaster",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W.",
+"Kline, R."
+],
+"year": 2024,
+"venue": "University of Michigan Press",
+"status": "published"
+},
+{
+"title": "Who do you trust? Institutions that constrain leaders help people prevent disaster",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W.",
+"Kline, R."
+],
+"year": 2023,
+"venue": "Journal of Politics",
+"status": "published"
+},
+{
+"title": "Is a rational politics of disaster possible? Making useful decisions for others in an experimental disaster game",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W.",
+"Kline, R."
+],
+"year": 2023,
+"venue": "Political Behavior",
+"status": "published"
+},
+{
+"title": "Cognitive foundations for helping and harming others: Making welfare tradeoffs in industrialized and small-scale societies",
+"authors": [
+"Delton, A. W.",
+"Jaeggi, A. V.",
+"Lim, J.",
+"Sznycer, D.",
+"Gurven, M.",
+"Robertson, T. E.",
+"Sugiyama, L.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2023,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "Anticipating moral hazard undermines climate mitigation in an experimental geoengineering game",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W.",
+"Kline, R."
+],
+"year": 2022,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Partisans use emotions as social pressure: Feeling anger and gratitude at exiters and recruits in political groups",
+"authors": [
+"Delton, A. W.",
+"Kane, J. V.",
+"Petersen, M. B.",
+"Robertson, T. E.",
+"Cosmides, L."
+],
+"year": 2022,
+"venue": "Party Politics",
+"status": "published"
+},
+{
+"title": "Are we there yet? Every computational theory needs a few black boxes, including theories about groups",
+"authors": [
+"Delton, A. W."
+],
+"year": 2022,
+"venue": "Behavioral and Brain Sciences",
+"status": "published"
+},
+{
+"title": "Altruism and spite in politics: How the mind makes welfare tradeoffs about political parties",
+"authors": [
+"Del Ponte, A.",
+"Delton, A. W.",
+"DeScioli, P."
+],
+"year": 2021,
+"venue": "Political Behavior",
+"status": "published"
+},
+{
+"title": "Selfish and cooperative voting: Can the majority restrain themselves?",
+"authors": [
+"DeScioli, P.",
+"Cho, B.",
+"Bokemper, S.",
+"Delton, A. W."
+],
+"year": 2020,
+"venue": "Political Behavior",
+"status": "published"
+},
+{
+"title": "Moral obstinacy in political negotiations",
+"authors": [
+"Delton, A. W.",
+"DeScioli, P.",
+"Ryan, T. J."
+],
+"year": 2020,
+"venue": "Political Psychology",
+"status": "published"
+},
+{
+"title": "The ecological rationality of helping others in need: Potential helpers integrate cues of recipients' need and willingness to sacrifice",
+"authors": [
+"Sznycer, D.",
+"Delton, A. W.",
+"Robertson, T. E.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2019,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "High risk-high reward investments to mitigate climate change",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W.",
+"Kline, R."
+],
+"year": 2018,
+"venue": "Nature Climate Change",
+"status": "published"
+},
+{
+"title": "Beyond market behavior: Evolved cognition and folk political economic beliefs",
+"authors": [
+"Andrews, T. M.",
+"Delton, A. W."
+],
+"year": 2018,
+"venue": "Behavioral and Brain Sciences",
+"status": "published"
+},
+{
+"title": "Partisan goals, emotions, and political mobilization: The role of motivated reasoning in pressuring others to vote",
+"authors": [
+"Delton, A. W.",
+"Petersen, M. B.",
+"Robertson, T. E."
+],
+"year": 2018,
+"venue": "Journal of Politics",
+"status": "published"
+},
+{
+"title": "Need, compassion, and support for social welfare",
+"authors": [
+"Delton, A. W.",
+"Petersen, M. B.",
+"DeScioli, P.",
+"Robertson, T. E."
+],
+"year": 2018,
+"venue": "Political Psychology",
+"status": "published"
+},
+{
+"title": "Share the wealth: Redistribution can increase economic efficiency",
+"authors": [
+"DeScioli, P.",
+"Shaw, A.",
+"Delton, A. W."
+],
+"year": 2018,
+"venue": "Political Behavior",
+"status": "published"
+},
+{
+"title": "The true trigger of shame: Social devaluation is sufficient, wrongdoing is unnecessary",
+"authors": [
+"Robertson, T. E.",
+"Sznycer, D.",
+"Delton, A. W.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2018,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "The psychology of deterrence explains why group membership matters for third-party punishment",
+"authors": [
+"Delton, A. W.",
+"Krasnow, M. M."
+],
+"year": 2017,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "Passing it along: Experiments on creating the negative externalities of climate change",
+"authors": [
+"Del Ponte, A.",
+"Delton, A. W.",
+"Kline, R.",
+"Seltzer, N. A."
+],
+"year": 2017,
+"venue": "Journal of Politics",
+"status": "published"
+},
+{
+"title": "Looking under the hood of third-party punishment reveals design for personal benefit",
+"authors": [
+"Krasnow, M. M.",
+"Delton, A. W.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2016,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "Are humans too generous and too punitive? Using psychological principles to further debates about human social evolution",
+"authors": [
+"Krasnow, M. M.",
+"Delton, A. W."
+],
+"year": 2016,
+"venue": "Frontiers in Psychology",
+"status": "published"
+},
+{
+"title": "The sketch is blank: No evidence for an explanatory role for cultural group selection",
+"authors": [
+"Krasnow, M. M.",
+"Delton, A. W."
+],
+"year": 2016,
+"venue": "Behavioral and Brain Sciences",
+"status": "published"
+},
+{
+"title": "How the mind makes welfare tradeoffs: Evolution, computation, and emotion",
+"authors": [
+"Delton, A. W.",
+"Robertson, T. E."
+],
+"year": 2016,
+"venue": "Current Opinion in Psychology",
+"status": "published"
+},
+{
+"title": "Group cooperation without group selection: Modest punishment can recruit much cooperation",
+"authors": [
+"Krasnow, M. M.",
+"Delton, A. W.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2015,
+"venue": "PLoS ONE",
+"status": "published"
+},
+{
+"title": "Adaptationist approaches to moral psychology",
+"authors": [
+"Delton, A. W.",
+"Krasnow, M. M."
+],
+"year": 2015,
+"venue": "The moral brain (MIT Press)",
+"status": "published"
+},
+{
+"title": "Prosocial effects of MDMA: A measure of generosity",
+"authors": [
+"Kirkpatrick, M.",
+"Delton, A. W.",
+"Robertson, T. E.",
+"de Wit, H."
+],
+"year": 2015,
+"venue": "Journal of Psychopharmacology",
+"status": "published"
+},
+{
+"title": "An independent replication that the evolution of direct reciprocity under uncertainty explains one-shot cooperation",
+"authors": [
+"Delton, A. W.",
+"Krasnow, M. M."
+],
+"year": 2014,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "Keeping the benefits of group cooperation: Domain-specific responses to distinct causes of social exclusion",
+"authors": [
+"Robertson, T. E.",
+"Delton, A. W.",
+"Klein, S. B.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2014,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "The co-evolution of concepts and motivation",
+"authors": [
+"Delton, A. W.",
+"Sell, A."
+],
+"year": 2014,
+"venue": "Current Directions in Psychological Science",
+"status": "published"
+},
+{
+"title": "Merely opting out of a public good elicits moralization: An error management approach to cooperation",
+"authors": [
+"Delton, A. W.",
+"Nemirow, J.",
+"Robertson, T. E.",
+"Cimino, A.",
+"Cosmides, L."
+],
+"year": 2013,
+"venue": "Journal of Personality and Social Psychology",
+"status": "published"
+},
+{
+"title": "Meeting now suggests we will meet again: Implications for debates on the evolution of generosity",
+"authors": [
+"Krasnow, M. M.",
+"Delton, A. W.",
+"Tooby, J.",
+"Cosmides, L."
+],
+"year": 2013,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "When the economy falters, do people spend or save? Responses to resource scarcity depend on childhood environments",
+"authors": [
+"Griskevicius, V.",
+"Ackerman, J. M.",
+"Cantu, S.",
+"Delton, A. W.",
+"Robertson, T. E.",
+"Simpson, J. A.",
+"Emery Thompson, M.",
+"Tybur, J. M."
+],
+"year": 2013,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "The psychosemantics of free riding: Dissecting the architecture of a moral concept",
+"authors": [
+"Delton, A. W.",
+"Cosmides, L.",
+"Guemo, M.",
+"Robertson, T. E.",
+"Tooby, J."
+],
+"year": 2012,
+"venue": "Journal of Personality and Social Psychology",
+"status": "published"
+},
+{
+"title": "The social cognition of social foraging: Partner selection by underlying valuation",
+"authors": [
+"Delton, A. W.",
+"Robertson, T. E."
+],
+"year": 2012,
+"venue": "Evolution and Human Behavior",
+"status": "published"
+},
+{
+"title": "Cross-cultural differences and similarities in proneness to shame: An adaptationist and ecological approach",
+"authors": [
+"Sznycer, D.",
+"Takemura, K.",
+"Delton, A. W.",
+"Sato, K.",
+"Robertson, T. E.",
+"Cosmides, L.",
+"Tooby, J."
+],
+"year": 2012,
+"venue": "Evolutionary Psychology",
+"status": "published"
+}
+]
+},
+"qian feng": {
+"name": "Qian Feng",
+"papers": []
+},
+"stacey finkelstein": {
+"name": "Stacey Finkelstein",
+"papers": []
+},
+"haresh gurnani": {
+"name": "Haresh Gurnani",
+"papers": []
+},
+"wencui wen han": {
+"name": "Wencui (Wen) Han",
+"papers": [
+{
+"title": "Asymmetric Algorithm Aversion",
+"authors": [
+"Basu, S.",
+"Dennis, A.",
+"Garimella, A.",
+"Han, W."
+],
+"year": 2026,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "When Gig Workers No Longer Gig: The Impact of California Assembly Bill 5 on the Online Labor Market",
+"authors": [
+"Wang, X.",
+"Lin, Y.",
+"Han, W.",
+"Qiu, L."
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "The Black Lives Matter Movement Mitigates Bias Against Racial Minority Actors",
+"authors": [
+"Lin, Y.",
+"Yu, S.",
+"Han, W.",
+"Lu, G."
+],
+"year": 2024,
+"venue": "Proceedings of the National Academy of Sciences (PNAS)",
+"status": "published"
+},
+{
+"title": "Do Emotions Sell? Impact of Emotional Expressions on Sales in the Space-Sharing Economy",
+"authors": [
+"Wang, X.",
+"Jiang, M.",
+"Han, W.",
+"Qiu, L."
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Impact of Artificial Intelligence on Pathologists' Decisions: An Experiment",
+"authors": [
+"Meyer, J.",
+"Têtu, B.",
+"Khademi, A.",
+"Han, W.",
+"Nippak, P.",
+"Remisch, D."
+],
+"year": 2022,
+"venue": "Journal of the American Medical Informatics Association",
+"status": "published"
+},
+{
+"title": "Teaching Case: A Data Analytic View of the Initial Coin Offering Marketplace",
+"authors": [
+"Han, W.",
+"Larson, E."
+],
+"year": 2022,
+"venue": "Journal of Information Systems Education",
+"status": "published"
+},
+{
+"title": "The Societal Impact of Sharing Economy Platform Self-Regulations - An Empirical Investigation",
+"authors": [
+"Han, W.",
+"Wang, X.",
+"Ahsen, M.",
+"Wattal, S."
+],
+"year": 2021,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Motivating Adherence to Exercise Plans through a Personalized Mobile Health Application: An Enhanced Active Design Research Approach",
+"authors": [
+"Sun, R.",
+"Han, W.",
+"Chang, H.",
+"Shaw, M."
+],
+"year": 2021,
+"venue": "JMIR mHealth and uHealth",
+"status": "published"
+},
+{
+"title": "Transformation of the Transaction Cost and the Agency Cost in an Organization and the Applicability of Blockchain - A Case Study of Peer-to-Peer Insurance",
+"authors": [
+"Sun, R.",
+"Garimella, A.",
+"Han, W.",
+"Chang, H.",
+"Shaw, M."
+],
+"year": 2020,
+"venue": "Frontiers in Blockchain",
+"status": "published"
+},
+{
+"title": "Impact of Electronic Diabetes Registry \"Meaningful Use\" on Quality of Care and Hospital Utilization",
+"authors": [
+"Han, W.",
+"Sharman, R.",
+"Heider, A.",
+"Maloney, N.",
+"Yang, M.",
+"Singh, R."
+],
+"year": 2016,
+"venue": "Journal of the American Medical Informatics Association",
+"status": "published"
+},
+{
+"title": "Factors Impacting the Intention to Use Emergency Notification Services in Campus Emergencies: An Empirical Investigation",
+"authors": [
+"Ada, S.",
+"Sharman, R.",
+"Han, W.",
+"Brennan, J."
+],
+"year": 2016,
+"venue": "IEEE Transactions on Professional Communication",
+"status": "published"
+},
+{
+"title": "Campus Emergency Notification Systems: An Examination of Factors Affecting Compliance with Alerts",
+"authors": [
+"Han, W.",
+"Ada, S.",
+"Sharman, R.",
+"Rao, H. R."
+],
+"year": 2015,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Factors Impacting the Adoption of Social Network Sites for Emergency Notification Purposes in Universities",
+"authors": [
+"Han, W.",
+"Ada, S.",
+"Sharman, R.",
+"Gray, R. H.",
+"Simha, A."
+],
+"year": 2015,
+"venue": "International Journal of Business Information Systems",
+"status": "published"
+}
+]
+},
+"dmytro holod": {
+"name": "Dmytro Holod",
+"papers": []
+},
+"julie huang": {
+"name": "Julie Huang",
+"papers": []
+},
+"danling jiang": {
+"name": "Danling Jiang",
+"papers": [
+{
+"title": "Cybersecurity Disclosure Mandates and Cross-Domain Compliance Spillover",
+"authors": [
+"Lei Gao",
+"Danling Jiang",
+"Jinghua Wang",
+"Yan Wendy Wu"
+],
+"year": 2026,
+"venue": "Financial Management",
+"status": "forthcoming"
+},
+{
+"title": "Investor Composition and the Market for Music NFTs",
+"authors": [
+"Danling Jiang",
+"Lin Sun",
+"Lolita Nazarov",
+"Jiarong Chen",
+"Yihan Yang",
+"Xinning Guo"
+],
+"year": 2026,
+"venue": "Financial Innovation",
+"status": "forthcoming"
+},
+{
+"title": "Social Norms and Stock Lending",
+"authors": [
+"Danling Jiang",
+"Baixiao Liu",
+"Steven Chong Xiao"
+],
+"year": 2025,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Intercity Mentioning: Stock Posts, City Network, and Firms",
+"authors": [
+"Dayong Dong",
+"Danling Jiang",
+"Yuelin Peng",
+"Longmin Shen",
+"Hongquan Zhu"
+],
+"year": 2025,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Faster than Flying: High-Speed Rail, Investors, and Firms",
+"authors": [
+"Lu Qin",
+"Don Autore",
+"Danling Jiang",
+"Hongquan Zhu"
+],
+"year": 2025,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Lawyer CEOs",
+"authors": [
+"M. Todd Henderson",
+"Irena Hutton",
+"Danling Jiang",
+"Matthew Pierson"
+],
+"year": 2025,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Game in Another Town: Geography of Stock Watchlists and Firm Valuation",
+"authors": [
+"Dayong Dong",
+"Danling Jiang",
+"Keke Wu",
+"Hongquan Zhu"
+],
+"year": 2024,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Factor Beta, Overnight and Intraday Expected Returns in China",
+"authors": [
+"Zhengke Ye",
+"Danling Jiang",
+"Yunfeng Luo"
+],
+"year": 2023,
+"venue": "Global Finance Journal",
+"status": "published"
+},
+{
+"title": "Shared Analyst Coverage and Connected-Firm Momentum Spillover in China",
+"authors": [
+"Danling Jiang",
+"Xun Peng",
+"Hongquan Zhu"
+],
+"year": 2023,
+"venue": "System Engineering - Theory & Practice",
+"status": "published"
+},
+{
+"title": "Earnings Seasonality, Management Earnings Forecast and Stock Returns",
+"authors": [
+"Danling Jiang",
+"Pan Song",
+"Hongquan Zhu"
+],
+"year": 2023,
+"venue": "China Journal of Accounting Research",
+"status": "published"
+},
+{
+"title": "Urban Vibrancy, Human Capital, and Firm Valuation in China",
+"authors": [
+"Danling Jiang",
+"Shuying Liu",
+"Feiyu Li",
+"Hongquan Zhu"
+],
+"year": 2022,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Weather, Institutional Investors, and Earnings News",
+"authors": [
+"Danling Jiang",
+"Dylan Norris",
+"Lin Sun"
+],
+"year": 2021,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Blockchain Speculation or Value Creation? Evidence from Corporate Investments",
+"authors": [
+"Don Autore",
+"Nicholas Clarke",
+"Danling Jiang"
+],
+"year": 2021,
+"venue": "Financial Management",
+"status": "published"
+},
+{
+"title": "Mood Beta and Seasonalities in Stock Returns",
+"authors": [
+"David Hirshleifer",
+"Danling Jiang",
+"Yuting Meng DiGiovanni"
+],
+"year": 2020,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "The Market Response to Earnings Seasonality: Evidence from Chinese A-Share Market",
+"authors": [
+"Yujing He",
+"Danling Jiang",
+"Hongquan Zhu"
+],
+"year": 2020,
+"venue": "Journal of Systems Science and Mathematical Sciences",
+"status": "published"
+},
+{
+"title": "The Preholiday Corporate Announcement Effect",
+"authors": [
+"Don Autore",
+"Danling Jiang"
+],
+"year": 2019,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Long and Short Memory in the Risk-Neutral Pricing Process",
+"authors": [
+"Young Shin Kim",
+"Danling Jiang",
+"Stoyan Stoyanov"
+],
+"year": 2019,
+"venue": "Journal of Derivatives",
+"status": "published"
+},
+{
+"title": "Short Interest as a Signal to Issue Equity",
+"authors": [
+"Don Autore",
+"Irena Hutton",
+"Danling Jiang",
+"Dominique Gehy Outlaw"
+],
+"year": 2018,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Trust and Household Debt",
+"authors": [
+"Danling Jiang",
+"Sonya Lim"
+],
+"year": 2018,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "The Human Capital That Matters: Expected Returns and High-Income Households",
+"authors": [
+"Sean Campbell",
+"Stefanos Delikouras",
+"Danling Jiang",
+"George Korniotis"
+],
+"year": 2016,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Political Contributions and Analyst Behavior",
+"authors": [
+"Danling Jiang",
+"Alok Kumar",
+"Kelvin Law"
+],
+"year": 2016,
+"venue": "Review of Accounting Studies",
+"status": "published"
+},
+{
+"title": "Cultural New Year Holidays and Stock Returns Around the World",
+"authors": [
+"Kelley Bergsma",
+"Danling Jiang"
+],
+"year": 2016,
+"venue": "Financial Management",
+"status": "published"
+},
+{
+"title": "Political Values, Culture, and Corporate Litigation",
+"authors": [
+"Irena Hutton",
+"Danling Jiang",
+"Alok Kumar"
+],
+"year": 2015,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Corporate Policies of Republican Managers",
+"authors": [
+"Irena Hutton",
+"Danling Jiang",
+"Alok Kumar"
+],
+"year": 2014,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Short-Sale Constraints and the Idiosyncratic Volatility Puzzle: An Event Study Approach",
+"authors": [
+"Danling Jiang",
+"David R. Peterson",
+"James S. Doran"
+],
+"year": 2014,
+"venue": "Journal of Empirical Finance",
+"status": "published"
+},
+{
+"title": "The Second Moment Matters! Cross-Sectional Dispersion of Firm Valuations and Expected Stock Returns",
+"authors": [
+"Danling Jiang"
+],
+"year": 2013,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Call-Put Implied Volatility Spreads and Option Returns",
+"authors": [
+"James Doran",
+"Andy Fodor",
+"Danling Jiang"
+],
+"year": 2013,
+"venue": "Review of Asset Pricing Studies",
+"status": "published"
+},
+{
+"title": "Gambling Preference and the New Year Effect of Assets with Lottery Features",
+"authors": [
+"James S. Doran",
+"Danling Jiang",
+"David R. Peterson"
+],
+"year": 2012,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Is A Better than B? How Affect Influences the Marketing and Pricing of Financial Securities",
+"authors": [
+"James Ang",
+"Ansley Chua",
+"Danling Jiang"
+],
+"year": 2010,
+"venue": "Financial Analysts Journal",
+"status": "published"
+}
+]
+},
+"lanxin jiang": {
+"name": "Lanxin Jiang",
+"papers": [
+{
+"title": "Predicting Material Misstatements Using Machine Learning",
+"authors": [
+"Chanyuan Zhang Parker",
+"Lanxin Jiang",
+"Soohyun Cho",
+"Miklos A. Vasarhelyi"
+],
+"year": 2025,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Using Blockchain and Smart Contracts to Combat Greenwashing in Environmental Disclosures",
+"authors": [
+"Yu Gu",
+"Lanxin Jiang",
+"Jun Dai"
+],
+"year": 2026,
+"venue": "Accounting Horizons",
+"status": "published"
+},
+{
+"title": "An LLM-Based Agentic System for Greenwashing Detection",
+"authors": [
+"Yu Gu",
+"Lanxin Jiang",
+"Jun Dai",
+"Miklos Vasarhelyi"
+],
+"year": 2026,
+"venue": "International Journal of Accounting Information Systems",
+"status": "published"
+},
+{
+"title": "A Greenhouse Gas Emission Tracking System (GETS) for Climate-Related Disclosures",
+"authors": [
+"Lanxin Jiang",
+"Yu Gu",
+"W. Yu",
+"Jun Dai"
+],
+"year": 2023,
+"venue": "Working paper",
+"status": "working_paper"
+},
+{
+"title": "Environmental, Social, and Governance Taxonomy Simplification: A Hybrid Text Mining Approach",
+"authors": [
+"Lanxin Jiang",
+"Yu Gu",
+"Jun Dai"
+],
+"year": 2023,
+"venue": "Journal of Emerging Technologies in Accounting",
+"status": "published"
+},
+{
+"title": "Towards Real-Time Financial Statement Fraud Detection Using Machine Learning",
+"authors": [
+"Lanxin Jiang",
+"Miklos Vasarhelyi",
+"Chanyuan A. Parker"
+],
+"year": 2022,
+"venue": "PCAOB Conference on Auditing and Capital Markets",
+"status": "published"
+},
+{
+"title": "Three Essays Applying Machine Learning to Improve Audit Risk Assessment and Audit Quality",
+"authors": [
+"Lanxin Jiang"
+],
+"year": 2025,
+"venue": "Dissertation",
+"status": "working_paper"
+},
+{
+"title": "The Role of Audit Partner Characteristics in Assignments and Audit Quality: An Explainable AI Approach",
+"authors": [
+"Lanxin Jiang"
+],
+"year": 2024,
+"venue": "Working paper",
+"status": "working_paper"
+},
+{
+"title": "Internet of Things and Blockchain-Based Smart Contracts: Enabling Continuous Risk Monitoring and Assessment in Peer-to-Peer Lending",
+"authors": [
+"Z. Zhang",
+"Yu Gu",
+"Lanxin Jiang",
+"W. Yu",
+"Jun Dai"
+],
+"year": 2023,
+"venue": "Journal of Emerging Technologies in Accounting",
+"status": "published"
+},
+{
+"title": "Refining Abnormal Accrual Estimates: A Machine Learning Approach",
+"authors": [
+"Yu Gu",
+"Lanxin Jiang",
+"Chanyuan Abigail Zhang Parker",
+"Lei Zhao"
+],
+"year": 2022,
+"venue": "Working paper",
+"status": "working_paper"
+}
+]
+},
+"chansog kim": {
+"name": "Chansog Kim",
+"papers": []
+},
+"young shin kim": {
+"name": "Young Shin Kim",
+"papers": []
+},
+"herbert lewis": {
+"name": "Herbert Lewis",
+"papers": []
+},
+"manuel london": {
+"name": "Manuel London",
+"papers": []
+},
+"samina lutfeali": {
+"name": "Samina Lutfeali",
+"papers": []
+},
+"theresa robertson": {
+"name": "Theresa Robertson",
+"papers": []
+},
+"thomas sexton": {
+"name": "Thomas Sexton",
+"papers": []
+},
+"gary sherman": {
+"name": "Gary Sherman",
+"papers": []
+},
+"jadranka skorin kapov": {
+"name": "Jadranka Skorin-Kapov",
+"papers": []
+},
+"gokhan torna": {
+"name": "Gokhan Torna",
+"papers": []
+},
+"lai wei": {
+"name": "Lai Wei",
+"papers": []
+},
+"matthew wynter": {
+"name": "Matthew Wynter",
+"papers": []
+},
+"keli xiao": {
+"name": "Keli Xiao",
+"papers": []
+},
+"tonghui xu": {
+"name": "Tonghui Xu",
+"papers": []
+},
+"zhifeng yang": {
+"name": "Zhifeng Yang",
+"papers": []
+},
+"siyuan yin": {
+"name": "Siyuan Yin",
+"papers": []
+},
+"alexis anagnostopoulos": {
+"name": "Alexis Anagnostopoulos",
+"papers": [
+{
+"title": "The Investment Channel of Monetary Policy when Managers Have Skin-in-the-Game",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu",
+"Eva Carceles-Poveda",
+"C. Giannitsarou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Technology Capital and the Taxation of Multinational Corporations",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Equity Issuance and Dividend Policy under Commitment",
+"authors": [
+"Alexis Anagnostopoulos",
+"Eva Carceles-Poveda",
+"A. Marcet"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Dynamic Firm Under Shareholder Disagreement",
+"authors": [
+"Alexis Anagnostopoulos",
+"Eva Carceles-Poveda",
+"Gabriel Mihalache"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Shareholders Tax Cuts with Household and Firm Heterogeneity",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu"
+],
+"year": 2023,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Cross-Country Stock Market Comovement: A Macro Perspective",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu",
+"E. Faraglia",
+"C. Giannitsarou"
+],
+"year": 2022,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Financing Corporate Tax Cuts with Shareholder Taxes",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu",
+"Eva Carceles-Poveda"
+],
+"year": 2022,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Value-Preserving Welfare Weights for Social Optimization Problems",
+"authors": [
+"Alexis Anagnostopoulos",
+"Eva Carceles-Poveda",
+"Y. Tauman"
+],
+"year": 2021,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "External Debt Evolution when Global Financial Markets are Incomplete",
+"authors": [
+"Alexis Anagnostopoulos",
+"G. Siourounis"
+],
+"year": 2015,
+"venue": "A Financial Crisis Manual: Reflections and the Road Ahead",
+"status": "published"
+},
+{
+"title": "Evaluating Linear Approximations in a Two-Country Model with Occasionally Binding Borrowing Constraints",
+"authors": [
+"Alexis Anagnostopoulos",
+"Xin Tang"
+],
+"year": 2015,
+"venue": "The BE Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Skill-Biased Technological Change and Homeownership",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. E. Atesagaoglu",
+"Eva Carceles-Poveda"
+],
+"year": 2013,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Indeterminacy and Period Length under Balanced Budget Rules",
+"authors": [
+"Alexis Anagnostopoulos",
+"C. Giannitsarou"
+],
+"year": 2013,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Consumption Taxes and Precautionary Savings",
+"authors": [
+"Alexis Anagnostopoulos",
+"Qian Li"
+],
+"year": 2013,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Dividend and Capital Gains Taxation under Incomplete Markets",
+"authors": [
+"Alexis Anagnostopoulos",
+"Eva Carceles-Poveda",
+"D. Lin"
+],
+"year": 2012,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "An Evolutionary Theory of Inflation Inertia",
+"authors": [
+"Alexis Anagnostopoulos",
+"O. Licandro",
+"I. Bove",
+"K. Schlag"
+],
+"year": 2007,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+}
+]
+},
+"jonathan becker": {
+"name": "Jonathan Becker",
+"papers": [
+{
+"title": "Do Poor Households Pay Higher Markups in Recessions?",
+"authors": [
+"Jonathan Becker"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Importers, Market Power, and Optimal Tariffs",
+"authors": [
+"Jonathan Becker",
+"Corina Boar",
+"Virgiliu Midrigan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Spatial Distribution of Markups",
+"authors": [
+"Jonathan Becker",
+"Chris Edmond",
+"Virgiliu Midrigan",
+"Daniel Yi Xu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Entry under Information Frictions",
+"authors": [
+"Jonathan Becker"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"hugo benitez silva": {
+"name": "Hugo Benitez-Silva",
+"papers": []
+},
+"sandro brusco": {
+"name": "Sandro Brusco",
+"papers": []
+},
+"eva carceles poveda": {
+"name": "Eva Carceles-Poveda",
+"papers": [
+{
+"title": "On the optimal design of a financial stability fund",
+"authors": [
+"Eva Carceles-Poveda",
+"Arpad Abraham",
+"Yan Liu",
+"Ramon Marimon"
+],
+"year": 2025,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Capital tax reforms with policy uncertainty",
+"authors": [
+"Eva Carceles-Poveda",
+"Arpad Abraham",
+"Pavel Brendler"
+],
+"year": 2024,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Financing corporate tax cuts with shareholder taxes",
+"authors": [
+"Eva Carceles-Poveda",
+"Alexis Anagnostopoulos",
+"Orhan Erem Atesagaoglu"
+],
+"year": 2022,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Value preserving welfare weights for social optimization problems",
+"authors": [
+"Eva Carceles-Poveda",
+"Alexis Anagnostopoulos",
+"Yair Tauman"
+],
+"year": 2021,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Comment on Heads I win, tails you lose: Asymmetric taxes, risk taking, and innovation",
+"authors": [
+"Eva Carceles-Poveda"
+],
+"year": 2019,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "On the irrelevance of financial policy under market incompleteness and trading constraints",
+"authors": [
+"Eva Carceles-Poveda",
+"Orhan Erem Atesagaoglu"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Skill biased technological change and homeownership",
+"authors": [
+"Eva Carceles-Poveda",
+"Alexis Anagnostopoulos",
+"Orhan Erem Atesagaoglu"
+],
+"year": 2013,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Dividend and capital gains taxes under incomplete markets",
+"authors": [
+"Eva Carceles-Poveda",
+"Alexis Anagnostopoulos",
+"Danmo Lin"
+],
+"year": 2012,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "A strategic analysis of the war against transnational terrorism",
+"authors": [
+"Eva Carceles-Poveda",
+"Yair Tauman"
+],
+"year": 2011,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Endogenous trading constraints with incomplete asset markets",
+"authors": [
+"Eva Carceles-Poveda",
+"Arpad Abraham"
+],
+"year": 2010,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Owning capital or being shareholders: An equivalence result under incomplete markets",
+"authors": [
+"Eva Carceles-Poveda",
+"Daniele Coen-Pirani"
+],
+"year": 2010,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Macroeconomic implications of financial policy",
+"authors": [
+"Eva Carceles-Poveda",
+"Yann Algan",
+"Olivier Allais"
+],
+"year": 2009,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Shareholders unanimity with incomplete markets",
+"authors": [
+"Eva Carceles-Poveda",
+"Daniele Coen-Pirani"
+],
+"year": 2009,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Asset prices and business cycles under market incompleteness",
+"authors": [
+"Eva Carceles-Poveda"
+],
+"year": 2009,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Asset pricing with adaptive learning",
+"authors": [
+"Eva Carceles-Poveda",
+"Chryssi Giannitsarou"
+],
+"year": 2008,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Adaptive Learning in Practice",
+"authors": [
+"Eva Carceles-Poveda",
+"Chryssi Giannitsarou"
+],
+"year": 2007,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Endogenous incomplete markets, enforcement constraints and intermediation",
+"authors": [
+"Eva Carceles-Poveda",
+"Arpad Abraham"
+],
+"year": 2006,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Idiosyncratic shocks and asset returns in the RBC model: An approximated analytical approach",
+"authors": [
+"Eva Carceles-Poveda"
+],
+"year": 2005,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Capital adjustment costs and firm risk aversion",
+"authors": [
+"Eva Carceles-Poveda"
+],
+"year": 2003,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "International trade in financial services: An assessment of the GATS",
+"authors": [
+"Eva Carceles-Poveda",
+"Susanne Droege"
+],
+"year": 1997,
+"venue": "Aussenwirtschaft",
+"status": "published"
+}
+]
+},
+"juan carlos conesa": {
+"name": "Juan Carlos Conesa",
+"papers": [
+{
+"title": "El crecimiento de la productividad en los países ricos durante el Siglo XXI",
+"authors": [
+"Juan Carlos Conesa",
+"Pau Pujolas"
+],
+"year": 2026,
+"venue": "La Productividad en España. Medición, Diagnóstico y Políticas (Handbook), Fundación Ramón Areces",
+"status": "forthcoming"
+},
+{
+"title": "The evolution of income and wealth inequality in China",
+"authors": [
+"Juan Carlos Conesa",
+"Yan Wang"
+],
+"year": 2025,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Preemptive austerity with rollover risk",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2024,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "The cost of trade disruptions at different stages of development",
+"authors": [
+"Juan Carlos Conesa",
+"M. Delventhal",
+"Pau Pujolas",
+"G. Raveendranathan"
+],
+"year": 2024,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Workers' income risk and the evolution of income inequality in China",
+"authors": [
+"Juan Carlos Conesa",
+"Yan Wang"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "A quantitative evaluation of Universal Basic Income",
+"authors": [
+"Juan Carlos Conesa",
+"Bo Li",
+"Qian Li"
+],
+"year": 2023,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Las crisis de refinanciación en los mercados de deuda soberana",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2022,
+"venue": "Cuadernos Económicos de ICE",
+"status": "published"
+},
+{
+"title": "The role of demographics and migration for the future of economic growth in China",
+"authors": [
+"Juan Carlos Conesa",
+"Yan Wang"
+],
+"year": 2022,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Welfare implications of switching to consumption taxation",
+"authors": [
+"Juan Carlos Conesa",
+"Bo Li",
+"Qian Li"
+],
+"year": 2020,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Implications of increasing college attainment for aging in general equilibrium",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe",
+"V. M. Nygaard",
+"G. Raveendranathan"
+],
+"year": 2020,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Capital taxes and redistribution: The role of management time and tax deductible investment",
+"authors": [
+"Juan Carlos Conesa",
+"Begoña Dominguez"
+],
+"year": 2020,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "The timing of optimal capital income tax reforms: The role of intangible capital investment",
+"authors": [
+"Juan Carlos Conesa",
+"Begoña Dominguez"
+],
+"year": 2019,
+"venue": "SERIEs - Journal of the Spanish Economics Association",
+"status": "published"
+},
+{
+"title": "The Canadian productivity stagnation, 2002-2014",
+"authors": [
+"Juan Carlos Conesa",
+"Pau Pujolas"
+],
+"year": 2019,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "An introduction to the Macroeconomics of aging",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2018,
+"venue": "The Journal of the Economics of Ageing",
+"status": "published"
+},
+{
+"title": "Macroeconomic effects of Medicare",
+"authors": [
+"Juan Carlos Conesa",
+"D. Costa",
+"P. Kamali",
+"Timothy J. Kehoe",
+"V. M. Nygaard",
+"G. Raveendranathan",
+"A. Saxena"
+],
+"year": 2018,
+"venue": "The Journal of the Economics of Ageing",
+"status": "published"
+},
+{
+"title": "Gambling for redemption and self-fulfilling debt crises",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2017,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Productivity, Taxes and Hours Worked in Spain: 1970-2015",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2017,
+"venue": "SERIEs - Journal of the Spanish Economics Association",
+"status": "published"
+},
+{
+"title": "Intergenerational Policy and the Measurement of Tax Incidence",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2016,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Is it too late to bail out the troubled countries in the Eurozone?",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2014,
+"venue": "American Economic Review: Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Intangible Investment and Ramsey Capital Taxation",
+"authors": [
+"Juan Carlos Conesa",
+"Begoña Domínguez"
+],
+"year": 2013,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Intertemporal Discounting and Policy Selection",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2013,
+"venue": "Federal Reserve Bank of St Louis Review",
+"status": "published"
+},
+{
+"title": "Chronic Sovereign Debt Crises in the Eurozone, 2010-2012",
+"authors": [
+"Cristina Arellano",
+"Juan Carlos Conesa",
+"Timothy J. Kehoe"
+],
+"year": 2012,
+"venue": "Federal Reserve Bank of Minneapolis Economic Policy Paper",
+"status": "published"
+},
+{
+"title": "A Primer on Social Security Systems and Reforms",
+"authors": [
+"Craig P. Aubuchon",
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2011,
+"venue": "Federal Reserve Bank of St Louis Review",
+"status": "published"
+},
+{
+"title": "Taxing Capital? Not a Bad Idea After All!",
+"authors": [
+"Juan Carlos Conesa",
+"Sagiri Kitao",
+"Dirk Krueger"
+],
+"year": 2009,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Optimal Response to a Transitory Demographic Shock in Social Security Financing",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2009,
+"venue": "Federal Reserve Bank of St Louis Review",
+"status": "published"
+},
+{
+"title": "Optimal Fiscal Policy in the Design of Social Security Reforms",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2008,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Optimal Response to a Transitory Demographic Shock",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2008,
+"venue": "Pension Strategies in Europe and the United States (CESifo - MIT Press)",
+"status": "published"
+},
+{
+"title": "Modeling Great Depressions: The Depression in Finland in the 1990s",
+"authors": [
+"Juan Carlos Conesa",
+"Timothy J. Kehoe",
+"Kim J. Ruhl"
+],
+"year": 2007,
+"venue": "Federal Reserve Bank of Minneapolis Quarterly Review",
+"status": "published"
+},
+{
+"title": "On the Optimal Progressivity of the Income Tax Code",
+"authors": [
+"Juan Carlos Conesa",
+"Dirk Krueger"
+],
+"year": 2006,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "The Status Quo Problem in Social Security Reforms",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2003,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Explaining Cross-country Differences in Participation Rates and Aggregate Fluctuations",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Díaz-Moreno",
+"José Galdón-Sánchez"
+],
+"year": 2002,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Underground Economy and Aggregate Fluctuations",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Díaz-Moreno",
+"José Galdón-Sánchez"
+],
+"year": 2001,
+"venue": "Spanish Economic Review",
+"status": "published"
+},
+{
+"title": "Reforma del Sistema de Seguridad Social y Adquisición de Formación",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2000,
+"venue": "Investigaciones Económicas",
+"status": "published"
+},
+{
+"title": "La financiación del sistema de Seguridad Social en España: efectos dinámicos de una posible reforma",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 2000,
+"venue": "Hacienda Pública Española",
+"status": "published"
+},
+{
+"title": "Sistema Fiscal y Reforma de la Seguridad Social",
+"authors": [
+"Juan Carlos Conesa",
+"Carlos Garriga"
+],
+"year": 1999,
+"venue": "Cuadernos Económicos de ICE",
+"status": "published"
+},
+{
+"title": "Social Security Reform with Heterogeneous Agents",
+"authors": [
+"Juan Carlos Conesa",
+"Dirk Krueger"
+],
+"year": 1999,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "The impact of welfare transfers on household composition",
+"authors": [
+"Juan Carlos Conesa",
+"Qian Li",
+"Junshan Zhou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Educational Attainment and Timing of Fertility Decisions",
+"authors": [
+"Juan Carlos Conesa"
+],
+"year": 2000,
+"venue": "Working Paper UB",
+"status": "working_paper"
+}
+]
+},
+"pradeep dubey": {
+"name": "Pradeep Dubey",
+"papers": [
+{
+"title": "Money as minimal complexity",
+"authors": [
+"Pradeep Dubey",
+"Siddhartha Sahi",
+"Martin Shubik"
+],
+"year": 2018,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Graphical exchange mechanisms",
+"authors": [
+"Pradeep Dubey",
+"Siddhartha Sahi",
+"Martin Shubik"
+],
+"year": 2018,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Eliciting performance: deterministic versus proportional prizes",
+"authors": [
+"Pradeep Dubey",
+"Siddhartha Sahi"
+],
+"year": 2016,
+"venue": "International Journal of Game Theory",
+"status": "published"
+},
+{
+"title": "Competing for Customers in a social network",
+"authors": [
+"Pradeep Dubey",
+"Rahul Garg",
+"Bernard de Meyer"
+],
+"year": 2014,
+"venue": "Journal of Dynamics and Games",
+"status": "published"
+},
+{
+"title": "The role of information in contests",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 2013,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Prizes versus wages with envy and pride",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos",
+"Ori Haimanko"
+],
+"year": 2013,
+"venue": "The Japanese Economic Review",
+"status": "published"
+},
+{
+"title": "Credit cards and inflation",
+"authors": [
+"John Geanakoplos",
+"Pradeep Dubey"
+],
+"year": 2010,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Grading exams: 100, 99, 98,… or a, b, c?",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2010,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Perfect competition in an oligopoly (including bilateral monopoly)",
+"authors": [
+"Pradeep Dubey",
+"Dieter Sondermann"
+],
+"year": 2009,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Games of connectivity",
+"authors": [
+"Pradeep Dubey",
+"Rahul Garg"
+],
+"year": 2008,
+"venue": "Mathematical Programming and Game Theory for Decision Making",
+"status": "published"
+},
+{
+"title": "Competing for customers in a social network: The quasi-linear case",
+"authors": [
+"Pradeep Dubey",
+"Rahul Garg",
+"Bernard De Meyer"
+],
+"year": 2006,
+"venue": "International Workshop on Internet and Network Economics",
+"status": "published"
+},
+{
+"title": "Determinacy with nominal assets and outside money",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2006,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Strategic complements and substitutes, and potential games",
+"authors": [
+"Pradeep Dubey",
+"Ori Haimanko",
+"Andriy Zapechelnyuk"
+],
+"year": 2006,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Money and production, and liquidity trap",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2006,
+"venue": "International Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Compound voting and the Banzhaf index",
+"authors": [
+"Pradeep Dubey",
+"Ezra Einy",
+"Ori Haimanko"
+],
+"year": 2005,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Default and punishment in general equilibrium",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos",
+"Martin Shubik"
+],
+"year": 2005,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Learning with perfect information",
+"authors": [
+"Pradeep Dubey",
+"Ori Haimanko"
+],
+"year": 2004,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Inside and outside fiat money, gains to trade, and IS-LM",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2003,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Monetary equilibrium with missing markets",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2003,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "From Nash to Walras via Shapley–Shubik",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2003,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Price-mediated trade with quantity signals: an axiomatic approach",
+"authors": [
+"Pradeep Dubey",
+"Siddhartha Sahi"
+],
+"year": 2003,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Is gold an efficient store of value?",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos",
+"Martin Shubik"
+],
+"year": 2003,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Optimal scrutiny in multi-period promotion tournaments",
+"authors": [
+"Pradeep Dubey",
+"Ori Haimanko"
+],
+"year": 2003,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "When less competition induces more product innovation",
+"authors": [
+"Pradeep Dubey",
+"Chien-wei Wu"
+],
+"year": 2002,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Competitive pooling: Rothschild-stiglitz reconsidered",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 2002,
+"venue": "The Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Competitive prizes: when less scrutiny induces more effort",
+"authors": [
+"Pradeep Dubey",
+"Chien-wei Wu"
+],
+"year": 2001,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "An equivalence principle for perfectly competitive economies",
+"authors": [
+"Pradeep Dubey",
+"Abraham Neyman"
+],
+"year": 1997,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Noncooperative general exchange with a continuum of traders: two models",
+"authors": [
+"Pradeep Dubey",
+"Lloyd S. Shapley"
+],
+"year": 1994,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Strategic market games: a survey of some results",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1994,
+"venue": "Game-Theoretic Methods in General Equilibrium Analysis",
+"status": "published"
+},
+{
+"title": "An Axiomatic Approach to the Equivalence Phenomenon",
+"authors": [
+"Pradeep Dubey",
+"Abraham Neyman"
+],
+"year": 1994,
+"venue": "Game-Theoretic Methods in General Equilibrium Analysis",
+"status": "published"
+},
+{
+"title": "Repeated trade and the velocity of money",
+"authors": [
+"Pradeep Dubey",
+"Siddharta Sahi",
+"Martin Shubik"
+],
+"year": 1993,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "The value of money in a finite horizon economy: a role for banks",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos"
+],
+"year": 1992,
+"venue": "Economic Analysis of Market and Games (MIT Press)",
+"status": "published"
+},
+{
+"title": "Inefficiency of smooth market mechanisms",
+"authors": [
+"Pradeep Dubey",
+"J. D. Rogawski"
+],
+"year": 1990,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Payoffs in nonatomic economies: an axiomatic approach",
+"authors": [
+"Pradeep Dubey",
+"Abraham Neyman"
+],
+"year": 1988,
+"venue": "The Shapley Value",
+"status": "published"
+},
+{
+"title": "A note on an optimal garnishing rule",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1988,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The revelation of information in strategic market games: A critique of rational expectations equilibrium",
+"authors": [
+"Pradeep Dubey",
+"John Geanakoplos",
+"Martin Shubik"
+],
+"year": 1987,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "General equilibrium and the foundations of the theory of monopolistic competition",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1986,
+"venue": "Rivista internazionale di scienze economiche e commerciali",
+"status": "published"
+},
+{
+"title": "Inefficiency of Nash Equilibria",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1986,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Information patterns and Nash equilibria in extensive games—II",
+"authors": [
+"Pradeep Dubey",
+"Mamoru Kaneko"
+],
+"year": 1985,
+"venue": "Mathematical Social Sciences",
+"status": "published"
+},
+{
+"title": "Input-output prices with endogenous demand",
+"authors": [
+"Parkash Chander",
+"Pradeep Dubey"
+],
+"year": 1985,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Perfect competition in strategic market games with interlinked preferences",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1985,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "On monopolistic competition and perfect equilibria",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1985,
+"venue": "Essays in honor of Tullio Bagiotti",
+"status": "published"
+},
+{
+"title": "Information patterns and Nash equilibria in extensive games: 1",
+"authors": [
+"Pradeep Dubey",
+"Mamoru Kaneko"
+],
+"year": 1984,
+"venue": "Mathematical Social Sciences",
+"status": "published"
+},
+{
+"title": "Totally balanced games arising from controlled programming problems",
+"authors": [
+"Pradeep Dubey",
+"Lloyd S. Shapley"
+],
+"year": 1984,
+"venue": "Mathematical Programming",
+"status": "published"
+},
+{
+"title": "The Shapley value as aircraft landing fees—revisited",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1982,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Price-quantity strategic market games",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1982,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Information conditions, communication and general equilibrium",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1981,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Value theory without efficiency",
+"authors": [
+"Pradeep Dubey",
+"Abraham Neyman",
+"Robert James Weber"
+],
+"year": 1981,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "The Profit Maximizing Firm: Managers and Stockholders",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1981,
+"venue": "Economies et Societes",
+"status": "published"
+},
+{
+"title": "A strategic market game with price and quantity strategies",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": 1980,
+"venue": "Zeitschrift für Nationalökonomie",
+"status": "published"
+},
+{
+"title": "Nash Equilibria of Market Games: Finiteness and Inefficiency",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1980,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Efficiency Properties of Strategic Market Games: an Axiomatic Approach",
+"authors": [
+"Pradeep Dubey",
+"Andreu Mas-Colell",
+"Martin Shubik"
+],
+"year": 1980,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Asymptotic semivalues and a short proof of Kannai's theorem",
+"authors": [
+"Pradeep Dubey"
+],
+"year": 1980,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Mathematical properties of the Banzhaf power index",
+"authors": [
+"Pradeep Dubey",
+"Lloyd S. Shapley"
+],
+"year": 1979,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Bankruptcy and optimality in a closed trading mass economy modelled as a non-cooperative game",
+"authors": [
+"Pradeep Dubey",
+"Martin Shubik"
+],
+"year": null,
+"venue": null,
+"status": "published"
+}
+]
+},
+"lorenz ekerdt": {
+"name": "Lorenz Ekerdt",
+"papers": [
+{
+"title": "Self-Selection and the Diminishing Returns of Research",
+"authors": [
+"Lorenz Ekerdt",
+"Kai-Jie Wu"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "The Rise of Specialized Firms",
+"authors": [
+"Lorenz Ekerdt",
+"Kai-Jie Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Role of R&D Factors in Economic Growth",
+"authors": [
+"Lorenz Ekerdt"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"fedor iskhakov": {
+"name": "Fedor Iskhakov",
+"papers": [
+{
+"title": "Equilibrium Trade in Automobiles",
+"authors": [
+"Kenneth Gillingham",
+"Fedor Iskhakov",
+"Anders Munk-Nielsen",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": 2022,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Effects of taxes and safety net pensions on life-cycle labor supply, savings and human capital: The case of Australia",
+"authors": [
+"Fedor Iskhakov",
+"Michael Keane"
+],
+"year": 2021,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Machine learning and structural econometrics: Contrasts and synergies",
+"authors": [
+"Fedor Iskhakov",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": 2020,
+"venue": "The Econometrics Journal",
+"status": "published"
+},
+{
+"title": "The dynamics of Bertrand price competition with cost-reducing investments",
+"authors": [
+"Fedor Iskhakov",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": 2018,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "First impressions matter: An experimental investigation of online financial advice",
+"authors": [
+"Julie Agnew",
+"Hazel Bateman",
+"Christine Eckert",
+"Fedor Iskhakov",
+"Jordan Louviere",
+"Stephen Satchell",
+"Susan Thorp"
+],
+"year": 2018,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The endogenous grid method for discrete-continuous dynamic choice models with (or without) taste shocks",
+"authors": [
+"Fedor Iskhakov",
+"Thomas Jørgensen",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": 2017,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Recursive lexicographical search: Finding all markov perfect equilibria of finite state directional dynamic games",
+"authors": [
+"Fedor Iskhakov",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": 2016,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Constrained optimization approaches to estimation of structural models: Comment",
+"authors": [
+"Fedor Iskhakov",
+"Jinhyuk Lee",
+"John Rust",
+"Bertel Schjerning",
+"Kyoungwon Seo"
+],
+"year": 2016,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Multidimensional endogenous gridpoint method: Solving triangular dynamic stochastic optimization problems without root-finding operations",
+"authors": [
+"Fedor Iskhakov"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Structural dynamic model of retirement with latent health indicator",
+"authors": [
+"Fedor Iskhakov"
+],
+"year": 2010,
+"venue": "The Econometrics Journal",
+"status": "published"
+},
+{
+"title": "Professional identity and stigma in the context of war",
+"authors": [
+"Anna Earl",
+"Matevz Matt Raskovic",
+"Marina Iskhakova",
+"Fedor Iskhakov"
+],
+"year": 2026,
+"venue": "Critical Perspectives on International Business",
+"status": "published"
+},
+{
+"title": "Feeling comfortable with a mortgage: The impact of framing, financial literacy and advice",
+"authors": [
+"Susan Thorp",
+"Junhao Liu",
+"Julie Agnew",
+"Hazel Bateman",
+"Christine Eckert",
+"Fedor Iskhakov"
+],
+"year": 2023,
+"venue": "Journal of Financial Literacy and Wellbeing",
+"status": "published"
+},
+{
+"title": "Individual capability and effort in retirement benefit choice",
+"authors": [
+"Hazel Bateman",
+"Christine Eckert",
+"Fedor Iskhakov",
+"Jordan Louviere",
+"Stephen Satchell",
+"Susan Thorp"
+],
+"year": 2018,
+"venue": "Journal of Risk and Insurance",
+"status": "published"
+},
+{
+"title": "Default and naive diversification heuristics in annuity choice",
+"authors": [
+"Hazel Bateman",
+"Christine Eckert",
+"Fedor Iskhakov",
+"Jordan Louviere",
+"Stephen Satchell",
+"Susan Thorp"
+],
+"year": 2017,
+"venue": "Australian Journal of Management",
+"status": "published"
+},
+{
+"title": "Optimal annuity purchases for Australian retirees",
+"authors": [
+"Fedor Iskhakov",
+"Susan Thorp",
+"Hazel Bateman"
+],
+"year": 2015,
+"venue": "Economic Record",
+"status": "published"
+},
+{
+"title": "Can the job market for economists be improved?",
+"authors": [
+"Sarbartha Bandyopadhyay",
+"Fedor Iskhakov",
+"Terence Johnson",
+"Soohyung Lee",
+"David McArthur",
+"John Rust",
+"Joel Watson",
+"John Watson"
+],
+"year": 2013,
+"venue": "Handbook of Market Design",
+"status": "published"
+},
+{
+"title": "Structural estimation of dynamic directional games with multiple equilibria",
+"authors": [
+"Fedor Iskhakov",
+"Dennis Kristensen",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Differentiated Product Demand Estimation with Secondary Markets",
+"authors": [
+"Maximilian Blesch",
+"Kenneth Gillingham",
+"Jonas Slaathaug Hansen",
+"Fedor Iskhakov",
+"Nikolaj Moll Lund",
+"Anders Munk-Nielsen",
+"John Rust",
+"Bertel Schjerning"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Making Waves: Macro Shocks to Automobile Markets",
+"authors": [
+"Dan Cao",
+"Fedor Iskhakov",
+"John Rust",
+"Anders Munk-Nielsen",
+"Bertel Schjerning",
+"Kenneth Gillingham"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identifying present-biased discount functions in dynamic discrete choice models",
+"authors": [
+"Jaap H. Abbring",
+"Øystein Daljord",
+"Fedor Iskhakov"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Policy Tree Descendant Algorithm for Solving Consumption-Savings Problems with Safety Net",
+"authors": [
+"Wending Liu",
+"Fedor Iskhakov"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Location, social norms and recycling",
+"authors": [
+"Fedor Iskhakov",
+"Efthymia Kyriakopoulou",
+"Philip Ushchev",
+"Yves Zenou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Entry deterrence through restrictive covenants",
+"authors": [
+"Fedor Iskhakov",
+"Alina Ozhegova"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Career, Marriage, and Fertility over the Life Cycle: Least Squares Estimation of Dynamic Structural Matching",
+"authors": [
+"Esben Scriver Andersen",
+"Fedor Iskhakov",
+"Bertel Schjerning"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unbundling the Process of Agricultural Technology Adoption: Experimental Evidence from Kenya",
+"authors": [
+"Shyamal Chowdhury",
+"Fedor Iskhakov",
+"Jane Mariara",
+"Joeri Smits",
+"Munshi Sulaiman"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"chang liu": {
+"name": "Chang Liu",
+"papers": [
+{
+"title": "Sovereign Risk and Intangible Investment",
+"authors": [
+"Chang Liu",
+"Minjie Deng"
+],
+"year": 2024,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Trade Barriers and Sovereign Default Risk",
+"authors": [
+"Chang Liu",
+"George Alessandria",
+"Yan Bai",
+"Minjie Deng"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Incomplete Tariff Pass-Through at the Firm-level: Evidence from U.S.-China Trade Dispute",
+"authors": [
+"Chang Liu",
+"Chengyuan He",
+"Xiaomei Sui",
+"Soo Kyung Woo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Foreign Currency Borrowing and Exporter Dynamics in Emerging Markets",
+"authors": [
+"Chang Liu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Slowdown of TFP Declines During the Debt Crisis: Evidence from Tradable and Non-tradable Sectors",
+"authors": [
+"Chang Liu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ting liu": {
+"name": "Ting Liu",
+"papers": [
+{
+"title": "Consumer Information in Credence-Good Markets",
+"authors": [
+"Ting Liu",
+"Fei Li",
+"David Kim"
+],
+"year": null,
+"venue": "RAND Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "Equilibrium Information in Credence Goods",
+"authors": [
+"Ting Liu",
+"Ching-to Albert Ma"
+],
+"year": 2024,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Trust building in credence goods markets",
+"authors": [
+"Ting Liu",
+"Yuk-fai Fong",
+"Xiaoxuan Meng"
+],
+"year": 2022,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Credence goods markets with conscientious and selfish experts",
+"authors": [
+"Ting Liu"
+],
+"year": 2011,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "On the role of verifiability and commitment in credence goods markets",
+"authors": [
+"Ting Liu",
+"Donald Wright",
+"Yuk-fai Fong"
+],
+"year": 2014,
+"venue": "International Journal of Industrial Organization",
+"status": "published"
+},
+{
+"title": "Liability and Reputation in credence goods markets",
+"authors": [
+"Ting Liu",
+"Yuk-fai Fong"
+],
+"year": 2018,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Pricing schemes and seller fraud: evidence from taxi rides",
+"authors": [
+"Ting Liu",
+"Estefania Vergara Cobos",
+"Yiyi Zhou"
+],
+"year": 2019,
+"venue": "Journal of Industrial Economics",
+"status": "published"
+},
+{
+"title": "Using Customer Service to Build Clients' Trust",
+"authors": [
+"Ting Liu",
+"Yuk-fai Fong",
+"Xiaoxiao Hu",
+"Xiaoxuan Meng"
+],
+"year": 2020,
+"venue": "Journal of Industrial Economics",
+"status": "published"
+},
+{
+"title": "Treatment delay in credence goods market",
+"authors": [
+"Ting Liu",
+"Yuk-fai Fong",
+"Xiaoxuan Meng",
+"Lin Zhao"
+],
+"year": 2024,
+"venue": "Journal of Institutional and Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Incentive for motivated experts in a partnership",
+"authors": [
+"Ting Liu",
+"Ching-to Albert Ma",
+"Henry Mak"
+],
+"year": 2018,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Search in Credence Goods Markets",
+"authors": [
+"Ting Liu",
+"Takahiro Moriya"
+],
+"year": null,
+"venue": "RAND Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Optimal Emission Permits in Oligopolistic Markets",
+"authors": [
+"Ting Liu",
+"Yair Tauman"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Health insurance, treatment plan, and delegation to altruistic physicians",
+"authors": [
+"Ting Liu",
+"Ching-to Albert Ma"
+],
+"year": 2013,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Informal payments in developing countries' public health sectors",
+"authors": [
+"Ting Liu",
+"Monic Jiayin Sun"
+],
+"year": 2012,
+"venue": "Pacific Economic Review",
+"status": "published"
+},
+{
+"title": "New product launch: herd seeking or herd preventing?",
+"authors": [
+"Ting Liu",
+"Pasquale Schiraldi"
+],
+"year": 2012,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Information acquisition, signaling and learning in duopoly",
+"authors": [
+"Ting Liu",
+"Thomas Jeitschko",
+"Tao Wang"
+],
+"year": 2018,
+"venue": "International Journal of Industrial Organization",
+"status": "published"
+},
+{
+"title": "Optimal Licensing in Markets with Quality Innovation",
+"authors": [
+"Ting Liu",
+"Siyu Ma",
+"Yair Tauman"
+],
+"year": null,
+"venue": "Games and Economic Behavior",
+"status": "revise_resubmit"
+},
+{
+"title": "Disclosure of conflicts of interest: Theory and empirics",
+"authors": [
+"Ting Liu",
+"Ming Li"
+],
+"year": null,
+"venue": "The Elgar Companion to Information Economics",
+"status": "forthcoming"
+},
+{
+"title": "Mandatory disclosure of conflicts of interest: Good news or bad news?",
+"authors": [
+"Ting Liu",
+"Ming Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Buying frenzies in durable-goods markets",
+"authors": [
+"Ting Liu",
+"Pasquale Schiraldi"
+],
+"year": 2014,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Dynamic Inspection under Limited Attention",
+"authors": [
+"Ting Liu",
+"Eilon Solan",
+"Chang Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"mihai manea": {
+"name": "Mihai Manea",
+"papers": [
+{
+"title": "Revisiting Shapley and Shubik (1971) via Nash (1953): A Refinement of the Core in the Assignment Game",
+"authors": [
+"Mihai Manea",
+"Dilip Abreu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Games with Identical Shapley Values",
+"authors": [
+"Mihai Manea",
+"Sylvain Beal",
+"Eric Remila",
+"Philippe Solal"
+],
+"year": 2020,
+"venue": "Handbook of the Shapley Value",
+"status": "published"
+},
+{
+"title": "Models of Bilateral Trade in Networks",
+"authors": [
+"Mihai Manea"
+],
+"year": 2016,
+"venue": "The Oxford Handbook of the Economics of Networks",
+"status": "published"
+},
+{
+"title": "Bargaining Foundations for the Outside Option Principle",
+"authors": [
+"Mihai Manea",
+"Dilip Abreu"
+],
+"year": 2026,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Bargaining and Exclusion with Multiple Buyers",
+"authors": [
+"Mihai Manea",
+"Dilip Abreu"
+],
+"year": 2024,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Withholding and Damage in Bayesian Trade Mechanisms",
+"authors": [
+"Mihai Manea",
+"Eric Maskin"
+],
+"year": 2023,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Bottleneck Links, Essential Intermediaries, and Competing Paths of Diffusion in Networks",
+"authors": [
+"Mihai Manea"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Efficient Partnership Formation in Networks",
+"authors": [
+"Mihai Manea",
+"Francis Bloch",
+"Bhaskar Dutta"
+],
+"year": 2019,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Intermediation and Resale in Networks",
+"authors": [
+"Mihai Manea"
+],
+"year": 2018,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Bargaining in Dynamic Markets",
+"authors": [
+"Mihai Manea"
+],
+"year": 2017,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Steady States in Matching and Bargaining",
+"authors": [
+"Mihai Manea"
+],
+"year": 2017,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Social Status in Networks",
+"authors": [
+"Mihai Manea",
+"Nicole Immorlica",
+"Rachel Kranton",
+"Greg Stoddard"
+],
+"year": 2017,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Bargaining and Efficiency in Networks",
+"authors": [
+"Mihai Manea",
+"Dilip Abreu"
+],
+"year": 2012,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Markov Equilibria in a Model of Bargaining in Networks",
+"authors": [
+"Mihai Manea",
+"Dilip Abreu"
+],
+"year": 2012,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Bargaining in Stationary Networks",
+"authors": [
+"Mihai Manea"
+],
+"year": 2011,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Axioms for Deferred Acceptance",
+"authors": [
+"Mihai Manea",
+"Fuhito Kojima"
+],
+"year": 2010,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Incentives in the Probabilistic Serial Mechanism",
+"authors": [
+"Mihai Manea",
+"Fuhito Kojima"
+],
+"year": 2010,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Asymptotic Ordinal Inefficiency of Random Serial Dictatorship",
+"authors": [
+"Mihai Manea"
+],
+"year": 2009,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "A Constructive Proof of the Ordinal Efficiency Welfare Theorem",
+"authors": [
+"Mihai Manea"
+],
+"year": 2008,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Unique Induced Preference Representations",
+"authors": [
+"Mihai Manea"
+],
+"year": 2008,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Random Serial Dictatorship and Ordinally Efficient Contracts",
+"authors": [
+"Mihai Manea"
+],
+"year": 2008,
+"venue": "International Journal of Game Theory",
+"status": "published"
+},
+{
+"title": "Core Tâtonnement",
+"authors": [
+"Mihai Manea"
+],
+"year": 2007,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Serial Dictatorship and Pareto Optimality",
+"authors": [
+"Mihai Manea"
+],
+"year": 2007,
+"venue": "Games and Economic Behavior",
+"status": "published"
+}
+]
+},
+"robert millard": {
+"name": "Robert Millard",
+"papers": [
+{
+"title": "The General Equilibrium Costs and Impacts of Oil Price Shocks in Newfoundland and Labrador",
+"authors": [
+"Robert Millard",
+"P. Withey",
+"V. Lantz",
+"T. O. Ochuodho"
+],
+"year": 2017,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Heterogeneous Disability Shocks and the Dynamics of Income, Employment, and Partial Insurance",
+"authors": [
+"Robert Millard"
+],
+"year": 2026,
+"venue": "The Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Income, Employment, and Insurance Gaps After the Onset of Mental Health Disability",
+"authors": [
+"Robert Millard"
+],
+"year": 2026,
+"venue": "Journal of Mental Health and Clinical Psychology",
+"status": "published"
+},
+{
+"title": "Early-Onset Disability, Education Investments, and Social Insurance",
+"authors": [
+"Robert Millard"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Estimating a Process of Health Formation in Older Adults: The Roles of Physical Functioning, Cognition, and Mental Health",
+"authors": [
+"Robert Millard",
+"Steven Stern"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unpacking Disability: How Type, Severity, Persistence, and Onset Shape Employment and Earnings",
+"authors": [
+"Robert Millard"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Health-related Work Limitations and the Interaction Between Disability Insurance Programs and Workers' Compensation",
+"authors": [
+"Robert Millard",
+"Rory McGee"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Educational Investments, Family Resources, and the Dynamic Disincentive of Social Security",
+"authors": [
+"Robert Millard",
+"Steven Stern"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Dynamics of Informal Care Burden",
+"authors": [
+"Robert Millard",
+"Steven Stern"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Distortionary Effects of Means-tested Welfare on Durable Consumption and Asset Accumulation",
+"authors": [
+"Robert Millard",
+"T. Keun Lee"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"mark r montgomery": {
+"name": "Mark R. Montgomery",
+"papers": [
+{
+"title": "From Death to Birth: Mortality Decline and Reproductive Change",
+"authors": [
+"Mark R. Montgomery",
+"Barney Cohen"
+],
+"year": 1998,
+"venue": "National Academy Press",
+"status": "published"
+},
+{
+"title": "Cities Transformed: Demographic Change and Its Implications in the Developing World",
+"authors": [
+"Panel on Urban Population Dynamics",
+"Mark R. Montgomery",
+"Richard Stren",
+"Barney Cohen",
+"Holly E. Reed"
+],
+"year": 2003,
+"venue": "National Academies Press",
+"status": "published"
+},
+{
+"title": "The New Global Frontier: Urbanization, Poverty and Environment in the 21st Century",
+"authors": [
+"George Martine",
+"Gordon McGranahan",
+"Mark R. Montgomery",
+"Rogelio Fernández-Castilla"
+],
+"year": 2008,
+"venue": "Earthscan",
+"status": "published"
+},
+{
+"title": "Child health, breastfeeding, and survival in Malaysia: A random-effects logit approach",
+"authors": [
+"Mark R. Montgomery",
+"Toni Richards",
+"Henry Braun"
+],
+"year": 1986,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Models of marital status and childbearing",
+"authors": [
+"Mark R. Montgomery",
+"James Trussell"
+],
+"year": 1987,
+"venue": "Handbook of Labor Economics",
+"status": "published"
+},
+{
+"title": "The impacts of urban population growth on urban labor markets and the costs of urban service delivery",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1987,
+"venue": "Population Growth and Economic Development: Issues and Evidence",
+"status": "published"
+},
+{
+"title": "A new look at the Easterlin 'synthesis' framework",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1987,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "How large is too large? Implications of the city size literature for population policy and research",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1988,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Rates of courtship and first marriage in Thailand",
+"authors": [
+"Mark R. Montgomery",
+"Paul Cheung",
+"Donna Sulak"
+],
+"year": 1988,
+"venue": "Population Studies",
+"status": "published"
+},
+{
+"title": "Female first marriage in East and Southeast Asia: A Kiefer-Neumann model",
+"authors": [
+"Mark R. Montgomery",
+"Donna Sulak"
+],
+"year": 1989,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Dynamic behavioral models and contraceptive use",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1989,
+"venue": "Journal of Biosocial Sciences",
+"status": "published"
+},
+{
+"title": "Fecundability and husband's age",
+"authors": [
+"Noreen Goldman",
+"Mark R. Montgomery"
+],
+"year": 1990,
+"venue": "Social Biology",
+"status": "published"
+},
+{
+"title": "Household formation and home ownership in France",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1991,
+"venue": "Demographic Applications of Event History Analysis",
+"status": "published"
+},
+{
+"title": "The Diffusion of Fertility Control in Taiwan: Estimates from Pooled Cross-Section, Time-Series Models",
+"authors": [
+"Mark R. Montgomery",
+"John B. Casterline"
+],
+"year": 1993,
+"venue": "Population Studies",
+"status": "published"
+},
+{
+"title": "The socioeconomic context",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1993,
+"venue": "Factors Affecting Contraceptive Use in Sub-Saharan Africa",
+"status": "published"
+},
+{
+"title": "Migration responses to adjustment",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1993,
+"venue": "Understanding the Social Effect of Policy Reforms",
+"status": "published"
+},
+{
+"title": "Effects of structural adjustment on fertility",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1993,
+"venue": "Understanding the Social Effect of Policy Reforms",
+"status": "published"
+},
+{
+"title": "Assessing program effectiveness and cost effectiveness",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1995,
+"venue": "The Best Intentions: Unintended Pregnancy and the Well-Being of Children and Families",
+"status": "published"
+},
+{
+"title": "Fertility and maternal and child health",
+"authors": [
+"Mark R. Montgomery",
+"Cynthia Lloyd"
+],
+"year": 1996,
+"venue": "The Impact of Population Growth on Well-being in Developing Countries",
+"status": "published"
+},
+{
+"title": "Social Learning, Social Influence, and New Models of Fertility",
+"authors": [
+"Mark R. Montgomery",
+"John B. Casterline"
+],
+"year": 1996,
+"venue": "Population and Development Review",
+"status": "published"
+},
+{
+"title": "Men, women and unintended pregnancy",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1996,
+"venue": "Fertility in the United States: New Patterns, New Theories",
+"status": "published"
+},
+{
+"title": "Estimating the cost of intervention: The Mother-Baby Package",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1997,
+"venue": "Reproductive Health in Developing Countries: Expanding Dimensions, Building Solutions",
+"status": "published"
+},
+{
+"title": "Excess fertility, unintended births, and children's schooling",
+"authors": [
+"Mark R. Montgomery",
+"Cynthia Lloyd"
+],
+"year": 1998,
+"venue": "Critical Perspectives on Schooling and Fertility in the Developing World",
+"status": "published"
+},
+{
+"title": "Introduction",
+"authors": [
+"Barney Cohen",
+"Mark R. Montgomery"
+],
+"year": 1998,
+"venue": "From Death to Birth: Mortality Decline and Reproductive Change",
+"status": "published"
+},
+{
+"title": "Learning and lags in mortality perceptions",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 1998,
+"venue": "From Death to Birth: Mortality Decline and Reproductive Change",
+"status": "published"
+},
+{
+"title": "Social networks and the diffusion of fertility control in Korea",
+"authors": [
+"Mark R. Montgomery",
+"Woojin Chung"
+],
+"year": 1999,
+"venue": "Dynamics of Values in Fertility Change",
+"status": "published"
+},
+{
+"title": "Measuring Living Standards With Proxy Variables",
+"authors": [
+"Mark R. Montgomery",
+"Michele Gragnolati",
+"Kathleen A. Burke",
+"Edmundo Paredes"
+],
+"year": 2000,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "The Quantity-Quality Transition in Asia",
+"authors": [
+"Mark R. Montgomery",
+"Mary Arends-Kuenning",
+"Cem Mete"
+],
+"year": 2000,
+"venue": "Population and Development Review",
+"status": "published"
+},
+{
+"title": "Perceiving Mortality Decline",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 2000,
+"venue": "Population and Development Review",
+"status": "published"
+},
+{
+"title": "Urban Poverty and Health in Developing Countries: Household and Neighborhood Effects",
+"authors": [
+"Mark R. Montgomery",
+"Paul C. Hewett"
+],
+"year": 2005,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "The Health of Urban Populations in Developing Countries: An Overview",
+"authors": [
+"Mark R. Montgomery",
+"Alex C. Ezeh"
+],
+"year": 2005,
+"venue": "Handbook of Urban Health",
+"status": "published"
+},
+{
+"title": "Urban Health in Developing Countries: Insights from Demographic Theory and Practice",
+"authors": [
+"Mark R. Montgomery",
+"Alex C. Ezeh"
+],
+"year": 2005,
+"venue": "Handbook of Urban Health",
+"status": "published"
+},
+{
+"title": "The Urban Transformation of the Developing World",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 2008,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Experimental evaluation of interviewing methods using sexually transmitted infection biomarkers to validate reporting of sexual behavior",
+"authors": [
+"Paul C. Hewett",
+"Barbara S. Mensch",
+"Manoel Carlos S. de A. Ribeiro",
+"Heidi E. Jones",
+"Sheri A. Lippman",
+"Mark R. Montgomery",
+"Janneke H. H. M. van de Wijgert"
+],
+"year": 2008,
+"venue": "American Journal of Epidemiology",
+"status": "published"
+},
+{
+"title": "The Demography of the Urban Transition: What We Know and Don't Know",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 2008,
+"venue": "The New Global Frontier: Cities, Poverty And Environment in the 21st Century",
+"status": "published"
+},
+{
+"title": "Urban Poverty and Health in Developing Countries",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 2009,
+"venue": "Population Bulletin",
+"status": "published"
+},
+{
+"title": "Urban Health in Low- and Middle-Income Countries",
+"authors": [
+"Mark R. Montgomery"
+],
+"year": 2009,
+"venue": "Oxford Textbook of Public Health",
+"status": "published"
+},
+{
+"title": "Mapping Urban Settlements and the Risks of Climate Change in Africa, Asia, and South America",
+"authors": [
+"Deborah Balk",
+"et al."
+],
+"year": 2009,
+"venue": "Population Dynamics and Climate Change",
+"status": "published"
+},
+{
+"title": "Understanding the Impacts of Climate Change: Linking Satellite and Other Spatial Data with Population Data",
+"authors": [
+"Deborah Balk",
+"Mark R. Montgomery",
+"Gordon McGranahan",
+"Megan Todd"
+],
+"year": 2009,
+"venue": "Population Dynamics and Climate Change",
+"status": "published"
+}
+]
+},
+"eran shmaya": {
+"name": "Eran Shmaya",
+"papers": [
+{
+"title": "Disentangling exploration from exploitation",
+"authors": [
+"Alessandro Lizzeri",
+"Eran Shmaya",
+"Leeat Yariv"
+],
+"year": 2026,
+"venue": "American Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "Optimal queueing regimes",
+"authors": [
+"Marco Scarsini",
+"Eran Shmaya"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Collective upkeep",
+"authors": [
+"Erik Madsen",
+"Eran Shmaya"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bayesian learning in mean field games",
+"authors": [
+"Eran Shmaya",
+"Bruno Ziliotto"
+],
+"year": 2025,
+"venue": "SIAM Journal on Control and Optimization",
+"status": "published"
+},
+{
+"title": "Robust monopoly regulation",
+"authors": [
+"Yingni Guo",
+"Eran Shmaya"
+],
+"year": 2025,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Identifying the deviator",
+"authors": [
+"Noga Alon",
+"Benjamin Gunby",
+"Xiaoyu He",
+"Eran Shmaya",
+"Eilon Solan"
+],
+"year": 2024,
+"venue": "The Annals of Applied Probability",
+"status": "published"
+},
+{
+"title": "Regret-minimizing project choice",
+"authors": [
+"Yingni Guo",
+"Eran Shmaya"
+],
+"year": 2023,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Costly miscalibration",
+"authors": [
+"Yingni Guo",
+"Eran Shmaya"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "The interval structure of optimal disclosure",
+"authors": [
+"Yingni Guo",
+"Eran Shmaya"
+],
+"year": 2019,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Recursive utility and parameter uncertainty",
+"authors": [
+"Nabil I Al-Najjar",
+"Eran Shmaya"
+],
+"year": 2019,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Unique monetary equilibrium with inflation in a stationary bewley–aiyagari model",
+"authors": [
+"Tai-Wei Hu",
+"Eran Shmaya"
+],
+"year": 2019,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Large strategic dynamic interactions",
+"authors": [
+"Ehud Kalai",
+"Eran Shmaya"
+],
+"year": 2018,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Learning the fundamentals in a stationary environment",
+"authors": [
+"Nabil I Al-Najjar",
+"Eran Shmaya"
+],
+"year": 2018,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "General revealed preference theory",
+"authors": [
+"Christopher P Chambers",
+"Federico Echenique",
+"Eran Shmaya"
+],
+"year": 2017,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Experiments on decisions under uncertainty: A theoretical framework",
+"authors": [
+"Eran Shmaya",
+"Leeat Yariv"
+],
+"year": 2016,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Agreeing to agree and dutch books",
+"authors": [
+"Yi-Chun Chen",
+"Ehud Lehrer",
+"Jiangtao Li",
+"Dov Samet",
+"Eran Shmaya"
+],
+"year": 2015,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Tractable falsifiability",
+"authors": [
+"Ronen Gradwohl",
+"Eran Shmaya"
+],
+"year": 2015,
+"venue": "Economics & Philosophy",
+"status": "published"
+},
+{
+"title": "Uncertainty and disagreement in equilibrium models",
+"authors": [
+"Nabil I Al-Najjar",
+"Eran Shmaya"
+],
+"year": 2015,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Rental harmony with roommates",
+"authors": [
+"Yaron Azrieli",
+"Eran Shmaya"
+],
+"year": 2014,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Non-existence of subgame-perfect ϵ-equilibrium in perfect information games with infinite horizon",
+"authors": [
+"Janos Flesch",
+"Jeroen Kuipers",
+"Ayala Mashiah-Yaakovi",
+"Gijs Schoenmakers",
+"Eran Shmaya",
+"Eilon Solan",
+"Koos Vrieze"
+],
+"year": 2014,
+"venue": "International Journal of Game Theory",
+"status": "published"
+},
+{
+"title": "The axiomatic structure of empirical content",
+"authors": [
+"Christopher P Chambers",
+"Federico Echenique",
+"Eran Shmaya"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "A prequential test for exchangeable theories",
+"authors": [
+"Alvaro Sandroni",
+"Eran Shmaya"
+],
+"year": 2014,
+"venue": "Journal of Dynamics and Games",
+"status": "published"
+},
+{
+"title": "Garbling of signals and outcome equivalence",
+"authors": [
+"Ehud Lehrer",
+"Dinah Rosenberg",
+"Eran Shmaya"
+],
+"year": 2013,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Eliciting beliefs by paying in chance",
+"authors": [
+"Alvaro Sandroni",
+"Eran Shmaya"
+],
+"year": 2013,
+"venue": "Economic Theory Bulletin",
+"status": "published"
+},
+{
+"title": "Lipschitz games",
+"authors": [
+"Yaron Azrieli",
+"Eran Shmaya"
+],
+"year": 2013,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Expressible inspections",
+"authors": [
+"Tai Wei Hu",
+"Eran Shmaya"
+],
+"year": 2013,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "The determinacy of infinite games with eventual perfect monitoring",
+"authors": [
+"Eran Shmaya"
+],
+"year": 2011,
+"venue": "Proceedings of the American Mathematical Society",
+"status": "published"
+},
+{
+"title": "Testable implications of gross substitutes in demand for two goods",
+"authors": [
+"Christopher P Chambers",
+"Federico Echenique",
+"Eran Shmaya"
+],
+"year": 2011,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "On behavioral complementarity and its implications",
+"authors": [
+"Christopher P Chambers",
+"Federico Echenique",
+"Eran Shmaya"
+],
+"year": 2010,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Signaling and mediation in games with common interests",
+"authors": [
+"Ehud Lehrer",
+"Dinah Rosenberg",
+"Eran Shmaya"
+],
+"year": 2010,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Many inspections are manipulable",
+"authors": [
+"Eran Shmaya"
+],
+"year": 2008,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Two remarks on blackwell's theorem",
+"authors": [
+"Ehud Lehrer",
+"Eran Shmaya"
+],
+"year": 2008,
+"venue": "Journal of Applied Probability",
+"status": "published"
+},
+{
+"title": "A qualitative approach to quantum probability",
+"authors": [
+"Ehud Lehrer",
+"Eran Shmaya"
+],
+"year": 2006,
+"venue": "Proceedings of the Royal Society A",
+"status": "published"
+},
+{
+"title": "Nonbilocal measurement via an entangled state",
+"authors": [
+"Eran Shmaya"
+],
+"year": 2005,
+"venue": "Physical Review A",
+"status": "published"
+},
+{
+"title": "The value of information structures in zero-sum games with lack of information on one side",
+"authors": [
+"Eran Shmaya"
+],
+"year": 2006,
+"venue": "International Journal of Game Theory",
+"status": "published"
+},
+{
+"title": "Comparison of information structures and completely positive maps",
+"authors": [
+"Eran Shmaya"
+],
+"year": 2005,
+"venue": "Journal of Physics A: Mathematical and General",
+"status": "published"
+},
+{
+"title": "Zero-sum dynamic games and a stochastic variation of ramsey's theorem",
+"authors": [
+"Eran Shmaya",
+"Eilon Solan"
+],
+"year": 2004,
+"venue": "Stochastic Processes and their Applications",
+"status": "published"
+},
+{
+"title": "Two-player nonzero-sum stopping games in discrete time",
+"authors": [
+"Eran Shmaya",
+"Eilon Solan",
+"et al."
+],
+"year": 2004,
+"venue": "The Annals of Probability",
+"status": "published"
+},
+{
+"title": "An application of ramsey theorem to stopping games",
+"authors": [
+"Eran Shmaya",
+"Eilon Solan",
+"Nicolas Vieille"
+],
+"year": 2003,
+"venue": "Games and Economic Behavior",
+"status": "published"
+}
+]
+},
+"steven stern": {
+"name": "Steven Stern",
+"papers": []
+},
+"yair tauman": {
+"name": "Yair Tauman",
+"papers": []
+},
+"yiyi zhou": {
+"name": "Yiyi Zhou",
+"papers": [
+{
+"title": "Bayesian Estimation of a Dynamic Model of Two-Sided Markets: Application to the U.S. Video Game Industry",
+"authors": [
+"Yiyi Zhou"
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Market for Electric Vehicles: Indirect Network Effects and Policy Impacts",
+"authors": [
+"Yiyi Zhou",
+"Shanjun Li",
+"Lang Tong",
+"Jianwei Xing"
+],
+"year": 2017,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published"
+},
+{
+"title": "Technology Adoption and Critical Mass: The Case of the U.S. Electric Vehicle Market",
+"authors": [
+"Shanjun Li",
+"Yiyi Zhou"
+],
+"year": 2018,
+"venue": "Journal of Industrial Economics",
+"status": "published"
+},
+{
+"title": "Pricing Schemes and Seller Fraud: Evidence from New York City Taxi Rides",
+"authors": [
+"Ting Liu",
+"Estefania Vergara-Cobos",
+"Yiyi Zhou"
+],
+"year": 2019,
+"venue": "Journal of Industrial Economics",
+"status": "published"
+},
+{
+"title": "Consumer Search and Automobile Dealer Co-location",
+"authors": [
+"Yiyi Zhou",
+"Charles Murry"
+],
+"year": 2020,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Intermediaries and Product Quality in Used Car Markets",
+"authors": [
+"Gary Biglaiser",
+"Fei Li",
+"Charles Murry",
+"Yiyi Zhou"
+],
+"year": 2020,
+"venue": "The RAND Journal of Economics",
+"status": "published"
+},
+{
+"title": "Inventory Management in Decentralized Markets",
+"authors": [
+"Yiyi Zhou",
+"Fei Li",
+"Charles Murry",
+"Can Tian"
+],
+"year": 2024,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Observational Learning and Information Disclosure in Search Markets",
+"authors": [
+"Ziying Fan",
+"Xi Weng",
+"Li-An Zhou",
+"Yiyi Zhou"
+],
+"year": null,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Dynamic Search in a Non-Stationary Environment: An Application to the Beijing Housing Market",
+"authors": [
+"Ying Fan",
+"Ziying Fan",
+"Yiyi Zhou"
+],
+"year": null,
+"venue": "NBER Working Paper 33528",
+"status": "working_paper"
+},
+{
+"title": "Intermediaries in Decentralized Markets: Evidence from the Used-Car Transactions",
+"authors": [
+"Fei Li",
+"Charles Murry",
+"Can Tian",
+"Yiyi Zhou"
+],
+"year": null,
+"venue": "NBER Working Paper 34136",
+"status": "revise_resubmit"
+},
+{
+"title": "Regulation of Contract Generosity in Selection Markets: The Case of Medicare Advantage",
+"authors": [
+"James Gluzman",
+"Yiyi Zhou"
+],
+"year": 2025,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Double Duty: A Subsidy Design for Quality Promotion and Price Discipline",
+"authors": [
+"Colleen Carey",
+"Ying Fan",
+"Yiyi Zhou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Regulating Intermediaries in Credit Markets: Evidence from Mortgage Brokers",
+"authors": [
+"Chao Liu",
+"Tianshi Mu",
+"Yiyi Zhou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Offshore Horizons: HVDC Wind Farms - Exploring Techno-Economic Dimensions",
+"authors": [
+"Yiyi Zhou",
+"D. Singh",
+"D. Golden",
+"G. Bhansali",
+"A. Anwar",
+"S. Singh",
+"L. Fang"
+],
+"year": 2025,
+"venue": "IEEE Access",
+"status": "published"
+},
+{
+"title": "Antithetic Acceleration and Estimation of Unobserved Heterogeneity Parameters",
+"authors": [
+"Yiyi Zhou",
+"Steven Stern"
+],
+"year": 2018,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Impacts of Product Market Competition on Innovation: Evidence from Chinese Manufacturing Industry",
+"authors": [
+"Yiyi Zhou",
+"Xinqiao Ping"
+],
+"year": 2007,
+"venue": "Industrial Economics Research",
+"status": "published"
+},
+{
+"title": "Product Market Competition and Innovation",
+"authors": [
+"Yiyi Zhou",
+"Xinqiao Ping"
+],
+"year": 2007,
+"venue": "Review of Industrial Economics",
+"status": "published"
+}
+]
+},
+"jungsoo ahn": {
+"name": "Jungsoo Ahn",
+"papers": [
+{
+"title": "When Does Category Spanning Hurt or Help Producers?",
+"authors": [
+"Jungsoo Ahn",
+"Jean-Philippe Vergne",
+"Amanda Sharkey"
+],
+"year": 2026,
+"venue": "Strategic Management Journal",
+"status": "published"
+},
+{
+"title": "The Value of Publishing in JIBS",
+"authors": [
+"Jungsoo Ahn",
+"Chengguang Li",
+"Juan Bu",
+"Klaus Meyer"
+],
+"year": 2023,
+"venue": "Journal of International Business Studies",
+"status": "published"
+},
+{
+"title": "The Role of Noise in a Mutual Selection and Learning Model",
+"authors": [
+"Jungsoo Ahn",
+"Yongha Kwon",
+"Ji-hyun Kim",
+"Jae-suk Yang"
+],
+"year": 2016,
+"venue": "Journal of East and West Studies",
+"status": "published"
+},
+{
+"title": "Salary returns to publication portfolios across business fields",
+"authors": [
+"Jungsoo Ahn",
+"Chengguang Li"
+],
+"year": null,
+"venue": null,
+"status": "revise_resubmit"
+},
+{
+"title": "Partner status and entrepreneurial outcomes: a meta-analysis",
+"authors": [
+"Jungsoo Ahn",
+"Pankaj Patel",
+"Richard Chan",
+"James Dunne",
+"Manoj Mahajan"
+],
+"year": null,
+"venue": null,
+"status": "revise_resubmit"
+},
+{
+"title": "Automated categorization and producers' social evaluations",
+"authors": [
+"Jungsoo Ahn",
+"Jean-Philippe Vergne"
+],
+"year": null,
+"venue": "Research in the Sociology of Organizations",
+"status": "forthcoming"
+}
+]
+},
+"keval amin": {
+"name": "Keval Amin",
+"papers": []
+},
+"jiaru bai": {
+"name": "Jiaru Bai",
+"papers": [
+{
+"title": "All That Glitters Is Not Gold: The Impact of Certification Test Costs in Online Labor Markets",
+"authors": [
+"Jiaru Bai",
+"Qiang Gao",
+"Paulo Goes",
+"Mingfeng Lin"
+],
+"year": 2026,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Towards Sustainable Data Centers: Evaluating Policies for Energy Efficiency and Environmental Responsibility",
+"authors": [
+"Jiaru Bai",
+"Mohammad Delasay",
+"Anshul Gandhi"
+],
+"year": 2026,
+"venue": "National Academy of Public Administration",
+"status": "working_paper"
+},
+{
+"title": "Modeling Cost-effectiveness Analysis of Treatment Sequencing",
+"authors": [
+"Cristina del Campo",
+"Jiaru Bai",
+"L Robin Keller"
+],
+"year": 2025,
+"venue": "Socio-Economic Planning Sciences",
+"status": "published"
+},
+{
+"title": "Concealing Borrowers' Failure History in Online P2P Lending: A Natural Experiment",
+"authors": [
+"Jiaru Bai",
+"Qiang Gao"
+],
+"year": 2024,
+"venue": "Decision Sciences",
+"status": "published"
+},
+{
+"title": "Hiding in Plain Sight: Surge Pricing and Strategic Providers",
+"authors": [
+"Jiaru Bai",
+"Hans Sebastian (Seb) Heese",
+"Manish Tripathy"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Driver Collusion in Ride-hailing Platforms",
+"authors": [
+"Manish Tripathy",
+"Jiaru Bai",
+"Hans Sebastian (Seb) Heese"
+],
+"year": 2023,
+"venue": "Decision Sciences",
+"status": "published"
+},
+{
+"title": "Can Two Competing On-demand Service Platforms be Profitable?",
+"authors": [
+"Jiaru Bai",
+"Christopher S. Tang"
+],
+"year": 2022,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "Optimal Subsidy Schemes and Budget Allocations for Government-Subsidized Trade-in Programs",
+"authors": [
+"Jiaru Bai",
+"Shu Hu",
+"Luyi Gui",
+"Kut C. So",
+"Zujun Ma"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Retail Distribution Strategy with Outlet Stores",
+"authors": [
+"Jiaru Bai",
+"Haresh Gurnani",
+"Shuya Yin"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Coordinating Supply and Demand on an On-demand Service Platform with Impatient Customers",
+"authors": [
+"Jiaru Bai",
+"Kut C. So",
+"Christopher S. Tang",
+"Xiqun (Michael) Chen",
+"Hai Wang"
+],
+"year": 2019,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Time-based payout ratio for coordinating supply and demand on an on-demand service platform",
+"authors": [
+"Jiaru Bai",
+"Kut C. So",
+"Christopher S. Tang",
+"Xiqun (Michael) Chen",
+"Hai Wang"
+],
+"year": 2019,
+"venue": "Sharing Economy: Making Supply Meet Demand",
+"status": "published"
+},
+{
+"title": "Cost-effectiveness of niraparib, rucaparib, and olaparib for treatment of platinum-resistant, recurrent ovarian carcinoma",
+"authors": [
+"Juliet E. Wolford",
+"Jiaru Bai",
+"Kathleen N. Moore",
+"et al."
+],
+"year": 2020,
+"venue": "Gynecologic Oncology",
+"status": "published"
+},
+{
+"title": "Comparing Markov and non-Markov alternatives for cost-effectiveness analysis: Insights from a cervical cancer case",
+"authors": [
+"Cristina del Campo",
+"Jiaru Bai",
+"L Robin Keller"
+],
+"year": 2019,
+"venue": "Operations Research for Health Care",
+"status": "published"
+},
+{
+"title": "Markov chain models in practice: A review of low cost software options",
+"authors": [
+"Jiaru Bai",
+"Cristina del Campo",
+"Robin Keller"
+],
+"year": 2017,
+"venue": "Investigación Operacional",
+"status": "published"
+},
+{
+"title": "A Markov model to evaluate cost-effectiveness of antiangiogenesis therapy using bevacizumab in advanced cervical cancer",
+"authors": [
+"Lindsey E. Minion",
+"Jiaru Bai",
+"Bradley J. Monk",
+"Robin L. Keller",
+"et al."
+],
+"year": 2015,
+"venue": "Gynecologic Oncology",
+"status": "published"
+},
+{
+"title": "A queueing model for managing small projects under uncertainties",
+"authors": [
+"Jiaru Bai",
+"Kut C. So",
+"Christopher S. Tang"
+],
+"year": 2016,
+"venue": "European Journal of Operational Research",
+"status": "published"
+}
+]
+},
+"nymisha bandi": {
+"name": "Nymisha Bandi",
+"papers": [
+{
+"title": "Incentivizing Healthy Food Choices Using Add-on Bundling: A Field Experiment",
+"authors": [
+"Nymisha Bandi",
+"M. C. Cohen",
+"S. Ray"
+],
+"year": 2024,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Data-driven conditional robust optimization",
+"authors": [
+"Nymisha Bandi",
+"A. R. Chenreddy",
+"E. Delage"
+],
+"year": 2022,
+"venue": "Advances in Neural Information Processing Systems",
+"status": "published"
+},
+{
+"title": "Discounting or Add-On Bundling? Field Experiments for Healthy and Unhealthy Snacks",
+"authors": [
+"Nymisha Bandi",
+"M. Cohen",
+"S. Ray"
+],
+"year": null,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "Reducing Food Waste Through Social Impact Partnerships",
+"authors": [
+"Nymisha Bandi",
+"M. Cohen",
+"S. Ray"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Managing Clearance Availability: Strategic Waiting and Release Caps in Perishable Retail",
+"authors": [
+"Nymisha Bandi",
+"R. Y. Bekci"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Summary Effect: How AI-Generated Review Summaries Influence Consumer Choice",
+"authors": [
+"Nymisha Bandi",
+"A. R. Chenreddy"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Causal Inference in Gamified Sustainability: Cooperation and Competition",
+"authors": [
+"Nymisha Bandi",
+"M. S. Shalique",
+"H. Saranga"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Off-Policy Optimization of Portfolio Allocation Policies under Constraints",
+"authors": [
+"Nymisha Bandi",
+"T. Tulabandhula"
+],
+"year": 2020,
+"venue": "arXiv preprint arXiv:2012.11715",
+"status": "working_paper"
+},
+{
+"title": "Behavioral Retail Operations: Tactics to Win Customers",
+"authors": [
+"N. Bandi",
+"M. C. Cohen",
+"S. Ray"
+],
+"year": 2024,
+"venue": "Foundations and Trends in Technology, Information and Operations Management",
+"status": "published"
+}
+]
+},
+"julia bear": {
+"name": "Julia Bear",
+"papers": []
+},
+"lily blocker": {
+"name": "Lily Blocker",
+"papers": []
+},
+"denise buhrau": {
+"name": "Denise Buhrau",
+"papers": []
+}
+}
