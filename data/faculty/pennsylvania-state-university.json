@@ -1419,17 +1419,19 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Banking & Financial Intermediation",
+   "Public Policy"
   ],
-  "phd_institution": null,
+  "phd_institution": "Stanford Graduate School of Business",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": null,
+  "ma_institution": "University of Colorado Boulder",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Business Administration",
+  "ba_institution": "St. Stephen's College, University of Delhi",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Physics",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://directory.smeal.psu.edu/rqt5096",
@@ -1442,10 +1444,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Ernst & Young LLP (position and years unknown); McKinsey & Company (position and years unknown)",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "none",
+  "detail_source": "profile",
   "id": "rimmy-tomy"
  },
  {
