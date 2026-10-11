@@ -13562,13 +13562,127 @@
 },
 "brandon yueyang han": {
 "name": "Brandon Yueyang Han",
-"papers": []
+"papers": [
+{
+"title": "Collateral Constraints and Asset Prices",
+"authors": [
+"B.Y. Han",
+"G. Chabakauri"
+],
+"year": 2020,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Dynamic Information Acquisition and Asset Prices",
+"authors": [
+"B.Y. Han"
+],
+"year": null,
+"venue": "Journal of Finance",
+"status": "revise_resubmit"
+},
+{
+"title": "Pricing News and No News with Heterogeneous Beliefs",
+"authors": [
+"B.Y. Han",
+"C. Gao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When Corporate AI Adoption Backfires",
+"authors": [
+"B.Y. Han",
+"J. Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Human Skills in the Age of AI",
+"authors": [
+"B.Y. Han",
+"J. Chen",
+"H. Zhong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Feedback Trading and Bubbles",
+"authors": [
+"B.Y. Han",
+"I. Makarov"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dealer Disagreement and Asset Prices in FX Market",
+"authors": [
+"B.Y. Han",
+"S.Z. Li",
+"Z. Song"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Learning and Model Uncertainty in Financial Markets",
+"authors": [
+"B.Y. Han"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "il horn hann": {
 "name": "Il-Horn Hann",
 "papers": [
 {
-"title": "Logic Pluralism in Mobile Platform Ecosystems: A Study of Indie App Developers on the iOS App Store",
+"title": "Digitization, Unbundling, and Piracy: Consumer Adoption amidst Disruptive Innovations in the Music Industry",
+"authors": [
+"B. Koh",
+"I.H. Hann",
+"S. Raghunathan"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "forthcoming"
+},
+{
+"title": "The Value of Reciprocity in Online Barter Markets: An Empirical Investigation",
+"authors": [
+"S. Ye",
+"S. Viswanathan",
+"I.H. Hann"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "forthcoming"
+},
+{
+"title": "Social Bias in Online Product Ratings: A Quasi-Experiment",
+"authors": [
+"A.C. Wang",
+"M. Zhang",
+"I.H. Hann"
+],
+"year": null,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "Synthesizing Professional and Market Logics: A Study of iOS App Entrepreneurs",
 "authors": [
 "Y. Qiu",
 "A. Gopal",
@@ -13611,23 +13725,202 @@
 "status": "published"
 },
 {
-"title": "Disillusion of the Democratization of Finance: Housing Prices and Crowdfunding",
+"title": "What is the Economic Value of Volunteering in Open Source Software Communities: An Empirical Analysis of the Apache Projects",
 "authors": [
-"K. Kim",
-"I.H. Hann"
+"I.H. Hann",
+"J. Roberts",
+"S. Slaughter",
+"R. Fielding"
 ],
-"year": 2019,
+"year": 2013,
 "venue": "Information Systems Research",
 "status": "published"
 },
 {
-"title": "How Platforms in the Gaming Ecosystem Influence Each Other: The Temporal Interplay between Gaming and Live Streaming",
+"title": "Price Discrimination in E-Commerce? An Examination of Dynamic Pricing in Name-Your-Own-Price Markets",
 "authors": [
-"S.H. Kwon",
+"O. Hinz",
+"I.H. Hann",
+"M. Spann"
+],
+"year": 2011,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Measuring Risk Aversion in a Name-Your-Own-Price Channel",
+"authors": [
+"A. Abbas",
 "I.H. Hann"
 ],
-"year": 2023,
-"venue": null,
+"year": 2010,
+"venue": "Decision Analysis",
+"status": "published"
+},
+{
+"title": "Consumer Privacy and Marketing Avoidance: A Static Model",
+"authors": [
+"I.H. Hann",
+"K.L. Hui",
+"T. Lee",
+"I. Png"
+],
+"year": 2008,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Overcoming Information Privacy Concerns: An Information Processing Theory Approach",
+"authors": [
+"I.H. Hann",
+"K.L. Hui",
+"T. Lee",
+"I. Png"
+],
+"year": 2007,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Who Gets Spammed?",
+"authors": [
+"I.H. Hann",
+"K.L. Hui",
+"Y.L. Lai",
+"T. Lee",
+"I. Png"
+],
+"year": 2006,
+"venue": "Communications of the ACM",
+"status": "published"
+},
+{
+"title": "Understanding the Motivations, Participation, and Performance of Open Source Software Developers: A Longitudinal Study of the Apache Projects",
+"authors": [
+"J. Roberts",
+"I.H. Hann",
+"S. Slaughter"
+],
+"year": 2006,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Online Haggling at a Name-Your-Own Price Retailer: Theory and Application",
+"authors": [
+"C. Terwiesch",
+"S. Savin",
+"I.H. Hann"
+],
+"year": 2005,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Measuring the Frictional Costs of Online Transactions: The Case of a Name-Your-Own-Price-Channel",
+"authors": [
+"I.H. Hann",
+"C. Terwiesch"
+],
+"year": 2003,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Price Dispersion and Differentiation in Online Travel: An Empirical Investigation",
+"authors": [
+"E.K. Clemons",
+"I.H. Hann",
+"L. Hitt"
+],
+"year": 2002,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Rosenbluth International: Strategic Transformation of a Successful Enterprise",
+"authors": [
+"E.K. Clemons",
+"I.H. Hann"
+],
+"year": 1999,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Communication Networks in an Open Source Software Project",
+"authors": [
+"J. Roberts",
+"I.H. Hann",
+"S. Slaughter"
+],
+"year": 2006,
+"venue": "Open Source Systems (Springer)",
+"status": "published"
+},
+{
+"title": "Democratizing Access to Capital: Credit Availability, Internet Connectivity, and Crowdfunding",
+"authors": [
+"K. Kim",
+"I.H. Hann"
+],
+"year": null,
+"venue": "Information Systems Research",
+"status": "revise_resubmit"
+},
+{
+"title": "From invisible hand to visible hand: platform governance and institutional logic of independent Mac developers, 2001-2012",
+"authors": [
+"Y. Qiu",
+"I.H. Hann",
+"A. Gopal"
+],
+"year": null,
+"venue": "Strategic Management Journal",
+"status": "working_paper"
+},
+{
+"title": "The Case of Bitcoin Under Currency Risks",
+"authors": [
+"I.H. Hann",
+"J.H. Oh",
+"S.T. Kim"
+],
+"year": 2018,
+"venue": "Working Paper",
+"status": "working_paper"
+},
+{
+"title": "From Piracy to Business Intelligence: A Functional Data Analysis of P2P Traffic",
+"authors": [
+"I.H. Hann",
+"J.H. Oh",
+"G. James"
+],
+"year": 2017,
+"venue": "Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Motivation of Open Source Software Contributors",
+"authors": [
+"I.H. Hann",
+"J. Roberts",
+"S. Slaughter"
+],
+"year": 2016,
+"venue": "Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Information Spillover and Strategic Behaviors in Open Innovation Crowdsourcing Contests: An Empirical Investigation",
+"authors": [
+"A. Al-Hasan",
+"I.H. Hann",
+"S. Viswanathan"
+],
+"year": 2014,
+"venue": "Working Paper",
 "status": "working_paper"
 }
 ]
@@ -13902,7 +14195,52 @@
 },
 "xinying hao": {
 "name": "Xinying Hao",
-"papers": []
+"papers": [
+{
+"title": "Walking a Fine Line: Customer Retention in Mobile App Targeting",
+"authors": [
+"X. Hao",
+"Z. Liu",
+"V. Mahajan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Permission Advertising: Understanding Pre-Roll Ads Leveraging Artificial Empathy",
+"authors": [
+"X. Hao",
+"G. Sonnier",
+"F. ter Hofstede"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Emoji as New Targeting Language: A Multi-modal Emoji Mining Approach",
+"authors": [
+"X. Hao",
+"V. Mahajan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Understanding the Relationship between Health Consciousness and Sustainable Consumption",
+"authors": [
+"Z. Su",
+"K. Pounders",
+"S. Ramirez",
+"X. Hao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "alex xi he": {
 "name": "Alex Xi He",
@@ -15707,9 +16045,9 @@
 {
 "title": "The Rise of Star Firms: Intangible Capital and Competition?",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2023,
 "venue": "Review of Financial Studies",
@@ -15718,7 +16056,7 @@
 {
 "title": "Are Public Firms Really Myopic? Evidence from Matching IPO Firms at Birth",
 "authors": [
-"Vojislav Maksimovic",
+"V. Maksimovic",
 "G. Phillips",
 "L. Yang"
 ],
@@ -15729,9 +16067,9 @@
 {
 "title": "Are large firms born or made? Evidence from developing countries",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2021,
 "venue": "Small Business Economics",
@@ -15740,9 +16078,9 @@
 {
 "title": "Who creates jobs in developing countries?",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2014,
 "venue": "Small Business Economics",
@@ -15751,9 +16089,9 @@
 {
 "title": "Bribe Payments and Innovation in Developing Countries: Are Innovating Firms Disproportionately Affected?",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2014,
 "venue": "Journal of Financial and Quantitative Analysis",
@@ -15762,9 +16100,9 @@
 {
 "title": "What Determines the Protection of Property Rights? An Analysis of Direct and Indirect Effects",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2013,
 "venue": "Journal of Financial Econometrics",
@@ -15773,9 +16111,9 @@
 {
 "title": "How Well Do Institutional Theories Explain Firms' Perceptions of Property Rights?",
 "authors": [
-"Meghana Ayyagari",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"M. Ayyagari",
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2008,
 "venue": "Review of Financial Studies",
@@ -15785,8 +16123,8 @@
 "title": "Financing patterns around the world: are small firms different?",
 "authors": [
 "T. Beck",
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2008,
 "venue": "Journal of Financial Economics",
@@ -15796,19 +16134,19 @@
 "title": "The Determinants of Financing Obstacles",
 "authors": [
 "T. Beck",
-"Asli Demirguc-Kunt",
+"A. Demirguc-Kunt",
 "L. Laeven",
-"Vojislav Maksimovic"
+"V. Maksimovic"
 ],
 "year": 2006,
-"venue": "Journal of International Money and Finance",
+"venue": "Journal of International Money & Finance",
 "status": "published"
 },
 {
 "title": "Funding growth in bank-based and market-based financial systems: evidence from firm-level data",
 "authors": [
-"Asli Demirguc-Kunt",
-"Vojislav Maksimovic"
+"A. Demirguc-Kunt",
+"V. Maksimovic"
 ],
 "year": 2002,
 "venue": "Journal of Financial Economics",
@@ -15817,7 +16155,7 @@
 {
 "title": "Do Conglomerate Firms Allocate Resources Inefficiently? Evidence from Plant-Level Data",
 "authors": [
-"Vojislav Maksimovic",
+"V. Maksimovic",
 "G. Phillips"
 ],
 "year": 2002,
@@ -18944,7 +19282,60 @@
 },
 "shrihari santosh": {
 "name": "Shrihari Santosh",
-"papers": []
+"papers": [
+{
+"title": "Interpreting Factor Models",
+"authors": [
+"S. Santosh",
+"S. Kozak",
+"S. Nagel"
+],
+"year": 2018,
+"venue": "Journal of Finance",
+"status": "published"
+},
+{
+"title": "Shrinking the Cross-Section",
+"authors": [
+"S. Santosh",
+"S. Kozak",
+"S. Nagel"
+],
+"year": null,
+"venue": "Journal of Financial Economics",
+"status": "forthcoming"
+},
+{
+"title": "Factor Timing",
+"authors": [
+"S. Santosh",
+"V. Haddad",
+"S. Kozak"
+],
+"year": null,
+"venue": "Review of Financial Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "Public Information and Price Discovery: Trade Time vs Clock Time?",
+"authors": [
+"S. Santosh"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Behavioral Biases, Order Imbalance, and Expected Returns",
+"authors": [
+"S. Santosh",
+"Y. Hou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "lemma w senbet": {
 "name": "Lemma W. Senbet",
@@ -18952,7 +19343,7 @@
 {
 "title": "An Equilibrium Analysis of Debt Financing Under Costly Tax Arbitrage and Agency Problems",
 "authors": [
-"Lemma W. Senbet",
+"L.W. Senbet",
 "A. Barnea",
 "R. Haugen"
 ],
@@ -18963,7 +19354,7 @@
 {
 "title": "Resolving the Agency Problems of External Capital through Options",
 "authors": [
-"Lemma W. Senbet",
+"L.W. Senbet",
 "R. Haugen"
 ],
 "year": 1981,
@@ -18973,7 +19364,7 @@
 {
 "title": "Absolute Priority Violations and Risk Incentives for Financially Distressed Firms",
 "authors": [
-"Lemma W. Senbet",
+"L.W. Senbet",
 "A. Eberhart"
 ],
 "year": 1993,
@@ -18983,7 +19374,7 @@
 {
 "title": "Financial Regulation and Liberalization in Africa Under Incentive Problems and Asymmetric Information",
 "authors": [
-"Lemma W. Senbet",
+"L.W. Senbet",
 "M. Ncube"
 ],
 "year": 1997,
@@ -18991,11 +19382,21 @@
 "status": "published"
 },
 {
+"title": "Financial Sector Reforms in Africa: Perspectives on Issues and Policies",
+"authors": [
+"L.W. Senbet",
+"I. Otchere"
+],
+"year": 2006,
+"venue": "Annual Bank Conference on Development Economics",
+"status": "published"
+},
+{
 "title": "Agency Problems and Financial Contracting",
 "authors": [
+"L.W. Senbet",
 "A. Barnea",
-"R. Haugen",
-"Lemma W. Senbet"
+"R. Haugen"
 ],
 "year": 1985,
 "venue": "Prentice-Hall",
@@ -19716,9 +20117,9 @@
 "name": "Sining Song",
 "papers": [
 {
-"title": "Mobile Money and Mobile Technologies: A Structural Estimation",
+"title": "Mobile Money and Mobile Technologies: A Structural Estimation.",
 "authors": [
-"Sining Song",
+"S. Song",
 "Y. Dong",
 "S. Venkataraman",
 "Y. Yao"
@@ -20225,61 +20626,406 @@
 "name": "Subra Tangirala",
 "papers": [
 {
+"title": "How Employees Who Have Made Upward Social Class Transitions Get Heard at The Workplace",
+"authors": [
+"Y. Spriha",
+"S. Tangirala",
+"R. Shu",
+"S. Ekkirala"
+],
+"year": 2026,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "When Voice Takes Destructive Rather Than Constructive Forms in Leader-Employee Dyads: A Power-Dependence Theory Perspective",
+"authors": [
+"J. Wu",
+"S. Tangirala",
+"P. Zhang"
+],
+"year": 2025,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Only time will tell: How teams centralize their voice around competent members over time to perform better",
+"authors": [
+"J. Wu",
+"S. Tangirala",
+"D. van Knippenberg",
+"R. Shu"
+],
+"year": 2025,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
 "title": "Unnoticed Problems and Overlooked Opportunities: How and When Employees Fail to Speak Up Under Ambiguous Threats",
 "authors": [
-"Park, H.",
-"Tangirala, S.",
-"Ekkirala, S.",
-"Sanaria, A."
+"H. Park",
+"S. Tangirala",
+"S. Ekkirala",
+"A. Sanaria"
 ],
 "year": 2024,
 "venue": "Journal of Applied Psychology",
 "status": "published"
 },
 {
+"title": "Managing Your Boss (MYB) as a Proactive Followership Behavior: Construct Validation and Theory Development",
+"authors": [
+"R. Gajendran",
+"S. Mistry",
+"S. Tangirala"
+],
+"year": 2024,
+"venue": "Personnel Psychology",
+"status": "published"
+},
+{
 "title": "How Teams Recompile Capabilities Over Time After Disruptive Change: The Facilitating Roles of Equity and Equality",
 "authors": [
-"Li, A. N.",
-"Sherf, E. N.",
-"Tangirala, S."
+"A.N. Li",
+"E.N. Sherf",
+"S. Tangirala"
 ],
 "year": 2023,
 "venue": "Organization Science",
 "status": "published"
 },
 {
-"title": "How employees' voice helps teams remain resilient in the face of exogenous change",
+"title": "Signaling Legitimacy: Why Mixed-Gender Coalitions Outperform Single-Gender Coalitions in Advocating for Gender Equity",
 "authors": [
-"Li, A. N.",
-"Tangirala, S."
+"I. Hussain",
+"S. Tangirala",
+"E.N. Sherf"
+],
+"year": 2023,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "How Strategic Silence Enables Employee Voice to be Valued and Rewarded",
+"authors": [
+"M. Parke",
+"S. Tangirala",
+"A. Sanaria",
+"S. Ekkirala"
+],
+"year": 2022,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "How and When Managers Reward Employees' Voice: The Role of Proactivity Attributions",
+"authors": [
+"H. Park",
+"S. Tangirala",
+"I. Hussain",
+"S. Ekkirala"
 ],
 "year": 2022,
 "venue": "Journal of Applied Psychology",
 "status": "published"
 },
 {
-"title": "Centralization of member voice in teams: Its effects on expertise utilization and team performance",
+"title": "How Employees Learn to Speak Up from Their Leaders: Gender Congruity Effects in the Development of Voice Self-Efficacy",
 "authors": [
-"Sherf, E. N.",
-"Sinha, R.",
-"Tangirala, S.",
-"Awasty, N."
+"T. Yan",
+"S. Tangirala",
+"A.K. Vadera",
+"S. Ekkirala"
+],
+"year": 2022,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "How Employees' Voice Helps Teams Remain Resilient in the Face of Exogenous Change",
+"authors": [
+"A.N. Li",
+"S. Tangirala"
+],
+"year": 2022,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Creating Organizational Citizens: How and When Supervisor- versus Peer-Led Role Interventions Change Organizational Citizenship Behavior",
+"authors": [
+"M. Parke",
+"S. Tangirala",
+"I. Hussain"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "How Voice Emerges and Develops in Newly Formed Supervisor-Employee Dyads",
+"authors": [
+"A.N. Li",
+"S. Tangirala"
+],
+"year": 2021,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Keeping It Between Us: Managerial Endorsement of Public versus Private Voice",
+"authors": [
+"S. Isaakyan",
+"E.N. Sherf",
+"S. Tangirala",
+"H. Guenter"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Adverse events and burnout: the moderating effects of workgroup identification and safety climate",
+"authors": [
+"T.J. Vogus",
+"R. Ramanujam",
+"Z. Novikov",
+"V. Venkataramani",
+"S. Tangirala"
+],
+"year": 2020,
+"venue": "Medical Care",
+"status": "published"
+},
+{
+"title": "Why Managers Don't Seek Voice from Employees: The Importance of Managers' Personal Control and Long-Term Orientation",
+"authors": [
+"E.N. Sherf",
+"S. Tangirala",
+"V. Venkataramani"
+],
+"year": 2019,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "The Voice Bystander Effect: How Information Redundancy Inhibits Employee Voice",
+"authors": [
+"I. Hussain",
+"R. Shu",
+"S. Tangirala",
+"S. Ekkirala"
+],
+"year": 2019,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Centralization of Member Voice in Teams: Its Effects on Expertise Utilization and Team Performance",
+"authors": [
+"E.N. Sherf",
+"R. Sinha",
+"S. Tangirala",
+"N. Awasty"
 ],
 "year": 2018,
 "venue": "Journal of Applied Psychology",
 "status": "published"
 },
 {
-"title": "When does cross-cultural motivation enhance expatriate effectiveness? A multilevel investigation of the moderating roles of subsidiary support and cultural distance",
+"title": "When Daily Planning Improves Performance: The Importance of Planning Type, Engagement and Interruptions",
 "authors": [
-"Chen, G.",
-"Kirkman, B. L.",
-"Kim, K.",
-"Farh, C.",
-"Tangirala, S."
+"M.R. Parke",
+"J.M. Weinhardt",
+"A. Brodsky",
+"S. Tangirala",
+"S. DeVoe"
+],
+"year": 2018,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "New Ways of Seeing: Theory Integration Across Disciplines",
+"authors": [
+"J.D. Shaw",
+"S. Tangirala",
+"B. Vissa",
+"J.B. Rodell"
+],
+"year": 2018,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "It Is Not My Place! Psychological Standing and Men's Voice and Participation in Gender Parity Initiatives",
+"authors": [
+"E.N. Sherf",
+"S. Tangirala",
+"K. Connealy-Weber"
+],
+"year": 2017,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "The Content of the Message Matters: The Differential Effects of Promotive and Prohibitive Team Voice on Team Productivity and Safety Performance Gains",
+"authors": [
+"A.N. Li",
+"H. Liao",
+"S. Tangirala",
+"B.M. Firth"
+],
+"year": 2017,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "The Dispositional Antecedents of Promotive and Prohibitive Voice",
+"authors": [
+"H. Kakkar",
+"S. Tangirala",
+"N. Srivastava",
+"D. Kamdar"
+],
+"year": 2016,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "How and When Peers' Positive Mood Influences Employees' Voice",
+"authors": [
+"W. Liu",
+"S. Tangirala",
+"W. Lam",
+"Z. Chen",
+"R.T. Jia",
+"X. Huang"
+],
+"year": 2015,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Doing Right versus Getting Ahead: The Effects of Duty and Achievement Orientations on Employees' Voice",
+"authors": [
+"S. Tangirala",
+"D. Kamdar",
+"V. Venkataramani",
+"M. Parke"
+],
+"year": 2013,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "The Relational Antecedents of Voice Targeted at Different Leaders",
+"authors": [
+"W. Liu",
+"S. Tangirala",
+"R. Ramanujam"
+],
+"year": 2013,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Ask and You Shall Hear (But Not Always): An Examination of the Relationship Between Manager Consultation and Employee Voice",
+"authors": [
+"S. Tangirala",
+"R. Ramanujam"
+],
+"year": 2012,
+"venue": "Personnel Psychology",
+"status": "published"
+},
+{
+"title": "When Are Transgressing Leaders Punitively Judged? An Empirical Test",
+"authors": [
+"D. Shapiro",
+"A. Boss",
+"S. Salas",
+"S. Tangirala",
+"M.A. Von Glinow"
+],
+"year": 2011,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "When and Why Do Central Employees Speak Up? An Examination of Mediating and Moderating Variables",
+"authors": [
+"V. Venkataramani",
+"S. Tangirala"
+],
+"year": 2010,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "When Does Cross-Cultural Motivation Enhance Expatriate Effectiveness? A Multilevel Investigation of the Moderating Roles of Subsidiary Support and Cultural Distance",
+"authors": [
+"G. Chen",
+"B.L. Kirkman",
+"K. Kim",
+"C. Farh",
+"S. Tangirala"
 ],
 "year": 2010,
 "venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Exploring Non-Linearity in Employee Voice: The Effects of Personal Control and Organizational Identification",
+"authors": [
+"S. Tangirala",
+"R. Ramanujam"
+],
+"year": 2008,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Employee Silence on Critical Work Issues: The Cross-Level Effects of Procedural Justice Climate",
+"authors": [
+"S. Tangirala",
+"R. Ramanujam"
+],
+"year": 2008,
+"venue": "Personnel Psychology",
+"status": "published"
+},
+{
+"title": "In the Shadow of the Boss's Boss: Effects of Supervisors' Upward Exchange Relationships on Employees",
+"authors": [
+"S. Tangirala",
+"S. Green",
+"R. Ramanujam"
+],
+"year": 2007,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Information Privacy in Organizations: Empowering Creative and Extra-Role Performance",
+"authors": [
+"B.J. Alge",
+"G.A. Ballinger",
+"S. Tangirala",
+"J. Oakley"
+],
+"year": 2006,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Reactions to Unfair Events in Computer-Mediated Groups: A Test of Uncertainty Management Theory",
+"authors": [
+"S. Tangirala",
+"B.J. Alge"
+],
+"year": 2006,
+"venue": "Organizational Behavior and Human Decision Processes",
 "status": "published"
 }
 ]
@@ -21004,38 +21750,255 @@
 "name": "Vijaya Venkataramani",
 "papers": [
 {
-"title": "Navigating Inter-Team Competition: How Information Broker Teams Achieve Team Innovation",
+"title": "Seeing value in novelty: Manager and employee social networks as keys in managers' idea evaluation and implementation decisions",
 "authors": [
-"Yan, T.T.",
-"Venkataramani, V.",
-"Tang, C.",
-"Hirst, G."
+"V. Venkataramani",
+"S. Lu",
+"K.M. Bartol",
+"X. Zheng",
+"D. Ni"
 ],
 "year": 2025,
 "venue": "Journal of Applied Psychology",
 "status": "published"
 },
 {
+"title": "Navigating inter-team competition: How information broker teams achieve team innovation",
+"authors": [
+"T.T. Yan",
+"V. Venkataramani",
+"C. Tang",
+"G. Hirst"
+],
+"year": 2025,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "The double-edged sword of endorsing external ideas: Juggling competitive advantage and organizational compatibility concerns",
+"authors": [
+"R.S.E. Hong",
+"V. Venkataramani",
+"M. Yang"
+],
+"year": 2025,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "When does external knowledge benefit team creativity? The role of internal team network structure and task complexity",
+"authors": [
+"V. Venkataramani",
+"C. Tang"
+],
+"year": 2024,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "Keep off my turf! Low-status managers' territoriality as a response to employees' novel ideas",
+"authors": [
+"V. Venkataramani",
+"R. Derfler-Rozin",
+"X. Liu",
+"J.Y. Mao"
+],
+"year": 2024,
+"venue": "Organization Science",
+"status": "published"
+},
+{
 "title": "Not very competent but connected: Leaders' use of employee social networks as prisms to make delegation decisions",
 "authors": [
-"Venkataramani, V.",
-"Bartol, K. M.",
-"Zheng, X.",
-"Lu, S.",
-"Liu, X."
+"V. Venkataramani",
+"K.M. Bartol",
+"X. Zheng",
+"S. Lu",
+"X. Liu"
 ],
 "year": 2022,
 "venue": "Journal of Applied Psychology",
 "status": "published"
 },
 {
-"title": "Who Helps and Harms Whom? Relational antecedents of interpersonal helping and harming in organizations",
+"title": "Thinking outside the box helps build social connections: The role of creative mindsets in reducing daily rudeness",
 "authors": [
-"Venkataramani, V.",
-"Dalal, R.S."
+"T.A. Foulk",
+"V. Venkataramani",
+"R. Cao",
+"S. Krishnan"
+],
+"year": 2022,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "Adverse events and burnout: The moderating effects of workgroup identification and safety climate",
+"authors": [
+"T.J. Vogus",
+"R. Ramanujam",
+"Z. Novikov",
+"V. Venkataramani",
+"S. Tangirala"
+],
+"year": 2020,
+"venue": "Medical Care",
+"status": "published"
+},
+{
+"title": "Pitching novel ideas to the boss: The interactive effects of employees' idea enactment and influence tactics on creativity assessment and implementation",
+"authors": [
+"S. Lu",
+"K.M. Bartol",
+"V. Venkataramani",
+"X. Zheng",
+"X. Liu"
+],
+"year": 2019,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Too busy to be fair? The effect of workload and rewards on managers' justice rule adherence",
+"authors": [
+"E.N. Sherf",
+"V. Venkataramani",
+"R.S. Gajendran"
+],
+"year": 2019,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Why Managers Do Not Seek Voice from Employees: The Importance of Managers' Personal Control and Long-Term Orientation",
+"authors": [
+"E.N. Sherf",
+"S. Tangirala",
+"V. Venkataramani"
+],
+"year": 2019,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "An alter-centric perspective on employee innovation: The importance of alters' creative self-efficacy and network structure",
+"authors": [
+"T.J. Grosser",
+"V. Venkataramani",
+"G.J. Labianca"
+],
+"year": 2017,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Social networks and employee voice: The influence of team members' and team leaders' social network positions on employee voice",
+"authors": [
+"V. Venkataramani",
+"L. Zhou",
+"M. Wang",
+"H. Liao",
+"J. Shi"
+],
+"year": 2016,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "Overcoming asymmetric goals in teams: The interactive roles of team learning orientation and team identification",
+"authors": [
+"M.J. Pearsall",
+"V. Venkataramani"
+],
+"year": 2015,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Friend or foe? The impact of relational ties with comparison others on outcome fairness and satisfaction judgments",
+"authors": [
+"E.N. Sherf",
+"V. Venkataramani"
+],
+"year": 2015,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "Creative benefits from well-connected leaders: Leader social network ties as facilitators of employee radical creativity",
+"authors": [
+"V. Venkataramani",
+"A.W. Richter",
+"R. Clarke"
+],
+"year": 2014,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Positive and negative workplace relationships, social satisfaction, and organizational attachment",
+"authors": [
+"V. Venkataramani",
+"G.J. Labianca",
+"T. Grosser"
+],
+"year": 2013,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Doing right versus getting ahead: The effects of duty and achievement orientations on employees' voice",
+"authors": [
+"S. Tangirala",
+"D. Kamdar",
+"V. Venkataramani",
+"M.R. Parke"
+],
+"year": 2013,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Well-connected leaders: The impact of leaders' social network ties on LMX and members' work attitudes",
+"authors": [
+"V. Venkataramani",
+"S.G. Green",
+"D.J. Schleicher"
+],
+"year": 2010,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "When and why do central employees speak up? An examination of mediating and moderating variables",
+"authors": [
+"V. Venkataramani",
+"S. Tangirala"
+],
+"year": 2010,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Who helps and harms whom? Relational antecedents of interpersonal helping and harming in organizations",
+"authors": [
+"V. Venkataramani",
+"R.S. Dalal"
 ],
 "year": 2007,
 "venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "So you didn't get the job... now what do you think? Examining opportunity-to-perform fairness perceptions",
+"authors": [
+"D.J. Schleicher",
+"V. Venkataramani",
+"F.P. Morgeson",
+"M.A. Campion"
+],
+"year": 2006,
+"venue": "Personnel Psychology",
 "status": "published"
 }
 ]
@@ -21046,8 +22009,8 @@
 {
 "title": "Optional Verification and Signaling in Online Matching Markets: Evidence from a Randomized Field Experiment",
 "authors": [
-"Shi, L.",
-"Viswanathan, S."
+"L. Shi",
+"S. Viswanathan"
 ],
 "year": 2023,
 "venue": "Information Systems Research",
@@ -21056,8 +22019,8 @@
 {
 "title": "Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-sourcing Platform",
 "authors": [
-"Lysyakov, M.",
-"Viswanathan, S."
+"M. Lysyakov",
+"S. Viswanathan"
 ],
 "year": 2023,
 "venue": "Information Systems Research",
@@ -21066,10 +22029,10 @@
 {
 "title": "Motivating Effective Mobile App Adoption: Evidence from a Randomized Field Experiment",
 "authors": [
-"Sun, T.",
-"Shi, L.",
-"Viswanathan, S.",
-"Zheleva, E."
+"T. Sun",
+"L. Shi",
+"S. Viswanathan",
+"E. Zheleva"
 ],
 "year": 2019,
 "venue": "Information Systems Research",
@@ -21078,9 +22041,9 @@
 {
 "title": "Strategic Behavior in Online Reputation Systems: Evidence from eBay",
 "authors": [
-"Shun, Y.",
-"Gao, G.",
-"Viswanathan, S."
+"Y. Shun",
+"G. Gao",
+"S. Viswanathan"
 ],
 "year": 2014,
 "venue": "MIS Quarterly",
@@ -21089,21 +22052,21 @@
 {
 "title": "The Value of Third-Party Assurance Seals in Online Retailing: An Empirical Investigation",
 "authors": [
-"Ozpalat, K.",
-"Gao, G.",
-"Jank, W.",
-"Viswanathan, S."
+"K. Ozpalat",
+"G. Gao",
+"W. Jank",
+"S. Viswanathan"
 ],
 "year": 2013,
 "venue": "Information Systems Research",
 "status": "published"
 },
 {
-"title": "Competing 'Creatively' in Online Markets: Evidence from Sponsored Search",
+"title": "Competing Creatively in Online Markets: Evidence from Sponsored Search",
 "authors": [
-"Animesh, A.",
-"Viswanathan, S.",
-"Agarwal, R."
+"A. Animesh",
+"S. Viswanathan",
+"R. Agarwal"
 ],
 "year": 2011,
 "venue": "Information Systems Research",
@@ -21112,9 +22075,9 @@
 {
 "title": "Platform-Based Information Goods: The Economics of Exclusivity",
 "authors": [
-"Mantena, R.",
-"Sankaranarayanan, R.",
-"Viswanathan, S."
+"R. Mantena",
+"R. Sankaranarayanan",
+"S. Viswanathan"
 ],
 "year": 2010,
 "venue": "Decision Support Systems",
@@ -21123,9 +22086,9 @@
 {
 "title": "Quality Uncertainty and the Performance of Online Sponsored Search Markets",
 "authors": [
-"Animesh, A.",
-"Ramachandran, V.",
-"Viswanathan, S."
+"A. Animesh",
+"V. Ramachandran",
+"S. Viswanathan"
 ],
 "year": 2010,
 "venue": "Information Systems Research",
@@ -21912,9 +22875,9 @@
 {
 "title": "Quality Regulation on Two-sided Platforms: Exclusion, Subsidy, and First-party Application",
 "authors": [
-"Huang, P.",
-"Lyu, G.",
-"Xu, Y."
+"P. Huang",
+"G. Lyu",
+"Y. Xu"
 ],
 "year": 2021,
 "venue": "Management Science",

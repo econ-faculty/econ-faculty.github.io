@@ -3768,7 +3768,125 @@
 },
 "vladimir smirnyagin": {
 "name": "Vladimir Smirnyagin",
-"papers": []
+"papers": [
+{
+"title": "Who Built the Service Economy?",
+"authors": [
+"Vladimir Smirnyagin",
+"Immo Schott"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Is Public Capital Productive? Evidence from Major Bridge Collapses",
+"authors": [
+"Vladimir Smirnyagin",
+"Hafedh Bouakez",
+"Jay Hyun",
+"Carlos Eduardo Ladeira"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Supply Chain Disruptions and International Supplier Capital",
+"authors": [
+"Vladimir Smirnyagin",
+"Ernest Liu",
+"Yukun Liu",
+"Aleh Tsyvinski"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Labor-Based Asset Pricing",
+"authors": [
+"Vladimir Smirnyagin",
+"Yukun Liu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pollution Dynamics in Public and Private Firms: Environmental Regulations and Investor Concerns",
+"authors": [
+"Vladimir Smirnyagin",
+"Aleh Tsyvinski",
+"Yukun Liu",
+"Xi Wu"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "New Frontiers in Research on Industrial Decarbonization",
+"authors": [
+"Vladimir Smirnyagin",
+"Kenneth Gillingham",
+"Lint Barrage"
+],
+"year": 2025,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Returns to Scale, Firm Entry, and the Business Cycle",
+"authors": [
+"Vladimir Smirnyagin"
+],
+"year": 2023,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Shock Propagation within Multisector Firms",
+"authors": [
+"Vladimir Smirnyagin",
+"Jay Hyun",
+"Ziho Park"
+],
+"year": 2025,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "The Growing Importance of Universities for Patenting and Innovation",
+"authors": [
+"Vladimir Smirnyagin",
+"Todd Schoellman"
+],
+"year": 2026,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Macroeconomic and Asset Pricing Effects of Supply Chain Disasters",
+"authors": [
+"Vladimir Smirnyagin",
+"Aleh Tsyvinski"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Cyclical Labor Income Risk",
+"authors": [
+"Vladimir Smirnyagin",
+"Makoto Nakajima"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "sandip sukhtankar": {
 "name": "Sandip Sukhtankar",
@@ -9435,7 +9553,43 @@
 },
 "lanfei shi": {
 "name": "Lanfei Shi",
-"papers": []
+"papers": [
+{
+"title": "Optional Verification and Signaling in Online Matching Markets: Evidence from a Randomized Field Experiment",
+"authors": [
+"Lanfei Shi",
+"Siva Viswanathan"
+],
+"year": null,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "Motivating Third-Party Providers to Avoid Cross-Side Conflicts: A Random Field Experiment from the Perspective of Value Co-creation and Appropriation in Platform Governance",
+"authors": [
+"Xia Zhao",
+"Peijian Song",
+"Lanfei Shi",
+"Ling Xue",
+"Fan Feng"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "forthcoming"
+},
+{
+"title": "Motivating Effective Mobile App Adoption: Evidence from a Randomized Field Experiment",
+"authors": [
+"Tianshu Sun",
+"Lanfei Shi",
+"Siva Viswanathan",
+"Elena Zheleva"
+],
+"year": 2019,
+"venue": "Information Systems Research",
+"status": "published"
+}
+]
 },
 "mark a white": {
 "name": "Mark A. White",
@@ -11435,7 +11589,183 @@
 },
 "dragana cvijanovic": {
 "name": "Dragana Cvijanovic",
-"papers": []
+"papers": [
+{
+"title": "Opioid Crisis and Real Estate Prices",
+"authors": [
+"Dragana Cvijanović",
+"Claudia Custodio",
+"Moritz Wiedemann"
+],
+"year": 2025,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Commercial Real Estate and Air Pollution",
+"authors": [
+"Dragana Cvijanović",
+"Lyndsey Rolheiser",
+"Alex van de Minne"
+],
+"year": 2024,
+"venue": "Real Estate Economics",
+"status": "published"
+},
+{
+"title": "CEO Succession Roulette",
+"authors": [
+"Dragana Cvijanović",
+"Nick Gantchev",
+"Rachel Li"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Wall Street Stampede: Exit as Governance with Interacting Blockholders",
+"authors": [
+"Dragana Cvijanović",
+"Amil Dasgupta",
+"Kostas Zachariadis"
+],
+"year": 2022,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "CEO Compensation and Real Estate Prices: Pay for Luck or Pay for Action?",
+"authors": [
+"Dragana Cvijanović",
+"Ana Albuquerque",
+"Benjamin Bennett",
+"Claudia Custodio"
+],
+"year": 2022,
+"venue": "Review of Accounting Studies",
+"status": "published"
+},
+{
+"title": "'We'll Always Have Paris': Out-of-Country Buyers in the Housing Market",
+"authors": [
+"Dragana Cvijanović",
+"Christophe Spaenjers"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Preferences of Institutional Investors in Commercial Real Estate",
+"authors": [
+"Dragana Cvijanović",
+"Stani Milcheva",
+"Alex van de Minne"
+],
+"year": 2021,
+"venue": "Journal of Real Estate Finance and Economics",
+"status": "published"
+},
+{
+"title": "Within-Bank Spillovers of Real Estate Shocks",
+"authors": [
+"Dragana Cvijanović",
+"Vicente Cunat",
+"Kathy Yuan"
+],
+"year": 2018,
+"venue": "Review of Corporate Finance Studies",
+"status": "published"
+},
+{
+"title": "Ties that bind: how business connections affect mutual fund activism",
+"authors": [
+"Dragana Cvijanović",
+"Amil Dasgupta",
+"Kostas Zachariadis"
+],
+"year": 2016,
+"venue": "Journal of Finance",
+"status": "published"
+},
+{
+"title": "Real Estate Prices and Firm Capital Structure",
+"authors": [
+"Dragana Cvijanović"
+],
+"year": 2014,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Free-riders and Underdogs: Participation in Corporate Voting",
+"authors": [
+"Dragana Cvijanović",
+"Moqi Groen-Xu",
+"Kostas Zachariadis"
+],
+"year": null,
+"venue": "Journal of Finance",
+"status": "revise_resubmit"
+},
+{
+"title": "Smoked Out: Impact of Wildfire Smoke on Labour and Buildings",
+"authors": [
+"Dragana Cvijanović",
+"Lyndsey Rolheiser",
+"Olivier Schoni",
+"Alex Van de Minne"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When the Tax Break Breaks: CEO Pay and Turnover Following TCJA",
+"authors": [
+"Dragana Cvijanović",
+"Ilona Babenko",
+"Benjamin Bennett"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Childhood Mental Health and Long Run Financial Outcomes",
+"authors": [
+"Dragana Cvijanović",
+"Moritz Wiedemann",
+"Atlas Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Temperature Extremes and Real Assets",
+"authors": [
+"Dragana Cvijanović",
+"Lyndsey Rolheiser",
+"Alex van de Minne"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A New Framework for Risk Indices in Illiquid Markets",
+"authors": [
+"Dragana Cvijanović",
+"Stani Milcheva",
+"Alex van de Minne"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "natasha zhang foutz": {
 "name": "Natasha Zhang Foutz",
@@ -30565,10 +30895,535 @@
 },
 "megan stevenson": {
 "name": "Megan Stevenson",
-"papers": []
+"papers": [
+{
+"title": "Humans in the Loop: The Next Frontier of the Credibility Revolution",
+"authors": [
+"Megan Stevenson",
+"Joshua B. Fishman"
+],
+"year": 2026,
+"venue": "Journal of Economic Literature",
+"status": "forthcoming"
+},
+{
+"title": "Revisiting the Lasting Impacts of Incarceration",
+"authors": [
+"Megan Stevenson",
+"John Eric Humphries",
+"Aurelie Ouss",
+"Winnie van Dijk"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Stigma Travels: The Employment and Credit Consequences of Criminal Record Visibility",
+"authors": [
+"Megan Stevenson",
+"John Eric Humphries",
+"Aurelie Ouss",
+"Winnie van Dijk"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Institutions For Defective Delinquents: A Socio-legal History Across Seven Decades",
+"authors": [
+"Megan Stevenson",
+"Thomas Frampton"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Legal Architecture of Defective Delinquency",
+"authors": [
+"Megan Stevenson",
+"Thomas Frampton"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Conviction, Incarceration and Recidivism: Understanding the Revolving Door",
+"authors": [
+"Megan Stevenson",
+"John Eric Humphries",
+"Aurelie Ouss",
+"Kamelia Stavreva",
+"Winnie van Dijk"
+],
+"year": 2025,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Importance of Base-Rates in Differential Impact: A Bail Reform Case-Study",
+"authors": [
+"Megan Stevenson",
+"Aurelie Ouss"
+],
+"year": 2025,
+"venue": "Journal of Institutional and Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Algorithmic Risk Assessment in The Hands of Humans",
+"authors": [
+"Megan Stevenson",
+"Jennifer Doleac"
+],
+"year": 2024,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Does Cash Bail Deter Misconduct?",
+"authors": [
+"Megan Stevenson",
+"Aurelie Ouss"
+],
+"year": 2023,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Algorithmic Social Engineering",
+"authors": [
+"Megan Stevenson",
+"Bo Cowgill"
+],
+"year": 2020,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Distortion of Justice: How the Inability to Pay Bail Affects Case Outcomes",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2018,
+"venue": "Journal of Law, Economics & Organization",
+"status": "published"
+},
+{
+"title": "Breaking Bad: Mechanisms of Social Influence and the Path to Criminality in Juvenile Jails",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2017,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Eugenic Criminology and the Origins of Predictive Algorithms in Criminal Justice",
+"authors": [
+"Megan Stevenson",
+"Robynn Cox"
+],
+"year": 2026,
+"venue": "University of Illinois Law Review",
+"status": "published"
+},
+{
+"title": "Barriers to Adopting Predictive Algorithms: a Criminal Justice Field Experiment",
+"authors": [
+"Megan Stevenson",
+"David Abrams",
+"Brian Collopy",
+"Aurelie Ouss",
+"Colin Sullivan"
+],
+"year": 2026,
+"venue": "American Criminal Law Review",
+"status": "published"
+},
+{
+"title": "Cause, Effect, and the Structure of the Social World",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2024,
+"venue": "Boston University Law Review",
+"status": "published"
+},
+{
+"title": "Systemic Failures to Appear in Court",
+"authors": [
+"Megan Stevenson",
+"Lindsay Graef",
+"Sandra Mayson",
+"Aurelie Ouss"
+],
+"year": 2023,
+"venue": "University of Pennsylvania Law Review",
+"status": "published"
+},
+{
+"title": "The Counterintuitive Consequences of Sex Offender Risk Assessment at Sentencing",
+"authors": [
+"Megan Stevenson",
+"Jennifer L. Doleac"
+],
+"year": 2023,
+"venue": "University of Toronto Law Journal",
+"status": "published"
+},
+{
+"title": "Pretrial Detention and the Value of Liberty",
+"authors": [
+"Megan Stevenson",
+"Sandra Mayson"
+],
+"year": 2022,
+"venue": "Virginia Law Review",
+"status": "published"
+},
+{
+"title": "Misdemeanors By the Numbers",
+"authors": [
+"Megan Stevenson",
+"Sandra Mayson"
+],
+"year": 2020,
+"venue": "Boston College Law Review",
+"status": "published"
+},
+{
+"title": "Algorithmic Risk Assessment and the Double-Edged Sword of Youth",
+"authors": [
+"Megan Stevenson",
+"Christopher Slobogin"
+],
+"year": 2018,
+"venue": "Washington University Law Review",
+"status": "published"
+},
+{
+"title": "Assessing Risk Assessment in Action",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2018,
+"venue": "Minnesota Law Review",
+"status": "published"
+},
+{
+"title": "The Scale of Misdemeanor Justice",
+"authors": [
+"Megan Stevenson",
+"Sandra Mayson"
+],
+"year": 2018,
+"venue": "Boston University Law Review",
+"status": "published"
+},
+{
+"title": "The Downstream Consequences of Misdemeanor Pretrial Detention",
+"authors": [
+"Megan Stevenson",
+"Paul Heaton",
+"Sandra Mayson"
+],
+"year": 2017,
+"venue": "Stanford Law Review",
+"status": "published"
+},
+{
+"title": "Open Risk Assessment",
+"authors": [
+"Megan Stevenson",
+"Brandon L. Garrett"
+],
+"year": 2020,
+"venue": "Behavioral Sciences & Law",
+"status": "published"
+},
+{
+"title": "Pretrial Detention and Bail",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2017,
+"venue": "Academy for Justice: A Report on Scholarship and Criminal Justice Reform",
+"status": "published"
+},
+{
+"title": "Tests of Random Assignment to Peers in the Face of Mechanical Negative Correlation: An Evaluation of Four Techniques",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2015,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Decomposition of Racial Disparities in Pretrial Detention",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2018,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Green Industrial Policy: Trade and Theory",
+"authors": [
+"Megan Stevenson",
+"Larry Karp"
+],
+"year": 2012,
+"venue": "World Bank Policy Research Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Average Monotonicity in a Setting with Covariates",
+"authors": [
+"Megan Stevenson"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
 },
 "mark thomas": {
 "name": "Mark Thomas",
-"papers": []
+"papers": [
+{
+"title": "Income Distribution in Historical Perspective",
+"authors": [
+"Mark Thomas",
+"Y. S. Brenner",
+"H. Kaelble"
+],
+"year": 1991,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Capitalism in Context: Essays in economic development and cultural change in honor of R. M. Hartwell",
+"authors": [
+"Mark Thomas",
+"J. A. James"
+],
+"year": 1994,
+"venue": "University of Chicago Press",
+"status": "published"
+},
+{
+"title": "The Disintegration of the World Economy between the Wars",
+"authors": [
+"Mark Thomas"
+],
+"year": 1996,
+"venue": "Edward Elgar",
+"status": "published"
+},
+{
+"title": "Making History Count: A primer in quantitative methods for historians",
+"authors": [
+"Mark Thomas",
+"Charles H. Feinstein"
+],
+"year": 2002,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "The Economic Future in Historical Perspective",
+"authors": [
+"Mark Thomas",
+"Paul A. David"
+],
+"year": 2003,
+"venue": "Oxford University Press",
+"status": "published"
+},
+{
+"title": "New Perspectives in Economic History",
+"authors": [
+"Mark Thomas",
+"Nicholas Dimsdale",
+"Albrecht Ritschl"
+],
+"year": 2007,
+"venue": "Oxford Economic Papers",
+"status": "published"
+},
+{
+"title": "The Mid-Victorian Economy: Making, Earning and Spending in Britain in 1851",
+"authors": [
+"Mark Thomas",
+"Charles Feinstein"
+],
+"year": null,
+"venue": "Cambridge University Press",
+"status": "forthcoming"
+},
+{
+"title": "The Economic Impact of Rearmament in the late 1930s",
+"authors": [
+"Mark Thomas"
+],
+"year": 1983,
+"venue": "Economic History Review",
+"status": "published"
+},
+{
+"title": "Applying the Social Accounting Matrix to Historical Problems",
+"authors": [
+"Mark Thomas"
+],
+"year": 1985,
+"venue": "Historical Methods",
+"status": "published"
+},
+{
+"title": "An Input-output Approach to the British Economy, 1890-1914",
+"authors": [
+"Mark Thomas"
+],
+"year": 1985,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Comparative Advantage and U. K. Manufacturing Trade, 1910-1935",
+"authors": [
+"Mark Thomas",
+"N. F. R. Crafts"
+],
+"year": 1986,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Slowdown in the UK Economy before 1914",
+"authors": [
+"Mark Thomas"
+],
+"year": 1988,
+"venue": "Oxford Review of Economic Policy",
+"status": "published"
+},
+{
+"title": "L'Angleterre au coeur des financements internationaux",
+"authors": [
+"Mark Thomas"
+],
+"year": 1990,
+"venue": "Revue d'Economie Financiere",
+"status": "published"
+},
+{
+"title": "'A substantial Australian superiority?' Anglo-Australian income comparisons of consumption and income in the late nineteenth century",
+"authors": [
+"Mark Thomas"
+],
+"year": 1995,
+"venue": "Australian Economic History Review",
+"status": "published"
+},
+{
+"title": "Height, weight and wellbeing: Sydney schoolchildren in the early twentieth century",
+"authors": [
+"Mark Thomas",
+"R. V. Jackson"
+],
+"year": 1995,
+"venue": "Australian Economic History Review",
+"status": "published"
+},
+{
+"title": "Retirement saving before Social Security",
+"authors": [
+"Mark Thomas",
+"John A. James",
+"Michael Palumbo"
+],
+"year": 1999,
+"venue": "National Tax Journal",
+"status": "published"
+},
+{
+"title": "Industrialization and wage inequality in nineteenth-century urban America",
+"authors": [
+"Mark Thomas",
+"J. A. James"
+],
+"year": 2000,
+"venue": "Journal of Income Distribution",
+"status": "published"
+},
+{
+"title": "A plea for errors",
+"authors": [
+"Mark Thomas",
+"Charles H. Feinstein"
+],
+"year": 2002,
+"venue": "Historical Methods",
+"status": "published"
+},
+{
+"title": "A Golden Age? Unemployment and the American labor market, 1880-1910",
+"authors": [
+"Mark Thomas",
+"J. A. James"
+],
+"year": 2003,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Have American workers always been low savers? Patterns of accumulation among working households, 1885-1910",
+"authors": [
+"Mark Thomas",
+"John A. James",
+"Michael Palumbo"
+],
+"year": 2005,
+"venue": "Research in Economic History",
+"status": "published"
+},
+{
+"title": "Romer revisited: changes in the cyclical sensitivity of US unemployment over the twentieth century",
+"authors": [
+"Mark Thomas",
+"John A. James"
+],
+"year": 2007,
+"venue": "Cliometrica",
+"status": "published"
+},
+{
+"title": "Consumption Smoothing among Working-class American Families before Social Insurance",
+"authors": [
+"Mark Thomas",
+"John A. James",
+"Michael Palumbo"
+],
+"year": 2007,
+"venue": "Oxford Economic Papers",
+"status": "published"
+},
+{
+"title": "Unemployment in the Recovery in US and UK",
+"authors": [
+"Mark Thomas",
+"T. J. Hatton"
+],
+"year": 2010,
+"venue": "Oxford Review of Economic Policy",
+"status": "published"
+}
+]
 }
 }
