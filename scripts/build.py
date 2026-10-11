@@ -365,11 +365,73 @@ def do_import(raw_dir):
         print(f"imported {uid}: {len(out)}")
 
 
+# ---------------------------------------------------------------- papers: one schema for curated and extracted lists
+# pubs/<pid>.json rows: t title, a authors, y year, c category (pub|rr|wp), j journal/series, v/i/p volume/issue/pages,
+# n note (e.g. Forthcoming), l link, lt link type (pub|wp), r journal index into D.journals (leading journals only)
+JR = json.load(open(os.path.join(DATA, "journals.json"), encoding="utf-8"))
+TIERS = [t for t, _ in JR["tiers"]]
+JOURNALS = [[j, TIERS.index(t)] for t in TIERS for j in JR["journals"][t]]
+
+
+def jkey(s):
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower().replace("&", " and ")
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    s = re.sub(r"^\s*the\s+|\s+the\s*$", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+JKEY = {jkey(j): i for i, (j, _) in enumerate(JOURNALS)}
+for a, j in JR["aliases"].items():
+    JKEY[jkey(a)] = JKEY[jkey(j)]
+NOTE_RE = re.compile(r"^\s*(forthcoming|accepted|conditionally accepted|to appear|r\s*&\s*r|revise and resubmit|reject and resubmit|revision requested|under review)\s*(in|at|,|:)?\s*", re.I)
+
+
+def journal_idx(venue):
+    v = NOTE_RE.sub("", venue or "")
+    v = re.split(r",\s*(?:vol|no\.|\d)|\s+\d|\(", v, maxsplit=1)[0]
+    return JKEY.get(jkey(v))
+
+
+def paper_extracted(q):
+    st = q.get("status") or ""
+    c = "rr" if st == "revise_resubmit" else "wp" if st == "working_paper" else "pub"
+    venue = (q.get("venue") or "").strip()
+    if c == "wp" and jkey(venue) in ("working paper", "working papers", "mimeo", ""):
+        venue = ""
+    r = journal_idx(venue) if c != "wp" else None
+    out = {"t": q.get("title"), "a": q.get("authors") or [], "y": q.get("year"), "c": c,
+           "j": JOURNALS[r][0] if r is not None else venue or None, "r": r}
+    if st == "forthcoming":
+        out["n"] = "Forthcoming"
+    if q.get("doi"):
+        out["l"], out["lt"] = "https://doi.org/" + q["doi"], "pub"
+    if q.get("abstract"):
+        out["abs"] = q["abstract"]
+    return {k: v for k, v in out.items() if v not in (None, "", [])}
+
+
+def paper_curated(q):
+    c = {"publication": "pub", "rr": "rr", "wp": "wp"}[q["category"]]
+    r = journal_idx(q.get("journal")) if c != "wp" else None
+    out = {"t": q.get("title"), "a": q.get("authors") or [], "y": q.get("year"), "c": c,
+           "j": (JOURNALS[r][0] if r is not None else q.get("journal")) if c != "wp" else (q.get("series") or "").rstrip(".") or None,
+           "v": q.get("volume"), "i": q.get("issue"), "p": q.get("pages"), "r": r,
+           "n": {"forthcoming": "Forthcoming", "accepted": "Accepted"}.get(q.get("status_note") or "", q.get("status_note")),
+           "l": q.get("link"), "lt": {"published": "pub", "wp": "wp"}.get(q.get("link_type"))}
+    return {k: v for k, v in out.items() if v not in (None, "", [])}
+
+
+def paper_sort(ps):
+    order = {"pub": 0, "rr": 1, "wp": 2}
+    return sorted(ps, key=lambda q: (order[q["c"]], -(q.get("y") or 0)))
+
+
 def build(check):
     unis, _ = load_unis()
     uidx = {u["id"]: i for i, u in enumerate(unis)}
     people, ids = [], Counter()
     pf_list = []
+    pindex = []
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
@@ -401,11 +463,27 @@ def build(check):
                            r.get("area") or "", fs, r.get("phd_institution") or "", r.get("phd_year") or 0,
                            1 if r.get("homepage_url") else 0, pf])
             detail[pid] = {k: v for k, v in r.items() if v not in (None, "", [])}
-            pv = upapers.get(norm(r["name"]))
-            if pv and pv.get("papers"):
-                detail[pid]["n_papers"] = len(pv["papers"])
+            cp = os.path.join(DATA, "curated", pid + ".json")
+            if os.path.exists(cp):
+                cur = json.load(open(cp, encoding="utf-8"))
+                ps = [paper_curated(q) for q in cur["papers"]]
+                detail[pid]["papers_curated"] = cur.get("source_cv") or True
+            else:
+                pv = upapers.get(norm(r["name"])) or {}
+                ps = [paper_extracted(q) for q in pv.get("papers") or [] if q.get("title")]
+            ps = paper_sort(ps)
+            np_ = [sum(q["c"] == c for q in ps) for c in ("pub", "rr", "wp")]
+            np_.append(sum(q["c"] == "pub" and q.get("r") is not None and JOURNALS[q["r"]][1] == 0 for q in ps))
+            np_.append(sum(q["c"] == "pub" and q.get("r") is not None and JOURNALS[q["r"]][1] < 4 for q in ps))
+            people[-1] += [np_, sorted({q["r"] for q in ps if q["c"] == "pub" and q.get("r") is not None})]
+            if ps:
+                detail[pid]["n_papers"] = len(ps)
                 with open(os.path.join(SITE, "pubs", pid + ".json"), "w", encoding="utf-8") as g:
-                    json.dump(pv["papers"], g, ensure_ascii=False, separators=(",", ":"))
+                    json.dump(ps, g, ensure_ascii=False, separators=(",", ":"))
+                pidx = len(people) - 1
+                for q in ps:
+                    if q["c"] != "pub" or q.get("r") is not None:  # paper search: R&R, working papers, leading-journal pubs
+                        pindex.append([q["t"], q.get("y") or 0, "pub rr wp".split().index(q["c"]), q.get("r", -1), pidx, q.get("l") or ""])
             detail[pid]["fields"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
@@ -418,10 +496,14 @@ def build(check):
         row[11] = [pfi[x] for x in row[11]]
     out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "universities": unis, "ranks": RANKS,
            "unit_types": UNIT_TYPES, "fields": FIELDS, "field_group": [FIELD_GROUP[f] for f in FIELDS],
-           "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield"],
+           "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield", "np", "jr"],
+           "journals": JOURNALS, "tiers": JR["tiers"], "n_pindex": len(pindex),
            "people": people}
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as g:
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    with open(os.path.join(SITE, "papers.json"), "w", encoding="utf-8") as g:
+        json.dump(pindex, g, ensure_ascii=False, separators=(",", ":"))
+    print(f"{len(pindex)} papers in search index -> site/papers.json")
     print(f"{len(people)} people at {sum(1 for u in unis if u['n'])} universities -> site/data.js")
 
 

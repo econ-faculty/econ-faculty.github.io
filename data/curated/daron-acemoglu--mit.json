@@ -1,0 +1,4057 @@
+{
+ "person": "Daron Acemoglu",
+ "university": "massachusetts-institute-of-technology",
+ "source_cv": "https://economics.mit.edu/sites/default/files/2026-10/CV%20September%202026.pdf",
+ "generated": "2026-10-11",
+ "papers": [
+  {
+   "category": "publication",
+   "title": "Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2025,
+   "journal": "Quarterly Journal of Economics",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": "forthcoming",
+   "link": "https://doi.org/10.1093/qje/qjag006",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2025. \"Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity.\" Forthcoming in *Quarterly Journal of Economics*."
+  },
+  {
+   "category": "publication",
+   "title": "Online Business Models, Digital Ads, and User Welfare",
+   "authors": [
+    "Daron Acemoglu",
+    "Daniel Huttenlocher",
+    "Asuman Ozdaglar",
+    "James Siderius"
+   ],
+   "year": 2025,
+   "journal": "Journal of Political Economy",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": "forthcoming",
+   "link": "https://doi.org/10.1086/742715",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Daniel Huttenlocher, Asuman Ozdaglar, and James Siderius. 2025. \"Online Business Models, Digital Ads, and User Welfare.\" Forthcoming in *Journal of Political Economy*."
+  },
+  {
+   "category": "publication",
+   "title": "Eclipse of Rent-Sharing: The Effects of Managers Business Education on wages and the Labor Share in the US and Denmark",
+   "authors": [
+    "Daron Acemoglu",
+    "Alex Xi He",
+    "Daniel le Maire"
+   ],
+   "year": 2025,
+   "journal": "American Economic Review",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": "forthcoming",
+   "link": "https://doi.org/10.3386/w29874",
+   "link_type": "working_paper",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Alex Xi He, and Daniel le Maire. 2025. \"Eclipse of Rent-Sharing: The Effects of Managers Business Education on wages and the Labor Share in the US and Denmark.\" Forthcoming in *American Economic Review*."
+  },
+  {
+   "category": "publication",
+   "title": "Robots and Workers: Evidence from the Netherlands",
+   "authors": [
+    "Daron Acemoglu",
+    "Hans R. A. Koster",
+    "Ceren Ozgen"
+   ],
+   "year": 2023,
+   "journal": "Journal of Political Economy",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": "forthcoming",
+   "link": "https://doi.org/10.3386/w31009",
+   "link_type": "working_paper",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Hans R. A. Koster, and Ceren Ozgen. 2023. \"Robots and Workers: Evidence from the Netherlands.\" Forthcoming in *Journal of Political Economy*."
+  },
+  {
+   "category": "publication",
+   "title": "Automation and Polarization",
+   "authors": [
+    "Daron Acemoglu",
+    "Jonas Loebbing"
+   ],
+   "year": 2026,
+   "journal": "Journal of Political Economy",
+   "volume": "134",
+   "issue": "3",
+   "pages": "1017-1072",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/739330",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Jonas Loebbing. 2026. \"Automation and Polarization.\" *Journal of Political Economy* 134 (3): 1017–1072."
+  },
+  {
+   "category": "publication",
+   "title": "Institutions, Technology and Prosperity: Nobel Lecture",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2025,
+   "journal": "American Economic Review",
+   "volume": "115",
+   "issue": "6",
+   "pages": "1709-1748",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.115.6.1709",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 2025. \"Institutions, Technology and Prosperity: Nobel Lecture.\" *American Economic Review* 115 (6): 1709–1748."
+  },
+  {
+   "category": "publication",
+   "title": "Culture, Institutions and Social Equilibria: A Framework",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson"
+   ],
+   "year": 2025,
+   "journal": "Journal of Economic Literature",
+   "volume": "63",
+   "issue": "2",
+   "pages": "637-692",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jel.20241680",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and James A. Robinson. 2025. \"Culture, Institutions and Social Equilibria: A Framework.\" *Journal of Economic Literature* 63 (2): 637–692."
+  },
+  {
+   "category": "publication",
+   "title": "When Big Data Enables Behavioral Manipulation",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2025,
+   "journal": "American Economic Review: Insights",
+   "volume": "7",
+   "issue": "1",
+   "pages": "19-38",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aeri.20230589",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2025. \"When Big Data Enables Behavioral Manipulation.\" *American Economic Review: Insights* 7 (1): 19–38."
+  },
+  {
+   "category": "publication",
+   "title": "The Macroeconomics of Supply Chain Disruptions",
+   "authors": [
+    "Daron Acemoglu",
+    "Alireza Tahbaz-Salehi"
+   ],
+   "year": 2025,
+   "journal": "Review of Economic Studies",
+   "volume": "92",
+   "issue": "2",
+   "pages": "656-695",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdae038",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Alireza Tahbaz-Salehi. 2025. \"The Macroeconomics of Supply Chain Disruptions.\" *Review of Economic Studies* 92 (2): 656–695."
+  },
+  {
+   "category": "publication",
+   "title": "(Successful) Democracies Breed Their Own Support",
+   "authors": [
+    "Daron Acemoglu",
+    "Nicolás Ajzenman",
+    "Cevat Giray Aksoy",
+    "Martin Fiszbein",
+    "Carlos Molina"
+   ],
+   "year": 2025,
+   "journal": "Review of Economic Studies",
+   "volume": "92",
+   "issue": "2",
+   "pages": "621-655",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdae051",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Nicolás Ajzenman, Cevat Giray Aksoy, Martin Fiszbein, and Carlos Molina. 2025. \"(Successful) Democracies Breed Their Own Support.\" *Review of Economic Studies* 92 (2): 621–655."
+  },
+  {
+   "category": "publication",
+   "title": "The Making of Social Democracy: The Economic and Electoral Consequences of Norway's 1936 Folk School Reform",
+   "authors": [
+    "Daron Acemoglu",
+    "Tuomas Pekkarinen",
+    "Kjell G Salvanes",
+    "Matti Sarvimäki"
+   ],
+   "year": 2025,
+   "journal": "Journal of the European Economic Association",
+   "volume": "23",
+   "issue": "1",
+   "pages": "119-158",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/jeea/jvae039",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Tuomas Pekkarinen, Kjell G Salvanes, and Matti Sarvimäki. 2025. \"The Making of Social Democracy: The Economic and Electoral Consequences of Norway's 1936 Folk School Reform.\" *Journal of the European Economic Association* 23 (1): 119–158."
+  },
+  {
+   "category": "publication",
+   "title": "Capital and Wages",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2025,
+   "journal": "International Economic Review",
+   "volume": "66",
+   "issue": "1",
+   "pages": "3-24",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/iere.12733",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2025. \"Capital and Wages.\" *International Economic Review* 66 (1): 3–24."
+  },
+  {
+   "category": "publication",
+   "title": "The Simple Macroeconomics of AI",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2025,
+   "journal": "Economic Policy",
+   "volume": "40",
+   "issue": "121",
+   "pages": "13-58",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/epolic/eiae042",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2025. \"The Simple Macroeconomics of AI.\" *Economic Policy* 40 (121): 13–58."
+  },
+  {
+   "category": "publication",
+   "title": "A Model of Online Misinformation",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "James Siderius"
+   ],
+   "year": 2024,
+   "journal": "Review of Economic Studies",
+   "volume": "91",
+   "issue": "6",
+   "pages": "3117-3150",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdad111",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and James Siderius. 2024. \"A Model of Online Misinformation.\" *Review of Economic Studies* 91 (6): 3117–3150."
+  },
+  {
+   "category": "publication",
+   "title": "Regulating Transformative Technologies",
+   "authors": [
+    "Daron Acemoglu",
+    "Todd Lensman"
+   ],
+   "year": 2024,
+   "journal": "American Economic Review: Insights",
+   "volume": "6",
+   "issue": "3",
+   "pages": "359-376",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aeri.20230353",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Todd Lensman. 2024. \"Regulating Transformative Technologies.\" *American Economic Review: Insights* 6 (3): 359–376."
+  },
+  {
+   "category": "publication",
+   "title": "Learning from Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution - And in the Age of AI",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson"
+   ],
+   "year": 2024,
+   "journal": "Annual Review of Economics",
+   "volume": "16",
+   "issue": "1",
+   "pages": "597-621",
+   "status_note": null,
+   "link": "https://doi.org/10.1146/annurev-economics-091823-025129",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Simon Johnson. 2024. \"Learning from Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution - And in the Age of AI.\" *Annual Review of Economics* 16 (1): 597–621."
+  },
+  {
+   "category": "publication",
+   "title": "Testing, Voluntary Social Distancing and the Spread of an Infection",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2024,
+   "journal": "Operations Research",
+   "volume": "72",
+   "issue": "2",
+   "pages": "533-548",
+   "status_note": null,
+   "link": "https://doi.org/10.1287/opre.2021.2220",
+   "link_type": "published",
+   "tier": "business",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2024. \"Testing, Voluntary Social Distancing and the Spread of an Infection.\" *Operations Research* 72 (2): 533–548."
+  },
+  {
+   "category": "publication",
+   "title": "Equilibrium Analysis in Behavioral One-Sector Growth Models",
+   "authors": [
+    "Daron Acemoglu",
+    "Martin Kaae Jensen"
+   ],
+   "year": 2024,
+   "journal": "Review of Economic Studies",
+   "volume": "91",
+   "issue": "2",
+   "pages": "599-640",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdad043",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Martin Kaae Jensen. 2024. \"Equilibrium Analysis in Behavioral One-Sector Growth Models.\" *Review of Economic Studies* 91 (2): 599–640."
+  },
+  {
+   "category": "publication",
+   "title": "Bottlenecks: Sectoral Imbalances and the US Productivity Slowdown",
+   "authors": [
+    "Daron Acemoglu",
+    "David Autor",
+    "Christina Patterson"
+   ],
+   "year": 2024,
+   "journal": "NBER Macroeconomics Annual",
+   "volume": "38",
+   "issue": null,
+   "pages": "153-207",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/729196",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Autor, and Christina Patterson. 2024. \"Bottlenecks: Sectoral Imbalances and the US Productivity Slowdown.\" *NBER Macroeconomics Annual* 38: 153–207."
+  },
+  {
+   "category": "publication",
+   "title": "Distorted Innovation: Does the Market Get the Direction of Technology Right?",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2023,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "113",
+   "issue": null,
+   "pages": "1-28",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pandp.20231000",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2023. \"Distorted Innovation: Does the Market Get the Direction of Technology Right?\" *American Economic Review: Papers and Proceedings* 113: 1–28."
+  },
+  {
+   "category": "publication",
+   "title": "Weak, Despotic or Inclusive? How State Type Emerges from State versus Civil Society Competition",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson"
+   ],
+   "year": 2023,
+   "journal": "American Political Science Review",
+   "volume": "117",
+   "issue": "2",
+   "pages": "407-420",
+   "status_note": null,
+   "link": "https://doi.org/10.1017/s0003055422000740",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, and James A. Robinson. 2023. \"Weak, Despotic or Inclusive? How State Type Emerges from State versus Civil Society Competition.\" *American Political Science Review* 117 (2): 407–420."
+  },
+  {
+   "category": "publication",
+   "title": "Advanced Technology Adoption: Selection or Causal Effects?",
+   "authors": [
+    "Daron Acemoglu",
+    "Gary Anderson",
+    "David Beede",
+    "Catherine Buffington",
+    "Eric Childress",
+    "Emin Dinlersoz",
+    "Lucia Foster",
+    "Nathan Goldschlag",
+    "John Haltiwanger",
+    "Zachary Kroff",
+    "Pascual Restrepo",
+    "Nikolas Zolas"
+   ],
+   "year": 2023,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "113",
+   "issue": null,
+   "pages": "210-214",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pandp.20231037",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Gary Anderson, David Beede, Catherine Buffington, Eric Childress, Emin Dinlersoz, Lucia Foster, Nathan Goldschlag, John Haltiwanger, Zachary Kroff, Pascual Restrepo, and Nikolas Zolas. 2023. \"Advanced Technology Adoption: Selection or Causal Effects?\" *American Economic Review: Papers and Proceedings* 113: 210–214."
+  },
+  {
+   "category": "publication",
+   "title": "Mirage on the Horizon: Geoengineering and Carbon Taxation Without Commitment",
+   "authors": [
+    "Daron Acemoglu",
+    "Will Rafey"
+   ],
+   "year": 2023,
+   "journal": "Journal of Public Economics",
+   "volume": "219",
+   "issue": "2023",
+   "pages": "104802",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jpubeco.2022.104802",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Will Rafey. 2023. \"Mirage on the Horizon: Geoengineering and Carbon Taxation Without Commitment.\" *Journal of Public Economics* 219 (2023): 104802."
+  },
+  {
+   "category": "publication",
+   "title": "Too Much Data: Prices and Inefficiencies in Data Markets",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asu Ozdaglar"
+   ],
+   "year": 2022,
+   "journal": "American Economic Journal: Microeconomics",
+   "volume": "14",
+   "issue": "4",
+   "pages": "218-256",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mic.20200200",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asu Ozdaglar. 2022. \"Too Much Data: Prices and Inefficiencies in Data Markets.\" *American Economic Journal: Microeconomics* 14 (4): 218–256."
+  },
+  {
+   "category": "publication",
+   "title": "Learning from Reviews: The Selection Effect and the Speed of Learning",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2022,
+   "journal": "Econometrica",
+   "volume": "90",
+   "issue": "6",
+   "pages": "2857-2899",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/ecta15847",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2022. \"Learning from Reviews: The Selection Effect and the Speed of Learning.\" *Econometrica* 90 (6): 2857–2899."
+  },
+  {
+   "category": "publication",
+   "title": "Tasks, Automation and the Rise in US Wage Inequality",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2022,
+   "journal": "Econometrica",
+   "volume": "90",
+   "issue": "5",
+   "pages": "1973-2016",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/ecta19815",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2022. \"Tasks, Automation and the Rise in US Wage Inequality.\" *Econometrica* 90 (5): 1973–2016."
+  },
+  {
+   "category": "publication",
+   "title": "Radical and Incremental Innovation: The Roles of Firms, Managers and Innovators",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit",
+    "Murat Alp Celik"
+   ],
+   "year": 2022,
+   "journal": "American Economic Journal: Macroeconomics",
+   "volume": "14",
+   "issue": "3",
+   "pages": "199-249",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mac.20170410",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Ufuk Akcigit, and Murat Alp Celik. 2022. \"Radical and Incremental Innovation: The Roles of Firms, Managers and Innovators.\" *American Economic Journal: Macroeconomics* 14 (3): 199–249."
+  },
+  {
+   "category": "publication",
+   "title": "Artificial Intelligence and Jobs - Evidence from Online Vacancies",
+   "authors": [
+    "Daron Acemoglu",
+    "David Autor",
+    "Jonathon Hazell",
+    "Pascual Restrepo"
+   ],
+   "year": 2022,
+   "journal": "Journal of Labor Economics",
+   "volume": "40",
+   "issue": "S1",
+   "pages": "S293-S340",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/718327",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Autor, Jonathon Hazell, and Pascual Restrepo. 2022. \"Artificial Intelligence and Jobs - Evidence from Online Vacancies.\" *Journal of Labor Economics* 40 (S1): S293–S340."
+  },
+  {
+   "category": "publication",
+   "title": "Demographics and Automation",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2022,
+   "journal": "Review of Economic Studies",
+   "volume": "89",
+   "issue": "1",
+   "pages": "1-44",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdab031",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2022. \"Demographics and Automation.\" *Review of Economic Studies* 89 (1): 1–44."
+  },
+  {
+   "category": "publication",
+   "title": "War, Socialism and the Rise of Fascism: An Empirical Exploration",
+   "authors": [
+    "Daron Acemoglu",
+    "Giuseppe De Feo",
+    "Giacomo De Luca",
+    "Gianluca Russo"
+   ],
+   "year": 2022,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "137",
+   "issue": "2",
+   "pages": "1233-1296",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/qje/qjac001",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. \"War, Socialism and the Rise of Fascism: An Empirical Exploration.\" *Quarterly Journal of Economics* 137 (2): 1233–1296."
+  },
+  {
+   "category": "publication",
+   "title": "Optimal Targeted Lockdowns in a Multi-Group SIR Model",
+   "authors": [
+    "Daron Acemoglu",
+    "Victor Chernozhukov",
+    "Iván Werning",
+    "Michael D. Whinston"
+   ],
+   "year": 2021,
+   "journal": "American Economic Review: Insights",
+   "volume": "3",
+   "issue": "4",
+   "pages": "487-502",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aeri.20200590",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Victor Chernozhukov, Iván Werning, and Michael D. Whinston. 2021. \"Optimal Targeted Lockdowns in a Multi-Group SIR Model.\" *American Economic Review: Insights* 3 (4): 487–502."
+  },
+  {
+   "category": "publication",
+   "title": "A Theory of Equality Before the Law",
+   "authors": [
+    "Daron Acemoglu",
+    "Alexander Wolitzky"
+   ],
+   "year": 2021,
+   "journal": "Economic Journal",
+   "volume": "131",
+   "issue": "636",
+   "pages": "1429-1465",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/ej/ueaa116",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Alexander Wolitzky. 2021. \"A Theory of Equality Before the Law.\" *Economic Journal* 131 (636): 1429–1465."
+  },
+  {
+   "category": "publication",
+   "title": "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Cheema",
+    "Asim I. Khwaja",
+    "James A. Robinson"
+   ],
+   "year": 2020,
+   "journal": "Journal of Political Economy",
+   "volume": "128",
+   "issue": "8",
+   "pages": "3090-3147",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/707765",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Ali Cheema, Asim I. Khwaja, and James A. Robinson. 2020. \"Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan.\" *Journal of Political Economy* 128 (8): 3090–3147."
+  },
+  {
+   "category": "publication",
+   "title": "The Perils of High Powered Incentives: Evidence from Colombia's False Positives",
+   "authors": [
+    "Daron Acemoglu",
+    "Leopoldo Fergusson",
+    "James Robinson",
+    "Dario Romero",
+    "Juan F. Vargas"
+   ],
+   "year": 2020,
+   "journal": "American Economic Journal: Economic Policy",
+   "volume": "12",
+   "issue": "3",
+   "pages": "1-43",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pol.20180168",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Leopoldo Fergusson, James Robinson, Dario Romero, and Juan F. Vargas. 2020. \"The Perils of High Powered Incentives: Evidence from Colombia's False Positives.\" *American Economic Journal: Economic Policy* 12 (3): 1–43."
+  },
+  {
+   "category": "publication",
+   "title": "Population and Conflict",
+   "authors": [
+    "Daron Acemoglu",
+    "Leopoldo Fergusson",
+    "Simon Johnson"
+   ],
+   "year": 2020,
+   "journal": "Review of Economic Studies",
+   "volume": "87",
+   "issue": "4",
+   "pages": "1565-1604",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdz042",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Leopoldo Fergusson, and Simon Johnson. 2020. \"Population and Conflict.\" *Review of Economic Studies* 87 (4): 1565–1604."
+  },
+  {
+   "category": "publication",
+   "title": "Robots and Jobs: Evidence from US Labor Markets",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2020,
+   "journal": "Journal of Political Economy",
+   "volume": "128",
+   "issue": "6",
+   "pages": "2188-2244",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/705716",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2020. \"Robots and Jobs: Evidence from US Labor Markets.\" *Journal of Political Economy* 128 (6): 2188–2244."
+  },
+  {
+   "category": "publication",
+   "title": "Unpacking Skill Bias: Automation and New Tasks",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2020,
+   "journal": "AEA Papers and Proceedings",
+   "volume": "110",
+   "issue": null,
+   "pages": "356-361",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pandp.20201063",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2020. \"Unpacking Skill Bias: Automation and New Tasks.\" *AEA Papers and Proceedings* 110: 356–361."
+  },
+  {
+   "category": "publication",
+   "title": "Competing with Robots: Firm-Level Evidence from France",
+   "authors": [
+    "Daron Acemoglu",
+    "Claire Lelarge",
+    "Pascual Restrepo"
+   ],
+   "year": 2020,
+   "journal": "AEA Papers and Proceedings",
+   "volume": "110",
+   "issue": null,
+   "pages": "383-388",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pandp.20201003",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Claire Lelarge, and Pascual Restrepo. 2020. \"Competing with Robots: Firm-Level Evidence from France.\" *AEA Papers and Proceedings* 110: 383–388."
+  },
+  {
+   "category": "publication",
+   "title": "Sustaining Cooperation: Community Enforcement versus Specialized Enforcement",
+   "authors": [
+    "Daron Acemoglu",
+    "Alexander Wolitzky"
+   ],
+   "year": 2020,
+   "journal": "Journal of the European Economic Association",
+   "volume": "18",
+   "issue": "2",
+   "pages": "1078-1122",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/jeea/jvz008",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Alexander Wolitzky. 2020. \"Sustaining Cooperation: Community Enforcement versus Specialized Enforcement.\" *Journal of the European Economic Association* 18 (2): 1078–1122."
+  },
+  {
+   "category": "publication",
+   "title": "Does the US Tax Code Favor Automation?",
+   "authors": [
+    "Daron Acemoglu",
+    "Andrea Manera",
+    "Pascual Restrepo"
+   ],
+   "year": 2020,
+   "journal": "Brookings Papers on Economic Activity",
+   "volume": "2020",
+   "issue": "1",
+   "pages": "231-300",
+   "status_note": null,
+   "link": "https://doi.org/10.1353/eca.2020.0003",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Andrea Manera, and Pascual Restrepo. 2020. \"Does the US Tax Code Favor Automation?\" *Brookings Papers on Economic Activity* 2020 (1): 231–300."
+  },
+  {
+   "category": "publication",
+   "title": "Weak States: Causes and Consequences of the Sicilian Mafia",
+   "authors": [
+    "Daron Acemoglu",
+    "Giuseppe De Feo",
+    "Giacomo Davide De Luca"
+   ],
+   "year": 2020,
+   "journal": "Review of Economic Studies",
+   "volume": "87",
+   "issue": "2",
+   "pages": "537-581",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdz009",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Giuseppe De Feo, and Giacomo Davide De Luca. 2020. \"Weak States: Causes and Consequences of the Sicilian Mafia.\" *Review of Economic Studies* 87 (2): 537–581."
+  },
+  {
+   "category": "publication",
+   "title": "Endogenous Production Networks",
+   "authors": [
+    "Daron Acemoglu",
+    "Pablo D. Azar"
+   ],
+   "year": 2020,
+   "journal": "Econometrica",
+   "volume": "88",
+   "issue": "1",
+   "pages": "33-82",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/ecta15899",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pablo D. Azar. 2020. \"Endogenous Production Networks.\" *Econometrica* 88 (1): 33–82."
+  },
+  {
+   "category": "publication",
+   "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2019,
+   "journal": "Journal of Economic Perspectives",
+   "volume": "33",
+   "issue": "2",
+   "pages": "3-30",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jep.33.2.3",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2019. \"Automation and New Tasks: How Technology Displaces and Reinstates Labor.\" *Journal of Economic Perspectives* 33 (2): 3–30."
+  },
+  {
+   "category": "publication",
+   "title": "Democracy Does Cause Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Suresh Naidu",
+    "Pascual Restrepo",
+    "James A. Robinson"
+   ],
+   "year": 2019,
+   "journal": "Journal of Political Economy",
+   "volume": "127",
+   "issue": "1",
+   "pages": "47-100",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/700936",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Suresh Naidu, Pascual Restrepo, and James A. Robinson. 2019. \"Democracy Does Cause Growth.\" *Journal of Political Economy* 127 (1): 47–100."
+  },
+  {
+   "category": "publication",
+   "title": "Informational Braess' Paradox: The Effect of Information on Traffic Congestion",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2018,
+   "journal": "Operations Research",
+   "volume": "66",
+   "issue": "4",
+   "pages": "893-917",
+   "status_note": null,
+   "link": "https://doi.org/10.1287/opre.2017.1712",
+   "link_type": "published",
+   "tier": "business",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2018. \"Informational Braess' Paradox: The Effect of Information on Traffic Congestion.\" *Operations Research* 66 (4): 893–917."
+  },
+  {
+   "category": "publication",
+   "title": "The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2018,
+   "journal": "American Economic Review",
+   "volume": "108",
+   "issue": "6",
+   "pages": "1488-1542",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.20160696",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2018. \"The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment.\" *American Economic Review* 108 (6): 1488–1542."
+  },
+  {
+   "category": "publication",
+   "title": "Innovation, Reallocation and Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit",
+    "Harun Alp",
+    "Nicholas Bloom",
+    "William Kerr"
+   ],
+   "year": 2018,
+   "journal": "American Economic Review",
+   "volume": "108",
+   "issue": "11",
+   "pages": "3450-3491",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.20130470",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Ufuk Akcigit, Harun Alp, Nicholas Bloom, and William Kerr. 2018. \"Innovation, Reallocation and Growth.\" *American Economic Review* 108 (11): 3450–3491."
+  },
+  {
+   "category": "publication",
+   "title": "Social Mobility and Stability of Democracy: Reevaluating de Tocqueville",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2018,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "133",
+   "issue": "2",
+   "pages": "1041-1105",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/qje/qjx038",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2018. \"Social Mobility and Stability of Democracy: Reevaluating de Tocqueville.\" *Quarterly Journal of Economics* 133 (2): 1041–1105."
+  },
+  {
+   "category": "publication",
+   "title": "The Power of the Street: Evidence from Egypt's Arab Spring",
+   "authors": [
+    "Daron Acemoglu",
+    "Tarek A. Hassan",
+    "Ahmed Tahoun"
+   ],
+   "year": 2018,
+   "journal": "Review of Financial Studies",
+   "volume": "31",
+   "issue": "1",
+   "pages": "1-42",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/rfs/hhx086",
+   "link_type": "published",
+   "tier": "business",
+   "citation": "Acemoglu, Daron, Tarek A. Hassan, and Ahmed Tahoun. 2018. \"The Power of the Street: Evidence from Egypt's Arab Spring.\" *Review of Financial Studies* 31 (1): 1–42."
+  },
+  {
+   "category": "publication",
+   "title": "Modeling Automation",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2018,
+   "journal": "AEA Papers and Proceedings",
+   "volume": "108",
+   "issue": null,
+   "pages": "48-53",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/pandp.20181020",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2018. \"Modeling Automation.\" *AEA Papers and Proceedings* 108: 48–53."
+  },
+  {
+   "category": "publication",
+   "title": "Asymmetric Growth and Institutions in an Interdependent World",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson",
+    "Thierry Verdier"
+   ],
+   "year": 2017,
+   "journal": "Journal of Political Economy",
+   "volume": "125",
+   "issue": "5",
+   "pages": "1245-1305",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/693038",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, James A. Robinson, and Thierry Verdier. 2017. \"Asymmetric Growth and Institutions in an Interdependent World.\" *Journal of Political Economy* 125 (5): 1245–1305."
+  },
+  {
+   "category": "publication",
+   "title": "Privacy-Constrained Network Formation",
+   "authors": [
+    "Daron Acemoglu",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2017,
+   "journal": "Games and Economic Behavior",
+   "volume": "105",
+   "issue": "2017",
+   "pages": "255-275",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.geb.2017.08.001",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2017. \"Privacy-Constrained Network Formation.\" *Games and Economic Behavior* 105 (2017): 255–275."
+  },
+  {
+   "category": "publication",
+   "title": "Social Norms and the Enforcement of Laws",
+   "authors": [
+    "Daron Acemoglu",
+    "Matthew O. Jackson"
+   ],
+   "year": 2017,
+   "journal": "Journal of the European Economic Association",
+   "volume": "15",
+   "issue": "2",
+   "pages": "245-295",
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w20369",
+   "link_type": "working_paper",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Matthew O. Jackson. 2017. \"Social Norms and the Enforcement of Laws.\" *Journal of the European Economic Association* 15 (2): 245–295."
+  },
+  {
+   "category": "publication",
+   "title": "Microeconomic Origins of Macroeconomic Tail Risks",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "Alireza Tahbaz-Salehi"
+   ],
+   "year": 2017,
+   "journal": "American Economic Review",
+   "volume": "107",
+   "issue": "1",
+   "pages": "54-108",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.20151086",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2017. \"Microeconomic Origins of Macroeconomic Tail Risks.\" *American Economic Review* 107 (1): 54–108."
+  },
+  {
+   "category": "publication",
+   "title": "Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation",
+   "authors": [
+    "Daron Acemoglu",
+    "Pascual Restrepo"
+   ],
+   "year": 2017,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "107",
+   "issue": "5",
+   "pages": "174-179",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.p20171101",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Pascual Restrepo. 2017. \"Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation.\" *American Economic Review: Papers and Proceedings* 107 (5): 174–179."
+  },
+  {
+   "category": "publication",
+   "title": "Innovation Network",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit",
+    "William R. Kerr"
+   ],
+   "year": 2016,
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "113",
+   "issue": "41",
+   "pages": "11483-11488",
+   "status_note": null,
+   "link": "https://doi.org/10.1073/pnas.1613559113",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, Ufuk Akcigit, and William R. Kerr. 2016. \"Innovation Network.\" *Proceedings of the National Academy of Sciences* 113 (41): 11483–11488."
+  },
+  {
+   "category": "publication",
+   "title": "Network Security and Contagion",
+   "authors": [
+    "Daron Acemoglu",
+    "Azarakhsh Malekian",
+    "Asu Ozdaglar"
+   ],
+   "year": 2016,
+   "journal": "Journal of Economic Theory",
+   "volume": "166",
+   "issue": null,
+   "pages": "536-585",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jet.2016.09.009",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Azarakhsh Malekian, and Asu Ozdaglar. 2016. \"Network Security and Contagion.\" *Journal of Economic Theory* 166: 536–585."
+  },
+  {
+   "category": "publication",
+   "title": "The Value of Connections in Turbulent Times: Evidence from the United States",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "Amir Kermani",
+    "James Kwak",
+    "Todd Mitton"
+   ],
+   "year": 2016,
+   "journal": "Journal of Financial Economics",
+   "volume": "121",
+   "issue": "2",
+   "pages": "368-391",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jfineco.2015.10.001",
+   "link_type": "published",
+   "tier": "business",
+   "citation": "Acemoglu, Daron, Simon Johnson, Amir Kermani, James Kwak, and Todd Mitton. 2016. \"The Value of Connections in Turbulent Times: Evidence from the United States.\" *Journal of Financial Economics* 121 (2): 368–391."
+  },
+  {
+   "category": "publication",
+   "title": "Networks and the Macroeconomy: An Empirical Exploration",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit",
+    "William Kerr"
+   ],
+   "year": 2016,
+   "journal": "NBER Macroeconomics Annual",
+   "volume": "30",
+   "issue": "1",
+   "pages": "273-335",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/685961",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Ufuk Akcigit, and William Kerr. 2016. \"Networks and the Macroeconomy: An Empirical Exploration.\" *NBER Macroeconomics Annual* 30 (1): 273–335."
+  },
+  {
+   "category": "publication",
+   "title": "State Capacity and American Technology: Evidence from the 19th Century",
+   "authors": [
+    "Daron Acemoglu",
+    "Jacob Moscona",
+    "James A. Robinson"
+   ],
+   "year": 2016,
+   "journal": "American Economic Review",
+   "volume": "106",
+   "issue": "5",
+   "pages": "61-67",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.p20161071",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Jacob Moscona, and James A. Robinson. 2016. \"State Capacity and American Technology: Evidence from the 19th Century.\" *American Economic Review* 106 (5): 61–67."
+  },
+  {
+   "category": "publication",
+   "title": "Transition to Clean Technology",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit",
+    "Douglas Hanley",
+    "William Kerr"
+   ],
+   "year": 2016,
+   "journal": "Journal of Political Economy",
+   "volume": "124",
+   "issue": "1",
+   "pages": "52-104",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/684511",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Ufuk Akcigit, Douglas Hanley, and William Kerr. 2016. \"Transition to Clean Technology.\" *Journal of Political Economy* 124 (1): 52–104."
+  },
+  {
+   "category": "publication",
+   "title": "Fragility of Asymptotic Agreement under Bayesian Learning",
+   "authors": [
+    "Daron Acemoglu",
+    "Victor Chernozhukov",
+    "Muhamet Yildiz"
+   ],
+   "year": 2016,
+   "journal": "Theoretical Economics",
+   "volume": "11",
+   "issue": "1",
+   "pages": "187-225",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/te436",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Victor Chernozhukov, and Muhamet Yildiz. 2016. \"Fragility of Asymptotic Agreement under Bayesian Learning.\" *Theoretical Economics* 11 (1): 187–225."
+  },
+  {
+   "category": "publication",
+   "title": "Import Competition and the Great US Employments Sag of the 2000s",
+   "authors": [
+    "Daron Acemoglu",
+    "David Autor",
+    "David Dorn",
+    "Gordon H. Hanson",
+    "Brendan Price"
+   ],
+   "year": 2016,
+   "journal": "Journal of Labor Economics",
+   "volume": "34",
+   "issue": "S1",
+   "pages": "S141-S198",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/682384",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. \"Import Competition and the Great US Employments Sag of the 2000s.\" *Journal of Labor Economics* 34 (S1): S141–S198."
+  },
+  {
+   "category": "publication",
+   "title": "The Rise and Decline of General Laws of Capitalism",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson"
+   ],
+   "year": 2015,
+   "journal": "Journal of Economic Perspectives",
+   "volume": "29",
+   "issue": "1",
+   "pages": "3-28",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jep.29.1.3",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and James A. Robinson. 2015. \"The Rise and Decline of General Laws of Capitalism.\" *Journal of Economic Perspectives* 29 (1): 3–28."
+  },
+  {
+   "category": "publication",
+   "title": "Political Economy in a Changing World",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2015,
+   "journal": "Journal of Political Economy",
+   "volume": "123",
+   "issue": "5",
+   "pages": "1038-1086",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/682679",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2015. \"Political Economy in a Changing World.\" *Journal of Political Economy* 123 (5): 1038–1086."
+  },
+  {
+   "category": "publication",
+   "title": "State Capacity and Economic Development: A Network Approach",
+   "authors": [
+    "Daron Acemoglu",
+    "Camilo García-Jimeno",
+    "James A. Robinson"
+   ],
+   "year": 2015,
+   "journal": "American Economic Review",
+   "volume": "105",
+   "issue": "8",
+   "pages": "2364-2409",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.20140044",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Camilo García-Jimeno, and James A. Robinson. 2015. \"State Capacity and Economic Development: A Network Approach.\" *American Economic Review* 105 (8): 2364–2409."
+  },
+  {
+   "category": "publication",
+   "title": "Offshoring and Directed Technical Change",
+   "authors": [
+    "Daron Acemoglu",
+    "Gino Gancia",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2015,
+   "journal": "American Economic Journal: Macroeconomics",
+   "volume": "7",
+   "issue": "3",
+   "pages": "84-122",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mac.20130302",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2015. \"Offshoring and Directed Technical Change.\" *American Economic Journal: Macroeconomics* 7 (3): 84–122."
+  },
+  {
+   "category": "publication",
+   "title": "Robust Comparative Statics in Large Dynamic Economies",
+   "authors": [
+    "Daron Acemoglu",
+    "Martin Kaae Jensen"
+   ],
+   "year": 2015,
+   "journal": "Journal of Political Economy",
+   "volume": "123",
+   "issue": "3",
+   "pages": "587-640",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/680685",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Martin Kaae Jensen. 2015. \"Robust Comparative Statics in Large Dynamic Economies.\" *Journal of Political Economy* 123 (3): 587–640."
+  },
+  {
+   "category": "publication",
+   "title": "Innovation by Entrants and Incumbents",
+   "authors": [
+    "Daron Acemoglu",
+    "Dan Cao"
+   ],
+   "year": 2015,
+   "journal": "Journal of Economic Theory",
+   "volume": "157",
+   "issue": null,
+   "pages": "255-294",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jet.2015.01.001",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Dan Cao. 2015. \"Innovation by Entrants and Incumbents.\" *Journal of Economic Theory* 157: 255–294."
+  },
+  {
+   "category": "publication",
+   "title": "Localized and Biased Technologies: Atkinson and Stiglitz's New View, Induced Innovations, and Directed Technological Change",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2015,
+   "journal": "Economic Journal",
+   "volume": "125",
+   "issue": "583",
+   "pages": "443-463",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/ecoj.12227",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2015. \"Localized and Biased Technologies: Atkinson and Stiglitz's New View, Induced Innovations, and Directed Technological Change.\" *Economic Journal* 125 (583): 443–463."
+  },
+  {
+   "category": "publication",
+   "title": "Systemic Risk and Stability in Financial Networks",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "Alireza Tahbaz-Salehi"
+   ],
+   "year": 2015,
+   "journal": "American Economic Review",
+   "volume": "105",
+   "issue": "2",
+   "pages": "564-608",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.20130456",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2015. \"Systemic Risk and Stability in Financial Networks.\" *American Economic Review* 105 (2): 564–608."
+  },
+  {
+   "category": "publication",
+   "title": "History, Expectations and Leadership in the Evolution of Cooperation",
+   "authors": [
+    "Daron Acemoglu",
+    "Matthew O. Jackson"
+   ],
+   "year": 2015,
+   "journal": "Review of Economic Studies",
+   "volume": "82",
+   "issue": "2",
+   "pages": "423-456",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdu039",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Matthew O. Jackson. 2015. \"History, Expectations and Leadership in the Evolution of Cooperation.\" *Review of Economic Studies* 82 (2): 423–456."
+  },
+  {
+   "category": "publication",
+   "title": "Search with Multi-Worker Firms",
+   "authors": [
+    "Daron Acemoglu",
+    "William B. Hawkins"
+   ],
+   "year": 2014,
+   "journal": "Theoretical Economics",
+   "volume": "9",
+   "issue": "3",
+   "pages": "583-628",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/te1061",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and William B. Hawkins. 2014. \"Search with Multi-Worker Firms.\" *Theoretical Economics* 9 (3): 583–628."
+  },
+  {
+   "category": "publication",
+   "title": "Chiefs: Economic Development and Elite Control of Civil Society in Sierra Leone",
+   "authors": [
+    "Daron Acemoglu",
+    "Tristan Reed",
+    "James A. Robinson"
+   ],
+   "year": 2014,
+   "journal": "Journal of Political Economy",
+   "volume": "122",
+   "issue": "2",
+   "pages": "319-368",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/674988",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Tristan Reed, and James A. Robinson. 2014. \"Chiefs: Economic Development and Elite Control of Civil Society in Sierra Leone.\" *Journal of Political Economy* 122 (2): 319–368."
+  },
+  {
+   "category": "publication",
+   "title": "Cycles of Conflict: An Economic Model",
+   "authors": [
+    "Daron Acemoglu",
+    "Alexander Wolitzky"
+   ],
+   "year": 2014,
+   "journal": "American Economic Review",
+   "volume": "104",
+   "issue": "4",
+   "pages": "1350-1367",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.104.4.1350",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Alexander Wolitzky. 2014. \"Cycles of Conflict: An Economic Model.\" *American Economic Review* 104 (4): 1350–1367."
+  },
+  {
+   "category": "publication",
+   "title": "Dynamics of Information Exchange in Endogenous Social Networks",
+   "authors": [
+    "Daron Acemoglu",
+    "Kostas Bimpikis",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2014,
+   "journal": "Theoretical Economics",
+   "volume": "9",
+   "issue": "1",
+   "pages": "41-97",
+   "status_note": null,
+   "link": "https://doi.org/10.3982/te1204",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2014. \"Dynamics of Information Exchange in Endogenous Social Networks.\" *Theoretical Economics* 9 (1): 41–97."
+  },
+  {
+   "category": "publication",
+   "title": "Return of the Solow Paradox? IT, Productivity, and Employment in U.S. Manufacturing",
+   "authors": [
+    "Daron Acemoglu",
+    "David Autor",
+    "David Dorn",
+    "Gordon H. Hanson",
+    "Brendan Price"
+   ],
+   "year": 2014,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "104",
+   "issue": "5",
+   "pages": "394-399",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.104.5.394",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2014. \"Return of the Solow Paradox? IT, Productivity, and Employment in U.S. Manufacturing.\" *American Economic Review: Papers and Proceedings* 104 (5): 394–399."
+  },
+  {
+   "category": "publication",
+   "title": "Institutions, Human Capital and Development",
+   "authors": [
+    "Daron Acemoglu",
+    "Francisco A. Gallego",
+    "James A. Robinson"
+   ],
+   "year": 2014,
+   "journal": "Annual Review of Economics",
+   "volume": "6",
+   "issue": "1",
+   "pages": "875-912",
+   "status_note": null,
+   "link": "https://doi.org/10.1146/annurev-economics-080213-041119",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Francisco A. Gallego, and James A. Robinson. 2014. \"Institutions, Human Capital and Development.\" *Annual Review of Economics* 6 (1): 875–912."
+  },
+  {
+   "category": "publication",
+   "title": "Equalizing Superstars: The Internet and the Democratization of Education",
+   "authors": [
+    "Daron Acemoglu",
+    "David Laibson",
+    "John A. List"
+   ],
+   "year": 2014,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "104",
+   "issue": "5",
+   "pages": "523-527",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.104.5.523",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Laibson, and John A. List. 2014. \"Equalizing Superstars: The Internet and the Democratization of Education.\" *American Economic Review: Papers and Proceedings* 104 (5): 523–527."
+  },
+  {
+   "category": "publication",
+   "title": "Income and Health Spending: Evidence from Oil Price Shocks",
+   "authors": [
+    "Daron Acemoglu",
+    "Amy Finkelstein",
+    "Matthew J. Notowidigdo"
+   ],
+   "year": 2013,
+   "journal": "Review of Economics and Statistics",
+   "volume": "95",
+   "issue": "4",
+   "pages": "1079-1095",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/rest_a_00306",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Amy Finkelstein, and Matthew J. Notowidigdo. 2013. \"Income and Health Spending: Evidence from Oil Price Shocks.\" *Review of Economics and Statistics* 95 (4): 1079–1095."
+  },
+  {
+   "category": "publication",
+   "title": "Aggregate Comparative Statics",
+   "authors": [
+    "Daron Acemoglu",
+    "Martin Kaae Jensen"
+   ],
+   "year": 2013,
+   "journal": "Games and Economic Behavior",
+   "volume": "81",
+   "issue": "2013",
+   "pages": "27-49",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.geb.2013.03.009",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Martin Kaae Jensen. 2013. \"Aggregate Comparative Statics.\" *Games and Economic Behavior* 81 (2013): 27–49."
+  },
+  {
+   "category": "publication",
+   "title": "Why Do Voters Dismantle Checks and Balances?",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson",
+    "Ragnar Torvik"
+   ],
+   "year": 2013,
+   "journal": "Review of Economic Studies",
+   "volume": "80",
+   "issue": "3",
+   "pages": "845-875",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdt007",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, James A. Robinson, and Ragnar Torvik. 2013. \"Why Do Voters Dismantle Checks and Balances?\" *Review of Economic Studies* 80 (3): 845–875."
+  },
+  {
+   "category": "publication",
+   "title": "Economics versus Politics: Pitfalls of Policy Advice",
+   "authors": [
+    "Daron Acemoglu",
+    "James A Robinson"
+   ],
+   "year": 2013,
+   "journal": "Journal of Economic Perspectives",
+   "volume": "27",
+   "issue": "2",
+   "pages": "173-192",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jep.27.2.173",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and James A Robinson. 2013. \"Economics versus Politics: Pitfalls of Policy Advice.\" *Journal of Economic Perspectives* 27 (2): 173–192."
+  },
+  {
+   "category": "publication",
+   "title": "A Political Theory of Populism",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2013,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "128",
+   "issue": "2",
+   "pages": "771-805",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/qje/qjs077",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2013. \"A Political Theory of Populism.\" *Quarterly Journal of Economics* 128 (2): 771–805."
+  },
+  {
+   "category": "publication",
+   "title": "The Monopoly of Violence: Evidence from Colombia",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson",
+    "Rafael J. Santos"
+   ],
+   "year": 2013,
+   "journal": "Journal of the European Economic Association",
+   "volume": "11",
+   "issue": "1",
+   "pages": "5-44",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1542-4774.2012.01099.x",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, James A. Robinson, and Rafael J. Santos. 2013. \"The Monopoly of Violence: Evidence from Colombia.\" *Journal of the European Economic Association* 11 (1): 5–44."
+  },
+  {
+   "category": "publication",
+   "title": "Network Origins of Aggregate Fluctuations",
+   "authors": [
+    "Daron Acemoglu",
+    "Vasco Carvalho",
+    "Asuman Ozdaglar",
+    "Alireza Tahbaz-Salehi"
+   ],
+   "year": 2012,
+   "journal": "Econometrica",
+   "volume": "80",
+   "issue": "5",
+   "pages": "1977-2016",
+   "status_note": null,
+   "link": "https://doi.org/10.2139/ssrn.1947096",
+   "link_type": "working_paper",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Vasco Carvalho, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2012. \"Network Origins of Aggregate Fluctuations.\" *Econometrica* 80 (5): 1977–2016."
+  },
+  {
+   "category": "publication",
+   "title": "Dynamics and Stability of Constitutions, Coalitions and Clubs",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2012,
+   "journal": "American Economic Review",
+   "volume": "102",
+   "issue": "4",
+   "pages": "1446-1476",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.102.4.1446",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2012. \"Dynamics and Stability of Constitutions, Coalitions and Clubs.\" *American Economic Review* 102 (4): 1446–1476."
+  },
+  {
+   "category": "publication",
+   "title": "Competing Engines of Growth: Innovation and Standardization",
+   "authors": [
+    "Daron Acemoglu",
+    "Gino Gancia",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2012,
+   "journal": "Journal of Economic Theory",
+   "volume": "147",
+   "issue": "2",
+   "pages": "570-601.e3",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jet.2010.09.001",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2012. \"Competing Engines of Growth: Innovation and Standardization.\" *Journal of Economic Theory* 147 (2): 570–601.e3."
+  },
+  {
+   "category": "publication",
+   "title": "A Dynamic Theory of the Resource Wars",
+   "authors": [
+    "Daron Acemoglu",
+    "Mike Golosov",
+    "Aleh Tsyvinski",
+    "Pierre Yared"
+   ],
+   "year": 2012,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "127",
+   "issue": "1",
+   "pages": "283-331",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/qje/qjr048",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Mike Golosov, Aleh Tsyvinski, and Pierre Yared. 2012. \"A Dynamic Theory of the Resource Wars.\" *Quarterly Journal of Economics* 127 (1): 283–331."
+  },
+  {
+   "category": "publication",
+   "title": "The Environment and Directed Technical Change",
+   "authors": [
+    "Daron Acemoglu",
+    "Philippe Aghion",
+    "Leonardo Bursztyn",
+    "David Hemous"
+   ],
+   "year": 2012,
+   "journal": "American Economic Review",
+   "volume": "102",
+   "issue": "1",
+   "pages": "131-166",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.102.1.131",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Philippe Aghion, Leonardo Bursztyn, and David Hemous. 2012. \"The Environment and Directed Technical Change.\" *American Economic Review* 102 (1): 131–166."
+  },
+  {
+   "category": "publication",
+   "title": "Intellectual Property Rights, Competition and Innovation",
+   "authors": [
+    "Daron Acemoglu",
+    "Ufuk Akcigit"
+   ],
+   "year": 2012,
+   "journal": "Journal of the European Economic Association",
+   "volume": "10",
+   "issue": "1",
+   "pages": "1-42",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1542-4774.2011.01053.x",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Ufuk Akcigit. 2012. \"Intellectual Property Rights, Competition and Innovation.\" *Journal of the European Economic Association* 10 (1): 1–42."
+  },
+  {
+   "category": "publication",
+   "title": "The Consequences of Radical Reform: The French Revolution",
+   "authors": [
+    "Daron Acemoglu",
+    "Davide Cantoni",
+    "Simon Johnson",
+    "James A Robinson"
+   ],
+   "year": 2011,
+   "journal": "American Economic Review",
+   "volume": "101",
+   "issue": "7",
+   "pages": "3286-3307",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.101.7.3286",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James A Robinson. 2011. \"The Consequences of Radical Reform: The French Revolution.\" *American Economic Review* 101 (7): 3286–3307."
+  },
+  {
+   "category": "publication",
+   "title": "Social Structure and Development: A Legacy of the Holocaust in Russia",
+   "authors": [
+    "Daron Acemoglu",
+    "Tarek A. Hassan",
+    "James A. Robinson"
+   ],
+   "year": 2011,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "126",
+   "issue": "2",
+   "pages": "895-946",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/qje/qjr018",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Tarek A. Hassan, and James A. Robinson. 2011. \"Social Structure and Development: A Legacy of the Holocaust in Russia.\" *Quarterly Journal of Economics* 126 (2): 895–946."
+  },
+  {
+   "category": "publication",
+   "title": "A Political Model of Social Evolution",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2011,
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "108",
+   "issue": "S4",
+   "pages": "21292-21296",
+   "status_note": null,
+   "link": "https://doi.org/10.1073/pnas.1019454108",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2011. \"A Political Model of Social Evolution.\" *Proceedings of the National Academy of Sciences* 108 (S4): 21292–21296."
+  },
+  {
+   "category": "publication",
+   "title": "Political Economy of Ramsey Taxation",
+   "authors": [
+    "Daron Acemoglu",
+    "Mikhail Golosov",
+    "Aleh Tsyvinski"
+   ],
+   "year": 2011,
+   "journal": "Journal of Public Economics",
+   "volume": "95",
+   "issue": "7-8",
+   "pages": "467-475",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jpubeco.2010.10.014",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2011. \"Political Economy of Ramsey Taxation.\" *Journal of Public Economics* 95 (7-8): 467–475."
+  },
+  {
+   "category": "publication",
+   "title": "Power Fluctuations and Political Economy",
+   "authors": [
+    "Daron Acemoglu",
+    "Mikhail Golosov",
+    "Aleh Tsyvinski"
+   ],
+   "year": 2011,
+   "journal": "Journal of Economic Theory",
+   "volume": "146",
+   "issue": "3",
+   "pages": "1009-1041",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jet.2010.11.002",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2011. \"Power Fluctuations and Political Economy.\" *Journal of Economic Theory* 146 (3): 1009–1041."
+  },
+  {
+   "category": "publication",
+   "title": "Emergence and Persistence of Inefficient States",
+   "authors": [
+    "Daron Acemoglu",
+    "Davide Ticchi",
+    "Andrea Vindigni"
+   ],
+   "year": 2011,
+   "journal": "Journal of the European Economic Association",
+   "volume": "9",
+   "issue": "2",
+   "pages": "177-208",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1542-4774.2010.01008.x",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Davide Ticchi, and Andrea Vindigni. 2011. \"Emergence and Persistence of Inefficient States.\" *Journal of the European Economic Association* 9 (2): 177–208."
+  },
+  {
+   "category": "publication",
+   "title": "Bayesian Learning in Social Networks",
+   "authors": [
+    "Daron Acemoglu",
+    "Munzer.Dahleh",
+    "Ilan Lobel",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2011,
+   "journal": "Review of Economic Studies",
+   "volume": "78",
+   "issue": "4",
+   "pages": "1201-1236",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/restud/rdr004",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Munzer.Dahleh, Ilan Lobel, and Asuman Ozdaglar. 2011. \"Bayesian Learning in Social Networks.\" *Review of Economic Studies* 78 (4): 1201–1236."
+  },
+  {
+   "category": "publication",
+   "title": "The Economics of Labor Coercion",
+   "authors": [
+    "Daron Acemoglu",
+    "Alexander Wolitzky"
+   ],
+   "year": 2011,
+   "journal": "Econometrica",
+   "volume": "79",
+   "issue": "2",
+   "pages": "555-600",
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w15581",
+   "link_type": "working_paper",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Alexander Wolitzky. 2011. \"The Economics of Labor Coercion.\" *Econometrica* 79 (2): 555–600."
+  },
+  {
+   "category": "publication",
+   "title": "Experimentation, Patents and Innovation",
+   "authors": [
+    "Daron Acemoglu",
+    "Kostas Bimpikis",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2011,
+   "journal": "American Economic Journal: Microeconomics",
+   "volume": "3",
+   "issue": "1",
+   "pages": "37-77",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mic.3.1.37",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2011. \"Experimentation, Patents and Innovation.\" *American Economic Journal: Microeconomics* 3 (1): 37–77."
+  },
+  {
+   "category": "publication",
+   "title": "When Does Labor Scarcity Encourage Innovation?",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2010,
+   "journal": "Journal of Political Economy",
+   "volume": "118",
+   "issue": "6",
+   "pages": "1037-1078",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/658160",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 2010. \"When Does Labor Scarcity Encourage Innovation?\" *Journal of Political Economy* 118 (6): 1037–1078."
+  },
+  {
+   "category": "publication",
+   "title": "Spread of (Mis)Information in Social Networks",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "Ali ParandehGheibi"
+   ],
+   "year": 2010,
+   "journal": "Games and Economic Behavior",
+   "volume": "70",
+   "issue": "2",
+   "pages": "194-227",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.geb.2010.01.005",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and Ali ParandehGheibi. 2010. \"Spread of (Mis)Information in Social Networks.\" *Games and Economic Behavior* 70 (2): 194–227."
+  },
+  {
+   "category": "publication",
+   "title": "Political Selection and Persistence of Bad Governments",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2010,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "125",
+   "issue": "4",
+   "pages": "1511-1575",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/qjec.2010.125.4.1511",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2010. \"Political Selection and Persistence of Bad Governments.\" *Quarterly Journal of Economics* 125 (4): 1511–1575."
+  },
+  {
+   "category": "publication",
+   "title": "Vertical Integration and Technology: Theory and Evidence",
+   "authors": [
+    "Daron Acemoglu",
+    "Philippe Aghion",
+    "Rachel Griffith",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2010,
+   "journal": "Journal of the European Economic Association",
+   "volume": "8",
+   "issue": "5",
+   "pages": "989-1033",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/jeea_a_00013",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Philippe Aghion, Rachel Griffith, and Fabrizio Zilibotti. 2010. \"Vertical Integration and Technology: Theory and Evidence.\" *Journal of the European Economic Association* 8 (5): 989–1033."
+  },
+  {
+   "category": "publication",
+   "title": "Theory, General Equilibrium, Political Economy and Empirics in Development Economics",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2010,
+   "journal": "Journal of Economic Perspectives",
+   "volume": "24",
+   "issue": "2",
+   "pages": "17-32",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jep.24.3.17",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2010. \"Theory, General Equilibrium, Political Economy and Empirics in Development Economics.\" *Journal of Economic Perspectives* 24 (2): 17–32."
+  },
+  {
+   "category": "publication",
+   "title": "Dynamic Mirrlees Taxation Under Political Economy Constraints",
+   "authors": [
+    "Daron Acemoglu",
+    "Mikhail Golosov",
+    "Aleh Tsyvinski"
+   ],
+   "year": 2010,
+   "journal": "Review of Economic Studies",
+   "volume": "77",
+   "issue": "3",
+   "pages": "841-881",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1467-937x.2009.00587.x",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2010. \"Dynamic Mirrlees Taxation Under Political Economy Constraints.\" *Review of Economic Studies* 77 (3): 841–881."
+  },
+  {
+   "category": "publication",
+   "title": "A Theory of Military Dictatorships",
+   "authors": [
+    "Daron Acemoglu",
+    "Davide Ticchi",
+    "Andrea Vindigni"
+   ],
+   "year": 2010,
+   "journal": "American Economic Journal: Macroeconomics",
+   "volume": "2",
+   "issue": "1",
+   "pages": "1-42",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mac.2.1.1",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Davide Ticchi, and Andrea Vindigni. 2010. \"A Theory of Military Dictatorships.\" *American Economic Journal: Macroeconomics* 2 (1): 1–42."
+  },
+  {
+   "category": "publication",
+   "title": "Productivity Differences Between and Within Countries",
+   "authors": [
+    "Daron Acemoglu",
+    "Melissa Dell"
+   ],
+   "year": 2010,
+   "journal": "American Economic Journal: Macroeconomics",
+   "volume": "2",
+   "issue": "1",
+   "pages": "169-188",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/mac.2.1.169",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Melissa Dell. 2010. \"Productivity Differences Between and Within Countries.\" *American Economic Journal: Macroeconomics* 2 (1): 169–188."
+  },
+  {
+   "category": "publication",
+   "title": "Institutions, Factor Prices and Taxation: Virtues of Strong States?",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2010,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "100",
+   "issue": "2",
+   "pages": "115-119",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.100.2.115",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2010. \"Institutions, Factor Prices and Taxation: Virtues of Strong States?\" *American Economic Review: Papers and Proceedings* 100 (2): 115–119."
+  },
+  {
+   "category": "publication",
+   "title": "Political Limits to Globalization",
+   "authors": [
+    "Daron Acemoglu",
+    "Pierre Yared"
+   ],
+   "year": 2010,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "100",
+   "issue": "2",
+   "pages": "83-88",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.100.2.83",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Pierre Yared. 2010. \"Political Limits to Globalization.\" *American Economic Review: Papers and Proceedings* 100 (2): 83–88."
+  },
+  {
+   "category": "publication",
+   "title": "Reevaluating the Modernization Hypothesis",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James A. Robinson",
+    "Pierre Yared"
+   ],
+   "year": 2009,
+   "journal": "Journal of Monetary Economics",
+   "volume": "56",
+   "issue": "8",
+   "pages": "1043-1058",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jmoneco.2009.10.002",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Simon Johnson, James A. Robinson, and Pierre Yared. 2009. \"Reevaluating the Modernization Hypothesis.\" *Journal of Monetary Economics* 56 (8): 1043–1058."
+  },
+  {
+   "category": "publication",
+   "title": "Foundations of Social Inequality",
+   "authors": [
+    "Daron Acemoglu",
+    "James Robinson"
+   ],
+   "year": 2009,
+   "journal": "Science",
+   "volume": "326",
+   "issue": "5953",
+   "pages": "678-679",
+   "status_note": null,
+   "link": "https://doi.org/10.1126/science.1181939",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, and James Robinson. 2009. \"Foundations of Social Inequality.\" *Science* 326 (5953): 678–679."
+  },
+  {
+   "category": "publication",
+   "title": "Determinants of Vertical Integration: Financial Development and Contracting Costs",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "Todd Mitton"
+   ],
+   "year": 2009,
+   "journal": "Journal of Finance",
+   "volume": "64",
+   "issue": "3",
+   "pages": "1251-1290",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1540-6261.2009.01464.x",
+   "link_type": "published",
+   "tier": "business",
+   "citation": "Acemoglu, Daron, Simon Johnson, and Todd Mitton. 2009. \"Determinants of Vertical Integration: Financial Development and Contracting Costs.\" *Journal of Finance* 64 (3): 1251–1290."
+  },
+  {
+   "category": "publication",
+   "title": "Price and Capacity Competition",
+   "authors": [
+    "Daron Acemoglu",
+    "Kostas Bimpikis",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2009,
+   "journal": "Games and Economic Behavior",
+   "volume": "66",
+   "issue": "1",
+   "pages": "1-26",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.geb.2008.06.004",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2009. \"Price and Capacity Competition.\" *Games and Economic Behavior* 66 (1): 1–26."
+  },
+  {
+   "category": "publication",
+   "title": "Do Juntas Lead to Personal Rule?",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2009,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "99",
+   "issue": "2",
+   "pages": "298-303",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.99.2.298",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2009. \"Do Juntas Lead to Personal Rule?\" *American Economic Review: Papers and Proceedings* 99 (2): 298–303."
+  },
+  {
+   "category": "publication",
+   "title": "Input and Technology Choices in Regulated Industries: Evidence from the Healthcare Sector",
+   "authors": [
+    "Daron Acemoglu",
+    "Amy Finkelstein"
+   ],
+   "year": 2008,
+   "journal": "Journal of Political Economy",
+   "volume": "116",
+   "issue": "5",
+   "pages": "837-880",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/595014",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Amy Finkelstein. 2008. \"Input and Technology Choices in Regulated Industries: Evidence from the Healthcare Sector.\" *Journal of Political Economy* 116 (5): 837–880."
+  },
+  {
+   "category": "publication",
+   "title": "Coalition Formation in Nondemocracies",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2008,
+   "journal": "Review of Economic Studies",
+   "volume": "75",
+   "issue": "4",
+   "pages": "987-1009",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1467-937x.2008.00503.x",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2008. \"Coalition Formation in Nondemocracies.\" *Review of Economic Studies* 75 (4): 987–1009."
+  },
+  {
+   "category": "publication",
+   "title": "Capital Deepening and Non-Balanced Endogenous Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Veronica Guerrieri"
+   ],
+   "year": 2008,
+   "journal": "Journal of Political Economy",
+   "volume": "116",
+   "issue": "3",
+   "pages": "467-498",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/589523",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Veronica Guerrieri. 2008. \"Capital Deepening and Non-Balanced Endogenous Growth.\" *Journal of Political Economy* 116 (3): 467–498."
+  },
+  {
+   "category": "publication",
+   "title": "Income and Democracy",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James A Robinson",
+    "Pierre Yared"
+   ],
+   "year": 2008,
+   "journal": "American Economic Review",
+   "volume": "98",
+   "issue": "3",
+   "pages": "808-842",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.98.3.808",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Simon Johnson, James A Robinson, and Pierre Yared. 2008. \"Income and Democracy.\" *American Economic Review* 98 (3): 808–842."
+  },
+  {
+   "category": "publication",
+   "title": "Political Economy of Mechanisms",
+   "authors": [
+    "Daron Acemoglu",
+    "Michael Golosov",
+    "Aleh Tsyvinski"
+   ],
+   "year": 2008,
+   "journal": "Econometrica",
+   "volume": "76",
+   "issue": "3",
+   "pages": "619-641",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1468-0262.2008.00849.x",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Michael Golosov, and Aleh Tsyvinski. 2008. \"Political Economy of Mechanisms.\" *Econometrica* 76 (3): 619–641."
+  },
+  {
+   "category": "publication",
+   "title": "Persistence of Elites, Power and Institutions",
+   "authors": [
+    "Daron Acemoglu",
+    "James A Robinson"
+   ],
+   "year": 2008,
+   "journal": "American Economic Review",
+   "volume": "98",
+   "issue": "1",
+   "pages": "267-293",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.98.1.267",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and James A Robinson. 2008. \"Persistence of Elites, Power and Institutions.\" *American Economic Review* 98 (1): 267–293."
+  },
+  {
+   "category": "publication",
+   "title": "Markets Versus Governments",
+   "authors": [
+    "Daron Acemoglu",
+    "Mikhail Golosov",
+    "Aleh Tsyvinski"
+   ],
+   "year": 2008,
+   "journal": "Journal of Monetary Economics",
+   "volume": "55",
+   "issue": "1",
+   "pages": "159-189",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jmoneco.2007.12.003",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2008. \"Markets Versus Governments.\" *Journal of Monetary Economics* 55 (1): 159–189."
+  },
+  {
+   "category": "publication",
+   "title": "Oligarchic Versus Democratic Societies",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2008,
+   "journal": "Journal of the European Economic Association",
+   "volume": "6",
+   "issue": "1",
+   "pages": "1-44",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/jeea.2008.6.1.1",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2008. \"Oligarchic Versus Democratic Societies.\" *Journal of the European Economic Association* 6 (1): 1–44."
+  },
+  {
+   "category": "publication",
+   "title": "When Does Policy Reform Work? The Case of Central Bank Independence",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "Pablo Querubín",
+    "James A. Robinson"
+   ],
+   "year": 2008,
+   "journal": "Brookings Papers on Economic Activity",
+   "volume": "2008",
+   "issue": "1",
+   "pages": "351-418",
+   "status_note": null,
+   "link": "https://doi.org/10.1353/eca.0.0002",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Simon Johnson, Pablo Querubín, and James A. Robinson. 2008. \"When Does Policy Reform Work? The Case of Central Bank Independence.\" *Brookings Papers on Economic Activity* 2008 (1): 351–418."
+  },
+  {
+   "category": "publication",
+   "title": "Disease and Development: the Effect of Life Expectancy on Economic Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson"
+   ],
+   "year": 2007,
+   "journal": "Journal of Political Economy",
+   "volume": "115",
+   "issue": "6",
+   "pages": "925-985",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/529000",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Simon Johnson. 2007. \"Disease and Development: the Effect of Life Expectancy on Economic Growth.\" *Journal of Political Economy* 115 (6): 925–985."
+  },
+  {
+   "category": "publication",
+   "title": "Technology, Information and the Decentralization of the Firm",
+   "authors": [
+    "Daron Acemoglu",
+    "Philippe Aghion",
+    "Claire Lelarge",
+    "John Van Reenen",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2007,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "122",
+   "issue": "4",
+   "pages": "1759-1799",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/qjec.2007.122.4.1759",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Philippe Aghion, Claire Lelarge, John Van Reenen, and Fabrizio Zilibotti. 2007. \"Technology, Information and the Decentralization of the Firm.\" *Quarterly Journal of Economics* 122 (4): 1759–1799."
+  },
+  {
+   "category": "publication",
+   "title": "Incentives in Markets, Firms and Governments",
+   "authors": [
+    "Daron Acemoglu",
+    "Michael Kremer",
+    "Atif Mian"
+   ],
+   "year": 2007,
+   "journal": "Journal of Law, Economics, and Organization",
+   "volume": "24",
+   "issue": "2",
+   "pages": "273-306",
+   "status_note": null,
+   "link": "https://doi.org/10.1093/jleo/ewm055",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Michael Kremer, and Atif Mian. 2007. \"Incentives in Markets, Firms and Governments.\" *Journal of Law, Economics, and Organization* 24 (2): 273–306."
+  },
+  {
+   "category": "publication",
+   "title": "Equilibrium Bias of Technology",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2007,
+   "journal": "Econometrica",
+   "volume": "75",
+   "issue": "5",
+   "pages": "1371-1409",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/j.1468-0262.2007.00797.x",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 2007. \"Equilibrium Bias of Technology.\" *Econometrica* 75 (5): 1371–1409."
+  },
+  {
+   "category": "publication",
+   "title": "Contracts and Technology Adoption",
+   "authors": [
+    "Daron Acemoglu",
+    "Pol Antràs",
+    "Elhanan Helpman"
+   ],
+   "year": 2007,
+   "journal": "American Economic Review",
+   "volume": "97",
+   "issue": "3",
+   "pages": "916-943",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.97.3.916",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Pol Antràs, and Elhanan Helpman. 2007. \"Contracts and Technology Adoption.\" *American Economic Review* 97 (3): 916–943."
+  },
+  {
+   "category": "publication",
+   "title": "Economic Backwardness in Political Perspective",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson"
+   ],
+   "year": 2006,
+   "journal": "American Political Science Review",
+   "volume": "100",
+   "issue": "1",
+   "pages": "115-131",
+   "status_note": null,
+   "link": "https://doi.org/10.1017/s0003055406062046",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, and James A. Robinson. 2006. \"Economic Backwardness in Political Perspective.\" *American Political Science Review* 100 (1): 115–131."
+  },
+  {
+   "category": "publication",
+   "title": "Distance to Frontier, Selection, and Economic Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Philippe Aghion",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2006,
+   "journal": "Journal of the European Economic Association",
+   "volume": "4",
+   "issue": "1",
+   "pages": "37-74",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/jeea.2006.4.1.37",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Philippe Aghion, and Fabrizio Zilibotti. 2006. \"Distance to Frontier, Selection, and Economic Growth.\" *Journal of the European Economic Association* 4 (1): 37–74."
+  },
+  {
+   "category": "publication",
+   "title": "De Facto Political Power and Institutional Persistence",
+   "authors": [
+    "Daron Acemoglu",
+    "James A Robinson"
+   ],
+   "year": 2006,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "96",
+   "issue": "2",
+   "pages": "325-330",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/000282806777212549",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and James A Robinson. 2006. \"De Facto Political Power and Institutional Persistence.\" *American Economic Review: Papers and Proceedings* 96 (2): 325–330."
+  },
+  {
+   "category": "publication",
+   "title": "Did Medicare Induce Pharmaceutical Innovations?",
+   "authors": [
+    "Daron Acemoglu",
+    "David Cutler",
+    "Amy Finkelstein",
+    "Joshua Linn"
+   ],
+   "year": 2006,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "96",
+   "issue": "2",
+   "pages": "103-107",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/000282806777211766",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, David Cutler, Amy Finkelstein, and Joshua Linn. 2006. \"Did Medicare Induce Pharmaceutical Innovations?\" *American Economic Review: Papers and Proceedings* 96 (2): 103–107."
+  },
+  {
+   "category": "publication",
+   "title": "Unbundling Institutions",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson"
+   ],
+   "year": 2005,
+   "journal": "Journal of Political Economy",
+   "volume": "113",
+   "issue": "5",
+   "pages": "949-995",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/432166",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Simon Johnson. 2005. \"Unbundling Institutions.\" *Journal of Political Economy* 113 (5): 949–995."
+  },
+  {
+   "category": "publication",
+   "title": "The Rise of Europe: Atlantic Trade, Institutional Change and Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James Robinson"
+   ],
+   "year": 2005,
+   "journal": "American Economic Review",
+   "volume": "95",
+   "issue": "3",
+   "pages": "546-579",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/0002828054201305",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Simon Johnson, and James Robinson. 2005. \"The Rise of Europe: Atlantic Trade, Institutional Change and Growth.\" *American Economic Review* 95 (3): 546–579."
+  },
+  {
+   "category": "publication",
+   "title": "Politics and Economics in Weak and Strong States",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2005,
+   "journal": "Journal of Monetary Economics",
+   "volume": "52",
+   "issue": "7",
+   "pages": "1199-1226",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/j.jmoneco.2005.05.001",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2005. \"Politics and Economics in Weak and Strong States.\" *Journal of Monetary Economics* 52 (7): 1199–1226."
+  },
+  {
+   "category": "publication",
+   "title": "From Education to Democracy?",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James A Robinson",
+    "Pierre Yared"
+   ],
+   "year": 2005,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "95",
+   "issue": "2",
+   "pages": "44-49",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/000282805774669916",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Simon Johnson, James A Robinson, and Pierre Yared. 2005. \"From Education to Democracy?\" *American Economic Review: Papers and Proceedings* 95 (2): 44–49."
+  },
+  {
+   "category": "publication",
+   "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+   "authors": [
+    "Daron Acemoglu",
+    "Joshua Linn"
+   ],
+   "year": 2004,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "119",
+   "issue": "3",
+   "pages": "1049-1090",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/0033553041502144",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Joshua Linn. 2004. \"Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry.\" *Quarterly Journal of Economics* 119 (3): 1049–1090."
+  },
+  {
+   "category": "publication",
+   "title": "Women, War and Wages: The Effect of Female Labor Supply on Labor Market Outcomes",
+   "authors": [
+    "Daron Acemoglu",
+    "David H. Autor",
+    "David Lyle"
+   ],
+   "year": 2004,
+   "journal": "Journal of Political Economy",
+   "volume": "112",
+   "issue": "3",
+   "pages": "497-551",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/383100",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, David H. Autor, and David Lyle. 2004. \"Women, War and Wages: The Effect of Female Labor Supply on Labor Market Outcomes.\" *Journal of Political Economy* 112 (3): 497–551."
+  },
+  {
+   "category": "publication",
+   "title": "Patterns of Skill Premia",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2003,
+   "journal": "Review of Economic Studies",
+   "volume": "70",
+   "issue": "2",
+   "pages": "199-230",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1467-937x.00242",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 2003. \"Patterns of Skill Premia.\" *Review of Economic Studies* 70 (2): 199–230."
+  },
+  {
+   "category": "publication",
+   "title": "Labor-and Capital-Augmenting Technical Change",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2003,
+   "journal": "Journal of the European Economic Association",
+   "volume": "1",
+   "issue": "1",
+   "pages": "1-37",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/154247603322256756",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2003. \"Labor-and Capital-Augmenting Technical Change.\" *Journal of the European Economic Association* 1 (1): 1–37."
+  },
+  {
+   "category": "publication",
+   "title": "Cross-Country Inequality Trends",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2003,
+   "journal": "Economic Journal",
+   "volume": "113",
+   "issue": "485",
+   "pages": "F121-149",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1468-0297.00100",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2003. \"Cross-Country Inequality Trends.\" *Economic Journal* 113 (485): F121–149."
+  },
+  {
+   "category": "publication",
+   "title": "Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James Robinson",
+    "Yunyong Thaicharoen"
+   ],
+   "year": 2003,
+   "journal": "Journal of Monetary Economics",
+   "volume": "50",
+   "issue": "1",
+   "pages": "49-123",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/s0304-3932(02)00208-8",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, Simon Johnson, James Robinson, and Yunyong Thaicharoen. 2003. \"Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth.\" *Journal of Monetary Economics* 50 (1): 49–123."
+  },
+  {
+   "category": "publication",
+   "title": "Directed Technical Change",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2002,
+   "journal": "Review of Economic Studies",
+   "volume": "69",
+   "issue": "4",
+   "pages": "781-809",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1467-937x.00226",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 2002. \"Directed Technical Change.\" *Review of Economic Studies* 69 (4): 781–809."
+  },
+  {
+   "category": "publication",
+   "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James Robinson"
+   ],
+   "year": 2002,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "117",
+   "issue": "4",
+   "pages": "1231-1294",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/003355302320935025",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Simon Johnson, and James Robinson. 2002. \"Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution.\" *Quarterly Journal of Economics* 117 (4): 1231–1294."
+  },
+  {
+   "category": "publication",
+   "title": "The World Income Distribution",
+   "authors": [
+    "Daron Acemoglu",
+    "Jaume Ventura"
+   ],
+   "year": 2002,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "117",
+   "issue": "2",
+   "pages": "659-694",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/003355302753650355",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Jaume Ventura. 2002. \"The World Income Distribution.\" *Quarterly Journal of Economics* 117 (2): 659–694."
+  },
+  {
+   "category": "publication",
+   "title": "Technical Change, Inequality and Labor Market",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2002,
+   "journal": "Journal of Economic Literature",
+   "volume": "40",
+   "issue": "1",
+   "pages": "7-72",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/jel.40.1.7",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2002. \"Technical Change, Inequality and Labor Market.\" *Journal of Economic Literature* 40 (1): 7–72."
+  },
+  {
+   "category": "publication",
+   "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+   "authors": [
+    "Daron Acemoglu",
+    "Simon Johnson",
+    "James A Robinson"
+   ],
+   "year": 2001,
+   "journal": "American Economic Review",
+   "volume": "91",
+   "issue": "5",
+   "pages": "1369-1401",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.91.5.1369",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, Simon Johnson, and James A Robinson. 2001. \"The Colonial Origins of Comparative Development: An Empirical Investigation.\" *American Economic Review* 91 (5): 1369–1401."
+  },
+  {
+   "category": "publication",
+   "title": "Inefficient Redistribution",
+   "authors": [
+    "Daron Acemoglu",
+    "James A. Robinson"
+   ],
+   "year": 2001,
+   "journal": "American Political Science Review",
+   "volume": "95",
+   "issue": "3",
+   "pages": "649-661",
+   "status_note": null,
+   "link": "https://doi.org/10.1017/s0003055401003057",
+   "link_type": "published",
+   "tier": "science",
+   "citation": "Acemoglu, Daron, and James A. Robinson. 2001. \"Inefficient Redistribution.\" *American Political Science Review* 95 (3): 649–661."
+  },
+  {
+   "category": "publication",
+   "title": "A Theory of Political Transitions",
+   "authors": [
+    "Daron Acemoglu",
+    "James A Robinson"
+   ],
+   "year": 2001,
+   "journal": "American Economic Review",
+   "volume": "91",
+   "issue": "4",
+   "pages": "938-963",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.91.4.938",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and James A Robinson. 2001. \"A Theory of Political Transitions.\" *American Economic Review* 91 (4): 938–963."
+  },
+  {
+   "category": "publication",
+   "title": "Consequences of Employment Protection? The Case of the Americans With Disabilities Act",
+   "authors": [
+    "Daron Acemoglu",
+    "Joshua D. Angrist"
+   ],
+   "year": 2001,
+   "journal": "Journal of Political Economy",
+   "volume": "109",
+   "issue": "5",
+   "pages": "915-957",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/322836",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Joshua D. Angrist. 2001. \"Consequences of Employment Protection? The Case of the Americans With Disabilities Act.\" *Journal of Political Economy* 109 (5): 915–957."
+  },
+  {
+   "category": "publication",
+   "title": "Productivity Differences",
+   "authors": [
+    "Daron Acemoglu",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 2001,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "116",
+   "issue": "2",
+   "pages": "563-606",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/00335530151144104",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Fabrizio Zilibotti. 2001. \"Productivity Differences.\" *Quarterly Journal of Economics* 116 (2): 563–606."
+  },
+  {
+   "category": "publication",
+   "title": "Good Jobs versus Bad Jobs: Theory and Some Evidence",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 2001,
+   "journal": "Journal of Labor Economics",
+   "volume": "19",
+   "issue": "1",
+   "pages": "1-21",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/209978",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 2001. \"Good Jobs versus Bad Jobs: Theory and Some Evidence.\" *Journal of Labor Economics* 19 (1): 1–21."
+  },
+  {
+   "category": "publication",
+   "title": "Wage and Technology Dispersion",
+   "authors": [
+    "Daron Acemoglu",
+    "Robert Shimer"
+   ],
+   "year": 2000,
+   "journal": "Review of Economic Studies",
+   "volume": "67",
+   "issue": "4",
+   "pages": "585-607",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1467-937x.00146",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Robert Shimer. 2000. \"Wage and Technology Dispersion.\" *Review of Economic Studies* 67 (4): 585–607."
+  },
+  {
+   "category": "publication",
+   "title": "Why Did the West Extend the Franchise? Democracy, Inequality and Growth in Historical Perspective",
+   "authors": [
+    "Daron Acemoglu",
+    "James Robinson"
+   ],
+   "year": 2000,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "115",
+   "issue": "4",
+   "pages": "1167-1199",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/003355300555042",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and James Robinson. 2000. \"Why Did the West Extend the Franchise? Democracy, Inequality and Growth in Historical Perspective.\" *Quarterly Journal of Economics* 115 (4): 1167–1199."
+  },
+  {
+   "category": "publication",
+   "title": "The Choice Between Market Failures and Corruption",
+   "authors": [
+    "Daron Acemoglu",
+    "Thierry Verdier"
+   ],
+   "year": 2000,
+   "journal": "American Economic Review",
+   "volume": "90",
+   "issue": "1",
+   "pages": "194-211",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.90.1.194",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Thierry Verdier. 2000. \"The Choice Between Market Failures and Corruption.\" *American Economic Review* 90 (1): 194–211."
+  },
+  {
+   "category": "publication",
+   "title": "How Large Are Human Capital Externalities? Evidence from Compulsory Schooling Laws",
+   "authors": [
+    "Daron Acemoglu",
+    "Joshua Angrist"
+   ],
+   "year": 2000,
+   "journal": "NBER Macroeconomics Annual",
+   "volume": "15",
+   "issue": null,
+   "pages": "9-59",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/654403",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Joshua Angrist. 2000. \"How Large Are Human Capital Externalities? Evidence from Compulsory Schooling Laws.\" *NBER Macroeconomics Annual* 15: 9–59."
+  },
+  {
+   "category": "publication",
+   "title": "Political Losers as a Barrier to Economic Development",
+   "authors": [
+    "Daron Acemoglu",
+    "James A Robinson"
+   ],
+   "year": 2000,
+   "journal": "American Economic Review: Papers and Proceedings",
+   "volume": "90",
+   "issue": "2",
+   "pages": "126-130",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.90.2.126",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and James A Robinson. 2000. \"Political Losers as a Barrier to Economic Development.\" *American Economic Review: Papers and Proceedings* 90 (2): 126–130."
+  },
+  {
+   "category": "publication",
+   "title": "Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1999,
+   "journal": "American Economic Review",
+   "volume": "89",
+   "issue": "5",
+   "pages": "1259-1278",
+   "status_note": null,
+   "link": "https://doi.org/10.1257/aer.89.5.1259",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 1999. \"Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence.\" *American Economic Review* 89 (5): 1259–1278."
+  },
+  {
+   "category": "publication",
+   "title": "Efficient Unemployment Insurance",
+   "authors": [
+    "Daron Acemoglu",
+    "Robert Shimer"
+   ],
+   "year": 1999,
+   "journal": "Journal of Political Economy",
+   "volume": "107",
+   "issue": "5",
+   "pages": "893-928",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/250084",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Robert Shimer. 1999. \"Efficient Unemployment Insurance.\" *Journal of Political Economy* 107 (5): 893–928."
+  },
+  {
+   "category": "publication",
+   "title": "Holdups and Efficiency with Search Frictions",
+   "authors": [
+    "Daron Acemoglu",
+    "Robert Shimer"
+   ],
+   "year": 1999,
+   "journal": "International Economic Review",
+   "volume": "40",
+   "issue": "4",
+   "pages": "827-849",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1468-2354.00043",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Robert Shimer. 1999. \"Holdups and Efficiency with Search Frictions.\" *International Economic Review* 40 (4): 827–849."
+  },
+  {
+   "category": "publication",
+   "title": "The Structure of Wages and Investment in General Training",
+   "authors": [
+    "Daron Acemoglu",
+    "Jörn‐Steffen Pischke"
+   ],
+   "year": 1999,
+   "journal": "Journal of Political Economy",
+   "volume": "107",
+   "issue": "3",
+   "pages": "539-572",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/250071",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Jörn‐Steffen Pischke. 1999. \"The Structure of Wages and Investment in General Training.\" *Journal of Political Economy* 107 (3): 539–572."
+  },
+  {
+   "category": "publication",
+   "title": "Information Accumulation in Development",
+   "authors": [
+    "Daron Acemoglu",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 1999,
+   "journal": "Journal of Economic Growth",
+   "volume": "4",
+   "issue": "1",
+   "pages": "5-38",
+   "status_note": null,
+   "link": "https://doi.org/10.1023/a:1009833807671",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Fabrizio Zilibotti. 1999. \"Information Accumulation in Development.\" *Journal of Economic Growth* 4 (1): 5–38."
+  },
+  {
+   "category": "publication",
+   "title": "Beyond Becker: Training in Imperfect Labor Markets",
+   "authors": [
+    "Daron Acemoglu",
+    "Jorn‐Steffen Pischke"
+   ],
+   "year": 1999,
+   "journal": "Economic Journal",
+   "volume": "109",
+   "issue": "453",
+   "pages": "F112-F142",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1468-0297.00405",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Jorn‐Steffen Pischke. 1999. \"Beyond Becker: Training in Imperfect Labor Markets.\" *Economic Journal* 109 (453): F112–F142."
+  },
+  {
+   "category": "publication",
+   "title": "Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1998,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "113",
+   "issue": "4",
+   "pages": "1055-1089",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/003355398555838",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 1998. \"Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality.\" *Quarterly Journal of Economics* 113 (4): 1055–1089."
+  },
+  {
+   "category": "publication",
+   "title": "Property Rights, Corruption and the Allocation of Talent: A General Equilibrium Approach",
+   "authors": [
+    "Daron Acemoglu",
+    "Thierry Verdier"
+   ],
+   "year": 1998,
+   "journal": "Economic Journal",
+   "volume": "108",
+   "issue": "450",
+   "pages": "1381-1403",
+   "status_note": null,
+   "link": "https://doi.org/10.1111/1468-0297.00347",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Thierry Verdier. 1998. \"Property Rights, Corruption and the Allocation of Talent: A General Equilibrium Approach.\" *Economic Journal* 108 (450): 1381–1403."
+  },
+  {
+   "category": "publication",
+   "title": "Why Do Firms Train? Theory and Evidence",
+   "authors": [
+    "Daron Acemoglu",
+    "Steve Pischke"
+   ],
+   "year": 1998,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "113",
+   "issue": "1",
+   "pages": "79-119",
+   "status_note": null,
+   "link": "https://doi.org/10.1162/003355398555531",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Steve Pischke. 1998. \"Why Do Firms Train? Theory and Evidence.\" *Quarterly Journal of Economics* 113 (1): 79–119."
+  },
+  {
+   "category": "publication",
+   "title": "Credit Market Imperfections and Separation of Ownership from Control",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1998,
+   "journal": "Journal of Economic Theory",
+   "volume": "78",
+   "issue": "2",
+   "pages": "355-381",
+   "status_note": null,
+   "link": "https://doi.org/10.1006/jeth.1997.2368",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 1998. \"Credit Market Imperfections and Separation of Ownership from Control.\" *Journal of Economic Theory* 78 (2): 355–381."
+  },
+  {
+   "category": "publication",
+   "title": "Asymmetric Business Cycles: Theory and Time Series Evidence",
+   "authors": [
+    "Daron Acemoglu",
+    "Andrew Scott"
+   ],
+   "year": 1997,
+   "journal": "Journal of Monetary Economics",
+   "volume": "40",
+   "issue": "3",
+   "pages": "501-533",
+   "status_note": null,
+   "link": "https://doi.org/10.1016/s0304-3932(97)00049-4",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Andrew Scott. 1997. \"Asymmetric Business Cycles: Theory and Time Series Evidence.\" *Journal of Monetary Economics* 40 (3): 501–533."
+  },
+  {
+   "category": "publication",
+   "title": "Was Prometheus Unbound By Chance? Risk, Diversification and Growth",
+   "authors": [
+    "Daron Acemoglu",
+    "Fabrizio Zilibotti"
+   ],
+   "year": 1997,
+   "journal": "Journal of Political Economy",
+   "volume": "105",
+   "issue": "4",
+   "pages": "709-751",
+   "status_note": null,
+   "link": "https://doi.org/10.1086/262091",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron, and Fabrizio Zilibotti. 1997. \"Was Prometheus Unbound By Chance? Risk, Diversification and Growth.\" *Journal of Political Economy* 105 (4): 709–751."
+  },
+  {
+   "category": "publication",
+   "title": "Training and Innovation in an Imperfect Labor Market",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1997,
+   "journal": "Review of Economic Studies",
+   "volume": "64",
+   "issue": "3",
+   "pages": "445-464",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2971723",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 1997. \"Training and Innovation in an Imperfect Labor Market.\" *Review of Economic Studies* 64 (3): 445–464."
+  },
+  {
+   "category": "publication",
+   "title": "Matching, Heterogeneity and the Evolution of Income Distribution",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1997,
+   "journal": "Journal of Economic Growth",
+   "volume": "2",
+   "issue": "1",
+   "pages": "61-92",
+   "status_note": null,
+   "link": "https://doi.org/10.1023/a:1009733730177",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 1997. \"Matching, Heterogeneity and the Evolution of Income Distribution.\" *Journal of Economic Growth* 2 (1): 61–92."
+  },
+  {
+   "category": "publication",
+   "title": "A Microfoundation for Social Increasing Returns in Human Capital Accumulation",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1996,
+   "journal": "Quarterly Journal of Economics",
+   "volume": "111",
+   "issue": "3",
+   "pages": "779-804",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2946672",
+   "link_type": "published",
+   "tier": "econ_top5",
+   "citation": "Acemoglu, Daron. 1996. \"A Microfoundation for Social Increasing Returns in Human Capital Accumulation.\" *Quarterly Journal of Economics* 111 (3): 779–804."
+  },
+  {
+   "category": "publication",
+   "title": "Asymmetric Information, Bargaining and Unemployment Fluctuations",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1995,
+   "journal": "International Economic Review",
+   "volume": "36",
+   "issue": "4",
+   "pages": "1003-24",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2527270",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 1995. \"Asymmetric Information, Bargaining and Unemployment Fluctuations.\" *International Economic Review* 36 (4): 1003–24."
+  },
+  {
+   "category": "publication",
+   "title": "Asymmetries in the Cyclical Behavior UK Labor Markets",
+   "authors": [
+    "Daron Acemoglu",
+    "Andrew Scott"
+   ],
+   "year": 1994,
+   "journal": "Economic Journal",
+   "volume": "104",
+   "issue": "427",
+   "pages": "1303-1323",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2235450",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Andrew Scott. 1994. \"Asymmetries in the Cyclical Behavior UK Labor Markets.\" *Economic Journal* 104 (427): 1303–1323."
+  },
+  {
+   "category": "publication",
+   "title": "Consumer Confidence and Rational Expectations: Are Agents' Beliefs Consistent With the Theory?",
+   "authors": [
+    "Daron Acemoglu",
+    "Andrew Scott"
+   ],
+   "year": 1994,
+   "journal": "Economic Journal",
+   "volume": "104",
+   "issue": "422",
+   "pages": "1-20",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2234671",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron, and Andrew Scott. 1994. \"Consumer Confidence and Rational Expectations: Are Agents' Beliefs Consistent With the Theory?\" *Economic Journal* 104 (422): 1–20."
+  },
+  {
+   "category": "publication",
+   "title": "Learning About Others' Actions and the Investment Accelerator",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": 1993,
+   "journal": "Economic Journal",
+   "volume": "103",
+   "issue": "417",
+   "pages": "318-329",
+   "status_note": null,
+   "link": "https://doi.org/10.2307/2234770",
+   "link_type": "published",
+   "tier": "econ_field",
+   "citation": "Acemoglu, Daron. 1993. \"Learning About Others' Actions and the Investment Accelerator.\" *Economic Journal* 103 (417): 318–329."
+  },
+  {
+   "category": "wp",
+   "title": "Automation and Repression",
+   "authors": [
+    "Daron Acemoglu",
+    "A. Arda Gitmez",
+    "Mehdi Shadmehr"
+   ],
+   "year": 2026,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w35336",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 35336.",
+   "citation": "Acemoglu, Daron, A. Arda Gitmez, and Mehdi Shadmehr. 2026. \"Automation and Repression.\" NBER Working Paper 35336."
+  },
+  {
+   "category": "wp",
+   "title": "Employment and Community: Socioeconomic Cooperation and Its Breakdown",
+   "authors": [
+    "Daron Acemoglu",
+    "Alexander Wolitzky"
+   ],
+   "year": 2026,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w32773",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 32773.",
+   "citation": "Acemoglu, Daron, and Alexander Wolitzky. 2026. \"Employment and Community: Socioeconomic Cooperation and Its Breakdown.\" NBER Working Paper 32773."
+  },
+  {
+   "category": "wp",
+   "title": "AI, Human Cognition and Knowledge Collapse",
+   "authors": [
+    "Daron Acemoglu",
+    "Dingwen Kong",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2026,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w34910",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 34910.",
+   "citation": "Acemoglu, Daron, Dingwen Kong, and Asuman Ozdaglar. 2026. \"AI, Human Cognition and Knowledge Collapse.\" NBER Working Paper 34910."
+  },
+  {
+   "category": "wp",
+   "title": "How AI Aggregation Affects Knowledge",
+   "authors": [
+    "Daron Acemoglu",
+    "Tianyi Lin",
+    "Asuman Ozdaglar",
+    "James Siderius"
+   ],
+   "year": 2026,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w35036",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 35036.",
+   "citation": "Acemoglu, Daron, Tianyi Lin, Asuman Ozdaglar, and James Siderius. 2026. \"How AI Aggregation Affects Knowledge.\" NBER Working Paper 35036."
+  },
+  {
+   "category": "wp",
+   "title": "Multidimensional Signaling and the Rise of Cultural Politics",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": 2026,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w34909",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 34909.",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2026. \"Multidimensional Signaling and the Rise of Cultural Politics.\" NBER Working Paper 34909."
+  },
+  {
+   "category": "wp",
+   "title": "Misperceptions and Demand for Democracy under Authoritarianism",
+   "authors": [
+    "Daron Acemoglu",
+    "Cevat Giray Aksoy",
+    "Ceren Baysan",
+    "Carlos Molina",
+    "Gamze Zeki"
+   ],
+   "year": 2025,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w33018",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 33018.",
+   "citation": "Acemoglu, Daron, Cevat Giray Aksoy, Ceren Baysan, Carlos Molina, and Gamze Zeki. 2025. \"Misperceptions and Demand for Democracy under Authoritarianism.\" NBER Working Paper 33018."
+  },
+  {
+   "category": "wp",
+   "title": "Climate Change, Directed Innovation, and Energy Transition: The Long-run Consequences of the Shale Gas Revolution",
+   "authors": [
+    "Daron Acemoglu",
+    "Philippe Aghion",
+    "Lint Barrage",
+    "David Hémous"
+   ],
+   "year": 2024,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w31657",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 31657.",
+   "citation": "Acemoglu, Daron, Philippe Aghion, Lint Barrage, and David Hémous. 2024. \"Climate Change, Directed Innovation, and Energy Transition: The Long-run Consequences of the Shale Gas Revolution.\" NBER Working Paper 31657."
+  },
+  {
+   "category": "wp",
+   "title": "Learning, Diversity and Adaptation in Changing Environments: The Role of Weak Links",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "Sarath Pattathil"
+   ],
+   "year": 2024,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w31214",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 31214.",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and Sarath Pattathil. 2024. \"Learning, Diversity and Adaptation in Changing Environments: The Role of Weak Links.\" NBER Working Paper 31214."
+  },
+  {
+   "category": "wp",
+   "title": "How Good Are Privacy Guarantees? Platform Architecture and Violation of User Privacy",
+   "authors": [
+    "Daron Acemoglu",
+    "Alireza Fallah",
+    "Ali Makhdoumi",
+    "Azarakhsh Malekian",
+    "Asuman Ozdaglar"
+   ],
+   "year": 2023,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w31413",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 31413.",
+   "citation": "Acemoglu, Daron, Alireza Fallah, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2023. \"How Good Are Privacy Guarantees? Platform Architecture and Violation of User Privacy.\" NBER Working Paper 31413."
+  },
+  {
+   "category": "wp",
+   "title": "Managing Innovation in a Crowd",
+   "authors": [
+    "Daron Acemoglu",
+    "Mohamed Mostagir",
+    "Asuman Ozdaglar"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w19852",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 19852.",
+   "citation": "Acemoglu, Daron, Mohamed Mostagir, and Asuman Ozdaglar. n.d. \"Managing Innovation in a Crowd.\" NBER Working Paper 19852."
+  },
+  {
+   "category": "wp",
+   "title": "Learning and Disagreement in an Uncertain World",
+   "authors": [
+    "Daron Acemoglu",
+    "Victor Chernozhukov",
+    "Muhamet Yildiz"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.3386/w12648",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "NBER Working Paper 12648.",
+   "citation": "Acemoglu, Daron, Victor Chernozhukov, and Muhamet Yildiz. n.d. \"Learning and Disagreement in an Uncertain World.\" NBER Working Paper 12648."
+  },
+  {
+   "category": "wp",
+   "title": "Moral Hazard and Efficiency in General Equilibrium With Anonymous Trading",
+   "authors": [
+    "Daron Acemoglu",
+    "Alp Simsek"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.2139/ssrn.1597907",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "MIT Department of Economics Working Paper 10-8.",
+   "citation": "Acemoglu, Daron, and Alp Simsek. n.d. \"Moral Hazard and Efficiency in General Equilibrium With Anonymous Trading.\" MIT Department of Economics Working Paper 10-8."
+  },
+  {
+   "category": "wp",
+   "title": "Equilibrium Refinement in Dynamic Voting Games",
+   "authors": [
+    "Daron Acemoglu",
+    "Georgy Egorov",
+    "Konstantin Sonin"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.2139/ssrn.1490164",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "MIT Department of Economics Working Paper 09-26.",
+   "citation": "Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. n.d. \"Equilibrium Refinement in Dynamic Voting Games.\" MIT Department of Economics Working Paper 09-26."
+  },
+  {
+   "category": "wp",
+   "title": "On the Uniqueness of Solutions for Nonlinear and Mixed Complementarity Problems",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar",
+    "Alp Simsek"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": null,
+   "link_type": "none",
+   "tier": null,
+   "series": "MIT Economics Department Working Paper.",
+   "citation": "Acemoglu, Daron, Asuman Ozdaglar, and Alp Simsek. n.d. \"On the Uniqueness of Solutions for Nonlinear and Mixed Complementarity Problems.\" MIT Economics Department Working Paper."
+  },
+  {
+   "category": "wp",
+   "title": "Flow Control, Routing and Performance from Service Provider Viewpoint",
+   "authors": [
+    "Daron Acemoglu",
+    "Asuman Ozdaglar"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": null,
+   "link_type": "none",
+   "tier": null,
+   "series": "MIT Economics Department Working Paper.",
+   "citation": "Acemoglu, Daron, and Asuman Ozdaglar. n.d. \"Flow Control, Routing and Performance from Service Provider Viewpoint.\" MIT Economics Department Working Paper."
+  },
+  {
+   "category": "wp",
+   "title": "Evolution of Perceptions and Play",
+   "authors": [
+    "Daron Acemoglu",
+    "Muhamet Yildiz"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": "https://doi.org/10.2139/ssrn.290779",
+   "link_type": "working_paper",
+   "tier": null,
+   "series": "MIT Economics Department Working Paper.",
+   "citation": "Acemoglu, Daron, and Muhamet Yildiz. n.d. \"Evolution of Perceptions and Play.\" MIT Economics Department Working Paper."
+  },
+  {
+   "category": "wp",
+   "title": "Corporate Control and Balance of Power",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": null,
+   "link_type": "none",
+   "tier": null,
+   "series": "MIT Economics Department Working Paper.",
+   "citation": "Acemoglu, Daron. n.d. \"Corporate Control and Balance of Power.\" MIT Economics Department Working Paper."
+  },
+  {
+   "category": "wp",
+   "title": "Career Concerns and Coverups: A Dynamic Model of Collusion",
+   "authors": [
+    "Daron Acemoglu"
+   ],
+   "year": null,
+   "journal": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "status_note": null,
+   "link": null,
+   "link_type": "none",
+   "tier": null,
+   "series": "MIT Economics Department Working Paper.",
+   "citation": "Acemoglu, Daron. n.d. \"Career Concerns and Coverups: A Dynamic Model of Collusion.\" MIT Economics Department Working Paper."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "What Happened to Liberal Democracy? Remaking a Politics of Shared Prosperity",
+   "venue": "Profile Books and Penguin Random House",
+   "reason": "book"
+  },
+  {
+   "title": "Economic Origins of Dictatorship and Democracy",
+   "venue": "Cambridge University Press",
+   "reason": "book"
+  },
+  {
+   "title": "Introduction to Modern Economic Growth",
+   "venue": "Princeton University Press",
+   "reason": "book"
+  },
+  {
+   "title": "Why Nations Fail: Origins of Power, Poverty and Prosperity",
+   "venue": "Crown Publishers (Random House)",
+   "reason": "book"
+  },
+  {
+   "title": "Principles of Economics",
+   "venue": "Pearson",
+   "reason": "book"
+  },
+  {
+   "title": "The Narrow Corridor: States, Societies and the Fate of Liberty",
+   "venue": "Penguin Press",
+   "reason": "book"
+  },
+  {
+   "title": "Power and Progress: Our One Thousand Year Struggle over Technology and Prosperity",
+   "venue": "Public Affairs",
+   "reason": "book"
+  },
+  {
+   "title": "Technology and Economic Development",
+   "venue": "Handbook of Development Economics",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Tasks at Work: Comparative Advantage, Technology and Labor Demand",
+   "venue": "Handbook of Labor Economics, Volume 6",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Wikipedia contributions in the wake of ChatGpt",
+   "venue": "Companion Proceedings of the ACM on Web Conference 2025",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Harms of AI",
+   "venue": "The Oxford Handbook of AI Governance (Oxford University Press)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "The Rise of Age-Friendly Jobs",
+   "venue": "Journal of the Economics of Aging",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Obedience in the Labor Market and Social Mobility: A Socio-Economic Approach",
+   "venue": "Economica",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Systemic Credit Freezes in Financial Lending Networks",
+   "venue": "Mathematics and Financial Economics",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "The Political Agenda Effect and State Centralization",
+   "venue": "Journal of Comparative Economics",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "The Wrong Kind of AI? Artificial Intelligence and the Future of Labor Demand",
+   "venue": "Cambridge Journal of Regions, Economy and Society",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Low-Skill and High-Skill Automation",
+   "venue": "Journal of Human Capital",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Disease and Development: A Reply to Bloom, Canning and Fink",
+   "venue": "Journal of Political Economy",
+   "reason": "reply"
+  },
+  {
+   "title": "Opinion Fluctuations and Disagreement in Social Networks",
+   "venue": "Mathematics of Operations Research",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Finding El Dorado: Slavery and Long-run Development in Colombia",
+   "venue": "Journal of Comparative Economics",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Colonial Origins of Comparative Development: Reply",
+   "venue": "American Economic Review",
+   "reason": "reply"
+  },
+  {
+   "title": "What Does Human Capital Do? A Review of Goldin and Katz's Race between Education and Technology",
+   "venue": "Journal of Economic Literature",
+   "reason": "review"
+  },
+  {
+   "title": "Persistence of Civil Wars",
+   "venue": "Journal of the European Economic Association (Papers and Proceedings issue, 8(2-3))",
+   "reason": "conference proceedings (JEEA Papers & Proceedings issue)"
+  },
+  {
+   "title": "Opinion Dynamics and Learning in Social Networks",
+   "venue": "Dynamic Games and Applications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Why is Africa Poor?",
+   "venue": "Economic History of Developing Regions",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Local Indices for Degenerate Variational Inequalities",
+   "venue": "Mathematics of Operations Research",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "On the Stability of P-Matrices",
+   "venue": "Linear Algebra and Applications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Partially Optimal Routing",
+   "venue": "IEEE Journal on Selected Areas in Communications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Competition in Parallel-Serial Networks",
+   "venue": "IEEE Journal on Selected Areas in Communications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Competition and Efficiency in Congested Markets",
+   "venue": "Mathematics of Operations Research",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Generalized Poincarre-Hopf Theorem for Compact Nonsmooth Regions",
+   "venue": "Mathematics of Operations Research",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "A Simple Model of Inefficient Institutions",
+   "venue": "Scandinavian Journal of Economics",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Efficiency and Braess' Paradox under Pricing in General Networks",
+   "venue": "IEEE Journal on Selected Areas in Communications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Why Not a Political Coase Theorem? Social Conflict, Commitment and Politics",
+   "venue": "Journal of Comparative Economics",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "The Labor Market and Corporate Structure",
+   "venue": "European Economic Review",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Productivity Gains from Unemployment Insurance",
+   "venue": "European Economic Review",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Reward Structures and the Allocation of Talent",
+   "venue": "European Economic Review",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Public Policy in a Model of Long-term Unemployment",
+   "venue": "Economica",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "AI and Social Media: A Political Economy Perspective",
+   "venue": "The Political Economy of Artificial Intelligence (University of Chicago Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Mistrust, Misperception, and Misunderstanding: Imperfect Information and Conflict Dynamics",
+   "venue": "Handbook of the Economics of Conflict, Volume 1 (Elsevier)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Forward to the Handbook of Turkish Politics",
+   "venue": "Oxford Handbook of Turkish Politics (Oxford University Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Converging to Converge: A Comment",
+   "venue": "NBER Macroeconomics Annual 2021",
+   "reason": "comment"
+  },
+  {
+   "title": "High-Quality Versus Low-Quality Growth in Turkey: Causes and Consequences",
+   "venue": "Turkey at Crossroads",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Institutional Change and Institutional Persistence",
+   "venue": "The Handbook of Historical Economics (Elsevier)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Artificial Intelligence, Automation, and Work",
+   "venue": "The Economics of Artificial Intelligence: An Agenda (University of Chicago Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Networks, Shocks, and Systemic Risk",
+   "venue": "Handbook of Network Economics (Oxford University Press)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Paths to Inclusive Political Institutions",
+   "venue": "Economic History of Warfare and State Formation (Springer)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "The Ups and Downs of Turkish Growth, 2002-2015: Political Dynamics, the European Union and the Institutional Slide",
+   "venue": "The Search for Europe: Contrasting Approaches (BBVA OpenMind)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "The World Our Grandchildren Will Inherit: The Rights Revolution and Beyond",
+   "venue": "In One Hundred Years: Economists Predict the Future (MIT Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Democracy, Redistribution and Inequality",
+   "venue": "Handbook of Income Distribution, Volume 2 (Elsevier)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Indirect Rule and State Weakness in Africa: Sierra Leone in Comparative Perspective",
+   "venue": "African Economic Successes (University of Chicago Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Diversity and Technological Progress",
+   "venue": "The Rate and Direction of Inventive Activity Revisited (University of Chicago Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Opinions Dynamics and Learning in Social Networks",
+   "venue": "Dynamic Games and Applications",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Robust Comparative Statics in Large Static Games",
+   "venue": "IEEE Control and Decisions Conference Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Skills, Tasks and Technologies: Implications for Employment and Earnings",
+   "venue": "Handbook of Labor Economics, Volume 4 (Elsevier)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "Distance to Frontier and Vertical Integration",
+   "venue": "Journal of the European Economic Association Papers and Proceedings",
+   "reason": "conference proceedings (JEEA Papers & Proceedings)"
+  },
+  {
+   "title": "Economic and Political Inequality in Development: the Case of Cundinamarca, Colombia",
+   "venue": "Institutions and Economic Performance (Harvard University Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Political Economy of Intermediate Goods Taxation",
+   "venue": "Journal of the European Economic Association Papers and Proceedings",
+   "reason": "conference proceedings (JEEA Papers & Proceedings)"
+  },
+  {
+   "title": "Modeling Inefficient Economic Institutions",
+   "venue": "Advances in Economic Theory, Proceedings of World Congress 2005 (Cambridge University Press)",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Price Competition in Communication Networks",
+   "venue": "IEEE INFOCOM",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Constitutions, Politics and Economics: A Review Essay on Persson and Tabellini's The Economic Effects of Constitutions",
+   "venue": "Journal of Economic Literature",
+   "reason": "review"
+  },
+  {
+   "title": "Institutions as the Fundamental Cause of Long-Run Economic Growth",
+   "venue": "Handbook of Economic Growth (North Holland)",
+   "reason": "handbook chapter"
+  },
+  {
+   "title": "The Marginal User Principle for Resource Allocation in Wireless Networks",
+   "venue": "Proceedings of the 43rd IEEE Conference on Decision and Control",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Kleptocracy and Divide-and-Rule: A Model of Personal Rule",
+   "venue": "Journal of the European Economic Association Papers and Proceedings (Alfred Marshall Lecture)",
+   "reason": "conference proceedings (JEEA Papers & Proceedings)"
+  },
+  {
+   "title": "Disease and Development in Historical Perspective",
+   "venue": "Journal of the European Economic Association Papers and Proceedings",
+   "reason": "conference proceedings (JEEA Papers & Proceedings)"
+  },
+  {
+   "title": "Minimum Wages and On-the-Job Training",
+   "venue": "Research in Labor Economics, vol. 22",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Factor Prices and Technical Change: From Induced Innovations to Recent Debates",
+   "venue": "Knowledge, Information and Expectations in Modern Macroeconomics (Princeton University Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "An African Success Story: Botswana",
+   "venue": "In Search of Prosperity (Princeton University Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Deunionization, Technical Change, and Inequality",
+   "venue": "Carnegie-Rochester Conference Series on Public Policy",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Credit Market Imperfections and Persistent Unemployment",
+   "venue": "European Economic Review Papers and Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Changes in the Wage Structure, Family Income and Children's Education",
+   "venue": "European Economic Review Papers and Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Certification of Training and Training Outcomes",
+   "venue": "European Economic Review Papers and Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Democratization or Repression?",
+   "venue": "European Economic Review Papers and Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Technology, Unemployment and Efficiency",
+   "venue": "European Economic Review Papers and Proceedings",
+   "reason": "conference proceedings"
+  },
+  {
+   "title": "Investment in Skills, Market Imperfections and Growth",
+   "venue": "Skill Gaps and Economic Activity (Cambridge University Press)",
+   "reason": "book chapter"
+  },
+  {
+   "title": "Non-Modernization: Power-Culture Trajectories and the Dynamics of Political Institutions",
+   "venue": "Annual Review of Political Science",
+   "reason": "journal not in list"
+  },
+  {
+   "title": "Hedging, Multiple Equilibria and Nominal Contracts",
+   "venue": "The New Macroeconomics: Imperfect Markets and Policy Effectiveness",
+   "reason": "book chapter"
+  }
+ ],
+ "counts": {
+  "publication": 177,
+  "rr": 0,
+  "wp": 18
+ }
+}

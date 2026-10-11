@@ -48,6 +48,7 @@
     const v = parts[0] || "";
     if (v === "p" && parts[1]) { setNav("people"); renderProfile(decodeURIComponent(parts[1])); }
     else if (v === "institutions") { setNav("institutions"); renderInstitutions(); }
+    else if (v === "papers") { setNav("papers"); renderPapers(q); }
     else if (v === "fields") { setNav("fields"); renderFields(); }
     else if (v === "about") { setNav("about"); renderAbout(); }
     else { setNav("people"); renderPeople(q); }
@@ -64,7 +65,7 @@
   const S = {};
   function readS(q) {
     S.q = q.get("q") || ""; S.region = q.get("region") || ""; S.country = q.get("country") || ""; S.uni = q.get("uni") || "";
-    S.ut = q.get("ut") || ""; S.pf = q.get("field") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1); S.sort = q.get("sort") || "";
+    S.ut = q.get("ut") || ""; S.pf = q.get("field") || ""; S.rank = q.get("rank") || ""; S.page = +(q.get("p") || 1); S.sort = q.get("sort") || ""; S.jr = q.get("jr") || "";
     S.fields = (q.get("f") || "").split(",").filter((x) => x !== "").map(Number);
   }
   function match(p, ign) {
@@ -78,6 +79,10 @@
       if (!ok) return false;
     }
     if (ign !== "rank" && S.rank !== "" && p.rank !== +S.rank) return false;
+    if (ign !== "jr" && S.jr !== "") {
+      const ok = S.jr.startsWith("t:") ? p.jr.some((j) => D.journals[j][1] === +S.jr.slice(2)) : p.jr.includes(+S.jr);
+      if (!ok) return false;
+    }
     if (ign !== "fields" && S.fields.length) for (const f of S.fields) if (!p.fields.includes(f)) return false;
     if (S.q) {
       const hay = (p.name + " " + p.unit + " " + p.area + " " + p.pfield.map((i) => D.pfields[i]).join(" ") + " " + p.phd + " " + u.short + " " + u.name + " " + p.fields.map((f) => D.fields[f]).join(" ")).toLowerCase();
@@ -87,7 +92,10 @@
   }
   function renderPeople(q) {
     readS(q);
-    const list = P.filter((p) => match(p)).sort(S.sort === "first" ? ((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" })) : ((a, b) => a.sur.localeCompare(b.sur, "en", { sensitivity: "base" }) || a.name.localeCompare(b.name, "en", { sensitivity: "base" })));
+    const bySur = (a, b) => a.sur.localeCompare(b.sur, "en", { sensitivity: "base" }) || a.name.localeCompare(b.name, "en", { sensitivity: "base" });
+    const SORTS = { first: (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }), top5: (a, b) => b.np[3] - a.np[3] || b.np[4] - a.np[4] || bySur(a, b),
+      lead: (a, b) => b.np[4] - a.np[4] || b.np[3] - a.np[3] || bySur(a, b), pubs: (a, b) => b.np[0] - a.np[0] || bySur(a, b) };
+    const list = P.filter((p) => match(p)).sort(SORTS[S.sort] || bySur);
     const pages = Math.max(1, Math.ceil(list.length / CONFIG.pageSize));
     S.page = Math.min(Math.max(1, S.page), pages);
     const shown = list.slice((S.page - 1) * CONFIG.pageSize, S.page * CONFIG.pageSize);
@@ -106,9 +114,10 @@
     }).join("");
     const fc = {}; for (const p of P) if (match(p, "fields")) for (const f of p.fields) fc[f] = (fc[f] || 0) + 1;
     const withPhd = list.filter((p) => p.phd).length;
+    const jrOpts = journalOpts(S.jr);
 
     app.innerHTML = `
-      <p class="intro">An open directory of tenure-line faculty doing research in <b>economics and business</b> at leading universities — economics departments, business schools, public policy schools, agricultural &amp; resource economics, and economists in other units. Search by region, institution, unit, field or PhD institution.</p>
+      <p class="intro">An open directory of tenure-line faculty doing research in <b>economics and business</b> at leading universities — economics departments, business schools, public policy schools, agricultural &amp; resource economics, and economists in other units. Search by region, institution, unit, field, PhD institution or the journals people publish in — or search papers directly in the <a href="#/papers">Papers</a> tab.</p>
       <section class="stats">
         <div class="stat"><div class="n">${list.length.toLocaleString()}</div><div class="l">faculty${list.length !== P.length ? ` (of ${P.length.toLocaleString()})` : ""}</div>
           <div class="sub">${D.ranks.map((r, i) => `${r.replace(" Professor", "")} ${list.filter((p) => p.rank === i).length}`).join(" · ")}</div></div>
@@ -127,27 +136,29 @@
           <select id="ut"><option value="">All unit types</option>${D.unit_types.map((t, i) => opt(i, `${UT_LABEL[t]} (${count((p) => p.unit_type === i && match(p, "ut"))})`, S.ut)).join("")}</select>
           <select id="field"><option value="">All fields</option>${fieldOpts}</select>
           <select id="rank"><option value="">All ranks</option>${D.ranks.map((r, i) => opt(i, `${r} (${count((p) => p.rank === i && match(p, "rank"))})`, S.rank)).join("")}</select>
-          <select id="sort">${opt("", "Sort: last name A–Z", S.sort)}${opt("first", "Sort: first name A–Z", S.sort)}</select>
+          <select id="jr"><option value="">Published in: any journal</option>${jrOpts}</select>
+          <select id="sort">${opt("", "Sort: last name A–Z", S.sort)}${opt("first", "Sort: first name A–Z", S.sort)}${opt("top5", "Sort: most Top-5 econ papers", S.sort)}${opt("lead", "Sort: most leading-journal papers", S.sort)}${opt("pubs", "Sort: most publications", S.sort)}</select>
           <button class="btn" id="reset" type="button">Reset</button>
         </div>
       </section>
       <p class="count">${list.length.toLocaleString()} results · page ${S.page} of ${pages}</p>
       <section class="tbl-wrap"><table>
-        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit</th><th>Field</th><th>PhD</th></tr></thead>
+        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit</th><th>Field</th><th>PhD</th><th title="Publications in leading journals (Top-5 econ in brackets)">Leading pubs</th></tr></thead>
         <tbody>${shown.map((p) => `<tr class="clk" data-id="${esc(p.id)}">
           <td><a href="#/p/${encodeURIComponent(p.id)}"><b>${esc(p.name)}</b></a></td>
           <td><span class="badge ${rankCls(p.rank)}">${esc(D.ranks[p.rank].replace(" Professor", ""))}</span></td>
           <td>${esc(U[p.uni].short)}</td>
           <td>${esc(p.unit)}${p.area ? `<div class="small">${esc(p.area)}</div>` : ""}</td>
           <td>${p.pfield.map((i) => `<span class="tag pf">${esc(D.pfields[i])}</span>`).join("")}</td>
-          <td class="small">${esc(p.phd)}${p.phd_year ? " " + p.phd_year : ""}</td></tr>`).join("") || `<tr><td colspan="6" class="empty">No matches.</td></tr>`}
+          <td class="small">${esc(p.phd)}${p.phd_year ? " " + p.phd_year : ""}</td>
+          <td class="small num">${p.np[4] ? p.np[4] + (p.np[3] ? ` <span class="muted">(${p.np[3]})</span>` : "") : ""}</td></tr>`).join("") || `<tr><td colspan="7" class="empty">No matches.</td></tr>`}
         </tbody></table></section>
       ${pages > 1 ? `<div class="pager">${S.page > 1 ? `<button class="btn" data-pg="${S.page - 1}">← Prev</button>` : ""}<span class="small">Page ${S.page} / ${pages}</span>${S.page < pages ? `<button class="btn" data-pg="${S.page + 1}">Next →</button>` : ""}</div>` : ""}`;
 
-    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, field: S.pf, rank: S.rank, f: S.fields, sort: S.sort, p: page > 1 ? page : "" });
+    const push = (page) => setQuery("/", { q: S.q, region: S.region, country: S.country, uni: S.uni, ut: S.ut, field: S.pf, rank: S.rank, jr: S.jr, f: S.fields, sort: S.sort, p: page > 1 ? page : "" });
     const rer = (page = 1) => { push(page); renderPeople(route().q); };
     bindSearch("q", (v) => { S.q = v; rer(); });
-    for (const k of ["region", "country", "uni", "ut", "field", "rank", "sort"]) document.getElementById(k).onchange = (e) => {
+    for (const k of ["region", "country", "uni", "ut", "field", "rank", "jr", "sort"]) document.getElementById(k).onchange = (e) => {
       S[k === "field" ? "pf" : k] = e.target.value;
       if (k === "region") { S.country = ""; S.uni = ""; } if (k === "country") S.uni = ""; if (k === "ut") S.pf = "";
       rer();
@@ -199,24 +210,96 @@
           <div>
             <section class="box"><h3>Research fields</h3>
               ${r.fields_raw ? `<p>${esc(r.fields_raw)}</p>` : `<p class="small">Not listed.</p>`}</section>
-            <section class="box"><h3>Publications &amp; working papers${r.n_papers ? ` <span class="small">(${r.n_papers})</span>` : ""}</h3><div id="pubs">${r.n_papers ? `<p class="small">Loading…</p>` : `<div class="coming">Coming soon.</div>`}</div></section>
+            <section class="box"><h3>Publications &amp; working papers${r.n_papers ? ` <span class="small">(${r.n_papers})</span>` : ""}</h3>${r.papers_curated ? `<p class="small curated">Curated list: checked against the CV${typeof r.papers_curated === "string" ? ` (${link(r.papers_curated, "source")})` : ""} and Crossref; publications limited to leading journals.</p>` : r.n_papers ? `<p class="small">Extracted automatically from the CV or homepage; may be incomplete.</p>` : ""}<div id="pubs">${r.n_papers ? `<p class="small">Loading…</p>` : `<div class="coming">Coming soon.</div>`}</div></section>
             <section class="box"><h3>Source</h3><p class="small">${r.source_url ? link(r.source_url, "University directory") + " · " : ""}${r.detail_source ? "Details from " + esc(r.detail_source) + (r.cv_date ? " (" + esc(r.cv_date) + ")" : "") + " · " : ""}${r.notes ? esc(r.notes) + " · " : ""}
               <a href="${CONFIG.repoUrl}/edit/main/data/faculty/${u.id}.json" target="_blank" rel="noopener">Suggest a correction</a></p></section>
           </div>
         </div>`;
-      if (r.n_papers) {
-        fetch(`pubs/${encodeURIComponent(id)}.json`).then((x) => x.json()).then((ps) => {
-          const ST = { published: "Published", forthcoming: "Forthcoming", revise_resubmit: "R&R", working_paper: "Working paper" };
-          const box = document.getElementById("pubs");
-          if (!box) return;
-          ps.sort((a, b) => (b.year || 0) - (a.year || 0));
-          box.innerHTML = ps.map((q) => `<article class="paper"><div class="pt">${q.doi ? `<a href="https://doi.org/${esc(q.doi)}" target="_blank" rel="noopener">${esc(q.title)}</a>` : esc(q.title)}
-            <span class="badge plain">${esc(ST[q.status] || "")}</span></div>
-            <div class="pm">${esc((q.authors || []).join(", "))}${q.venue ? ` · <i>${esc(q.venue)}</i>` : ""}${q.year ? " · " + q.year : ""}</div>
-            ${q.abstract ? `<details><summary>Abstract</summary><div class="abs">${esc(q.abstract)}</div></details>` : ""}</article>`).join("");
-        }).catch(() => {});
-      }
+      if (r.n_papers) fetch(`pubs/${encodeURIComponent(id)}.json`).then((x) => x.json()).then((ps) => paperList(ps, document.getElementById("pubs"))).catch(() => {});
     });
+  }
+
+
+  // ---------------------------------------------------------------- papers (shared formatting)
+  const CAT = [["pub", "Publications"], ["rr", "Revise & resubmit"], ["wp", "Working papers"]];
+  const TIER_SHORT = ["Top 5", "Field", "Business", "General", "Practitioner"];
+  const authorsTxt = (a) => !a || !a.length ? "" : a.length === 1 ? a[0] : a.length === 2 ? `${a[0]} and ${a[1]}` : `${a.slice(0, -1).join(", ")}, and ${a[a.length - 1]}`;
+  const scholar = (t) => "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + t + '"');
+  const tierBadge = (r, c) => r != null && r >= 0 && c !== "wp" && c !== 2 ? ` <span class="tier t${D.journals[r][1]}">${TIER_SHORT[D.journals[r][1]]}</span>` : "";
+  const titleLink = (t, l, lt) => l ? `<a href="${esc(l)}" target="_blank" rel="noopener" title="${lt === "wp" ? "Working-paper version" : "Published version"}">${esc(t)}</a>`
+    : `<a class="srch" href="${scholar(t)}" target="_blank" rel="noopener" title="Search Google Scholar">${esc(t)}</a>`;
+  function journalOpts(sel) {
+    return D.tiers.map(([, lab], t) => `<optgroup label="${esc(lab)}">${opt("t:" + t, `Any ${lab.toLowerCase()} journal`, sel)}${D.journals.map((j, i) => [j, i]).filter(([j]) => j[1] === t).map(([j, i]) => opt(i, j[0], sel)).join("")}</optgroup>`).join("");
+  }
+  function cite(q) {  // AEA style: Authors. Year. Journal Vol (Issue): pages.  (title on its own line, linked)
+    const vip = q.v ? ` ${esc(q.v)}${q.i ? ` (${esc(q.i)})` : ""}${q.p ? `: ${esc(q.p)}` : ""}` : q.p ? `, ${esc(q.p)}` : "";
+    const where = q.c === "rr" ? (q.j ? `Revise &amp; resubmit, <i>${esc(q.j)}</i>` : "Revise &amp; resubmit")
+      : q.c === "wp" ? (q.j ? esc(q.j) : "Working paper")
+      : q.j ? (q.n ? `${esc(q.n)} in <i>${esc(q.j)}</i>` : `<i>${esc(q.j)}</i>${vip}`) : esc(q.n || "");
+    return `<div class="pt">${titleLink(q.t, q.l, q.lt)}${tierBadge(q.r, q.c)}</div>
+      <div class="pm">${esc(authorsTxt(q.a))}${q.a && q.a.length ? ". " : ""}${q.y || "n.d."}.${where ? " " + where + "." : ""}</div>`;
+  }
+  function paperList(ps, box) {
+    if (!box) return;
+    const st = { cat: "", lead: false, q: "" };
+    const draw = () => {
+      const qs = st.q.toLowerCase().split(/\s+/).filter(Boolean);
+      const keep = (q) => (!st.cat || q.c === st.cat) && (!st.lead || q.c === "wp" || q.r != null) &&
+        qs.every((t) => (q.t + " " + (q.j || "") + " " + (q.a || []).join(" ") + " " + (q.y || "")).toLowerCase().includes(t));
+      const body = CAT.map(([c, lab]) => {
+        const xs = ps.filter((q) => q.c === c && keep(q));
+        return xs.length ? `<h4 class="psec">${lab} <span class="small">(${xs.length})</span></h4>${xs.map((q) => `<article class="paper">${cite(q)}${q.abs ? `<details><summary>Abstract</summary><div class="abs">${esc(q.abs)}</div></details>` : ""}</article>`).join("")}` : "";
+      }).join("");
+      box.querySelector(".plist").innerHTML = body || `<p class="small">No papers match.</p>`;
+      box.querySelectorAll("[data-cat]").forEach((b) => b.classList.toggle("on", b.dataset.cat === st.cat));
+    };
+    const n = Object.fromEntries(CAT.map(([c]) => [c, ps.filter((q) => q.c === c).length]));
+    box.innerHTML = `<div class="pbar"><span class="chips"><button class="chip" data-cat="">All</button>${CAT.map(([c, lab]) => `<button class="chip" data-cat="${c}">${lab} (${n[c]})</button>`).join("")}</span>
+      <label class="small"><input type="checkbox" id="plead"> Leading journals only</label>
+      <input type="search" id="pfq" placeholder="Filter by title, coauthor, journal, year…"></div><div class="plist"></div>`;
+    box.querySelectorAll("[data-cat]").forEach((b) => b.onclick = () => { st.cat = b.dataset.cat; draw(); });
+    box.querySelector("#plead").onchange = (e) => { st.lead = e.target.checked; draw(); };
+    box.querySelector("#pfq").oninput = (e) => { st.q = e.target.value.trim(); draw(); };
+    draw();
+  }
+
+  // ---------------------------------------------------------------- paper search
+  let PIDX = null;
+  function renderPapers(q) {
+    const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", page: +(q.get("p") || 1) };
+    if (!PIDX) {
+      app.innerHTML = `<p class="small">Loading paper index (${(D.n_pindex || 0).toLocaleString()} papers)…</p>`;
+      fetch("papers.json").then((r) => r.json()).then((rows) => {
+        PIDX = rows.map((r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], p: r[4], l: r[5], lt: r[0].toLowerCase() }));
+        if (route().parts[0] === "papers") renderPapers(route().q);
+      }).catch(() => { app.innerHTML = `<p class="empty">Could not load papers.json.</p>`; });
+      return;
+    }
+    const toks = s.q.toLowerCase().split(/\s+/).filter(Boolean);
+    const jrOk = (x) => s.jr === "" || (x.r >= 0 && (s.jr.startsWith("t:") ? D.journals[x.r][1] === +s.jr.slice(2) : x.r === +s.jr));
+    const list = PIDX.filter((x) => (s.cat === "" || x.c === +s.cat) && jrOk(x) && (!s.uni || U[P[x.p].uni].id === s.uni) &&
+      (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || P[x.p].name.toLowerCase().includes(t)))
+      .sort((a, b) => b.y - a.y || a.c - b.c);
+    const size = 100, pages = Math.max(1, Math.ceil(list.length / size)); s.page = Math.min(Math.max(1, s.page), pages);
+    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: publications in leading economics and business journals, papers under revise &amp; resubmit, and working papers. Words match the paper title or the faculty member's name.</p>
+      <section class="controls"><div class="row">
+        <input id="pq" type="search" placeholder="Search paper titles or author…" value="${esc(s.q)}" autocomplete="off">
+        <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
+        <select id="pj"><option value="">Any journal</option>${journalOpts(s.jr)}</select>
+      </div><div class="row">
+        <select id="pu"><option value="">All institutions</option>${U.filter((u) => u.n).map((u) => opt(u.id, u.short, s.uni)).join("")}</select>
+        <input id="py0" type="number" placeholder="From year" value="${esc(s.y0)}" style="max-width:120px"><input id="py1" type="number" placeholder="To year" value="${esc(s.y1)}" style="max-width:120px">
+        <button class="btn" id="preset" type="button">Reset</button></div></section>
+      <p class="count">${list.length.toLocaleString()} papers · page ${s.page} of ${pages}</p>
+      <section>${list.slice((s.page - 1) * size, s.page * size).map((x) => { const p = P[x.p], j = x.r >= 0 ? D.journals[x.r] : null;
+        return `<article class="paper"><div class="pt">${titleLink(x.t, x.l)}${tierBadge(x.r, x.c)}</div>
+          <div class="pm"><a href="#/p/${encodeURIComponent(p.id)}">${esc(p.name)}</a> (${esc(U[p.uni].short)}) · ${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
+      ${pages > 1 ? `<div class="pager">${s.page > 1 ? `<button class="btn" data-pg="${s.page - 1}">← Prev</button>` : ""}<span class="small">Page ${s.page} / ${pages}</span>${s.page < pages ? `<button class="btn" data-pg="${s.page + 1}">Next →</button>` : ""}</div>` : ""}`;
+    const go = (page = 1) => { setQuery("/papers", { q: s.q, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, p: page > 1 ? page : "" }); renderPapers(route().q); };
+    bindSearch("pq", (v) => { s.q = v; go(); });
+    for (const [id, k] of [["pc", "cat"], ["pj", "jr"], ["pu", "uni"], ["py0", "y0"], ["py1", "y1"]]) document.getElementById(id).onchange = (e) => { s[k] = e.target.value; go(); };
+    document.getElementById("preset").onclick = () => { history.replaceState(null, "", "#/papers"); renderPapers(new URLSearchParams()); };
+    app.querySelectorAll("[data-pg]").forEach((b) => b.onclick = () => { go(+b.dataset.pg); window.scrollTo(0, 0); });
   }
 
   // ---------------------------------------------------------------- institutions
