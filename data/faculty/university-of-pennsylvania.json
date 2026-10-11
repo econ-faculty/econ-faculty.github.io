@@ -10661,10 +10661,10 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "statistics, optimization, reinforcement learning, machine learning theory, information theory, statistical machine learning",
+  "fields_raw": "Competitive strategies; Data-driven marketing",
   "fields_std": [
-   "Econometrics",
-   "Microeconomic Theory"
+   "Marketing",
+   "Strategy"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -10690,7 +10690,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "yuxin-chen"
  },
  {
