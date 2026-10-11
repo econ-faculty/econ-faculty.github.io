@@ -252,6 +252,49 @@
   ]
  },
  {
+  "id": "ohio-state-university",
+  "name": "The Ohio State University",
+  "short": "Ohio State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Columbus, OH",
+  "aliases": [
+   "Ohio State University"
+  ]
+ },
+ {
+  "id": "university-of-california-davis",
+  "name": "University of California, Davis",
+  "short": "UC Davis",
+  "country": "United States",
+  "region": "North America",
+  "city": "Davis, CA"
+ },
+ {
+  "id": "michigan-state-university",
+  "name": "Michigan State University",
+  "short": "MSU",
+  "country": "United States",
+  "region": "North America",
+  "city": "East Lansing, MI"
+ },
+ {
+  "id": "vanderbilt-university",
+  "name": "Vanderbilt University",
+  "short": "Vanderbilt",
+  "country": "United States",
+  "region": "North America",
+  "city": "Nashville, TN"
+ },
+ {
+  "id": "arizona-state-university",
+  "name": "Arizona State University",
+  "short": "ASU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Tempe, AZ"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",
