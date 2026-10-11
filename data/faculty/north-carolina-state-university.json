@@ -3104,7 +3104,7 @@
    "Agricultural & Resource Economics"
   ],
   "phd_institution": "Duke University",
-  "phd_year": null,
+  "phd_year": 2001,
   "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -3127,7 +3127,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "spencer-banzhaf"
  },
  {
@@ -3182,7 +3182,7 @@
    "Agricultural & Resource Economics"
   ],
   "phd_institution": "Indiana University at Bloomington",
-  "phd_year": null,
+  "phd_year": 2005,
   "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -3205,7 +3205,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "xiaoyong-zheng"
  },
  {
@@ -3220,15 +3220,15 @@
   "fields_std": [
    "Agricultural & Resource Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of California, Berkeley",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Agricultural and Resource Economics",
+  "ma_institution": "University of California, Berkeley",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Agricultural and Resource Economics",
+  "ba_institution": "University of Sydney",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Resource Economics (Hons. 1M)",
   "education_raw": null,
   "homepage_url": "https://danieltregeagle.com",
   "profile_url": "https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/",
@@ -3240,11 +3240,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Postdoctoral studies, Department of Agricultural and Resource Economics, University of California, Davis (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "daniel-tregeagle"
  },
  {
@@ -3298,9 +3298,9 @@
   "fields_std": [
    "Agricultural & Resource Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "Massachusetts Institute of Technology",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -3322,7 +3322,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "raymond-guiteras"
  },
  {
@@ -3493,15 +3493,15 @@
   "fields_std": [
    "Agricultural & Resource Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of California, Davis",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Agricultural and Resource Economics",
+  "ma_institution": "Korea Advanced Institute of Science and Technology (KAIST)",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Management Engineering",
+  "ba_institution": "Australian National University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": null,
   "homepage_url": "http://www.seunghyunlee.com/",
   "profile_url": "https://cals.ncsu.edu/agricultural-and-resource-economics/people/seunghyun-lee/",
@@ -3517,7 +3517,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "seunghyun-lee"
  },
  {
@@ -3532,15 +3532,15 @@
   "fields_std": [
    "Agricultural & Resource Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Kansas",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Economics",
+  "ma_institution": "American University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "MPP",
+  "ba_institution": "Upper Iowa University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Mathematics",
   "education_raw": null,
   "homepage_url": "https://sites.google.com/site/raffzach/",
   "profile_url": "https://cals.ncsu.edu/agricultural-and-resource-economics/people/zach-raff/",
@@ -3556,7 +3556,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "zach-raff"
  },
  {

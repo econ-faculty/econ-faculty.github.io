@@ -250,13 +250,13 @@
   "fields_std": [
    "Macroeconomics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of California, Berkeley",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Economics",
+  "ma_institution": "Fletcher School, Tufts University",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Yale University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": null,
@@ -274,7 +274,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "jay-c-shambaugh"
  },
  {
@@ -291,15 +291,15 @@
    "Law & Economics",
    "Financial Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "Boston College",
+  "phd_year": 1976,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Boston College",
+  "ba_year": 1971,
+  "ba_field": "Economics",
   "education_raw": null,
   "homepage_url": "http://www.gwu.edu/~iiep/jpelzman/",
   "profile_url": "https://economics.columbian.gwu.edu/joseph-pelzman",
@@ -311,11 +311,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Faculty member, University of South Carolina (1976-1979)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "joseph-pelzman"
  },
  {
@@ -331,15 +331,15 @@
    "International Trade",
    "Urban & Regional Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Colorado Boulder",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Economics",
+  "ma_institution": "University of Colorado Boulder",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Economics",
+  "ba_institution": "Beijing Normal University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": null,
   "homepage_url": "http://maggiexchen.weebly.com/",
   "profile_url": "https://economics.columbian.gwu.edu/maggie-x-chen",
@@ -355,7 +355,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "maggie-x-chen"
  },
  {
@@ -451,7 +451,7 @@
    "Industrial Organization"
   ],
   "phd_institution": "New York University",
-  "phd_year": null,
+  "phd_year": 1989,
   "phd_field": null,
   "ma_institution": "New York University",
   "ma_year": null,
@@ -474,7 +474,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "nicholas-vonortas"
  },
  {
@@ -567,7 +567,7 @@
    "Econometrics"
   ],
   "phd_institution": "Columbia University",
-  "phd_year": null,
+  "phd_year": 1985,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -590,7 +590,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "robert-f-phillips"
  },
  {
@@ -646,7 +646,7 @@
    "Development Economics"
   ],
   "phd_institution": "Cornell University",
-  "phd_year": null,
+  "phd_year": 1983,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -669,7 +669,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "stephen-charles-smith"
  },
  {
@@ -727,7 +727,7 @@
    "Labor Economics"
   ],
   "phd_institution": "Washington University",
-  "phd_year": null,
+  "phd_year": 2005,
   "phd_field": null,
   "ma_institution": "Washington University",
   "ma_year": null,
@@ -750,7 +750,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "tara-m-sinclair"
  },
  {
@@ -848,7 +848,7 @@
    "Financial Economics"
   ],
   "phd_institution": "Stanford University",
-  "phd_year": null,
+  "phd_year": 2001,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -871,7 +871,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "chao-wei"
  },
  {
@@ -889,7 +889,7 @@
    "Microeconomic Theory"
   ],
   "phd_institution": "University of California, Davis",
-  "phd_year": null,
+  "phd_year": 2009,
   "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -912,7 +912,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "elira-kuka"
  },
  {
@@ -1411,13 +1411,13 @@
   "fields_std": [
    "Accounting"
   ],
-  "phd_institution": null,
+  "phd_institution": "Harvard University",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "DBA, Business Administration",
+  "ma_institution": "Brigham Young University",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Brigham Young University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": null,
@@ -1435,7 +1435,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "kyle-welch"
  },
  {
@@ -2081,9 +2081,9 @@
   "fields_std": [
    "Data Science & Analytics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of North Carolina at Chapel Hill",
+  "phd_year": 2019,
+  "phd_field": "Statistics and Operations Research",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -2105,7 +2105,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "zhengling-qi"
  },
  {
@@ -2120,9 +2120,9 @@
   "fields_std": [
    "Data Science & Analytics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "Duke University (Fuqua School of Business)",
+  "phd_year": 2023,
+  "phd_field": "Business Administration (Operations Management)",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -2140,11 +2140,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor of Decision Sciences, George Washington University School of Business (start not listed)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "yuan-guo"
  },
  {
@@ -3087,7 +3087,7 @@
    "Corporate Finance"
   ],
   "phd_institution": "University of Maryland",
-  "phd_year": null,
+  "phd_year": 2004,
   "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
@@ -3110,7 +3110,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "meghana-ayyagari"
  },
  {
@@ -3244,15 +3244,15 @@
   "fields_std": [
    "Strategy"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Harvard Business School",
+  "phd_year": 2017,
+  "phd_field": "DBA, Strategy",
+  "ma_institution": "Columbia University",
+  "ma_year": 2010,
+  "ma_field": "International and Public Affairs (MIA)",
+  "ba_institution": "Yonsei University",
+  "ba_year": 2002,
+  "ba_field": "Management (BBA)",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://business.gwu.edu/jin-hyung-kim",
@@ -3268,7 +3268,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "jin-hyung-kim"
  },
  {
@@ -3443,13 +3443,13 @@
    "Marketing",
    "Management & Organizations"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Strathclyde, Glasgow, UK",
   "phd_year": 1998,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": "1996",
-  "ma_field": null,
-  "ba_institution": null,
+  "phd_field": "International tourism management",
+  "ma_institution": "University of Strathclyde | Erciyes University",
+  "ma_year": "1996 | 1993",
+  "ma_field": "Tourism planning (MPhil) | Hospitality and tourism management (MSc)",
+  "ba_institution": "Cukurova University",
   "ba_year": 1991,
   "ba_field": null,
   "education_raw": "Ph.D., University of Strathclyde, Glasgow, UK, 1998 | MPhil, University of Strathclyde, Glasgow, UK, 1996 | MSc, Erciyes University, Turkey, 1993 | B.A., Cukurova University, Turkey, 1991",
@@ -3467,7 +3467,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "cevat-tosun"
  },
  {
@@ -3564,15 +3564,15 @@
    "Management & Organizations",
    "Business Ethics & Society"
   ],
-  "phd_institution": null,
+  "phd_institution": "Washington University in St. Louis",
   "phd_year": 1991,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "phd_field": "Psychology (Interdisciplinary Program in Organizational Behavior)",
+  "ma_institution": "Washington University in St. Louis",
+  "ma_year": 1988,
+  "ma_field": "Organizational Behavior (AM)",
+  "ba_institution": "Eastern Illinois University",
   "ba_year": 1985,
-  "ba_field": null,
+  "ba_field": "Psychology",
   "education_raw": "Washington University, Interdisciplinary Program in Organizational Behavior, St. Louis, MO | Ph.D., Psychology, 1991, Magna Cum Laude, Valedictorian (advisors: Walter Nord, Richard deCharms, Jane Loevinger, Mike Strube) | A.M., Organizational Behavior, 1988 | Eastern Illinois University, College of Arts & Sciences, Charleston, IL | B.A., Psychology, 1985, Cum Laude",
   "homepage_url": null,
   "profile_url": "https://business.gwu.edu/james-r-bailey",
@@ -3584,11 +3584,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Department of Organization Management, Rutgers University (1991-1997)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "james-r-bailey"
  },
  {
@@ -3725,15 +3725,15 @@
   "fields_std": [
    "Management & Organizations"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of California, Berkeley (Haas School of Business)",
+  "phd_year": 2007,
+  "phd_field": "Business Administration",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "University of California, Los Angeles",
+  "ba_year": 1998,
+  "ba_field": "Sociology",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://business.gwu.edu/margaret-ormiston",
@@ -3745,11 +3745,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Faculty member, London Business School (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "margaret-ormiston"
  },
  {
@@ -4120,13 +4120,13 @@
   "fields_std": [
    "Strategy"
   ],
-  "phd_institution": null,
+  "phd_institution": "Pennsylvania State University",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Cornell University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": null,
@@ -4140,11 +4140,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Professor of Strategy, Entrepreneurship and Management, University of Alberta School of Business (years not given)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "joel-gehman"
  },
  {
@@ -4359,7 +4359,7 @@
    "Strategy"
   ],
   "phd_institution": "Northwestern University",
-  "phd_year": null,
+  "phd_year": 2018,
   "phd_field": "Management and Organizations and Sociology",
   "ma_institution": null,
   "ma_year": null,
@@ -4382,7 +4382,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "vontrese-pamphile"
  },
  {
@@ -4397,15 +4397,15 @@
   "fields_std": [
    "Strategy"
   ],
-  "phd_institution": null,
+  "phd_institution": "Florida International University",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Business Administration",
+  "ma_institution": "Rollins College",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "MBA",
+  "ba_institution": "Kenya Utalii College",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Hotel Management",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://business.gwu.edu/everlyne-misati",
@@ -4421,7 +4421,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "everlyne-misati"
  },
  {
@@ -4547,15 +4547,15 @@
   "other_units": "Department of Economics; Department of Economics (affiliated)",
   "fields_raw": null,
   "fields_std": [],
-  "phd_institution": null,
+  "phd_institution": "University of California, Los Angeles",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Economics",
+  "ma_institution": "University of California, Los Angeles",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Economics",
+  "ba_institution": "Stanford University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Public Policy",
   "education_raw": null,
   "homepage_url": "https://sites.google.com/view/stephaniecellini",
   "profile_url": "https://tspppa.gwu.edu/stephanie-cellini",
@@ -4571,7 +4571,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "stephanie-riegg-cellini"
  },
  {
@@ -4621,15 +4621,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [],
-  "phd_institution": null,
+  "phd_institution": "University of Virginia",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "University of Michigan",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics & Political Science",
   "education_raw": null,
   "homepage_url": "https://michaellaforest.github.io/",
   "profile_url": "https://tspppa.gwu.edu/michael-laforest-tucker",
@@ -4645,7 +4645,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "michael-laforest-tucker"
  },
  {
@@ -4778,15 +4778,15 @@
    "Health Economics",
    "Financial Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Wisconsin-Milwaukee",
   "phd_year": 2014,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": "2010",
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": 2008,
-  "ba_field": null,
+  "phd_field": "Economics",
+  "ma_institution": "University of Wisconsin-Milwaukee | Mazandaran University of Science and Technology",
+  "ma_year": "2010 | 2008",
+  "ma_field": "Economics | Business Administration (MBA)",
+  "ba_institution": "Sharif University of Technology",
+  "ba_year": 2005,
+  "ba_field": "Metallurgical Engineering",
   "education_raw": "Ph.D. Economics, University of Wisconsin–Milwaukee, Milwaukee, WI, USA, 2014 | M.A. Economics, University of Wisconsin–Milwaukee, Milwaukee, WI, USA, 2010 | M.B.A. Mazandaran University of Science and Technology, Babol, Iran, 2008 | B.Sc. Metallurgical Engineering, Sharif University of Technology, Tehran, Iran, 2005",
   "homepage_url": null,
   "profile_url": "https://publichealth.gwu.edu/departments/health-policy-and-management/ali-moghtaderi",
@@ -4802,7 +4802,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "ali-moghtaderi"
  },
  {

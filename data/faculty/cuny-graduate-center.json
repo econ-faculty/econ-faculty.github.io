@@ -53,15 +53,15 @@
    "Environmental & Energy Economics",
    "Urban & Regional Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of California, Berkeley",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Demography",
+  "ma_institution": "University of Michigan, Ann Arbor",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Public Policy (MPP)",
+  "ba_institution": "University of Michigan, Ann Arbor",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "International Relations (AB)",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://www.gc.cuny.edu/people/deborah-balk",
@@ -77,7 +77,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "deborah-balk"
  },
  {
@@ -374,7 +374,7 @@
    "Financial Economics"
   ],
   "phd_institution": "Illinois Institute of Technology",
-  "phd_year": null,
+  "phd_year": 2013,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -397,7 +397,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "seungho-baek"
  },
  {
@@ -454,7 +454,7 @@
    "Macroeconomics"
   ],
   "phd_institution": "University Pompeu Fabra",
-  "phd_year": null,
+  "phd_year": 1999,
   "phd_field": "Spain",
   "ma_institution": null,
   "ma_year": null,
@@ -477,7 +477,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "lilia-maliar"
  },
  {
@@ -492,15 +492,15 @@
   "fields_std": [
    "Public Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Queen's University",
+  "phd_year": 1996,
+  "phd_field": "Economics",
+  "ma_institution": "McGill University",
+  "ma_year": 1985,
+  "ma_field": "Economics",
+  "ba_institution": "McGill University",
+  "ba_year": 1982,
+  "ba_field": "Economics and Political Science",
   "education_raw": null,
   "homepage_url": "https://milescorak.com/about/",
   "profile_url": "https://www.gc.cuny.edu/people/miles-corak",
@@ -516,7 +516,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "miles-corak"
  },
  {
@@ -973,7 +973,7 @@
    "Political Economy"
   ],
   "phd_institution": "University of California",
-  "phd_year": null,
+  "phd_year": 2009,
   "phd_field": "Davis",
   "ma_institution": null,
   "ma_year": null,
@@ -996,7 +996,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "leticia-arroyo-abad"
  },
  {
@@ -1012,12 +1012,12 @@
    "Labor Economics",
    "Economics of Education"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_institution": "Boston University",
+  "phd_year": 1999,
+  "phd_field": "Economics",
+  "ma_institution": "Boston University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Political Economy",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1036,7 +1036,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "nuria-rodriguez-planas"
  },
  {
@@ -1729,7 +1729,7 @@
    "Data Science & Analytics"
   ],
   "phd_institution": "Purdue University",
-  "phd_year": null,
+  "phd_year": 2006,
   "phd_field": "Major: Marketing; Minor: Econometrics 2006",
   "ma_institution": "Indian Institute of Foreign Trade (IIFT) | Purdue University",
   "ma_year": null,
@@ -1752,7 +1752,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "ram-bezawada"
  },
  {
@@ -4737,7 +4737,7 @@
    "Data Science & Analytics"
   ],
   "phd_institution": "Iowa State University",
-  "phd_year": null,
+  "phd_year": 2014,
   "phd_field": "Business and Technology (Information Systems)2014",
   "ma_institution": "Iowa State University",
   "ma_year": 2010,
@@ -4760,7 +4760,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "yuanfeng-cai"
  },
  {

@@ -50,9 +50,9 @@
   "fields_std": [
    "Development Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "Harvard University",
+  "phd_year": 1977,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -70,11 +70,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Faculty (position title not stated), University of Pennsylvania (1977-1984)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "djavad-salehi-isfahani"
  },
  {
@@ -90,14 +90,14 @@
    "Microeconomic Theory",
    "Environmental & Energy Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "Université de Montréal",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
+  "ma_institution": "Université d'Auvergne",
+  "ma_year": "2004",
   "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
+  "ba_institution": "ISSEA, Cameroon",
+  "ba_year": 2002,
   "ba_field": null,
   "education_raw": null,
   "homepage_url": "https://sites.google.com/a/vt.edu/eric_bahel/",
@@ -114,7 +114,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "eric-bahel"
  },
  {
@@ -129,7 +129,7 @@
   "fields_std": [
    "Microeconomic Theory"
   ],
-  "phd_institution": null,
+  "phd_institution": "Erlangen-Nürnberg, Germany",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -153,7 +153,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "hans-haller"
  },
  {
@@ -168,15 +168,15 @@
   "fields_std": [
    "Public Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of Chicago",
+  "phd_year": 1969,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Reed College",
+  "ba_year": 1965,
+  "ba_field": "Economics and Mathematics",
   "education_raw": null,
   "homepage_url": "https://sites.google.com/site/nicolaustideman/",
   "profile_url": "https://econ.vt.edu/people/faculty.html",
@@ -188,11 +188,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor of Economics, Harvard University (1969-1973)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "nicolaus-tideman"
  },
  {
@@ -244,9 +244,9 @@
   "fields_std": [
    "Econometrics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of California, San Diego",
+  "phd_year": 1976,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -268,7 +268,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "richard-ashley"
  },
  {
@@ -284,9 +284,9 @@
    "Experimental Economics",
    "Behavioral Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "Northwestern University",
+  "phd_year": 1991,
+  "phd_field": "Managerial Economics and Decision Sciences",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -308,7 +308,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "sheryl-ball"
  },
  {
@@ -321,15 +321,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Virginia Polytechnic Institute and State University",
+  "phd_year": 2000,
+  "phd_field": "Economics",
+  "ma_institution": "Delhi School of Economics | Virginia Polytechnic Institute and State University",
+  "ma_year": "1993 | 1997",
+  "ma_field": "Economics | Economics",
+  "ba_institution": "University of Delhi",
+  "ba_year": 1991,
+  "ba_field": "Economics (Honours)",
   "education_raw": null,
   "homepage_url": "https://www.sudiptasarangi.com/",
   "profile_url": "https://econ.vt.edu/people/faculty.html",
@@ -340,12 +340,12 @@
   "source_url": "https://econ.vt.edu/people/faculty.html",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
+  "phd_advisors": "Hans Haller | Robert P. Gilles",
   "first_job_after_phd": null,
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "sudipta-sarangi"
  },
  {
@@ -561,9 +561,9 @@
   "fields_std": [
    "Macroeconomics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "Columbia University",
+  "phd_year": 2016,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -585,7 +585,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "shaowen-luo"
  },
  {
@@ -643,9 +643,9 @@
    "International Finance",
    "Microeconomic Theory"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "London School of Economics and Political Science",
+  "phd_year": 2017,
+  "phd_field": "Statistics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -663,11 +663,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Department of Economics and Computational Modeling and Data Analytics, Virginia Tech (2018-present)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "ali-habibnia"
  },
  {
@@ -717,9 +717,9 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of Notre Dame",
+  "phd_year": 2023,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -741,7 +741,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "brianna-felegi"
  },
  {
@@ -1148,7 +1148,7 @@
    "Business Ethics & Society"
   ],
   "phd_institution": "University of Connecticut",
-  "phd_year": null,
+  "phd_year": 2008,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1171,7 +1171,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "ling-lisic"
  },
  {
@@ -1226,7 +1226,7 @@
    "Corporate Finance"
   ],
   "phd_institution": "University of Chicago",
-  "phd_year": null,
+  "phd_year": 2011,
   "phd_field": null,
   "ma_institution": "University of Chicago",
   "ma_year": null,
@@ -1249,7 +1249,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "robert-davidson"
  },
  {
@@ -1343,7 +1343,7 @@
    "Accounting"
   ],
   "phd_institution": "University of Iowa",
-  "phd_year": null,
+  "phd_year": 2011,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1366,7 +1366,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "andrew-acito"
  },
  {
@@ -1383,7 +1383,7 @@
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "University of Oregon",
-  "phd_year": null,
+  "phd_year": 2014,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1406,7 +1406,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "jingjing-huang"
  },
  {
@@ -1422,7 +1422,7 @@
    "Corporate Finance"
   ],
   "phd_institution": "Northwestern University",
-  "phd_year": null,
+  "phd_year": 2019,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1445,7 +1445,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "liang-tan"
  },
  {
@@ -1578,7 +1578,7 @@
    "Accounting"
   ],
   "phd_institution": "University of Tennessee",
-  "phd_year": null,
+  "phd_year": 2002,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1601,7 +1601,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "michelle-harding"
  },
  {
@@ -1812,15 +1812,15 @@
   "fields_std": [
    "Information Systems"
   ],
-  "phd_institution": null,
+  "phd_institution": "Carnegie Mellon University",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Information Systems and Management",
+  "ma_institution": "Virginia Tech",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "MBA",
+  "ba_institution": "Virginia Tech",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Information Technology",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://pamplin.vt.edu/bios/idris-adjerid.html",
@@ -1836,7 +1836,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "idris-adjerid"
  },
  {
@@ -1851,15 +1851,15 @@
   "fields_std": [
    "Information Systems"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of Wisconsin-Madison",
+  "phd_year": 2008,
+  "phd_field": "Information Systems",
+  "ma_institution": "University of Wisconsin-Madison | University of Wisconsin-Madison",
+  "ma_year": "2003 | 2000",
+  "ma_field": "Finance and Investment Banking (MBA) | Electrical and Computer Engineering (M.S.)",
+  "ba_institution": "American University of Beirut",
+  "ba_year": 1998,
+  "ba_field": "Computer and Communication Engineering",
   "education_raw": null,
   "homepage_url": "http://www.khansa.bit.vt.edu/",
   "profile_url": "https://pamplin.vt.edu/bios/lara-khansa.html",
@@ -1871,11 +1871,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Business Information Technology, Virginia Tech (2008-2013)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "lara-khansa"
  },
  {
@@ -1929,12 +1929,12 @@
   "fields_std": [
    "Information Systems"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Arizona",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Management Information Systems",
+  "ma_institution": "Marriott School of Business",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "MBA",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1953,7 +1953,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "paul-lowry"
  },
  {
@@ -2164,7 +2164,7 @@
    "Information Systems"
   ],
   "phd_institution": "University of Florida",
-  "phd_year": null,
+  "phd_year": 2006,
   "phd_field": "Operations Research",
   "ma_institution": null,
   "ma_year": null,
@@ -2187,7 +2187,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "onur-seref"
  },
  {
@@ -2594,7 +2594,7 @@
    "Corporate Finance"
   ],
   "phd_institution": "George Washington University",
-  "phd_year": null,
+  "phd_year": 1999,
   "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
@@ -2617,7 +2617,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "sattar-mansi"
  },
  {
@@ -2749,8 +2749,8 @@
   "fields_std": [
    "Corporate Finance"
   ],
-  "phd_institution": null,
-  "phd_year": null,
+  "phd_institution": "Texas A&M University",
+  "phd_year": 1982,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -2773,7 +2773,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "randall-billingsley"
  },
  {
@@ -2827,7 +2827,7 @@
   "fields_std": [
    "Corporate Finance"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Minnesota",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -2851,7 +2851,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "alexandre-reggi-pecora"
  },
  {
@@ -2905,7 +2905,7 @@
   "fields_std": [
    "Corporate Finance"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of North Carolina at Chapel Hill",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -2925,11 +2925,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Research Associate, Cornerstone Research (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "gregory-leonard"
  },
  {
@@ -3655,7 +3655,7 @@
    "Management & Organizations"
   ],
   "phd_institution": "University of Minnesota",
-  "phd_year": null,
+  "phd_year": 2018,
   "phd_field": "Business Administration",
   "ma_institution": "INCAE Business School",
   "ma_year": null,
@@ -3678,7 +3678,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "pankaj-kumar"
  },
  {
@@ -3849,15 +3849,15 @@
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": null,
+  "phd_institution": "Carnegie-Mellon University",
   "phd_year": 1979,
   "phd_field": "Industrial Administration",
-  "ma_institution": null,
-  "ma_year": "1976",
-  "ma_field": "Marketing",
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Carnegie-Mellon University | Carnegie-Mellon University",
+  "ma_year": "1976 | 1976",
+  "ma_field": "Industrial Administration | Marketing",
+  "ba_institution": "Presidency College, University of Calcutta",
+  "ba_year": 1969,
+  "ba_field": "Physics (Honors)",
   "education_raw": "M.S. (Marketing) 1976 | Ph.D. (Industrial Administration) 1979 | MBA: Marketing Management & Strategy; Managerial Decision Behavior in Marketing; Social Entrepreneurship in Emerging Markets | Ph.D.: Advanced Marketing Management and Strategy; Qualitative and Survey Research Methods; Consumer & Managerial Judgment and Decision Making",
   "homepage_url": null,
   "profile_url": "https://pamplin.vt.edu/bios/dipankar-chakravarti.html",
@@ -3869,11 +3869,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant/Associate Professor, University of Florida (1978-1986)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "dipankar-chakravarti"
  },
  {
@@ -3928,7 +3928,7 @@
    "Marketing"
   ],
   "phd_institution": "Carnegie Mellon University",
-  "phd_year": null,
+  "phd_year": 2011,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -3951,7 +3951,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "meng-zhu"
  },
  {
@@ -3966,15 +3966,15 @@
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of Colorado Boulder",
+  "phd_year": 2008,
+  "phd_field": "Marketing",
+  "ma_institution": "University of Cincinnati",
+  "ma_year": 2000,
+  "ma_field": "Environmental Engineering",
+  "ba_institution": "Indian Institute of Technology (IIT) Mumbai",
+  "ba_year": 1998,
+  "ba_field": "Civil Engineering (B.Tech)",
   "education_raw": null,
   "homepage_url": null,
   "profile_url": "https://pamplin.vt.edu/bios/rajesh-bagchi.html",
@@ -3986,11 +3986,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Virginia Tech (2008-2012)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "rajesh-bagchi"
  },
  {
@@ -4161,9 +4161,9 @@
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": null,
+  "phd_institution": "Northwestern University (Kellogg School of Management)",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Marketing",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -4185,7 +4185,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "broderick-turner"
  },
  {
@@ -4241,15 +4241,15 @@
    "Econometrics",
    "Business Ethics & Society"
   ],
-  "phd_institution": null,
+  "phd_institution": "Tilburg University",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Marketing",
+  "ma_institution": "Tilburg University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "M.Phil. Economics",
+  "ba_institution": "Shanghai Jiao Tong University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Physics",
   "education_raw": null,
   "homepage_url": "https://sites.google.com/view/yanxu/home",
   "profile_url": "https://pamplin.vt.edu/bios/yan-xu.html",
@@ -4265,7 +4265,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "yan-xu"
  },
  {
@@ -4446,7 +4446,7 @@
    "Health Economics"
   ],
   "phd_institution": "University of Illinois at Urbana-Champaign",
-  "phd_year": null,
+  "phd_year": 2005,
   "phd_field": "Agricultural and Consumer Economics",
   "ma_institution": "University of Illinois at Urbana-Champaign",
   "ma_year": null,
@@ -4469,7 +4469,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "karl-rich"
  },
  {
@@ -4688,7 +4688,7 @@
    "Urban & Regional Economics"
   ],
   "phd_institution": "Virginia Tech",
-  "phd_year": null,
+  "phd_year": 2011,
   "phd_field": "Applied Economics",
   "ma_institution": "University of Maine - Resource Economics and Policy",
   "ma_year": null,
@@ -4711,7 +4711,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "catherine-larochelle"
  },
  {
@@ -4930,7 +4930,7 @@
    "Econometrics"
   ],
   "phd_institution": "UC Davis",
-  "phd_year": null,
+  "phd_year": 2019,
   "phd_field": "Agricultural and Resource Economics",
   "ma_institution": "University of Arizona | Delhi School of Economics",
   "ma_year": " | ",
@@ -4953,7 +4953,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "anubhab-gupta"
  },
  {
@@ -5050,15 +5050,15 @@
   "fields_std": [
    "Agricultural & Resource Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
+  "phd_institution": "Purdue University",
+  "phd_year": 2022,
   "phd_field": "Agricultural Economics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Kansas State University",
+  "ma_year": 2015,
+  "ma_field": "Agricultural Economics",
+  "ba_institution": "Panamerican Agricultural School Zamorano",
+  "ba_year": 2011,
+  "ba_field": "Agribusiness Administration",
   "education_raw": "Doctor of Philosophy in Agricultural Economics | Master of Science in Agricultural Economics | Bachelor of Science in Agribusiness Administration",
   "homepage_url": null,
   "profile_url": "https://aaec.vt.edu/people/faculty/ortez.html",
@@ -5070,11 +5070,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Investment Associate, Teays River Investments (2022-2024)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "mario-ortez"
  },
  {
@@ -5130,7 +5130,7 @@
    "Agricultural & Resource Economics"
   ],
   "phd_institution": "University of Florida",
-  "phd_year": null,
+  "phd_year": 2019,
   "phd_field": "Agricultural Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -5153,7 +5153,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "shourish-chakravarty"
  },
  {

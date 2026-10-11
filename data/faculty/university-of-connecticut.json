@@ -11,9 +11,9 @@
   "fields_std": [
    "Other"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "SUNY at Stony Brook",
+  "phd_year": 1983,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -373,7 +373,7 @@
    "Econometrics"
   ],
   "phd_institution": "University of California, Santa Barbara",
-  "phd_year": null,
+  "phd_year": 1981,
   "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -1094,9 +1094,9 @@
   "fields_std": [
    "Law & Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Arizona",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -1114,7 +1114,7 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Economics, University of Connecticut (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
@@ -1445,9 +1445,9 @@
   "fields_std": [
    "Accounting"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "University of Florida",
+  "phd_year": 2014,
+  "phd_field": "Accounting",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -3491,7 +3491,7 @@
    "Information Systems",
    "Labor Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "Arizona State University",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -3511,7 +3511,7 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Operations and Information Management, University of Connecticut (2019-)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,

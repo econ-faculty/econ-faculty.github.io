@@ -1305,9 +1305,9 @@
   "fields_std": [
    "Macroeconomics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of California San Diego",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -1345,8 +1345,8 @@
    "Microeconomic Theory",
    "Labor Economics"
   ],
-  "phd_institution": null,
-  "phd_year": null,
+  "phd_institution": "Northwestern University",
+  "phd_year": 2023,
   "phd_field": null,
   "ma_institution": null,
   "ma_year": null,
@@ -1365,7 +1365,7 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, University of Illinois Urbana-Champaign (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
