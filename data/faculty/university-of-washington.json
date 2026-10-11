@@ -1210,10 +1210,7 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": [
-   "Accounting Information and Macroeconomy",
-   "Accounting Information and Asset Prices"
-  ],
+  "fields_raw": "Accounting Information and Macroeconomy; Accounting Information and Asset Prices",
   "fields_std": [
    "Accounting",
    "Asset Pricing",
@@ -1372,10 +1369,7 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": [
-   "credibility of sustainability reporting & practices",
-   "incentives & compensation"
-  ],
+  "fields_raw": "credibility of sustainability reporting & practices; incentives & compensation",
   "fields_std": [
    "Accounting",
    "Corporate Finance"
@@ -1696,13 +1690,7 @@
   "unit_type": "business",
   "area": "Finance & Business Economics",
   "other_units": null,
-  "fields_raw": [
-   "Household and Behavioral Finance",
-   "International Finance",
-   "Empirical Asset Pricing",
-   "International and Emerging Market Finance",
-   "Capital Markets"
-  ],
+  "fields_raw": "Household and Behavioral Finance; International Finance; Empirical Asset Pricing; International and Emerging Market Finance; Capital Markets",
   "fields_std": [
    "Financial Economics",
    "Asset Pricing",
@@ -1784,13 +1772,7 @@
   "unit_type": "business",
   "area": "Finance & Business Economics",
   "other_units": null,
-  "fields_raw": [
-   "Corporate Finance",
-   "Executive Compensation",
-   "Structured Finance",
-   "Credit Ratings",
-   "Household Finance"
-  ],
+  "fields_raw": "Corporate Finance; Executive Compensation; Structured Finance; Credit Ratings; Household Finance",
   "fields_std": [
    "Corporate Finance",
    "Financial Economics",
@@ -2194,11 +2176,7 @@
   "unit_type": "business",
   "area": "Information Systems & Operations Management",
   "other_units": null,
-  "fields_raw": [
-   "Stochastic Models in Production/Operations Management",
-   "Inventory Management",
-   "Supply Chain Management"
-  ],
+  "fields_raw": "Stochastic Models in Production/Operations Management; Inventory Management; Supply Chain Management",
   "fields_std": [
    "Operations Management"
   ],
@@ -3193,13 +3171,7 @@
   "unit_type": "business",
   "area": "Management & Organization",
   "other_units": null,
-  "fields_raw": [
-   "Human and organizational learning – adult learning, lifelong learning, e-learning, transfer of learning",
-   "Educational policy analysis within international and comparative education",
-   "Investment in human capital development",
-   "Emotional intelligence and leadership development",
-   "Organizational development and change"
-  ],
+  "fields_raw": "Human and organizational learning – adult learning, lifelong learning, e-learning, transfer of learning; Educational policy analysis within international and comparative education; Investment in human capital development; Emotional intelligence and leadership development; Organizational development and change",
   "fields_std": [
    "Management & Organizations",
    "Economics of Education"
@@ -3320,12 +3292,7 @@
   "unit_type": "business",
   "area": "Management & Organization",
   "other_units": null,
-  "fields_raw": [
-   "Moral Awareness",
-   "Moral Intuition",
-   "Moral Decision-Making",
-   "Identification of Moral Issues"
-  ],
+  "fields_raw": "Moral Awareness; Moral Intuition; Moral Decision-Making; Identification of Moral Issues",
   "fields_std": [
    "Business Ethics & Society",
    "Organizational Behavior"
@@ -3847,14 +3814,7 @@
   "unit_type": "business",
   "area": "Marketing & International Business",
   "other_units": null,
-  "fields_raw": [
-   "Competitive Strategy",
-   "Digital Marketing",
-   "Online Advertising",
-   "Pricing",
-   "Auction Theory",
-   "Economics of Social Networks and Online Markets"
-  ],
+  "fields_raw": "Competitive Strategy; Digital Marketing; Online Advertising; Pricing; Auction Theory; Economics of Social Networks and Online Markets",
   "fields_std": [
    "Marketing",
    "Industrial Organization",
@@ -3974,13 +3934,7 @@
   "unit_type": "business",
   "area": "Marketing & International Business",
   "other_units": null,
-  "fields_raw": [
-   "Pricing",
-   "Cloud Computing",
-   "Product Returns",
-   "Decisions under Limited Information",
-   "Marketing-Operations Interface"
-  ],
+  "fields_raw": "Pricing; Cloud Computing; Product Returns; Decisions under Limited Information; Marketing-Operations Interface",
   "fields_std": [
    "Marketing",
    "Operations Management"
@@ -4099,12 +4053,7 @@
   "unit_type": "business",
   "area": "Marketing & International Business",
   "other_units": null,
-  "fields_raw": [
-   "Search Engine Marketing & Online Advertising",
-   "Bayesian Dynamics",
-   "Sparse Data",
-   "Response & Attribution Models"
-  ],
+  "fields_raw": "Search Engine Marketing & Online Advertising; Bayesian Dynamics; Sparse Data; Response & Attribution Models",
   "fields_std": [
    "Marketing",
    "Data Science & Analytics"

@@ -355,6 +355,8 @@ def do_import(raw_dir):
                 rec["detail_source"] = e.get("source")
                 if e.get("notes"):
                     rec["notes"] = "; ".join(x for x in [rec.get("notes"), e["notes"]] if x)
+            if isinstance(rec.get("fields_raw"), list):  # some extraction agents emit a list
+                rec["fields_raw"] = "; ".join(str(x) for x in rec["fields_raw"] if x) or None
             seen[key] = len(out)
             out.append(rec)
         out.sort(key=lambda r: (UNIT_TYPES.index(r["unit_type"]), r.get("unit") or "", r.get("area") or "", RANKS.index(r["rank_std"]), r["name"]))
