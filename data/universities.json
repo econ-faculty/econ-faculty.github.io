@@ -160,6 +160,98 @@
   "city": "Minneapolis, MN"
  },
  {
+  "id": "boston-university",
+  "name": "Boston University",
+  "short": "BU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Boston, MA"
+ },
+ {
+  "id": "carnegie-mellon-university",
+  "name": "Carnegie Mellon University",
+  "short": "CMU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Pittsburgh, PA"
+ },
+ {
+  "id": "johns-hopkins-university",
+  "name": "Johns Hopkins University",
+  "short": "JHU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Baltimore, MD"
+ },
+ {
+  "id": "university-of-maryland-college-park",
+  "name": "University of Maryland, College Park",
+  "short": "UMD",
+  "country": "United States",
+  "region": "North America",
+  "city": "College Park, MD"
+ },
+ {
+  "id": "washington-university-in-st-louis",
+  "name": "Washington University in St. Louis",
+  "short": "WashU",
+  "country": "United States",
+  "region": "North America",
+  "city": "St. Louis, MO"
+ },
+ {
+  "id": "university-of-texas-at-austin",
+  "name": "The University of Texas at Austin",
+  "short": "UT Austin",
+  "country": "United States",
+  "region": "North America",
+  "city": "Austin, TX",
+  "aliases": [
+   "University of Texas at Austin",
+   "the-university-of-texas-at-austin"
+  ]
+ },
+ {
+  "id": "pennsylvania-state-university",
+  "name": "The Pennsylvania State University",
+  "short": "Penn State",
+  "country": "United States",
+  "region": "North America",
+  "city": "University Park, PA",
+  "aliases": [
+   "Pennsylvania State University",
+   "the-pennsylvania-state-university"
+  ]
+ },
+ {
+  "id": "university-of-rochester",
+  "name": "University of Rochester",
+  "short": "Rochester",
+  "country": "United States",
+  "region": "North America",
+  "city": "Rochester, NY"
+ },
+ {
+  "id": "university-of-virginia",
+  "name": "University of Virginia",
+  "short": "UVA",
+  "country": "United States",
+  "region": "North America",
+  "city": "Charlottesville, VA"
+ },
+ {
+  "id": "university-of-north-carolina-at-chapel-hill",
+  "name": "The University of North Carolina at Chapel Hill",
+  "short": "UNC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chapel Hill, NC",
+  "aliases": [
+   "University of North Carolina at Chapel Hill",
+   "the-university-of-north-carolina-at-chapel-hill"
+  ]
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",
