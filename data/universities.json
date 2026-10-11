@@ -599,6 +599,126 @@
   "city": "Tallahassee, FL"
  },
  {
+  "id": "university-of-connecticut",
+  "name": "University of Connecticut",
+  "short": "UConn",
+  "country": "United States",
+  "region": "North America",
+  "city": "Storrs, CT"
+ },
+ {
+  "id": "university-of-illinois-chicago",
+  "name": "University of Illinois Chicago",
+  "short": "UIC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chicago, IL"
+ },
+ {
+  "id": "university-of-massachusetts-amherst",
+  "name": "University of Massachusetts Amherst",
+  "short": "UMass Amherst",
+  "country": "United States",
+  "region": "North America",
+  "city": "Amherst, MA"
+ },
+ {
+  "id": "binghamton-university",
+  "name": "Binghamton University",
+  "short": "Binghamton",
+  "country": "United States",
+  "region": "North America",
+  "city": "Binghamton, NY"
+ },
+ {
+  "id": "tulane-university",
+  "name": "Tulane University",
+  "short": "Tulane",
+  "country": "United States",
+  "region": "North America",
+  "city": "New Orleans, LA"
+ },
+ {
+  "id": "university-of-kentucky",
+  "name": "University of Kentucky",
+  "short": "Kentucky",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lexington, KY"
+ },
+ {
+  "id": "university-of-miami",
+  "name": "University of Miami",
+  "short": "Miami",
+  "country": "United States",
+  "region": "North America",
+  "city": "Coral Gables, FL"
+ },
+ {
+  "id": "american-university",
+  "name": "American University",
+  "short": "American",
+  "country": "United States",
+  "region": "North America",
+  "city": "Washington, DC"
+ },
+ {
+  "id": "clemson-university",
+  "name": "Clemson University",
+  "short": "Clemson",
+  "country": "United States",
+  "region": "North America",
+  "city": "Clemson, SC"
+ },
+ {
+  "id": "george-mason-university",
+  "name": "George Mason University",
+  "short": "George Mason",
+  "country": "United States",
+  "region": "North America",
+  "city": "Fairfax, VA"
+ },
+ {
+  "id": "northeastern-university",
+  "name": "Northeastern University",
+  "short": "Northeastern",
+  "country": "United States",
+  "region": "North America",
+  "city": "Boston, MA"
+ },
+ {
+  "id": "university-at-albany",
+  "name": "University at Albany",
+  "short": "UAlbany",
+  "country": "United States",
+  "region": "North America",
+  "city": "Albany, NY"
+ },
+ {
+  "id": "university-at-buffalo",
+  "name": "University at Buffalo",
+  "short": "UB",
+  "country": "United States",
+  "region": "North America",
+  "city": "Buffalo, NY"
+ },
+ {
+  "id": "university-of-alabama",
+  "name": "University of Alabama",
+  "short": "Alabama",
+  "country": "United States",
+  "region": "North America",
+  "city": "Tuscaloosa, AL"
+ },
+ {
+  "id": "university-of-kansas",
+  "name": "University of Kansas",
+  "short": "Kansas",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lawrence, KS"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",

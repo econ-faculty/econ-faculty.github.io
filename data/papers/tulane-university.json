@@ -1,0 +1,3797 @@
+{
+"amin sabzehzar": {
+"name": "Amin Sabzehzar",
+"papers": []
+},
+"benjamin king": {
+"name": "Benjamin King",
+"papers": []
+},
+"cameron verhaal": {
+"name": "Cameron Verhaal",
+"papers": []
+},
+"carmen weigelt": {
+"name": "Carmen Weigelt",
+"papers": []
+},
+"chris hydock": {
+"name": "Chris Hydock",
+"papers": []
+},
+"claire senot": {
+"name": "Claire Senot",
+"papers": [
+{
+"title": "Distribution of Ophthalmologists and Optometrists in the US",
+"authors": [
+"Kastl, P.",
+"C. Senot",
+"Y. Hegde"
+],
+"year": null,
+"venue": "JAMA Ophthalmology",
+"status": "published"
+},
+{
+"title": "Hold Me Accountable: Anonymity and Prosocial Behavior in Services",
+"authors": [
+"Glew, R.",
+"C. Senot"
+],
+"year": 2025,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Novelty and scope of process innovation: The role of related and unrelated manufacturing experience",
+"authors": [
+"Lugovoi, I.",
+"D. Andritsos",
+"C. Senot"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Manufacturing Process Innovation in the Pharmaceutical Industry",
+"authors": [
+"Lugovoi, I.",
+"D. Andritsos",
+"C. Senot"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Reflections on Continuity of Care and Risk of Readmission",
+"authors": [
+"C. Senot"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Continuity of Care and Risk of Readmission: An investigation into the Healthcare Journey of Heart Failure Patients",
+"authors": [
+"C. Senot"
+],
+"year": 2019,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Collaboration between Service Professionals during the Delivery of Health Care: Evidence from a Multiple-Case Study in U.S. Hospitals",
+"authors": [
+"C. Senot",
+"A. Chandrasekaran",
+"P.T. Ward"
+],
+"year": 2016,
+"venue": "Journal of Operations Management",
+"status": "published"
+},
+{
+"title": "The Impact of Combining Conformance and Experiential Quality on Hospitals' Readmissions and Cost Performance",
+"authors": [
+"C. Senot",
+"A. Chandrasekaran",
+"P.T. Ward",
+"A.L. Tucker",
+"S.D. Moffatt-Bruce"
+],
+"year": 2016,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Role of Bottom-up Decision Processes in Improving the Quality of Health Care Delivery: A Contingency Perspective",
+"authors": [
+"C. Senot",
+"A. Chandrasekaran",
+"P.T. Ward"
+],
+"year": 2016,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Process Management Impact on Clinical and Experiential Quality: Managing Tensions between Safe and Patient-Centered Healthcare",
+"authors": [
+"A. Chandrasekaran",
+"C. Senot",
+"K.K. Boyer"
+],
+"year": 2012,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+}
+]
+},
+"daniel mochon": {
+"name": "Daniel Mochon",
+"papers": [
+{
+"title": "Can reminder emails compel Americans to save? A two-million person megastudy",
+"authors": [
+"Milkman, K.L.",
+"Ellis, S.F.",
+"Gromet, D.M.",
+"DeMay, I.M.",
+"Graci, H.N.",
+"Jung, Y.",
+"Mobarak, R.S.",
+"Silvera Zumaran, R.A.",
+"Simmons, M.N.",
+"Van den Bulte, C.",
+"Benartzi, S.",
+"Hilchey, M.",
+"Goodyear, L.",
+"Karlan, D.",
+"Mazar, N.",
+"Mochon, D.",
+"Shah, A.M.",
+"Soman, D.",
+"Zinman, J.",
+"Duckworth, A.L."
+],
+"year": 2025,
+"venue": "PNAS Nexus",
+"status": "published"
+},
+{
+"title": "The confrontation effect: When users engage more with ideology-inconsistent content online",
+"authors": [
+"Mochon, D.",
+"Schwartz, J."
+],
+"year": 2024,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "Reference-dependent risk-taking in the NBA",
+"authors": [
+"Mochon, D."
+],
+"year": 2024,
+"venue": "Journal of Behavioral Decision Making",
+"status": "published"
+},
+{
+"title": "The importance of construct validity in consumer research",
+"authors": [
+"Mochon, D.",
+"Schwartz, J."
+],
+"year": 2020,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "If you are going to pay within the next 24 hours, press 1: Automatic planning prompt reduces credit card delinquency",
+"authors": [
+"Mazar, N.",
+"Mochon, D.",
+"Ariely, D."
+],
+"year": 2018,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "How much is a like worth? A Facebook page field experiment",
+"authors": [
+"Mochon, D.",
+"Johnson, K.",
+"Schwartz, J.",
+"Ariely, D."
+],
+"year": 2017,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Gain without pain: The extended effects of a behavioral health intervention",
+"authors": [
+"Mochon, D.",
+"Schwartz, J.",
+"Maroba, J.",
+"Patel, D.",
+"Ariely, D."
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Healthier by pre-commitment",
+"authors": [
+"Schwartz, J.",
+"Mochon, D.",
+"Wyper, L.",
+"Maroba, J.",
+"Patel, D.",
+"Ariely, D."
+],
+"year": 2014,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "Single option aversion",
+"authors": [
+"Mochon, D."
+],
+"year": 2013,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "Anchoring in sequential judgments",
+"authors": [
+"Mochon, D.",
+"Frederick, S."
+],
+"year": 2013,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "Bolstering and restoring feelings of competence via the IKEA effect",
+"authors": [
+"Mochon, D.",
+"Norton, M.I.",
+"Ariely, D."
+],
+"year": 2012,
+"venue": "International Journal of Research in Marketing",
+"status": "published"
+},
+{
+"title": "The IKEA effect: When labor leads to love",
+"authors": [
+"Norton, M.I.",
+"Mochon, D.",
+"Ariely, D."
+],
+"year": 2012,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "A scale distortion theory of anchoring",
+"authors": [
+"Frederick, S.",
+"Mochon, D."
+],
+"year": 2012,
+"venue": "Journal of Experimental Psychology: General",
+"status": "published"
+},
+{
+"title": "Why are lotteries valued less? Multiple tests of a direct risk-aversion mechanism",
+"authors": [
+"Newman, G.E.",
+"Mochon, D."
+],
+"year": 2012,
+"venue": "Judgment and Decision Making",
+"status": "published"
+},
+{
+"title": "Who benefits from religion?",
+"authors": [
+"Mochon, D.",
+"Norton, M.I.",
+"Ariely, D."
+],
+"year": 2011,
+"venue": "Social Indicators Research",
+"status": "published"
+},
+{
+"title": "Characterizing perceptions of energy consumption",
+"authors": [
+"Frederick, S.",
+"Meyer, A.",
+"Mochon, D."
+],
+"year": 2011,
+"venue": "Proceedings of the National Academy of Sciences",
+"status": "published"
+},
+{
+"title": "Elaborating a simpler theory of anchoring",
+"authors": [
+"Frederick, S.",
+"Kahneman, D.",
+"Mochon, D."
+],
+"year": 2010,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "Getting off the hedonic treadmill, one step at a time: The impact of regular religious practice and exercise on well-being",
+"authors": [
+"Mochon, D.",
+"Norton, M.I.",
+"Ariely, D."
+],
+"year": 2008,
+"venue": "Journal of Economic Psychology",
+"status": "published"
+},
+{
+"title": "Selective vs. unselective romantic desire: Not all reciprocity is created equal",
+"authors": [
+"Eastwick, P.W.",
+"Finkel, E.J.",
+"Mochon, D.",
+"Ariely, D."
+],
+"year": 2007,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "Causal models frame interpretation of mathematical equations",
+"authors": [
+"Mochon, D.",
+"Sloman, S.A."
+],
+"year": 2004,
+"venue": "Psychonomic Bulletin and Review",
+"status": "published"
+},
+{
+"title": "Auditory and visual P300 amplitude reduction in patients with prodromal symptoms of schizophrenia",
+"authors": [
+"Mathalon, D.H.",
+"Woods, S.W.",
+"Miller, T.J.",
+"Maher, S.M.",
+"Mochon, D.",
+"Oustinovskaya, M.",
+"McGlashan, T.H."
+],
+"year": 2004,
+"venue": "Biological Psychiatry",
+"status": "published"
+}
+]
+},
+"daniel walters": {
+"name": "Daniel Walters",
+"papers": []
+},
+"dave lesmond": {
+"name": "Dave Lesmond",
+"papers": []
+},
+"deen kemsley": {
+"name": "Deen Kemsley",
+"papers": []
+},
+"fariba farajbakhsh mamaghani": {
+"name": "Fariba Farajbakhsh Mamaghani",
+"papers": []
+},
+"gans narayanamoorthy": {
+"name": "Gans Narayanamoorthy",
+"papers": []
+},
+"gus de franco": {
+"name": "Gus De Franco",
+"papers": []
+},
+"harish sujan": {
+"name": "Harish Sujan",
+"papers": []
+},
+"hongseok jang": {
+"name": "Hongseok Jang",
+"papers": []
+},
+"jake krupa": {
+"name": "Jake Krupa",
+"papers": []
+},
+"jasmijn bol": {
+"name": "Jasmijn Bol",
+"papers": []
+},
+"john page": {
+"name": "John Page",
+"papers": []
+},
+"landon ross": {
+"name": "Landon Ross",
+"papers": []
+},
+"larisa cioaca": {
+"name": "Larisa Cioaca",
+"papers": [
+{
+"title": "Guaranteed Demand and Corporate R&D",
+"authors": [
+"Larisa Cioaca",
+"Sharon Belenzon"
+],
+"year": null,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Effect of University Science on Corporate Innovation",
+"authors": [
+"Larisa Cioaca",
+"Ashish Arora",
+"Sharon Belenzon",
+"Lia Sheer",
+"Hansen Zhang"
+],
+"year": null,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Government-Funded Experimentation: How Startups Use R&D Contracts to Resolve Uncertainty",
+"authors": [
+"Larisa Cioaca"
+],
+"year": null,
+"venue": "Strategic Entrepreneurship Journal",
+"status": "forthcoming"
+},
+{
+"title": "The Private Value of Innovating for the Government",
+"authors": [
+"Larisa Cioaca",
+"Ashish Arora",
+"Sharon Belenzon",
+"Elia Ferracuti"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Who Appropriates Corporate Science?",
+"authors": [
+"Larisa Cioaca",
+"Ashish Arora",
+"Sharon Belenzon",
+"Lia Sheer",
+"Dror Shvadron"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Short-Cycle Experimentation and Uncertainty Regimes",
+"authors": [
+"Larisa Cioaca"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Who Funds Science-Based Startups?",
+"authors": [
+"Larisa Cioaca",
+"Honggi Lee",
+"Lia Sheer"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Funding Sources and Performance in High-Tech Startups",
+"authors": [
+"Larisa Cioaca",
+"Ashish Arora",
+"Sharon Belenzon"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"lisa laviers": {
+"name": "Lisa LaViers",
+"papers": []
+},
+"matthew higgins": {
+"name": "Matthew Higgins",
+"papers": []
+},
+"michael burke": {
+"name": "Michael Burke",
+"papers": []
+},
+"min young lee": {
+"name": "Min Young Lee",
+"papers": [
+{
+"title": "Moving toward, moving away, or stuck in conceptual limbo? Rethinking approach, avoidance, and inhibition in organizational research",
+"authors": [
+"Sherf, E. N.",
+"Lee, M. Y.",
+"McElroy, T."
+],
+"year": null,
+"venue": "Academy of Management Annals",
+"status": "forthcoming"
+},
+{
+"title": "Perceived personal and contextual impunity: Conceptualization, antecedents, and implications for workplace misconduct",
+"authors": [
+"Lee, M. Y.",
+"Badura, K. L.",
+"Baker, B.",
+"Sherf, E. N."
+],
+"year": 2024,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Leadership emergence: An integrative review",
+"authors": [
+"Badura, K. L.",
+"Galvin, B. M.",
+"Lee, M. Y."
+],
+"year": 2022,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+}
+]
+},
+"mita sujan": {
+"name": "Mita Sujan",
+"papers": []
+},
+"mo wang": {
+"name": "Mo Wang",
+"papers": []
+},
+"natalie longmire": {
+"name": "Natalie Longmire",
+"papers": []
+},
+"navid neshat": {
+"name": "Navid Neshat",
+"papers": [
+{
+"title": "When Political Connections Backfire: Protests, Asset Damage, and Firms' Response",
+"authors": [
+"Navid Neshat"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Promise in the Name of God",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Do Politicians Conceal Private Returns Under Asset Disclosures? The Valuation Channel",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Does Discretized Information Induce Misperception? Evidence from a Sports Betting Market",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim",
+"Yumeng Lai"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Drives Household Responses to Corporate Social Irresponsibility?",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim"
+],
+"year": null,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "revise_resubmit"
+},
+{
+"title": "Tailored to Fail? Gendered Communication in Credit Markets",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Forming Banking Relationships: The Role of Hiring Bankers",
+"authors": [
+"Navid Neshat",
+"Ankit Kalda"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Political Economy of Labor-Reducing Technology: Evidence from State-Owned Banks",
+"authors": [
+"Navid Neshat",
+"Kristoph Kleiner"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Learning by Hiring",
+"authors": [
+"Navid Neshat",
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Who Flies to Liquidity under Geopolitical Risk? Evidence from Millions of Bank Transactions",
+"authors": [
+"Navid Neshat"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"nicholas herzog": {
+"name": "Nicholas Herzog",
+"papers": []
+},
+"nishad kapadia": {
+"name": "Nishad Kapadia",
+"papers": [
+{
+"title": "Firm-specific risk and equity market development",
+"authors": [
+"Nishad Kapadia",
+"Gregory W. Brown"
+],
+"year": 2007,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Tracking down distress risk",
+"authors": [
+"Nishad Kapadia"
+],
+"year": 2011,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Death and jackpot: why do individual investors hold overpriced stocks?",
+"authors": [
+"Nishad Kapadia",
+"Jennifer Conrad",
+"Yuhang Xing"
+],
+"year": 2014,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Davids, Goliaths and business cycles",
+"authors": [
+"Nishad Kapadia",
+"Jefferson Duarte"
+],
+"year": 2017,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Safe Minus Risky: Do Investors Pay a Premium for Stocks that Hedge Stock Market Downturns?",
+"authors": [
+"Nishad Kapadia",
+"Barbara Ostdiek",
+"James Weston",
+"Morad Zekhnini"
+],
+"year": 2019,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Do Idiosyncratic Jumps Matter?",
+"authors": [
+"Nishad Kapadia",
+"Morad Zekhnini"
+],
+"year": 2019,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "On the information content of ratings and market-based estimates of credit risk",
+"authors": [
+"Nishad Kapadia",
+"Oleg Gredil",
+"Junghoon Lee"
+],
+"year": 2022,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "One vol to rule them all",
+"authors": [
+"Nishad Kapadia",
+"Mathew Linn",
+"Bradley Paye"
+],
+"year": 2024,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Estimating the cost of equity: Why do simple benchmarks outperform factor models?",
+"authors": [
+"Nishad Kapadia"
+],
+"year": 2015,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Testing Factor Models on Characteristic and Covariance Pure Plays",
+"authors": [
+"Nishad Kapadia",
+"Kerry Back",
+"Barbara Ostdiek"
+],
+"year": 2015,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Slopes as Factors: Characteristic Pure Plays",
+"authors": [
+"Nishad Kapadia",
+"Kerry Back",
+"Barbara Ostdiek"
+],
+"year": 2013,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The next Microsoft? Skewness, idiosyncratic volatility, and expected returns",
+"authors": [
+"Nishad Kapadia"
+],
+"year": 2007,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"oleg gredil": {
+"name": "Oleg Gredil",
+"papers": []
+},
+"pradeep muthukrishnan": {
+"name": "Pradeep Muthukrishnan",
+"papers": [
+{
+"title": "Corporate Hiring under Covid-19: Financial Constraints and the Nature of New Jobs",
+"authors": [
+"Pradeep Muthukrishnan",
+"Murillo Campello",
+"Gaurav Kankanhalli"
+],
+"year": 2024,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Anti-Poaching Agreements, Innovation, and Corporate Value: Evidence from the Technology Industry",
+"authors": [
+"Pradeep Muthukrishnan",
+"Daniel Ferrés",
+"Gaurav Kankanhalli"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Loan-funded Loans: Equity-like Liabilities inside Bank Holding Companies",
+"authors": [
+"Pradeep Muthukrishnan",
+"Jennie Bai",
+"Murillo Campello"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Corporate Liquidity under Basel III: The Credit Line Channel",
+"authors": [
+"Pradeep Muthukrishnan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"rajat khanna": {
+"name": "Rajat Khanna",
+"papers": []
+},
+"renping li": {
+"name": "Renping Li",
+"papers": []
+},
+"robert prilmeier": {
+"name": "Robert Prilmeier",
+"papers": []
+},
+"saeede eftekhari": {
+"name": "Saeede Eftekhari",
+"papers": []
+},
+"sandeep pillai": {
+"name": "Sandeep Pillai",
+"papers": []
+},
+"sheri tice": {
+"name": "Sheri Tice",
+"papers": []
+},
+"shuhua sun": {
+"name": "Shuhua Sun",
+"papers": []
+},
+"simin li": {
+"name": "Simin Li",
+"papers": [
+{
+"title": "Is Full Price the Full Story When Consumers Have Time and Budget Constraints?",
+"authors": [
+"Simin Li",
+"Achal Bassamboo",
+"Martin A. Lariviere"
+],
+"year": 2024,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "No Call, No Show: Impact of No-Shows on Customer Attrition in Online-to-Offline Services",
+"authors": [
+"Simin Li",
+"Nil Karacaoglu"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Proximity Matters: The Impact of Urgent Care Centers on Emergency Department Arrivals",
+"authors": [
+"Simin Li",
+"Achal Bassamboo",
+"Martin A. Lariviere"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "When Free Is Not Enough: Layered Network Effects and Platform Competition",
+"authors": [
+"Simin Li",
+"Campbell Clarkson",
+"Necati Tereyagoglu",
+"Sriram Venkataraman"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Expedited Service Promises: Evidence From a Food Ordering Platform with Self-Pickup",
+"authors": [
+"Simin Li",
+"Nil Karacaoglu",
+"Luyi Yang"
+],
+"year": 2025,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Promotional Design for Small Businesses: The Operational Value of Online Deals",
+"authors": [
+"Simin Li",
+"Kejia Hu",
+"Martin A. Lariviere"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "Generative AI Shifts Technical Knowledge Production Toward Recombinant Novelty",
+"authors": [
+"Simin Li",
+"Neha Sharma"
+],
+"year": 2026,
+"venue": "Nature Human Behaviour",
+"status": "working_paper"
+},
+{
+"title": "Disintermediation Evidence From a Cleaning Platform",
+"authors": [
+"Simin Li",
+"Nil Karacaoglu",
+"Ioannis Stamatopoulos"
+],
+"year": 2025,
+"venue": null,
+"status": "revise_resubmit"
+}
+]
+},
+"sophia hamm": {
+"name": "Sophia Hamm",
+"papers": []
+},
+"stephanie cheng": {
+"name": "Stephanie Cheng",
+"papers": [
+{
+"title": "Riding the Blockchain Mania: Public Firms’ Speculative 8-K Disclosures",
+"authors": [
+"Stephanie Cheng",
+"Gus De Franco",
+"Haibo Jiang",
+"Pengkai Lin"
+],
+"year": 2019,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Information Externality of Public Firms’ Financial Information in the State-Bond Secondary Market",
+"authors": [
+"Stephanie Cheng"
+],
+"year": 2021,
+"venue": "Journal of Accounting Research",
+"status": "published"
+},
+{
+"title": "Disclosure and Competition for Capital",
+"authors": [
+"Stephanie Cheng",
+"Christine Cuny",
+"Hao Xue"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Who Knows More? Public Firm Information Spillovers into the Municipal Bond Market Around IPOs",
+"authors": [
+"Stephanie Cheng",
+"Jie Cao",
+"Lei Lei",
+"Wahid Saffar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Exposure to Superstar Firms and Financial Distress",
+"authors": [
+"Stephanie Cheng",
+"Dushyantkumar Vyas",
+"Regina Wittenberg-Moerman",
+"Wuyang Zhao"
+],
+"year": 2025,
+"venue": "Review of Accounting Studies",
+"status": "published"
+},
+{
+"title": "Marijuana Liberalization and Public Finance: A Capital Market Perspective on the Passage of Medical Use Laws",
+"authors": [
+"Stephanie Cheng",
+"Gus De Franco",
+"Pengkai Lin"
+],
+"year": 2023,
+"venue": "Journal of Accounting and Economics",
+"status": "published"
+},
+{
+"title": "Bonding for Labor: Initial Evidence on Municipal Social Covenants for Labor Protection",
+"authors": [
+"Stephanie Cheng",
+"Shushu Jiang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Opaque Markets, Visible Jobs: Real-Time Labor Demand and Municipal Finance",
+"authors": [
+"Stephanie Cheng",
+"Shushu Jiang",
+"Xinjie Ma"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effects of School Shootings on Municipal Bond Pricing",
+"authors": [
+"Stephanie Cheng",
+"John Donovan",
+"Jessica Watkins"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Attention to Detail: How Do Information Users Process Exhibits in Form 10-K?",
+"authors": [
+"Stephanie Cheng",
+"Yimeng Li",
+"Pengkai Lin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Primacy Effect: Evidence from Form 10-K Exhibits",
+"authors": [
+"Stephanie Cheng",
+"Yimeng Li",
+"Pengkai Lin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Empowering the Many, Overpowering the Market? Open-Source Algorithms and Information Processing Efficiency",
+"authors": [
+"Stephanie Cheng",
+"Richard Crowley",
+"Pengkai Lin",
+"Yuan Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "High” Innovators? Marijuana Legalization and Regional Innovation",
+"authors": [
+"Stephanie Cheng",
+"Pengkai Lin",
+"Ricky Tan",
+"Yuchen Zhang"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Innovation Burnout: Wildfire Smoke and Its Drag on Corporate Brainpower",
+"authors": [
+"Stephanie Cheng",
+"Jing Kong",
+"Ling Lei Lisic",
+"Yuchen Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Stakeholder Powers, Information Processing Cost, and Emissions: Evidence from RSEI",
+"authors": [
+"Stephanie Cheng",
+"Harlow Loch",
+"Jing Kong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Strategic Entry Deterrence in the Audit Industry: Evidence from the Merger of Professional Accounting Bodies",
+"authors": [
+"Stephanie Cheng",
+"Ole-Kristian Hope",
+"Danqi Hu"
+],
+"year": 2022,
+"venue": "Journal of Business, Finance, and Accounting",
+"status": "published"
+}
+]
+},
+"ted fee": {
+"name": "Ted Fee",
+"papers": []
+},
+"trevor young": {
+"name": "Trevor Young",
+"papers": [
+{
+"title": "Sentiment and Uncertainty",
+"authors": [
+"Trevor Young",
+"Justin Birru"
+],
+"year": 2022,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "The Information Content of Aggregate Mutual Fund Alpha",
+"authors": [
+"Trevor Young"
+],
+"year": null,
+"venue": "Journal of Finance",
+"status": "revise_resubmit"
+},
+{
+"title": "Disentangling Anomalies: Risk versus Mispricing",
+"authors": [
+"Trevor Young",
+"Justin Birru",
+"Hannes Mohrschladt"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Real Effects of Sentiment and Uncertainty",
+"authors": [
+"Trevor Young",
+"Justin Birru"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Returns to Speculativeness",
+"authors": [
+"Trevor Young"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"venkat subramaniam": {
+"name": "Venkat Subramaniam",
+"papers": []
+},
+"william waller": {
+"name": "William Waller",
+"papers": [
+{
+"title": "Revealing Shorts: An Examination of Large Short Position Disclosures",
+"authors": [
+"William Waller",
+"Charles M. Jones",
+"Adam V. Reed"
+],
+"year": 2016,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "How Important is Financial Risk?",
+"authors": [
+"William Waller",
+"Söhnke M. Bartram",
+"Gregory W. Brown"
+],
+"year": 2015,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "When Brokerages Restrict Retail Investors, Does the Game Stop?",
+"authors": [
+"William Waller",
+"Charles M. Jones",
+"Adam V. Reed"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The 283 Days of Stock Returns after the 2016 Election",
+"authors": [
+"William Waller",
+"Anthony M. Diercks",
+"Daniel Soques"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Evaluating Private Equity Performance Using Stochastic Discount Factors",
+"authors": [
+"William Waller",
+"Oleg Gredil",
+"Morten Sørensen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Taxes and the Fed: Theory and Evidence from Equities",
+"authors": [
+"William Waller",
+"Anthony M. Diercks"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Default, Recovery, and the Macroeconomy",
+"authors": [
+"William Waller"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Yes, U.S. Stocks are Getting Riskier",
+"authors": [
+"William Waller",
+"Gregory W. Brown"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Redemption Fees: Reward for Punishment",
+"authors": [
+"William Waller",
+"David Nanigian",
+"Michael S. Finke"
+],
+"year": 2018,
+"venue": "Journal of Financial Services Professionals",
+"status": "published"
+},
+{
+"title": "Do Contracts Impact Comprehensive Financial Advice?",
+"authors": [
+"William Waller",
+"Michael S. Finke",
+"Sandra J. Huston"
+],
+"year": 2009,
+"venue": "Financial Services Review",
+"status": "published"
+},
+{
+"title": "The Concept of Risk Tolerance in Personal Financial Planning",
+"authors": [
+"William Waller",
+"Sherman D. Hanna",
+"Michael S. Finke"
+],
+"year": 2008,
+"venue": "Journal of Personal Finance",
+"status": "published"
+}
+]
+},
+"yang pan": {
+"name": "Yang Pan",
+"papers": [
+{
+"title": "Mobile App Adoption, Portfolio Diversification, and Investment Performance: Evidence from a Quasi-Natural Experiment in China",
+"authors": [
+"Chewei Liu",
+"Sunil Mithas",
+"Yang Pan",
+"J.J. Po-An Hsieh"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Do Risk Preferences Shape the Effect of Online Trading on Trading Frequency, Volume, and Portfolio Performance?",
+"authors": [
+"Yang Pan",
+"Sunil Mithas",
+"J.J. Po-An Hsieh",
+"Chewei Liu"
+],
+"year": 2023,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "How Ride-Sharing Is Shaping Public Transit System: A Counterfactual Estimator Approach",
+"authors": [
+"Yang Pan",
+"Liangfei Qiu"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Risk Disclosure in Crowdfunding",
+"authors": [
+"Keongtae Kim",
+"Jooyoung Park",
+"Yang Pan",
+"Kunpeng Zhang",
+"Michael Zhang"
+],
+"year": 2022,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Storm Clouds on the Horizon? New Entry Threats and Innovation in the U.S. IT Industry",
+"authors": [
+"Yang Pan",
+"Peng Huang",
+"Anandasivam Gopal"
+],
+"year": 2019,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Board Independence and Firm Performance in the IT Industry",
+"authors": [
+"Yang Pan",
+"Peng Huang",
+"Anandasivam Gopal"
+],
+"year": 2018,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "How Online Trading Intensity and Financial Advisors Influence Investors’ Gambling Preferences",
+"authors": [
+"Chewei Liu",
+"Sunil Mithas",
+"Po-An Hsieh",
+"Yang Pan"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "revise_resubmit"
+},
+{
+"title": "Unveiling the Human Touch: Enhancing Customer Satisfaction through Personal Profiles of Social Media Customer Service Agents",
+"authors": [
+"Huai-Tzu Cheng",
+"Yang Pan",
+"Rudy Hirschheim"
+],
+"year": null,
+"venue": "Production and Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Tech Giants and New Entry Threats",
+"authors": [
+"Yang Pan",
+"Wei-Ling Song"
+],
+"year": null,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "Lessons Learned and Future Directions of Social Media Customer Support: the Case of Navigating Digital Shifts during the Pandemic",
+"authors": [
+"Huai-Tzu Cheng",
+"Yang Pan",
+"Rudy Hirschheim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "New Entry Threats and Corporate Innovation Disclosure",
+"authors": [
+"Yang Pan",
+"Peng Huang",
+"Anandasivam Gopal"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Similar Are New Startups to Me? A Large Language Model Approach",
+"authors": [
+"Yang Pan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yongseok kim": {
+"name": "Yongseok Kim",
+"papers": [
+{
+"title": "Tailored to Fail? Gendered Communication in Credit Markets",
+"authors": [
+"Yongseok Kim",
+"Navid Neshat"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Promise in the Name of God",
+"authors": [
+"Yongseok Kim",
+"Navid Neshat"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Drives Household Responses to Corporate Social Irresponsibility?",
+"authors": [
+"Yongseok Kim",
+"Navid Neshat"
+],
+"year": null,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "revise_resubmit"
+},
+{
+"title": "How Do Politicians Conceal Private Returns Under Asset Disclosures? The Valuation Channel",
+"authors": [
+"Yongseok Kim",
+"Navid Neshat"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Do Financing Frictions Amplify Shocks to Exports?",
+"authors": [
+"Yongseok Kim",
+"Heitor Almeida",
+"Daniel Carvalho"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Discretized Information Induce Misperception? Evidence from a Sports Betting Market",
+"authors": [
+"Yongseok Kim",
+"Yumeng Lai",
+"Navid Neshat"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Commitment in Debt Financing: The Role of Coordination Problems",
+"authors": [
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Intragroup Transactions Under Tunneling Regulations",
+"authors": [
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Private Equity in the Hospital Industry",
+"authors": [
+"Yongseok Kim",
+"Janet Gao",
+"Merih Sevilir"
+],
+"year": 2025,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Text Analysis for IPO Firms in Korea: Analysis of Korean Texts in Registration Statements via Machine Learning",
+"authors": [
+"Yongseok Kim",
+"Sung Wook Joh"
+],
+"year": 2019,
+"venue": "Korean Journal of Financial Studies",
+"status": "published"
+}
+]
+},
+"yuan zhang": {
+"name": "Yuan Zhang",
+"papers": []
+},
+"yumei he": {
+"name": "Yumei He",
+"papers": []
+},
+"zoe lu": {
+"name": "Zoe Lu",
+"papers": []
+},
+"felix rioja": {
+"name": "Felix Rioja",
+"papers": [
+{
+"title": "Productiveness and Welfare Implications of Public Infrastructure: A Dynamic Two-Sector General Equilibrium Analysis",
+"authors": [
+"Felix Rioja"
+],
+"year": 1999,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "International Transmission of Anticipated Inflation Under Alternative Exchange-Rate Regimes",
+"authors": [
+"Felix Rioja",
+"Jill A. Holman"
+],
+"year": 2001,
+"venue": "Journal of International Money and Finance",
+"status": "published"
+},
+{
+"title": "IMF Conditionality and Objections: The Russian Case",
+"authors": [
+"Felix Rioja",
+"Jorge Martinez-Vazquez",
+"Samuel Skogstad",
+"Neven Valev"
+],
+"year": 2001,
+"venue": "The American Journal of Economics and Sociology",
+"status": "published"
+},
+{
+"title": "Growth, Welfare and Public Infrastructure: A General Equilibrium Analysis of Latin American Economies",
+"authors": [
+"Felix Rioja"
+],
+"year": 2001,
+"venue": "Journal of Economic Development",
+"status": "published"
+},
+{
+"title": "The Penalties of Inefficient Public Infrastructure",
+"authors": [
+"Felix Rioja"
+],
+"year": 2003,
+"venue": "Review of Development Economics",
+"status": "published"
+},
+{
+"title": "Filling Potholes: Macroeconomic Effects of Maintenance vs. New Investments in Public Infrastructure",
+"authors": [
+"Felix Rioja"
+],
+"year": 2003,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Infrastructure and Sectoral Output",
+"authors": [
+"Felix Rioja"
+],
+"year": 2004,
+"venue": "International Economic Journal",
+"status": "published"
+},
+{
+"title": "Finance and the Sources of Growth at Various Stages of Economic Development",
+"authors": [
+"Felix Rioja",
+"Neven Valev"
+],
+"year": 2004,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Does One Size Fit All: A Reexamination of the Finance and Growth Relationship",
+"authors": [
+"Felix Rioja",
+"Neven Valev"
+],
+"year": 2004,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Roads vs. Schooling: Consequences of Government Choices",
+"authors": [
+"Felix Rioja"
+],
+"year": 2005,
+"venue": "B.E. Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Taxation Issues in the Jamaican External Trade Sector",
+"authors": [
+"Felix Rioja",
+"Keith Maskus"
+],
+"year": 2007,
+"venue": "Public Finance Review",
+"status": "published"
+},
+{
+"title": "Financial Development and the Distribution of Income in Latin America and the Caribbean",
+"authors": [
+"Felix Rioja",
+"Gustavo Canavire-Bacarreza"
+],
+"year": 2009,
+"venue": "Well-Being and Social Policy",
+"status": "published"
+},
+{
+"title": "Stock Markets, Banks and the Sources of Economic Growth",
+"authors": [
+"Felix Rioja",
+"Neven Valev"
+],
+"year": 2011,
+"venue": "Journal of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Financial Structure and Capital Investment",
+"authors": [
+"Felix Rioja",
+"Neven Valev"
+],
+"year": 2012,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "The Generational Effects of Fiscal Policy in a Small Open Economy",
+"authors": [
+"Felix Rioja",
+"Gerhard Glomm"
+],
+"year": 2012,
+"venue": "Public Finance Review",
+"status": "published"
+},
+{
+"title": "Who Gets the Credit? And Does it Matter?: Household vs. Firm Credit Across Countries",
+"authors": [
+"Felix Rioja",
+"Thorsten Beck",
+"Berrak Buyukkarabacak",
+"Neven Valev"
+],
+"year": 2012,
+"venue": "B.E. Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Productivity, Structural Change, and Latin American Development",
+"authors": [
+"Felix Rioja",
+"Antonio Saravia",
+"Carlos Gustavo Machicado"
+],
+"year": 2014,
+"venue": "Review of Development Economics",
+"status": "published"
+},
+{
+"title": "The Persistent Effect of Banking Crises on Investment and the Role of Financial Markets",
+"authors": [
+"Felix Rioja",
+"Fernando Rios-Avila",
+"Neven Valev"
+],
+"year": 2014,
+"venue": "Journal of Financial Economic Policy",
+"status": "published"
+},
+{
+"title": "Serial Banking Crises and Capital Investment",
+"authors": [
+"Felix Rioja",
+"Fernando Rios-Avila",
+"Neven Valev"
+],
+"year": 2014,
+"venue": "Emerging Markets Finance and Trade",
+"status": "published"
+},
+{
+"title": "Government Expenditures, Financing, and Economic Growth in Cape Verde",
+"authors": [
+"Felix Rioja",
+"Tamoya Christie"
+],
+"year": 2014,
+"venue": "Journal of Economics and Development Studies",
+"status": "published"
+},
+{
+"title": "Fiscal position and the financing of productive government expenditures: an application to Latin America",
+"authors": [
+"Felix Rioja",
+"Tamoya Christie"
+],
+"year": 2017,
+"venue": "Journal of Economic Policy Reform",
+"status": "published"
+},
+{
+"title": "Public Infrastructure Maintenance and the Distribution of Wealth",
+"authors": [
+"Felix Rioja",
+"John Gibson"
+],
+"year": 2017,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Productivity during Recessions with Banking Crises: Inter-Industry Evidence",
+"authors": [
+"Felix Rioja",
+"Fernando Rios-Avila",
+"Neven Valev"
+],
+"year": 2017,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Optimal Public Debt Redux",
+"authors": [
+"Felix Rioja",
+"John Gibson",
+"Santanu Chatterjee"
+],
+"year": 2017,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Public Investment, Debt, and Welfare: A Quantitative Analysis",
+"authors": [
+"Felix Rioja",
+"Santanu Chatterjee",
+"John Gibson"
+],
+"year": 2018,
+"venue": "Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "The Welfare Effects of Infrastructure Investment in a Heterogenous Agents Economy",
+"authors": [
+"Felix Rioja",
+"John Gibson"
+],
+"year": 2020,
+"venue": "B.E. Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "The Political Economy of \"Green\" Regulation: Evidence from Fuel Price Markets",
+"authors": [
+"Felix Rioja",
+"Charles Hankla",
+"Neven Valev"
+],
+"year": 2023,
+"venue": "Journal of Comparative Politics",
+"status": "published"
+},
+{
+"title": "Populist Budgets and Long-Run Growth",
+"authors": [
+"Felix Rioja",
+"Gerhard Glomm"
+],
+"year": 2003,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Financial Development and Monetary Policy Efficiency",
+"authors": [
+"Felix Rioja",
+"S. Krause"
+],
+"year": 2006,
+"venue": "Emory Economics working paper",
+"status": "working_paper"
+},
+{
+"title": "Who Gets the Credit? And Does it Matter - Household vs. Firm Lending across Countries",
+"authors": [
+"Felix Rioja",
+"Thorsten Beck",
+"Berrak Buyukkarabacak",
+"Neven Valev"
+],
+"year": 2008,
+"venue": "World Bank Policy Research Working Paper Series",
+"status": "working_paper"
+},
+{
+"title": "Capital Structure and the Life Cycle in Microfinance Institutions",
+"authors": [
+"Felix Rioja",
+"Anthony Annan",
+"Conrad Ciccotello"
+],
+"year": null,
+"venue": "International Review of Financial Analysis",
+"status": "revise_resubmit"
+},
+{
+"title": "The Tyranny of the Ribbon: The Effects of Prioritizing New Infrastructure Over Maintenance",
+"authors": [
+"Felix Rioja",
+"John Gibson"
+],
+"year": null,
+"venue": "Public Finance Management",
+"status": "revise_resubmit"
+},
+{
+"title": "The Participation Rate and the Effects of Changes in Mortality and Health Costs",
+"authors": [
+"Felix Rioja",
+"Manoj Atolia",
+"John Gibson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effects of Productive vs. Redistributive Fiscal Policies in Developing Countries",
+"authors": [
+"Felix Rioja",
+"John Gibson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Public Debt Stabilization and its Impacts on Welfare and the Income Distribution: The Argentinian Case",
+"authors": [
+"Felix Rioja",
+"John Gibson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Innovation and the Political System: Evidence from Latin America",
+"authors": [
+"Felix Rioja"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effects of Recessions on Microfinance Institutions Performance",
+"authors": [
+"Felix Rioja",
+"Anthony Annan",
+"Neven Valev"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"stefano barbieri": {
+"name": "Stefano Barbieri",
+"papers": []
+},
+"katy bergstrom": {
+"name": "Katy Bergstrom",
+"papers": [
+{
+"title": "Optimal Policy Reforms",
+"authors": [
+"Katy Bergstrom",
+"William Dodds",
+"Juan Rios"
+],
+"year": null,
+"venue": "American Economic Journal: Economic Policy",
+"status": "forthcoming"
+},
+{
+"title": "Consistent Non-Utilitarian Welfare Weights",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": null,
+"venue": "CESifo working paper",
+"status": "working_paper"
+},
+{
+"title": "Eliciting Welfare Weights Based on Socioeconomic Characteristics",
+"authors": [
+"Katy Bergstrom",
+"Francesco Capozza",
+"William Dodds",
+"Juan Rios",
+"Krishna Srinivasan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A General Theory of Inverse Welfare Functions",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": 2026,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Estimating the Welfare Cost of Labor Supply Frictions",
+"authors": [
+"Katy Bergstrom",
+"William Dodds",
+"Nick Lacoste",
+"Juan Rios"
+],
+"year": 2025,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Welfare Analysis of Changing Notches: Evidence from Bolsa Família",
+"authors": [
+"Katy Bergstrom",
+"William Dodds",
+"Juan Rios"
+],
+"year": 2025,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Using Schooling Decisions to Estimate the Elasticity of Marginal Utility with respect to Consumption",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": 2023,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Can personalized digital counseling improve consumer search for modern contraceptive methods?",
+"authors": [
+"Katy Bergstrom",
+"Susan Athey",
+"Vitor Hadad",
+"Julian C. Jamison",
+"Berk Özler",
+"Luca Parisotto",
+"Julius Dohbit Sama"
+],
+"year": 2023,
+"venue": "Science Advances",
+"status": "published"
+},
+{
+"title": "The Role of Income Inequality for Poverty Reduction",
+"authors": [
+"Katy Bergstrom"
+],
+"year": 2022,
+"venue": "The World Bank Economic Review",
+"status": "published"
+},
+{
+"title": "Improving the Well-being of Adolescent Girls in Developing Countries",
+"authors": [
+"Katy Bergstrom",
+"Berk Özler"
+],
+"year": 2022,
+"venue": "The World Bank Research Observer",
+"status": "published"
+},
+{
+"title": "Using Labor Supply Elasticities to Learn About Income Inequality: The Role of Productivities vs Preferences",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": 2021,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "The Targeting Benefit of Conditional Cash Transfers",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Optimal Taxation with Multiple Dimensions of Heterogeneity",
+"authors": [
+"Katy Bergstrom",
+"William Dodds"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Does Selling State Silver Generate Private Gold? Neighbourhood Impacts of State House Sales",
+"authors": [
+"Katy Bergstrom",
+"Arthur Grimes",
+"Steve Stillman"
+],
+"year": 2014,
+"venue": "Urban Studies",
+"status": "published"
+}
+]
+},
+"patrick button": {
+"name": "Patrick Button",
+"papers": []
+},
+"c justin cook": {
+"name": "C. Justin Cook",
+"papers": [
+{
+"title": "Subnational persistence of state history: Evidence from geolocalized civilizations",
+"authors": [
+"C. Justin Cook"
+],
+"year": 2021,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"william dodds": {
+"name": "William Dodds",
+"papers": [
+{
+"title": "Optimal Taxation with Multiple Dimensions of Heterogeneity",
+"authors": [
+"William Dodds",
+"Katy Bergstrom"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Using Labor Supply Elasticities to Learn about Income Inequality: The Role of Productivities vs. Preferences",
+"authors": [
+"William Dodds",
+"Katy Bergstrom"
+],
+"year": 2021,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "The Targeting Benefit of Conditional Cash Transfers",
+"authors": [
+"William Dodds",
+"Katy Bergstrom"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Welfare Analysis of Changing Notches: Evidence from Bolsa Família",
+"authors": [
+"William Dodds",
+"Katy Bergstrom",
+"Juan Rios"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pooling, Jumping, and Bunching in Optimal Tax Systems",
+"authors": [
+"William Dodds"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Taxation of Both Earnings and Hours Worked",
+"authors": [
+"William Dodds",
+"Katy Bergstrom"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Intrahousehold Investment Decisions and Child Mortality: Explaining the First Child Bias in India",
+"authors": [
+"William Dodds",
+"Katy Bergstrom"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"john edwards": {
+"name": "John Edwards",
+"papers": [
+{
+"title": "Middle Class Flight from Post-Katrina New Orleans: A Theoretical Analysis of Inequality and Schooling",
+"authors": [
+"John Edwards",
+"Stefano Barbieri"
+],
+"year": 2017,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "The structure of disaster resilience: a framework for simulations and policy recommendations",
+"authors": [
+"John Edwards"
+],
+"year": 2015,
+"venue": "Natural Hazards and Earth System Sciences",
+"status": "published"
+},
+{
+"title": "Fuel choice, indoor air pollution and children's health",
+"authors": [
+"John Edwards",
+"Christian Langpap"
+],
+"year": 2012,
+"venue": "Environment and Development Economics",
+"status": "published"
+},
+{
+"title": "Startup costs and the decision to switch from firewood to gas fuel",
+"authors": [
+"John Edwards",
+"Christian Langpap"
+],
+"year": 2005,
+"venue": "Land Economics",
+"status": "published"
+},
+{
+"title": "Efficient Allocations in Club Economies",
+"authors": [
+"John Edwards",
+"Marcus Berliant"
+],
+"year": 2004,
+"venue": "Journal of Public Economic Theory",
+"status": "published"
+},
+{
+"title": "The Impact of School Quality on Earnings and Educational Returns",
+"authors": [
+"John Edwards",
+"Arjun Bedi"
+],
+"year": 2002,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Mexico's Preschools: Coverage, Equity and Impact",
+"authors": [
+"John Edwards",
+"Xiaoyan Liang"
+],
+"year": 1998,
+"venue": "LCSHD Paper Series",
+"status": "working_paper"
+},
+{
+"title": "The Impact of School Quality on the Level and Distribution of Earnings -Evidence from Honduras",
+"authors": [
+"John Edwards",
+"Arjun Bedi"
+],
+"year": 1997,
+"venue": "LCSHD Paper Series",
+"status": "working_paper"
+},
+{
+"title": "Primary Education Efficiency in Honduras: What remains to be done?",
+"authors": [
+"John Edwards",
+"Bruce Fuller",
+"Suhas Parandekar"
+],
+"year": 1997,
+"venue": "LCSHD Paper Series",
+"status": "working_paper"
+},
+{
+"title": "The Mixed Preschool Market: Explaining Local Variation in Family Demand and Organized Supply",
+"authors": [
+"John Edwards",
+"Bruce Fuller",
+"Xiaoyan Liang"
+],
+"year": 1996,
+"venue": "Economics of Education Review",
+"status": "published"
+},
+{
+"title": "Brazilian Fiscal Reform",
+"authors": [
+"John Edwards",
+"José Teófilo Oliveira"
+],
+"year": 1993,
+"venue": "F.I.P.E., Sao Paulo",
+"status": "published"
+},
+{
+"title": "Indivisibility and Preference for Collective Provision",
+"authors": [
+"John Edwards"
+],
+"year": 1992,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "Congestion Function Specification and the Publicness of Local Public Goods",
+"authors": [
+"John Edwards"
+],
+"year": 1990,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Economies of Scale and the Load Factor in Electricity Generation",
+"authors": [
+"John Edwards",
+"Roger Betancourt"
+],
+"year": 1987,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "On the Publicness of Local Public Goods: Evidence from New York State Municipalities",
+"authors": [
+"John Edwards"
+],
+"year": 1986,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "When Does Education Boost Economic Growth...?",
+"authors": [
+"John Edwards",
+"Bruce Fuller",
+"Kathy Gorman"
+],
+"year": 1986,
+"venue": "Sociology of Education",
+"status": "published"
+},
+{
+"title": "Education Quality, Income Inequality, and Female Labor Force Participation in Brazil",
+"authors": [
+"John Edwards"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Banking deregulation and minority entrepreneurship",
+"authors": [
+"John Edwards",
+"Elizabeth Berger",
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Losers distribution, with applications to financial inclusion",
+"authors": [
+"John Edwards"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Maids and Female Labor Force Participation During Economic Development",
+"authors": [
+"John Edwards"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Solid Fuel Use and the Measurement of Malnutrition",
+"authors": [
+"John Edwards",
+"Christian Langpap"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Democracy, dictatorship, and public finance in Brazil",
+"authors": [
+"John Edwards"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"sebastian galiani": {
+"name": "Sebastian Galiani",
+"papers": [
+{
+"title": "AI on your Side",
+"authors": [
+"Sebastian Galiani",
+"R. Sosa"
+],
+"year": null,
+"venue": "Oxford University Press",
+"status": "forthcoming"
+},
+{
+"title": "Endogenous Institutions",
+"authors": [
+"Sebastian Galiani",
+"G. Torrens"
+],
+"year": null,
+"venue": "Cambridge University Press",
+"status": "working_paper"
+},
+{
+"title": "Political Economy and Economic Development: Essays in Honor of Adolfo Canitrot",
+"authors": [
+"Sebastian Galiani",
+"C. Winograd"
+],
+"year": null,
+"venue": "Edward Elgar",
+"status": "forthcoming"
+},
+{
+"title": "Institutions, property rights and economic growth: The legacy of Douglass North",
+"authors": [
+"Sebastian Galiani",
+"I. Sened"
+],
+"year": 2014,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Fighting communism with collusion",
+"authors": [
+"Sebastian Galiani",
+"J.M. Paz y Mino",
+"G. Torrens"
+],
+"year": null,
+"venue": "Journal of International Economics",
+"status": "forthcoming"
+},
+{
+"title": "The elusive quest for disarmed peace: contest games and international relations",
+"authors": [
+"Sebastian Galiani",
+"J. Caro-Burnett",
+"G. Torrens"
+],
+"year": null,
+"venue": "Economic Theory",
+"status": "forthcoming"
+},
+{
+"title": "Motives and constraints in the implementing of Argentina's 2017 tax reform",
+"authors": [
+"Sebastian Galiani",
+"S. Afonso"
+],
+"year": 2026,
+"venue": "Economia",
+"status": "published"
+},
+{
+"title": "Financing municipal water and sanitation services in Nairobi's informal settlements",
+"authors": [
+"Sebastian Galiani",
+"A. Coville",
+"P. Gertler",
+"S. Yoshida"
+],
+"year": 2025,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Free riding the Yankees: Canada and the Panama Canal",
+"authors": [
+"Sebastian Galiani",
+"L.F. Jaramillo",
+"M. Uribe-Castro"
+],
+"year": 2025,
+"venue": "Journal of Economic Growth",
+"status": "published"
+},
+{
+"title": "Geopolitics and International Trade Infrastructure",
+"authors": [
+"Sebastian Galiani",
+"J.M. Paz y Mino",
+"G. Torrens"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Unveiling specialization trends in economics research: A large-scale study using natural language processing and citations analysis",
+"authors": [
+"Sebastian Galiani",
+"R. Galvez",
+"I. Nachman"
+],
+"year": 2024,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Assessing external validity in practice",
+"authors": [
+"Sebastian Galiani",
+"B. Quistorff"
+],
+"year": 2024,
+"venue": "Research in Economics",
+"status": "published"
+},
+{
+"title": "Predictive policing in a developing country: Evidence from two Randomized Control Trials",
+"authors": [
+"Sebastian Galiani",
+"L. Jaitman"
+],
+"year": 2023,
+"venue": "Journal of Quantitative Criminology",
+"status": "published"
+},
+{
+"title": "Where have all the children gone? An empirical study of child abandonment and abduction in China",
+"authors": [
+"Sebastian Galiani",
+"X. Bao",
+"K. Li",
+"C. Long"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Trust and savings in financial institutions",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"C. Navajas"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Another brick on the wall: on the effect of non-contributory pensions on material and subjective well-being",
+"authors": [
+"Sebastian Galiani",
+"R. Bando",
+"P. Gertler"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "The political economy of trade and labor mobility",
+"authors": [
+"Sebastian Galiani",
+"G. Torrens"
+],
+"year": 2021,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Persuasive propaganda during the 2015 Argentine ballotage",
+"authors": [
+"Sebastian Galiani",
+"R. Di Tella",
+"E. Schargrodsky"
+],
+"year": 2021,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Aspiration adaptation in resource-constrained environments",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"R. Undurraga"
+],
+"year": 2021,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Assessing external validity",
+"authors": [
+"Sebastian Galiani",
+"Hao Bo"
+],
+"year": 2021,
+"venue": "Research in Economics",
+"status": "published"
+},
+{
+"title": "Crime and durable goods",
+"authors": [
+"Sebastian Galiani",
+"L. Jaitman",
+"F. Weinschelbaum"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "The effect of non-contributory pensions on material and subjective well-being",
+"authors": [
+"Sebastian Galiani",
+"R. Bando",
+"P. Gertler"
+],
+"year": 2020,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Differences in citations patterns across journal tiers: The case of economics",
+"authors": [
+"Sebastian Galiani",
+"M.V. Anauati",
+"R. Galvez"
+],
+"year": 2020,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "The causal effect of competition on prices and quality: Field experimental evidence",
+"authors": [
+"Sebastian Galiani",
+"M. Busso"
+],
+"year": 2019,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Voter Response to Peak and End Transfers: Evidence from a Conditional Cash Transfer Experiment",
+"authors": [
+"Sebastian Galiani",
+"N. Hajj",
+"P. Ibarraran",
+"N. Krishnaswamy",
+"P. McEwan"
+],
+"year": 2019,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "International organizations and structural reforms",
+"authors": [
+"Sebastian Galiani",
+"I. Torre",
+"G. Torrens"
+],
+"year": 2019,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Why not taxation and representation? A note on the American Revolution",
+"authors": [
+"Sebastian Galiani",
+"G. Torrens"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "An empirical approach based on quantile regression for estimation citation ageing",
+"authors": [
+"Sebastian Galiani",
+"R. Galvez"
+],
+"year": 2019,
+"venue": "Journal of Informetrics",
+"status": "published"
+},
+{
+"title": "Horizontal and vertical conflict: Experimental evidence",
+"authors": [
+"Sebastian Galiani",
+"C. Long",
+"C. Navajas Ahumada",
+"G. Torrens"
+],
+"year": 2019,
+"venue": "Kyklos",
+"status": "published"
+},
+{
+"title": "Long-term care in Latin America? Theory and policy considerations",
+"authors": [
+"Sebastian Galiani",
+"M. Caruso",
+"P. Ibarraran"
+],
+"year": 2019,
+"venue": "Economia",
+"status": "published"
+},
+{
+"title": "Poverty alleviation strategies under informality: Evidence for Latin America",
+"authors": [
+"Sebastian Galiani",
+"M. Caruso",
+"F. Weinschelbaum"
+],
+"year": 2019,
+"venue": "Latin American Economic Review",
+"status": "published"
+},
+{
+"title": "Educational upgrading and return to skills in Latin America: Evidence from a demand-supply framework",
+"authors": [
+"Sebastian Galiani",
+"P. Acosta",
+"G. Cruces",
+"L. Gasparini"
+],
+"year": 2019,
+"venue": "Latin American Economic Review",
+"status": "published"
+},
+{
+"title": "The half-life of happiness: Hedonic adaptation in the subjective well-being of poor slum dwellers to a large improvement in housing",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"R. Undurraga"
+],
+"year": 2018,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Stirring up a hornests' nest: Geographical distribution of crime",
+"authors": [
+"Sebastian Galiani",
+"I. Lopez Cruz",
+"G. Torrens"
+],
+"year": 2018,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Path dependent import substitution policies: The case of Argentina in the XX century",
+"authors": [
+"Sebastian Galiani",
+"P. Somaini"
+],
+"year": 2018,
+"venue": "Latin American Economic Review",
+"status": "published"
+},
+{
+"title": "Argentine trade policies in the XX century: 60 years of solitude",
+"authors": [
+"Sebastian Galiani",
+"I. Brambilla",
+"G. Porto"
+],
+"year": 2018,
+"venue": "Latin American Economic Review",
+"status": "published"
+},
+{
+"title": "The effect of aid on growth: Evidence from a quasi-experiment",
+"authors": [
+"Sebastian Galiani",
+"S. Knack",
+"C. Xu",
+"B. Zou"
+],
+"year": 2017,
+"venue": "Journal of Economic Growth",
+"status": "published"
+},
+{
+"title": "Shelter from the storm: Upgrading housing infrastructure in Latin America Slums",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"S. Martinez",
+"R. Cooper",
+"A. Ross",
+"R. Undurraga"
+],
+"year": 2017,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "On the effect of the costs of operating formally: New experimental evidence",
+"authors": [
+"Sebastian Galiani",
+"M. Melendez",
+"C. Navajas"
+],
+"year": 2017,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "On the distributive effects of terms of trade shocks: The role of non-tradable goods",
+"authors": [
+"Sebastian Galiani",
+"D. Heymann",
+"N. Magud"
+],
+"year": 2017,
+"venue": "Journal of Globalization and Development",
+"status": "published"
+},
+{
+"title": "The synth_runner package: Utilities to automate synthetic control estimation using synth",
+"authors": [
+"Sebastian Galiani",
+"Brian Quistorff"
+],
+"year": 2017,
+"venue": "Stata Journal",
+"status": "published"
+},
+{
+"title": "Collective action: Experimental evidence",
+"authors": [
+"Sebastian Galiani",
+"M.V. Anauati",
+"B. Feld",
+"G. Torrens"
+],
+"year": 2016,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Non-contributory pensions",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"R. Brando"
+],
+"year": 2016,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Promoting handwashing behavior: The effect of a large-scale community and school level interventions",
+"authors": [
+"Sebastian Galiani",
+"P. Gertler",
+"N. Ajzenman",
+"A. Orsola"
+],
+"year": 2016,
+"venue": "Health Economics",
+"status": "published"
+},
+{
+"title": "Fiscal federalism and legislative malapportionment: Causal evidence from independent but related natural experiments",
+"authors": [
+"Sebastian Galiani",
+"I. Torre",
+"G. Torrens"
+],
+"year": 2016,
+"venue": "Economics and Politics",
+"status": "published"
+},
+{
+"title": "Quantifying the Life Cycle of Scholarly Articles across Fields of Economic",
+"authors": [
+"Sebastian Galiani",
+"M.V. Anauati",
+"R. Galvez"
+],
+"year": 2016,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Optimal climate change adaptation and mitigation to climate change in small environmental economies",
+"authors": [
+"Sebastian Galiani",
+"O. Chisari",
+"S. Miller"
+],
+"year": 2016,
+"venue": "Economia",
+"status": "published"
+},
+{
+"title": "The deregularization of land titles",
+"authors": [
+"Sebastian Galiani",
+"E. Schargrodsky"
+],
+"year": 2016,
+"venue": "Man and the Economy",
+"status": "published"
+},
+{
+"title": "Estimating neighborhood choice models: Lessons from a housing assistance experiment",
+"authors": [
+"Sebastian Galiani",
+"A. Murphy",
+"J. Pantano"
+],
+"year": 2015,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "On the distributive costs of drug related homicides",
+"authors": [
+"Sebastian Galiani",
+"N. Ajzenman",
+"E. Seira"
+],
+"year": 2015,
+"venue": "Journal of Law and Economics",
+"status": "published"
+},
+{
+"title": "The rise of noncumminacable diseases in Latin America and the Caribbean: Health in Latin America: Challenges for public health policies",
+"authors": [
+"Sebastian Galiani",
+"M.V. Anauati",
+"F. Weinschelbaum"
+],
+"year": 2015,
+"venue": "Latin American Economic Review",
+"status": "published"
+},
+{
+"title": "Climate change in Latin America and the Caribbean: Policy options and research priorities",
+"authors": [
+"Sebastian Galiani",
+"B. Feld"
+],
+"year": 2015,
+"venue": "Latin American Economic Review",
+"status": "published"
+}
+]
+},
+"felipe gomez trejos": {
+"name": "Felipe Gómez Trejos",
+"papers": [
+{
+"title": "Cap-and-trade vs. Carbon Taxes: Industry Dynamics and the Role of Demand Risk",
+"authors": [
+"Felipe Gómez Trejos"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Vertical Arrangements Matter for Cost-effectiveness of Output Subsidies?",
+"authors": [
+"Felipe Gómez Trejos"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Should We Subsidize Production or Investment Goods?",
+"authors": [
+"Felipe Gómez Trejos"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"douglas n harris": {
+"name": "Douglas N. Harris",
+"papers": []
+},
+"gary hoover": {
+"name": "Gary Hoover",
+"papers": []
+},
+"elliott isaac": {
+"name": "Elliott Isaac",
+"papers": [
+{
+"title": "Tax-Based Marriage Incentives in the Affordable Care Act",
+"authors": [
+"Elliott Isaac",
+"Haibin Jiang"
+],
+"year": 2025,
+"venue": "National Tax Journal",
+"status": "published"
+},
+{
+"title": "Suddenly Married: Joint Taxation and the Labor Supply of Same-Sex Married Couples After U.S. v. Windsor",
+"authors": [
+"Elliott Isaac"
+],
+"year": 2025,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Same-Sex Marriage Recognition and Taxes: New Evidence about the Impact of Household Taxation",
+"authors": [
+"Leora Friedberg",
+"Elliott Isaac"
+],
+"year": 2024,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Marriage in Old Age: What Can We Learn About Policy Impacts on Same-Sex Couples?",
+"authors": [
+"Leora Friedberg",
+"Elliott Isaac"
+],
+"year": 2023,
+"venue": "National Tax Journal",
+"status": "published"
+},
+{
+"title": "Elite Schools and Opting-In: Effects of College Selectivity on Career and Family Outcomes",
+"authors": [
+"Suqin Ge",
+"Elliott Isaac",
+"Amalia Miller"
+],
+"year": 2022,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "Teaching Controversial and Contemporary Topics in Economics Using a Jigsaw Literature Review Activity",
+"authors": [
+"Patrick Button",
+"LaPorchia A. Collins",
+"Augustine Denteh",
+"Mónica García-Pérez",
+"Ben Harrell",
+"Elliott Isaac",
+"Engy Ziedan"
+],
+"year": 2021,
+"venue": "Journal of Economic Education",
+"status": "published"
+},
+{
+"title": "Marriage, Divorce, and Social Safety Net Policy",
+"authors": [
+"Elliott Isaac"
+],
+"year": 2020,
+"venue": "Southern Economic Journal",
+"status": "published"
+},
+{
+"title": "Spousal Labor Supply: Decoupling Gender Norms and Earning Status",
+"authors": [
+"Elliott Isaac"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Safety Net Substitution and Implications for Cash Transfers: Evidence from EITC and TANF",
+"authors": [
+"Augustine Denteh",
+"Elliott Isaac"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Improving the Effectiveness of the IRS' Automated Substitute for Return Program",
+"authors": [
+"James Alm",
+"Elliott Isaac",
+"Matthias Kasper",
+"Erich Kirchler"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"wei long": {
+"name": "Wei Long",
+"papers": [
+{
+"title": "The Effect of Highly Publicized Police-Related Deaths on Policing: Evidence from Large U.S. Cities",
+"authors": [
+"Wei Long",
+"Cheng Cheng"
+],
+"year": null,
+"venue": "Journal of Public Economics",
+"status": "forthcoming"
+},
+{
+"title": "Semiparametric Estimation and Variable Selection for Single-Index Copula Models",
+"authors": [
+"Wei Long",
+"Bingduo Yang",
+"Christian Hafner",
+"Guannan Liu"
+],
+"year": null,
+"venue": "Journal of Applied Econometrics",
+"status": "forthcoming"
+},
+{
+"title": "Semiparametric Estimation and Model Selection for Conditional Mixture Copula Models",
+"authors": [
+"Wei Long",
+"Guannan Liu",
+"Bingduo Yang",
+"Zongwu Cai"
+],
+"year": null,
+"venue": "Scandinavian Journal of Statistics",
+"status": "forthcoming"
+},
+{
+"title": "Testing the Predictability of U.S. Housing Price Index Returns Based on an IVX-AR Model",
+"authors": [
+"Wei Long",
+"Bingduo Yang",
+"Liang Peng",
+"Zongwu Cai"
+],
+"year": 2020,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "How does oversight affect police? Evidence from the police misconduct reform",
+"authors": [
+"Wei Long"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Detecting Financial Data Dependent Structure by Averaging Mixture Copula",
+"authors": [
+"Wei Long",
+"Guannan Liu",
+"Xinyu Zhang",
+"Qi Li"
+],
+"year": 2019,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Comovement of Home Prices: A Conditional Copula Approach",
+"authors": [
+"Wei Long",
+"Lei Hou",
+"Qi Li"
+],
+"year": 2019,
+"venue": "Annals of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Improving Police Services: Evidence from the French Quarter Task Force",
+"authors": [
+"Wei Long",
+"Cheng Cheng"
+],
+"year": 2018,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Does Longer Incarceration Deter or Incapacitate Crimes? Evidence from Truth-in-Sentencing Reform",
+"authors": [
+"Wei Long"
+],
+"year": 2018,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Do Parole Abolition and Truth-in-Sentencing Deter Violent Crimes in Virginia?",
+"authors": [
+"Wei Long",
+"Qi Li"
+],
+"year": 2018,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "Test Explosive Behavior in Gold Market",
+"authors": [
+"Wei Long",
+"Dingding Li",
+"Qi Li"
+],
+"year": 2016,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "Estimating Average Treatment Effect by Model Averaging",
+"authors": [
+"Wei Long",
+"Yichen Gao",
+"Zhengwei Wang"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Testing Error Serial Correlation in Fixed Effects Nonparametric Panel Data Models",
+"authors": [
+"Wei Long",
+"Carl Green",
+"Cheng Hsiao"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Efficient Estimation of Partially Linear Varying Coefficient Models",
+"authors": [
+"Wei Long",
+"Min Ouyang",
+"Ying Shang"
+],
+"year": 2013,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Program Evaluation with Panel Data: A Model Averaging Approach",
+"authors": [
+"Wei Long",
+"Guannan Liu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Testing Predictability of Stock Returns under Possible Bubbles",
+"authors": [
+"Wei Long",
+"Bingduo Yang",
+"Zihui Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"douglas nelson": {
+"name": "Douglas Nelson",
+"papers": [
+{
+"title": "The Political-Economy of Administered Protection",
+"authors": [
+"Douglas Nelson",
+"J.M. Finger",
+"H. Keith Hall"
+],
+"year": 1982,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Why World Systems Theory: Accepting a New Paradigm",
+"authors": [
+"Douglas Nelson"
+],
+"year": 1983,
+"venue": "International Interactions",
+"status": "published"
+},
+{
+"title": "Endogenous Tariff Theory: A Critical Survey",
+"authors": [
+"Douglas Nelson"
+],
+"year": 1988,
+"venue": "American Journal of Political Science",
+"status": "published"
+},
+{
+"title": "The Domestic Political Preconditions of US Trade Policy: Liberal Structure and Protectionist Dynamics",
+"authors": [
+"Douglas Nelson"
+],
+"year": 1989,
+"venue": "Journal of Public Policy",
+"status": "published"
+},
+{
+"title": "Institutional Structure and Time Horizon in a Simple Political-Economy Model: The Lowi Effect",
+"authors": [
+"Douglas Nelson",
+"H. Keith Hall"
+],
+"year": 1989,
+"venue": "International Spectator",
+"status": "published"
+},
+{
+"title": "Institutional Structure and the Political-Economy of Protection: Administered versus Legislated Protection",
+"authors": [
+"Douglas Nelson",
+"H. Keith Hall"
+],
+"year": 1992,
+"venue": "Economics and Politics",
+"status": "published"
+},
+{
+"title": "Incentive Compatible Regulation of a Foreign-owned Subsidiary",
+"authors": [
+"Douglas Nelson",
+"Thomas Gresik"
+],
+"year": 1994,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Illegal Trade and Endogenous Tariff Formation",
+"authors": [
+"Douglas Nelson",
+"Mary Lovely"
+],
+"year": 1994,
+"venue": "Public Finance/Finance Publique",
+"status": "published"
+},
+{
+"title": "Smuggling and Welfare in a Ricardo-Viner Economy",
+"authors": [
+"Douglas Nelson",
+"Mary Lovely"
+],
+"year": 1995,
+"venue": "Journal of Economic Studies",
+"status": "published"
+},
+{
+"title": "Women and Tariffs: Testing the Gender Gap Hypothesis in a Downs-Mayer Political-Economy Model",
+"authors": [
+"Douglas Nelson",
+"H. Keith Hall",
+"Chihwa Kao"
+],
+"year": 1998,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Trade, Technology and Wages: General Equilibrium Mechanics",
+"authors": [
+"Douglas Nelson",
+"Joseph Francois"
+],
+"year": 1998,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "East Asian Economic Performance: Miracle or Just A Pleasant Surprise?",
+"authors": [
+"Douglas Nelson",
+"Oliver Morrissey"
+],
+"year": 1998,
+"venue": "World Economy",
+"status": "published"
+},
+{
+"title": "Problems in the Political Economy of Trade Policy Reform",
+"authors": [
+"Douglas Nelson"
+],
+"year": 1999,
+"venue": "Journal of International Trade and Economic Development",
+"status": "published"
+},
+{
+"title": "Marginal Intra Industry Trade and Labour Adjustment",
+"authors": [
+"Douglas Nelson",
+"Mary Lovely"
+],
+"year": 2000,
+"venue": "Review of International Economics",
+"status": "published"
+},
+{
+"title": "The Assessment: Globalization and Labour-Market Adjustment",
+"authors": [
+"Douglas Nelson",
+"David Greenaway"
+],
+"year": 2000,
+"venue": "Oxford Review of Economic Policy",
+"status": "published"
+},
+{
+"title": "Immigration and Labour-Market Outcomes in the United States: A Political-Economy Puzzle",
+"authors": [
+"Douglas Nelson",
+"Noel Gaston"
+],
+"year": 2000,
+"venue": "Oxford Review of Economic Policy",
+"status": "published"
+},
+{
+"title": "International Political Economy: A Tale of Two Heterodoxies",
+"authors": [
+"Douglas Nelson",
+"Craig Murphy"
+],
+"year": 2001,
+"venue": "British Journal of Politics and International Relations",
+"status": "published"
+},
+{
+"title": "Integration, FDI and Labour Markets: Perspectives from Trade and Labour Economics",
+"authors": [
+"Douglas Nelson",
+"Noel Gaston"
+],
+"year": 2002,
+"venue": "Manchester School",
+"status": "published"
+},
+{
+"title": "A Geometry of Specialization",
+"authors": [
+"Douglas Nelson",
+"Joseph Francois"
+],
+"year": 2002,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Intra-Industry Trade as an Indicator of Labor-Market Adjustment",
+"authors": [
+"Douglas Nelson",
+"Mary Lovely"
+],
+"year": 2002,
+"venue": "Weltwirtschaftliches Archiv",
+"status": "published"
+},
+{
+"title": "Structural Change and the Labor Market Effects of Globalization",
+"authors": [
+"Douglas Nelson",
+"Noel Gaston"
+],
+"year": 2004,
+"venue": "Review of International Economics",
+"status": "published"
+},
+{
+"title": "Fairness and the Political Economy of International Trade",
+"authors": [
+"Douglas Nelson",
+"Carl Davidson",
+"Steve Matusz"
+],
+"year": 2006,
+"venue": "World Economy",
+"status": "published"
+},
+{
+"title": "Introduction: 100 Years of Antidumping",
+"authors": [
+"Douglas Nelson",
+"Rod Falvey"
+],
+"year": 2006,
+"venue": "European Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "The Political Economy of Antidumping",
+"authors": [
+"Douglas Nelson"
+],
+"year": 2006,
+"venue": "European Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Fair Wages, Unemployment and Technological Change in a Global Economy",
+"authors": [
+"Douglas Nelson",
+"Udo Kreickemeier"
+],
+"year": 2006,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Can Compensation Save Free Trade",
+"authors": [
+"Douglas Nelson",
+"Carl Davidson",
+"Steve Matusz"
+],
+"year": 2007,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Did the World Bank Drive Tariff Reforms in Eastern Africa?",
+"authors": [
+"Douglas Nelson",
+"Chris Jones",
+"Oliver Morrissey"
+],
+"year": 2011,
+"venue": "World Development",
+"status": "published"
+},
+{
+"title": "Foreign Partners and Finance Constraints: The Case of Chinese Firms",
+"authors": [
+"Douglas Nelson",
+"Peter Egger"
+],
+"year": 2011,
+"venue": "World Economy",
+"status": "published"
+}
+]
+},
+"mary k olson": {
+"name": "Mary K. Olson",
+"papers": []
+},
+"alberto rivera padilla": {
+"name": "Alberto Rivera-Padilla",
+"papers": [
+{
+"title": "Market Power, Output, and Productivity",
+"authors": [
+"Alberto Rivera-Padilla"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Slums, Allocation of Talent, and Barriers to Urbanization",
+"authors": [
+"Alberto Rivera-Padilla"
+],
+"year": 2021,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Crop Choice, Trade Costs, and Agricultural Productivity",
+"authors": [
+"Alberto Rivera-Padilla"
+],
+"year": 2020,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Life Cycle Wage Growth and Internal Migration",
+"authors": [
+"Alberto Rivera-Padilla"
+],
+"year": null,
+"venue": "International Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Cross-Country Income Dispersion, Human Capital, and Technology Adoption",
+"authors": [
+"Alberto Rivera-Padilla",
+"Pedro Amaral"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Structural Transformation and Spatial Convergence Across Countries",
+"authors": [
+"Alberto Rivera-Padilla"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"patrick testa": {
+"name": "Patrick Testa",
+"papers": [
+{
+"title": "The Winner Premium",
+"authors": [
+"Patrick A. Testa"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Confederate Diaspora",
+"authors": [
+"Samuel Bazzi",
+"Andreas Ferrara",
+"Martin Fiszbein",
+"Thomas Pearson",
+"Patrick A. Testa"
+],
+"year": 2026,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "State Capacity and Identity: Assimilation vs. Resistance of Tribal Rimlands",
+"authors": [
+"Stergios Skaperdas",
+"Patrick A. Testa"
+],
+"year": 2026,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Political Foundations of Racial Violence in the Post-Reconstruction South",
+"authors": [
+"Patrick A. Testa",
+"Jhacova Williams"
+],
+"year": 2026,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "National Identity, Public Goods, and Modern Economic Development",
+"authors": [
+"Stergios Skaperdas",
+"Patrick A. Testa"
+],
+"year": 2025,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+}
+]
+},
+"kevin callison": {
+"name": "Kevin Callison",
+"papers": []
+}
+}

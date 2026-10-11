@@ -1,0 +1,8844 @@
+{
+"giovanni burro": {
+"name": "Giovanni Burro",
+"papers": [
+{
+"title": "The Impact of Environmental Disaster Risk Information on Beliefs and Home Insurance Decisions",
+"authors": [
+"Giovanni Burro",
+"Castagnetti, A.",
+"Cillo A.",
+"Crespi, P."
+],
+"year": 2026,
+"venue": "Journal of Economic Psychology",
+"status": "published"
+},
+{
+"title": "Imagining the Future: Memory, Simulation and Beliefs",
+"authors": [
+"Giovanni Burro",
+"Bordalo P.",
+"Coffman K.",
+"Gennaioli N.",
+"Shleifer A."
+],
+"year": 2025,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Make hay while the sun shines: An empirical study of maximum price, regret and trading decisions",
+"authors": [
+"Giovanni Burro",
+"Brettschneider J.",
+"Henderson V."
+],
+"year": 2025,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "The Ego is No Fool: Absence of Motivated Belief Formation in Strategic Interactions",
+"authors": [
+"Giovanni Burro",
+"Castagnetti A."
+],
+"year": 2024,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Will I tell you that you are smart (dumb)? Deceiving Others about their IQ or about a Random Draw",
+"authors": [
+"Giovanni Burro",
+"Castagnetti A."
+],
+"year": 2022,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Is There a Happiness Premium for Working in the Public Sector? Evidence from Italy",
+"authors": [
+"Giovanni Burro",
+"Bucciol A."
+],
+"year": 2022,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Patience decreases with age for the poor but not for the rich: An international comparison",
+"authors": [
+"Giovanni Burro",
+"McDonald R.",
+"Read D.",
+"Taj U."
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Wide framing disposition effect: An empirical study",
+"authors": [
+"Giovanni Burro",
+"Brettschneider J.",
+"Henderson V."
+],
+"year": 2021,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Neurocognitive Assessment in Obsessive Compulsive Disorder Patients: Adherence to Behavioral Decision Models",
+"authors": [
+"Giovanni Burro",
+"Bonetti M.",
+"Cillo A.",
+"Di Serio M. C.",
+"De Filippis R.",
+"Martoni R. M."
+],
+"year": 2019,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "Memory Shapes Reaction to Extreme Returns in Stock Sale Decisions",
+"authors": [
+"Giovanni Burro",
+"Brettschneider J.",
+"Henderson V."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ads as Cues",
+"authors": [
+"Giovanni Burro",
+"Bordalo P.",
+"Gennaioli N.",
+"Nacamulli, G.",
+"Shleifer A."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Walk Down Memory Lane: How Memories Influence Stock Investment and Information Processing",
+"authors": [
+"Giovanni Burro",
+"Castagnetti, A.",
+"Cillo A.",
+"Crespi, P."
+],
+"year": null,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "revise_resubmit"
+},
+{
+"title": "An international study of willingness to take action to combat climate change: Economic preferences matter, but religion and nationality matter much more",
+"authors": [
+"Giovanni Burro",
+"Read, D.",
+"Bostrom, A."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Not in my mind: The disposition effect is in the eyes of the beholder",
+"authors": [
+"Giovanni Burro",
+"Brettschneider J.",
+"Henderson V."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"hwan sik choi": {
+"name": "Hwan-Sik Choi",
+"papers": [
+{
+"title": "Information Theory for Maximum Likelihood Estimation of Diffusion Models",
+"authors": [
+"Hwan-Sik Choi"
+],
+"year": 2016,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Expert Information and Nonparametric Bayesian Inference of Rare Events",
+"authors": [
+"Hwan-Sik Choi"
+],
+"year": 2016,
+"venue": "Bayesian Analysis",
+"status": "published"
+},
+{
+"title": "An Asymptotic Analysis of Likelihood-Based Diffusion Model Selection Using High Frequency Data",
+"authors": [
+"Hwan-Sik Choi",
+"Minsoo Jeong",
+"Joon Y. Park"
+],
+"year": 2014,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "The Credit Card Debt Puzzle and Non-cognitive Ability",
+"authors": [
+"Hwan-Sik Choi",
+"Ron A. Laschever"
+],
+"year": 2018,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Geometry of the Log-Likelihood Ratio Statistic in Misspecified Models",
+"authors": [
+"Hwan-Sik Choi",
+"N. Kiefer"
+],
+"year": 2011,
+"venue": "Journal of Statistical Planning and Inference",
+"status": "published"
+},
+{
+"title": "Improving Robust Model Selection Tests for Dynamic Models",
+"authors": [
+"Hwan-Sik Choi",
+"N. Kiefer"
+],
+"year": 2010,
+"venue": "Econometrics Journal",
+"status": "published"
+},
+{
+"title": "Development and Validation of Credit Scoring Models",
+"authors": [
+"Hwan-Sik Choi",
+"D. Glennon",
+"E. Larson",
+"N. Kiefer"
+],
+"year": 2008,
+"venue": "Journal of Credit Risk",
+"status": "published"
+},
+{
+"title": "Robust Nonnested Testing and Demand for Money",
+"authors": [
+"Hwan-Sik Choi",
+"N. Kiefer"
+],
+"year": 2008,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published"
+},
+{
+"title": "Software Evaluation: EasyReg International",
+"authors": [
+"Hwan-Sik Choi",
+"N. Kiefer"
+],
+"year": 2005,
+"venue": "International Journal of Forecasting",
+"status": "published"
+}
+]
+},
+"christopher l hanes": {
+"name": "Christopher L Hanes",
+"papers": [
+{
+"title": "A New Daily Federal Funds Rate Series and History of the Federal Funds Market, 1928-1954",
+"authors": [
+"Christopher L Hanes",
+"Sriya Anbil",
+"Mark A. Carlson",
+"David C. Wheelock"
+],
+"year": 2021,
+"venue": "Federal Reserve Bank of St. Louis Review",
+"status": "published"
+},
+{
+"title": "Explaining Anomalous Wage Inflation in the 1930s U.S.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2020,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Quantitative Easing in the 1930s.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2019,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "Explaining the Appearance of Open-mouth Operations in the 1990s U.S.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2019,
+"venue": "North American Journal of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Harvests and Financial Crises in Gold-Standard America",
+"authors": [
+"Christopher L Hanes",
+"Paul Rhode"
+],
+"year": 2013,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "The Rise and Fall of the Sliding Scale, or Why Wages are No Longer Indexed to Product Prices.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2010,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Harvests and Business Cycles in the Nineteenth-Century U.S.",
+"authors": [
+"Christopher L Hanes",
+"Joseph Davis",
+"Paul Rhode"
+],
+"year": 2009,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Liquidity Trap and U.S. Interest Rates in the 1930s.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2006,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "Wage Adjustment under Low Inflation: Evidence from U.S. History",
+"authors": [
+"Christopher L Hanes",
+"John James"
+],
+"year": 2003,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Nominal Wage Rigidity and Industry Characteristics in the Downturns of 1893, 1929 and 1981.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 2000,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Degrees of Processing and Changes in the Cyclical Behavior of Prices in the United States, 1869-1990.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1999,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "Changes in the Cyclical Behavior of Real Wage Rates, 1870-1990.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1996,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Turnover Cost and the Distribution of Slave Labor in Anglo-America.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1996,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Immigrants' Relative Rate of Wage Growth in the Late 19th Century.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1996,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Consistent Output Series for the Antebellum and Postbellum Periods: Issues and Preliminary Results.",
+"authors": [
+"Christopher L Hanes",
+"Charles Calomiris"
+],
+"year": 1994,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "The Development of Nominal Wage Rigidity in the Late 19th Century.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1993,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Comparable Indices of Wholesale Prices and Manufacturing Wage Rates in the United States, 1865-1914.",
+"authors": [
+"Christopher L Hanes"
+],
+"year": 1992,
+"venue": "Research in Economic History",
+"status": "published"
+}
+]
+},
+"barry jones": {
+"name": "Barry Jones",
+"papers": [
+{
+"title": "Broad Divisia Money, Supply Pressures, and U.S. Inflation Following the COVID-19 Recession",
+"authors": [
+"John Duca",
+"Michael Bordo",
+"Barry Jones"
+],
+"year": 2025,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Identifying Monetary Policy Shocks with Divisia Money in the United Kingdom",
+"authors": [
+"Jane Binner",
+"Rakesh Bissoondeeal",
+"Barry Jones",
+"Victor Valcarcel"
+],
+"year": 2025,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "U.K. Household-Sector Money Demand and Divisia Monetary Aggregates in the New Millennium",
+"authors": [
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2024,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Euro Area Monetary Asset Demand and Divisia Aggregates",
+"authors": [
+"Adrian Fleissig",
+"Barry Jones",
+"Zsolt Darvas"
+],
+"year": 2023,
+"venue": "European Journal of Finance",
+"status": "published"
+},
+{
+"title": "U.K. Household-Sector Money Demand during Brexit and the Pandemic",
+"authors": [
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2023,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "New Monetary Services (Divisia) Indexes for the Post-War U.S.",
+"authors": [
+"Richard Anderson",
+"John Duca",
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2019,
+"venue": "Journal of Financial Stability",
+"status": "published"
+},
+{
+"title": "The Impact of Commercial Sweeping on the Demand for Monetary Assets during the Great Recession",
+"authors": [
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2015,
+"venue": "Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Nonlinear Relationship between Permanent and Transitory Components of Monetary Aggregates and the Economy",
+"authors": [
+"Richard Anderson",
+"Marcelle Chauvet",
+"Barry Jones"
+],
+"year": 2015,
+"venue": "Econometric Reviews",
+"status": "published"
+},
+{
+"title": "A Comprehensive Revision of the U.S. Monetary Services (Divisia) Indexes",
+"authors": [
+"Richard Anderson",
+"Barry Jones"
+],
+"year": 2011,
+"venue": "Federal Reserve Bank of St. Louis Review",
+"status": "published"
+},
+{
+"title": "Household-Sector Money Demand for the UK",
+"authors": [
+"Jane Binner",
+"Rakesh Bissoondeeal",
+"Barry Jones",
+"Andrew Mullineux"
+],
+"year": 2010,
+"venue": "Manchester School",
+"status": "published"
+},
+{
+"title": "Inflation Forecasting, Relative Price Variability and Skewness",
+"authors": [
+"Jane Binner",
+"Thomas Elger",
+"Barry Jones",
+"Birger Nilsson"
+],
+"year": 2010,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Does Money Matter in Inflation Forecasting?",
+"authors": [
+"Richard Anderson",
+"Jane Binner",
+"Barry Jones",
+"Graham Kendell",
+"Jon Tepper",
+"Peter Tino"
+],
+"year": 2010,
+"venue": "Physica A: Statistical Mechanics and its Applications",
+"status": "published"
+},
+{
+"title": "Admissible Monetary Aggregates for the Euro Area",
+"authors": [
+"Jane Binner",
+"Rakesh Bissoondeeal",
+"Thomas Elger",
+"Barry Jones",
+"Andrew Mullineux"
+],
+"year": 2009,
+"venue": "Journal of International Money and Finance",
+"status": "published"
+},
+{
+"title": "Monetary Policy and Monetary Asset Substitution",
+"authors": [
+"Donald Dutkowsky",
+"Thomas Elger",
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2008,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Can Rejections of Weak Separability be Attributed to Random Measurement Errors in the Data",
+"authors": [
+"Thomas Elger",
+"Barry Jones"
+],
+"year": 2008,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Retail Sweep Programs and Monetary Asset Substitution",
+"authors": [
+"Donald Dutkowsky",
+"Thomas Elger",
+"Adrian Fleissig",
+"Barry Jones"
+],
+"year": 2008,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Does Money Matter in the IS Curve: The Case of the UK",
+"authors": [
+"Barry Jones",
+"Livio Stracca"
+],
+"year": 2008,
+"venue": "Manchester School",
+"status": "published"
+},
+{
+"title": "Linear Cointegration of Nonlinear Time Series with an Application to Interest Rate Dynamics",
+"authors": [
+"Barry Jones",
+"Travis Nesmith"
+],
+"year": 2008,
+"venue": "Studies in Nonlinear Dynamics and Econometrics",
+"status": "published"
+},
+{
+"title": "A Note on the Optimal Level of Monetary Aggregation in the United Kingdom",
+"authors": [
+"Jane Binner",
+"David Edgerton",
+"Thomas Elger",
+"Barry Jones"
+],
+"year": 2008,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Redefining the Monetary Aggregates: A Clean Sweep",
+"authors": [
+"Barry Cynamon",
+"Donald Dutkowsky",
+"Barry Jones"
+],
+"year": 2006,
+"venue": "Eastern Economic Journal",
+"status": "published"
+},
+{
+"title": "U.S. Narrow Money for the Twenty-First Century",
+"authors": [
+"Barry Cynamon",
+"Donald Dutkowsky",
+"Barry Jones"
+],
+"year": 2006,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Forecasting with Monetary Aggregates: Recent Evidence for the United States",
+"authors": [
+"Thomas Elger",
+"Barry Jones",
+"Birger Nilsson"
+],
+"year": 2006,
+"venue": "Journal of Economics and Business",
+"status": "published"
+},
+{
+"title": "A Comparison of Two Methods for Testing the Utility Maximization Hypothesis when Quantity Data are Measured with Error",
+"authors": [
+"Barry Jones",
+"Philippe de Peretti"
+],
+"year": 2005,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Sweep Programs and Optimal Monetary Aggregation",
+"authors": [
+"Donald Dutkowsky",
+"Thomas Elger",
+"Barry Jones"
+],
+"year": 2005,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Toward a Unified Approach to Testing for Weak Separability",
+"authors": [
+"Donald Dutkowsky",
+"Thomas Elger",
+"David Edgerton",
+"Barry Jones"
+],
+"year": 2005,
+"venue": "Economics Bulletin",
+"status": "published"
+},
+{
+"title": "Welfare Cost of Inflation in a General Equilibrium Model with Currency and Interest-Bearing Deposits",
+"authors": [
+"Gabriel Asaftei",
+"Barry Jones",
+"Lian Wang"
+],
+"year": 2004,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Introduction to the St. Louis Monetary Services Index Project",
+"authors": [
+"Richard Anderson",
+"Barry Jones",
+"Travis Nesmith"
+],
+"year": 1997,
+"venue": "Federal Reserve Bank of St. Louis Review",
+"status": "published"
+},
+{
+"title": "Monetary Aggregation Theory and Statistical Index Numbers",
+"authors": [
+"Richard Anderson",
+"Barry Jones",
+"Travis Nesmith"
+],
+"year": 1997,
+"venue": "Federal Reserve Bank of St. Louis Review",
+"status": "published"
+},
+{
+"title": "Building New Monetary Services Indexes: Concepts, Data and Methods",
+"authors": [
+"Richard Anderson",
+"Barry Jones",
+"Travis Nesmith"
+],
+"year": 1997,
+"venue": "Federal Reserve Bank of St. Louis Review",
+"status": "published"
+}
+]
+},
+"neha khanna": {
+"name": "Neha Khanna",
+"papers": [
+{
+"title": "Community Engaged Economics Research for the Clean Energy Transition: The Need, the Approach and the Benefits",
+"authors": [
+"E. Spiller",
+"D. Hernandez-Cortes",
+"Neha Khanna",
+"M. Mohebbi"
+],
+"year": 2025,
+"venue": "Review of Environmental Economics and Policy",
+"status": "published"
+},
+{
+"title": "Monitoring and Enforcement and Environmental Compliance: Power Plant Emissions during the 2018-2019 Federal Government Shut Down",
+"authors": [
+"R. Zhang",
+"H. Li",
+"Neha Khanna"
+],
+"year": 2025,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published"
+},
+{
+"title": "Cooking Fuel Choice, Indoor Air Quality and Child Mortality in India",
+"authors": [
+"A. Basu",
+"T. Byambasuren",
+"N. Chau",
+"Neha Khanna"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Public Pressure, Greenwashing and Heterogenous Effects of Voluntary Pollution Abatement",
+"authors": [
+"R. Zhang",
+"Neha Khanna"
+],
+"year": 2024,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published"
+},
+{
+"title": "Local Air Quality Impacts of Shale Gas Development: Evidence from Pennsylvania",
+"authors": [
+"R. Zhang",
+"D. Sullivan",
+"H. Li",
+"Neha Khanna",
+"A. Krupnick",
+"E. Hill"
+],
+"year": 2023,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published"
+},
+{
+"title": "New Evidence on Diversity in Environmental and Resource Economics",
+"authors": [
+"N. Kuminoff",
+"K. Ciaramello",
+"H. Dooley",
+"M. Heintzelman",
+"Neha Khanna",
+"L-R. Kosnik",
+"L. Lewis",
+"E. Trimble"
+],
+"year": 2023,
+"venue": "Review of Environmental Economics and Policy",
+"status": "published"
+},
+{
+"title": "The Environmental Injustice of the COVID-19 Pandemic: Evidence from New York State",
+"authors": [
+"R. Zhang",
+"H. Li",
+"Neha Khanna"
+],
+"year": 2021,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "High Priority Violations and Intra-firm Pollution Substitution",
+"authors": [
+"B. Rijal",
+"Neha Khanna"
+],
+"year": 2020,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "Conspicuous Consumption and Inequality: Theory and Evidence",
+"authors": [
+"J. Harriger-Lin",
+"Neha Khanna",
+"A. Pape"
+],
+"year": 2020,
+"venue": "Journal of Economic Inequality",
+"status": "published"
+},
+{
+"title": "Hybrids and Household Behavior: Implications for Miles Traveled and Gasoline Consumption",
+"authors": [
+"S. Sun",
+"M.S. Delgado",
+"Neha Khanna"
+],
+"year": 2019,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Third Party Verification and the Effectiveness of Voluntary Pollution Abatement Programs: Evidence from Responsible Care",
+"authors": [
+"M. Vidovic",
+"Neha Khanna",
+"M.S. Delgado"
+],
+"year": 2019,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Good News for Environmental Regulation: Finding the Right Link",
+"authors": [
+"Y. Wang",
+"M.S. Delgado",
+"Neha Khanna",
+"V.L. Bogan"
+],
+"year": 2019,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "The Effects of Third Party Certification on Self-Regulation of Accidents in the U.S. Chemical Industry",
+"authors": [
+"H. Li",
+"Neha Khanna",
+"M. Vidovic"
+],
+"year": 2018,
+"venue": "Journal of Regulatory Economics",
+"status": "published"
+},
+{
+"title": "Does Voluntary Self-Regulation Provide Regulatory Relief? Evidence from the Responsible Care Program in the United States",
+"authors": [
+"H. Li",
+"Neha Khanna"
+],
+"year": 2018,
+"venue": "Journal of Law and Economics",
+"status": "published"
+},
+{
+"title": "Evaluating the Efficiency of Groundwater Management Policies in the Ogallala Aquifer in Kansas",
+"authors": [
+"T. Guilfoos",
+"Neha Khanna",
+"J.M. Peterson"
+],
+"year": 2016,
+"venue": "Land Economics",
+"status": "published"
+},
+{
+"title": "The Value of Environmental Status Signaling",
+"authors": [
+"M.S. Delgado",
+"J. Harriger",
+"Neha Khanna"
+],
+"year": 2015,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Voluntary Pollution Abatement and Regulation",
+"authors": [
+"M.S. Delgado",
+"Neha Khanna"
+],
+"year": 2015,
+"venue": "Agricultural and Resource Economics Review",
+"status": "published"
+},
+{
+"title": "Groundwater Management: The Effect of Water Flows on Welfare Gains",
+"authors": [
+"A. Pape",
+"Neha Khanna",
+"T. Guilfoos",
+"K. Salvage"
+],
+"year": 2013,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Output, Emissions and Technology: Some Thoughts",
+"authors": [
+"Neha Khanna"
+],
+"year": 2013,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Are Voluntary Pollution Abatement Programs without a Carrot or Stick Effective? Evidence from Facility Participation in the 33/50 Program",
+"authors": [
+"M. Vidovic",
+"Neha Khanna"
+],
+"year": 2012,
+"venue": "Environmental and Resource Economics",
+"status": "published"
+},
+{
+"title": "Guns and Oil: An Analysis of Conventional Weapons Trade in the Post-Cold War Era",
+"authors": [
+"Neha Khanna",
+"D. Chapman"
+],
+"year": 2010,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Assessing the Precision of Turning Point Estimates in Polynomial Regression Models",
+"authors": [
+"F. Plassmann",
+"Neha Khanna"
+],
+"year": 2007,
+"venue": "Econometric Reviews",
+"status": "published"
+},
+{
+"title": "Total Factor Productivity and the Environmental Kuznets Curve: A Comment and Some Intuition",
+"authors": [
+"Neha Khanna",
+"F. Plassmann"
+],
+"year": 2007,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Can Voluntary Pollution Prevention Programs Fulfill Their Promises? Evidence from the 33/50 Program",
+"authors": [
+"M. Vidovic",
+"Neha Khanna"
+],
+"year": 2007,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "A Note on the 'Simple Analytics of the Environmental Kuznets Curve'",
+"authors": [
+"F. Plassmann",
+"Neha Khanna"
+],
+"year": 2006,
+"venue": "Environment and Development Economics",
+"status": "published"
+},
+{
+"title": "The Persian Gulf, Global Oil Resources, and International Security",
+"authors": [
+"D. Chapman",
+"Neha Khanna"
+],
+"year": 2006,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Preferences, Technology, and the Environment: Understanding the Environmental Kuznets Curve Hypothesis",
+"authors": [
+"F. Plassmann",
+"Neha Khanna"
+],
+"year": 2006,
+"venue": "American Journal of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "Household Income and Pollution: Implications for the Debate on the Environmental Kuznets Curve Hypothesis",
+"authors": [
+"F. Plassmann",
+"Neha Khanna"
+],
+"year": 2006,
+"venue": "Journal of Environment and Development",
+"status": "published"
+},
+{
+"title": "The Demand for Environmental Quality and the Environmental Kuznets Curve Hypothesis",
+"authors": [
+"Neha Khanna",
+"F. Plassmann"
+],
+"year": 2004,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "The Income Elasticity of Non-point Source Air Pollutants: Revisiting the Environmental Kuznets Curve",
+"authors": [
+"Neha Khanna"
+],
+"year": 2002,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "An Economic Analysis of Aspects of Petroleum and Military Security in the Persian Gulf",
+"authors": [
+"D. Chapman",
+"Neha Khanna"
+],
+"year": 2001,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Implications of the Kyoto Protocol for Economic Growth",
+"authors": [
+"Neha Khanna"
+],
+"year": 2001,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Measuring Environmental Quality: An Index of Pollution",
+"authors": [
+"Neha Khanna"
+],
+"year": 2000,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "World Oil: The Growing Case for International Policy",
+"authors": [
+"D. Chapman",
+"Neha Khanna"
+],
+"year": 2000,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Time Preference, Abatement Costs, and International Climate Policy: An Appraisal of IPCC 1995",
+"authors": [
+"Neha Khanna",
+"D. Chapman"
+],
+"year": 1996,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Liability for Climate Change: Who Pays, How Much, and Why",
+"authors": [
+"A. Jaitly",
+"Neha Khanna"
+],
+"year": 1993,
+"venue": "Review of European Community and International Environmental Law",
+"status": "published"
+},
+{
+"title": "Persistence in Environmental Exposure: Evidence from Anchoring",
+"authors": [
+"W. Zhang",
+"H. Li",
+"K. Wen",
+"Neha Khanna"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sensory Pollution and Mental Health: Evidence from Roadway Noise and Nighttime Light",
+"authors": [
+"K. Wen",
+"Neha Khanna",
+"Y. Wei"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "As Time Goes By: Redlining, Kinship and Environmental Justice",
+"authors": [
+"K. Wen",
+"Neha Khanna"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Strategic Local Regulators and the Efficacy of Pollution Standards",
+"authors": [
+"R. Zhang",
+"Neha Khanna"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Highway Noise Pollution and Infant Health Outcomes: Evidence from California",
+"authors": [
+"R. Zhang",
+"H. Li",
+"Neha Khanna"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Cleaner Skies For Whom? Long-term Air Quality After the COVID-19 Lockdowns in the United States",
+"authors": [
+"A.M. Inocencio",
+"Neha Khanna"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ajinkya keskar": {
+"name": "Ajinkya Keskar",
+"papers": [
+{
+"title": "Dowries, resource allocation, and poverty",
+"authors": [
+"Ajinkya Keskar",
+"Rossella Calvi"
+],
+"year": null,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "'Til Dowry Do Us Part: Bargaining and Violence in Indian Families",
+"authors": [
+"Ajinkya Keskar",
+"Rossella Calvi"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Economic Empowerment and Mental Health: Evidence from India",
+"authors": [
+"Ajinkya Keskar",
+"Sulagna Mookerjee"
+],
+"year": null,
+"venue": "Economic Development and Cultural Change",
+"status": "forthcoming"
+},
+{
+"title": "Beyond a Free Lunch: Evaluating the Trade-Offs of an Out-of-School Nutrition Program on Adolescent Girls' Human Capital",
+"authors": [
+"Ajinkya Keskar",
+"Tanmay Devi",
+"Dibya Mishra",
+"Ritika Sethi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Matching on Height in India",
+"authors": [
+"Ajinkya Keskar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Using technology to deliver preschool services at scale: Experimental evidence from India",
+"authors": [
+"Ajinkya Keskar",
+"Mauricio Romero",
+"Abhijeet Singh",
+"Karthik Muralidharan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Gender Gap in Child Poverty: Evidence from India",
+"authors": [
+"Ajinkya Keskar",
+"Jijeebisha Bhattarai",
+"Rossella Calvi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Role of Siblings in Marriage and Dowry Practices: Evidence from India",
+"authors": [
+"Ajinkya Keskar",
+"Arigna Guha",
+"Sulagna Mookerjee"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Uncovering Misreporting in Marital Transfer Data",
+"authors": [
+"Ajinkya Keskar",
+"Rossella Calvi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "From Prohibition to Choice: The Impact of Abortion Legalization on Fertility and Child Investments in Nepal",
+"authors": [
+"Ajinkya Keskar",
+"Jijeebisha Bhattarai"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ivan korolev": {
+"name": "Ivan Korolev",
+"papers": [
+{
+"title": "Causal Forests versus Penalized Splines for Heterogeneous Treatment Effects",
+"authors": [
+"Ivan Korolev",
+"Abiodun Musbaudeen",
+"Nency Dhameja"
+],
+"year": 2026,
+"venue": "Economics Letters",
+"status": "forthcoming"
+},
+{
+"title": "What Does the Infection Fatality Rate Really Measure?",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": "Observational Studies",
+"status": "forthcoming"
+},
+{
+"title": "A Consistent LM-Type Specification Test for Semiparametric Panel Data Models",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": "Journal of Econometric Methods",
+"status": "published"
+},
+{
+"title": "A Consistent Heteroskedasticity-Robust LM-Type Specification Test for Semiparametric Models",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "Re-evaluating Augusto Pinochet's Influence on Chile's Economic Growth",
+"authors": [
+"Ivan Korolev",
+"Hector Ormeno"
+],
+"year": 2026,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Where Did It All Go Wrong for Russia in the 21st Century?",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2025,
+"venue": "Economics Bulletin",
+"status": "published"
+},
+{
+"title": "On Reduced Form Estimation of the Effect of Policy Interventions on the COVID-19 Pandemic",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2022,
+"venue": "Econometrics Journal",
+"status": "published"
+},
+{
+"title": "How Could Russia Have Developed without the Revolution of 1917?",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2021,
+"venue": "Annals of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Identification and Estimation of the SEIRD Epidemic Model for COVID-19",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2021,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimating Semiparametric and Nonparametric Fixed Effects Panel Data Models with mgcv",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": "Journal of Econometric Methods",
+"status": "revise_resubmit"
+},
+{
+"title": "Beyond GDP per Capita: Macroeconomic Channels of Democratic Transition in Spain",
+"authors": [
+"Ivan Korolev",
+"Cristino Abril De Maya"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ski Megapasses and Local Housing Markets",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Instrumental Variables Estimators and Bounds on Treatment Effects",
+"authors": [
+"Ivan Korolev",
+"Frank Wolak"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Projection-Based Corrections for Consistent Specification Tests",
+"authors": [
+"Ivan Korolev"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"subal kumbhakar": {
+"name": "Subal Kumbhakar",
+"papers": [
+{
+"title": "A Practitioner's Guide to Stochastic Frontier Analysis",
+"authors": [
+"Subal Kumbhakar",
+"Hung-Jen Wang",
+"A. Horncastle"
+],
+"year": 2015,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Efficiency Analysis: A Primer on Recent Advances",
+"authors": [
+"Subal Kumbhakar",
+"C. Parmeter"
+],
+"year": 2014,
+"venue": "NOW Publishing",
+"status": "published"
+},
+{
+"title": "Stochastic Frontier Analysis",
+"authors": [
+"Subal Kumbhakar",
+"Knox Lovell"
+],
+"year": 2000,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Worldwide well-being efficiency and its determinants: New insights from the Ordered Probit Stochastic Frontier Model",
+"authors": [
+"Subal Kumbhakar",
+"Badenenko",
+"Cordero"
+],
+"year": null,
+"venue": "Economic Modelling",
+"status": "forthcoming"
+},
+{
+"title": "Productivity Dynamics, Innovation and Endogeneity: A Semiparametric Stochastic Frontiers Approach",
+"authors": [
+"Subal Kumbhakar",
+"F. Alemayehu",
+"K. Sun"
+],
+"year": 2026,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Productivity and growth decomposition: a novel single-index smooth-coefficient stochastic frontier approach",
+"authors": [
+"Subal Kumbhakar",
+"K. Sun",
+"G. Lien"
+],
+"year": 2025,
+"venue": "European Review of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "The Generalized Panel Data Stochastic Frontier Models: A Review and Nonparametric Estimation",
+"authors": [
+"Subal Kumbhakar",
+"Chris Parmeter"
+],
+"year": 2025,
+"venue": "Journal of Productivity Analysis",
+"status": "published"
+},
+{
+"title": "A new semiparametric stochastic frontier model: addressing inefficiency and model flexibility using panel data",
+"authors": [
+"Subal Kumbhakar",
+"Taining Wang",
+"Kai Sun"
+],
+"year": 2025,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "Some Reflections on Technical and Allocative Inefficiency Modelling",
+"authors": [
+"Subal Kumbhakar"
+],
+"year": 2025,
+"venue": "Tourism Economics",
+"status": "published"
+},
+{
+"title": "A Flexible Stochastic Production Frontier Model with Panel Data",
+"authors": [
+"Subal Kumbhakar",
+"T. Wang",
+"F. Yao"
+],
+"year": 2024,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "Estimating COVID-19 under-reporting through Stochastic Frontier Analysis and Official Statistics: A Case Study of São Paulo State, Brazil",
+"authors": [
+"Subal Kumbhakar",
+"Andre Danelon"
+],
+"year": 2023,
+"venue": "Socio-Economic Planning Sciences",
+"status": "published"
+},
+{
+"title": "Indirect inference estimation of stochastic production frontier models with skew-normal noise",
+"authors": [
+"Subal Kumbhakar",
+"Hung-pin Lai"
+],
+"year": 2023,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "The GMM Estimation of Semiparametric Spatial Stochastic Frontier Models",
+"authors": [
+"Subal Kumbhakar",
+"Z. Hou",
+"S. Zhao"
+],
+"year": 2022,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Recent Advances in the Panel Stochastic Frontier Models: Heterogeneity, Endogeneity and Dependence",
+"authors": [
+"Subal Kumbhakar",
+"H-P Lai"
+],
+"year": 2022,
+"venue": "International Journal of Empirical Economics",
+"status": "published"
+},
+{
+"title": "A panel frontier system model with good and bad outputs and endogenous treatment decision",
+"authors": [
+"Subal Kumbhakar",
+"H-p. Lai"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Panel Stochastic Frontier Model with Endogenous Inputs and Correlated Random Components",
+"authors": [
+"Subal Kumbhakar",
+"H-P Lai"
+],
+"year": 2021,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published"
+},
+{
+"title": "Modeling Dependence in Two-Tier Stochastic Frontier Models",
+"authors": [
+"Subal Kumbhakar",
+"A. Papadopoulos",
+"C. Parmeter"
+],
+"year": 2021,
+"venue": "Journal of Productivity Analysis",
+"status": "published"
+},
+{
+"title": "Stochastic frontier models with time-varying conditional variances",
+"authors": [
+"Subal Kumbhakar",
+"M. Tsionas"
+],
+"year": 2021,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Persistent and Transient Inefficiency in Adult Education",
+"authors": [
+"Subal Kumbhakar",
+"Badunenko",
+"Mazrekaj",
+"DeWitte"
+],
+"year": 2021,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "A Multi-output, Multi-input Stochastic Frontier System with Input- and Output-Specific Inefficiency",
+"authors": [
+"Subal Kumbhakar",
+"H-p Lai"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Technical efficiency and inefficiency: Reliability of standard SFA models and a misspecification problem",
+"authors": [
+"Subal Kumbhakar",
+"A. Peresetsky",
+"Y. Shchetynin",
+"A. Zaytsev"
+],
+"year": 2021,
+"venue": "Econometrics and Statistics",
+"status": "published"
+},
+{
+"title": "Dissections of Input and Output Efficiency: A Generalized Stochastic Frontier Model",
+"authors": [
+"Subal Kumbhakar",
+"M. Tsionas"
+],
+"year": 2021,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "On the Estimation of Technical and Allocative Efficiency in a Panel Stochastic Production Frontier System Model: Some New Formulations and Generalizations",
+"authors": [
+"Subal Kumbhakar",
+"Tsionas"
+],
+"year": 2020,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Estimation of a Dynamic Stochastic Frontier Model using Likelihood-based Approaches",
+"authors": [
+"Subal Kumbhakar",
+"H-p Lai"
+],
+"year": 2019,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "Technical and Allocative Efficiency in a Panel Stochastic Production Frontier System Model",
+"authors": [
+"Subal Kumbhakar",
+"H-p Lai"
+],
+"year": null,
+"venue": null,
+"status": "published"
+}
+]
+},
+"siming liu": {
+"name": "Siming Liu",
+"papers": [
+{
+"title": "Government Spending During Sudden Stop Crises",
+"authors": [
+"Siming Liu"
+],
+"year": 2022,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Fiscal Commitment and Sovereign Default Risk",
+"authors": [
+"Siming Liu",
+"Hewei Shen"
+],
+"year": 2022,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Sudden Stop with Local Currency Debt",
+"authors": [
+"Siming Liu",
+"Chang Ma",
+"Hewei Shen"
+],
+"year": null,
+"venue": "Journal of International Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Sovereign Default and Labor Market Dynamics",
+"authors": [
+"Siming Liu",
+"Hewei Shen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Technology Diffusion and Currency Risk Premia",
+"authors": [
+"Siming Liu",
+"Min Cui",
+"Ilias Filippou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Persistent Fiscal Expansion in a Financial Crisis Economy",
+"authors": [
+"Siming Liu",
+"Hewei Shen",
+"Wenya Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Private Fiscal Information and Sovereign Default Risk",
+"authors": [
+"Siming Liu",
+"Ruoyun Mao",
+"Hewei Shen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"sulagna mookerjee": {
+"name": "Sulagna Mookerjee",
+"papers": [
+{
+"title": "Economic Empowerment and Mental Health: Evidence from India",
+"authors": [
+"Sulagna Mookerjee",
+"Ajinkya Keskar"
+],
+"year": null,
+"venue": "Economic Development and Cultural Change",
+"status": "forthcoming"
+},
+{
+"title": "Post-Marital Residence and Female Wellbeing",
+"authors": [
+"Sulagna Mookerjee",
+"Umair Khalil",
+"Arijit Ray"
+],
+"year": 2024,
+"venue": "Journal of Population Economics",
+"status": "published"
+},
+{
+"title": "Test Scores, Schools, and the Geography of Economic Opportunity",
+"authors": [
+"Sulagna Mookerjee",
+"David Slichter"
+],
+"year": 2023,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Time Use and the Geography or Economic Opportunity",
+"authors": [
+"Sulagna Mookerjee",
+"John Pedersen",
+"David Slichter"
+],
+"year": 2023,
+"venue": "Research in Labor Economics",
+"status": "published"
+},
+{
+"title": "Informational Shocks and Street Food Safety: A Field Study in Urban India",
+"authors": [
+"Sulagna Mookerjee",
+"Denni Tommasi",
+"Gianmarco Daniele"
+],
+"year": 2021,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Social Interactions In Voting: Evidence From Indian Elections",
+"authors": [
+"Sulagna Mookerjee",
+"Umair Khalil",
+"Ryan Tierney"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Patrilocal Residence and Women's Welfare: Evidence from South Asia",
+"authors": [
+"Sulagna Mookerjee",
+"Umair Khalil"
+],
+"year": 2019,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Gender-Neutral Inheritance Laws, Family Structure, and Women's Social Status in India",
+"authors": [
+"Sulagna Mookerjee"
+],
+"year": 2019,
+"venue": "World Bank Economic Review",
+"status": "published"
+},
+{
+"title": "Role of Siblings in Marriage and Dowry Practices: Evidence from India",
+"authors": [
+"Sulagna Mookerjee",
+"Arigna Guha",
+"Ajinkya Keskar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Rainfall Timing, Agricultural Stress, and Child Discipline",
+"authors": [
+"Sulagna Mookerjee",
+"Umair Khalil",
+"Arijit Ray"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"lucas panico de lara": {
+"name": "Lucas Panico de Lara",
+"papers": []
+},
+"andreas pape": {
+"name": "Andreas Pape",
+"papers": []
+},
+"solomon polachek": {
+"name": "Solomon Polachek",
+"papers": [
+{
+"title": "The Economics of Earnings",
+"authors": [
+"Solomon Polachek",
+"W. Stanley Siebert"
+],
+"year": 1993,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Earnings Over the Lifecycle: The Mincer Earnings Function and Its Applications",
+"authors": [
+"Solomon Polachek"
+],
+"year": 2008,
+"venue": "NOW Publishing",
+"status": "published"
+},
+{
+"title": "Predicting the Future in Science, Economics, and Politics",
+"authors": [
+"Frank Wayman",
+"Paul R. Williamson",
+"Bruce Bueno de Mesquita",
+"Solomon Polachek"
+],
+"year": 2014,
+"venue": "Edward Elgar Press",
+"status": "published"
+},
+{
+"title": "Family Investments in Human Capital: Earnings of Women",
+"authors": [
+"Jacob Mincer",
+"Solomon Polachek"
+],
+"year": 1974,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Empirical Evidence on the Functional Form of the Income-Schooling Relationship",
+"authors": [
+"Solomon Polachek",
+"James Heckman"
+],
+"year": 1974,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Differences in Expected Post-School Investment as a Determinant of Market Wage Differentials",
+"authors": [
+"Solomon Polachek"
+],
+"year": 1975,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Potential Biases in Measuring Male-Female Discrimination",
+"authors": [
+"Solomon Polachek"
+],
+"year": 1975,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Occupational Segregation Among Women: An Alternative Hypothesis",
+"authors": [
+"Solomon Polachek"
+],
+"year": 1976,
+"venue": "Journal of Contemporary Business",
+"status": "published"
+},
+{
+"title": "A Life Cycle Approach to Migration: Analysis of the Perspicacious Peregrinator",
+"authors": [
+"Solomon Polachek",
+"F. Horvath"
+],
+"year": 1977,
+"venue": "Research in Labor Economics",
+"status": "published"
+},
+{
+"title": "Sex Differences in College Major",
+"authors": [
+"Solomon Polachek"
+],
+"year": 1978,
+"venue": "Industrial and Labor Relations Review",
+"status": "published"
+},
+{
+"title": "The Rate of Return to Schooling and The Business Cycle",
+"authors": [
+"Solomon Polachek",
+"T. Kniesner",
+"A. Padilla"
+],
+"year": 1978,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Women's Earnings Reexamined",
+"authors": [
+"Jacob Mincer",
+"Solomon Polachek"
+],
+"year": 1978,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Educational Production Functions: A Microeconomic Approach",
+"authors": [
+"Solomon Polachek"
+],
+"year": 1978,
+"venue": "Journal of Educational Statistics",
+"status": "published"
+}
+]
+},
+"david slichter": {
+"name": "David Slichter",
+"papers": [
+{
+"title": "Does welfare promote child development? Evidence from bunching",
+"authors": [
+"David Slichter",
+"Gregorio Caetano",
+"Jonathan Mansfield"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Part-time work might be best for health: Evidence using bunching-based model selection",
+"authors": [
+"David Slichter",
+"Héctor Ormeño"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why do workers from low-earning backgrounds earn less as adults?",
+"authors": [
+"David Slichter",
+"Md Shahadath Hossain",
+"Eric Nielsen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Is the mortality gap between red and blue states caused by policy?",
+"authors": [
+"David Slichter",
+"Jijeebisha Bhattarai",
+"Case Tatro"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Smile: A simple diagnostic for unconfoundedness",
+"authors": [
+"David Slichter"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The skills of rich and poor country workers",
+"authors": [
+"David Slichter",
+"Elisa Taveras",
+"Daniela Monge"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Testing instrument validity and identification with invalid instruments",
+"authors": [
+"David Slichter"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do better journals publish better estimates?",
+"authors": [
+"David Slichter",
+"N. Tran"
+],
+"year": 2025,
+"venue": "Journal of Political Economy Microeconomics",
+"status": "forthcoming"
+},
+{
+"title": "The long-run effects of consequential school accountability",
+"authors": [
+"J. Mansfield",
+"David Slichter"
+],
+"year": 2024,
+"venue": "Journal of Labor Economics",
+"status": "forthcoming"
+},
+{
+"title": "Test scores, schools, and the geography of economic opportunity",
+"authors": [
+"S. Mookerjee",
+"David Slichter"
+],
+"year": 2023,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Time use and the geography of economic opportunity",
+"authors": [
+"S. Mookerjee",
+"J. Pedersen",
+"David Slichter"
+],
+"year": 2023,
+"venue": "Research in Labor Economics",
+"status": "published"
+},
+{
+"title": "The employment effects of the minimum wage: A selection ratio approach to measuring treatment effects",
+"authors": [
+"David Slichter"
+],
+"year": 2023,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "Detecting and correcting for bias in Mendelian randomization analyses using Gene-by-Environment interactions",
+"authors": [
+"W. Spiller",
+"David Slichter",
+"J. Bowden",
+"G. Davey-Smith"
+],
+"year": 2019,
+"venue": "International Journal of Epidemiology",
+"status": "published"
+},
+{
+"title": "The health and economic impact of rotavirus vaccines in the 72 GAVI-eligible countries",
+"authors": [
+"S. Kim",
+"S. Sweet",
+"David Slichter",
+"S.J. Goldie"
+],
+"year": 2010,
+"venue": "BMC Public Health",
+"status": "published"
+},
+{
+"title": "Induced visual fading of complex images",
+"authors": [
+"D. Simons",
+"A. Lleras",
+"S. Martinez-Conde",
+"David Slichter",
+"E. Caddigan",
+"G. Nevarez"
+],
+"year": 2006,
+"venue": "Journal of Vision",
+"status": "published"
+}
+]
+},
+"yingjun su": {
+"name": "Yingjun Su",
+"papers": [
+{
+"title": "Under-Identification of Structural Models based on Timing and Information Set Assumptions",
+"authors": [
+"Daniel Ackerberg",
+"Garth Frazer",
+"Kyoo il Kim",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": 2023,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Ownership and Productivity in Vertically-Integrated Firms: Evidence from the Chinese Steel Industry",
+"authors": [
+"Loren Brandt",
+"Feitao Jiang",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": 2022,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "A Robust Approach to Estimating Production Functions: Replication of the ACF procedure",
+"authors": [
+"Kyoo il Kim",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": 2019,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "The Geography of Market Power: Evidence from the Chinese Steel Industry",
+"authors": [
+"Loren Brandt",
+"Feitao Jiang",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Pollution Prevention Enhance Firm Efficiency? Insights from US Manufacturing Firms",
+"authors": [
+"Sumaya Falak Memon",
+"Subal Kumbhakar",
+"Yingjun Su"
+],
+"year": null,
+"venue": "International Journal of Industrial Organization",
+"status": "revise_resubmit"
+},
+{
+"title": "Production Function Estimation Robust to Flexible Timing of Labor Input",
+"authors": [
+"Kyoo il Kim",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pollution Prevention or Green Innovation? Unraveling Firms' Environmental Choices",
+"authors": [
+"Sumaya Memon",
+"Wenya Wang",
+"Yingjun Su"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Capacity Investment Under Demand Uncertainty: Evidence from the Chinese Steel Industry",
+"authors": [
+"Loren Brandt",
+"Feitao Jiang",
+"Yao Luo",
+"Yingjun Su"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Vehicle Emission Standard and Air Pollution: Evidence from China",
+"authors": [
+"Jieqi Cai",
+"Yakai Yao",
+"Zhe Yuan",
+"Yingjun Su"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"susan wolcott": {
+"name": "Susan Wolcott",
+"papers": []
+},
+"y y wong": {
+"name": "Y.Y. Wong",
+"papers": [
+{
+"title": "Millennials' transition from School to Work",
+"authors": [
+"Y.Y. Wong",
+"Bowlus"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "A Dynamic Duration Approach to Venture Capital Exit",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2024,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Intermediation in Markets for Goods and Markets for Assets",
+"authors": [
+"Y.Y. Wong",
+"Nosal",
+"Wright"
+],
+"year": 2019,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "More on Middlemen: Equilibrium Entry and Efficiency in Markets with Intermediation",
+"authors": [
+"Y.Y. Wong",
+"Nosal",
+"Wright"
+],
+"year": 2015,
+"venue": "Journal of Money, Credit, and Banking",
+"status": "published"
+},
+{
+"title": "Buyers, Sellers, and Middlemen: Variation in Search Theoretic Themes",
+"authors": [
+"Y.Y. Wong",
+"Wright"
+],
+"year": 2014,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Computers and Gender Wage Differences",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2008,
+"venue": "Journal of Income Distribution",
+"status": "published"
+},
+{
+"title": "A Bivariate Interval Censorship Model for Partnership Formation",
+"authors": [
+"Y.Y. Wong",
+"Yu"
+],
+"year": 2007,
+"venue": "Journal of Multivariate Analysis",
+"status": "published"
+},
+{
+"title": "Why Do Only 5.5% of Black Men Marry White Women? The Impact of the Mating Taboo, Courtship Opportunities, and Individual Endowments",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2003,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Structural Estimation of Marriage Models",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2003,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "Can the Mortensen-Pissarides Model with Productivity Changes Explain U.S. Wage Inequality?",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2003,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "Specific-Capital in an Equilibrium Search Model",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2002,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Wage Differences and the Mating Taboo, 1970-1980",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2001,
+"venue": "Journal of Economics",
+"status": "published"
+},
+{
+"title": "Nonparticipation, Unemployment, and Inflation",
+"authors": [
+"Y.Y. Wong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Intermediation and Imperfect Credit",
+"authors": [
+"Y.Y. Wong",
+"Wright",
+"Qiao",
+"Gong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Structural Unemployment Duration",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2017,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Marriage Make Cents?",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2016,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Venture Capital Cycle",
+"authors": [
+"Y.Y. Wong"
+],
+"year": 2016,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"wei xiao": {
+"name": "Wei Xiao",
+"papers": [
+{
+"title": "Heuristic macroeconomic expectations",
+"authors": [
+"Wei Xiao"
+],
+"year": 2026,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Downward Wage Rigidity at the Zero Lower Bound",
+"authors": [
+"Wei Xiao"
+],
+"year": 2026,
+"venue": "The B.E. Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Initial anchors and limited information in learning-to-forecast experiments",
+"authors": [
+"Wei Xiao"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Understanding Probabilistic Expectations - a Behavioral Approach",
+"authors": [
+"Wei Xiao"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "A Note on the Slope of the Aggregate Demand Curve at the Zero Lower Bound",
+"authors": [
+"Wei Xiao",
+"Yangyang Ji"
+],
+"year": 2020,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Was the New Deal Expansionary?",
+"authors": [
+"Wei Xiao",
+"Yangyang Ji"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Bounded Rationality and the Ineffectiveness of Big-Bush Policies",
+"authors": [
+"Wei Xiao",
+"Junyi Xu"
+],
+"year": 2018,
+"venue": "The B.E. Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Instability of Sunspot Equilibria in Real Business Cycle Models Under Infinite Horizon Learning",
+"authors": [
+"Wei Xiao",
+"Yangyang Ji"
+],
+"year": 2017,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Government Purchase Multipliers and the Zero Lower Bound",
+"authors": [
+"Wei Xiao",
+"Yangyang Ji"
+],
+"year": 2016,
+"venue": "Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "News, Housing Boom-Bust Cycles, and Monetary Policy",
+"authors": [
+"Wei Xiao",
+"Birol Kanik"
+],
+"year": 2014,
+"venue": "International Journal of Central Banking",
+"status": "published"
+},
+{
+"title": "Expectations and Optimal Monetary Policy: A Stability Problem Revisited",
+"authors": [
+"Wei Xiao",
+"Junyi Xu"
+],
+"year": 2014,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Learning About Monetary Policy Rules When the Housing Market Matters",
+"authors": [
+"Wei Xiao"
+],
+"year": 2013,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "End of Double Taxation: Is the Policy Better When Announced?",
+"authors": [
+"Wei Xiao",
+"Nazneen Ahmad"
+],
+"year": 2013,
+"venue": "Journal of Policy Modeling",
+"status": "published"
+},
+{
+"title": "Investment and Monetary Policy: Determinacy and Learnability of Equilibrium",
+"authors": [
+"Wei Xiao",
+"John Duffy"
+],
+"year": 2011,
+"venue": "Journal of Money, Credit, and Banking",
+"status": "published"
+},
+{
+"title": "Increasing Returns and the Design of Interest Rate Rules",
+"authors": [
+"Wei Xiao"
+],
+"year": 2008,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "The Value of Interest Rate Stabilization Policies When Agents Are Learning",
+"authors": [
+"Wei Xiao",
+"John Duffy"
+],
+"year": 2007,
+"venue": "Journal of Money, Credit, and Banking",
+"status": "published"
+},
+{
+"title": "Instability of Sunspot Equilibria in One Sector RBC Models under Adaptive Learning",
+"authors": [
+"Wei Xiao",
+"John Duffy"
+],
+"year": 2007,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Prospect Theory and the Welfare Cost of Business Cycles",
+"authors": [
+"Wei Xiao",
+"Nazneen Ahmad"
+],
+"year": 2007,
+"venue": "Southwestern Journal of Economics",
+"status": "published"
+},
+{
+"title": "Can Indeterminacy Resolve the Cross-Country Correlation Puzzle?",
+"authors": [
+"Wei Xiao"
+],
+"year": 2004,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Explaining Speculative Expansions",
+"authors": [
+"Wei Xiao"
+],
+"year": 2004,
+"venue": "Contributions to Macroeconomics",
+"status": "published"
+},
+{
+"title": "Roundtable on Chinese Economic Statistics Introduction",
+"authors": [
+"Wei Xiao",
+"Thomas G Rawski"
+],
+"year": 2001,
+"venue": "China Economic Review",
+"status": "published"
+}
+]
+},
+"zili yang": {
+"name": "Zili Yang",
+"papers": [
+{
+"title": "The Environment and Externality: Theory, Algorithms, and Applications",
+"authors": [
+"Zili Yang"
+],
+"year": 2021,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Strategic Bargaining and Cooperation in Greenhouse Gas Mitigations: An Integrated Assessment Modeling Approach",
+"authors": [
+"Zili Yang"
+],
+"year": 2008,
+"venue": "The MIT Press",
+"status": "published"
+},
+{
+"title": "Common Mitigation Goals vs. Differentiated Social Carbon Pricing: Social Cost of Carbon (SCC) formation based on the Lindahl Equilibrium",
+"authors": [
+"Zili Yang"
+],
+"year": 2026,
+"venue": "Climate Change Economics",
+"status": "forthcoming"
+},
+{
+"title": "The Model Dimensionality and Its Impacts on the Strategic and Policy Outcomes in IAMs ---- Findings from the RICE2020 Model",
+"authors": [
+"Zili Yang"
+],
+"year": 2022,
+"venue": "Computational Economics",
+"status": "published"
+},
+{
+"title": "Climate Change and Externality",
+"authors": [
+"Zili Yang"
+],
+"year": 2020,
+"venue": "Climate Change Economics",
+"status": "published"
+},
+{
+"title": "Increasing Returns to Scale in Energy-Intensive Sectors and Its Implications on Climate Change Modeling",
+"authors": [
+"Zili Yang"
+],
+"year": 2019,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Likelihood of Environmental Coalitions and the number of coalition members --- Evidence from an IAM model",
+"authors": [
+"Zili Yang"
+],
+"year": 2017,
+"venue": "Annals of Operations Research",
+"status": "published"
+},
+{
+"title": "Mitigation Costs and Climate Damage vs. Incentive Shifts of Climate Coalition",
+"authors": [
+"Zili Yang"
+],
+"year": 2016,
+"venue": "Climate Change Economics",
+"status": "published"
+},
+{
+"title": "Transfers and the Samuelson Rule in Stock Externality Provision -- Why Do We Need Them Both?",
+"authors": [
+"Zili Yang"
+],
+"year": 2016,
+"venue": "Frontiers of Economics in China",
+"status": "published"
+},
+{
+"title": "Is the Leading Role Desirable? --- An Analysis of the Strategic Stackelberg Behavior in World Petroleum Market",
+"authors": [
+"Zili Yang"
+],
+"year": 2013,
+"venue": "Computational Economics",
+"status": "published"
+},
+{
+"title": "Identifying the Lindahl Equilibrium without Transfers as a Social Optimum",
+"authors": [
+"Zili Yang"
+],
+"year": 2013,
+"venue": "Metroeconomica",
+"status": "published"
+},
+{
+"title": "'Lucky' Numbers, Unlucky Consumers",
+"authors": [
+"Zili Yang"
+],
+"year": 2011,
+"venue": "The Journal of Socio-Economics",
+"status": "published"
+},
+{
+"title": "How Does ANWR Exploration Affect OPEC Behavior? A Simulative Study of an Open-loop Cournot-Nash Game",
+"authors": [
+"Zili Yang"
+],
+"year": 2008,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Negatively Correlated Local and Global Stock Externalities: Tax or Subsidy?",
+"authors": [
+"Zili Yang"
+],
+"year": 2006,
+"venue": "Environment and Development Economics",
+"status": "published"
+},
+{
+"title": "A Pseudo 'Folk' Theorem in the Strategic Provision of Stock Externalities",
+"authors": [
+"Zili Yang"
+],
+"year": 2003,
+"venue": "International Game Theory Review",
+"status": "published"
+},
+{
+"title": "Dual-Rate Discounting in Dynamic Economic-Environmental Modeling",
+"authors": [
+"Zili Yang"
+],
+"year": 2003,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Re-negotiation of Climate Change Coalitions: A Sequential Dynamic Game Approach",
+"authors": [
+"Zili Yang"
+],
+"year": 2003,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Time Preference, Stock Externalities and Strategic Reactions: Policy Implications in Climate Change",
+"authors": [
+"Zili Yang"
+],
+"year": 2001,
+"venue": "Environmental and Resource Economics",
+"status": "published"
+},
+{
+"title": "A Coupling Algorithm for Computing Large-Scale Dynamic Computable General Equilibrium Models",
+"authors": [
+"Zili Yang"
+],
+"year": 1999,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Should North Make Unilateral Technology Transfers to South? --- North-South Cooperation and Conflicts in Responses to Global Climate Change",
+"authors": [
+"Zili Yang"
+],
+"year": 1999,
+"venue": "Resource and Energy Economics",
+"status": "published"
+},
+{
+"title": "Optimal Exporting of the Exhaustible Resources with Endogenous Trade Revenue",
+"authors": [
+"Zili Yang"
+],
+"year": 1995,
+"venue": "Resource and Energy Economics",
+"status": "published"
+},
+{
+"title": "China's carbon emissions and energy demand under different methods of global mitigation cooperation: application of an extended RICE model with energy details",
+"authors": [
+"K. Zhang",
+"Q. Liang",
+"H. Liao",
+"B. Yu",
+"Y. Wei",
+"Zili Yang"
+],
+"year": 2023,
+"venue": "Energy",
+"status": "published"
+},
+{
+"title": "Effect of Market Structures on Renewable Energy Development -- A Simulation Study of a Regional Electricity Market in China",
+"authors": [
+"X. Zhao",
+"Zili Yang"
+],
+"year": 2023,
+"venue": "Renewable Energy",
+"status": "published"
+},
+{
+"title": "The Construction of a Comprehensive Multidimensional Energy Index",
+"authors": [
+"Guochang Fang",
+"Lixin Tian",
+"Zili Yang"
+],
+"year": 2020,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Self-preservation Strategy for Approaching Global Warming Targets in the Post-Paris Agreement Era",
+"authors": [
+"Y. M. Wei",
+"Zili Yang"
+],
+"year": 2020,
+"venue": "Nature Communications",
+"status": "published"
+},
+{
+"title": "An integrated assessment of INDCs under shared socioeconomic pathways: an implementation of C3IAM",
+"authors": [
+"Y.M. Wei",
+"Zili Yang"
+],
+"year": 2018,
+"venue": "Natural Hazards",
+"status": "published"
+},
+{
+"title": "The Stability and Effectiveness of Climate Coalitions: a Comparative Analysis of Multiple Integrated Assessment Models",
+"authors": [
+"Kei Lessmann",
+"Ulrike Kornek",
+"Valentina Bosetti",
+"Rob Dellink",
+"Johannes Emmerling",
+"Johan Eyckmans",
+"Miyuki Nagashima",
+"Hans-Peter Weikard",
+"Zili Yang"
+],
+"year": 2015,
+"venue": "Environmental and Resource Economics",
+"status": "published"
+},
+{
+"title": "Tackling Negatively Correlated Global and Local Stock Externalities --- An Economic Study of Multiple Gases Issue in Climate Change",
+"authors": [
+"Surabi Menon",
+"Zili Yang"
+],
+"year": 2013,
+"venue": "Climate Change Economics",
+"status": "published"
+},
+{
+"title": "Contemporary Fairness vs. Historical Justice --- A Normative Analysis of Regional GHG Emissions",
+"authors": [
+"P. Sirianni",
+"Zili Yang"
+],
+"year": 2010,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Magnitude and Direction of Technological Transfers for GHG Mitigation",
+"authors": [
+"W.D. Nordhaus",
+"Zili Yang"
+],
+"year": 2006,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Integrated Global System Model (IGSM) for Climate Policy Analysis: Feedbacks and Sensitivity Studies",
+"authors": [
+"H. Jacoby",
+"R. Prinn",
+"Zili Yang"
+],
+"year": 1999,
+"venue": "Climatic Change",
+"status": "published"
+},
+{
+"title": "CO2 Emission Limits: Economic Adjustments and the Distribution of Burdens",
+"authors": [
+"H.D. Jacoby",
+"Zili Yang"
+],
+"year": 1997,
+"venue": "The Energy Journal",
+"status": "published"
+},
+{
+"title": "Economic Assessment of CO2 Capture and Disposal",
+"authors": [
+"R. S. Eckaus",
+"Zili Yang"
+],
+"year": 1997,
+"venue": "Energy Conversion and Management",
+"status": "published"
+},
+{
+"title": "A Regional Dynamic General-Equilibrium Model of Alternative Climate-Change Strategies",
+"authors": [
+"William D. Nordhaus",
+"Zili Yang"
+],
+"year": 1996,
+"venue": "American Economic Review",
+"status": "published"
+}
+]
+},
+"bong joon yoon": {
+"name": "Bong Joon Yoon",
+"papers": [
+{
+"title": "Variable Elasticity of Substitution in Urban Housing Production",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare"
+],
+"year": 1981,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "A Model of Unemployment Duration with Variable Search Intensity",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1981,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Uncertain Labor Costs and Mining Ventures: A Bayesian Approach",
+"authors": [
+"Bong Joon Yoon",
+"J. Myers"
+],
+"year": 1982,
+"venue": "Materials and Society",
+"status": "published"
+},
+{
+"title": "A Theoretical and Empirical Analysis of the Highway Speed-Volume Relationship",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare",
+"S. Grosskopf"
+],
+"year": 1982,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "A Regression Model of the Heteroscedastic Error Variance",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1982,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Intersectoral Resource Flows and Economic Development: The Case of India",
+"authors": [
+"Bong Joon Yoon",
+"R. Grabowski"
+],
+"year": 1982,
+"venue": "The Indian Journal of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "Poverty and Grain Growth in Rural India",
+"authors": [
+"Bong Joon Yoon",
+"R. Grabowski"
+],
+"year": 1982,
+"venue": "Economic Planning",
+"status": "published"
+},
+{
+"title": "An Alternative View of Production and Technical Change in Agriculture: Weak Disposability of Inputs",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare",
+"R. Grabowski"
+],
+"year": 1984,
+"venue": "Journal of Developing Areas",
+"status": "published"
+},
+{
+"title": "An Empirical Investigation of Returns to Scale: Welsh Coal Industry",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare"
+],
+"year": 1984,
+"venue": "Resources Policy",
+"status": "published"
+},
+{
+"title": "Intersectoral Terms of Trade, Industrial Labor Supply, and the Classical Model: Early Japanese Experience",
+"authors": [
+"Bong Joon Yoon",
+"R. Grabowski"
+],
+"year": 1984,
+"venue": "Developing Economies",
+"status": "published"
+},
+{
+"title": "Technological Change in Urban Housing Production",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare"
+],
+"year": 1984,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "A Nonstationary Hazard Function of Leaving Unemployment for Employment",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1985,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "On Capital-Land Substitution in Urban Housing Production",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare"
+],
+"year": 1985,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Returns to Scale in Surface Mining of Coal",
+"authors": [
+"Bong Joon Yoon",
+"R. Fare"
+],
+"year": 1985,
+"venue": "Resources and Energy",
+"status": "published"
+},
+{
+"title": "An Alternative to the Box-Cox Transformation in Model Discrimination",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1985,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "A Two-Tiered Earnings Frontier Estimation of Employer and Employee Information in the Labor Market",
+"authors": [
+"Bong Joon Yoon",
+"Solomon Polachek"
+],
+"year": 1987,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Risk Behavior under Linear Utility Function",
+"authors": [
+"Bong Joon Yoon",
+"Y. Kim"
+],
+"year": 1987,
+"venue": "International Economic Journal",
+"status": "published"
+},
+{
+"title": "Continuous Time Optimization, Reservation Wage Path and External Shocks",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1988,
+"venue": "Seoul Economic Journal",
+"status": "published"
+},
+{
+"title": "A Test of Heterogeneity in Constant Hazard Models Using Least Squares",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1991,
+"venue": "Seoul Journal of Economics",
+"status": "published"
+},
+{
+"title": "Panel Estimates of a Two-Tiered Earnings Frontier",
+"authors": [
+"Bong Joon Yoon",
+"Solomon Polachek"
+],
+"year": 1996,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "Labor Cost Increases and the Currency Crisis of Korea",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1998,
+"venue": "Korea Observer",
+"status": "published"
+},
+{
+"title": "The Korean Financial Crisis, the Chaebol, and Economic Reform",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1999,
+"venue": "Korea Observer",
+"status": "published"
+},
+{
+"title": "Why is labor so militant in S. Korea",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2000,
+"venue": "East Asian Economic Perspectives",
+"status": "published"
+},
+{
+"title": "China's Economic Reform and Regional Differentials in Industry Productivity",
+"authors": [
+"Bong Joon Yoon",
+"B.-Y. Liu"
+],
+"year": 2000,
+"venue": "Journal of Economic Development",
+"status": "published"
+},
+{
+"title": "Why is labor so militant in S. Korea: An Extension",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2001,
+"venue": "East Asian Economic Perspectives",
+"status": "published"
+},
+{
+"title": "Economic Disadvantages of Blacks in High Black Proportion Cities",
+"authors": [
+"Bong Joon Yoon",
+"Cheonsoo Park"
+],
+"year": 2003,
+"venue": "Journal of Economic Development",
+"status": "published"
+},
+{
+"title": "Religiosity, Economics and Life Satisfaction",
+"authors": [
+"Bong Joon Yoon",
+"Ken Greene"
+],
+"year": 2004,
+"venue": "Review of Social Economy",
+"status": "published"
+},
+{
+"title": "Labor Militancy in South Korea",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2005,
+"venue": "Asian Economic Journal",
+"status": "published"
+},
+{
+"title": "Welfare Programs for the Global Era: Lessons from the U.S. Experience",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2008,
+"venue": "Journal of Economic Development",
+"status": "published"
+},
+{
+"title": "The Great Recession of the US and Lessons from the Past",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2011,
+"venue": "SERI Quarterly",
+"status": "published"
+},
+{
+"title": "A History of Underdevelopment in Africa and Social Capital: From Slave Trade to Civil Wars",
+"authors": [
+"Bong Joon Yoon",
+"Kpoti Kitissou"
+],
+"year": 2014,
+"venue": "The Journal of Pan African Studies",
+"status": "published"
+},
+{
+"title": "Female Household Labor and Financial Settlement at Divorce: Evidence from South Korean Judicial Decisions",
+"authors": [
+"Bong Joon Yoon",
+"Jeungil Oh"
+],
+"year": 2017,
+"venue": "Kyungpook National University Law Journal",
+"status": "published"
+},
+{
+"title": "A Study on the Decision-Making Behavior of Judge in the Criminal Trial: The Effect of Sentencing Guideline in South Korea",
+"authors": [
+"Bong Joon Yoon",
+"Seong-Kyoon Kim",
+"Jeungil Oh"
+],
+"year": 2020,
+"venue": "International Economic Journal",
+"status": "published"
+},
+{
+"title": "Demand for HIV Testing and Condom Use in Malawi",
+"authors": [
+"Bong Joon Yoon",
+"Kpoti Kitissou"
+],
+"year": null,
+"venue": "New York Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "The Impact of an Epidemic: An Analysis of HIV and Early Marriage for Women in Sub-Saharan Africa",
+"authors": [
+"Bong Joon Yoon",
+"Kpoti Kitissou"
+],
+"year": null,
+"venue": "Feminist Economics",
+"status": "working_paper"
+},
+{
+"title": "Do Rising Wage Rates Worsen Trade Balance?",
+"authors": [
+"Bong Joon Yoon",
+"T. Kim"
+],
+"year": 1990,
+"venue": "Korea Labor Review",
+"status": "published"
+},
+{
+"title": "Industrial Sector Specific Effects and Export Competitiveness Effects of Wage Increase and Currency Appreciation",
+"authors": [
+"Bong Joon Yoon",
+"H. Bae",
+"W. Lee"
+],
+"year": 1991,
+"venue": "Korea Economic Studies",
+"status": "published"
+},
+{
+"title": "An Analysis of Current Labor Relations in Korea: Unionization, Strikes, and Unfair Labor Practices",
+"authors": [
+"Bong Joon Yoon",
+"T. Kim"
+],
+"year": 1993,
+"venue": "Korean Economic Studies",
+"status": "published"
+},
+{
+"title": "Productivity Effects of the Labor Union",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1993,
+"venue": "Korean Econometric Review",
+"status": "published"
+},
+{
+"title": "Labor Market Rigidities in Korean Manufacturing",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1995,
+"venue": "Korean Economic Studies",
+"status": "published"
+},
+{
+"title": "Labor Relations under Globalization: the Nexus of Welfare Statism and Labor Unions",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 1996,
+"venue": "Korean Economic Studies",
+"status": "published"
+},
+{
+"title": "Modernization of Three Developed Countries: How England, America, and Japan developed and why China and Korea got behind",
+"authors": [
+"Bong Joon Yoon"
+],
+"year": 2008,
+"venue": "Samsung Economic Research Institute",
+"status": "published"
+}
+]
+},
+"anthony del vecchio": {
+"name": "Anthony Del Vecchio",
+"papers": []
+},
+"shrijata chattopadhyay": {
+"name": "Shrijata Chattopadhyay",
+"papers": [
+{
+"title": "Transmission of Information from Private to Public Markets",
+"authors": [
+"Shrijata Chattopadhyay",
+"John J. McConnell",
+"Timothy E. Trombley",
+"M. Deniz Yavuz"
+],
+"year": null,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "forthcoming"
+},
+{
+"title": "Partners in Crime or Checks on Power? Syndication and Interim Performance Manipulation in Venture Capital",
+"authors": [
+"Shrijata Chattopadhyay"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Price of Pride: Corporate Responses to Politicized Social Issues",
+"authors": [
+"Shrijata Chattopadhyay",
+"Sameer Borwankar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dark Side of Embeddedness: Embeddedness in VC Syndicates and VC Performance Manipulation",
+"authors": [
+"Shrijata Chattopadhyay",
+"Umit Ozmel Yavuz",
+"Ranjay Gulati"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How VC Funds Avoid Shareholder Lawsuits from LPs Who are Jealous of Sister Funds",
+"authors": [
+"Shrijata Chattopadhyay",
+"Timothy E. Trombley"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Cofounder matching",
+"authors": [
+"Shrijata Chattopadhyay",
+"Jiacheng Liu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"brad cannon": {
+"name": "Brad Cannon",
+"papers": [
+{
+"title": "Does Cross-Sectional Return Extrapolation Explain Anomalies?",
+"authors": [
+"Brad Cannon",
+"John Lynch"
+],
+"year": 2025,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "The Asset Growth Return Premium and Anchoring on the 52-Week High",
+"authors": [
+"Brad Cannon",
+"Ben Blau"
+],
+"year": 2025,
+"venue": "Journal of Financial Research",
+"status": "published"
+},
+{
+"title": "Swimming Against the Current: Contrarian Retail Trading",
+"authors": [
+"Brad Cannon",
+"Hannes Mohrschladt"
+],
+"year": null,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "revise_resubmit"
+},
+{
+"title": "Diagnostic Expectations and Hedge Fund Flows",
+"authors": [
+"Brad Cannon",
+"Rui Gong",
+"John Lynch"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Banking Competition Really Increase Credit for All? The Effect of Bank Branching Deregulation on Small Business Credit",
+"authors": [
+"Brad Cannon",
+"John Lynch"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Friends with Benefits: Social Capital and Household Financial Behavior",
+"authors": [
+"Brad Cannon",
+"David Hirshleifer",
+"Josh Thornton"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Lenders Learn from Peer Firm Valuations?",
+"authors": [
+"Brad Cannon",
+"John Lynch",
+"Josh Thornton"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Perception Matters: How Executive Vocal Masculinity Influences CEO Selection and Compensation",
+"authors": [
+"Brad Cannon",
+"John Lynch",
+"Amin Shams"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Extreme Return Days and the Role of Purchase Prices",
+"authors": [
+"Brad Cannon",
+"Hannes Mohrschladt"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"cihan uzmanoglu": {
+"name": "Cihan Uzmanoglu",
+"papers": []
+},
+"jinpu yang": {
+"name": "Jinpu Yang",
+"papers": [
+{
+"title": "The Unintended Consequences of Interest Rate Caps on Small-Dollar Loans",
+"authors": [
+"Jinpu Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Measuring Bias in Innovation",
+"authors": [
+"Jinpu Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"daniel mckeever": {
+"name": "Daniel McKeever",
+"papers": [
+{
+"title": "Tax-Loss Harvesting under Uncertainty",
+"authors": [
+"McKeever, D.",
+"Rydqvist, K."
+],
+"year": 2022,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Stumpage Price Distributions and Correlations and Their Impact On Timberland Investment Modeling: An Analysis Using Maine Stumpage Prices (1961–2017)",
+"authors": [
+"Eckardt, R.",
+"Lutz, J.",
+"MacKay, D.",
+"McKeever, D."
+],
+"year": 2022,
+"venue": "Journal of Forestry",
+"status": "published"
+},
+{
+"title": "Microprudential Bank Capital Regulation in a Complex System",
+"authors": [
+"McKeever, D."
+],
+"year": 2023,
+"venue": "Heliyon",
+"status": "published"
+},
+{
+"title": "Coherent Option Pricing",
+"authors": [
+"Daniel McKeever",
+"Charles Cao",
+"Tim Simin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Lucky or Good? An Empirical Analysis of Resource-Picking in Strategic Factor Markets",
+"authors": [
+"Daniel McKeever",
+"Rory Eckardt",
+"Tom Moliterno",
+"Jay Barney"
+],
+"year": null,
+"venue": "Management Science",
+"status": "working_paper"
+},
+{
+"title": "Pricing Gamma Risk in the Cross-Section of Index Option Bid-Ask Spreads",
+"authors": [
+"Daniel McKeever"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Matchmaking in the Labor Market for Governance",
+"authors": [
+"Daniel McKeever"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"mohit desai": {
+"name": "Mohit Desai",
+"papers": []
+},
+"minsu ko": {
+"name": "Minsu Ko",
+"papers": [
+{
+"title": "Politics, regulation, and bank payouts",
+"authors": [
+"Minsu Ko",
+"Rüdiger Fahlenbrach",
+"René Stulz"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How do managers’ expectations affect share repurchases?",
+"authors": [
+"Minsu Ko"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Information frictions and the real effects of sustainable investing",
+"authors": [
+"Minsu Ko",
+"Cynthia Yin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"murali jagannathan": {
+"name": "Murali Jagannathan",
+"papers": [
+{
+"title": "Trust in founders",
+"authors": [
+"Murali Jagannathan",
+"Xu Niu",
+"Brett Myers"
+],
+"year": null,
+"venue": "Journal of Banking and Finance",
+"status": "forthcoming"
+},
+{
+"title": "The Impact of labor on the performance of founder-family firms",
+"authors": [
+"Murali Jagannathan",
+"Brett Myers",
+"Xu Niu"
+],
+"year": 2023,
+"venue": "Journal of Financial Research",
+"status": "published"
+},
+{
+"title": "Is There a Home Field Advantage in Global Markets?",
+"authors": [
+"Murali Jagannathan",
+"Wei Jiao",
+"Andrew Karolyi"
+],
+"year": 2022,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Board committees and Director Departures",
+"authors": [
+"Murali Jagannathan",
+"Srini Krishnamurthy",
+"Joshua Spizman"
+],
+"year": 2021,
+"venue": "Financial Review",
+"status": "published"
+},
+{
+"title": "Missing them yet? Investment banker directors in the 21st century",
+"authors": [
+"Murali Jagannathan",
+"Wei Jiao",
+"Srini Krishnamurthy"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Do Delaware CEOs get Fired?",
+"authors": [
+"Murali Jagannathan",
+"Adam Pritchard"
+],
+"year": 2017,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Why are firms unlevered?",
+"authors": [
+"Murali Jagannathan",
+"Erik Devos",
+"Upinder Dhillon",
+"Srini Krishnamurthy"
+],
+"year": 2012,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Accounting, Finance and Adverse Selection: Illustrations and Applications",
+"authors": [
+"Murali Jagannathan",
+"Steven Schwartz",
+"Joshua Spizman",
+"Richard Young"
+],
+"year": 2011,
+"venue": "Journal of Accounting Literature",
+"status": "published"
+},
+{
+"title": "Investment Banker Directors and Affiliated Analysts’ Forecasts",
+"authors": [
+"Murali Jagannathan",
+"Srini Krishnamurthy"
+],
+"year": 2005,
+"venue": "Journal of Investment Management",
+"status": "published"
+},
+{
+"title": "Motives for Multiple Open-market Repurchase Programs",
+"authors": [
+"Murali Jagannathan",
+"Clifford P. Stephens"
+],
+"year": 2003,
+"venue": "Financial Management",
+"status": "published"
+},
+{
+"title": "Too busy to Mind the Business? Monitoring by directors with Multiple Board Appointments",
+"authors": [
+"Murali Jagannathan",
+"Stephen P. Ferris",
+"Adam C. Pritchard"
+],
+"year": 2003,
+"venue": "Journal of Finance",
+"status": "published"
+},
+{
+"title": "The Private Equity Discount: An Empirical Examination of the Exit of Venture Backed Companies",
+"authors": [
+"Murali Jagannathan",
+"Sanjiv Das",
+"Atulya Sarin"
+],
+"year": 2003,
+"venue": "Journal of Investment Management",
+"status": "published"
+},
+{
+"title": "The Incidence and Determinants of Multiple Corporate Directorships",
+"authors": [
+"Murali Jagannathan",
+"Stephen P. Ferris"
+],
+"year": 2001,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Financial Flexibility and The Choice Between Dividends and Stock Repurchases",
+"authors": [
+"Murali Jagannathan",
+"Clifford P. Stephens",
+"Michael S. Weisbach"
+],
+"year": 2000,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "International Characteristic-Based Asset Pricing",
+"authors": [
+"Murali Jagannathan",
+"Wei Jiao",
+"Russ Wermers"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Privately Negotiated Repurchases and Monitoring by Block Shareholders",
+"authors": [
+"Murali Jagannathan",
+"Clifford Stephens"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dual-Class and Majority-Owned Firms: Performance and Governance",
+"authors": [
+"Murali Jagannathan",
+"John Howe"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Internal Control Mechanisms and Forced CEO Turnover: An Empirical Investigation",
+"authors": [
+"Murali Jagannathan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When does Insider Trading Increase Ligitation Risk?",
+"authors": [
+"Murali Jagannathan",
+"Seonghee Han",
+"Srini Krishnamurthy"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Repurchase Completion and Unexpected Investments",
+"authors": [
+"Murali Jagannathan",
+"Seonghee Han"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why do retirement policies affect firm value?",
+"authors": [
+"Murali Jagannathan",
+"YC Loon"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"kristian rydqvist": {
+"name": "Kristian Rydqvist",
+"papers": []
+},
+"william w xiong": {
+"name": "William W. Xiong",
+"papers": [
+{
+"title": "Understanding Green Returns in Global Equity Markets: The Role of Representation Bias",
+"authors": [
+"William W. Xiong",
+"Andrew Karolyi",
+"Ying Wu"
+],
+"year": null,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "The World Market Price of Biodiversity Risk",
+"authors": [
+"William W. Xiong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Trading Pauses, High-Frequency Activity, and Market Quality",
+"authors": [
+"William W. Xiong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"anthony meder": {
+"name": "Anthony Meder",
+"papers": [
+{
+"title": "On the optimal design of peer monitoring systems in capital budgeting",
+"authors": [
+"Anthony Meder",
+"Anthony Nikias",
+"Steven Schwartz",
+"Rick Young"
+],
+"year": 2024,
+"venue": "Managerial and Decision Economics",
+"status": "published"
+},
+{
+"title": "Whither the hidden returns to control: A Short Research Paper",
+"authors": [
+"Anthony Meder",
+"Jing Liu",
+"Steve Schwartz",
+"Rick Young"
+],
+"year": 2022,
+"venue": "Managerial and Decision Economics",
+"status": "published"
+},
+{
+"title": "Bandits and Bounties: The Interaction of Information Search and Investment Decisions.",
+"authors": [
+"Anthony Meder",
+"Steven Schwartz",
+"Rick Young"
+],
+"year": 2019,
+"venue": "Accounting Research Journal",
+"status": "published"
+},
+{
+"title": "A New Measure of Firm-Group Accounting Closeness.",
+"authors": [
+"Anthony Meder",
+"Jonathan Ross",
+"Dave Ziebart"
+],
+"year": 2019,
+"venue": "Review of Quantitative Finance and Accounting",
+"status": "published"
+},
+{
+"title": "Cross-Acceleration and the Relationship Between Bond Yields and Board Independence.",
+"authors": [
+"Anthony Meder",
+"Steven Schwartz",
+"Rick Young"
+],
+"year": 2019,
+"venue": "Advances in Accounting",
+"status": "published"
+},
+{
+"title": "Subjective Beliefs and Management Control: A User’s Guide and a Model Extension.",
+"authors": [
+"Anthony Meder",
+"Steven Schwarz",
+"Eric Spires",
+"Rick Young"
+],
+"year": 2016,
+"venue": "Federation of Business Disciplines Journal",
+"status": "published"
+},
+{
+"title": "Interaction Between Accounting Standards and Monetary Policy: The Effect of SFAS 115.",
+"authors": [
+"Anthony Meder"
+],
+"year": 2015,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Bank Runs and Accounting for Illiquid Assets in Financial Statements",
+"authors": [
+"Anthony Meder",
+"Steven Schwartz",
+"Mark Wu",
+"Rick Young"
+],
+"year": 2014,
+"venue": "Accounting Education: An International Journal",
+"status": "published"
+},
+{
+"title": "Structured Finance and Mark-to-model Accounting: A Few Simple Illustrations.",
+"authors": [
+"Anthony Meder",
+"Steven Schwartz",
+"Eric Spires",
+"Rick Young"
+],
+"year": 2011,
+"venue": "Accounting Horizons",
+"status": "published"
+},
+{
+"title": "Using Payroll Taxes for Working Capital: Path to Financial Ruin.",
+"authors": [
+"Anthony Meder",
+"Justin Fox"
+],
+"year": 2004,
+"venue": "The Tax Adviser",
+"status": "published"
+}
+]
+},
+"christopher rossetti": {
+"name": "Christopher Rossetti",
+"papers": [
+{
+"title": "Do Auditors Treat Clients Engaging in Research and Development Differently When Issuing Going Concern Modifications?",
+"authors": [
+"Christopher Rossetti",
+"Scott Bronson",
+"Adi Masli"
+],
+"year": null,
+"venue": "Auditing: A Journal of Practice and Theory",
+"status": "revise_resubmit"
+},
+{
+"title": "The Effects of Auditor-Client Cooperation on Audit Quality: Evidence from Sports Playoff Runs",
+"authors": [
+"Christopher Rossetti",
+"Kristin Stack",
+"Amanda Winn"
+],
+"year": null,
+"venue": "Auditing: A Journal of Practice and Theory",
+"status": "working_paper"
+},
+{
+"title": "Weathering the Storm – The Influence of Weather on Financial Reporting Quality",
+"authors": [
+"Christopher Rossetti",
+"Stefanie Tate"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Managerial Entrenchment and Firm Business Outcomes",
+"authors": [
+"Christopher Rossetti",
+"Yijun Li",
+"Adi Masli",
+"Kristin Stack"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Coffee, Alcohol, and Marijuana Consumption and their Effects on Audit Quality",
+"authors": [
+"Christopher Rossetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sleep Deprivation and its effect on Audit Quality",
+"authors": [
+"Christopher Rossetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"flora sun": {
+"name": "Flora Sun",
+"papers": [
+{
+"title": "Common Media Holding Companies and the Uniqueness of Business Press Content",
+"authors": [
+"Flora Sun",
+"Kenneth Merkley",
+"Joseph Pacelli",
+"Brady Twedt"
+],
+"year": 2025,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "After-Hours Market Reactions and Media Coverage of Firms’ Earnings Announcements",
+"authors": [
+"Flora Sun"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Performance Framing in Earnings News: Evidence from Media Headlines",
+"authors": [
+"Flora Sun",
+"Farzana Afrin",
+"Kenneth Merkley"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Financial Literacy and the Media: Evidence from Illiquid After-Hours Markets",
+"authors": [
+"Flora Sun",
+"Sean Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Compensation Responses to SEC Investigations of Connected Firms",
+"authors": [
+"Flora Sun",
+"Terrence Blackburne",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Media Coverage of Unionized Firms",
+"authors": [
+"Flora Sun",
+"Hunter Pearson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Material Weakness Severity and Disclosure Complexity",
+"authors": [
+"Flora Sun",
+"Millie Hutton",
+"Marcy Shepardson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"jin hee lee": {
+"name": "Jin Hee Lee",
+"papers": []
+},
+"jason xiao": {
+"name": "Jason Xiao",
+"papers": [
+{
+"title": "Private Information Acquisition via FOIA Requests Made to the SEC",
+"authors": [
+"Glaeser, Stephen",
+"Bryce Schonberger",
+"Charles Wasley",
+"Jason Xiao"
+],
+"year": 2023,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Earnings per Share Goals and CEO Incentives",
+"authors": [
+"Armstrong, Christopher",
+"Jacky Chau",
+"Christopher Ittner",
+"Jason Xiao"
+],
+"year": 2025,
+"venue": "Review of Accounting Studies",
+"status": "published"
+},
+{
+"title": "The First Half-Century of Empirical Capital Markets Research in Accounting in Pictures",
+"authors": [
+"Kothari, S.P.",
+"Bryce Schonberger",
+"Charles Wasley",
+"Jason Xiao"
+],
+"year": 2025,
+"venue": "Review of Accounting Studies",
+"status": "published"
+},
+{
+"title": "Board Diversity and the Appointment of Women CEOs: The Moderating Effects of Separation and Disparity",
+"authors": [
+"Havrylyshyn, Andre",
+"Jason Xiao"
+],
+"year": 2026,
+"venue": "Business Research Quarterly",
+"status": "published"
+},
+{
+"title": "Undivided Attention: Boards of Directors and their Disparate Committee Meetings",
+"authors": [
+"Havrylyshyn, Andre",
+"Jason Xiao",
+"Alex Pham"
+],
+"year": null,
+"venue": "International Journal of Corporate Governance",
+"status": "forthcoming"
+},
+{
+"title": "Retail Trading and the Varying Predictive Power of Aggregate Short Interest",
+"authors": [
+"Froymovich, Shiran",
+"Shera Gong",
+"Charles Wasley",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Banking Market Development and Spillovers to Stock Market Liquidity",
+"authors": [
+"Gallimberti, Carlo",
+"Richard Lambert",
+"Jason Xiao"
+],
+"year": null,
+"venue": "The Accounting Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Aggregate Economic Uncertainty’s Impact on Top Management Compensation",
+"authors": [
+"Wasley, Charles",
+"Jason Xiao",
+"John Yang"
+],
+"year": null,
+"venue": "Journal of Accounting and Economics",
+"status": "working_paper"
+},
+{
+"title": "Diffusion of Corporate Governance from Influential Adopters",
+"authors": [
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bank Relations and Borrower Corporate Governance Structures",
+"authors": [
+"Gallimberti, Carlo",
+"Richard Lambert",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Adapt or Perish: Evidence of CEO Adaptability to Industry Shocks",
+"authors": [
+"Guay, Wayne",
+"Daniel Taylor",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Compensation Responses to SEC Investigations of Connected Firms",
+"authors": [
+"Blackburne, Terrence",
+"Flora Sun",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Antecedents of the Gender Diversity of a Firm’s Internal Pool of CEO Successor Candidates",
+"authors": [
+"Havrylyshyn, Andre",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Do Managers’ Expectations Affect Share Repurchases?",
+"authors": [
+"Ko, Minsu",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"sangwook nam": {
+"name": "Sangwook Nam",
+"papers": [
+{
+"title": "Do Customer Disclosures Affect Suppliers’ Internal Capital Allocation Decisions?",
+"authors": [
+"Sangwook Nam"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Companies Use Their Nonprofits to Earn Profits?",
+"authors": [
+"Sangwook Nam"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs",
+"authors": [
+"Sangwook Nam",
+"Yongseok Kim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Supply Chain Financing Disclosures Mitigate or Exacerbate Predation Risk?",
+"authors": [
+"Sangwook Nam",
+"Edmund Lou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Companies Invest According to Geographic Sales Growth Signals? Evidence from Product-Level Data",
+"authors": [
+"Sangwook Nam",
+"Shera Gong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"shera gong": {
+"name": "Shera Gong",
+"papers": []
+},
+"steven t schwartz": {
+"name": "Steven T Schwartz",
+"papers": []
+},
+"shiran vaknin froymovich": {
+"name": "Shiran Vaknin Froymovich",
+"papers": [
+{
+"title": "ESG Rating Competition and Rating Quality",
+"authors": [
+"Shiran Vaknin Froymovich",
+"Svenja Dube",
+"Cai Chen"
+],
+"year": null,
+"venue": "Journal of Accounting Research",
+"status": "published"
+},
+{
+"title": "The Impact of U.S. Tariffs on U.S. Firms",
+"authors": [
+"Shiran Vaknin Froymovich",
+"Yaniv Konchitchki",
+"Leslie Robinson"
+],
+"year": null,
+"venue": "Contemporary Accounting Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Aggregate Deferred Tax Asset Valuation Allowance and GDP Growth",
+"authors": [
+"Shiran Vaknin Froymovich"
+],
+"year": null,
+"venue": "Journal of Accounting and Economics",
+"status": "working_paper"
+},
+{
+"title": "The Effect of ESG Rating Agency Coverage on Disclosure of Green Innovation",
+"authors": [
+"Shiran Vaknin Froymovich",
+"In Gyun Baek",
+"Michael Kimbrough"
+],
+"year": null,
+"venue": "Review of Accounting Studies",
+"status": "working_paper"
+},
+{
+"title": "Aggregate Stock Returns and Short Interest over time",
+"authors": [
+"Shiran Vaknin Froymovich",
+"Charles Wasley",
+"Jason Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "ESG Ratings and Corporate Credit Ratings",
+"authors": [
+"Shiran Vaknin Froymovich"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Taxes and ESG Ratings",
+"authors": [
+"Shiran Vaknin Froymovich"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yan zhang": {
+"name": "Yan Zhang",
+"papers": [
+{
+"title": "Do Customers Matter in Currency Hedging Policies? Evidence from Product Warranties",
+"authors": [
+"Yan Zhang",
+"Pinghsun Huang"
+],
+"year": 2024,
+"venue": "European Financial Management",
+"status": "published"
+},
+{
+"title": "Corporate Social Responsibility and Accounting Conservatism",
+"authors": [
+"Yan Zhang",
+"Jun Guo",
+"Pinghsun Huang"
+],
+"year": 2020,
+"venue": "Advances in Accounting",
+"status": "published"
+},
+{
+"title": "Does the Monitoring Effect of Big 4 Audit Firms Really Prevail? Evidence from Managerial Expropriation of Cash Assets",
+"authors": [
+"Yan Zhang",
+"Yi-Chieh Wen",
+"Pinghsun Huang"
+],
+"year": 2020,
+"venue": "Review of Quantitative Finance and Accounting",
+"status": "published"
+},
+{
+"title": "The Role of Organizational Forms in Nonprofit firms’ Real Earnings Management: Evidence from Nonprofit Hospitals in Taiwan",
+"authors": [
+"Yan Zhang",
+"Yi-Chieh Wen",
+"Pinghsun Huang",
+"Hsiu-Chu Shen"
+],
+"year": 2019,
+"venue": "Advances in Accounting",
+"status": "published"
+},
+{
+"title": "Do Firms Hedge with Foreign Currency Derivatives for Employees?",
+"authors": [
+"Yan Zhang",
+"Pinghsun Huang",
+"Hsin-Yi Huang"
+],
+"year": 2019,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Do Debt Covenant Violations Serve as a Risk Factor of Ineffective Internal Control?",
+"authors": [
+"Yan Zhang",
+"Jun Guo",
+"Pinghun Huang"
+],
+"year": 2019,
+"venue": "Review of Quantitative Finance and Accounting",
+"status": "published"
+},
+{
+"title": "Expertise Rents from Insider Trading for Financial Experts on Audit Committees",
+"authors": [
+"Yan Zhang",
+"Scott Duellman",
+"Jun Guo",
+"Nan Zhou"
+],
+"year": 2018,
+"venue": "Contemporary Accounting Research",
+"status": "published"
+},
+{
+"title": "The Mitigating Effect of Audit Committee Financial Expertise on the Voluntary Adoption of Clawback Policies",
+"authors": [
+"Yan Zhang",
+"Nan Zhou"
+],
+"year": 2018,
+"venue": "Journal of Law, Finance, and Accounting",
+"status": "published"
+},
+{
+"title": "Accounting Expertise on Audit Committees and Expected Rates of Return on Pension Assets",
+"authors": [
+"Yan Zhang",
+"Jun Guo",
+"Nan Zhou",
+"Joseph Comprix"
+],
+"year": 2017,
+"venue": "Research in Accounting Regulation",
+"status": "published"
+},
+{
+"title": "Does Corporate Derivative Use Reduce Stock Price Exposure? Evidence From UK Firms",
+"authors": [
+"Yan Zhang",
+"Pinghsun Huang",
+"M. H. Kabir"
+],
+"year": 2017,
+"venue": "Quarterly Review of Economics and Finance",
+"status": "published"
+},
+{
+"title": "The Effect of Employee Treatment Policies on Internal Control Weaknesses and Financial Restatements",
+"authors": [
+"Yan Zhang",
+"Jun Guo",
+"Pinghsun Huang",
+"Nan Zhou"
+],
+"year": 2016,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "CEO Power, Internal Control Quality, and Audit Committee Effectiveness in Substance vs. in Form",
+"authors": [
+"Yan Zhang",
+"Ling Lei Lisic",
+"Terry Neal"
+],
+"year": 2016,
+"venue": "Contemporary Accounting Research",
+"status": "published"
+},
+{
+"title": "Foreign Ownership as a Mechanism to Constrain Real Earnings Management: Evidence from Japan",
+"authors": [
+"Yan Zhang",
+"Jun Guo",
+"Pinghsun Huang",
+"Nan Zhou"
+],
+"year": 2015,
+"venue": "Journal of International Accounting Research",
+"status": "published"
+},
+{
+"title": "Does the Value of Cash Holdings Deteriorate or Improve with Material Weaknesses in Internal Control over Financial Reporting?",
+"authors": [
+"Yan Zhang",
+"Pinghsun Huang",
+"Jun Guo",
+"Tongshu Ma"
+],
+"year": 2015,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Does Enhanced Disclosure Really Reduce Agency Costs? Evidence from the Diversion of Corporate Resources",
+"authors": [
+"Yan Zhang",
+"Pinghsun Huang"
+],
+"year": 2012,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Are Short Sellers Informed? New Evidence from Short Sales on Financial Firms During Subprime Mortgage Crisis",
+"authors": [
+"Yan Zhang",
+"Tongshu Ma",
+"Ming Liu"
+],
+"year": 2012,
+"venue": "Financial Review",
+"status": "published"
+},
+{
+"title": "The Effect of Short Selling on Market Reactions to Earnings Announcement",
+"authors": [
+"Yan Zhang",
+"Dennis Lasser",
+"Xue Wang"
+],
+"year": 2010,
+"venue": "Contemporary Accounting Research",
+"status": "published"
+},
+{
+"title": "Internal Control Weaknesses and Client Risk Management",
+"authors": [
+"Yan Zhang",
+"Randal J. Elder",
+"Jian Zhou",
+"Nan Zhou"
+],
+"year": 2009,
+"venue": "Journal of Accounting, Auditing and Finance",
+"status": "published"
+},
+{
+"title": "Do Artificial Income Smoothing and Real Income Smoothing Contribute to Firm Value Equivalently?",
+"authors": [
+"Yan Zhang",
+"Donald R. Deis",
+"Pinghsun Huang",
+"Jacquelyn Sue Moffitt"
+],
+"year": 2009,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Ethical Management, Corporate Governance, and Abnormal Accruals",
+"authors": [
+"Yan Zhang",
+"Jacquelyn Sue Moffitt",
+"Timothy J. Louwers",
+"Pinghsun Huang"
+],
+"year": 2008,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Audit Committee Quality, Auditor Independence, and Internal Control Weaknesses",
+"authors": [
+"Yan Zhang",
+"Jian Zhou",
+"Nan Zhou"
+],
+"year": 2007,
+"venue": "Journal of Accounting and Public Policy",
+"status": "published"
+},
+{
+"title": "The Information Content of Short Interest: A Natural Experiment",
+"authors": [
+"Yan Zhang",
+"Tom Arnold",
+"Alexander W. Butler",
+"Timothy Falcon Crack"
+],
+"year": 2005,
+"venue": "Journal of Business",
+"status": "published"
+},
+{
+"title": "A Dynamic Estimation of Total Energy Demand for the Southern States",
+"authors": [
+"Yan Zhang",
+"W. Olatubi"
+],
+"year": 2003,
+"venue": "Review of Regional Studies",
+"status": "published"
+}
+]
+},
+"aman soni": {
+"name": "Aman Soni",
+"papers": []
+},
+"mayank anand": {
+"name": "Mayank Anand",
+"papers": [
+{
+"title": "Red and Blue Prices: The Impact of Consumers’ Political Ideology on Their Response to Pricing Changes",
+"authors": [
+"Mayank Anand",
+"Xiao Ling",
+"Sourav Ray",
+"Daniel Levy",
+"Mark Bergen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Mine Is Culture, Yours Is Ideology: Consumers Appreciate ‘Cultural’ Products More Than ‘Ideological’ Products",
+"authors": [
+"Mayank Anand",
+"Seth C. Ketron"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pain sells: Pain cues from Producers increases Conservatives’ appreciation of Cultural Products",
+"authors": [
+"Mayank Anand",
+"Akshay R. Rao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "United we stand (and Moralize): Role of Perceived Support in Product Failure Moralization",
+"authors": [
+"Mayank Anand"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Too Nippy to be Icky: Impact of Physical Cold on Consumers’ Disgust Sensitivity",
+"authors": [
+"Mayank Anand",
+"Alison J. Xu",
+"Akshay R. Rao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"debi p mishra": {
+"name": "Debi P Mishra",
+"papers": [
+{
+"title": "COVID-19 Disruption and Service Firms’ Adaptation Strategies: Institutional Theory Perspectives",
+"authors": [
+"Debi P Mishra"
+],
+"year": null,
+"venue": "COVID-19 and the Future of the Service Industry Post Pandemic: Insights and Resources",
+"status": "forthcoming"
+},
+{
+"title": "Do Buzz and Evidence Really matter in Product Preannouncements? An Empirical Test and Reconciliation of Two Competing Theories",
+"authors": [
+"Debi P Mishra",
+"Gizem Atav",
+"Deniz Dalman"
+],
+"year": 2020,
+"venue": "Journal of Consumer Marketing",
+"status": "published"
+},
+{
+"title": "How Broadly do Product Preannouncement Performance Effects Generalize? Product Life Cycle and Switching Cost Perspectives",
+"authors": [
+"Debi P Mishra"
+],
+"year": 2019,
+"venue": "Innovative Marketing",
+"status": "published"
+},
+{
+"title": "Modularization as a Supplier Opportunism Safeguard in Knowledge Process Offshoring Relationships: Theory and Empirical Evidence",
+"authors": [
+"Min, Junhong",
+"Segal Madhav N.",
+"Debi P. Mishra"
+],
+"year": 2014,
+"venue": "Problems and Perspectives in Management",
+"status": "published"
+},
+{
+"title": "Detecting Item Bias in Latent Construct between Group Comparisons: An Illustrative Example Using Multi-Sample Covariance Structural Equations Modeling",
+"authors": [
+"Debi P. Mishra",
+"Somali Ghosh"
+],
+"year": 2013,
+"venue": "Problems and Perspectives in Management",
+"status": "published"
+},
+{
+"title": "Firms’ Strategic Responses to Service Uncertainty: An Empirical Signaling Study",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2013,
+"venue": "Australasian Marketing Journal",
+"status": "published"
+},
+{
+"title": "Uncovering the Effect of Selected Moderators on the Disconfirmation-Satisfaction Relationship: A Meta Analytic Approach",
+"authors": [
+"Debi P. Mishra",
+"Junhong Min"
+],
+"year": 2013,
+"venue": "Innovative Marketing Journal",
+"status": "published"
+},
+{
+"title": "Construct Validity in Cross-Cultural Management Research: Classical Test Theory and Latent Trait Theory Approaches",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2013,
+"venue": "Problems and Perspectives in Management",
+"status": "published"
+},
+{
+"title": "An Empirical Assessment of Stimulus Presentation Mode Bias in Conjoint Analysis",
+"authors": [
+"Debi P. Mishra",
+"Junhong Min",
+"M. Deniz Dalman"
+],
+"year": 2011,
+"venue": "Innovative Marketing Journal",
+"status": "published"
+},
+{
+"title": "Marketing and the Global Financial Crisis of 2008: A Theoretical Analysis",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2010,
+"venue": "Problems and Perspectives in Management",
+"status": "published"
+},
+{
+"title": "Analyzing the Relationship between Dependent and Independent Variables in Marketing: A Comparison of Multiple Regression with Path Analysis",
+"authors": [
+"Debi P. Mishra",
+"Junhong Min"
+],
+"year": 2010,
+"venue": "Innovative Marketing Journal",
+"status": "published"
+},
+{
+"title": "FMCG Distribution Channels in India: Challenges and Opportunities for Manufacturers and Retailers",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2008,
+"venue": "Journal of Global Business Issues",
+"status": "published"
+},
+{
+"title": "The Role of Certification in Service Relationships: Theory and Empirical Evidence",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2006,
+"venue": "Journal of Retailing and Consumer Services",
+"status": "published"
+},
+{
+"title": "Market Signals and Relative Preference: The Moderating Effects of Conflicting Quality Information and Need for Cognition",
+"authors": [
+"S. Chatterjee",
+"Y. Kang",
+"Debi P. Mishra"
+],
+"year": 2005,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Agency Relationships and Governance Mechanisms in Service Delivery: A Theoretical Analysis",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2004,
+"venue": "Problems and Perspectives in Management",
+"status": "published"
+},
+{
+"title": "Assessing the Economic Worth of Product-Pre Announcement Signals",
+"authors": [
+"Debi P. Mishra",
+"Harjeet Bhabra"
+],
+"year": 2002,
+"venue": "Journal of Product and Brand Management",
+"status": "published"
+},
+{
+"title": "Interdisciplinary Contributions in Retail Service Delivery: Review and Future Directions",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2000,
+"venue": "Journal of Retailing and Consumer Services",
+"status": "published"
+},
+{
+"title": "An Empirical Assessment of Measurement Error in Health-Care Survey Research",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 2000,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Information Asymmetry and Levels of Agency Relationships",
+"authors": [
+"Debi P. Mishra",
+"Jan B. Heide",
+"Stanton G. Cort"
+],
+"year": 1998,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "The Conceptualization and Measurement of Reputation Display in Asymmetric Marketing Relationships",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 1998,
+"venue": "Journal of Market Focused Management",
+"status": "published"
+},
+{
+"title": "Assessing the Economic Worth of Corporate Event Sponsorships: A Stock Market Perspective",
+"authors": [
+"Debi P. Mishra",
+"George S. Bobinski, Jr.",
+"Harjeet S. Bhabra"
+],
+"year": 1997,
+"venue": "Journal of Market-Focused Management",
+"status": "published"
+},
+{
+"title": "Signaling and Monitoring Strategies of Service Firms: Interdisciplinary Perspectives",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 1995,
+"venue": "Advances in Services Marketing and Management",
+"status": "published"
+},
+{
+"title": "Total Quality Management in Health Services: Historical Development, Conceptual Meaning, and a Comprehensive Model",
+"authors": [
+"Debi P. Mishra"
+],
+"year": 1995,
+"venue": "Journal of Ambulatory Care Marketing",
+"status": "published"
+},
+{
+"title": "An Empirical Investigation of Two Competing Models of Patient Satisfaction",
+"authors": [
+"Debi P. Mishra",
+"Jagdip Singh",
+"Van R. Wood"
+],
+"year": 1991,
+"venue": "Journal of Ambulatory Care Marketing",
+"status": "published"
+}
+]
+},
+"jintao zhang": {
+"name": "Jintao Zhang",
+"papers": [
+{
+"title": "Strikethrough Pricing",
+"authors": [
+"Jintao Zhang",
+"Yuna Choe",
+"Haipeng (Allan) Chen"
+],
+"year": null,
+"venue": "Journal of Consumer Psychology",
+"status": "revise_resubmit"
+},
+{
+"title": "Refugee Hiring",
+"authors": [
+"Minjee Sun",
+"Jintao Zhang",
+"Boyoon Lee",
+"Jongwoo Jeong"
+],
+"year": null,
+"venue": "Journal of Marketing",
+"status": "working_paper"
+},
+{
+"title": "Repeating Digits in Bundles",
+"authors": [
+"Jintao Zhang",
+"Siddharth Bhatt",
+"Chen Wang",
+"Rajneesh Suri"
+],
+"year": null,
+"venue": "Journal of Retailing",
+"status": "working_paper"
+},
+{
+"title": "Tensile Promotion",
+"authors": [
+"Jintao Zhang",
+"Mathew Isaac"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "BOGO and Digits",
+"authors": [
+"Jintao Zhang",
+"Dian Wang",
+"Haipeng (Allan) Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pricing Recommendation",
+"authors": [
+"Jintao Zhang",
+"Haipeng (Allan) Chen",
+"Rajesh Bagchi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Price Increases",
+"authors": [
+"Jintao Zhang",
+"Derrick Davis",
+"Rajesh Bagchi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Price-Quality",
+"authors": [
+"Xinge Li",
+"Jintao Zhang",
+"Yanliu Huang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Discount Quality",
+"authors": [
+"Minjee Sun",
+"Jintao Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When and Whom Should Retailers Offer Price Reductions in Times of Crisis?",
+"authors": [
+"Haeyoung Jeong",
+"Hongjun Ye",
+"Siddharth Bhatt",
+"Jintao Zhang",
+"Rajneesh Suri"
+],
+"year": 2022,
+"venue": "International Journal of Retail & Distribution Management",
+"status": "published"
+},
+{
+"title": "When Should Retailers Increase Prices during a Crisis? A Longitudinal Inquiry during the COVID-19 Pandemic",
+"authors": [
+"Haeyoung Jeong",
+"Hongjun Ye",
+"Siddharth Bhatt",
+"Jintao Zhang",
+"Rajneesh Suri"
+],
+"year": 2022,
+"venue": "Journal of Consumer Behaviour",
+"status": "published"
+},
+{
+"title": "Food Waste and Upcycled Foods: Can a Logo Increase Acceptance of Upcycled Foods?",
+"authors": [
+"Siddharth Bhatt",
+"Hongjun Ye",
+"Jonathan Deutsch",
+"Haeyoung Jeong",
+"Jintao Zhang",
+"Rajneesh Suri",
+"Hasan Ayaz"
+],
+"year": 2021,
+"venue": "Journal of Food Products Marketing",
+"status": "published"
+},
+{
+"title": "Addressing Food Waste: How to Position Upcycled Foods to Different Generations",
+"authors": [
+"Jintao Zhang",
+"Hongjun Ye",
+"Siddharth Bhatt",
+"Haeyoung Jeong",
+"Jonathan Deutsch",
+"Hasan Ayaz",
+"Rajneesh Suri"
+],
+"year": 2021,
+"venue": "Journal of Consumer Behaviour",
+"status": "published"
+},
+{
+"title": "Red Price? Red Flag! Eye-tracking Reveals How One Red Price Can Hurt a Retailer",
+"authors": [
+"Hongjun Ye",
+"Siddharth Bhatt",
+"Haeyoung Jeong",
+"Jintao Zhang",
+"Rajneesh Suri"
+],
+"year": 2021,
+"venue": "Psychology & Marketing",
+"status": "published"
+}
+]
+},
+"rajita varma": {
+"name": "Rajita Varma",
+"papers": [
+{
+"title": "Female Chief Marketing Officers: When and Why Do Their Marketing Decisions Differ from Their Male Counterparts’?",
+"authors": [
+"Rajita Varma",
+"Raghu Bommaraju",
+"Siddharth S. Singh"
+],
+"year": 2023,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Insiders vs Outsiders: The Impact of Marketing Top Management Team Origin on Marketing Outcomes and Firm Performance",
+"authors": [
+"Rajita Varma",
+"Raghu Bommaraju",
+"Siddharth S. Singh"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ideological drivers of Advertising Strategy: CEOs’ political ideology and media spend - Evidence from US daily newspapers",
+"authors": [
+"Anand Vijayasankaran",
+"Rajita Varma",
+"Aryamen Singh",
+"Raghu Bommaraju"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Role of Financial Incentives: Examining the Unintended Consequences of CMO’s Equity Pay on Marketing Decisions",
+"authors": [
+"Rajita Varma"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Examining the Impact of Brand Managers in Shaping the Marketing Mix",
+"authors": [
+"Aritra Bhattacharya",
+"Rajita Varma",
+"Raghu Bommaraju"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"subimal chatterjee": {
+"name": "Subimal Chatterjee",
+"papers": []
+},
+"soo hyung ralph park": {
+"name": "Soo Hyung (Ralph) Park",
+"papers": []
+},
+"vivek astvansh": {
+"name": "Vivek Astvansh",
+"papers": []
+},
+"andre havrylyshyn": {
+"name": "Andre Havrylyshyn",
+"papers": [
+{
+"title": "Antecedents of the gender diversity of a firm’s internal pool of CEO successor candidates",
+"authors": [
+"Andre Havrylyshyn"
+],
+"year": null,
+"venue": "Journal of Management Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "The director expertise needed to achieve best-practice CEO succession planning activities",
+"authors": [
+"Andre Havrylyshyn",
+"Donald J. Schepker",
+"A. J. Nyberg",
+"G. De Bruyn",
+"P. M. Wright"
+],
+"year": null,
+"venue": "Journal of Management Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "The experience of diaspora individuals with family/personal ties to states experiencing war",
+"authors": [
+"C. B. Hymer",
+"Andre Havrylyshyn",
+"B. S. Cockburn",
+"N. Yakushko",
+"S. M. B. Thatcher"
+],
+"year": null,
+"venue": "Journal of Management",
+"status": "working_paper"
+},
+{
+"title": "An academic review to uncover how management scholars can help development efforts in Ukraine",
+"authors": [
+"Andre Havrylyshyn",
+"R. Eckardt",
+"N. Yakushko"
+],
+"year": null,
+"venue": "European Management Journal",
+"status": "revise_resubmit"
+},
+{
+"title": "Board director committee assignments’ influence on gender of CEO chosen",
+"authors": [
+"Andre Havrylyshyn",
+"Jason J. Xiao"
+],
+"year": null,
+"venue": "Business Research Quarterly",
+"status": "working_paper"
+},
+{
+"title": "When and why firms refuse to do business with an authoritarian government",
+"authors": [
+"Andre Havrylyshyn",
+"A. L. Steinbach"
+],
+"year": null,
+"venue": "Academy of Management Journal",
+"status": "working_paper"
+},
+{
+"title": "How individual interpretation of major events impacts citizenship behavior at work",
+"authors": [
+"Andre Havrylyshyn",
+"T. K. Hansbrough",
+"L. McFarland"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Meta-analysis to assess differing relationship across individual and group levels",
+"authors": [
+"P. D. Bliese",
+"Andre Havrylyshyn",
+"M. A. Maltarich",
+"S. Strizver"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How attention patterns of board of directors’ committees influence firm success",
+"authors": [
+"Jason J. Xiao",
+"Andre Havrylyshyn"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "An assessment of leadership congruity in public and private",
+"authors": [
+"B. Acton",
+"Andre Havrylyshyn",
+"D. J. Schepker",
+"P. M. Wright"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Factors that enable star newcomers to perform effectively on their new teams",
+"authors": [
+"Andre Havrylyshyn",
+"M. C. B. Lyle",
+"C. J. Rossetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Building theory on calling and leadership challenges in the Orthodox Church of the 21st Century",
+"authors": [
+"Andre Havrylyshyn",
+"C. B. Hymer",
+"D. D. Dunne"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Differing effects of narcissistic leaders, based on type of leadership roles, in high-pressure teams",
+"authors": [
+"Andre Havrylyshyn",
+"N. Liang",
+"O. R. Cragun"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Following the example of battle tactics in Ukraine to drive the research process in management academia",
+"authors": [
+"N. Yakushko",
+"Andre Havrylyshyn"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "An integrative conceptual review bridging legal ethics theories of war and management theories of corporate social responsibility",
+"authors": [
+"T. Brodbeck",
+"Andre Havrylyshyn"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"matthew lyle cb": {
+"name": "Matthew Lyle Cb",
+"papers": [
+{
+"title": "Tying yourself to the chair: Using slack in a classroom as organization",
+"authors": [
+"Cocieru, O.C.",
+"Lyle, M.C.B.",
+"MacDonald, M.A."
+],
+"year": 2025,
+"venue": "Journal of Experiential Education",
+"status": "published"
+},
+{
+"title": "We can win this fight together”: Memory and cross-occupational coordination",
+"authors": [
+"Noh, S.",
+"Lyle, M.C.B.",
+"Do, B."
+],
+"year": 2025,
+"venue": "Journal of Management Studies",
+"status": "forthcoming"
+},
+{
+"title": "Generation gap? The branching influence of historical myths",
+"authors": [
+"Noh, S.",
+"Lyle, M.C.B.",
+"Do., B."
+],
+"year": 2025,
+"venue": "Organization Science",
+"status": "forthcoming"
+},
+{
+"title": "The impact of a classroom as organization on university-to-work transitions and early careers",
+"authors": [
+"Cocieru, O.C.",
+"Lyle, M.C.B.",
+"Hindman, L.C.",
+"MacDonald, M.A."
+],
+"year": 2024,
+"venue": "Journal of Experiential Education",
+"status": "published"
+},
+{
+"title": "Applying a wide-angle lens: De-centering work organizations in organization studies",
+"authors": [
+"Lyle, M.C.B.",
+"Hockensmith, A.S.",
+"Cocieru, O.C."
+],
+"year": 2024,
+"venue": "Strategic Organization",
+"status": "published"
+},
+{
+"title": "Up in Smoke? The lingering influence of history on community identity dynamics",
+"authors": [
+"Lyle, M.C.B.",
+"Hockensmith, A.S.",
+"Walsh, I.J."
+],
+"year": 2024,
+"venue": "Strategic Organization",
+"status": "published"
+},
+{
+"title": "Gravity’s Pull: The identity related motives and outcomes of hiring stars",
+"authors": [
+"Lyle, M.C.B.",
+"Eckardt, R.",
+"Corley, K.G.",
+"Lepak, D."
+],
+"year": 2023,
+"venue": "Human Resource Management Review",
+"status": "published"
+},
+{
+"title": "Engaging with the past: Discerning meaning in organizational imprints",
+"authors": [
+"Lyle, M.C.B.",
+"Walsh, I.J.",
+"Prokopovych, B."
+],
+"year": 2023,
+"venue": "Strategic Organization",
+"status": "published"
+},
+{
+"title": "Professional credibility under threat: Responses to negative social evaluations in newly contested professions",
+"authors": [
+"Walsh, I.J.",
+"Pazzaglia, F.",
+"Lyle, M.C.B.",
+"Sonpar, K."
+],
+"year": 2023,
+"venue": "Human Relations",
+"status": "published"
+},
+{
+"title": "Memory-based change management: Using the past to guide the future",
+"authors": [
+"Do, B.",
+"Lyle, M.C.B."
+],
+"year": 2022,
+"venue": "Organizational Psychology Review",
+"status": "published"
+},
+{
+"title": "What is NORML? Sedimented meanings in ambiguous organizational identities",
+"authors": [
+"Lyle, M.C.B.",
+"Walsh, I.J.",
+"Coraiola, D."
+],
+"year": 2022,
+"venue": "Organization Studies",
+"status": "published"
+},
+{
+"title": "An exploration of the dynamic nature of psychological ownership in a classroom-as-organization",
+"authors": [
+"Cocieru, O.C.",
+"Lyle, M.C.B.",
+"MacDonald, M.A."
+],
+"year": 2021,
+"venue": "Journal of Experiential Education",
+"status": "published"
+},
+{
+"title": "The ‘dark side’ of psychological ownership during times of change",
+"authors": [
+"Cocieru, O.C.",
+"Lyle, M.C.B.",
+"Hindman, L.C.",
+"McDonald, M.A."
+],
+"year": 2019,
+"venue": "Journal of Change Management",
+"status": "published"
+},
+{
+"title": "Driving down memory lane: The influence of memories in a community following organizational demise",
+"authors": [
+"Do, B.",
+"Lyle, M.C.B.",
+"Walsh, I.J."
+],
+"year": 2019,
+"venue": "Organization Studies",
+"status": "published"
+},
+{
+"title": "On the folly of punishing A while hoping for A: Exploring punishment in organizations",
+"authors": [
+"Skaggs, B.C.",
+"Manz, C.",
+"Lyle, M.C.B.",
+"Pierce, C.L."
+],
+"year": 2018,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Teaching experiential classes",
+"authors": [
+"Cocieru, O.C.",
+"Hindmman, L.C.",
+"Lyle, M.C.B."
+],
+"year": null,
+"venue": "Journal of Management Education",
+"status": "revise_resubmit"
+},
+{
+"title": "Memory and work identity",
+"authors": [
+"Lyle, M.C.B.",
+"Foroughi, H."
+],
+"year": null,
+"venue": "Human Relations",
+"status": "working_paper"
+},
+{
+"title": "Stakeholder memory",
+"authors": [
+"Lyle, M.C.B.",
+"Isard, R.F."
+],
+"year": null,
+"venue": "Academy of Management Review",
+"status": "working_paper"
+}
+]
+},
+"rory eckardt": {
+"name": "Rory Eckardt",
+"papers": [
+{
+"title": "A New Playing Field: Sports Settings for Management Theories.",
+"authors": [
+"Aversa, P.",
+"Moliterno, T.",
+"Rockmann, K.",
+"Bothner, M.",
+"Sharapov, D.",
+"Eckardt, R."
+],
+"year": null,
+"venue": "Academy of Management Discoveries",
+"status": "forthcoming"
+},
+{
+"title": "Managerial Human Capital External Mobility: A Signaling Perspective.",
+"authors": [
+"Choudhury, M.",
+"Moliterno, T.",
+"Eckardt, R.",
+"Morris, S.",
+"Crocker, A."
+],
+"year": null,
+"venue": "Journal of Management",
+"status": "forthcoming"
+},
+{
+"title": "The Role of Time in Strategic Human Resource Management Research: A Review and Research Agenda.",
+"authors": [
+"Boon, C.",
+"Jiang, K.",
+"Eckardt, R."
+],
+"year": 2025,
+"venue": "Journal of Management",
+"status": "published"
+},
+{
+"title": "A Diversity Set Perspective: Examining the Interactive Effects of Diversity Practices on Women and Minority Non-leader and Leader Turnover.",
+"authors": [
+"Trzebiatowski, T.",
+"Jiang, K.",
+"Zhang, Z.",
+"Eckardt, R.",
+"Kim, Y."
+],
+"year": 2025,
+"venue": "Academy of Management Journal",
+"status": "published"
+}
+]
+},
+"bryan p acton": {
+"name": "Bryan P. Acton",
+"papers": [
+{
+"title": "Rethinking authentic leadership: An alternative approach based on dynamic processes of active identity, self-regulation, and ironic processes of mental control",
+"authors": [
+"Bunjak, A.",
+"Lord, R.G.",
+"Acton, B.P."
+],
+"year": 2024,
+"venue": "Journal of Management and Organization",
+"status": "published"
+},
+{
+"title": "Leader Identity on the Fly: Intra-personal Leader Identity Dynamics in Response to Strong Events",
+"authors": [
+"Nieberle, K.W.",
+"Acton, B.P.",
+"Braun, S.",
+"Lord, R.G.",
+"Fu, Y."
+],
+"year": 2023,
+"venue": "Journal of Business and Psychology",
+"status": "published"
+},
+{
+"title": "Do you remember? Rater memory systems and leadership measurement",
+"authors": [
+"Hansbrough, T.",
+"Lord, R.",
+"Schyns, B.",
+"Foti, R.J.",
+"Liden, R.",
+"Acton, B.P."
+],
+"year": 2020,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Built for unity: assessing the impact of team composition on team cohesion trajectories",
+"authors": [
+"Acton, B.P.",
+"Braun, M.T.",
+"Foti, R.J."
+],
+"year": 2019,
+"venue": "Journal of Business and Psychology",
+"status": "published"
+},
+{
+"title": "Putting emergence back in leadership emergence: A dynamic, multilevel, process-oriented framework",
+"authors": [
+"Acton, B.P.",
+"Foti, R.J.",
+"Lord, R.",
+"Gladfelter, J.A."
+],
+"year": 2019,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Agent-based modeling and collective leadership",
+"authors": [
+"Acton, B.P.",
+"Foti, R.J.",
+"Pape",
+"Lord, R.G."
+],
+"year": null,
+"venue": "Leadership Quarterly",
+"status": "revise_resubmit"
+},
+{
+"title": "Race identity and collective leadership",
+"authors": [
+"Mitchell, T.D.",
+"Acton, B.P.",
+"Coyle, P.",
+"LeMoyne, J."
+],
+"year": null,
+"venue": "Journal of Management",
+"status": "revise_resubmit"
+}
+]
+},
+"erika hernandez acton": {
+"name": "Erika Hernandez Acton",
+"papers": [
+{
+"title": "Grandparents as overlooked agents for emotion socialization: a two-study investigation of adult grandchildren and grandmothers with young grandchildren",
+"authors": [
+"Hernandez Acton, E.",
+"Lozada, F.T.",
+"Talley, K.E.",
+"Halgunseth, L.C.",
+"Dunsmore, J.C."
+],
+"year": 2025,
+"venue": "Current Psychology",
+"status": "published"
+},
+{
+"title": "Parental Emotion Socialization and Children’s Emotional Skills and Socio-Emotional Functioning in Early Childhood in Türkiye and the United States",
+"authors": [
+"Kılıç, Ş.",
+"Hernandez Acton, E.",
+"Zhu, D.",
+"Dunsmore, J.C."
+],
+"year": 2025,
+"venue": "The Journal of Genetic Psychology",
+"status": "published"
+},
+{
+"title": "Associations between Sleep Health and Child Behavior at Age 6 Years in the INSIGHT Study",
+"authors": [
+"Dadzie, A.",
+"Master, L.",
+"Hohman, E.E.",
+"Hernandez Acton, E.",
+"Tauriello, S.",
+"Paul, I.M.",
+"Savage, J.S.",
+"Anzman-Frasca, S.",
+"Buxton, O."
+],
+"year": 2025,
+"venue": "Journal of Developmental & Behavioral Pediatrics",
+"status": "published"
+},
+{
+"title": "INSIGHT responsive parenting intervention effects on child self-regulation at ages 3 and 6 years",
+"authors": [
+"Hernandez Acton E.",
+"Kubiniec, E.",
+"Bhargava, S.",
+"Tauriello, S.",
+"Paul, I.M.",
+"Savage, J.S.",
+"Anzman-Frasca, S."
+],
+"year": 2025,
+"venue": "Developmental Psychology",
+"status": "published"
+},
+{
+"title": "Toddler dietary patterns from the INSIGHT RCT comparing Responsive Parenting vs. Control: A latent class analysis",
+"authors": [
+"Hernandez, E",
+"Hohman, E.E.",
+"Ferrante, M.J.",
+"Anzman-Frasca, S.",
+"Paul, I.M.",
+"Savage, J.S."
+],
+"year": 2024,
+"venue": "Obesity",
+"status": "published"
+},
+{
+"title": "Patterns of Latina mothers’ emotion-related beliefs and behaviors: Associations with consejos in the family",
+"authors": [
+"Hernandez, E.",
+"Perez Rivera, M.B.",
+"Halgunseth, L.C.",
+"Dunsmore, J.C."
+],
+"year": 2024,
+"venue": "Journal of Latinx Psychology",
+"status": "published"
+},
+{
+"title": "Sorry parents, children consume high amounts of candy before and after a meal: Within-person comparisons of children’s candy intake and associations with temperament and appetite",
+"authors": [
+"Hernandez, E.",
+"Moore, A.M.",
+"Rollins, B.Y.",
+"Tovar, A.",
+"Savage, J.S."
+],
+"year": 2023,
+"venue": "Children",
+"status": "published"
+},
+{
+"title": "Primary care and WIC coordination to prevent obesity for infants: A randomized clinical trial",
+"authors": [
+"Savage, J.S.",
+"Moore, A.M.",
+"Kling, S.M.R.",
+"Marini, M.E.",
+"Hernandez, E.",
+"Franceschelli Hosterman, J.",
+"Hassink, S.",
+"Paul, I.M.",
+"Bailey-Davis, L."
+],
+"year": 2023,
+"venue": "Childhood Obesity",
+"status": "published"
+},
+{
+"title": "Sleep SAAF responsive parenting intervention improves mothers’ feeding practices: A randomized controlled trial among African American mother-infant dyads",
+"authors": [
+"Hernandez, E.",
+"Lavner, J.A.",
+"Moore, A.M.",
+"Stansfield, B.K.",
+"Beach, S.R.H.",
+"Smith, J.J.",
+"Savage, J.S."
+],
+"year": 2022,
+"venue": "International Journal of Behavioral Nutrition and Physical Activity",
+"status": "published"
+},
+{
+"title": "Effects of the Sleep SAAF responsive parenting intervention on rapid infant weight gain: A randomized clinical trial of African American families",
+"authors": [
+"Lavner, J.A.",
+"Savage, J.S.",
+"Stansfield, B.K.",
+"Beach, S.R.H.",
+"Marini, M.E.",
+"Smith, J.J.",
+"Sperr, M.C.",
+"Anderson, T.N.",
+"Hernandez, E.",
+"Moore, A.M.",
+"Caldwell, A.L.",
+"Birch, L.L."
+],
+"year": 2022,
+"venue": "Appetite",
+"status": "published"
+},
+{
+"title": "Connecting with others: Dispositional and situational relatedness during the college transition",
+"authors": [
+"Booker, J.A.",
+"Hernandez, E.",
+"*Talley, K.",
+"Dunsmore, J.C."
+],
+"year": 2021,
+"venue": "Journal of Social and Personal Relationships",
+"status": "published"
+},
+{
+"title": "Toward integrating research on parent‐child emotion talk and linguistic theory: A spotlight on parents’ (in)direct communication",
+"authors": [
+"Hernandez, E.",
+"Carmichael, K.",
+"Dunsmore, J.C."
+],
+"year": 2021,
+"venue": "Social Development",
+"status": "published"
+},
+{
+"title": "Lots of prayer, lots of emotional coaching, and pray it works out the best”: Tuning in to KidsTM in a rural Appalachian community",
+"authors": [
+"Hernandez, E.",
+"Carmichael, K.",
+"Satterwhite, E.",
+"Yanuaria, C.",
+"Dunsmore, J.C."
+],
+"year": 2020,
+"venue": "Journal of Rural Mental Health",
+"status": "published"
+},
+{
+"title": "Using linguistic indirectness to examine parent-preschooler reminiscing: Links with emotion regulation and psychosocial adjustment",
+"authors": [
+"Hernandez, E.",
+"Carmichael, K.",
+"Kilic, S.",
+"Dunsmore, J.C."
+],
+"year": 2019,
+"venue": "Social Development",
+"status": "published"
+},
+{
+"title": "Patterns of parental emotion-related discourse and links with children’s problem behaviors: A person-centered approach",
+"authors": [
+"Hernandez, E.",
+"Smith, C.L.",
+"Day, K.L.",
+"Neal, A.",
+"Dunsmore, J.C."
+],
+"year": 2018,
+"venue": "Developmental Psychology",
+"status": "published"
+}
+]
+},
+"kimberly jaussi": {
+"name": "Kimberly Jaussi",
+"papers": [
+{
+"title": "A valued capability? The role of quality in hospital acquisition target selection",
+"authors": [
+"Dunne, D.D.",
+"Young, S.M.",
+"Jaussi, K.S."
+],
+"year": 2025,
+"venue": "Journal of Strategic Change",
+"status": "forthcoming"
+},
+{
+"title": "Attached to or stuck in: How resource attributes of i-deals influence the variation of continuance or affective commitment",
+"authors": [
+"Liu, Y.",
+"Zhou, M.",
+"Hu, L.",
+"Jaussi, K.S."
+],
+"year": 2023,
+"venue": "Baltic Journal of Management",
+"status": "published"
+},
+{
+"title": "Giving rise to creative leadership: Contextual enablers and redundancies",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S."
+],
+"year": 2019,
+"venue": "Group and Organization Management",
+"status": "published"
+},
+{
+"title": "The effects of role models, willingness to issue sell, and inclusion in decision making",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S.",
+"Wu, A."
+],
+"year": 2019,
+"venue": "The Journal of Applied Behavioral Science",
+"status": "published"
+},
+{
+"title": "Feeling good, being intentional, and their relationship to two types of creativity at work",
+"authors": [
+"Jaussi, K.S.",
+"Knights, A.",
+"Gupta, A."
+],
+"year": 2017,
+"venue": "Creativity Research Journal",
+"status": "published"
+},
+{
+"title": "Where to look? Creative self-efficacy, knowledge retrieval, and incremental and radical creativity",
+"authors": [
+"Jaussi, K.S.",
+"Randel, A.E."
+],
+"year": 2014,
+"venue": "Creativity Research Journal",
+"status": "published"
+},
+{
+"title": "When is being creative related to being viewed as creative? The moderating role of perceived probability of successfully bringing ideas to a supervisor’s attention",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S.",
+"Wu, A."
+],
+"year": 2011,
+"venue": "Creativity Research Journal",
+"status": "published"
+},
+{
+"title": "Organizational Responses to Negative Evaluation by External Stakeholders: The Role of Organizational Identity Characteristics in Organizational Response Formulation",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S.",
+"Standifird, S."
+],
+"year": 2009,
+"venue": "Business & Society",
+"status": "published"
+},
+{
+"title": "Leaders, followers and time",
+"authors": [
+"Jaussi, K.S.",
+"Bluedorn, A."
+],
+"year": 2008,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Gender personal and social identity, sex dissimilarity, relationship conflict, and asymmetrical effects",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S."
+],
+"year": 2008,
+"venue": "Small Group Research",
+"status": "published"
+},
+{
+"title": "Attitudinal commitment: A three-dimensional construct",
+"authors": [
+"Jaussi, K.S."
+],
+"year": 2007,
+"venue": "Journal of Occupational and Organizational Psychology",
+"status": "published"
+},
+{
+"title": "I am, I think I can, and I do: The role of personal identity, self-efficacy, and cross-application of experiences in creativity at work",
+"authors": [
+"Jaussi, K.S.",
+"Randel, A.E.",
+"Dionne, S.D."
+],
+"year": 2007,
+"venue": "Creativity Research Journal",
+"status": "published"
+},
+{
+"title": "Making All the Right Connections: The Strategic Leadership of Top Executives in High-Tech Organizations",
+"authors": [
+"Sosik, J.J.",
+"Jung, D.I.",
+"Benson, Y.",
+"Dionne, S.",
+"Jaussi, K."
+],
+"year": 2005,
+"venue": "Organizational Dynamics",
+"status": "published"
+},
+{
+"title": "Unconventional leader behavior: Effects on subordinate satisfaction, effort, and perception of leader effectiveness",
+"authors": [
+"Jaussi, K.S.",
+"Dionne, S.D."
+],
+"year": 2004,
+"venue": "Journal of Leadership and Organizational Studies",
+"status": "published"
+},
+{
+"title": "Leading for creativity: The role of unconventional behavior",
+"authors": [
+"Jaussi, K.S.",
+"Dionne, S.D."
+],
+"year": 2003,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Functional background identity, diversity, and individual performance in cross-functional teams",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S."
+],
+"year": 2003,
+"venue": "Academy of Management Journal",
+"status": "published"
+},
+{
+"title": "Deuschel, N. & Jaussi, K. (2025) Fit or Misfit? How leaders can create and leverage regulatory (mis) fit for novelty and usefulness in workplace creativity.",
+"authors": [
+"Deuschel, N.",
+"Jaussi, K."
+],
+"year": 2025,
+"venue": "The Leadership Quarterly (initial submission under revision)",
+"status": "working_paper"
+},
+{
+"title": "More Belongingness or More Uniqueness?: Context as an Antecedent of Inclusive Leadership Behaviors",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.S."
+],
+"year": 2025,
+"venue": "Group and Organization Management",
+"status": "working_paper"
+},
+{
+"title": "Inclusive Leader Identity: Implications on Leader Depletion and Work Meaningfulness",
+"authors": [
+"Jaussi, K.S.",
+"Kakarika, M.",
+"Epitropaki, O.",
+"Randel, A.E."
+],
+"year": 2025,
+"venue": "Personnel Psychology (planned)",
+"status": "working_paper"
+},
+{
+"title": "Increasing inclusiveness at work: The role of the self-concept, play, and interactions with others",
+"authors": [
+"Jaussi, K.",
+"Bysh, C."
+],
+"year": 2025,
+"venue": "Journal of Applied Psychology (planned)",
+"status": "working_paper"
+},
+{
+"title": "Finding and maintaining the momentum for creativity at work: The role of identity identity play, and inspiration from extraordinary experiences",
+"authors": [
+"Jaussi, K.",
+"Bysch, C."
+],
+"year": 2025,
+"venue": "Administrative Science Quarterly (planned)",
+"status": "working_paper"
+},
+{
+"title": "Leading innovation in turbulent times: Resources, environmental scanning, and search",
+"authors": [
+"Dunne, D.",
+"Jaussi, K.S."
+],
+"year": 2025,
+"venue": "Organization Studies (planned)",
+"status": "working_paper"
+},
+{
+"title": "Building a sustainability identity through extraordinary experiences",
+"authors": [
+"Jaussi, K.S.",
+"Kakarika, M."
+],
+"year": 2025,
+"venue": "Journal of Organizational Behavior (planned)",
+"status": "working_paper"
+},
+{
+"title": "Leading for creativity and innovation: Strategic leadership for the tensions and synergies of both/and",
+"authors": [
+"Jaussi, K.",
+"Randel, A.E."
+],
+"year": null,
+"venue": "Journal of Management Studies (planned)",
+"status": "working_paper"
+},
+{
+"title": "Gaining Acceptance for Ideas: The Role of Competitive Pressure and Creativity",
+"authors": [
+"Randel, A.E.",
+"Jaussi, K.",
+"Zatzick, C.",
+"Wu, A."
+],
+"year": null,
+"venue": "Creativity Research Journal (planned)",
+"status": "working_paper"
+},
+{
+"title": "Diversity Training, Race and Professional Background",
+"authors": [
+"Nebel, M.",
+"Guo, J.",
+"Sheng, J.",
+"Saparzadeh, A.",
+"Loncar, A.",
+"Jaussi, K."
+],
+"year": 2016,
+"venue": "Academy of Management Learning and Education (planned)",
+"status": "working_paper"
+}
+]
+},
+"shelley dionne": {
+"name": "Shelley Dionne",
+"papers": [
+{
+"title": "Personality and leader emergence in virtual teams: A longitudinal and network investigation",
+"authors": [
+"Yang, B.",
+"Jin, F.",
+"Tsai, C.-Y.",
+"Taras, V.",
+"Liu, Y.",
+"Dionne, S.D."
+],
+"year": 2025,
+"venue": "Journal of Management Scientific Reports",
+"status": "forthcoming"
+},
+{
+"title": "Effects of network connectivity and functional diversity distribution on human collective ideation",
+"authors": [
+"Cao, Y.",
+"Dong, Y.",
+"Kim, M.",
+"MacLaren, N.G.",
+"Pandey, S.",
+"Dionne, S.D.",
+"Yammarino, F.J.",
+"Sayama, H."
+],
+"year": 2025,
+"venue": "npj Complexity",
+"status": "published"
+},
+{
+"title": "Generation and influence of eccentric ideas on social networks",
+"authors": [
+"Pandey, S.",
+"Cao, Y.",
+"Dong, Y.",
+"Kim, M.",
+"MacLaren, N.G.",
+"Dionne, S.D.",
+"Yammarino, F.J.",
+"Sayama, H."
+],
+"year": 2023,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "Visualizing Collective Idea Generation and Innovation Processes in Social Networks",
+"authors": [
+"Cao, Y.",
+"Dong, Y.",
+"Kim, M.",
+"MacLaren, N.G.",
+"Pandey, S.",
+"Dionne, S.D.",
+"Yammarino, F.J.",
+"Sayama, H."
+],
+"year": 2023,
+"venue": "IEEE Transactions on Computational Social Systems",
+"status": "published"
+},
+{
+"title": "The effects of leadership for self-worth, inclusion, trust, and psychological safety on medical error reporting",
+"authors": [
+"Brimhall, K.C.",
+"Tsai, C.-Y.",
+"Eckardt, R.",
+"Dionne, S.",
+"Yang, B.",
+"Sharp, A."
+],
+"year": 2023,
+"venue": "Health Care Management Review",
+"status": "published"
+},
+{
+"title": "Group size and group performance in small collaborative team settings: An agent-based simulation model of collaborative decision-making dynamics",
+"authors": [
+"Cao, S.",
+"MacLaren, N.G.",
+"Marshall, J.",
+"Dong, Y.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Mumford, M.D.",
+"Connelly, S.",
+"Martin, R.W.",
+"Standish, C.J.",
+"Newbold, T.R.",
+"England, S.",
+"Sayama, H.",
+"Ruark, G.A."
+],
+"year": 2022,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "Human-robot collaboration: A multilevel and integrated leadership framework",
+"authors": [
+"Tsai, C.Y.",
+"Marshall, J.",
+"Choudhury, A.",
+"Serban, A.",
+"Hou, Y.T.Y.",
+"Jung, M.F.",
+"Dionne, S.D.",
+"Yammarino, F.J."
+],
+"year": 2022,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Introversion in Workplaces: A Review, Critique, and Research Agenda",
+"authors": [
+"Blevins, D. P.",
+"Stackhouse, M. R. D.",
+"Dionne, S. D."
+],
+"year": 2021,
+"venue": "International Journal of Management Reviews",
+"status": "published"
+},
+{
+"title": "Human capital emergence and leadership",
+"authors": [
+"Eckardt, R.",
+"Tsai, C.",
+"Dionne, S.D.",
+"Dunne, D.",
+"Spain, S.M.",
+"Park, J.W.",
+"Cheong, M.",
+"Kim, J.",
+"Guo, J.",
+"Hao, C.",
+"Kim, E.I."
+],
+"year": 2021,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Multilevel methods and statistics: The next frontier",
+"authors": [
+"Eckardt, R.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Spain, S.M."
+],
+"year": 2021,
+"venue": "Organizational Research Methods",
+"status": "published"
+},
+{
+"title": "Weekly patterns of motivation in students in higher education: A time series spectral analysis",
+"authors": [
+"Sotak, K.L.",
+"Spain, S.M.",
+"Dionne, S.D.",
+"Yammarino, F.J."
+],
+"year": 2021,
+"venue": "Educational Psychology",
+"status": "published"
+},
+{
+"title": "Utterance clustering using stereo audio channels",
+"authors": [
+"Dong, Y.",
+"MacLaren, N.G.",
+"Cao, Y.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Mumford, M.D.",
+"Connelly, S.",
+"Sayama, H.",
+"Ruark, G.A."
+],
+"year": 2021,
+"venue": "Computational Intelligence and Neuroscience",
+"status": "published"
+},
+{
+"title": "Speaking time and leader emergence in initially leaderless groups: A test of competing theories",
+"authors": [
+"MacLaren, N.G.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Sayama, H.",
+"Mumford, M.D.",
+"Connelly, S.",
+"Martin, R.W.",
+"Mulhearn, T.J.",
+"Todd, E.M.",
+"Kulkarni, A.",
+"Cao, Y.",
+"Ruark, G.A."
+],
+"year": 2020,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Health education and changing stress mindsets: The moderating role of personality",
+"authors": [
+"Wegmann, J.",
+"Marshall, J.",
+"Tsai, C.-Y.",
+"Dionne, S.D."
+],
+"year": 2020,
+"venue": "American Journal of Health Education",
+"status": "published"
+},
+{
+"title": "An Agent-based Model of Leader Emergence and Leadership Perception within a Collective",
+"authors": [
+"Cao, S.",
+"MacLaren, N.",
+"Cao, Y.",
+"Dong, Y.",
+"Sayama, H.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Mumford, M.D.",
+"Connelly, S.",
+"Martin, R.",
+"Standish, C.",
+"Newbold, T.",
+"England, S.",
+"Ruark, G."
+],
+"year": 2020,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "State-of-the-science review of leader-follower dyads research",
+"authors": [
+"Kim, J.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Eckardt, R.",
+"Cheong, M.",
+"Tsai, C.-Y.",
+"Guo, J.",
+"Park, J.W."
+],
+"year": 2020,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Diversity and Social Network Structure in Collective Decision Making: Evolutionary Perspectives with Agent-Based Simulations",
+"authors": [
+"Dionne, S.D.",
+"Sayama, H.",
+"Yammarino, F.J."
+],
+"year": 2019,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "A review of the effectiveness of empowering leadership",
+"authors": [
+"Cheong, M.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Spain, S.M.",
+"Tsai, C.Y."
+],
+"year": 2019,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Benevolence-dominant, authoritarianism-dominant, and classical paternalistic leadership: Testing their relationships with subordinate performance",
+"authors": [
+"Wang, A.",
+"Tsai, C.",
+"Dionne, S.D.",
+"Yammarino, F.J.",
+"Spain, S.M.",
+"Ling, H.",
+"Huang, M.",
+"Chou, L.",
+"Cheng, B."
+],
+"year": 2018,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Decision making in crises: A multi-level model of the interplay between cognitions and emotions",
+"authors": [
+"Dionne, S.D.",
+"Gooty, J.",
+"Yammarino, F.J.",
+"Sayama, H."
+],
+"year": 2018,
+"venue": "Organizational Psychology Review",
+"status": "published"
+},
+{
+"title": "Effects of relational schema congruence on leader-member exchange",
+"authors": [
+"Tsai, C.Y.",
+"Dionne, S.D.",
+"Wang, A.C.",
+"Spain, S.M.",
+"Yammarino, F.J.",
+"Cheng, B.S."
+],
+"year": 2017,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Collective Decision Making, Leadership, and Collective Intelligence: Tests with Agent-Based Simulations and a Field Study",
+"authors": [
+"McHugh, K.",
+"Yammarino, F.J.",
+"Serban, A.",
+"Dionne, S.D.",
+"Sayama, H.",
+"Chatterjee, S."
+],
+"year": 2016,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Leadership emergence in face-to-face and virtual teams: A multi-level model with agent-based simulations, quasi-experimental and experimental tests",
+"authors": [
+"Serban, A.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Kahai, S.S.",
+"Hao, C.",
+"McHugh, K.A.",
+"Sotak, K.L.",
+"Mushore, A.B.R.",
+"Friedrich, T.L.",
+"Peterson, D.R."
+],
+"year": 2015,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Studying collective human decision making and creativity with evolutionary computation",
+"authors": [
+"Sayama, H.",
+"Dionne, S.D."
+],
+"year": 2015,
+"venue": "Artificial Life",
+"status": "published"
+},
+{
+"title": "A 25-Year Perspective on Levels of Analysis in Leadership Research",
+"authors": [
+"Dionne, S.D.",
+"Gupta, A.",
+"Sotak, K.L.",
+"Shirreffs, K.A.",
+"Serban, A.",
+"Hao, C.",
+"Kim, D.H.",
+"Yammarino, F.J."
+],
+"year": 2014,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Levels of analysis incorporation and publication quality: An illustration with transformational/charismatic leadership",
+"authors": [
+"Dionne, S.D.",
+"Chun, J.U.",
+"Hao, C.",
+"Serban, A.",
+"Yammarino, F.J.",
+"Spangler, W.D."
+],
+"year": 2012,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Retrospective Relatedness Reconstruction: Applications to Adaptive Social Networks and Social Sentiment",
+"authors": [
+"Dionne, S.D.",
+"Akaishi, J.",
+"Chen, X.",
+"Gupta, A.",
+"Sayama, H.",
+"Yammarino, F.J.",
+"Serban, A.",
+"Hao, C.",
+"Head, H.J.",
+"Bush, B.J."
+],
+"year": 2012,
+"venue": "Organizational Research Methods",
+"status": "published"
+},
+{
+"title": "The effects of mental model formation on group decision making: An agent-based simulation",
+"authors": [
+"Sayama, H.",
+"Farrell, D.L.",
+"Dionne, S.D."
+],
+"year": 2010,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "The role of leadership in shared mental model convergence and team performance improvement: An agent-based computational model",
+"authors": [
+"Dionne, S.D.",
+"Sayama, H.",
+"Hao, C.",
+"Bush, B.J."
+],
+"year": 2010,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Leadership team dynamics for dangerous military contexts",
+"authors": [
+"Yammarino, F.J.",
+"Mumford, M.D.",
+"Connelly, M.S.",
+"Dionne, S.D."
+],
+"year": 2010,
+"venue": "Military Psychology",
+"status": "published"
+},
+{
+"title": "Leadership across hierarchical levels: Multiple levels of management and multiple levels of analysis",
+"authors": [
+"Chun, J.U.",
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Sosik, J.S.",
+"Moon, H.K."
+],
+"year": 2009,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Authentic leadership and positive organizational behavior: A meso, multi-level perspective",
+"authors": [
+"Yammarino, F.J.",
+"Dionne, S.D.",
+"Schriesheim, C.A.",
+"Dansereau, F."
+],
+"year": 2008,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Levels-based leadership and hierarchical group decision optimization: A Monte Carlo Simulation",
+"authors": [
+"Dionne, S.D.",
+"Dionne, P.J."
+],
+"year": 2008,
+"venue": "Leadership Quarterly",
+"status": "published"
+}
+]
+},
+"tiffany keller hansbrough": {
+"name": "Tiffany Keller Hansbrough",
+"papers": [
+{
+"title": "When dimensions collide: The risks of unjustified simplification of complex leadership concepts",
+"authors": [
+"Hansbrough, T.K.",
+"Hanges, P.J.",
+"Lord, R.G."
+],
+"year": null,
+"venue": "Journal of Management Scientific Reports",
+"status": "forthcoming"
+},
+{
+"title": "Beyond the leader: A call to direct toward the ship in leader-ship science",
+"authors": [
+"Gooty, J.",
+"Banks, G.",
+"Tsai, C.",
+"Hansbrough, T.K.",
+"Harms, P.",
+"Walsh, S."
+],
+"year": null,
+"venue": "Journal of Management Studies",
+"status": "forthcoming"
+},
+{
+"title": "Do you remember? Rater memory systems and leadership measurement",
+"authors": [
+"Hansbrough, T.K.",
+"Lord, R.G.",
+"Schyns, B.",
+"Foti, R.J.",
+"Liden, R.",
+"Acton, B."
+],
+"year": 2021,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Implicit leadership and followership theories and dynamic processing of leadership information",
+"authors": [
+"Lord, R.G.",
+"Epitropaki, O.",
+"Foti, R.J.",
+"Hansbrough, T.K."
+],
+"year": 2020,
+"venue": "Annual Review of Organizational Psychology and Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Who might support a tyrant? An exploration of links between adolescent family conflict and endorsement of tyrannical implicit leadership theories",
+"authors": [
+"*Walker, D.O.",
+"Riggio, R.",
+"Reichard, B.J.",
+"Hansbrough, T.K."
+],
+"year": 2020,
+"venue": "Journal of Leadership and Organizational Studies",
+"status": "published"
+},
+{
+"title": "The appeal of transformational leadership",
+"authors": [
+"Hansbrough, T.K.",
+"Schyns, B."
+],
+"year": 2018,
+"venue": "Journal of Leadership Studies",
+"status": "published"
+},
+{
+"title": "Dynamic viewpoints on implicit leadership and followership theories: Approaches, findings, and future directions",
+"authors": [
+"Foti, R.J.",
+"Hansbrough, T.K.",
+"Epitropaki, O."
+],
+"year": 2017,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Reconsidering the accuracy of follower leadership ratings",
+"authors": [
+"Hansbrough, T.K.",
+"Lord, R.G.",
+"Schyns, B."
+],
+"year": 2015,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Inside the minds of narcissists: How narcissistic leaders’ cognitive processes contribute to abusive supervision",
+"authors": [
+"Hansbrough, T.K.",
+"Jones, G.E."
+],
+"year": 2014,
+"venue": "Zeitschrift fur Psychologie",
+"status": "published"
+},
+{
+"title": "The construction of a transformational leader: Follower attachment and leadership perceptions",
+"authors": [
+"Hansbrough, T.K."
+],
+"year": 2012,
+"venue": "Journal of Applied Social Psychology",
+"status": "published"
+},
+{
+"title": "Romance of leadership scale and causal attributions",
+"authors": [
+"Schyns, B.",
+"Hansbrough, T."
+],
+"year": 2012,
+"venue": "Journal of Applied Social Psychology",
+"status": "published"
+},
+{
+"title": "Why the brewery ran out of beer - The attribution of mistakes in a leadership context",
+"authors": [
+"Schyns, B.",
+"Hansbrough, T."
+],
+"year": 2008,
+"venue": "Social Psychology",
+"status": "published"
+},
+{
+"title": "Parental images as a guide to leadership sensemaking: An attachment perspective on implicit leadership theories",
+"authors": [
+"Keller, T."
+],
+"year": 2003,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "The effect of adding items to scales: An illustrative case of LMX",
+"authors": [
+"Keller, T.",
+"Dansereau, F."
+],
+"year": 2001,
+"venue": "Organizational Research Methods",
+"status": "published"
+},
+{
+"title": "Leader-follower attachments: Understanding parental images at work",
+"authors": [
+"Keller, T.",
+"Cacioppe, R."
+],
+"year": 2001,
+"venue": "Leadership and Organization Development Journal",
+"status": "published"
+},
+{
+"title": "Images of the familiar: Individual differences and implicit leadership theories",
+"authors": [
+"Keller, T."
+],
+"year": 1999,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "On the advisability of outdoor adventure training: Caveat emptor",
+"authors": [
+"Keller, T.",
+"Olson, W.B."
+],
+"year": 1999,
+"venue": "Review of Business",
+"status": "published"
+},
+{
+"title": "Leadership and Empowerment: A Social Exchange Perspective",
+"authors": [
+"Keller, T.",
+"Dansereau, F."
+],
+"year": 1995,
+"venue": "Human Relations",
+"status": "published"
+},
+{
+"title": "Individualized leadership: A new multiple level approach",
+"authors": [
+"Dansereau, F.",
+"Yammarino, F.",
+"Markham, S.",
+"Alutto, J.A.",
+"Newman, J.",
+"Nachman, S.A.",
+"Naughton, T.J.",
+"Kim, K.",
+"Kallabi, A.",
+"Lee, S.",
+"Keller, T."
+],
+"year": 1995,
+"venue": "The Leadership Quarterly",
+"status": "published"
+}
+]
+},
+"chou yu tsai": {
+"name": "Chou-Yu Tsai",
+"papers": []
+},
+"debjit gupta": {
+"name": "Debjit Gupta",
+"papers": [
+{
+"title": "Trying but Failing: The Role of Time and Money in Enhancing Self-Determination, Increasing Goal Persistence, and Reducing Unhappiness",
+"authors": [
+"Chatterjee, Subimal",
+"Gupta, Debjit",
+"Lin, Chien-Wei",
+"Jiao, Jinfeng"
+],
+"year": 2025,
+"venue": "Journal of Consumer Marketing",
+"status": "published"
+},
+{
+"title": "Prize Substitution and Participation Penalty in Contests for User-Generated Content: Evidence from Field Data and Experiments",
+"authors": [
+"Gupta, Debjit",
+"Jiang, Juncai",
+"Xie, Ying",
+"Chakravarti, Dipankar"
+],
+"year": null,
+"venue": "Management Information Systems Quarterly (in preparation)",
+"status": "working_paper"
+},
+{
+"title": "Ability vs. Stability in Partner Selection? Performance Maximization Versus Team Stability Under Varying Reputation and Adjustment Costs",
+"authors": [
+"Chakravarti, Dipankar",
+"Gupta, Debjit"
+],
+"year": null,
+"venue": "Organizational Behavior and Human Decision Processes (in preparation)",
+"status": "working_paper"
+},
+{
+"title": "Matching and Making in Matchmaking Platforms: A Structural Analysis",
+"authors": [
+"Gupta, Debjit",
+"Jiang, Juncai",
+"Chakravarti, Dipankar"
+],
+"year": null,
+"venue": "Marketing Science (in preparation)",
+"status": "working_paper"
+},
+{
+"title": "Is Time Money and Money Time?",
+"authors": [
+"Chakravarti, Dipankar",
+"Gupta, Debjit"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Gambled Price Discounts: How the Surprise of Winning Versus Not Winning Shapes Consumer Feelings and Future Behavior",
+"authors": [
+"Chatterjee, Subimal",
+"Gupta, Debjit",
+"Dalman, Deniz"
+],
+"year": null,
+"venue": "European Journal of Marketing (in preparation)",
+"status": "working_paper"
+},
+{
+"title": "Fitting a Brand’s Visual and Cognitive Anthropomorphic Forms Restores Personal Need for Control",
+"authors": [
+"Dalman, Deniz",
+"Chatterjee, Subimal",
+"Gupta, Debjit"
+],
+"year": null,
+"venue": "Journal of Business Research (in preparation)",
+"status": "working_paper"
+},
+{
+"title": "Examining the Effect of the Dobbs Decision on Demand for Imperfect Substitutes",
+"authors": [
+"Rabino, Rebecca",
+"Villanova, Daniel",
+"Gupta, Debjit"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"soheil goodarzi": {
+"name": "Soheil Goodarzi",
+"papers": [
+{
+"title": "Navigating the Technology-Tide: Mitigating the Impact of Technology-Related Political Risks on Firm Innovativeness through Strategic Diversification and Board Technology Competency",
+"authors": [
+"Jiang, J.",
+"Goodarzi, S.",
+"Kahai, S.",
+"Cameron, A. F."
+],
+"year": 2025,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Exploring the Impact of Online Social Participation on Loneliness in Older Adults: Evidence from the Canadian Longitudinal Study on Aging",
+"authors": [
+"Goodarzi, S.",
+"Jiang, J.",
+"Head, M.",
+"Lu, X."
+],
+"year": 2023,
+"venue": "International Journal of Information Management",
+"status": "published"
+},
+{
+"title": "Telecommuting and Job Outcomes: A Moderated Mediation Model of System Use, Software Quality, and Social Exchange",
+"authors": [
+"Kuruzovich, J.",
+"Paczkowski, W.",
+"Golden, T.D.",
+"Goodarzi, S.",
+"Venkatesh, V."
+],
+"year": 2021,
+"venue": "Information & Management",
+"status": "published"
+},
+{
+"title": "A Nomological Network of Customers’ Privacy Perceptions: Linking Artifact Design to Shopping Efficiency",
+"authors": [
+"Hoehle, H.",
+"Aloysius, J. A.",
+"Goodarzi, S.",
+"Venkatesh, V."
+],
+"year": 2019,
+"venue": "European Journal of Information Systems",
+"status": "published"
+},
+{
+"title": "Big Data Initiatives in Retail Environments: Linking Service Process Perceptions to Shopping Outcomes",
+"authors": [
+"Aloysius, J. A.",
+"Hoehle, H.",
+"Goodarzi, S.",
+"Venkatesh, V."
+],
+"year": 2018,
+"venue": "Annals of Operations Research",
+"status": "published"
+}
+]
+},
+"jujun huang": {
+"name": "Jujun Huang",
+"papers": [
+{
+"title": "Tracking Disclosure Change Trajectories for Financial Fraud Detection",
+"authors": [
+"Liu R.",
+"Huang J.",
+"Zhang Z."
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Analysts’ Skepticism in Conference Calls: A Deep Learning Approach",
+"authors": [
+"Huang J.",
+"Liu R.",
+"Wu Y.",
+"Henry E."
+],
+"year": null,
+"venue": "Management Science",
+"status": "working_paper"
+},
+{
+"title": "Professional Skepticism on Anonymous Online Platforms: A Catalyst for Public Discourse",
+"authors": [
+"Huang J.",
+"Liu R.",
+"Duan W."
+],
+"year": null,
+"venue": "Conference on Information Systems and Technology (submitted)",
+"status": "working_paper"
+},
+{
+"title": "The Impact of Chinese Import Competition on U.S. Firms’ Sentiment",
+"authors": [
+"Weixiao W.",
+"Huang J.",
+"Torrie W."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"jinglu jiang": {
+"name": "Jinglu Jiang",
+"papers": [
+{
+"title": "Phishing Detection in Multitasking Contexts: The Impact of Working Memory Load, Goal Activation, and Message Framing Cue on Detection Performance",
+"authors": [
+"Lu, X.",
+"Jiang, J.",
+"Head, M.",
+"Yang, J."
+],
+"year": null,
+"venue": "European Journal of Information Systems",
+"status": "forthcoming"
+},
+{
+"title": "Demonstration of Generative AI Assisted Inductive Coding: Exploring Sociotechnical Imaginaries for Qualitative Research",
+"authors": [
+"Jiang, J.",
+"Giannelia, T.",
+"Cameron, A."
+],
+"year": null,
+"venue": "Communications of the Association for Information Systems",
+"status": "forthcoming"
+},
+{
+"title": "Navigating the technology-tide: Mitigating the impact of technology-related political risks on firm innovativeness through strategic diversification and board technology competency",
+"authors": [
+"Jiang, J.",
+"Goodarzi, S.",
+"Kahai, S.",
+"Cameron, A. F."
+],
+"year": 2025,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Blooming Through the Cracks: The Effects of Fault Lines in Corporate Boards on Information-Technology Value",
+"authors": [
+"Matta, M.",
+"Jiang, J.",
+"Kahai, S.",
+"Sabherwal, R."
+],
+"year": 2024,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Toward a multilevel framework of multicommunicating: Insights from a systematic review",
+"authors": [
+"Jiang, J.",
+"Cameron, A. F.",
+"Opoku-Mensah, E."
+],
+"year": 2023,
+"venue": "Computers in Human Behavior Reports",
+"status": "published"
+},
+{
+"title": "How Do You Cope? Online Medical Consultation Service Uncertainty, Coping Strategies, and Subsequent Payment",
+"authors": [
+"Yang, M.",
+"Jiang, J.",
+"Liu, X.",
+"Cameron, A."
+],
+"year": 2023,
+"venue": "Electronic Commerce Research and Applications",
+"status": "published"
+},
+{
+"title": "Exploring the Impact of Online Social Participation on Loneliness in Older Adults: Evidence from the Canadian Longitudinal Study on Aging",
+"authors": [
+"Goodarzi, S.",
+"Jiang, J.",
+"Lu, X.",
+"Head, M."
+],
+"year": 2023,
+"venue": "International Journal of Information Management",
+"status": "published"
+}
+]
+},
+"surinder kahai": {
+"name": "Surinder Kahai",
+"papers": [
+{
+"title": "Managing online small-group learning: Effects of facilitation style and type of group reward",
+"authors": [
+"Kwok, R. C. W.",
+"Kahai, S. S.",
+"Hao, J. X."
+],
+"year": 2025,
+"venue": "International Journal of Information Management",
+"status": "published"
+},
+{
+"title": "Cognitive effort in virtual worlds in the metaverse versus instant messaging: Disruptive impacts on team performance and strategies for recovery",
+"authors": [
+"Kahai, S."
+],
+"year": 2025,
+"venue": "Computers in Human Behavior",
+"status": "published"
+},
+{
+"title": "Navigating the technology-tide: Mitigating the impact of technology-related political risks on firm innovativeness through strategic diversification and board technology competency",
+"authors": [
+"Jiang, J.",
+"Goodarzi, S.",
+"Kahai, S.",
+"Cameron, A. F."
+],
+"year": 2025,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Blooming Through the Cracks: The Effects of Fault Lines in Corporate Boards on Information-Technology Value",
+"authors": [
+"Matta, M.",
+"Jiang, J.",
+"Kahai, S.",
+"Sabherwal, R."
+],
+"year": 2024,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "The Effect of Ambidextrous CIO Leadership on Strategic Alignment Through Knowledge Integration Mechanisms",
+"authors": [
+"Eom, M. T.",
+"Kahai, S.",
+"Yayla, A."
+],
+"year": 2024,
+"venue": "ACM SIGMIS Database",
+"status": "published"
+},
+{
+"title": "Synergistic impacts of online and offline social participation on older adults’ subjective well-being: evidence from the Canadian Longitudinal Study on Aging",
+"authors": [
+"Lu, X.",
+"Jiang, J.",
+"Head, M.",
+"Kahai, S. S.",
+"Yang, J."
+],
+"year": 2024,
+"venue": "European Journal of Information Systems",
+"status": "published"
+},
+{
+"title": "Gender effects in directed versus incidental learning in a 3D virtual world simulation",
+"authors": [
+"Kahai, S.",
+"Jestice, R.",
+"Huang, R."
+],
+"year": 2023,
+"venue": "AIS Transactions on Human-Computer Interaction",
+"status": "published"
+},
+{
+"title": "Who needs explanation and when? Juggling explainable AI and user epistemic uncertainty",
+"authors": [
+"Jiang, J.",
+"Kahai, S.",
+"Yang, M."
+],
+"year": 2022,
+"venue": "International Journal of Human-Computer Studies",
+"status": "published"
+},
+{
+"title": "Building social capital with Facebook: Type of network, availability of other media, and social self-efficacy matter",
+"authors": [
+"Kahai, S.",
+"Lei, Y."
+],
+"year": 2019,
+"venue": "International Journal of Human-Computer Studies",
+"status": "published"
+},
+{
+"title": "Leadership emergence in face-to-face and virtual teams: A multi-level model with agent-based simulations, quasi-experimental and experimental tests",
+"authors": [
+"Serban, A.",
+"Yammarino, F. J.",
+"Dionne, S. D.",
+"Kahai, S. S.",
+"Hao, C.",
+"McHugh, K. A.",
+"Sotak, K.L.",
+"Mushore, A.",
+"Friedrich, T.L.",
+"Peterson, D. R."
+],
+"year": 2015,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "E-Leadership: Re-examining transformations in leadership source and transmission",
+"authors": [
+"Avolio, B. J.",
+"Sosik, J.J.",
+"Kahai, S. S.",
+"Bradford, B."
+],
+"year": 2014,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Effects of transformational and transactional leadership on cognitive effort and outcomes during collaborative learning within a virtual world",
+"authors": [
+"Kahai, S.",
+"Jestice, R.",
+"Huang, R."
+],
+"year": 2013,
+"venue": "British Journal of Educational Technology",
+"status": "published"
+},
+{
+"title": "Interaction effect of leadership and communication media on feedback positivity in virtual teams",
+"authors": [
+"Kahai, S.",
+"Huang, R.",
+"Jestice, R."
+],
+"year": 2012,
+"venue": "Group & Organization Management",
+"status": "published"
+},
+{
+"title": "Team virtues and performance: An examination of transparency, behavioral integrity, and trust",
+"authors": [
+"Palanski, M. E.",
+"Kahai, S. S.",
+"Yammarino, F. J."
+],
+"year": 2011,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "The contingent effects of leadership on team collaboration in virtual teams",
+"authors": [
+"Huang, R.",
+"Kahai, S.",
+"Jestice, R."
+],
+"year": 2010,
+"venue": "Computers in Human Behavior",
+"status": "published"
+},
+{
+"title": "Toward intelligent business integration: The semantic web",
+"authors": [
+"Lee, J.",
+"Kahai, S.S.",
+"Kim, Y.J.",
+"Kim, B. B."
+],
+"year": 2009,
+"venue": "Issues in Information Systems",
+"status": "published"
+},
+{
+"title": "Anonymity and counter-normative arguments in computer-mediated discussions",
+"authors": [
+"Kahai, S."
+],
+"year": 2009,
+"venue": "Group & Organization Management",
+"status": "published"
+},
+{
+"title": "Silver bullet or voodoo statistics? A primer for using the partial least squares data analytic technique in group and organization research",
+"authors": [
+"Sosik, J.",
+"Kahai, S.",
+"Piovoso, M."
+],
+"year": 2009,
+"venue": "Group & Organization Management",
+"status": "published"
+},
+{
+"title": "Team collaboration in virtual worlds",
+"authors": [
+"Kahai, S.",
+"Carroll, E.",
+"Jestice, R."
+],
+"year": 2007,
+"venue": "The Database for Advances in Information Systems",
+"status": "published"
+},
+{
+"title": "Leadership in virtual teams: Past, Present, and Future",
+"authors": [
+"Kahai, S.",
+"Fjermestad, J.",
+"Zhang, S.",
+"Avolio, B."
+],
+"year": 2007,
+"venue": "International Journal of e-Collaboration",
+"status": "published"
+},
+{
+"title": "Leadership style, anonymity, and the discussion of an ethical issue in an electronic context",
+"authors": [
+"Kahai, S.",
+"Avolio, B."
+],
+"year": 2006,
+"venue": "International Journal of e-Collaboration",
+"status": "published"
+},
+{
+"title": "Effects of participative and directive leadership in electronic groups",
+"authors": [
+"Kahai, S.",
+"Sosik, J.",
+"Avolio, B."
+],
+"year": 2004,
+"venue": "Groups & Organization Management",
+"status": "published"
+},
+{
+"title": "Exploring the core concepts of media richness theory: The impact of cue multiplicity and feedback immediacy on decision quality",
+"authors": [
+"Kahai, S.",
+"Cooper, R."
+],
+"year": 2003,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Effects of leadership style, anonymity, and rewards on creativity-relevant processes and outcomes in an electronic meeting system context",
+"authors": [
+"Kahai, S. S.",
+"Sosik, J. J.",
+"Avolio, B. J."
+],
+"year": 2003,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Adding the “e” to e-leadership: How it may impact your leadership",
+"authors": [
+"Avolio, B.",
+"Kahai, S."
+],
+"year": 2003,
+"venue": "Organizational Dynamics",
+"status": "published"
+},
+{
+"title": "E-leadership: Implications for theory, research, and practice",
+"authors": [
+"Avolio, B.",
+"Kahai, S.",
+"Dodge, G."
+],
+"year": 2000,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "The effect of computer-mediated communication on agreement and acceptance",
+"authors": [
+"Kahai, S. S.",
+"Cooper, R. A."
+],
+"year": 1999,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Leadership style, anonymity, and creativity in group decision support systems: The mediating role of optimal flow",
+"authors": [
+"Sosik, J.",
+"Kahai, S.",
+"Avolio, B."
+],
+"year": 1999,
+"venue": "Journal of Creative Behavior",
+"status": "published"
+},
+{
+"title": "Effects of source and participant anonymity and initial difference in opinions in an EMS context",
+"authors": [
+"Kahai, S.",
+"Avolio, B.",
+"Sosik, J."
+],
+"year": 1998,
+"venue": "Decision Sciences",
+"status": "published"
+},
+{
+"title": "The effects of behavioral involvement, familiarity, and framing on the illusion of control during decision support system use",
+"authors": [
+"Kahai, S.",
+"Solieri, S.",
+"Felo, A."
+],
+"year": 1998,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "Transformational leadership, anonymity, and task interdependence: An ecology for inspiring potency and effectiveness in computer-supported work groups",
+"authors": [
+"Sosik, J.",
+"Avolio, B.",
+"Kahai, S.",
+"Jung, D."
+],
+"year": 1998,
+"venue": "Computers in Human Behavior",
+"status": "published"
+},
+{
+"title": "Transformational leadership and dimensions of creativity: Motivating idea generation in computer-mediated groups",
+"authors": [
+"Sosik, J.",
+"Kahai, S.",
+"Avolio, B."
+],
+"year": 1998,
+"venue": "Creativity Research Journal",
+"status": "published"
+},
+{
+"title": "Inspiring group creativity: Comparing anonymous and identified electronic brainstorming",
+"authors": [
+"Sosik, J.",
+"Avolio, B.",
+"Kahai, S."
+],
+"year": 1998,
+"venue": "Small Group Research",
+"status": "published"
+},
+{
+"title": "Effects of leadership style and problem structure on work group process and outcomes in an electronic meeting system environment",
+"authors": [
+"Kahai, S.",
+"Sosik, J.",
+"Avolio, B."
+],
+"year": 1997,
+"venue": "Personnel Psychology",
+"status": "published"
+},
+{
+"title": "Effects of leadership style and anonymity on group potency and effectiveness in a GDSS environment",
+"authors": [
+"Sosik, J.",
+"Avolio, B.",
+"Kahai, S."
+],
+"year": 1997,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Leveraging generative AI for problem-based learning: Promoting student-initiated scaffolding",
+"authors": [
+"Jiang, J.",
+"Kahai, S."
+],
+"year": 2025,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Mitigating the impct of user knowledge gaps on AI advice acceptance: A study in healthcare using explainable AI designs",
+"authors": [
+"Yang, M.",
+"Jiang, J.",
+"Xin, L.",
+"Kahai, S."
+],
+"year": null,
+"venue": "Journal of the Association for Information Systems",
+"status": "revise_resubmit"
+},
+{
+"title": "Online leadership training: Effects of visualization enabled by a virtual world for different training methods",
+"authors": [
+"Kahai, S.",
+"Jestice, R."
+],
+"year": null,
+"venue": "Personnel Psychology (planned)",
+"status": "working_paper"
+},
+{
+"title": "Using instant messaging to acquire knowledge - An examination based on the affordances for organizing perspective",
+"authors": [
+"Kahai, S.",
+"Baek, S."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Relational liking tendency on Facebook",
+"authors": [
+"Kahai, S.",
+"Lei, Y."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Using ChatGPT for course preparation: Determinants of co-creation versus shut-down behaviors",
+"authors": [
+"Kahai, S.",
+"Jiang, J."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Integrating AI into Creative Problem-Solving",
+"authors": [
+"Kahai, S.",
+"Jiang, J."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"srikanth parameswaran": {
+"name": "Srikanth Parameswaran",
+"papers": [
+{
+"title": "A Mining Town in a Digital Land: Browser-Based Cryptocurrency Mining as an Alternative to Online Advertising",
+"authors": [
+"Yayla, A.",
+"Dincelli, E.",
+"Parameswaran, S."
+],
+"year": 2024,
+"venue": "Information Systems Frontiers",
+"status": "published"
+},
+{
+"title": "Examining the Differential Effectiveness of Fear Appeals in Information Security Management Using Two-Stage Meta-Analysis",
+"authors": [
+"Lowry, P. B.",
+"Moody, G.",
+"Parameswaran, S.",
+"Brown, N."
+],
+"year": 2023,
+"venue": "Journal of Management Information Systems",
+"status": "published"
+},
+{
+"title": "Theorizing About the Early-Stage Diffusion of Co-dependent IT Innovations",
+"authors": [
+"Parameswaran, S.",
+"Kishore, R.",
+"Liu, Z.",
+"Yang, X."
+],
+"year": 2023,
+"venue": "Journal of the Association for Information Systems",
+"status": "published"
+},
+{
+"title": "Using CATA and Machine Learning to Operationalize Old Constructs in New Ways: An Illustration Using U.S. Governors’ COVID-19 Press Briefings",
+"authors": [
+"Marshall, J. D.",
+"Yammarino, F. J.",
+"Parameswaran, S.",
+"Cheong, M."
+],
+"year": 2023,
+"venue": "Organizational Research Methods",
+"status": "published"
+},
+{
+"title": "I Like My Anonymity: An Empirical Investigation of the Effect of Multidimensional Review Text and Role Anonymity on Helpfulness of Employer Reviews",
+"authors": [
+"Parameswaran, S.",
+"Mukherjee, P.",
+"Valecha, R."
+],
+"year": 2023,
+"venue": "Information Systems Frontiers",
+"status": "published"
+},
+{
+"title": "Can Online Social Support be Detrimental in Stigmatized Chronic Diseases? A Quadratic Model of the Effects of Informational and Emotional support on Self-Care Behavior of HIV Patients",
+"authors": [
+"Wang, X.",
+"Parameswaran, S.",
+"Bagul, D.",
+"Kishore, R."
+],
+"year": 2018,
+"venue": "Journal of the American Medical Informatics Association",
+"status": "published"
+},
+{
+"title": "Knowing About Your Food from the Farm to the Table: Using Information Systems that Reduce Information Asymmetry and Health Risks in Retail Contexts",
+"authors": [
+"Yoo, C. W.",
+"Parameswaran, S.",
+"Kishore, R."
+],
+"year": 2015,
+"venue": "Information and Management",
+"status": "published"
+},
+{
+"title": "Within-Study Measurement Invariance of the UTAUT Instrument: An Assessment with User Technology Engagement Variables",
+"authors": [
+"Parameswaran, S.",
+"Kishore, R.",
+"Li, P."
+],
+"year": 2015,
+"venue": "Information and Management",
+"status": "published"
+},
+{
+"title": "Web-Based Meaningful Reporting of Patient Harm: Proposal of a Prototype for Creating High Reliability Hospitals",
+"authors": [
+"Singh, R.",
+"Sharman, R.",
+"Umesh, G.",
+"Sankarasubramaniam, K.V.",
+"Parameswaran, S.",
+"Narayanan, A."
+],
+"year": 2015,
+"venue": "Open Access Library Journal",
+"status": "published"
+},
+{
+"title": "Cloud Computing Security Announcements: Assessment of Investors’ Reaction",
+"authors": [
+"Parameswaran, S.",
+"Venkatesan, S.",
+"Gupta, M."
+],
+"year": 2013,
+"venue": "Journal of Information Privacy and Security",
+"status": "published"
+}
+]
+},
+"sumantra sarkar": {
+"name": "Sumantra Sarkar",
+"papers": [
+{
+"title": "Behavioral Issues in Cybersecurity & Privacy in the Era of Data Explosion",
+"authors": [
+"Sarkar, S.",
+"Menard, P.",
+"Vance, A."
+],
+"year": 2026,
+"venue": "Information Systems Frontiers",
+"status": "forthcoming"
+},
+{
+"title": "Exploring Burnout in Nurses in Long-Term Care Environment",
+"authors": [
+"Varshney, S.",
+"Singh, N.",
+"Sarkar, S.",
+"Varshney, U.",
+"Sone, M.",
+"Ayuthu, S.",
+"McCall, W."
+],
+"year": 2025,
+"venue": "The American Journal of Geriatric Psychiatry",
+"status": "published"
+},
+{
+"title": "The Relationship between Telemedicine Tools and Physician Satisfaction, Quality of Care, and Patient Visits During the COVID-19 Pandemic",
+"authors": [
+"Sengupta, A.",
+"Sarkar, S.",
+"Bhattacherjee, A."
+],
+"year": 2024,
+"venue": "International Journal of Medical Informatics",
+"status": "published"
+},
+{
+"title": "Shift of Ambidexterity Modes: An Empirical Investigation of the Impact of Artificial Intelligence in Customer Service",
+"authors": [
+"Cao, L.",
+"Sarkar, S.",
+"Ramesh, B.",
+"Mohan, K.",
+"Park, E. H."
+],
+"year": 2024,
+"venue": "International Journal of Information Management",
+"status": "published"
+},
+{
+"title": "A platform-based approach to ambidexterity for innovation: An empirical investigation in the public sector",
+"authors": [
+"Cao, L.",
+"West, B.",
+"Ramesh, B.",
+"Mohan, K.",
+"Sarkar, S."
+],
+"year": 2023,
+"venue": "International Journal of Information Management",
+"status": "published"
+},
+{
+"title": "Pedagogical Practices of Accounting Departments Addressing AACSB Technology Requirements",
+"authors": [
+"Sarkar, S.",
+"Boss, S.",
+"Gray, J."
+],
+"year": 2021,
+"venue": "Issues in Accounting Education",
+"status": "published"
+},
+{
+"title": "Using Qualitative Approaches in the Era of Big Data: A Confessional tale of a Behavioral Researcher",
+"authors": [
+"Sarkar, S."
+],
+"year": 2021,
+"venue": "Journal of Information Technology Case and Application Research",
+"status": "published"
+},
+{
+"title": "Developing Institutional Skills for Addressing Big Data Experiences in Implementation of AACSB Standard 5",
+"authors": [
+"Sarkar, S.",
+"Gray, J.",
+"Boss, S.",
+"Daly, E."
+],
+"year": 2021,
+"venue": "Journal of Accounting Education",
+"status": "published"
+}
+]
+},
+"sandeep srinivas": {
+"name": "Sandeep Srinivas",
+"papers": [
+{
+"title": "Dining Disrupted: The Impact of Food Delivery Platforms on the Restaurant Industry",
+"authors": [
+"Srinivas, S.",
+"Mukherjee, U.",
+"Pant, G."
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "revise_resubmit"
+},
+{
+"title": "From Waste to Welfare: The Effect of Foodtech Platforms on Food Insecurity",
+"authors": [
+"Srinivas, S.",
+"Pant, G.",
+"Mukherjee, U."
+],
+"year": 2025,
+"venue": "Under review at Manufacturing & Service Operations Management",
+"status": "working_paper"
+},
+{
+"title": "Impact of Blockchain Traceability on Food Safety",
+"authors": [
+"Srinivas, S.",
+"Mukherjee, U.",
+"Pant, G.",
+"Banerjee, P."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sales Promotions and Food Waste",
+"authors": [
+"Srinivas, S.",
+"Mehrotra, M.",
+"Rajapakshe, T."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Demand Planning and Waste in the Perishable Food Industry",
+"authors": [
+"Seshadri, S.",
+"Gao, X.",
+"Srinivas, S."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"thi tran": {
+"name": "Thi Tran",
+"papers": [
+{
+"title": "Digital Twins – A Design To Strengthen Metaverse Applications",
+"authors": [
+"Sarkar, Sumantra",
+"Tran, Thi",
+"Chen, Yu"
+],
+"year": null,
+"venue": "Journal of Management Information Systems (manuscript preparation)",
+"status": "working_paper"
+},
+{
+"title": "False Claims Hurt: Examining Perceptions of Misinformation Harms during Black Lives Matter Movement",
+"authors": [
+"Tran, Thi",
+"Valecha, Rohit",
+"Rao, Raghav H."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Applying Blockchain Technology in Fighting Fake News: A Survey",
+"authors": [
+"Tran, Thi",
+"Choo, Kim Kwang Raymond"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Blockchain Applications to Fight Fake News: An Applicability and Acceptance Investigation",
+"authors": [
+"Tran, Thi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Human – Machine Interactions in Fake News Era: A Proposed Multidimensional System of An Integrated Machine Learning and Behavioral Approach",
+"authors": [
+"Tran, Thi",
+"Rad, Paul"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Examining Affecting Factors on the Trustworthiness and the Legitimacy of HYIP Websites",
+"authors": [
+"Tran, Thi",
+"Dang, Anh",
+"Akanfe, Oluwafemi",
+"Roy, Anuradha"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"shun cao": {
+"name": "Shun Cao",
+"papers": [
+{
+"title": "Acquire, Build, or Partner? An Agent-Based Framework to Facilitate Decision-Making on Companies’ Entry Strategies to Incorporate Disruptive Technology in Current Operations",
+"authors": [
+"Liu, Y.",
+"Liu, Z.",
+"Cao, S."
+],
+"year": 2025,
+"venue": "Technological Forecasting and Social Change",
+"status": "working_paper"
+},
+{
+"title": "Effects of Search Strategies on Collective Problem-Solving",
+"authors": [
+"Cao, S."
+],
+"year": 2023,
+"venue": "Mathematics",
+"status": "published"
+},
+{
+"title": "Group Size and Group Performance in Small Collaborative Team Settings: An Agent‐Based Simulation Model of Collaborative Decision‐Making Dynamics",
+"authors": [
+"Cao, S.",
+"MacLaren, N. G.",
+"Cao, Y.",
+"Marshall, J.",
+"Dong, Y.",
+"Yammarino, F. J.",
+"Dionne, S. D.",
+"Mumford, M. D.",
+"Connelly, S.",
+"Martin, R. W.",
+"Standish, C. J.",
+"Newbold, T. R.",
+"England, S.",
+"Sayama, H.",
+"Ruark, G. A."
+],
+"year": 2022,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "An Agent‐Based Model of Leader Emergence and Leadership Perception within a Collective",
+"authors": [
+"Cao, S.",
+"MacLaren, N. G.",
+"Cao, Y.",
+"Dong, Y.",
+"Sayama, H.",
+"Yammarino, F. J.",
+"Dionne, S. D.",
+"Mumford, M. D.",
+"Connelly, S.",
+"Martin, R.",
+"Standish, C.",
+"Newbold, T.",
+"England, S.",
+"Ruark, G. A."
+],
+"year": 2020,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "Do Roads Create Crime Boundaries? Modeling Crime Rate Disparities Across Adjacent Communities",
+"authors": [
+"Cao, S.",
+"Samindla, A.",
+"Wang, K.",
+"Liu, Y.",
+"Ye, X.",
+"Wu, L."
+],
+"year": 2026,
+"venue": "Journal of Applied Security Research",
+"status": "published"
+},
+{
+"title": "Study state dynamics of team passing networks in soccer games",
+"authors": [
+"Cao, S."
+],
+"year": 2025,
+"venue": "Journal of Sports Sciences",
+"status": "published"
+},
+{
+"title": "Passing path predicts shooting outcome in football",
+"authors": [
+"Cao, S."
+],
+"year": 2024,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "Spatial partitioning of the football pitch based on successful passing paths",
+"authors": [
+"Cao, S."
+],
+"year": 2024,
+"venue": "International Journal of Sports Science & Coaching",
+"status": "published"
+},
+{
+"title": "Detecting dynamic states of temporal networks using connection series tensors",
+"authors": [
+"Cao, S.",
+"Sayama, H."
+],
+"year": 2020,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "The Pitfall of Advanced V2X Traffic Systems: Evidence from a Mesoscopic Model of Spillback in Urban Arterials",
+"authors": [
+"Cao, S.",
+"Konka, R.",
+"Liu, Y.",
+"Zhang, Y.",
+"Verma, R. M."
+],
+"year": 2025,
+"venue": "Transportation Research Part C: Emerging Technologies",
+"status": "working_paper"
+},
+{
+"title": "Predicting Network Failure: A Percolation Framework for Flood Impact on Community Access and Resilience",
+"authors": [
+"Cao, S.",
+"Sayama, H.",
+"Cheng, C."
+],
+"year": 2025,
+"venue": "Risk Analysis",
+"status": "working_paper"
+},
+{
+"title": "Prediction of component shifts in pick and place process of surface mount technology using support vector regression",
+"authors": [
+"Cao, S.",
+"Parviziomran, I.",
+"Yang, H.",
+"Park, S.",
+"Won, D."
+],
+"year": 2019,
+"venue": "Procedia Manufacturing",
+"status": "published"
+},
+{
+"title": "Data-driven prediction model of components shift during reflow process in surface mount technology",
+"authors": [
+"Parviziomran, I.",
+"Cao, S.",
+"Yang, H.",
+"Park, S.",
+"Won, D."
+],
+"year": 2019,
+"venue": "Procedia Manufacturing",
+"status": "published"
+},
+{
+"title": "Optimization of passive chip components placement with self-alignment effect for advanced surface mounting technology",
+"authors": [
+"Parviziomran, I.",
+"Cao, S.",
+"Yang, H.",
+"Park, S.",
+"Won, D."
+],
+"year": 2019,
+"venue": "Procedia Manufacturing",
+"status": "published"
+},
+{
+"title": "Statistical Analysis for Component Shift in pick and place process of Surface Mount Technology",
+"authors": [
+"Cao, S.",
+"Parviziomran, I.",
+"Park, S.",
+"Won, D."
+],
+"year": 2019,
+"venue": "Procedia Manufacturing",
+"status": "published"
+}
+]
+},
+"saligrama agnihothri": {
+"name": "Saligrama Agnihothri",
+"papers": [
+{
+"title": "Should the Payer Incentivize the Provider to Send Reminders or Offer Patient Rewards to Increase mHealth Usage?",
+"authors": [
+"Agnihothri, S.",
+"Sainathan, A.",
+"Rajan, B."
+],
+"year": null,
+"venue": "Manufacturing & Service Operations Management (under review)",
+"status": "working_paper"
+},
+{
+"title": "A Branch and Price Algorithm for Scheduling in Surgery Pre-admission Testing Clinics",
+"authors": [
+"Al-Syouf, M.",
+"Bansal, A.",
+"Agnihothri, S."
+],
+"year": null,
+"venue": "European Journal of Operational Research (under review)",
+"status": "working_paper"
+},
+{
+"title": "Facility Location Problems in Service Industries",
+"authors": [
+"Agnihothri, S."
+],
+"year": 1986,
+"venue": "SUNY Binghamton Working Paper Series No. 86-108",
+"status": "working_paper"
+},
+{
+"title": "An M/G/1 Queueing System with Limited Server Availability",
+"authors": [
+"Agnihothri, S."
+],
+"year": 1982,
+"venue": "Graduate School of Management, University of Rochester Working Paper Series QM 8202",
+"status": "working_paper"
+},
+{
+"title": "Optimal Control of an M/M/1/N Queueing System with Variable Service Rates and Arrival Rates Depending on Service Rates",
+"authors": [
+"Agnihothri, S."
+],
+"year": 1977,
+"venue": "Karnatak University, Dharwar (Working Paper)",
+"status": "working_paper"
+},
+{
+"title": "m-th Order Markovian Decision Processes",
+"authors": [
+"Agnihothri, S."
+],
+"year": 1976,
+"venue": "Karnatak University, Dharwar (Working Paper)",
+"status": "working_paper"
+}
+]
+},
+"shahab derhami": {
+"name": "Shahab Derhami",
+"papers": [
+{
+"title": "Estimation of potential lost sales in retail networks of high-value substitutable products",
+"authors": [
+"Derhami, S.",
+"Montreuil, B."
+],
+"year": 2022,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Assessing product availability in omnichannel retail networks in the presence of on-demand inventory transshipment and product substitution",
+"authors": [
+"Derhami, S.",
+"Montreuil, B.",
+"Bao, G."
+],
+"year": 2021,
+"venue": "Omega",
+"status": "published"
+},
+{
+"title": "A simulation-based optimization approach to design optimal layouts for block stacking warehouses",
+"authors": [
+"Derhami, S.",
+"Smith, J. S.",
+"Gue, K. R."
+],
+"year": 2019,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "Space-efficient layouts for block stacking warehouses",
+"authors": [
+"Derhami, S.",
+"Smith, J. S.",
+"Gue, K. R."
+],
+"year": 2019,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Optimising space utilisation in block stacking warehouses",
+"authors": [
+"Derhami, S.",
+"Smith, J. S.",
+"Gue, K. R."
+],
+"year": 2017,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "An integer programming approach for fuzzy rule-based classification systems",
+"authors": [
+"Derhami, S.",
+"Smith, A. E."
+],
+"year": 2017,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "A technical note on the paper “hGA: Hybrid genetic algorithm in fuzzy rule-based classification systems for high-dimensional problems",
+"authors": [
+"Derhami, S.",
+"Smith, A. E."
+],
+"year": 2016,
+"venue": "Applied Soft Computing",
+"status": "published"
+},
+{
+"title": "Food insecurity prevention: from higher education to racial fairness",
+"authors": [
+"Derhami, S.",
+"Mirghorbani, S."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Store inventory planning under stationary demand and customer substitution",
+"authors": [
+"Derhami, S.",
+"Dayarian, I."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A machine learning framework to predict delivery times in multimodal transportation systems",
+"authors": [
+"Derhami, S."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Food insecurity prediction: from data analytics to machine learning",
+"authors": [
+"Derhami, S."
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ajay somaraju": {
+"name": "Ajay Somaraju",
+"papers": [
+{
+"title": "A qualitative investigation of teamwork in extreme environments",
+"authors": [
+"Olenick, J.",
+"Eggler, K. D.",
+"Bowker, J.",
+"Kozlowski, S. W.",
+"Chang, C. H.",
+"Somaraju, A.V.",
+"Griffin, D. J."
+],
+"year": 2024,
+"venue": "Group & Organization Management",
+"status": "published"
+},
+{
+"title": "A dynamic systems theory of intrateam conflict contagion",
+"authors": [
+"Somaraju, A.V.",
+"Griffin, D. J.",
+"Olenick, J.",
+"Chang, C.-H. (D.)",
+"Kozlowski, S. W. J."
+],
+"year": 2024,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Questionable assumptions and the study of emergent diversity effects",
+"authors": [
+"Olenick, J.",
+"Somaraju, A.V."
+],
+"year": 2024,
+"venue": "Academy of Management Perspectives",
+"status": "published"
+},
+{
+"title": "On the undervaluing of diversity in the validity–diversity tradeoff consideration",
+"authors": [
+"Olenick, J.",
+"Somaraju, A.V."
+],
+"year": 2023,
+"venue": null,
+"status": "published"
+}
+]
+},
+"kaige mia gao": {
+"name": "Kaige (Mia) Gao",
+"papers": [
+{
+"title": "The Asymmetricity of Network Variability: A Longitudinal Study of AI Open-Source Projects",
+"authors": [
+"Gao, Kaige",
+"Schecter, Aaron",
+"Son, Yoon",
+"Yoo, Youngjin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Resolving AI Value Paradox: Unlocking AI’s Value Through Strategic Knowledge Integration",
+"authors": [
+"Gao, Kaige",
+"Son, Yoon",
+"Yoo, Youngjin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unraveling the Impact of Model Dependency Networks on the Diffusion of Artificial Intelligence Innovation",
+"authors": [
+"Gao, Kaige",
+"Schecter, Aaron",
+"Yoo, Youngjin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Traversing Boundaries: Analyzing the Transfer and Survival of AI Knowledge Across Disciplinary Frontiers",
+"authors": [
+"Gao, Kaige",
+"Son, Yoon",
+"Yoo, Youngjin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"danielle dunne": {
+"name": "Danielle Dunne",
+"papers": [
+{
+"title": "A valued capability? The role of quality in hospital acquisition target selection",
+"authors": [
+"Dunne, D.",
+"Young, S.",
+"Jaussi, K."
+],
+"year": 2025,
+"venue": "Strategic Change",
+"status": "published"
+},
+{
+"title": "Asymmetrical effects of leader emotional expression: How and when can it be constructive",
+"authors": [
+"Guller, C.",
+"Gooty, J.",
+"Thomas, J.S.",
+"Dunne, D."
+],
+"year": 2025,
+"venue": "Journal of Occupational and Organizational Psychology",
+"status": "published"
+},
+{
+"title": "JP Morgan and the Case of Synthetic Data",
+"authors": [
+"Baranek, D.",
+"Dunne, D.",
+"Dunne, K."
+],
+"year": 2025,
+"venue": "Academy of Business Research",
+"status": "published"
+},
+{
+"title": "Human capital resource emergence and leadership",
+"authors": [
+"Eckardt, R.",
+"Tsai, C.-Y.",
+"Dionne, S. D.",
+"Dunne, D.",
+"Spain, S. M.",
+"Cheong, M.",
+"Kim, J.",
+"Guo, J.",
+"Hao, C.",
+"Kim, E. I."
+],
+"year": 2021,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Abductive reasoning: How innovators navigate in the labyrinth of complex product innovation",
+"authors": [
+"Dunne, D.",
+"Dougherty, D."
+],
+"year": 2016,
+"venue": "Organization Studies",
+"status": "published"
+},
+{
+"title": "Whose time is it? Understanding clock-time pacing and event-time pacing in complex innovations",
+"authors": [
+"Dougherty, D.",
+"Bertels, H.",
+"Chung, K.",
+"Dunne, D.",
+"Kraemer, J."
+],
+"year": 2013,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "Digital science and knowledge boundaries in complex innovation",
+"authors": [
+"Dougherty, D.",
+"Dunne, D."
+],
+"year": 2012,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "Organizing ecologies of complex innovation",
+"authors": [
+"Dougherty, D.",
+"Dunne, D."
+],
+"year": 2011,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "An empirical study of the impact of firm resources on alliance governance structures",
+"authors": [
+"Dunne, D.",
+"Gopalakrishnan, S.",
+"Scillitoe, J."
+],
+"year": 2009,
+"venue": "Journal of Engineering and Technology Management",
+"status": "published"
+},
+{
+"title": "Enhancing green image by green innovation: Roles of corporate environmental policies and knowledge structure",
+"authors": [
+"Sun, W.",
+"Liu, H.",
+"Dunne, D. D.",
+"Zhang, Y."
+],
+"year": null,
+"venue": "Asia Pacific Journal of Management (under review)",
+"status": "working_paper"
+}
+]
+}
+}
