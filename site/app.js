@@ -280,7 +280,7 @@
     return names.length <= 2 ? names.join(" and ") : names.slice(0, -1).join(", ") + ", and " + names[names.length - 1];
   }
   function renderPapers(q) {
-    const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", all: q.get("all") === "1", page: +(q.get("p") || 1) };
+    const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", all: q.get("all") !== "0", page: +(q.get("p") || 1) };
     if (!PIDX) {
       app.innerHTML = `<p class="small">Loading paper index (${(D.n_pindex || 0).toLocaleString()} papers)…</p>`;
       getJSON("papers.json").then((rows) => {
@@ -293,7 +293,7 @@
     const years = (D.all_years || []).filter((y) => (!s.y0 || y >= +s.y0) && (!s.y1 || y <= +s.y1));
     const need = s.all ? years.filter((y) => !ALLY.has(y)) : [];
     if (need.length) {
-      app.innerHTML = `<p class="small">Loading all journal articles (${need.length} year${need.length > 1 ? "s" : ""})…</p>`;
+      app.innerHTML = `<p class="small">Loading all journal articles (${((D.n_pindex || 0) + (D.n_all || 0)).toLocaleString()} papers)…</p>`;
       Promise.all(need.map((y) => getJSON(`papers_all/${y}.json`).then((rows) => ALLY.set(y, rows.map(mkRow)))))
         .then(() => { if (route().parts[0] === "papers") renderPapers(route().q); })
         .catch((e) => { console.error(e); app.innerHTML = `<p class="empty">Could not load the article index — please reload the page (Ctrl+F5).</p>`; });
@@ -306,7 +306,7 @@
       (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || x.k.some(([, pi]) => P[pi].name.toLowerCase().includes(t))))
       .sort((a, b) => b.y - a.y || a.c - b.c);
     const size = 100, pages = Math.max(1, Math.ceil(list.length / size)); s.page = Math.min(Math.max(1, s.page), pages);
-    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: articles since 2000 in leading economics, business and general-interest journals, papers under revise &amp; resubmit, and working papers. Tick the box to also search all other articles in the same journals. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
+    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: articles since 2000 in leading economics, business and general-interest journals, papers under revise &amp; resubmit, and working papers. By default all articles in these journals are included; tick the box to show only papers by faculty in the directory. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
       <section class="controls"><div class="row">
         <input id="pq" type="search" placeholder="Search paper titles or author…" value="${esc(s.q)}" autocomplete="off">
         <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
@@ -314,7 +314,7 @@
       </div><div class="row">
         <select id="pu"><option value="">All institutions</option>${U.filter((u) => u.n).map((u) => opt(u.id, u.short, s.uni)).join("")}</select>
         <input id="py0" type="number" placeholder="From year" value="${esc(s.y0)}" style="max-width:120px"><input id="py1" type="number" placeholder="To year" value="${esc(s.y1)}" style="max-width:120px">
-        <label class="small" title="Also search ${(D.n_all || 0).toLocaleString()} articles since 2000 in the same journals whose authors are not in the directory"><input type="checkbox" id="pall" ${s.all ? "checked" : ""}> Include articles by authors not in the directory</label>
+        <label class="small" title="Hide the ${(D.n_all || 0).toLocaleString()} articles whose authors are not in the directory"><input type="checkbox" id="pall" ${s.all ? "" : "checked"}> Only papers by faculty in the directory</label>
         <button class="btn" id="preset" type="button">Reset</button></div></section>
       <p class="count">${list.length.toLocaleString()} papers · page ${s.page} of ${pages}</p>
       <section>${list.slice((s.page - 1) * size, s.page * size).map((x) => { const j = x.r >= 0 ? D.journals[x.r] : null;
@@ -322,10 +322,10 @@
           <div class="pa">${authorLinks(x)}</div>
           <div class="pm">${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
       ${pages > 1 ? `<div class="pager">${s.page > 1 ? `<button class="btn" data-pg="${s.page - 1}">← Prev</button>` : ""}<span class="small">Page ${s.page} / ${pages}</span>${s.page < pages ? `<button class="btn" data-pg="${s.page + 1}">Next →</button>` : ""}</div>` : ""}`;
-    const go = (page = 1) => { setQuery("/papers", { q: s.q, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, all: s.all ? "1" : "", p: page > 1 ? page : "" }); renderPapers(route().q); };
+    const go = (page = 1) => { setQuery("/papers", { q: s.q, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, all: s.all ? "" : "0", p: page > 1 ? page : "" }); renderPapers(route().q); };
     bindSearch("pq", (v) => { s.q = v; go(); });
     for (const [id, k] of [["pc", "cat"], ["pj", "jr"], ["pu", "uni"], ["py0", "y0"], ["py1", "y1"]]) document.getElementById(id).onchange = (e) => { s[k] = e.target.value; go(); };
-    document.getElementById("pall").onchange = (e) => { s.all = e.target.checked; go(); };
+    document.getElementById("pall").onchange = (e) => { s.all = !e.target.checked; go(); };
     document.getElementById("preset").onclick = () => { history.replaceState(null, "", "#/papers"); renderPapers(new URLSearchParams()); };
     app.querySelectorAll("[data-pg]").forEach((b) => b.onclick = () => { go(+b.dataset.pg); window.scrollTo(0, 0); });
   }
