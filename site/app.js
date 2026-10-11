@@ -24,9 +24,11 @@
   const uniq = (a) => [...new Set(a)];
   const rankCls = (r) => "rk-" + D.ranks[r].split(" ")[0];
 
+  const V = D.v ? "?v=" + D.v : "";  // build version: busts stale browser caches after each deploy
+  const getJSON = (url) => fetch(url + V).then((r) => { if (!r.ok) throw new Error(r.status + " " + url); return r.json(); });
   const cache = new Map();
   const loadUni = (uid) => {
-    if (!cache.has(uid)) cache.set(uid, fetch(`people/${uid}.json`).then((r) => r.json()).catch(() => ({})));
+    if (!cache.has(uid)) cache.set(uid, getJSON(`people/${uid}.json`).catch(() => ({})));
     return cache.get(uid);
   };
 
@@ -215,7 +217,8 @@
               <a href="${CONFIG.repoUrl}/edit/main/data/faculty/${u.id}.json" target="_blank" rel="noopener">Suggest a correction</a></p></section>
           </div>
         </div>`;
-      if (r.n_papers) fetch(`pubs/${encodeURIComponent(id)}.json`).then((x) => x.json()).then((ps) => paperList(ps, document.getElementById("pubs"))).catch(() => {});
+      if (r.n_papers) getJSON(`pubs/${encodeURIComponent(id)}.json`).then((ps) => paperList(ps, document.getElementById("pubs")))
+        .catch((e) => { console.error(e); const el = document.getElementById("pubs"); if (el) el.innerHTML = `<p class="empty">Could not load the paper list — please reload the page (Ctrl+F5).</p>`; });
     });
   }
 
@@ -269,10 +272,10 @@
     const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", page: +(q.get("p") || 1) };
     if (!PIDX) {
       app.innerHTML = `<p class="small">Loading paper index (${(D.n_pindex || 0).toLocaleString()} papers)…</p>`;
-      fetch("papers.json").then((r) => r.json()).then((rows) => {
+      getJSON("papers.json").then((rows) => {
         PIDX = rows.map((r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], p: r[4], l: r[5], lt: r[0].toLowerCase() }));
         if (route().parts[0] === "papers") renderPapers(route().q);
-      }).catch(() => { app.innerHTML = `<p class="empty">Could not load papers.json.</p>`; });
+      }).catch((e) => { console.error(e); app.innerHTML = `<p class="empty">Could not load the paper index — please reload the page (Ctrl+F5).</p>`; });
       return;
     }
     const toks = s.q.toLowerCase().split(/\s+/).filter(Boolean);

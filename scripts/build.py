@@ -494,7 +494,8 @@ def build(check):
     pfi = {x: i for i, x in enumerate(pf_list)}
     for row in people:
         row[11] = [pfi[x] for x in row[11]]
-    out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "universities": unis, "ranks": RANKS,
+    ver = datetime.now(timezone.utc).strftime("%Y%m%d%H%M")
+    out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "v": ver, "universities": unis, "ranks": RANKS,
            "unit_types": UNIT_TYPES, "fields": FIELDS, "field_group": [FIELD_GROUP[f] for f in FIELDS],
            "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield", "np", "jr"],
            "journals": JOURNALS, "tiers": JR["tiers"], "n_pindex": len(pindex),
@@ -503,6 +504,13 @@ def build(check):
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
     with open(os.path.join(SITE, "papers.json"), "w", encoding="utf-8") as g:
         json.dump(pindex, g, ensure_ascii=False, separators=(",", ":"))
+    # version-tag static assets so browsers never mix an old app.js with new data after a deploy
+    ip = os.path.join(SITE, "index.html")
+    with open(ip, encoding="utf-8") as g:
+        html = g.read()
+    html = re.sub(r'(href|src)="(style\.css|data\.js|app\.js)(\?v=\w+)?"', lambda m: f'{m[1]}="{m[2]}?v={ver}"', html)
+    with open(ip, "w", encoding="utf-8") as g:
+        g.write(html)
     print(f"{len(pindex)} papers in search index -> site/papers.json")
     print(f"{len(people)} people at {sum(1 for u in unis if u['n'])} universities -> site/data.js")
 
