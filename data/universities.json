@@ -335,6 +335,94 @@
   "city": "Santa Barbara, CA"
  },
  {
+  "id": "indiana-university-bloomington",
+  "name": "Indiana University Bloomington",
+  "short": "Indiana",
+  "country": "United States",
+  "region": "North America",
+  "city": "Bloomington, IN"
+ },
+ {
+  "id": "university-of-arizona",
+  "name": "University of Arizona",
+  "short": "Arizona",
+  "country": "United States",
+  "region": "North America",
+  "city": "Tucson, AZ"
+ },
+ {
+  "id": "university-of-california-irvine",
+  "name": "University of California, Irvine",
+  "short": "UC Irvine",
+  "country": "United States",
+  "region": "North America",
+  "city": "Irvine, CA"
+ },
+ {
+  "id": "university-of-pittsburgh",
+  "name": "University of Pittsburgh",
+  "short": "Pitt",
+  "country": "United States",
+  "region": "North America",
+  "city": "Pittsburgh, PA"
+ },
+ {
+  "id": "university-of-washington",
+  "name": "University of Washington",
+  "short": "UW",
+  "country": "United States",
+  "region": "North America",
+  "city": "Seattle, WA"
+ },
+ {
+  "id": "rice-university",
+  "name": "Rice University",
+  "short": "Rice",
+  "country": "United States",
+  "region": "North America",
+  "city": "Houston, TX"
+ },
+ {
+  "id": "texas-am-university",
+  "name": "Texas A&M University",
+  "short": "Texas A&M",
+  "country": "United States",
+  "region": "North America",
+  "city": "College Station, TX"
+ },
+ {
+  "id": "university-of-colorado-boulder",
+  "name": "University of Colorado Boulder",
+  "short": "CU Boulder",
+  "country": "United States",
+  "region": "North America",
+  "city": "Boulder, CO"
+ },
+ {
+  "id": "university-of-notre-dame",
+  "name": "University of Notre Dame",
+  "short": "Notre Dame",
+  "country": "United States",
+  "region": "North America",
+  "city": "Notre Dame, IN"
+ },
+ {
+  "id": "purdue-university",
+  "name": "Purdue University",
+  "short": "Purdue",
+  "country": "United States",
+  "region": "North America",
+  "city": "West Lafayette, IN"
+ },
+ {
+  "id": "rutgers-university-new-brunswick",
+  "name": "Rutgers University–New Brunswick",
+  "short": "Rutgers",
+  "country": "United States",
+  "region": "North America",
+  "city": "New Brunswick, NJ"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",
