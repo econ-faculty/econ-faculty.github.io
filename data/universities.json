@@ -295,6 +295,46 @@
   "city": "Tempe, AZ"
  },
  {
+  "id": "boston-college",
+  "name": "Boston College",
+  "short": "BC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chestnut Hill, MA"
+ },
+ {
+  "id": "university-of-illinois-urbana-champaign",
+  "name": "University of Illinois Urbana-Champaign",
+  "short": "UIUC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Champaign, IL"
+ },
+ {
+  "id": "university-of-southern-california",
+  "name": "University of Southern California",
+  "short": "USC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Los Angeles, CA"
+ },
+ {
+  "id": "georgetown-university",
+  "name": "Georgetown University",
+  "short": "Georgetown",
+  "country": "United States",
+  "region": "North America",
+  "city": "Washington, DC"
+ },
+ {
+  "id": "university-of-california-santa-barbara",
+  "name": "University of California, Santa Barbara",
+  "short": "UCSB",
+  "country": "United States",
+  "region": "North America",
+  "city": "Santa Barbara, CA"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",
