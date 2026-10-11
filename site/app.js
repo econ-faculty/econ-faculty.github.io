@@ -199,11 +199,23 @@
           <div>
             <section class="box"><h3>Research fields</h3>
               ${r.fields_raw ? `<p>${esc(r.fields_raw)}</p>` : `<p class="small">Not listed.</p>`}</section>
-            <section class="box"><h3>Publications &amp; working papers</h3><div class="coming">Coming soon.</div></section>
+            <section class="box"><h3>Publications &amp; working papers${r.n_papers ? ` <span class="small">(${r.n_papers})</span>` : ""}</h3><div id="pubs">${r.n_papers ? `<p class="small">Loading…</p>` : `<div class="coming">Coming soon.</div>`}</div></section>
             <section class="box"><h3>Source</h3><p class="small">${r.source_url ? link(r.source_url, "University directory") + " · " : ""}${r.detail_source ? "Details from " + esc(r.detail_source) + (r.cv_date ? " (" + esc(r.cv_date) + ")" : "") + " · " : ""}${r.notes ? esc(r.notes) + " · " : ""}
               <a href="${CONFIG.repoUrl}/edit/main/data/faculty/${u.id}.json" target="_blank" rel="noopener">Suggest a correction</a></p></section>
           </div>
         </div>`;
+      if (r.n_papers) {
+        fetch(`pubs/${encodeURIComponent(id)}.json`).then((x) => x.json()).then((ps) => {
+          const ST = { published: "Published", forthcoming: "Forthcoming", revise_resubmit: "R&R", working_paper: "Working paper" };
+          const box = document.getElementById("pubs");
+          if (!box) return;
+          ps.sort((a, b) => (b.year || 0) - (a.year || 0));
+          box.innerHTML = ps.map((q) => `<article class="paper"><div class="pt">${q.doi ? `<a href="https://doi.org/${esc(q.doi)}" target="_blank" rel="noopener">${esc(q.title)}</a>` : esc(q.title)}
+            <span class="badge plain">${esc(ST[q.status] || "")}</span></div>
+            <div class="pm">${esc((q.authors || []).join(", "))}${q.venue ? ` · <i>${esc(q.venue)}</i>` : ""}${q.year ? " · " + q.year : ""}</div>
+            ${q.abstract ? `<details><summary>Abstract</summary><div class="abs">${esc(q.abstract)}</div></details>` : ""}</article>`).join("");
+        }).catch(() => {});
+      }
     });
   }
 

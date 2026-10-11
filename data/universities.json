@@ -1,23 +1,178 @@
 [
-  {"id": "harvard-university", "name": "Harvard University", "short": "Harvard", "country": "United States", "region": "North America", "city": "Cambridge, MA"},
-  {"id": "massachusetts-institute-of-technology", "name": "Massachusetts Institute of Technology", "short": "MIT", "country": "United States", "region": "North America", "city": "Cambridge, MA"},
-  {"id": "stanford-university", "name": "Stanford University", "short": "Stanford", "country": "United States", "region": "North America", "city": "Stanford, CA"},
-  {"id": "university-of-california-berkeley", "name": "University of California, Berkeley", "short": "UC Berkeley", "country": "United States", "region": "North America", "city": "Berkeley, CA"},
-  {"id": "university-of-chicago", "name": "University of Chicago", "short": "Chicago", "country": "United States", "region": "North America", "city": "Chicago, IL"},
-  {"id": "princeton-university", "name": "Princeton University", "short": "Princeton", "country": "United States", "region": "North America", "city": "Princeton, NJ"},
-  {"id": "yale-university", "name": "Yale University", "short": "Yale", "country": "United States", "region": "North America", "city": "New Haven, CT"},
-  {"id": "northwestern-university", "name": "Northwestern University", "short": "Northwestern", "country": "United States", "region": "North America", "city": "Evanston, IL"},
-  {"id": "columbia-university", "name": "Columbia University", "short": "Columbia", "country": "United States", "region": "North America", "city": "New York, NY"},
-  {"id": "university-of-pennsylvania", "name": "University of Pennsylvania", "short": "Penn", "country": "United States", "region": "North America", "city": "Philadelphia, PA"},
-  {"id": "university-of-oxford", "name": "University of Oxford", "short": "Oxford", "country": "United Kingdom", "region": "Europe", "city": "Oxford"},
-  {"id": "university-of-cambridge", "name": "University of Cambridge", "short": "Cambridge", "country": "United Kingdom", "region": "Europe", "city": "Cambridge"},
-  {"id": "london-school-of-economics", "name": "London School of Economics and Political Science", "short": "LSE", "country": "United Kingdom", "region": "Europe", "city": "London"},
-  {"id": "london-business-school", "name": "London Business School", "short": "LBS", "country": "United Kingdom", "region": "Europe", "city": "London"},
-  {"id": "university-of-warwick", "name": "University of Warwick", "short": "Warwick", "country": "United Kingdom", "region": "Europe", "city": "Coventry"},
-  {"id": "university-of-hong-kong", "name": "The University of Hong Kong", "short": "HKU", "country": "China", "region": "Asia", "city": "Hong Kong"},
-  {"id": "chinese-university-of-hong-kong", "name": "The Chinese University of Hong Kong", "short": "CUHK", "country": "China", "region": "Asia", "city": "Hong Kong"},
-  {"id": "hong-kong-university-of-science-and-technology", "name": "The Hong Kong University of Science and Technology", "short": "HKUST", "country": "China", "region": "Asia", "city": "Hong Kong"},
-  {"id": "national-university-of-singapore", "name": "National University of Singapore", "short": "NUS", "country": "Singapore", "region": "Asia", "city": "Singapore"},
-  {"id": "nanyang-technological-university", "name": "Nanyang Technological University", "short": "NTU", "country": "Singapore", "region": "Asia", "city": "Singapore"},
-  {"id": "singapore-management-university", "name": "Singapore Management University", "short": "SMU", "country": "Singapore", "region": "Asia", "city": "Singapore"}
+ {
+  "id": "harvard-university",
+  "name": "Harvard University",
+  "short": "Harvard",
+  "country": "United States",
+  "region": "North America",
+  "city": "Cambridge, MA"
+ },
+ {
+  "id": "massachusetts-institute-of-technology",
+  "name": "Massachusetts Institute of Technology",
+  "short": "MIT",
+  "country": "United States",
+  "region": "North America",
+  "city": "Cambridge, MA"
+ },
+ {
+  "id": "stanford-university",
+  "name": "Stanford University",
+  "short": "Stanford",
+  "country": "United States",
+  "region": "North America",
+  "city": "Stanford, CA"
+ },
+ {
+  "id": "university-of-california-berkeley",
+  "name": "University of California, Berkeley",
+  "short": "UC Berkeley",
+  "country": "United States",
+  "region": "North America",
+  "city": "Berkeley, CA"
+ },
+ {
+  "id": "university-of-chicago",
+  "name": "University of Chicago",
+  "short": "Chicago",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chicago, IL"
+ },
+ {
+  "id": "princeton-university",
+  "name": "Princeton University",
+  "short": "Princeton",
+  "country": "United States",
+  "region": "North America",
+  "city": "Princeton, NJ"
+ },
+ {
+  "id": "yale-university",
+  "name": "Yale University",
+  "short": "Yale",
+  "country": "United States",
+  "region": "North America",
+  "city": "New Haven, CT"
+ },
+ {
+  "id": "northwestern-university",
+  "name": "Northwestern University",
+  "short": "Northwestern",
+  "country": "United States",
+  "region": "North America",
+  "city": "Evanston, IL"
+ },
+ {
+  "id": "columbia-university",
+  "name": "Columbia University",
+  "short": "Columbia",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York, NY"
+ },
+ {
+  "id": "university-of-pennsylvania",
+  "name": "University of Pennsylvania",
+  "short": "Penn",
+  "country": "United States",
+  "region": "North America",
+  "city": "Philadelphia, PA"
+ },
+ {
+  "id": "cornell-university",
+  "name": "Cornell University",
+  "short": "Cornell",
+  "country": "United States",
+  "region": "North America",
+  "city": "Ithaca, NY"
+ },
+ {
+  "id": "university-of-oxford",
+  "name": "University of Oxford",
+  "short": "Oxford",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Oxford"
+ },
+ {
+  "id": "university-of-cambridge",
+  "name": "University of Cambridge",
+  "short": "Cambridge",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Cambridge"
+ },
+ {
+  "id": "london-school-of-economics",
+  "name": "London School of Economics and Political Science",
+  "short": "LSE",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London"
+ },
+ {
+  "id": "london-business-school",
+  "name": "London Business School",
+  "short": "LBS",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London"
+ },
+ {
+  "id": "university-of-warwick",
+  "name": "University of Warwick",
+  "short": "Warwick",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Coventry"
+ },
+ {
+  "id": "university-of-hong-kong",
+  "name": "The University of Hong Kong",
+  "short": "HKU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "chinese-university-of-hong-kong",
+  "name": "The Chinese University of Hong Kong",
+  "short": "CUHK",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "hong-kong-university-of-science-and-technology",
+  "name": "The Hong Kong University of Science and Technology",
+  "short": "HKUST",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "national-university-of-singapore",
+  "name": "National University of Singapore",
+  "short": "NUS",
+  "country": "Singapore",
+  "region": "Asia",
+  "city": "Singapore"
+ },
+ {
+  "id": "nanyang-technological-university",
+  "name": "Nanyang Technological University",
+  "short": "NTU",
+  "country": "Singapore",
+  "region": "Asia",
+  "city": "Singapore"
+ },
+ {
+  "id": "singapore-management-university",
+  "name": "Singapore Management University",
+  "short": "SMU",
+  "country": "Singapore",
+  "region": "Asia",
+  "city": "Singapore"
+ }
 ]

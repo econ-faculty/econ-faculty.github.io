@@ -351,7 +351,12 @@ def build(check):
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
+    os.makedirs(os.path.join(SITE, "pubs"), exist_ok=True)
+    for f in glob.glob(os.path.join(SITE, "pubs", "*.json")):
+        os.remove(f)
     for u in unis:
+        pp = os.path.join(DATA, "papers", u["id"] + ".json")
+        upapers = json.load(open(pp, encoding="utf-8")) if os.path.exists(pp) else {}
         path = os.path.join(DATA, "faculty", u["id"] + ".json")
         recs = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else []
         detail = {}
@@ -374,6 +379,11 @@ def build(check):
                            r.get("area") or "", fs, r.get("phd_institution") or "", r.get("phd_year") or 0,
                            1 if r.get("homepage_url") else 0, pf])
             detail[pid] = {k: v for k, v in r.items() if v not in (None, "", [])}
+            pv = upapers.get(norm(r["name"]))
+            if pv and pv.get("papers"):
+                detail[pid]["n_papers"] = len(pv["papers"])
+                with open(os.path.join(SITE, "pubs", pid + ".json"), "w", encoding="utf-8") as g:
+                    json.dump(pv["papers"], g, ensure_ascii=False, separators=(",", ":"))
             detail[pid]["fields"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
