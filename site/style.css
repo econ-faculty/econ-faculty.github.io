@@ -201,3 +201,6 @@ tr.clk:hover td { background: var(--accent-soft); }
 .tier { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 999px; vertical-align: 2px; margin-left: 4px; border: 1px solid var(--line); color: var(--muted); }
 .curated { color: #23653a; }
 td.num { text-align: right; white-space: nowrap; }
+
+.paper .pa { font-size: 14px; margin-top: 2px; }
+.paper .pa a { font-weight: 600; }

@@ -6,7 +6,7 @@
 
 data/faculty/<university>.json is the canonical, hand-editable data (one JSON array per university).
 """
-import glob, json, os, re, sys, unicodedata
+import glob, gzip, json, os, re, sys, unicodedata
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 
@@ -422,6 +422,41 @@ def paper_curated(q):
     return {k: v for k, v in out.items() if v not in (None, "", [])}
 
 
+# ---- journal-article database (pipeline/paperdb: Crossref 2000+ for every whitelist journal, matched to faculty)
+PDB_DIR = os.path.join(DATA, "paperdb")
+PDB = {}
+if os.path.exists(os.path.join(PDB_DIR, "papers.jsonl.gz")):
+    for line in gzip.open(os.path.join(PDB_DIR, "papers.jsonl.gz"), "rt", encoding="utf-8"):
+        p = json.loads(line); PDB[p["doi"]] = p
+PMATCH = json.load(open(os.path.join(PDB_DIR, "matched.json"))) if os.path.exists(os.path.join(PDB_DIR, "matched.json")) else {}
+TWORDS = lambda s: frozenset(re.findall(r"[a-z]{3,}", unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+                                        .replace("labour", "labor").replace("behaviour", "behavior")))
+tsim = lambda a, b: bool(a and b) and len(a & b) / len(a | b) >= 0.6
+
+
+def paper_db(p):
+    r = JKEY.get(jkey(p["j"]))
+    out = {"t": p["t"], "a": [f"{g} {f}".strip() for g, f, _ in p["a"]], "y": p["y"], "c": "pub", "j": p["j"],
+           "v": p.get("v"), "i": p.get("i"), "p": p.get("p"), "r": r, "n": p.get("n"),
+           "l": "https://doi.org/" + p["doi"], "lt": "pub", "doi": p["doi"]}
+    return {k: v for k, v in out.items() if v not in (None, "", [])}
+
+
+def merge_db(pid, ps):
+    """Journal-database papers are the publication list; CV items are kept when not already covered
+    (publications/R&R only in whitelist journals; working papers always, unless since published)."""
+    db = [paper_db(PDB[d]) for d in PMATCH.get(pid, {}) if d in PDB]
+    dbw = [TWORDS(q["t"]) for q in db]
+    keep = []
+    for q in ps:
+        if any(tsim(TWORDS(q.get("t")), w) for w in dbw):
+            continue
+        if q["c"] in ("pub", "rr") and q.get("r") is None:
+            continue
+        keep.append(q)
+    return db + keep
+
+
 def paper_sort(ps):
     order = {"pub": 0, "rr": 1, "wp": 2}
     return sorted(ps, key=lambda q: (order[q["c"]], -(q.get("y") or 0)))
@@ -432,7 +467,7 @@ def build(check):
     uidx = {u["id"]: i for i, u in enumerate(unis)}
     people, ids = [], Counter()
     pf_list = []
-    pindex = []
+    pindex, ptitle = {}, {}
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
@@ -472,6 +507,7 @@ def build(check):
             else:
                 pv = upapers.get(norm(r["name"])) or {}
                 ps = [paper_extracted(q) for q in pv.get("papers") or [] if q.get("title")]
+                ps = merge_db(pid, ps)
             ps = paper_sort(ps)
             np_ = [sum(q["c"] == c for q in ps) for c in ("pub", "rr", "wp")]
             np_.append(sum(q["c"] == "pub" and q.get("r") is not None and JOURNALS[q["r"]][1] == 0 for q in ps))
@@ -482,9 +518,22 @@ def build(check):
                 with open(os.path.join(SITE, "pubs", pid + ".json"), "w", encoding="utf-8") as g:
                     json.dump(ps, g, ensure_ascii=False, separators=(",", ":"))
                 pidx = len(people) - 1
+                fam = norm(r["name"]).split()[-1] if norm(r["name"]) else ""
                 for q in ps:
-                    if q["c"] != "pub" or q.get("r") is not None:  # paper search: R&R, working papers, leading-journal pubs
-                        pindex.append([q["t"], q.get("y") or 0, "pub rr wp".split().index(q["c"]), q.get("r", -1), pidx, q.get("l") or ""])
+                    if q["c"] == "pub" and q.get("r") is None:
+                        continue
+                    tk = (q["c"], re.sub(r"[^a-z0-9]", "", (q["t"] or "").lower())[:60])
+                    key = ("doi", q["doi"]) if q.get("doi") else ptitle.get(tk, tk)
+                    ptitle.setdefault(tk, key)
+                    row = pindex.get(key)
+                    if row is None:
+                        row = pindex[key] = [q["t"], q.get("y") or 0, "pub rr wp".split().index(q["c"]), q.get("r", -1), q.get("l") or "", list(q.get("a") or []), []]
+                    if q.get("doi"):
+                        ai = PMATCH[pid][q["doi"]]
+                    else:
+                        ai = next((k for k, x in enumerate(row[5]) if norm(x).split()[-1:] == [fam]), -1)
+                    if [ai, pidx] not in row[6]:
+                        row[6].append([ai, pidx])
             detail[pid]["fields"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
@@ -504,7 +553,7 @@ def build(check):
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as g:
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
     with open(os.path.join(SITE, "papers.json"), "w", encoding="utf-8") as g:
-        json.dump(pindex, g, ensure_ascii=False, separators=(",", ":"))
+        json.dump(list(pindex.values()), g, ensure_ascii=False, separators=(",", ":"))
     # version-tag static assets so browsers never mix an old app.js with new data after a deploy
     ip = os.path.join(SITE, "index.html")
     with open(ip, encoding="utf-8") as g:

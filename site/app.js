@@ -16,6 +16,7 @@
   for (const p of P) {
     const toks = p.name.replace(/\(.*?\)|".*?"/g, " ").split(/\s+/).filter((t) => t && !SUFFIX.test(t.replace(/,$/, "")));
     p.sur = (toks[toks.length - 1] || p.name).normalize("NFD").replace(/[̀-ͯ]/g, "");
+    p.npap = p.np ? p.np[0] + p.np[1] + p.np[2] : 0;  // papers in the database: publications + R&R + working papers
   }
   const BYID = new Map(P.map((p) => [p.id, p]));
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -96,7 +97,7 @@
     readS(q);
     const bySur = (a, b) => a.sur.localeCompare(b.sur, "en", { sensitivity: "base" }) || a.name.localeCompare(b.name, "en", { sensitivity: "base" });
     const SORTS = { first: (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }), top5: (a, b) => b.np[3] - a.np[3] || b.np[4] - a.np[4] || bySur(a, b),
-      lead: (a, b) => b.np[4] - a.np[4] || b.np[3] - a.np[3] || bySur(a, b), pubs: (a, b) => b.np[0] - a.np[0] || bySur(a, b) };
+      papers: (a, b) => b.npap - a.npap || b.np[0] - a.np[0] || bySur(a, b), pubs: (a, b) => b.np[0] - a.np[0] || bySur(a, b) };
     const list = P.filter((p) => match(p)).sort(SORTS[S.sort] || bySur);
     const pages = Math.max(1, Math.ceil(list.length / CONFIG.pageSize));
     S.page = Math.min(Math.max(1, S.page), pages);
@@ -139,13 +140,13 @@
           <select id="field"><option value="">All fields</option>${fieldOpts}</select>
           <select id="rank"><option value="">All ranks</option>${D.ranks.map((r, i) => opt(i, `${r} (${count((p) => p.rank === i && match(p, "rank"))})`, S.rank)).join("")}</select>
           <select id="jr"><option value="">Published in: any journal</option>${jrOpts}</select>
-          <select id="sort">${opt("", "Sort: last name A–Z", S.sort)}${opt("first", "Sort: first name A–Z", S.sort)}${opt("top5", "Sort: most Top-5 econ papers", S.sort)}${opt("lead", "Sort: most leading-journal papers", S.sort)}${opt("pubs", "Sort: most publications", S.sort)}</select>
+          <select id="sort">${opt("", "Sort: last name A–Z", S.sort)}${opt("first", "Sort: first name A–Z", S.sort)}${opt("top5", "Sort: most Top-5 econ papers", S.sort)}${opt("papers", "Sort: most papers", S.sort)}${opt("pubs", "Sort: most publications", S.sort)}</select>
           <button class="btn" id="reset" type="button">Reset</button>
         </div>
       </section>
       <p class="count">${list.length.toLocaleString()} results · page ${S.page} of ${pages}</p>
       <section class="tbl-wrap"><table>
-        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit</th><th>Field</th><th>PhD</th><th title="Publications in leading journals (Top-5 econ in brackets)">Leading pubs</th></tr></thead>
+        <thead><tr><th>Name</th><th>Rank</th><th>Institution</th><th>Unit</th><th>Field</th><th>PhD</th><th title="Papers in the database: publications, R&amp;R and working papers">Papers</th></tr></thead>
         <tbody>${shown.map((p) => `<tr class="clk" data-id="${esc(p.id)}">
           <td><a href="#/p/${encodeURIComponent(p.id)}"><b>${esc(p.name)}</b></a></td>
           <td><span class="badge ${rankCls(p.rank)}">${esc(D.ranks[p.rank].replace(" Professor", ""))}</span></td>
@@ -153,7 +154,7 @@
           <td>${esc(p.unit)}${p.area ? `<div class="small">${esc(p.area)}</div>` : ""}</td>
           <td>${p.pfield.map((i) => `<span class="tag pf">${esc(D.pfields[i])}</span>`).join("")}</td>
           <td class="small">${esc(p.phd)}${p.phd_year ? " " + p.phd_year : ""}</td>
-          <td class="small num">${p.np[4] ? p.np[4] + (p.np[3] ? ` <span class="muted">(${p.np[3]})</span>` : "") : ""}</td></tr>`).join("") || `<tr><td colspan="7" class="empty">No matches.</td></tr>`}
+          <td class="small num">${p.npap || ""}</td></tr>`).join("") || `<tr><td colspan="7" class="empty">No matches.</td></tr>`}
         </tbody></table></section>
       ${pages > 1 ? `<div class="pager">${S.page > 1 ? `<button class="btn" data-pg="${S.page - 1}">← Prev</button>` : ""}<span class="small">Page ${S.page} / ${pages}</span>${S.page < pages ? `<button class="btn" data-pg="${S.page + 1}">Next →</button>` : ""}</div>` : ""}`;
 
@@ -268,23 +269,31 @@
 
   // ---------------------------------------------------------------- paper search
   let PIDX = null;
+  // all authors in order; directory faculty link to their profiles (unplaced directory owners appended)
+  const pLink = (pi, label) => `<a href="#/p/${encodeURIComponent(P[pi].id)}" title="${esc(P[pi].name)} (${esc(U[P[pi].uni].short)})">${esc(label)}</a>`;
+  function authorLinks(x) {
+    const at = new Map(x.k.filter(([ai]) => ai >= 0).map(([ai, pi]) => [ai, pi]));
+    const names = x.a.map((n, i) => at.has(i) ? pLink(at.get(i), n) : esc(n));
+    x.k.filter(([ai]) => ai < 0 || ai >= x.a.length).forEach(([, pi]) => names.push(pLink(pi, P[pi].name)));
+    return names.length <= 2 ? names.join(" and ") : names.slice(0, -1).join(", ") + ", and " + names[names.length - 1];
+  }
   function renderPapers(q) {
     const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", page: +(q.get("p") || 1) };
     if (!PIDX) {
       app.innerHTML = `<p class="small">Loading paper index (${(D.n_pindex || 0).toLocaleString()} papers)…</p>`;
       getJSON("papers.json").then((rows) => {
-        PIDX = rows.map((r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], p: r[4], l: r[5], lt: r[0].toLowerCase() }));
+        PIDX = rows.map((r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], l: r[4], a: r[5], k: r[6], lt: (r[0] + " " + r[5].join(" ")).toLowerCase() }));
         if (route().parts[0] === "papers") renderPapers(route().q);
       }).catch((e) => { console.error(e); app.innerHTML = `<p class="empty">Could not load the paper index — please reload the page (Ctrl+F5).</p>`; });
       return;
     }
     const toks = s.q.toLowerCase().split(/\s+/).filter(Boolean);
     const jrOk = (x) => s.jr === "" || (x.r >= 0 && (s.jr.startsWith("t:") ? D.journals[x.r][1] === +s.jr.slice(2) : x.r === +s.jr));
-    const list = PIDX.filter((x) => (s.cat === "" || x.c === +s.cat) && jrOk(x) && (!s.uni || U[P[x.p].uni].id === s.uni) &&
-      (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || P[x.p].name.toLowerCase().includes(t)))
+    const list = PIDX.filter((x) => (s.cat === "" || x.c === +s.cat) && jrOk(x) && (!s.uni || x.k.some(([, pi]) => U[P[pi].uni].id === s.uni)) &&
+      (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || x.k.some(([, pi]) => P[pi].name.toLowerCase().includes(t))))
       .sort((a, b) => b.y - a.y || a.c - b.c);
     const size = 100, pages = Math.max(1, Math.ceil(list.length / size)); s.page = Math.min(Math.max(1, s.page), pages);
-    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: publications in leading economics and business journals, papers under revise &amp; resubmit, and working papers. Words match the paper title or the faculty member's name.</p>
+    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: publications in leading economics and business journals, papers under revise &amp; resubmit, and working papers. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
       <section class="controls"><div class="row">
         <input id="pq" type="search" placeholder="Search paper titles or author…" value="${esc(s.q)}" autocomplete="off">
         <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
@@ -294,9 +303,10 @@
         <input id="py0" type="number" placeholder="From year" value="${esc(s.y0)}" style="max-width:120px"><input id="py1" type="number" placeholder="To year" value="${esc(s.y1)}" style="max-width:120px">
         <button class="btn" id="preset" type="button">Reset</button></div></section>
       <p class="count">${list.length.toLocaleString()} papers · page ${s.page} of ${pages}</p>
-      <section>${list.slice((s.page - 1) * size, s.page * size).map((x) => { const p = P[x.p], j = x.r >= 0 ? D.journals[x.r] : null;
+      <section>${list.slice((s.page - 1) * size, s.page * size).map((x) => { const j = x.r >= 0 ? D.journals[x.r] : null;
         return `<article class="paper"><div class="pt">${titleLink(x.t, x.l)}${tierBadge(x.r, x.c)}</div>
-          <div class="pm"><a href="#/p/${encodeURIComponent(p.id)}">${esc(p.name)}</a> (${esc(U[p.uni].short)}) · ${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
+          <div class="pa">${authorLinks(x)}</div>
+          <div class="pm">${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
       ${pages > 1 ? `<div class="pager">${s.page > 1 ? `<button class="btn" data-pg="${s.page - 1}">← Prev</button>` : ""}<span class="small">Page ${s.page} / ${pages}</span>${s.page < pages ? `<button class="btn" data-pg="${s.page + 1}">Next →</button>` : ""}</div>` : ""}`;
     const go = (page = 1) => { setQuery("/papers", { q: s.q, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, p: page > 1 ? page : "" }); renderPapers(route().q); };
     bindSearch("pq", (v) => { s.q = v; go(); });
@@ -337,17 +347,27 @@
 
   // ---------------------------------------------------------------- about
   function renderAbout() {
+    const nUni = U.filter((u) => u.n).length;
+    const nJr = Array.isArray(D.journals) ? D.journals.length : Object.keys(D.journals || {}).length;
     app.innerHTML = `<article class="prose">
       <h2>About</h2>
-      <p><b>Econ Faculty</b> is an open, community-maintained directory of tenure-line faculty who do research in economics and business at leading universities around the world. It aims to make it easy to find scholars by region, institution, unit and research field, and — in later releases — to browse their publications and working papers.</p>
+      <p><b>Econ Faculty</b> is an open directory of tenure-line faculty who do research in economics and business at leading universities. It currently covers <b>${P.length.toLocaleString()}</b> faculty at <b>${nUni}</b> universities, with their education, careers, research fields and papers. Faculty can be searched in the <a href="#/">People</a> tab and their papers in the <a href="#/papers">Papers</a> tab.</p>
       <h2>Coverage</h2>
       <ul>
-        <li><b>Institutions (first release):</b> the top-10 US economics departments' universities (Harvard, MIT, Stanford, Berkeley, Chicago, Princeton, Yale, Northwestern, Columbia, Penn); Oxford, Cambridge, LSE, London Business School and Warwick in the UK; HKU, CUHK and HKUST in Hong Kong; NUS, NTU and SMU in Singapore.</li>
-        <li><b>Units:</b> economics departments; all tenure-line faculty in business schools (finance, accounting, marketing, management, strategy, organizational behavior, operations, etc.); economists and management scholars in public policy schools; agricultural &amp; resource economics departments; and economists in environment, law, public health and other units.</li>
+        <li><b>Institutions:</b> in the United States, universities in the US News 2025 economics ranking (roughly the top 60) plus additional schools; in the UK, Hong Kong and Singapore, the leading research universities and business schools.</li>
+        <li><b>Units:</b> economics departments; business schools (finance, accounting, marketing, management, strategy, organizational behavior, operations, etc.); public policy schools; agricultural &amp; resource economics departments; and economists in environment, law, public health and other units.</li>
         <li><b>Ranks:</b> Assistant, Associate and Full Professors (UK Lecturer → Assistant, Senior Lecturer/Reader → Associate). Emeriti, visiting, adjunct, clinical, practice and teaching-track positions are excluded.</li>
       </ul>
-      <h2>Data</h2>
-      <p>Information is compiled from public university directories, faculty profile pages and personal websites. Research fields are mapped to a standard taxonomy from the interests each person lists. Education details are being added progressively. We do not collect emails, phone numbers or photos.</p>
+      <h2>Profiles</h2>
+      <p>Each profile lists rank and title, unit, education (PhD, MA and BA with institutions and years), career history including the first job after the PhD, research fields mapped to a standard taxonomy, and links to the homepage, CV and official profile.</p>
+      <h2>Papers</h2>
+      <ul>
+        <li><b>Publications:</b> journal articles since 2000 in ${nJr ? `${nJr}` : "about 150"} leading economics, business and general-interest journals, compiled from Crossref and matched to faculty by name, with checks against CVs and coauthors. Each article links to its DOI; badges show the journal's broad topic.</li>
+        <li><b>Revise &amp; resubmit and working papers</b> are extracted from faculty CVs and homepages.</li>
+        <li>The Papers tab searches all papers; authors who are in the directory link to their profiles.</li>
+      </ul>
+      <h2>Data sources &amp; caveats</h2>
+      <p>Information is collected from public university directories, personal homepages and CVs, and is processed partly automatically. It may contain errors or be incomplete, and matching papers by name can misattribute articles to faculty with common names. We do not collect emails, phone numbers or photos.</p>
       <h2>Corrections &amp; removal</h2>
       <p>Each institution's data lives in <code>data/faculty/&lt;institution&gt;.json</code> in the <a href="${CONFIG.repoUrl}" target="_blank" rel="noopener">GitHub repository</a>. Use “Suggest a correction” on any profile, or open an issue. Faculty who wish to be removed can open an issue and we will remove the entry.</p>
     </article>`;
