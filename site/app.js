@@ -212,7 +212,7 @@
           <div>
             <section class="box"><h3>Research fields</h3>
               ${r.fields_raw ? `<p>${esc(r.fields_raw)}</p>` : `<p class="small">Not listed.</p>`}</section>
-            <section class="box"><h3>Publications &amp; working papers${r.n_papers ? ` <span class="small">(${r.n_papers})</span>` : ""}</h3>${r.papers_curated ? `<p class="small curated">Curated list: checked against the CV${typeof r.papers_curated === "string" ? ` (${link(r.papers_curated, "source")})` : ""} and Crossref; publications limited to leading journals.</p>` : r.n_papers ? `<p class="small">Extracted automatically from the CV or homepage; may be incomplete.</p>` : ""}<div id="pubs">${r.n_papers ? `<p class="small">Loading…</p>` : `<div class="coming">Coming soon.</div>`}</div></section>
+            <section class="box"><h3>Publications &amp; working papers${r.n_papers ? ` <span class="small">(${r.n_papers})</span>` : ""}</h3><div id="pubs">${r.n_papers ? `<p class="small">Loading…</p>` : `<div class="coming">Coming soon.</div>`}</div></section>
             <section class="box"><h3>Source</h3><p class="small">${r.source_url ? link(r.source_url, "University directory") + " · " : ""}${r.detail_source ? "Details from " + esc(r.detail_source) + (r.cv_date ? " (" + esc(r.cv_date) + ")" : "") + " · " : ""}${r.notes ? esc(r.notes) + " · " : ""}
               <a href="${CONFIG.repoUrl}/edit/main/data/faculty/${u.id}.json" target="_blank" rel="noopener">Suggest a correction</a></p></section>
           </div>
@@ -225,10 +225,12 @@
 
   // ---------------------------------------------------------------- papers (shared formatting)
   const CAT = [["pub", "Publications"], ["rr", "Revise & resubmit"], ["wp", "Working papers"]];
-  const TIER_SHORT = ["Top 5", "Field", "Business", "General", "Practitioner"];
   const authorsTxt = (a) => !a || !a.length ? "" : a.length === 1 ? a[0] : a.length === 2 ? `${a[0]} and ${a[1]}` : `${a.slice(0, -1).join(", ")}, and ${a[a.length - 1]}`;
   const scholar = (t) => "https://scholar.google.com/scholar?q=" + encodeURIComponent('"' + t + '"');
-  const tierBadge = (r, c) => r != null && r >= 0 && c !== "wp" && c !== 2 ? ` <span class="tier t${D.journals[r][1]}">${TIER_SHORT[D.journals[r][1]]}</span>` : "";
+  // journal topic badge; colour by broad group (econ / business / other disciplines)
+  const TOPIC_GRP = (i) => { const x = D.jtopics[i]; return ["Finance", "Real Estate", "Accounting", "Management & Strategy", "Organizational Behavior", "Entrepreneurship & Innovation", "Marketing", "Operations & IS", "Management Practice"].includes(x) ? 1
+    : ["Psychology", "Multidisciplinary Science", "Political Science", "Sociology", "Statistics"].includes(x) ? 2 : 0; };
+  const tierBadge = (r, c) => r != null && r >= 0 && c !== "wp" && c !== 2 && D.journals[r][2] != null ? ` <span class="tier g${TOPIC_GRP(D.journals[r][2])}">${esc(D.jtopics[D.journals[r][2]])}</span>` : "";
   const titleLink = (t, l, lt) => l ? `<a href="${esc(l)}" target="_blank" rel="noopener" title="${lt === "wp" ? "Working-paper version" : "Published version"}">${esc(t)}</a>`
     : `<a class="srch" href="${scholar(t)}" target="_blank" rel="noopener" title="Search Google Scholar">${esc(t)}</a>`;
   function journalOpts(sel) {
@@ -244,10 +246,10 @@
   }
   function paperList(ps, box) {
     if (!box) return;
-    const st = { cat: "", lead: false, q: "" };
+    const st = { cat: "", q: "" };
     const draw = () => {
       const qs = st.q.toLowerCase().split(/\s+/).filter(Boolean);
-      const keep = (q) => (!st.cat || q.c === st.cat) && (!st.lead || q.c === "wp" || q.r != null) &&
+      const keep = (q) => (!st.cat || q.c === st.cat) &&
         qs.every((t) => (q.t + " " + (q.j || "") + " " + (q.a || []).join(" ") + " " + (q.y || "")).toLowerCase().includes(t));
       const body = CAT.map(([c, lab]) => {
         const xs = ps.filter((q) => q.c === c && keep(q));
@@ -258,10 +260,8 @@
     };
     const n = Object.fromEntries(CAT.map(([c]) => [c, ps.filter((q) => q.c === c).length]));
     box.innerHTML = `<div class="pbar"><span class="chips"><button class="chip" data-cat="">All</button>${CAT.map(([c, lab]) => `<button class="chip" data-cat="${c}">${lab} (${n[c]})</button>`).join("")}</span>
-      <label class="small"><input type="checkbox" id="plead"> Leading journals only</label>
       <input type="search" id="pfq" placeholder="Filter by title, coauthor, journal, year…"></div><div class="plist"></div>`;
     box.querySelectorAll("[data-cat]").forEach((b) => b.onclick = () => { st.cat = b.dataset.cat; draw(); });
-    box.querySelector("#plead").onchange = (e) => { st.lead = e.target.checked; draw(); };
     box.querySelector("#pfq").oninput = (e) => { st.q = e.target.value.trim(); draw(); };
     draw();
   }

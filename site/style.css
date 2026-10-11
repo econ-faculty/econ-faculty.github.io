@@ -195,10 +195,9 @@ tr.clk:hover td { background: var(--accent-soft); }
 .psec { margin: 14px 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
 .paper .pm a { color: var(--muted); text-decoration: underline; }
 .paper .pt a.srch { text-decoration: none; }
+.tier.g0 { background: #e7f0fb; border-color: #a9c6ec; color: #1f4f8a; }
+.tier.g1 { background: #ebf6ee; border-color: #a7d7b4; color: #23653a; }
+.tier.g2 { background: #f3ecfa; border-color: #c9b3e6; color: #5b3a8a; }
 .tier { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 999px; vertical-align: 2px; margin-left: 4px; border: 1px solid var(--line); color: var(--muted); }
-.tier.t0 { background: #fdf0d5; border-color: #e9c46a; color: #7a5300; }
-.tier.t1 { background: #e7f0fb; border-color: #a9c6ec; color: #1f4f8a; }
-.tier.t2 { background: #ebf6ee; border-color: #a7d7b4; color: #23653a; }
-.tier.t3 { background: #f3ecfa; border-color: #c9b3e6; color: #5b3a8a; }
 .curated { color: #23653a; }
 td.num { text-align: right; white-space: nowrap; }

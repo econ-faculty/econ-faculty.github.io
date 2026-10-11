@@ -370,7 +370,8 @@ def do_import(raw_dir):
 # n note (e.g. Forthcoming), l link, lt link type (pub|wp), r journal index into D.journals (leading journals only)
 JR = json.load(open(os.path.join(DATA, "journals.json"), encoding="utf-8"))
 TIERS = [t for t, _ in JR["tiers"]]
-JOURNALS = [[j, TIERS.index(t)] for t in TIERS for j in JR["journals"][t]]
+JTOPICS = JR["topics"]
+JOURNALS = [[j, TIERS.index(t), JTOPICS.index(JR["journal_topic"][j])] for t in TIERS for j in JR["journals"][t]]
 
 
 def jkey(s):
@@ -380,7 +381,7 @@ def jkey(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
-JKEY = {jkey(j): i for i, (j, _) in enumerate(JOURNALS)}
+JKEY = {jkey(j[0]): i for i, j in enumerate(JOURNALS)}
 for a, j in JR["aliases"].items():
     JKEY[jkey(a)] = JKEY[jkey(j)]
 NOTE_RE = re.compile(r"^\s*(forthcoming|accepted|conditionally accepted|to appear|r\s*&\s*r|revise and resubmit|reject and resubmit|revision requested|under review)\s*(in|at|,|:)?\s*", re.I)
@@ -498,7 +499,7 @@ def build(check):
     out = {"pfields": pf_list, "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "v": ver, "universities": unis, "ranks": RANKS,
            "unit_types": UNIT_TYPES, "fields": FIELDS, "field_group": [FIELD_GROUP[f] for f in FIELDS],
            "cols": ["id", "name", "rank", "uni", "unit", "unit_type", "area", "fields", "phd", "phd_year", "has_home", "pfield", "np", "jr"],
-           "journals": JOURNALS, "tiers": JR["tiers"], "n_pindex": len(pindex),
+           "journals": JOURNALS, "tiers": JR["tiers"], "jtopics": JTOPICS, "n_pindex": len(pindex),
            "people": people}
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as g:
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
