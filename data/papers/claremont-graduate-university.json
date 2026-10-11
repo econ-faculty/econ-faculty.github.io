@@ -1,0 +1,2087 @@
+{
+"c monica capra": {
+"name": "C. Mónica Capra",
+"papers": [
+{
+"title": "Virtual Observability in Sequential Play",
+"authors": [
+"C. A. Holt",
+"P. Lin"
+],
+"year": null,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "forthcoming"
+},
+{
+"title": "The Sound of Cooperation and Deception in High-stake Interactions",
+"authors": [
+"M. Gomies",
+"S. Zhang"
+],
+"year": null,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "forthcoming"
+},
+{
+"title": "LLMs Can Model Non-WEIRD Populations: Experiments with Synthetic Cultural Agents",
+"authors": [
+"A. Gonzalez",
+"E. Pantoja"
+],
+"year": null,
+"venue": "Research in Experimental Economics",
+"status": "forthcoming"
+},
+{
+"title": "To Savor Consumption or Confront Dread: The Hedonic Opportunity Cost of Attention",
+"authors": [
+"J. Tasoff",
+"J. Xu"
+],
+"year": 2026,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "Appetite for Ignorance: Does Eating Meat Cause Information Avoidance about Its Harms?",
+"authors": [
+"B. Buechel",
+"B. Benoit",
+"X. Chen",
+"A. Nassar",
+"S. G. Park",
+"J. Tasoff",
+"J. Xu",
+"S. Zhang"
+],
+"year": 2025,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Daniel Kahneman’s Underappreciated Last Published Paper: Empirical Implications for Benefit–Cost Analysis and a Chat Session Discussion with Bots",
+"authors": [],
+"year": 2025,
+"venue": "Journal of Risk and Uncertainty",
+"status": "published"
+},
+{
+"title": "Green Self‑Image Boosts Online Volunteering for Environmental Causes: Experimental Evidence",
+"authors": [
+"B. Jiang",
+"Y. Su"
+],
+"year": 2024,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Do Prosocial Incentives Motivate Women to Set Higher Goals and Improve Performance?",
+"authors": [
+"Y. Cao",
+"Y. Su"
+],
+"year": 2023,
+"venue": "Journal of Economic Psychology",
+"status": "published"
+},
+{
+"title": "Can Prosocial Incentives and Self‑Chosen Goals Improve Performance? An Online Real‑Effort Experiment",
+"authors": [
+"Y. Cao",
+"Y. Su"
+],
+"year": 2023,
+"venue": "Oxford Economic Papers",
+"status": "published"
+},
+{
+"title": "Understanding and Overcoming Biases in Judgment and Decision‑Making with Real‑Life Consequences",
+"authors": [
+"Y. Okan",
+"F. Blanco",
+"D. Petrova",
+"J. C. Perales"
+],
+"year": 2022,
+"venue": "Frontiers in Psychology",
+"status": "published"
+},
+{
+"title": "Do Pledges Lead to More Volunteering? An Experimental Study",
+"authors": [
+"B. Jiang",
+"Y. Su"
+],
+"year": 2021,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Altruistic Self‑Concept Mediates the Effects of Personality Traits on Volunteering: Evidence from an Online Experiment",
+"authors": [
+"B. Jiang",
+"Y. Su"
+],
+"year": 2021,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Understanding Decision Processes in Guessing Games: A Protocol Analysis Approach",
+"authors": [],
+"year": 2019,
+"venue": "Journal of the Economic Science Association",
+"status": "published"
+},
+{
+"title": "Are (Active) Entrepreneurs a Different Breed?",
+"authors": [
+"B. Jiang"
+],
+"year": 2018,
+"venue": "Managerial and Decision Economics",
+"status": "published"
+},
+{
+"title": "You Can’t Gamble on Others: Dissociable Systems for Strategic Uncertainty and Risk in the Brain",
+"authors": [
+"W. Ekins",
+"R. Caceda",
+"G. S. Berns"
+],
+"year": 2013,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Can Personality Type Explain Heterogeneity in Probability Distortions?",
+"authors": [
+"B. Jiang",
+"J. Engelmann",
+"G. S. Berns"
+],
+"year": 2013,
+"venue": "Journal of Neuroscience, Psychology, and Economics",
+"status": "published"
+},
+{
+"title": "Differential Neurobiological Effects of Expert Advice on Risky Choice in Adolescents and Adults",
+"authors": [
+"J. Engelmann",
+"S. Moore",
+"G. S. Berns"
+],
+"year": 2012,
+"venue": "Social Cognitive and Affective Neuroscience",
+"status": "published"
+},
+{
+"title": "The Price of Your Soul: Neural Evidence for the Non‑Utilitarian Representation of Sacred Values",
+"authors": [
+"G. S. Berns",
+"E. Bell",
+"M. Prietula",
+"B. Anderson",
+"J. Ginges",
+"S. Atran"
+],
+"year": 2012,
+"venue": "Philosophical Transactions of the Royal Society B",
+"status": "published"
+},
+{
+"title": "Neural Insensitivity of Upticks in Value Is Associated with the Disposition Effect",
+"authors": [
+"A. Brooks",
+"G. S. Berns"
+],
+"year": 2011,
+"venue": "NeuroImage",
+"status": "published"
+},
+{
+"title": "The Effects of Induced Mood on Bidding in Random Nth‑Price Auctions",
+"authors": [
+"K. Lanier",
+"S. Meer"
+],
+"year": 2010,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Project Performance and the Antecedents and Implications of Project Group‑Member Ties: A Multilevel Analysis",
+"authors": [
+"E. Bendoly",
+"D. Thomas"
+],
+"year": 2010,
+"venue": "Decision Sciences",
+"status": "published"
+},
+{
+"title": "From Bad to Worse: Striatal Coding of Relative Value of Painful Decisions",
+"authors": [
+"A. Brooks",
+"V. S. Chandrasekhar",
+"C. Noussair",
+"J. Engelmann",
+"G. S. Berns"
+],
+"year": 2010,
+"venue": "Frontiers in Decision Neuroscience",
+"status": "published"
+},
+{
+"title": "Neural Mechanisms of the Influence of Popularity on Adolescent Ratings of Music",
+"authors": [
+"G. S. Berns",
+"S. Moore",
+"C. Noussair"
+],
+"year": 2010,
+"venue": "NeuroImage",
+"status": "published"
+},
+{
+"title": "Exploiting Moral Wiggle Room: Illusory Preference for Fairness? A Comment",
+"authors": [
+"T. Larson"
+],
+"year": 2009,
+"venue": "Judgment and Decision Making",
+"status": "published"
+},
+{
+"title": "Adolescent Engagement in Dangerous Behaviors",
+"authors": [
+"G. S. Berns",
+"S. Moore"
+],
+"year": 2009,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "The Impact of Simple Institutions on Poverty Traps",
+"authors": [
+"C. Camerer et al."
+],
+"year": 2009,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Expert Advice Neurobiologically ‘Offloads’ Financial Decision‑Making under Risk",
+"authors": [
+"G. S. Berns et al."
+],
+"year": 2009,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "Nonlinear Neurobiological Probability Weighting Over Aversive Outcomes",
+"authors": [
+"G. S. Berns et al."
+],
+"year": 2008,
+"venue": "NeuroImage",
+"status": "published"
+},
+{
+"title": "Neurobiological Regret and Rejoice Functions",
+"authors": [
+"P. Chandrasekhar et al."
+],
+"year": 2008,
+"venue": "NeuroImage",
+"status": "published"
+},
+{
+"title": "A Shocking Experiment",
+"authors": [
+"G. S. Berns et al."
+],
+"year": 2007,
+"venue": "Judgment and Decision Making",
+"status": "published"
+},
+{
+"title": "Receptor Theory and Biological Constraints on Value",
+"authors": [
+"G. S. Berns",
+"C. Noussair"
+],
+"year": 2007,
+"venue": "Annals of the New York Academy of Sciences",
+"status": "published"
+},
+{
+"title": "Behavior in One‑Shot Traveler’s Dilemma",
+"authors": [
+"S. Cabrera",
+"R. Gómez"
+],
+"year": 2006,
+"venue": "Spanish Economic Review",
+"status": "published"
+},
+{
+"title": "Mood‑Driven Behavior in Strategic Interactions",
+"authors": [],
+"year": 2004,
+"venue": "American Economic Review: Papers & Proceedings",
+"status": "published"
+},
+{
+"title": "A Common Pool Resource Game",
+"authors": [
+"L. Bru et al."
+],
+"year": 2003,
+"venue": "Experimental Economics",
+"status": "published"
+},
+{
+"title": "Learning and Noisy Behavior in Imperfect Price Competition",
+"authors": [
+"J. K. Goeree et al."
+],
+"year": 2002,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Classroom Games: A Prisoner’s Dilemma",
+"authors": [
+"C. A. Holt"
+],
+"year": 2000,
+"venue": "Journal of Economic Education",
+"status": "published"
+},
+{
+"title": "Predation, Asymmetric Information, and Strategic Behavior",
+"authors": [
+"J. K. Goeree et al."
+],
+"year": 2000,
+"venue": "International Journal of Industrial Organization",
+"status": "published"
+},
+{
+"title": "Anomalous Behavior in a Traveler’s Dilemma?",
+"authors": [
+"J. K. Goeree et al."
+],
+"year": 1999,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Coordination",
+"authors": [
+"C. A. Holt"
+],
+"year": 1999,
+"venue": "Southern Economic Journal",
+"status": "published"
+},
+{
+"title": "Treasury Auctions in Bolivia",
+"authors": [],
+"year": 1999,
+"venue": "Revista de Análisis, BCB",
+"status": "published"
+},
+{
+"title": "Handbook of Experimental Game Theory",
+"authors": [
+"Capra",
+"Croson",
+"Rigdon",
+"Rosenblatt"
+],
+"year": 2020,
+"venue": "Edward Elgar",
+"status": "published"
+}
+]
+},
+"gregory deangelo": {
+"name": "Gregory DeAngelo",
+"papers": [
+{
+"title": "The Price of Expungements",
+"authors": [
+"B. Deffains",
+"R. Espinosa",
+"M. Mungan",
+"R. Romaniuc"
+],
+"year": null,
+"venue": "International Review of Law and Economics",
+"status": "forthcoming"
+},
+{
+"title": "Peers or Police? Monitoring and Punishment in the Provision of Public Goods",
+"authors": [
+"L. Gee"
+],
+"year": null,
+"venue": "Games and Economic Behavior",
+"status": "forthcoming"
+},
+{
+"title": "Fracking and Risky Sexual Activity",
+"authors": [
+"S. Cunningham",
+"B. Smith"
+],
+"year": null,
+"venue": "Journal of Health Economics",
+"status": "forthcoming"
+},
+{
+"title": "Judicial Elections and Criminal Case Outcomes",
+"authors": [
+"B. McCannon"
+],
+"year": null,
+"venue": "Journal of Legal Studies",
+"status": "forthcoming"
+},
+{
+"title": "Intergroup Solidarity and Local Public Goods Provision: An Experiment",
+"authors": [
+"R. Romaniuc",
+"D. Dubois",
+"B. McCannon"
+],
+"year": null,
+"venue": "Economics of Governance",
+"status": "forthcoming"
+},
+{
+"title": "Political Competition in Judge and Prosecutor Elections",
+"authors": [
+"B. McCannon"
+],
+"year": null,
+"venue": "European Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Private Security, Piracy and the Provision of International Public Goods",
+"authors": [
+"T. Smith"
+],
+"year": null,
+"venue": "Journal of Risk and Uncertainty",
+"status": "forthcoming"
+},
+{
+"title": "Psychological Game Theory in Public Choice",
+"authors": [
+"B. McCannon"
+],
+"year": null,
+"venue": "Public Choice",
+"status": "forthcoming"
+},
+{
+"title": "Rational Pricing in Prostitution: Evidence from 80M Sex Ads",
+"authors": [
+"J. Borowitz",
+"M. Cafarella",
+"C. Ré",
+"J. Shapiro",
+"G. Shiffman"
+],
+"year": null,
+"venue": "Journal of Risk and Uncertainty",
+"status": "forthcoming"
+},
+{
+"title": "Urban Transport and Crime: Evidence from Unanticipated Mass Transit Strikes",
+"authors": [
+"K. Gittings",
+"D. Grossman",
+"U. Khalil"
+],
+"year": 2019,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "The Perils of Democracy",
+"authors": [
+"D. Dubois",
+"R. Romaniuc"
+],
+"year": null,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "forthcoming"
+},
+{
+"title": "Explaining Public Goods Game Contributions with Rational Ability",
+"authors": [
+"H. Lang",
+"M. Bongard"
+],
+"year": 2018,
+"venue": "Games",
+"status": "published"
+},
+{
+"title": "Interracial Face-to-Face Crimes and the Socioeconomics of Neighborhoods: Evidence from Policing Records",
+"authors": [
+"K. Gittings",
+"A. Pena"
+],
+"year": 2018,
+"venue": "International Review of Law and Economic",
+"status": "published"
+},
+{
+"title": "Theory of Mind and General Intelligence in Dictator and Ultimatum Games",
+"authors": [
+"H. Lang",
+"M. Bongard"
+],
+"year": 2018,
+"venue": "Games",
+"status": "published"
+},
+{
+"title": "Judicial Compensation and Performance",
+"authors": [
+"B. McCannon"
+],
+"year": 2017,
+"venue": "Supreme Court Economic Review",
+"status": "published"
+},
+{
+"title": "Police Bias in the Enforcement of Drug Crimes: Evidence from Low Priority Laws",
+"authors": [
+"K. Gittings",
+"A. Ross"
+],
+"year": 2018,
+"venue": "Review of Law and Economics",
+"status": "published"
+},
+{
+"title": "Examining Regulatory Capture: Evidence from the NHL",
+"authors": [
+"A. Nowak",
+"I. Reimers"
+],
+"year": 2018,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Learning the Ropes: Task Specific Experience and the Output of Idaho State Police",
+"authors": [
+"E. Owens"
+],
+"year": 2017,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Are Public and Private Enforcement Complements or Substitutes? Evidence from High Frequency Data",
+"authors": [
+"B. Humphreys",
+"I. Reimers"
+],
+"year": 2017,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Sources of Deviant Behavior: Contrasting Alternative Explanations in the Laboratory",
+"authors": [
+"P. Ferrell",
+"B. McCannon"
+],
+"year": 2017,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Penalty Structures and Deterrence in a Two-Stage Model: Experimental Evidence",
+"authors": [
+"L. Anderson",
+"W. Emons",
+"B. Freeborn",
+"H. Lang"
+],
+"year": 2017,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Theory of Mind Predicts Cooperative Behavior",
+"authors": [
+"B. McCannon"
+],
+"year": 2017,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Is Social Choice Gender Neutral?",
+"authors": [
+"S. Beckman",
+"W.J. Smith",
+"N. Wang"
+],
+"year": 2016,
+"venue": "Journal of Risk and Uncertainty",
+"status": "published"
+},
+{
+"title": "Public Outcry and Police Behavior",
+"authors": [
+"B. McCannon"
+],
+"year": 2015,
+"venue": "B.E. Journal of Economic Analysis and Policy",
+"status": "published"
+},
+{
+"title": "Dictator Monopolies and Essential Goods: Experimental Evidence",
+"authors": [
+"S. Beckman",
+"W. J. Smith"
+],
+"year": 2015,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Life and Death in the Fast Lane: Police Enforcement and Roadway Safety",
+"authors": [
+"B. Hansen"
+],
+"year": 2014,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Deterability by Age",
+"authors": [
+"S. Bushway",
+"B. Hansen"
+],
+"year": 2013,
+"venue": "International Review of Law and Economics",
+"status": "published"
+},
+{
+"title": "The Importance of Risk Tolerance and Knowledge when Considering the Evolution of Inequity Responses across the Primates",
+"authors": [
+"S. Brosnan"
+],
+"year": 2013,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Crime Rates and Policy Efficiency",
+"authors": [
+"H. Lang",
+"D. Vitaliano"
+],
+"year": 2013,
+"venue": "Eastern Economic Journal",
+"status": "published"
+},
+{
+"title": "Experiments in Horizontal Mergers: Does Size Matter?",
+"authors": [
+"S. Beckman",
+"W.J. Smith"
+],
+"year": 2012,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Deterrence, Expected Cost, Uncertainty and Voting: Experimental Evidence",
+"authors": [
+"G. Charness"
+],
+"year": 2012,
+"venue": "Journal of Risk and Uncertainty",
+"status": "published"
+},
+{
+"title": "Goods Allocation by Queuing and the Occurrence of Violence: A Probabilistic Analysis",
+"authors": [
+"A. Batabyal"
+],
+"year": 2012,
+"venue": "International Review of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Making Space for Crime: A Spatial Analysis of Criminal Competition",
+"authors": [],
+"year": 2012,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "Those Crazy Transaction Costs: On the Irrelevance of the Equivalence between Monetary Damages and Specific Performance",
+"authors": [
+"S. Medema"
+],
+"year": 2011,
+"venue": "European Journal of Law and Economics",
+"status": "published"
+},
+{
+"title": "Microeconomics and Psychology",
+"authors": [
+"S. Beckman",
+"L. Chen",
+"W.J. Smith",
+"X. Zhang"
+],
+"year": 2011,
+"venue": "Journal of Economic Education",
+"status": "published"
+},
+{
+"title": "Socioeconomic Patterns of American Farmland Preservation Funded by the Farm and Ranchland Protection Program",
+"authors": [
+"D. Stoms"
+],
+"year": 2010,
+"venue": "Journal of Conservation Planning",
+"status": "published"
+},
+{
+"title": "Strategic Targeting of Agricultural Conservation Easements as a Growth Management Tool",
+"authors": [
+"D. Stoms",
+"F. Davis",
+"P. Jantz"
+],
+"year": 2009,
+"venue": "Land Use Policy",
+"status": "published"
+},
+{
+"title": "Cost Minimization and Medical Examinations: The Case of Anthrax",
+"authors": [],
+"year": 2009,
+"venue": "Journal of Homeland Security and Emergency Management",
+"status": "published"
+},
+{
+"title": "To Match or Not to Match: Aspects of Marital Matchmaking under Uncertainty",
+"authors": [
+"A. Batabyal"
+],
+"year": 2008,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "Average Patent Pendency and Examination Errors: A Queuing Theoretic Analysis",
+"authors": [
+"A. Batabyal"
+],
+"year": 2007,
+"venue": "Journal of Foresight and Innovation Policy",
+"status": "published"
+},
+{
+"title": "An Analysis of Economic Cost Minimization and Biological Invasion Damage Control Using the AWQ Criterion",
+"authors": [
+"A. Batabyal",
+"S. Kumar"
+],
+"year": 2007,
+"venue": "Annals of Regional Science",
+"status": "published"
+},
+{
+"title": "Characterizing Regulation and Negligence Rule Uncertainty in Solid Waste Management",
+"authors": [
+"M. J. Wagner"
+],
+"year": 2005,
+"venue": "Economics Bulletin",
+"status": "published"
+},
+{
+"title": "A Dynamic and Stochastic Analysis of Fertilizer Use in Swidden Agriculture",
+"authors": [
+"A. Batabyal"
+],
+"year": 2004,
+"venue": "Economics Bulletin",
+"status": "published"
+},
+{
+"title": "Honest Abe or Doc Holliday? Bluff, Cheap Talk, and Conflict in Bargaining",
+"authors": [
+"B. McCannon"
+],
+"year": null,
+"venue": "Constitutional Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "The Role of Beauty in the Organization of Sex Work Markets",
+"authors": [
+"S. Cunningham",
+"E. Smith"
+],
+"year": null,
+"venue": "Southern Economic Journal",
+"status": "revise_resubmit"
+},
+{
+"title": "Craigslist’s Effect on Female Homicides",
+"authors": [
+"S. Cunningham",
+"J. Tripp"
+],
+"year": null,
+"venue": "Journal of Human Resources",
+"status": "revise_resubmit"
+},
+{
+"title": "Police Response Time and Injury Outcomes",
+"authors": [
+"M. Troger",
+"S. Weisburd"
+],
+"year": null,
+"venue": "Economic Journal",
+"status": "revise_resubmit"
+},
+{
+"title": "Measuring Sex Trafficking",
+"authors": [
+"M. Cafarella",
+"J. Dunnmon",
+"C. Ré"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Signaling in the Market for Commercial Sex",
+"authors": [
+"S. Cunningham",
+"J. Xiao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Not as I do: Hypocrisy Aversion and Optimal Punishment",
+"authors": [
+"M. Makwosky",
+"B. McCannon"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ambiguity in Enforcement",
+"authors": [
+"E. Calford"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effect of Not Prosecuting Drug Offenses: Evidence from a Natural Experiment",
+"authors": [
+"M. Garner"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unemployment Shocks, Job Mismatch and Suicide",
+"authors": [
+"M. Garner",
+"U. Le",
+"S. Nishioka"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Consequences of Citizen Complaints against Police Conduct",
+"authors": [
+"M. Gomies",
+"R. Romaniuc"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Predicting Use of Force in Policing",
+"authors": [
+"H. Johnson",
+"M. Hoekstra"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "An Actual Arms Race: Law Enforcement Assaults by the Mentally Ill",
+"authors": [
+"G. Edwards"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Cops and Rent-a-Cops: Public and Private Provision of Security",
+"authors": [
+"S. Jacobson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effect of Law Enforcement on Safety: Evidence from a Personnel Discontinuity",
+"authors": [],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Role of Ambiguity in Laws and Norms",
+"authors": [
+"E. Dimant",
+"R. Romaniuc"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sheriff’s Elections and Crime Rates",
+"authors": [
+"R. Boylan",
+"M. Yun"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ambiguity, Inequality and Risk across the Primates",
+"authors": [
+"S. Beckman",
+"S. Brosnan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"joshua tasoff": {
+"name": "Joshua Tasoff",
+"papers": [
+{
+"title": "Beliefs that Entertain",
+"authors": [
+"Ashvin Gandhi",
+"Paola Giuliano",
+"Eric Guan",
+"Quinn Keefer",
+"Michaela Pagel"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Moral Preferences and the Marketplace of Ideas",
+"authors": [
+"Emiliano Huet-Vaughn",
+"Minh Pham",
+"Eva Vivalt"
+],
+"year": null,
+"venue": "Economic Journal",
+"status": "revise_resubmit"
+},
+{
+"title": "Persuasive messaging shifts preferences towards plant-based food",
+"authors": [
+"Laura Walter-Thomas",
+"Jacy Reese Anthis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What do people think about?",
+"authors": [
+"Shanshan Zhang",
+"Zhou Fang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Defaults have Spillover Effects? The Effect of the Default Asset on Retirement Plan Contributions",
+"authors": [
+"Gopi Shah Goda",
+"Matthew Levy",
+"Colleen Manchester",
+"Aaron Sojourner"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Model of Attention and Anticipation",
+"authors": [
+"Kristóf Madarász"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Value of Cognition",
+"authors": [
+"Glenny Alawag",
+"Ben Grodeck"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "To Savor Consumption or To Confront Dread: The Hedonic Opportunity Cost of Attention",
+"authors": [
+"Monica Capra",
+"Jin Xu"
+],
+"year": 2026,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Appetite for Ignorance: Does eating meat cause information avoidance about its harms?",
+"authors": [
+"Benedicte Droz",
+"Berno Buechel",
+"Monica Capra",
+"Xi Chen",
+"Seong-Gyu Park",
+"Anis Nassar",
+"Jin Xu",
+"Shanshan Zhang"
+],
+"year": 2025,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Are retirement planning tools substitutes or complements to financial capability?",
+"authors": [
+"Gopi Shah Goda",
+"Matthew Levy",
+"Colleen Manchester",
+"Aaron Sojourner",
+"Jiusi Xiao"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Low-cost climate-change informational intervention reduces meat consumption among students for years",
+"authors": [
+"Andrew Jalil",
+"Arturo Vargas Bustamante"
+],
+"year": 2023,
+"venue": "Nature Food",
+"status": "published"
+},
+{
+"title": "Supervised Machine Learning for Eliciting Individual Demand",
+"authors": [
+"John Clithero",
+"Jae Joon Lee"
+],
+"year": 2023,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Changing Hearts and Plates: The Effect of Animal-Advocacy Pamphlets on Meat Consumption",
+"authors": [
+"Menbere Haile",
+"Andrew Jalil",
+"Arturo Vargas-Bustamante"
+],
+"year": 2021,
+"venue": "Frontiers in Psychology",
+"status": "published"
+},
+{
+"title": "The Performance of Time and Risk Preference Elicitations in Surveys",
+"authors": [
+"Wenjie Zhang"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Trick for a Treat: The Effect of Costume, Identity, and Peers on Norm Violations",
+"authors": [
+"Shanshan Zhang",
+"Narek Bejanyan",
+"Zhou Fang",
+"Matthew Gomies",
+"Jason Justo",
+"Hsin Li",
+"Rainita Narender"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Eating to Save the Planet: Evidence from a Randomized Controlled Trial Using Individual-Level Food Purchase Data",
+"authors": [
+"Andrew Jalil",
+"Arturo Vargas-Bustamante"
+],
+"year": 2020,
+"venue": "Food Policy",
+"status": "published"
+},
+{
+"title": "Who is a Passive Saver Under Opt-In and Auto-Enrollment?",
+"authors": [
+"Gopi Shah Goda",
+"Matthew Levy",
+"Colleen Manchester",
+"Aaron Sojourner"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Predicting Retirement Savings Using Survey Measures of Exponential-Growth Bias and Present Bias",
+"authors": [
+"Gopi Shah Goda",
+"Matthew Levy",
+"Colleen Manchester",
+"Aaron Sojourner"
+],
+"year": 2019,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Exponential-Growth Bias in Experimental Consumption Decisions",
+"authors": [
+"Matthew Levy"
+],
+"year": 2019,
+"venue": "Economica",
+"status": "published"
+},
+{
+"title": "Fantasy and Dread: The Demand for Information and the Consumption Utility of the Future",
+"authors": [
+"Ananda Ganguly"
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "When Higher Productivity Hurts: The Interaction Between Overconfidence and Capital",
+"authors": [
+"Andrew Royal"
+],
+"year": 2017,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Exponential-Growth Bias and Overconfidence",
+"authors": [
+"Matthew Levy"
+],
+"year": 2017,
+"venue": "Journal of Economic Psychology",
+"status": "published"
+},
+{
+"title": "Misunderestimation: Exponential-Growth Bias and Time-Varying Returns",
+"authors": [
+"Matthew Levy"
+],
+"year": 2016,
+"venue": "Economics Bulletin",
+"status": "published"
+},
+{
+"title": "Exponential-Growth Bias and Lifecycle Consumption",
+"authors": [
+"Matthew Levy"
+],
+"year": 2016,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "An Economic Framework of Microbial Trade",
+"authors": [
+"Harris Wang",
+"Michael Mee"
+],
+"year": 2015,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "Everyone Believes in Redemption: Overoptimism and Nudges",
+"authors": [
+"Robert Letzler"
+],
+"year": 2014,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Placation and Provocation",
+"authors": [],
+"year": 2014,
+"venue": "Rationality and Society",
+"status": "published"
+}
+]
+},
+"robert klitgaard": {
+"name": "Robert Klitgaard",
+"papers": [
+{
+"title": "Policy Analysis for Big Issues: Corruption, Elitism, Development, Despair",
+"authors": [],
+"year": null,
+"venue": "Cambridge Scholars Press",
+"status": "forthcoming"
+},
+{
+"title": "Bold and Humble: How to Lead How to Lead Public-Private-Citizen Collaboration",
+"authors": [],
+"year": 2023,
+"venue": "Royal Institute for Governance and Strategic Studies",
+"status": "published"
+},
+{
+"title": "Prevail: How to Face Upheavals and Make Big Choices with the Help of Heroes",
+"authors": [],
+"year": 2022,
+"venue": "Wipf and Stock",
+"status": "published"
+},
+{
+"title": "Adjusting to Reality: Beyond “State versus Market” in Economic Development",
+"authors": [],
+"year": 2021,
+"venue": "Routledge",
+"status": "published"
+},
+{
+"title": "The Culture and Development Manifesto",
+"authors": [],
+"year": 2021,
+"venue": "Oxford University Press",
+"status": "published"
+},
+{
+"title": "Addressing Corruption Together",
+"authors": [],
+"year": 2015,
+"venue": "OECD",
+"status": "published"
+},
+{
+"title": "Tropical Gangsters II: Adventures in Development in the World’s Poorest Places",
+"authors": [],
+"year": 2013,
+"venue": "Amazon: KDP Books",
+"status": "published"
+},
+{
+"title": "High-Performance Government: Structure, Leadership, Incentives",
+"authors": [
+"Paul C. Light"
+],
+"year": 2005,
+"venue": "The RAND Corporation",
+"status": "published"
+},
+{
+"title": "Corrupt Cities: A Practical Guide to Cure and Prevention",
+"authors": [
+"Ronald MacLean-Abaroa",
+"H. Lindsey Parris"
+],
+"year": 2000,
+"venue": "ICS Press and World Bank Institute",
+"status": "published"
+},
+{
+"title": "Tropical Gangsters",
+"authors": [],
+"year": 1990,
+"venue": "Basic Books",
+"status": "published"
+},
+{
+"title": "Controlling Corruption",
+"authors": [],
+"year": 1988,
+"venue": "University of California Press",
+"status": "published"
+},
+{
+"title": "Elitism and Meritocracy in Developing Countries",
+"authors": [],
+"year": 1986,
+"venue": "Johns Hopkins University Press",
+"status": "published"
+},
+{
+"title": "Data Analysis for Development",
+"authors": [],
+"year": 1985,
+"venue": "Oxford University Press",
+"status": "published"
+},
+{
+"title": "Choosing Elites",
+"authors": [],
+"year": 1985,
+"venue": "Basic Books",
+"status": "published"
+},
+{
+"title": "Addressing Corruption in Haiti",
+"authors": [],
+"year": 2010,
+"venue": "American Enterprise Institute Working Paper Series on Development Policy",
+"status": "working_paper"
+},
+{
+"title": "Assessing Partnerships: New Forms of Collaboration",
+"authors": [
+"Gregory F. Treverton"
+],
+"year": 2003,
+"venue": "IBM Endowment for the Business of Government",
+"status": "published"
+},
+{
+"title": "A Practical Approach to Dealing with Municipal Malfeasance",
+"authors": [
+"Ronald MacLean-Abaroa",
+"H. Lindsey Parris"
+],
+"year": 1996,
+"venue": "UMP Working Paper Series",
+"status": "working_paper"
+},
+{
+"title": "Institutional Adjustment and Adjusting to Institutions",
+"authors": [],
+"year": 1995,
+"venue": "World Bank Discussion Paper",
+"status": "working_paper"
+},
+{
+"title": "Institutional Reform and the Challenges Facing South Africa",
+"authors": [],
+"year": 1994,
+"venue": "IRIS Research Report",
+"status": "working_paper"
+},
+{
+"title": "Dealing with Corruption and Intimidation in Criminal Justice Systems: Cases and Materials",
+"authors": [
+"Philip Heymann",
+"Robert Klitgaard"
+],
+"year": 1991,
+"venue": "Harvard Law School",
+"status": "published"
+},
+{
+"title": "Exploring the Neglected: Hawkers and Peddlers in Karachi",
+"authors": [],
+"year": 1977,
+"venue": "University of Karachi",
+"status": "published"
+},
+{
+"title": "Controlling Exports on National Security Grounds",
+"authors": [
+"Graham Allison",
+"Richard Huff"
+],
+"year": 1975,
+"venue": "U.S. Government Printing Office",
+"status": "published"
+},
+{
+"title": "Pricing and Recoupment Policies for Commercially Useful Technology Resulting from NASA Programs",
+"authors": [],
+"year": 1975,
+"venue": "The RAND Corporation (R-1671-NASA)",
+"status": "working_paper"
+},
+{
+"title": "National Security and Export Controls",
+"authors": [],
+"year": 1974,
+"venue": "The RAND Corporation (R-1432-ARPA/CIEP)",
+"status": "working_paper"
+},
+{
+"title": "Achievement Scores and Educational Objectives",
+"authors": [],
+"year": 1974,
+"venue": "The RAND Corporation (R-1217-NIE)",
+"status": "working_paper"
+},
+{
+"title": "A Statistical Search for Unusually Effective Schools",
+"authors": [
+"George Hall"
+],
+"year": 1973,
+"venue": "The RAND Corporation (R-1210-CC/RC)",
+"status": "working_paper"
+},
+{
+"title": "Hermits, Addicts, and Heroes",
+"authors": [],
+"year": 2020,
+"venue": "The International Journal of Religion and Spirituality in Society",
+"status": "published"
+},
+{
+"title": "Geography, Climate, and Genes in Development Studies",
+"authors": [
+"Johannes Fedderke",
+"Valerio Napolioni"
+],
+"year": 2020,
+"venue": "The World Bank Economic Review",
+"status": "published"
+},
+{
+"title": "On Romance and Intimacy",
+"authors": [],
+"year": 2019,
+"venue": "Philosophy and Literature",
+"status": "published"
+},
+{
+"title": "Revitalizing Mandaue City: Obstacles in Implementing a Performance Governance System",
+"authors": [
+"Melissa Mahoney"
+],
+"year": 2019,
+"venue": "Policy Design and Practice",
+"status": "published"
+},
+{
+"title": "Engaging Corruption: New Ideas for the International Monetary Fund",
+"authors": [],
+"year": 2019,
+"venue": "Policy Design and Practice",
+"status": "published"
+},
+{
+"title": "Genetic Adaptation to Historical Pathogen Burdens",
+"authors": [
+"Johannes W. Fedderke",
+"Valerio Napolioni"
+],
+"year": 2017,
+"venue": "Infection, Genetics and Evolution",
+"status": "published"
+},
+{
+"title": "On Culture and Corruption",
+"authors": [],
+"year": 2017,
+"venue": "BSG Working Paper Series",
+"status": "working_paper"
+},
+{
+"title": "How Much Do Rights Matter?",
+"authors": [
+"Johannes Fedderke"
+],
+"year": 2013,
+"venue": "World Development",
+"status": "published"
+},
+{
+"title": "Social Media: A New Tactic in the Fight against Corruption",
+"authors": [],
+"year": 2012,
+"venue": "Asian Journal of Public Affairs",
+"status": "published"
+},
+{
+"title": "Toward a Turning Point against Corruption",
+"authors": [],
+"year": 2012,
+"venue": "Strategic Review",
+"status": "published"
+},
+{
+"title": "Designing and Implementing a Technology-Driven Public-Private Partnership",
+"authors": [],
+"year": 2011,
+"venue": "Innovations Journal",
+"status": "published"
+},
+{
+"title": "Fighting Corruption",
+"authors": [],
+"year": 2011,
+"venue": "Journal for Institutional Comparisons",
+"status": "published"
+},
+{
+"title": "Subverting Corruption",
+"authors": [],
+"year": 2006,
+"venue": "Global Crime",
+"status": "published"
+},
+{
+"title": "Economic Growth and Social Indicators: An Exploratory Analysis",
+"authors": [
+"Johannes Fedderke"
+],
+"year": 2006,
+"venue": "Journal of Comparative Policy Analysis",
+"status": "published"
+}
+]
+},
+"paul j zak": {
+"name": "Paul J. Zak",
+"papers": []
+},
+"gary gaukler": {
+"name": "Gary Gaukler",
+"papers": []
+},
+"bernie jaworski": {
+"name": "Bernie Jaworski",
+"papers": []
+},
+"becky reichard": {
+"name": "Becky Reichard",
+"papers": []
+},
+"hideki yamawaki": {
+"name": "Hideki Yamawaki",
+"papers": []
+},
+"michelle bligh": {
+"name": "Michelle Bligh",
+"papers": []
+},
+"stephen gilliland": {
+"name": "Stephen Gilliland",
+"papers": []
+},
+"david sprott": {
+"name": "David Sprott",
+"papers": [
+{
+"title": "The Effect of Start/End Temporal Landmarks on Consumers’ Visual Attention and Judgments",
+"authors": [
+"Sheng Bi",
+"Andrew Perkins",
+"David E. Sprott"
+],
+"year": 2021,
+"venue": "International Journal of Research in Marketing",
+"status": "published"
+},
+{
+"title": "Political Polarization: Challenges, Opportunities, and Hope for Consumer Welfare, Marketers, and Public Policy",
+"authors": [
+"T. J. Weber",
+"Chris Hydock",
+"William Ding",
+"Meryl Gardner",
+"Pradeep Jacob",
+"Naomi Mandel",
+"David E Sprott",
+"Eric Van Steenburg"
+],
+"year": 2021,
+"venue": "Journal of Public Policy & Marketing",
+"status": "published"
+},
+{
+"title": "Bringing the Dark Side of International Business into the Classroom",
+"authors": [
+"Donna K. Cooke",
+"Frank DuBois",
+"Rajeeve J. Sawant",
+"David E. Sprott",
+"Len J. Treviño"
+],
+"year": 2020,
+"venue": "AIB Insights",
+"status": "published"
+},
+{
+"title": "Conspicuous Gifting: When and Why Women (Do Not) Appreciate Men’s Romantic Luxury Gifts",
+"authors": [
+"William Ding",
+"Mario Pandelaere",
+"Hendrik Slabbinck",
+"David E. Sprott"
+],
+"year": 2020,
+"venue": "Journal of Experimental Social Psychology",
+"status": "published"
+},
+{
+"title": "You Did What with My Donation?! Betrayal of Moral Mandates Increases Negative Responses to Redirected Donations to Donor-to-Recipient Charities",
+"authors": [
+"Jeff Joireman",
+"Mark Mulder",
+"Yany Grégoire",
+"David E. Sprott",
+"Pavan Munaganti"
+],
+"year": 2020,
+"venue": "Journal of the Association of Consumer Research",
+"status": "published"
+},
+{
+"title": "Customer Engagement in Evolving Technological Environments: Synopsis and Guiding Propositions",
+"authors": [
+"Linda D. Hollebeek",
+"David E. Sprott",
+"Tor W. Andreassen",
+"Carolyn Costley",
+"Phil Klaus",
+"Volker Kuppelwieser",
+"Amela Karahasanovic",
+"Takashi Taguchi",
+"Jamid Ul Islam",
+"Raouf Ahmad Rather"
+],
+"year": 2019,
+"venue": "European Journal of Marketing",
+"status": "published"
+},
+{
+"title": "Consumer Preference for National vs. Private Brands: The Influence of Brand Engagement and Self-Concept Threat",
+"authors": [
+"Richie L. Liu",
+"David E. Sprott",
+"Eric R. Spangenberg",
+"Sandor Czellar",
+"Kevin Voss"
+],
+"year": 2018,
+"venue": "Journal of Retailing and Consumer Services",
+"status": "published"
+},
+{
+"title": "Adolescents’ Perceived Brand Deprivation Stress and Its Implications for Corporate and Consumer Well-Being",
+"authors": [
+"Carmen-Maria Albrecht",
+"Nicola Stokburger-Sauer",
+"David E. Sprott",
+"Donald R. Lehmann"
+],
+"year": 2017,
+"venue": "Psychology and Marketing",
+"status": "published"
+},
+{
+"title": "The Game-Changing Role of Engagement: How Gamified Interactions Create Brand Relationships",
+"authors": [
+"Axel Berger",
+"Tobias Schlager",
+"David E. Sprott",
+"Andreas Herrmann"
+],
+"year": 2017,
+"venue": "Journal of Academy Marketing Science",
+"status": "published"
+},
+{
+"title": "The Influence of Trait and State Narcissism on the Uniqueness of Mass-Customized Products",
+"authors": [
+"Emanuel de Bellis",
+"David E. Sprott",
+"Andreas Herrmann",
+"Hans-Werner Bierhoff",
+"Elke Rohmann"
+],
+"year": 2016,
+"venue": "Journal of Retailing",
+"status": "published"
+},
+{
+"title": "Ingredient Branding for a Luxury Brand: The Role of Brand and Product Fit",
+"authors": [
+"Hakil Moon",
+"David E. Sprott"
+],
+"year": 2016,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "A Meta-Analytic Synthesis of the Question-Behavior Effect",
+"authors": [
+"Eric R. Spangenberg",
+"Ioannis Kareklas",
+"Berna Devezer",
+"David E. Sprott"
+],
+"year": 2016,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "Research Trends on Branding in Consumer Psychology",
+"authors": [
+"David E. Sprott",
+"Richie L. Liu"
+],
+"year": 2016,
+"venue": "Current Opinion in Psychology",
+"status": "published"
+},
+{
+"title": "What Drives Leapfrogging? Empirical Assessment of Consumer Determinants of Leapfrogging",
+"authors": [
+"Andreas Herrmann",
+"David E. Sprott",
+"Tobias Schlager"
+],
+"year": 2015,
+"venue": "Total Quality Management and Business Excellence",
+"status": "published"
+},
+{
+"title": "Consumer Well-Being: Effects of Subgoal Failures and Goal Importance",
+"authors": [
+"Berna Devezer",
+"David E. Sprott",
+"Eric R. Spangenberg",
+"Sandor Czellar"
+],
+"year": 2014,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "Exploring the Boundaries of Nostalgic Advertising Effects: A Consideration of Childhood Brand Exposure and Attachment on Consumers’ Responses to Nostalgia-Themed Advertisements",
+"authors": [
+"Darrel D. Muehling",
+"David E. Sprott",
+"Abdullah J. Sultan"
+],
+"year": 2014,
+"venue": "Journal of Advertising",
+"status": "published"
+},
+{
+"title": "Option Framing and Product Feature Recommendations: Product Configuration and Choice",
+"authors": [
+"Andreas Herrmann",
+"Christian Hildebrand",
+"David E. Sprott",
+"Eric R. Spangenberg"
+],
+"year": 2013,
+"venue": "Psychology and Marketing",
+"status": "published"
+},
+{
+"title": "The Power of Simplicity: Processing Fluency and the Effects of Olfactory Cues on Retail Sales",
+"authors": [
+"Andreas Herrmann",
+"Manja Zidansek",
+"David E. Sprott",
+"Eric R. Spangenberg"
+],
+"year": 2013,
+"venue": "Journal of Retailing",
+"status": "published"
+},
+{
+"title": "Clustered Insights: Improving Eye Tracking Data Analysis Using Scan Statistics",
+"authors": [
+"Christian Purucker",
+"Jan R. Landwehr",
+"David E. Sprott",
+"Andreas Herrmann"
+],
+"year": 2013,
+"venue": "International Journal of Market Research",
+"status": "published"
+},
+{
+"title": "The Influence of Negative Marketplace Information on Consumer Attitudes toward a Service Establishment",
+"authors": [
+"Ronn J. Smith",
+"David C. Knuff",
+"David E. Sprott",
+"Eric R. Spangenberg"
+],
+"year": 2013,
+"venue": "Journal of Retailing and Consumer Services",
+"status": "published"
+},
+{
+"title": "The Impact of Self-Prediction and Norms on Behavior",
+"authors": [
+"Ronn J. Smith",
+"Pierre Chandon",
+"Vicki G. Morwitz",
+"Eric R. Spangenberg",
+"David E. Sprott"
+],
+"year": 2012,
+"venue": "Yale Economic Review",
+"status": "published"
+},
+{
+"title": "Process Evidence for the Question-Behavior Effect: Influencing Socially Normative Behaviors",
+"authors": [
+"Eric R. Spangenberg",
+"David E. Sprott",
+"David C. Knuff",
+"Ronn J. Smith",
+"Carl Obermiller",
+"Anthony G. Greenwald"
+],
+"year": 2012,
+"venue": "Social Influence",
+"status": "published"
+},
+{
+"title": "Building Consumer Self-Control: The Effect of Self-Control Exercises on Impulse Buying Urges",
+"authors": [
+"Abdullah J. Sultan",
+"Jeff Joireman",
+"David E. Sprott"
+],
+"year": 2012,
+"venue": "Marketing Letters",
+"status": "published"
+},
+{
+"title": "Examining the Effectiveness of Nutrition Information in a Simulated Shopping Environment",
+"authors": [
+"Joshua P. Berning",
+"David E. Sprott"
+],
+"year": 2011,
+"venue": "Journal of Food Distribution Research",
+"status": "published"
+},
+{
+"title": "When Does the Past Repeat Itself? The Interplay of Behavior Prediction and Personal Norms",
+"authors": [
+"Pierre Chandon",
+"Ronn J. Smith",
+"Vicki Morwitz",
+"Eric R. Spangenberg",
+"David E. Sprott"
+],
+"year": 2011,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "Identifying Consumer Preferences for Nutrition Information on Grocery Store Shelf Labels",
+"authors": [
+"Joshua P. Berning",
+"Hayley H. Chouinard",
+"Kenneth Manning",
+"Jill J. McCluskey",
+"David E. Sprott"
+],
+"year": 2010,
+"venue": "Food Policy",
+"status": "published"
+},
+{
+"title": "Reducing Online Privacy Risk to Facilitate E-Service Adoption: The Influence of Perceived Ease of Use and Corporate Credibility",
+"authors": [
+"Mauricio Featherman",
+"Anthony D. Miyazaki",
+"David E. Sprott"
+],
+"year": 2010,
+"venue": "Journal of Services Marketing",
+"status": "published"
+},
+{
+"title": "Concern with Immediate Consequences Magnifies the Impact of Compulsive Buying on Credit Card Debt Within College Students",
+"authors": [
+"Jeff Joireman",
+"Jeremy Kees",
+"David E. Sprott"
+],
+"year": 2010,
+"venue": "Journal Consumer Affairs",
+"status": "published"
+},
+{
+"title": "Price Endings, Left-Digit Effects, and Choice",
+"authors": [
+"Kenneth C. Manning",
+"David E. Sprott"
+],
+"year": 2009,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "The Importance of a General Measure of Brand Engagement on Market Behavior: Development and Validation of a Scale",
+"authors": [
+"David E. Sprott",
+"Sandor Czellar",
+"Eric R. Spangenberg"
+],
+"year": 2009,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Consideration of Future Consequences, Ego-Depletion, and Self-Control: Support for Distinguishing Between CFC-Immediate and CFC-Future Sub-Scales",
+"authors": [
+"J. Joireman",
+"Daniel Balliet",
+"David E. Sprott",
+"Eric R. Spangenberg",
+"Jenifer Schultz"
+],
+"year": 2008,
+"venue": "Personality and Individual Differences",
+"status": "published"
+},
+{
+"title": "Will You Read this Abstract? Theories of the Question-Behavior Effect",
+"authors": [
+"Eric R. Spangenberg",
+"Anthony G. Greenwald",
+"David E. Sprott"
+],
+"year": 2008,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "The Influence of Tactile Input on the Evaluation of Retail Product Offerings",
+"authors": [
+"Bianca Grohmann",
+"Eric R. Spangenberg",
+"David E. Sprott"
+],
+"year": 2007,
+"venue": "Journal of Retailing",
+"status": "published"
+},
+{
+"title": "Multiple Unit Price Promotions and their Effects on Quantity Purchase Intentions",
+"authors": [
+"Kenneth C. Manning",
+"David E. Sprott"
+],
+"year": 2007,
+"venue": "Journal of Retailing",
+"status": "published"
+},
+{
+"title": "Self-Prophecy and Misattribution",
+"authors": [
+"Eric R. Spangenberg",
+"David E. Sprott"
+],
+"year": 2006,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "Gender-Congruent Ambient Scent Influences on Approach and Avoidance Behaviors in a Retail Store",
+"authors": [
+"Eric R. Spangenberg",
+"David E. Sprott",
+"Bianca Grohmann",
+"Dan Tracy"
+],
+"year": 2006,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Handbook of Research on Customer Engagement",
+"authors": [
+"Linda Hollebeek",
+"David E. Sprott"
+],
+"year": 2019,
+"venue": "Edward Elgar",
+"status": "published"
+}
+]
+}
+}
