@@ -88,6 +88,78 @@
   "city": "Ithaca, NY"
  },
  {
+  "id": "university-of-california-los-angeles",
+  "name": "University of California, Los Angeles",
+  "short": "UCLA",
+  "country": "United States",
+  "region": "North America",
+  "city": "Los Angeles, CA"
+ },
+ {
+  "id": "new-york-university",
+  "name": "New York University",
+  "short": "NYU",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York, NY"
+ },
+ {
+  "id": "university-of-michigan",
+  "name": "University of Michigan",
+  "short": "Michigan",
+  "country": "United States",
+  "region": "North America",
+  "city": "Ann Arbor, MI"
+ },
+ {
+  "id": "university-of-california-san-diego",
+  "name": "University of California, San Diego",
+  "short": "UCSD",
+  "country": "United States",
+  "region": "North America",
+  "city": "La Jolla, CA"
+ },
+ {
+  "id": "brown-university",
+  "name": "Brown University",
+  "short": "Brown",
+  "country": "United States",
+  "region": "North America",
+  "city": "Providence, RI"
+ },
+ {
+  "id": "california-institute-of-technology",
+  "name": "California Institute of Technology",
+  "short": "Caltech",
+  "country": "United States",
+  "region": "North America",
+  "city": "Pasadena, CA"
+ },
+ {
+  "id": "university-of-wisconsin-madison",
+  "name": "University of Wisconsin-Madison",
+  "short": "Wisconsin",
+  "country": "United States",
+  "region": "North America",
+  "city": "Madison, WI"
+ },
+ {
+  "id": "duke-university",
+  "name": "Duke University",
+  "short": "Duke",
+  "country": "United States",
+  "region": "North America",
+  "city": "Durham, NC"
+ },
+ {
+  "id": "university-of-minnesota",
+  "name": "University of Minnesota",
+  "short": "Minnesota",
+  "country": "United States",
+  "region": "North America",
+  "city": "Minneapolis, MN"
+ },
+ {
   "id": "university-of-oxford",
   "name": "University of Oxford",
   "short": "Oxford",

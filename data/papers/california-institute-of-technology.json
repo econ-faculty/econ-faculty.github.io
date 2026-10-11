@@ -1,0 +1,2465 @@
+{
+"marina agranov": {
+"name": "Marina Agranov",
+"papers": []
+},
+"colin f camerer": {
+"name": "Colin F. Camerer",
+"papers": [
+{
+"title": "Meta-Analysis of Present-Bias Estimation using Convex Time Budgets",
+"authors": [
+"Taisuke Imai",
+"Tom A. Rutter",
+"Colin F. Camerer"
+],
+"year": 2021,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "Evaluating replicability of laboratory experiments in economics",
+"authors": [
+"Colin F. Camerer",
+"Anna Dreber",
+"Eskil Forsell",
+"Teck-Hua Ho",
+"Jürgen Huber",
+"Magnus Johannesson",
+"Michael Kirchler",
+"Johan Almenberg",
+"Adam Altmejd",
+"Taizan Chan",
+"Emma Heikensten",
+"Felix Holzmeister",
+"Taisuke Imai",
+"Siri Isaksson",
+"Gideon Nave",
+"Thomas Pfeiffer",
+"Michael Razen",
+"Hang Wu"
+],
+"year": 2016,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Bankruptcy Rates among NFL Players with Short-Lived Income Spikes",
+"authors": [
+"Kyle Carlson",
+"Joshua Kim",
+"Annamaria Lusardi",
+"Colin F. Camerer"
+],
+"year": 2015,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Chimpanzee choice rates in competitive games match equilibrium game theory predictions",
+"authors": [
+"Christopher Flynn Martin",
+"Rahul Bhui",
+"Peter Bossaerts",
+"Tetsuro Matsuzawa",
+"Colin Camerer"
+],
+"year": 2014,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "Irrational exuberance and neural crash warning signals during endogenous experimental market bubbles",
+"authors": [
+"Alec Smith",
+"Terry Lohrenz",
+"Justin King",
+"P. Read Montague",
+"Colin F. Camerer"
+],
+"year": 2014,
+"venue": "Proceedings of the National Academy of Sciences of the United States of America",
+"status": "published"
+},
+{
+"title": "How psychological framing affects economic market prices in the lab and field",
+"authors": [
+"Ulrich Sonnemann",
+"Colin F. Camerer",
+"Craig R. Fox",
+"Thomas Langer"
+],
+"year": 2013,
+"venue": "Proceedings of the National Academy of Sciences of the United States of America",
+"status": "published"
+},
+{
+"title": "To Review or Not to Review? Limited Strategic Thinking at the Movie Box Office",
+"authors": [
+"Alexander L. Brown",
+"Colin F. Camerer",
+"Dan Lovallo"
+],
+"year": 2012,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Testing Game Theory in the Field: Swedish LUPI Lottery Games",
+"authors": [
+"Robert Östling",
+"Joseph Tao-yi Wang",
+"Eileen Y. Chou",
+"Colin F. Camerer"
+],
+"year": 2011,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+}
+]
+},
+"peter caradonna": {
+"name": "Peter Caradonna",
+"papers": [
+{
+"title": "Interpersonally Comparable Utility",
+"authors": [
+"Peter Caradonna",
+"Zachary Raines"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Inconsistency Rank",
+"authors": [
+"Peter Caradonna"
+],
+"year": 2024,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Identifying Restrictions in the Random Utility Model",
+"authors": [
+"Peter Caradonna",
+"Christopher Turansick"
+],
+"year": 2024,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+},
+{
+"title": "Revealed Invariant Preference",
+"authors": [
+"Peter Caradonna",
+"Christopher Chambers"
+],
+"year": 2024,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+},
+{
+"title": "A Least Squares Theory of Revealed Preference",
+"authors": [
+"Peter Caradonna"
+],
+"year": 2022,
+"venue": "Review of Economic Studies",
+"status": "revise_resubmit"
+}
+]
+},
+"hannah druckenmiller": {
+"name": "Hannah Druckenmiller",
+"papers": [
+{
+"title": "Global high-resolution estimates of the UN Human Development Index using satellite imagery and machine learning",
+"authors": [
+"Hannah Druckenmiller",
+"L. Sherman",
+"J. Proctor",
+"H. Tapia",
+"S. Hsiang"
+],
+"year": 2026,
+"venue": "Nature Communications",
+"status": "published"
+},
+{
+"title": "Using markets to adapt to climate change",
+"authors": [
+"Hannah Druckenmiller",
+"Simon Greenhill",
+"Solomon Hsiang",
+"Clare Balboni",
+"Lint Barrage",
+"Ian W. Colliger",
+"Judson Boomhower",
+"Delevane Diaz",
+"Teevrat Garg",
+"Miyuki Hino",
+"Harrison Hong",
+"Carolyn Kousky",
+"Jeremey Martinich",
+"Ishan Nath",
+"Kimberly L. Oremus",
+"Jisung Park",
+"Toan Phan",
+"Jonathan Proctor",
+"Will Rafey",
+"Margus C. Sarofim"
+],
+"year": 2026,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Removing development incentives in risky areas promotes climate adaptation",
+"authors": [
+"Hannah Druckenmiller",
+"Penny Liao",
+"Sophie Pesek",
+"Shan Zhang",
+"Margaret Walls"
+],
+"year": 2024,
+"venue": "Nature Climate Change",
+"status": "published"
+},
+{
+"title": "Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates",
+"authors": [
+"Hannah Druckenmiller",
+"S. Greenhill",
+"S. Wang",
+"D. Keiser",
+"M. Girotto",
+"J. Moore",
+"N. Yamaguchi",
+"A. Todeschini",
+"J. Shapiro"
+],
+"year": 2024,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Accounting for ecosystem service values in climate policy",
+"authors": [
+"Hannah Druckenmiller"
+],
+"year": 2022,
+"venue": "Nature Climate Change",
+"status": "published"
+},
+{
+"title": "Wetlands, flooding, and the Clean Water Act",
+"authors": [
+"Hannah Druckenmiller",
+"Charles A. Taylor"
+],
+"year": 2022,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The effect of large-scale anti-contagion policies on the COVID-19 pandemic",
+"authors": [
+"Hannah Druckenmiller",
+"S. Hsiang",
+"D. Allen",
+"S. Annan-Phan",
+"K. Bell",
+"I. Bolliger",
+"T. Chong",
+"L. Huang",
+"A. Hultgren",
+"E. Krasovich",
+"P. Lau",
+"J. Lee",
+"E. Rolf",
+"J. Tseng",
+"T. Wu"
+],
+"year": 2020,
+"venue": "Nature",
+"status": "published"
+},
+{
+"title": "Paving the Swamp: Consequences of Land Use Regulation Under the Clean Water Act",
+"authors": [
+"Hannah Druckenmiller",
+"J. S. Shapiro",
+"Charles A. Taylor"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A postcolonial land cover transition in the Caribbean",
+"authors": [
+"Hannah Druckenmiller",
+"L.Y. Huang",
+"T. Chong",
+"S. Jain",
+"N. Nordfors",
+"S. Hsiang",
+"A. Madestam",
+"A. Tompsett"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pawel janas": {
+"name": "Pawel Janas",
+"papers": [
+{
+"title": "Lender of Last Resort and Local Economic Outcomes",
+"authors": [
+"Pawel Janas"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Mobilizing Savings, Shaping Regions: The Financial Geography of U.S. Life Insurance",
+"authors": [
+"Pawel Janas"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Crises and Educational Attainment",
+"authors": [
+"Pawel Janas"
+],
+"year": null,
+"venue": "Journal of Economic History",
+"status": "forthcoming"
+},
+{
+"title": "Public Goods Under Financial Distress",
+"authors": [
+"Pawel Janas"
+],
+"year": 2026,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Correlation in state and local tax changes",
+"authors": [
+"S. R. Baker",
+"P. Janas",
+"L. Kueng"
+],
+"year": 2025,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Financial Crises and Economic Growth: U.S. Cities, Counties, and School Districts during the Great Depression (Summaries of Doctoral Dissertations for the Nevins Prize)",
+"authors": [
+"Pawel Janas"
+],
+"year": 2023,
+"venue": "Journal of Economic History",
+"status": "published"
+}
+]
+},
+"eric mazumdar": {
+"name": "Eric Mazumdar",
+"papers": []
+},
+"prakash mishra": {
+"name": "Prakash Mishra",
+"papers": [
+{
+"title": "An evaluation of protected area policies in the European Union",
+"authors": [
+"Tristan Grupp",
+"Prakash Mishra",
+"Mathias Reynaert",
+"Arthur van Benthem"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Agriculture and Land Use in the Tropics.",
+"authors": [
+"Jennifer Alix-Garcia",
+"Juliano Assunco",
+"Teevrat Garg",
+"Prakash Mishra",
+"Fanny Moffette"
+],
+"year": null,
+"venue": "Review of Environmental Economics and Policy",
+"status": "forthcoming"
+},
+{
+"title": "The Global Allocative Efficiency of Deforestation",
+"authors": [
+"Prakash Mishra"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "An evaluation of the European Common Agricultural Policy.",
+"authors": [
+"Prakash Mishra",
+"Augusto Ospital",
+"Mathias Reynaert",
+"Arthur van Benthem"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Selection and scale in carbon offset markets.",
+"authors": [
+"Eduardo Azevedo",
+"Susanna Berkouwer",
+"Prakash Mishra",
+"Anna Russo",
+"Arthur van Benthem"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"kirby nielsen": {
+"name": "Kirby Nielsen",
+"papers": []
+},
+"axel niemeyer": {
+"name": "Axel Niemeyer",
+"papers": [
+{
+"title": "On the genericity of complex screening mechanisms",
+"authors": [
+"Axel Niemeyer",
+"P. Lahr"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Extreme points in multi-dimensional screening",
+"authors": [
+"Axel Niemeyer",
+"P. Lahr"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+},
+{
+"title": "Optimal allocation with peer information",
+"authors": [
+"Axel Niemeyer",
+"J. Preusser"
+],
+"year": null,
+"venue": "Theoretical Economics",
+"status": "forthcoming"
+},
+{
+"title": "Posterior implementability in collective decision-making",
+"authors": [
+"Axel Niemeyer"
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Mechanisms without transfers for fully biased agents",
+"authors": [
+"Axel Niemeyer",
+"D. Kattwinkel",
+"A. Winter",
+"J. Preusser"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "On-the-match search and match-specific productivity growth",
+"authors": [
+"Axel Niemeyer",
+"S. Kreutzkamp",
+"F. Schmieter"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The limits of ex post implementation without transfers",
+"authors": [
+"Axel Niemeyer",
+"T. Feng",
+"Q. Wu"
+],
+"year": 2023,
+"venue": "Theoretical Economics",
+"status": "published"
+}
+]
+},
+"luciano pomatto": {
+"name": "Luciano Pomatto",
+"papers": [
+{
+"title": "Modeling information acquisition: divergences, duality, and discrete choice",
+"authors": [
+"Luciano Pomatto",
+"Alexander Bloedel",
+"Tommaso Denti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "On the events satisfying the sure-thing principle",
+"authors": [
+"Luciano Pomatto",
+"Tommaso Denti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Monotone additive statistics",
+"authors": [
+"Luciano Pomatto",
+"Xiaosheng Mu",
+"Philipp Strack",
+"Omer Tamuz"
+],
+"year": 2024,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Background risk and small-stakes risk aversion",
+"authors": [
+"Luciano Pomatto",
+"Xiaosheng Mu",
+"Philipp Strack",
+"Omer Tamuz"
+],
+"year": 2024,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "The cost of information: The case of constant marginal costs",
+"authors": [
+"Luciano Pomatto",
+"Philipp Strack",
+"Omer Tamuz"
+],
+"year": 2023,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Stable matching under forward-induction reasoning",
+"authors": [
+"Luciano Pomatto"
+],
+"year": 2022,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Model and predictive uncertainty: A foundation for smooth ambiguity preferences",
+"authors": [
+"Luciano Pomatto",
+"Tommaso Denti"
+],
+"year": 2022,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Twofold multiprior preferences and failures of contingent reasoning",
+"authors": [
+"Luciano Pomatto",
+"Federico Echenique",
+"Masaki Miyashita",
+"Yuta Nakamura",
+"Jamie Vinson"
+],
+"year": 2022,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "From Blackwell dominance in large samples to Rényi divergences and back again",
+"authors": [
+"Luciano Pomatto",
+"Xiaosheng Mu",
+"Philipp Strack",
+"Omer Tamuz"
+],
+"year": 2021,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Testable forecasts",
+"authors": [
+"Luciano Pomatto"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Aggregate risk and the Pareto principle",
+"authors": [
+"Luciano Pomatto",
+"Nabil Al-Najjar"
+],
+"year": 2020,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Stochastic dominance under independent noise",
+"authors": [
+"Luciano Pomatto",
+"Philipp Strack",
+"Omer Tamuz"
+],
+"year": 2020,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "An abstract law of large numbers",
+"authors": [
+"Luciano Pomatto",
+"Nabil Al-Najjar"
+],
+"year": 2020,
+"venue": "Sankhya, Series A",
+"status": "published"
+},
+{
+"title": "An axiomatic theory of inductive inference",
+"authors": [
+"Luciano Pomatto",
+"Alvaro Sandroni"
+],
+"year": 2018,
+"venue": "Philosophy of Science",
+"status": "published"
+},
+{
+"title": "Choice under aggregate risk",
+"authors": [
+"Luciano Pomatto",
+"Nabil Al-Najjar"
+],
+"year": 2016,
+"venue": "Theory and Decision",
+"status": "published"
+},
+{
+"title": "Claim validation",
+"authors": [
+"Luciano Pomatto",
+"Nabil Al-Najjar",
+"Alvaro Sandroni"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Merging and testing opinions",
+"authors": [
+"Luciano Pomatto",
+"Nabil Al-Najjar",
+"Alvaro Sandroni"
+],
+"year": 2014,
+"venue": "Annals of Statistics",
+"status": "published"
+}
+]
+},
+"antonio rangel": {
+"name": "Antonio Rangel",
+"papers": []
+},
+"jean laurent rosenthal": {
+"name": "Jean-Laurent Rosenthal",
+"papers": [
+{
+"title": "Dark Matter Credit: the Devlopment of Peer to Peer Lending and Banking in France",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2019,
+"venue": "Princeton University Press",
+"status": "published"
+},
+{
+"title": "Before and Beyond Divergence; Institutions and Prosperity in China and Europe 1000-1800",
+"authors": [
+"Jean-Laurent Rosenthal",
+"R. Bin Wong"
+],
+"year": 2011,
+"venue": "Harvard University Press",
+"status": "published"
+},
+{
+"title": "Surviving Large Losses: Financial Crises, the Middle Class, and the Development of Capital Markets",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2007,
+"venue": "Harvard University Press",
+"status": "published"
+},
+{
+"title": "Finance, Intermediaries and Economic Development",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Stanley Engerman",
+"Philip T. Hoffman",
+"Kenneth Sokoloff"
+],
+"year": 2003,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Priceless Markets: The Political Economy of Credit in Paris, 1662-1869",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2000,
+"venue": "University of Chicago Press",
+"status": "published"
+},
+{
+"title": "Analytic Narratives",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Robert Bates",
+"Avner Greif",
+"Margaret Levi",
+"Barry Weingast"
+],
+"year": 1998,
+"venue": "Princeton University Press",
+"status": "published"
+},
+{
+"title": "The Fruits of Revolution, Property Rights, Litigation and French Agriculture (1700-1860)",
+"authors": [
+"Jean-Laurent Rosenthal"
+],
+"year": 1992,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Sewers' Diffusion and the Decline of Mortality; The case of Paris, 1880-1914.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Lionel Kesztenbaum"
+],
+"year": 2016,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Capitalism and Financial Development: The Case of Mortgage Markets in France, 1807-1899,",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2014,
+"venue": "Social Science History",
+"status": "published"
+},
+{
+"title": "Entry, Information and Financial Development: a Century of Competition between French Banks and Notaries.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2015,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Inherited vs Self-Made Wealth: Theory & Evidence from a Rentier Society (Paris 1872-1927",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Thomas Piketty",
+"Gilles Postel-Vinay"
+],
+"year": 2014,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "The health cost of living in a city: The case of France at the end of the 19th century.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Lionel Kesztenbaum"
+],
+"year": 2011,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Making do with imperfect law: small firms in France and Germany, 1890-1935.",
+"authors": [
+"Jean-Laurent Rosenthal"
+],
+"year": 2009,
+"venue": "Entreprise et Histoire",
+"status": "published"
+},
+{
+"title": "Pouvoir et proprit dans l'entreprise: pour une histoire international des socitis responsabilit limite",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Timothy Guinnane",
+"Ron Harris",
+"Naomi R. Lamoreaux"
+],
+"year": 2008,
+"venue": "Annales: E.S.C.",
+"status": "published"
+},
+{
+"title": "Putting the Corporation in its Place",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Timothy Guinnane",
+"Ron Harris",
+"Naomi R. Lamoreaux"
+],
+"year": 2007,
+"venue": "Enterprise and Society",
+"status": "published"
+},
+{
+"title": "Wealth Concentration in a Developing Economy: Paris and France, 1807-1994.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Thomas Piketty",
+"Gilles Postel-Vinay"
+],
+"year": 2006,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Historical Financing of Small- and Medium-Size Enterprises.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Robert Cull",
+"Lance E. Davis",
+"Naomi R. Lamoreaux"
+],
+"year": null,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Legal Regime and Business's Organizational Choice: A Comparison of France and the United States during the Mid-Nineteenth Century.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Naomi R. Lamoreaux"
+],
+"year": 2005,
+"venue": "American Law and Economics Review",
+"status": "published"
+},
+{
+"title": "Rvolution et volution : Les marchs de crdit notari en France, 1780-1840.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 2004,
+"venue": "Annales E.S.C.",
+"status": "published"
+},
+{
+"title": "The Development of Intermediation in French Credit Markets: Evidence from the Estates of Burgundy.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Mark Potter"
+],
+"year": 2002,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "New Work in French Economic History.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman"
+],
+"year": 2000,
+"venue": "French Historical Studies",
+"status": "published"
+},
+{
+"title": "Information and Economic History: How the Credit Market in Old Regime Paris Forces Us to Rethink the Transition to Capitalism.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 1999,
+"venue": "American Historical Review",
+"status": "published"
+},
+{
+"title": "What Do Notaries Do?: Overcoming Asymmetric Information in Financial Markets: The Case of Paris, 1751.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 1998,
+"venue": "Journal of Institutional and Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Politics and Public Finance in France: The Estates of Burgundy, 1670-1789.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Mark Potter"
+],
+"year": 1997,
+"venue": "Journal of Interdisciplinary History",
+"status": "published"
+},
+{
+"title": "Redistribution and Long-Term Private Debt in Paris, 1660-1726.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 1995,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Rural Credit Markets and Aggregate Shocks: The Experience of Nuits St. Georges in Burgundy, 1756-1776.",
+"authors": [
+"Jean-Laurent Rosenthal"
+],
+"year": 1994,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Economie et Politique: Les marchs du crdit Paris 1750-1840.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 1994,
+"venue": "Annales E.S.C.",
+"status": "published"
+},
+{
+"title": "Credit Markets and Economic Change in Southeastern France 1630-1788.",
+"authors": [
+"Jean-Laurent Rosenthal"
+],
+"year": 1993,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Private Credit Markets in Paris 1690-1840.",
+"authors": [
+"Jean-Laurent Rosenthal",
+"Philip T. Hoffman",
+"Gilles Postel-Vinay"
+],
+"year": 1992,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "The Development of Irrigation in Provence 1700-1860: The French Revolution and Economic Growth.",
+"authors": [
+"Jean-Laurent Rosenthal"
+],
+"year": 1990,
+"venue": "Journal of Economic History",
+"status": "published"
+}
+]
+},
+"kota saito": {
+"name": "Kota Saito",
+"papers": [
+{
+"title": "Repeated Choice: A Theory of Stochastic Intertemporal Preference",
+"authors": [
+"Kota Saito",
+"Jay Lu"
+],
+"year": 2026,
+"venue": "Theoretical Economics",
+"status": "forthcoming"
+},
+{
+"title": "Approximating Choice Data by Discrete Choice Models",
+"authors": [
+"Kota Saito",
+"Y. Narita",
+"Haoge Chang"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Random Utility Model with Unobservable Alternatives",
+"authors": [
+"Kota Saito",
+"Haruki Kono",
+"Alec Sandroni"
+],
+"year": 2026,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Axiomatization of Random Utility Model with Unobservable Alternatives",
+"authors": [
+"Kota Saito",
+"Haruki Kono",
+"Alec Sandroni"
+],
+"year": null,
+"venue": "Proceedings of the 24th ACM Conference on Economics and Computation",
+"status": "published"
+},
+{
+"title": "Approximate Expected Utility Rationalization",
+"authors": [
+"Kota Saito",
+"F. Echenique",
+"T. Imai"
+],
+"year": 2023,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Adjacencies on the Multiple Choice Polytope",
+"authors": [
+"Kota Saito",
+"Jean-Paul Doignon"
+],
+"year": 2023,
+"venue": "Journal of Mathematical Psychology",
+"status": "published"
+},
+{
+"title": "The Relation between Behavior under Risk and over Time",
+"authors": [
+"Kota Saito",
+"A. Chakraborty",
+"Y. Halevy"
+],
+"year": 2020,
+"venue": "American Economic Journal: Insight",
+"status": "published"
+},
+{
+"title": "Testable Implication of Exponential Discounting and its Generalization",
+"authors": [
+"Kota Saito",
+"F. Echenique",
+"T. Imai"
+],
+"year": 2020,
+"venue": "American Economic Journal: Microeconomics",
+"status": "forthcoming"
+},
+{
+"title": "General Luce Model",
+"authors": [
+"Kota Saito",
+"F. Echenique"
+],
+"year": 2018,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Random Intertemporal Choice",
+"authors": [
+"Kota Saito",
+"Jay Lu"
+],
+"year": 2018,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "The Perception-Adjusted Luce Model",
+"authors": [
+"Kota Saito",
+"F. Echenique",
+"G. Tserenjigmid"
+],
+"year": 2018,
+"venue": "Mathematical Social Sciences",
+"status": "published"
+},
+{
+"title": "On Path Independent Stochastic Choice",
+"authors": [
+"Kota Saito",
+"D. Ahn",
+"F. Echenique"
+],
+"year": 2018,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Response Time and Utility",
+"authors": [
+"Kota Saito",
+"F. Echenique"
+],
+"year": 2017,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Testing theories of financial decision making",
+"authors": [
+"Kota Saito",
+"C. Chambers",
+"F. Echenique"
+],
+"year": 2016,
+"venue": "Proceedings of the National Academy of Sciences",
+"status": "published"
+},
+{
+"title": "Impure Altruism and Impure Selfishness",
+"authors": [
+"Kota Saito"
+],
+"year": 2015,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Savage in the Market",
+"authors": [
+"Kota Saito",
+"F. Echenique"
+],
+"year": 2015,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Preferences for Flexibility and Randomization under Uncertainty",
+"authors": [
+"Kota Saito"
+],
+"year": 2015,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Social Preferences under Risk",
+"authors": [
+"Kota Saito"
+],
+"year": 2013,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Strotz Meets Allais: Diminishing Impatience and the Certainty Effect: Comment",
+"authors": [
+"Kota Saito"
+],
+"year": 2011,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "A Longitudinal Real-Effort Task Paradigm to Measure the Dynamics of Time Preference in Attention-Deficit Hyperactivity Disorder: Study Protocol for a Behavioral Experiment",
+"authors": [
+"Kota Saito",
+"Junya Fujino",
+"Camila Farres",
+"Shisei Tei",
+"Chenyu Qian"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Harold Zurcher Have Time Separable Preferences?",
+"authors": [
+"Kota Saito",
+"Jay Lu",
+"Yao Luo",
+"Yi Xin"
+],
+"year": null,
+"venue": "Journal of the European Economic Association",
+"status": "revise_resubmit"
+},
+{
+"title": "Random Utility with Aggregation Alternatives",
+"authors": [
+"Kota Saito",
+"Yuexin Liao",
+"Alec Sandroni"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "I Choose for You: an Experimental Study",
+"authors": [
+"Kota Saito",
+"Marina Agranov",
+"Federico Echenique"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Decision Making under Uncertainty: An Experimental Study in Market Settings,",
+"authors": [
+"Kota Saito",
+"F. Echenique",
+"T. Imai"
+],
+"year": null,
+"venue": "Journal of Political Economy Microeconomics",
+"status": "revise_resubmit"
+},
+{
+"title": "Axiomatization of Mixed Logit Model",
+"authors": [
+"Kota Saito"
+],
+"year": 2017,
+"venue": "Caltech Social Science working paper 1433",
+"status": "working_paper"
+},
+{
+"title": "Mixed Logit and Pure Characteristic Models",
+"authors": [
+"Kota Saito",
+"Jay Lu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Testing Random Utility Efficiently with Large Number of Alternatives/Measure of Stochastic Irrationality",
+"authors": [
+"Kota Saito",
+"Haoge Chang",
+"Mingxi Zhu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Monotone Stochastic Choice",
+"authors": [
+"Kota Saito",
+"Vivian Loh",
+"Alec Sandroni"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Irrational Objectives or Measurement Limitations",
+"authors": [
+"Kota Saito",
+"Charlie Sprenger",
+"Ted O'Donoghue",
+"Aaron Berman",
+"Olga Rospuskova"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Network Flow approach to analyze choice data",
+"authors": [
+"Kota Saito",
+"Yuexin Liao",
+"Alec Sandroni"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Assessing Intertemporal Rationality in Patients with Diverse Psychological Disorders",
+"authors": [
+"Kota Saito",
+"Camila Farres",
+"Junya Fujino"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Assessing Economic Rationality in Patients with Diverse Psychological Disorders",
+"authors": [
+"Kota Saito",
+"Colin Camerer",
+"Junya Fujino"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identification of Mixed Logit Model",
+"authors": [
+"Kota Saito",
+"Jay Lu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"robert sherman": {
+"name": "Robert Sherman",
+"papers": []
+},
+"charles sprenger": {
+"name": "Charles Sprenger",
+"papers": [
+{
+"title": "Connecting Common Ratio and Common Consequence Preferences",
+"authors": [
+"Charles D. Sprenger",
+"Christina McGranaghan",
+"Kirby Nielsen",
+"Ted O'Donoghue",
+"Jason Somerville"
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "forthcoming"
+},
+{
+"title": "De Gustibus and Disputes About Reference Dependence",
+"authors": [
+"Charles D. Sprenger",
+"Pol Campos-Mercade",
+"Lorenz Goette",
+"Thomas Graeber",
+"Alex Kellogg"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Distinguishing Common Ratio Preferences from Common Ratio Effects: An Experiments Using Paired Valuation Tasks",
+"authors": [
+"Charles D. Sprenger",
+"Christina McGranaghan",
+"Kirby Nielsen",
+"Ted O'Donoghue",
+"Jason Somerville"
+],
+"year": 2024,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "On the Empirical Validity of Cumulative Prospect Theory: A Response to the Wakker Commentaries",
+"authors": [
+"Charles D. Sprenger",
+"Doug Bernheim"
+],
+"year": 2023,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "Using Preference Estimates to Customize Incentives: An Application to Polio Vaccination Drives in Pakistan",
+"authors": [
+"Charles D. Sprenger",
+"James Andreoni",
+"Michael Callen",
+"Karrar Jaffar",
+"Yasir Khan"
+],
+"year": 2023,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Procrastination in the Field: Evidence from Tax Filing",
+"authors": [
+"Charles D. Sprenger",
+"Seung-Keun Martinez",
+"Stephan Meier"
+],
+"year": 2023,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Robustness of Rank-Independence in Risky Choice",
+"authors": [
+"Charles D. Sprenger",
+"Doug Bernheim",
+"Rebecca Royer"
+],
+"year": 2022,
+"venue": "American Economic Review: Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Intertemporal Choice Experiments and Large Stakes Behavior",
+"authors": [
+"Charles D. Sprenger",
+"Diego Aycinena",
+"Szabolcs Blazsek",
+"Lucas Rentschler"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "On the Empirical Validity of Cumulative Prospect Theory: Experimental Evidence of Rank-Independent Probability Weighting",
+"authors": [
+"Charles D. Sprenger",
+"Doug Bernheim"
+],
+"year": 2020,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Dynamic Inconsistency in Food Choice: Experimental Evidence from Two Food Deserts",
+"authors": [
+"Charles D. Sprenger",
+"Sally Sadoff",
+"Anya Samek"
+],
+"year": 2020,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Randomizing Endowments: An Experimental Study of Rational Expectations and Reference-Dependent Preferences",
+"authors": [
+"Charles D. Sprenger",
+"Lorenz Goette",
+"Annette Harms"
+],
+"year": 2019,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "The Limits of Expectations-Based Reference Dependence",
+"authors": [
+"Charles D. Sprenger",
+"Uri Gneezy",
+"Lorenz Goette",
+"Florian Zimmermann"
+],
+"year": 2017,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "An Endowment Effect for Risk: Experimental Tests of Stochastic Reference Points",
+"authors": [
+"Charles D. Sprenger"
+],
+"year": 2015,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Working Over Time: Dynamic Inconsistency in Real Effort Tasks",
+"authors": [
+"Charles D. Sprenger",
+"Ned Augenblick",
+"Muriel Niederle"
+],
+"year": 2015,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Measuring Time Preferences: A Comparison of Experimental Methods",
+"authors": [
+"Charles D. Sprenger",
+"James Andreoni",
+"Michael Kuhn"
+],
+"year": 2015,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Judging Experimental Evidence on Dynamic Inconsistency",
+"authors": [
+"Charles D. Sprenger"
+],
+"year": 2015,
+"venue": "American Economic Review: Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Temporal Stability of Time Preferences",
+"authors": [
+"Charles D. Sprenger",
+"Stephan Meier"
+],
+"year": 2015,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Violence and Risk Preferences: Experimental Evidence from Afghanistan",
+"authors": [
+"Charles D. Sprenger",
+"Michael Callen",
+"Mohammad Isaqzadeh",
+"James Long"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Discounting Financial Literacy: Time Preferences and Participation in Financial Education Programs",
+"authors": [
+"Charles D. Sprenger",
+"Stephan Meier"
+],
+"year": 2013,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Estimating Time Preferences from Convex Budgets",
+"authors": [
+"Charles D. Sprenger",
+"James Andreoni"
+],
+"year": 2012,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Risk Preferences Are Not Time Preferences",
+"authors": [
+"Charles D. Sprenger",
+"James Andreoni"
+],
+"year": 2012,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Time Discounting Predicts Creditworthiness",
+"authors": [
+"Charles D. Sprenger",
+"Stephan Meier"
+],
+"year": 2012,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "Present-Biased Preferences and Credit Card Borrowing",
+"authors": [
+"Charles D. Sprenger",
+"Stephan Meier"
+],
+"year": 2010,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Credit Card Debt and Payment Use",
+"authors": [
+"Charles D. Sprenger",
+"Joanna Stavins"
+],
+"year": 2010,
+"venue": "Financial Services Review",
+"status": "published"
+}
+]
+},
+"omer tamuz": {
+"name": "Omer Tamuz",
+"papers": [
+{
+"title": "Asymptotic learning on Bayesian social networks",
+"authors": [
+"Omer Tamuz",
+"Elchanan Mossel",
+"Allan Sly"
+],
+"year": null,
+"venue": "Probability Theory and Related Fields",
+"status": "published"
+},
+{
+"title": "Majority dynamics and aggregation of information in social networks",
+"authors": [
+"Omer Tamuz"
+],
+"year": null,
+"venue": "Journal of Autonomous Agents and Multi-Agent Systems",
+"status": "published"
+},
+{
+"title": "The power of two in token systems",
+"authors": [
+"Omer Tamuz"
+],
+"year": null,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Characteristic measures of symbolic dynamical systems",
+"authors": [
+"Omer Tamuz"
+],
+"year": 2022,
+"venue": "Ergodic Theory and Dynamical Systems",
+"status": "published"
+}
+]
+},
+"yi xin": {
+"name": "Yi Xin",
+"papers": [
+{
+"title": "A Structural Neural Autopilot Analysis of Social Media Use Around the Pandemic Lockdown",
+"authors": [
+"Yi Xin",
+"Lawrence Jin",
+"Jessica Fong",
+"Colin Camerer"
+],
+"year": 2026,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Asymmetric Information, Reputation, and Welfare in Online Credit Markets",
+"authors": [
+"Yi Xin"
+],
+"year": 2025,
+"venue": "Rand Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "Competing under Information Heterogeneity: Evidence from Auto Insurance",
+"authors": [
+"Yi Xin",
+"Marco Cosconati",
+"Fan Wu",
+"Yizhou Jin"
+],
+"year": 2025,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Financing Micro-Entrepreneurship in Online Crowdfunding Markets: What Drives Local Biases?",
+"authors": [
+"Yi Xin",
+"Jian Ni",
+"Fangzhu Yang"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Identification and Estimation of Dynamic Structural Models with Unobserved Choices",
+"authors": [
+"Yi Xin",
+"Yingyao Hu"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "A Neural Autopilot Theory of Habit: Evidence from Consumer Purchases and Social Media Use",
+"authors": [
+"Yi Xin",
+"Colin Camerer",
+"Clarice Zhao"
+],
+"year": 2024,
+"venue": "Journal of the Experimental Analysis of Behavior",
+"status": "published"
+},
+{
+"title": "Dynamic Discrete Choice Models with Incomplete Data: Sharp Identification",
+"authors": [
+"Yi Xin",
+"Yuya Sasaki",
+"Yuya Takahashi",
+"Yingyao Hu"
+],
+"year": 2023,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Time-Varying Risk Aversion? Evidence from Near-Miss Accidents",
+"authors": [
+"Yi Xin",
+"Matthew Shum"
+],
+"year": 2022,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "xtusreg: Software for Dynamic Panel Regression under Irregular Time Spacing",
+"authors": [
+"Yi Xin",
+"Yuya Sasaki"
+],
+"year": 2022,
+"venue": "Stata Journal",
+"status": "published"
+},
+{
+"title": "Unequal Spacing in Dynamic Panel Data: Identification and Estimation",
+"authors": [
+"Yi Xin",
+"Yuya Sasaki"
+],
+"year": 2017,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimating Nonseparable Selection Models: A Functional Contraction Approach",
+"authors": [
+"Yi Xin",
+"Fan Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dynamic Discrete Choice with General Time Preferences: Did Harold Zuercher Have Non-Separable Time Preferences?",
+"authors": [
+"Yi Xin",
+"Jay Lu",
+"Yao Luo",
+"Kota Saito"
+],
+"year": null,
+"venue": "Journal of the European Economic Association",
+"status": "revise_resubmit"
+},
+{
+"title": "Optimal Linear Rank Indexes for Latent Variables",
+"authors": [
+"Yi Xin",
+"Yingyao Hu",
+"Ji-Liang Shiu",
+"Jiaxiong Yao"
+],
+"year": null,
+"venue": "Journal of Applied Econometrics",
+"status": "revise_resubmit"
+},
+{
+"title": "Social Learning in Lung Transplant Decision",
+"authors": [
+"Yi Xin",
+"Laura Doval",
+"Federico Echenique",
+"Wanying Huang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Self-Control and Commitment in Consumer Credit Markets",
+"authors": [
+"Yi Xin",
+"Ke Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Spatial Learning in Online Dating",
+"authors": [
+"Yi Xin",
+"Kuan-Ming Chen",
+"Yen-Chi Chen",
+"Ming-Jen Lin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"jaksa cvitanic": {
+"name": "Jakša Cvitanić",
+"papers": [
+{
+"title": "Contract Theory in Continuous Time Models",
+"authors": [
+"J. Cvitanic",
+"J. Zhang"
+],
+"year": 2012,
+"venue": "Springer Finance",
+"status": "published"
+},
+{
+"title": "Introduction to the Economics and Mathematics of Financial Markets",
+"authors": [
+"J. Cvitanic",
+"F. Zapatero"
+],
+"year": 2004,
+"venue": "MIT Press",
+"status": "published"
+},
+{
+"title": "Handbooks in Mathematical Finance: Option Pricing, Interest Rates and Risk Management",
+"authors": [
+"J. Cvitanic",
+"E. Jouini",
+"M. Musiela"
+],
+"year": 2001,
+"venue": "Cambridge University Press",
+"status": "published"
+},
+{
+"title": "Optimal Trading Under Constraints",
+"authors": [
+"J. Cvitanic"
+],
+"year": 1997,
+"venue": "Lecture Notes in Mathematics",
+"status": "published"
+},
+{
+"title": "Note on Persistent Private Information",
+"authors": [
+"B. Acciaio",
+"R. Crowell",
+"J. Cvitanic"
+],
+"year": 2025,
+"venue": "Mathematics and Financial Economics",
+"status": "published"
+},
+{
+"title": "Optimal Fund Menus",
+"authors": [
+"J. Cvitanic",
+"J. Hugonnier"
+],
+"year": 2022,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Incentive Compatible Surveys via Posterior Probabilities",
+"authors": [
+"J. Cvitanic",
+"D. Prelec",
+"S. Radas",
+"H. Sikic"
+],
+"year": 2020,
+"venue": "Theory of Probability and its Applications",
+"status": "published"
+},
+{
+"title": "Large Tournament Games",
+"authors": [
+"E. Bayraktar",
+"J. Cvitanic",
+"Y. Zhang"
+],
+"year": 2019,
+"venue": "Annals of Applied Probability",
+"status": "published"
+},
+{
+"title": "Honesty via Choice-Matching",
+"authors": [
+"J. Cvitanic",
+"D. Prelec",
+"B. Riley",
+"B. Tereick"
+],
+"year": 2019,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "Game of Duels: Information-Theoretic Axiomatization of Scoring Rules",
+"authors": [
+"J. Cvitanic",
+"D. Prelec",
+"S. Radas",
+"H. Sikic"
+],
+"year": 2019,
+"venue": "IEEE Transactions on Information Theory",
+"status": "published"
+},
+{
+"title": "Asset pricing under optimal contracts",
+"authors": [
+"J. Cvitanic",
+"H. Xing"
+],
+"year": 2018,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Dynamic Programming Approach to Principal-Agent Problems",
+"authors": [
+"J. Cvitanic",
+"D. Possamai",
+"N. Touzi"
+],
+"year": 2017,
+"venue": "Finance and Stochastics",
+"status": "published"
+},
+{
+"title": "Moral Hazard in Dynamic Risk Management",
+"authors": [
+"J. Cvitanic",
+"D. Possamai",
+"N. Touzi"
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Achieving Efficiency in Dynamic Contribution Games",
+"authors": [
+"J. Cvitanic",
+"G. Georgiadis"
+],
+"year": 2016,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Optimal Contracting with Moral Hazard and Behavioral Preferences",
+"authors": [
+"J. Cvitanic",
+"H. Chang",
+"X.Y. Zhou"
+],
+"year": 2015,
+"venue": "Journal of Mathematical Analysis and Applications",
+"status": "published"
+},
+{
+"title": "Competition in Portfolio Management: Theory and Experiment",
+"authors": [
+"E. Asparouhova",
+"P. Bossaerts",
+"CORNELL",
+"J. Copic",
+"J. Cvitanic",
+"D. Meloso"
+],
+"year": 2015,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Price mean-reversion in markets with random lifetimes and reservation values",
+"authors": [
+"J. Cvitanic",
+"C. Plott",
+"C.-Y. Tseng"
+],
+"year": 2015,
+"venue": "Decisions in Economics and Finance",
+"status": "published"
+},
+{
+"title": "On Managerial Risk-taking Incentives When Compensation May be Hedged Against",
+"authors": [
+"J. Cvitanic",
+"V. Henderson",
+"A. Lazrak"
+],
+"year": 2014,
+"venue": "Mathematics and Financial Economics",
+"status": "published"
+},
+{
+"title": "Nonmyopic Optimal Portfolios in Viable Markets",
+"authors": [
+"J. Cvitanic",
+"S. Malamud"
+],
+"year": 2014,
+"venue": "Mathematics and Financial Economics",
+"status": "published"
+},
+{
+"title": "Dynamics of Contract Design with Screening",
+"authors": [
+"J. Cvitanic",
+"X. Wan",
+"H. Yang"
+],
+"year": 2013,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Flash Crashes, Book Resting Times and Call Markets: A Simulation Study",
+"authors": [
+"P. Brewer",
+"J. Cvitanic",
+"C. Plott"
+],
+"year": 2013,
+"venue": "Journal of Applied Economics",
+"status": "published"
+},
+{
+"title": "A Variational Approach to Contracting under Imperfect Observations",
+"authors": [
+"A. Capponi",
+"J. Cvitanic",
+"T. Yolcu"
+],
+"year": 2012,
+"venue": "SIAM Journal of Financial Mathematics",
+"status": "published"
+},
+{
+"title": "Optimal Contracting With Effort and Misvaluation",
+"authors": [
+"A. Capponi",
+"J. Cvitanic",
+"T. Yolcu"
+],
+"year": 2012,
+"venue": "Mathematics and Financial Economics",
+"status": "published"
+},
+{
+"title": "Laws of Large Numbers for Self-Inciting Correlated Defaults",
+"authors": [
+"J. Cvitanic",
+"J. Ma",
+"J. Zhang"
+],
+"year": 2012,
+"venue": "Stochastic Processes and their Applications",
+"status": "published"
+},
+{
+"title": "Financial Markets Equilibrium with Heterogeneous Agents",
+"authors": [
+"J. Cvitanic",
+"E. Jouini",
+"S. Malamud",
+"C. Napp"
+],
+"year": 2012,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Price Impact and Portfolio Impact",
+"authors": [
+"J. Cvitanic",
+"S. Malamud"
+],
+"year": 2011,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Co-development Ventures: Optimal Time of Entry and Profit-Sharing",
+"authors": [
+"J. Cvitanic",
+"S. Radas",
+"H. Sikic"
+],
+"year": 2011,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Relative Extinction of Heterogeneous Agents",
+"authors": [
+"J. Cvitanic",
+"S. Malamud"
+],
+"year": 2010,
+"venue": "The B.E. Journal of Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Optimal investing with perceived mispricing",
+"authors": [
+"B. Cornell",
+"J. Cvitanic",
+"L. Goukasian"
+],
+"year": 2010,
+"venue": "Annals of Finance",
+"status": "published"
+},
+{
+"title": "Continuous-Time Principal-Agent Problems with Hidden Action and Lump-Sum Payment",
+"authors": [
+"J. Cvitanic",
+"X. Wan",
+"J. Zhang"
+],
+"year": 2009,
+"venue": "Applied Mathematics and Optimization",
+"status": "published"
+},
+{
+"title": "Principal-Agent Problems with Exit Options",
+"authors": [
+"J. Cvitanic",
+"X. Wan",
+"J. Zhang"
+],
+"year": 2008,
+"venue": "The B.E. Journal in Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Credit Risk Modeling with Misreporting and Incomplete Information",
+"authors": [
+"A. Capponi",
+"J. Cvitanic"
+],
+"year": 2008,
+"venue": "International Journal of Theoretical and Applied Finance",
+"status": "published"
+},
+{
+"title": "Sharpe ratio as a performance measure in a multi-period model",
+"authors": [
+"J. Cvitanic",
+"A. Lazrak",
+"T. Wang"
+],
+"year": 2008,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Analytic pricing of employee stock options",
+"authors": [
+"J. Cvitanic",
+"Z. Wiener",
+"F. Zapatero"
+],
+"year": 2008,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Optimal Portfolio Allocation with Higher Moments",
+"authors": [
+"J. Cvitanic",
+"V. Polimenis",
+"F. Zapatero"
+],
+"year": 2008,
+"venue": "Annals of Finance",
+"status": "published"
+},
+{
+"title": "Optimal Risk Taking with Flexible Income",
+"authors": [
+"J. Cvitanic",
+"L. Goukasian",
+"F. Zapatero"
+],
+"year": 2007,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Optimal Compensation with Adverse Selection and Dynamic Actions",
+"authors": [
+"J. Cvitanic",
+"J. Zhang"
+],
+"year": 2007,
+"venue": "Mathematics and Financial Economics",
+"status": "published"
+},
+{
+"title": "Optimal Risk-Sharing with Effort and Project Choice",
+"authors": [
+"A. Cadenillas",
+"J. Cvitanic",
+"F. Zapatero"
+],
+"year": 2007,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Numerical estimation of volatility values from discretely observed diffusion data",
+"authors": [
+"J. Cvitanic",
+"B. Rozovski",
+"I. Zaliapin"
+],
+"year": 2006,
+"venue": "The Journal of Computational Finance",
+"status": "published"
+},
+{
+"title": "Dynamic Portfolio Choice with Parameter Uncertainty and the Economic Value of Analysts' Recommendations",
+"authors": [
+"J. Cvitanic",
+"A. Lazrak",
+"L. Martellini",
+"F. Zapatero"
+],
+"year": 2006,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Optimal Contracts in Continuous-Time Models",
+"authors": [
+"J. Cvitanic",
+"X. Wan",
+"J. Zhang"
+],
+"year": 2006,
+"venue": "Journal of Applied Mathematics and Stochastic Analysis",
+"status": "published"
+},
+{
+"title": "Filtering approach to tracking volatility from prices observed at random times",
+"authors": [
+"J. Cvitanic",
+"R. Liptser",
+"B. Rozovski"
+],
+"year": 2006,
+"venue": "The Annals of Applied Probability",
+"status": "published"
+},
+{
+"title": "The Steepest Descent Method for FBSDEs",
+"authors": [
+"J. Cvitanic",
+"J. Zhang"
+],
+"year": 2005,
+"venue": "Electronic Journal of Probability",
+"status": "published"
+},
+{
+"title": "Leverage decision and manager compensation with choice of effort and volatility",
+"authors": [
+"A. Cadenillas",
+"J. Cvitanic",
+"F. Zapatero"
+],
+"year": 2004,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Optimal Allocation to Hedge Funds: An Empirical Analysis",
+"authors": [
+"J. Cvitanic",
+"A. Lazrak",
+"L. Martellini",
+"F. Zapatero"
+],
+"year": 2003,
+"venue": "Quantitative Finance",
+"status": "published"
+},
+{
+"title": "Efficient computation of hedging portfolios for options with discontinuous payoffs",
+"authors": [
+"J. Cvitanic",
+"J. Ma",
+"J. Zhang"
+],
+"year": 2003,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Monte Carlo computation of optimal portfolios in complete markets",
+"authors": [
+"J. Cvitanic",
+"L. Goukasian",
+"F. Zapatero"
+],
+"year": 2003,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Incomplete information with recursive preferences",
+"authors": [
+"J. Cvitanic",
+"A. Lazrak",
+"M.C. Quenez",
+"F. Zapatero"
+],
+"year": 2001,
+"venue": "International Journal of Theoretical and Applied Finance",
+"status": "published"
+},
+{
+"title": "Utility maximization in incomplete markets with random endowment",
+"authors": [
+"J. Cvitanic",
+"W. Schachermayer",
+"H. Wang"
+],
+"year": 2001,
+"venue": "Finance and Stochastics",
+"status": "published"
+},
+{
+"title": "On optimal terminal wealth under transaction costs",
+"authors": [
+"J. Cvitanic",
+"H. Wang"
+],
+"year": 2001,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "Generalized Neyman-Pearson Lemma via convex duality",
+"authors": [
+"J. Cvitanic",
+"I. Karatzas"
+],
+"year": 2001,
+"venue": "Bernoulli",
+"status": "published"
+},
+{
+"title": "Reflected forward-backward SDE's and obstacle problems with boundary conditions",
+"authors": [
+"J. Ma",
+"J. Cvitanic"
+],
+"year": 2001,
+"venue": "Journal of Applied Mathematics and Stochastic Analysis",
+"status": "published"
+}
+]
+}
+}

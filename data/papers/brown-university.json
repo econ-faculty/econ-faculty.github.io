@@ -1,0 +1,7204 @@
+{
+"anna aizer": {
+"name": "Anna Aizer",
+"papers": [
+{
+"title": "Can Early Intervention Reduce Future Child Maltreatment?",
+"authors": [
+"Anna Aizer",
+"Emilia Brito"
+],
+"year": 2024,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Daughters as Safety Net: Family Responses to Parental Employment Shocks, Evidence from Alcohol Prohibition",
+"authors": [
+"Anna Aizer",
+"Gabrielle Grafton",
+"Santiago Perez"
+],
+"year": 2024,
+"venue": "Journal of Human Resources",
+"status": "revise_resubmit"
+},
+{
+"title": "Nurses and Community Health: The Social Returns to Public Support of Nurse Training",
+"authors": [
+"Anna Aizer",
+"Adriana Lleras-Muney"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Discrimination and Racial Disparities in Labor Market Outcomes",
+"authors": [
+"Anna Aizer",
+"Ryan Boone",
+"Adriana Lleras-Muney",
+"Jonathan Vogel"
+],
+"year": 2022,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "The Safety Net and Child Health and Well-Being: Evidence from the United States and the United Kingdom",
+"authors": [
+"Anna Aizer",
+"Adriana Lleras-Muney"
+],
+"year": 2025,
+"venue": "Fiscal Studies",
+"status": "published"
+},
+{
+"title": "The Lifetime Impacts of the New Deal's Youth Employment Program",
+"authors": [
+"Anna Aizer",
+"Nancy Early",
+"Shari Eli",
+"Guido Imbens",
+"Keyoung Lee",
+"Adriana Lleras-Muney",
+"Alexander Strand"
+],
+"year": 2024,
+"venue": "The Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Impact of Cash Transfers to Poor Mothers on Family Structure and Maternal Well-Being",
+"authors": [
+"Anna Aizer",
+"Sungwoo Cho",
+"Shari Eli",
+"Adriana Lleras-Muney"
+],
+"year": 2024,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "The Effects of the 2021 Child Tax Credit on Child Development Outcomes",
+"authors": [
+"Anna Aizer",
+"Adriana Lleras-Muney",
+"Katherine Michelmore"
+],
+"year": 2024,
+"venue": "The ANNALS of the American Academy of Social and Political Sciences",
+"status": "published"
+},
+{
+"title": "Grandparents, Moms or Dads: Why the Children of Teen Mothers Do Worse in Life",
+"authors": [
+"Anna Aizer",
+"Paul Devereaux",
+"Kjell Salvanes"
+],
+"year": 2022,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Children and the US Social Safety Net: Balancing Disincentives for Adults and Benefits for Children",
+"authors": [
+"Anna Aizer",
+"Hilary Hoynes",
+"Adriana Lleras-Muney"
+],
+"year": 2022,
+"venue": "Journal of Economic Perspectives",
+"status": "published"
+},
+{
+"title": "Lead and Juvenile Delinquency: New Evidence from Linked Birth, School and Juvenile Detention Records",
+"authors": [
+"Anna Aizer",
+"Janet Currie"
+],
+"year": 2019,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Economics of Child Protection: Maltreatment, Foster Care & Intimate-Partner Violence.",
+"authors": [
+"Joseph Doyle",
+"Anna Aizer"
+],
+"year": 2018,
+"venue": "Annual Review of Economics",
+"status": "published"
+},
+{
+"title": "Do Low Levels of Blood Lead Reduce Children's Future Test Scores?",
+"authors": [
+"Anna Aizer",
+"Janet Currie",
+"Peter Simon",
+"Patrick Vivier"
+],
+"year": 2018,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "The Role of Children's Health in the Intergenerational Transmission of Economic Status.",
+"authors": [
+"Anna Aizer"
+],
+"year": 2017,
+"venue": "Child Development Perspectives",
+"status": "published"
+},
+{
+"title": "The Long-Term Impact of Cash Transfers to Poor Families",
+"authors": [
+"Anna Aizer",
+"Shari Eli",
+"Joe Ferrie",
+"Adriana Lleras-Muney"
+],
+"year": 2016,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Maternal Stress and Child Outcomes: Evidence from Siblings",
+"authors": [
+"Anna Aizer",
+"Laura Stroud",
+"Stephen Buka"
+],
+"year": 2016,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Juvenile Incarceration, Human Capital and Future Crime: Evidence from Randomly Assigned Judges",
+"authors": [
+"Anna Aizer",
+"Joseph Doyle"
+],
+"year": 2015,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Intergenerational Transmission of Inequality: Maternal Disadvantage and Health at Birth",
+"authors": [
+"Anna Aizer",
+"Jane Currie"
+],
+"year": 2014,
+"venue": "Science",
+"status": "published"
+},
+{
+"title": "Rising Inequality and Intergenerational Mobility: The Role of Public Investments in Human Capital",
+"authors": [
+"Anna Aizer"
+],
+"year": 2014,
+"venue": "CESifo Economic Studies",
+"status": "published"
+},
+{
+"title": "Poverty, Violence and Health: The Impact of Domestic Violence During Pregnancy on Newborn Health",
+"authors": [
+"Anna Aizer"
+],
+"year": 2011,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "The Gender Wage Gap and Domestic Violence",
+"authors": [
+"Anna Aizer"
+],
+"year": 2010,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Love, Hate and Murder: Commitment Devices in Violent Relationships",
+"authors": [
+"Anna Aizer",
+"Pedro Dal Bo"
+],
+"year": 2009,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Public Health Insurance, Program Take-up and Child Health",
+"authors": [
+"Anna Aizer"
+],
+"year": 2007,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Does Managed Care Hurt Health? Evidence from Medicaid Mothers",
+"authors": [
+"Anna Aizer",
+"Janet Currie",
+"Enrico Moretti"
+],
+"year": 2007,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "The Impact of Child Support on Fertility, Parental Investments and Child Well-being",
+"authors": [
+"Anna Aizer",
+"Sara McLanahan"
+],
+"year": 2006,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Access to Care, Provider Choice and the Infant Health Gradient",
+"authors": [
+"Anna Aizer",
+"Adriana Lleras-Muney",
+"Mark Stabile"
+],
+"year": 2005,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Home Alone: Supervision After School and Child Behavior",
+"authors": [
+"Anna Aizer"
+],
+"year": 2004,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Networks or Neighborhoods? Interpreting Correlations in the Use of Publicly-Funded Maternity Care in California",
+"authors": [
+"Anna Aizer",
+"Janet Currie"
+],
+"year": 2004,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Low Take-up in Medicaid: Does Outreach Matter and For Whom?",
+"authors": [
+"Anna Aizer"
+],
+"year": 2003,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Health Insurance Expansions through States in a Pluralistic System.",
+"authors": [
+"Marsha Gold",
+"Jessica Mittler",
+"Anna Aizer",
+"Barbara Lyons"
+],
+"year": 2001,
+"venue": "Journal of Health Politics, Policy and Law",
+"status": "published"
+},
+{
+"title": "Growing an Industry: How Managed is TennCare's Managed Care?",
+"authors": [
+"Marsha Gold",
+"Anna Aizer"
+],
+"year": 2000,
+"venue": "Health Affairs",
+"status": "published"
+},
+{
+"title": "The Value and Use of the Qualified Medicare Beneficiary Program: Early Evidence from Tennessee.",
+"authors": [
+"Ronald Ozminkowski",
+"Anna Aizer",
+"Gerri Smith"
+],
+"year": 1997,
+"venue": "Journal of Health and Social Work",
+"status": "published"
+},
+{
+"title": "Child Endowments, Parental Investments and the Production of Human Capital",
+"authors": [
+"Anna Aizer",
+"Flavio Cunha"
+],
+"year": 2013,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Education, Medical Knowledge and the Evolution of Disparities in Health",
+"authors": [
+"Anna Aizer",
+"Laura Stroud"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Peer Effects and Human Capital Accumulation: the Externalities of ADD",
+"authors": [
+"Anna Aizer"
+],
+"year": 2009,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Parental Medicaid Expansions and Child Medicaid Coverage",
+"authors": [
+"Anna Aizer",
+"Jeffrey Grogger"
+],
+"year": 2003,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+}
+]
+},
+"jesse bruhn": {
+"name": "Jesse Bruhn",
+"papers": [
+{
+"title": "Community Engagement with Law Enforcement after High-profile Acts of Police Violence",
+"authors": [
+"Jesse Bruhn",
+"Desmond Ang",
+"Panka Bencsik",
+"Ellora Derenoncourt"
+],
+"year": 2025,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "The Effect of Combat Deployments on Veterans' Outcomes",
+"authors": [
+"Jesse Bruhn",
+"Kyle Greenberg",
+"Matthew Gudgeon",
+"Evan Rose",
+"Yotam Shem-Tov"
+],
+"year": 2024,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Regulatory Arbitrage in Teacher Hiring and Retention: Evidence from Massachusetts Charter Schools",
+"authors": [
+"Jesse Bruhn",
+"Scott Imberman",
+"Marcus Winters"
+],
+"year": 2022,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Professional Development at Scale: The Causal Effect of Obtaining an SEI Endorsement Under Massachusetts' RETELL Initiative",
+"authors": [
+"Jesse Bruhn",
+"Nathan Jones",
+"Yasuko Kanno",
+"Marcus Winters"
+],
+"year": 2022,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Path Dependence in the Labor Market: the Long-run Effects of Early Career Occupational Experience",
+"authors": [
+"Jesse Bruhn",
+"Jake Fabian",
+"Luke Gallagher",
+"Matthew Gudgeon",
+"Adam Isen",
+"Aaron Phipps"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Who Benefits from Remote Schooling? Self Selection and Match Effects",
+"authors": [
+"Jesse Bruhn",
+"Christopher Campos",
+"Eric Chyn",
+"Anh Tran"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "The Consequences of Sorting for Measuring Educational Quality",
+"authors": [
+"Jesse Bruhn"
+],
+"year": null,
+"venue": "American Economic Journal: Applied",
+"status": "revise_resubmit"
+},
+{
+"title": "Who Chooses and Who Benefits? The Design of Public School Choice Systems",
+"authors": [
+"Jesse Bruhn",
+"Christopher Campos",
+"Eric Chyn",
+"Antonia Vazquez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Test Scores Misrepresent Test Results? An Item-by-Item Analysis",
+"authors": [
+"Jesse Bruhn",
+"Michael Gilraine",
+"Jens Ludwig",
+"Sendhil Mullainathan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Gender Composition and Group Behavior: Evidence from US City Councils",
+"authors": [
+"Jesse Bruhn",
+"Emilia Brito",
+"Thea How-Choon",
+"Anna Weber"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Competition in the Black Market: Estimating the Causal Effect of Gangs in Chicago",
+"authors": [
+"Jesse Bruhn"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Crime and Public Housing: A General Equilibrium Analysis",
+"authors": [
+"Jesse Bruhn"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Policing for Profit? Evidence from Post-Ferguson Reforms in Missouri",
+"authors": [
+"Jesse Bruhn",
+"Brian Knight",
+"Nathan Schiff"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Are Schools More than a Collection of Teachers? Joint Estimation of School and Teacher Value-Added",
+"authors": [
+"Jesse Bruhn",
+"Isaac Opper",
+"Sai Pitre"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When Lottery Losers Still Win: Magnet Schools with Close Substitutes",
+"authors": [
+"Jesse Bruhn",
+"Christopher Campos",
+"Eric Chyn",
+"Ishira Shrivatsa"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Lottery Evidence on the Impact of Preschool in the United States",
+"authors": [
+"Jesse Bruhn",
+"Emily Emick"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"kenneth chay": {
+"name": "Kenneth Chay",
+"papers": []
+},
+"pedro dal bo": {
+"name": "Pedro Dal Bó",
+"papers": [
+{
+"title": "The Evolutionary Robustness of Forgiveness and Cooperation",
+"authors": [
+"Pedro Dal Bo",
+"Enrique Pujals"
+],
+"year": 2012,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Economic Outcomes of Native Groups in Argentina",
+"authors": [
+"Pedro Dal Bo",
+"Carolina Lopez"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"geoffroy de clippel": {
+"name": "Geoffroy de Clippel",
+"papers": [
+{
+"title": "Communication, Perception and Strategic Obfuscation",
+"authors": [
+"Geoffroy de Clippel",
+"Kareen Rozen"
+],
+"year": null,
+"venue": "Journal of Economic Theory",
+"status": "revise_resubmit"
+},
+{
+"title": "Departures from Preference Maximization and Violations of the Sure-Thing Principle",
+"authors": [
+"Geoffroy de Clippel"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Which Performs Best? Comparing Discrete-Choice Models",
+"authors": [
+"Geoffroy de Clippel",
+"Kareen Rozen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Egalitarianism in Mechanism Design",
+"authors": [
+"Geoffroy de Clippel"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bargaining, Coalitions, and Externalities: a Comment on Maskin",
+"authors": [
+"Geoffroy de Clippel",
+"Roberto Serrano"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Rational-ish",
+"authors": [
+"Geoffroy de Clippel",
+"Toru Kitagawa",
+"Kareen Rozen",
+"Marco Stenborg Petterson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Caution in the Face of Complexity",
+"authors": [
+"Geoffroy de Clippel",
+"Paola Moscariello",
+"Pietro Ortoleva",
+"Kareen Rozen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pronouncements in Repeated Games",
+"authors": [
+"Geoffroy de Clippel",
+"Kareen Rozen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"paula donaldson": {
+"name": "Paula Donaldson",
+"papers": [
+{
+"title": "Cross-sectional Identification with Heterogeneous Exposure to GE Effects",
+"authors": [
+"Paula Donaldson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why Are Some Recoveries Weak and Others Strong?",
+"authors": [
+"Paula Donaldson",
+"Johannes Wieland"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Financial Channel of Tax Amnesty Policies",
+"authors": [
+"Paula Donaldson",
+"Federico Bernini",
+"Ezequiel Garcia-Lembergman",
+"Leticia Juarez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Place-Based Policy for National Welfare",
+"authors": [
+"Paula Donaldson",
+"Fabian Trottner",
+"Rowan Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"gauti eggertsson": {
+"name": "Gauti Eggertsson",
+"papers": [
+{
+"title": "The Zero Interest-Rate Bound and Optimal Monetary Policy",
+"authors": [
+"Gauti Eggertsson",
+"Michael Woodford"
+],
+"year": 2003,
+"venue": "Brookings Papers on Economic Activity",
+"status": "published"
+},
+{
+"title": "Policy Options in a Liquidity trap",
+"authors": [
+"Gauti Eggertsson",
+"Michael Woodford"
+],
+"year": 2004,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Optimal Monetary and Fiscal Policy in a Liquidity Trap",
+"authors": [
+"Gauti Eggertsson",
+"Michael Woodford"
+],
+"year": 2004,
+"venue": "NBER International Seminar on Macroeconomics",
+"status": "published"
+},
+{
+"title": "The Deflation Bias and Committing to being Irresponsible",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2006,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "The Mistake of 1937: A General Equilibrium Analysis",
+"authors": [
+"Gauti Eggertsson",
+"Benjamin Pugsley"
+],
+"year": 2006,
+"venue": "Monetary and Economic Studies",
+"status": "published"
+},
+{
+"title": "Great Expectations and the End of the Depression",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2008,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "A Political Agency Theory of Central Bank Independence",
+"authors": [
+"Gauti Eggertsson",
+"B. Le Borgne"
+],
+"year": 2010,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "What Fiscal Policy is Effective at Zero Interest Rates?",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2010,
+"venue": "NBER Macroeconomics Annual",
+"status": "published"
+},
+{
+"title": "Was the New Deal Contractionary?",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2012,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo approach",
+"authors": [
+"Gauti Eggertsson",
+"Paul Krugman"
+],
+"year": 2012,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Deficits, Public Debt Dynamics and Tax and Spending Multipliers",
+"authors": [
+"Gauti Eggertsson",
+"Matthew Denes",
+"Sophia Gilbukh"
+],
+"year": 2013,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Can Structural Reforms Help Europe?",
+"authors": [
+"Gauti Eggertsson",
+"Andrea Ferrero",
+"Andrea Raffo"
+],
+"year": 2014,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Fiscal Policy, Public Debt and the World Crisis",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2014,
+"venue": "German Economic Review",
+"status": "published"
+},
+{
+"title": "Open Economy Dimension of Secular Stagnation",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2016,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "A Contagious Malady? Open Economy Dimensions of Secular Stagnation",
+"authors": [
+"Gauti Eggertsson",
+"Neil Mehrotra",
+"Sanjay Singh",
+"Lawrence Summers"
+],
+"year": 2016,
+"venue": "IMF Economic Review",
+"status": "published"
+},
+{
+"title": "The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities",
+"authors": [
+"Gauti Eggertsson",
+"Marco Del Negro",
+"Andrea Ferrero",
+"Nobuhiro Kiyotaki"
+],
+"year": 2017,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Rise, Fall and Resurrection of Iceland: A Post-mortem of the 2008 Financial Crisis",
+"authors": [
+"Gauti Eggertsson",
+"Sigridur Benediktsdottir",
+"Eggert Thorarinsson"
+],
+"year": 2017,
+"venue": "Brookings Papers on Economic Activity",
+"status": "published"
+},
+{
+"title": "Is Increased Price Flexibility Stabilizing (Redux)?",
+"authors": [
+"Gauti Eggertsson",
+"Saroj Bhattarai",
+"Raphael Schoenle"
+],
+"year": 2018,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "A Model of Secular Stagnation: Theory and Quantitative Evaluation",
+"authors": [
+"Gauti Eggertsson",
+"Neil Mehrotra",
+"Jacob Robbins"
+],
+"year": 2019,
+"venue": "American Economic Journal: Macroeconomics",
+"status": "published"
+},
+{
+"title": "Sticky Prices Versus Sticky Information: Does it Matter for Policy Paradoxes?",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2019,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Log-linear approximation versus an exact solution at the ZLB in the New Keynesian model",
+"authors": [
+"Gauti Eggertsson",
+"Sanjay Singh"
+],
+"year": 2019,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Aging, Output Per Capita, and Secular Stagnation",
+"authors": [
+"Gauti Eggertsson",
+"Manuel Lancastre",
+"Lawrence H. Summers"
+],
+"year": 2019,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "Dynamic Debt Deleveraging and Optimal Monetary Policy",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2020,
+"venue": "American Economic Journal: Macroeconomics",
+"status": "published"
+},
+{
+"title": "A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration",
+"authors": [
+"Gauti Eggertsson",
+"Egiev",
+"Lin",
+"Platzer",
+"Riva"
+],
+"year": 2021,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Medium-Term Money Neutrality and the Effective Lower Bound",
+"authors": [
+"Gauti Eggertsson",
+"Marc Giannoni"
+],
+"year": 2021,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States",
+"authors": [
+"Gauti Eggertsson",
+"Ella G. Wold",
+"Jacob Robbins"
+],
+"year": 2021,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing",
+"authors": [
+"Gauti Eggertsson",
+"Saroj Bhattarai",
+"Bulat Gafarov"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Negative Nominal Interest Rates and the Bank Lending Channel",
+"authors": [
+"Gauti Eggertsson",
+"Ragnar Juelsrud",
+"Lawrence H. Summers",
+"Ella G. Wold"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "A Unified Theory of the Great Depression and the Great Recession",
+"authors": [
+"Gauti Eggertsson",
+"Egiev"
+],
+"year": null,
+"venue": "Journal of Economic Literature",
+"status": "revise_resubmit"
+},
+{
+"title": "Mr. Keynes and the Classics; A Suggested Reinterpretation",
+"authors": [
+"Gauti Eggertsson",
+"Cosimo Petracchi"
+],
+"year": 2021,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Paradox of Toil",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2010,
+"venue": "Federal Reserve Bank of New York Staff Report",
+"status": "working_paper"
+},
+{
+"title": "A Bayesian Approach to Estimating Tax and Spending Multipliers",
+"authors": [
+"Gauti Eggertsson",
+"Matthew Denes"
+],
+"year": 2009,
+"venue": "Federal Reserve Bank of New York Staff Report",
+"status": "working_paper"
+},
+{
+"title": "Optimal Time-Consistent Monetary Policy in the New Keynesian Model with Repeated Simultaneous Play",
+"authors": [
+"Gauti Eggertsson",
+"Eric T. Swanson"
+],
+"year": 2008,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Excess Liquidity Pose a Threat in Japan?",
+"authors": [
+"Gauti Eggertsson",
+"Jonathan Ostry"
+],
+"year": 2005,
+"venue": "IMF Policy Discussion Paper",
+"status": "working_paper"
+},
+{
+"title": "How to Fight Deflation at Zero Nominal Interest Rates: Committing to Being Irresponsible",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2003,
+"venue": "IMF Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Real Government Spending in a Liquidity Trap",
+"authors": [
+"Gauti Eggertsson"
+],
+"year": 2001,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"jack fanning": {
+"name": "Jack Fanning",
+"papers": [
+{
+"title": "Reputational bargaining and deadlines",
+"authors": [
+"Jack Fanning"
+],
+"year": 2016,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "No compromise: uncertain costs in reputational bargaining",
+"authors": [
+"Jack Fanning"
+],
+"year": 2018,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Finding cooperators: Sorting through repeated interaction",
+"authors": [
+"Jack Fanning",
+"M. Bernard",
+"S. Yuksel"
+],
+"year": 2018,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Mediation in reputational bargaining",
+"authors": [
+"Jack Fanning"
+],
+"year": 2021,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "An experimental test of the Coase conjecture: fairness in dynamic bargaining",
+"authors": [
+"Jack Fanning",
+"A. Kloosterman"
+],
+"year": 2022,
+"venue": "RAND Journal of Economics",
+"status": "published"
+},
+{
+"title": "Bargaining over contingent contracts under incomplete information",
+"authors": [
+"Jack Fanning",
+"Geoffroy de Clippel",
+"Kareen Rozen"
+],
+"year": 2022,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Fairness and the Coase conjecture",
+"authors": [
+"Jack Fanning"
+],
+"year": 2022,
+"venue": "JOEP",
+"status": "published"
+},
+{
+"title": "Optimal dynamic mediation",
+"authors": [
+"Jack Fanning"
+],
+"year": 2023,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Outside options, reputation and the partial success of the Coase conjection",
+"authors": [
+"Jack Fanning"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "forthcoming"
+},
+{
+"title": "Reputation and competitive selection",
+"authors": [
+"Jack Fanning",
+"J. Deb"
+],
+"year": null,
+"venue": "American Economic Journal: Microeconomics",
+"status": "revise_resubmit"
+},
+{
+"title": "Searching for surplus",
+"authors": [
+"Jack Fanning",
+"M. Ekmekci"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Optimal Stake Design in Dynamic Preemption Games with Reputation",
+"authors": [
+"Jack Fanning",
+"M. Ekmekci"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"andrew foster": {
+"name": "Andrew Foster",
+"papers": [
+{
+"title": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2022,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Thirty-five years later: Long-term effects of the Matlab maternal and child health/family planning program on older women's well-being",
+"authors": [
+"T. Barham",
+"B. Champion",
+"A.D. Foster",
+"J.D. Hamadani",
+"W.C. Jochem",
+"G. Kagy",
+"R.L. Kuhn",
+"J. Menken",
+"A. Razzaque",
+"E.D. Root",
+"P.S. Turner"
+],
+"year": 2021,
+"venue": "Proceedings of the National Academy of Sciences",
+"status": "published"
+},
+{
+"title": "Income Segregation: Up or Down, and for Whom?",
+"authors": [
+"J.R. Logan",
+"A.D. Foster",
+"H. Xu",
+"W. Zhang"
+],
+"year": 2020,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "Long-term exposure to indoor air pollution and risk of tuberculosis",
+"authors": [
+"V. Patel",
+"A.D. Foster",
+"A. Salem",
+"A. Kumar",
+"V. Kumar",
+"B. Biswa",
+"M. Mirsaeidi",
+"N. Kumar"
+],
+"year": 2020,
+"venue": "Indoor Air",
+"status": "published"
+},
+{
+"title": "Identity, Trust and Altruism: An Experiment on Preferences and Microfinance Lending",
+"authors": [
+"J. Chen",
+"A.D. Foster",
+"L. Putterman"
+],
+"year": 2019,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "The effect of political control on financial performance, structure, and outcomes of US nursing homes",
+"authors": [
+"C.R. Blankart",
+"A.D. Foster",
+"V. Mor"
+],
+"year": 2019,
+"venue": "Health Services Research",
+"status": "published"
+},
+{
+"title": "The Uptick in Income Segregation: Real Trend or Random Sampling Variation?",
+"authors": [
+"J. Logan",
+"A. Foster",
+"J. Ke",
+"F. Li"
+],
+"year": 2018,
+"venue": "American Journal of Sociology",
+"status": "forthcoming"
+},
+{
+"title": "Reducing Hospital Readmissions Through Preferred Networks Of Skilled Nursing Facilities",
+"authors": [
+"J.P. McHugh",
+"A. Foster",
+"V. Mor",
+"R.R. Shield",
+"A.N. Trivedi",
+"T. Wetle",
+"J.S. Zinn",
+"D.A. Tyler"
+],
+"year": 2017,
+"venue": "Health Affairs",
+"status": "published"
+},
+{
+"title": "Delhi's Air Pollution-(Re) distribution and Air Quality Regulations",
+"authors": [
+"N. Kumar",
+"M. Linderman",
+"A.D. Chu",
+"T. Buda",
+"S. Tripathi",
+"A.D. Foster",
+"D. Liang"
+],
+"year": 2016,
+"venue": "Environmental Policy and Law",
+"status": "published"
+},
+{
+"title": "Research Opportunities in Emerging Markets: An Interdisciplinary Perspective from Marketing, Economics, and Psychology.",
+"authors": [
+"K. Sudhir",
+"J. Priester",
+"M. Shum",
+"D. Atkin",
+"A. Foster",
+"G. Iyer",
+"G. Jin",
+"D. Keniston",
+"S. Kitayama",
+"M. Mobarak",
+"Y. Qian",
+"I. Tewari",
+"W. Wood"
+],
+"year": 2015,
+"venue": "Customer Needs and Solutions",
+"status": "published"
+},
+{
+"title": "Staffing Subsidies and the Quality of Care in Nursing Homes",
+"authors": [
+"A.D. Foster",
+"Y.S. Lee"
+],
+"year": 2015,
+"venue": "Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Racial Segregation and the Quality of Care: Disparity in US Nursing Homes",
+"authors": [
+"A.D. Foster",
+"M. Rahman"
+],
+"year": 2015,
+"venue": "Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Effect of hospital-SNF Referral Linkages on Rehospitalization",
+"authors": [
+"M. Rahman",
+"A.D. Foster",
+"D.C. Grabowski",
+"J.S. Zinn",
+"V. Mor"
+],
+"year": 2013,
+"venue": "Health Services Research",
+"status": "published"
+},
+{
+"title": "Environmental Intervetions and Air Pollution (Re) distribution in Delhi, India",
+"authors": [
+"N. Kumar",
+"M. Lindeman",
+"A. Chu",
+"S. Tripathi",
+"A.D. Foster",
+"D. Liang"
+],
+"year": 2014,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Creating Good Employment Opportunities for the Rural Sector",
+"authors": [
+"A.D. Foster"
+],
+"year": 2012,
+"venue": "Asian Development Review",
+"status": "published"
+},
+{
+"title": "Health Effects of Air Quality Regulations in Delhi, India",
+"authors": [
+"A.D. Foster",
+"N. Kumar"
+],
+"year": 2011,
+"venue": "Atmospheric Environment",
+"status": "published"
+},
+{
+"title": "Satellite Remote Sensing for Developing Time and Space Resolved Estimates of Ambient Particulate in Cleveland, OH",
+"authors": [
+"N. Kumar",
+"A.D. Foster",
+"A. Chu",
+"T. Peters",
+"R. Willis"
+],
+"year": 2011,
+"venue": "Aerosol Science & Technology",
+"status": "published"
+},
+{
+"title": "A randomized trial of the impact of survey design characteristics on response rates among nursing home providers",
+"authors": [
+"M. Clark"
+],
+"year": 2011,
+"venue": "Evaluation and the Health Professions",
+"status": "published"
+},
+{
+"title": "Do Medicaid wage pass-through payments increase nursing home staffing?",
+"authors": [
+"Z. Feng",
+"Y.S. Lee",
+"S. Kuo",
+"O. Intrator",
+"A. Foster",
+"V. Mor"
+],
+"year": 2010,
+"venue": "Health Services Research",
+"status": "published"
+},
+{
+"title": "Microeconomics of Technology Adoption",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2010,
+"venue": "Annual Review of Economics",
+"status": "published"
+},
+{
+"title": "Institutions and Behavior: Experimental Evidence on the Effects of Democracy",
+"authors": [
+"P. Dalbo",
+"A.D. Foster",
+"L. Putterman"
+],
+"year": 2010,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Air Quality Interventions and Spatial Dynamics of Air Pollution in Delhi and its Surroundings",
+"authors": [
+"N. Kumar",
+"A.D. Foster"
+],
+"year": 2009,
+"venue": "International Journal of Environment and Waste Management",
+"status": "published"
+},
+{
+"title": "Have CNG regulations in Delhi done their job?",
+"authors": [
+"N. Kumar",
+"A.D. Foster"
+],
+"year": 2008,
+"venue": "Economic and Political Weekly",
+"status": "published"
+},
+{
+"title": "Remote Sensing of Ambient Particles in Delhi and its Environs: Estimation and Validation",
+"authors": [
+"N. Kumar",
+"A. Chu",
+"A.D. Foster"
+],
+"year": 2008,
+"venue": "International Journal of Remote Sensing",
+"status": "published"
+},
+{
+"title": "An empirical relationship between PM2.5 and aerosol optical depth in Delhi Metropolitan",
+"authors": [
+"N. Kumar",
+"A. Chu",
+"A.D. Foster"
+],
+"year": 2007,
+"venue": "Atmospheric Environment",
+"status": "published"
+},
+{
+"title": "Does Economic Growth Reduce Fertility: Rural India 1971-99",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2006,
+"venue": "India Policy Forum",
+"status": "published"
+},
+{
+"title": "Agricultural Productivity Growth, Rural Economic Diversity, and Economic Reforms: India, 1970-2000",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2004,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Technological Change and the Distribution of Schooling: Evidence from Green-Revolution India",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2004,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Economic Growth and the Rise of Forests",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2003,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Household Division, Inequality and Rural Economic Growth",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2002,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Receiving help at home: The interplay of human and technological assistance",
+"authors": [
+"S.M. Allen",
+"A.D. Foster",
+"K. Berg"
+],
+"year": 2001,
+"venue": "Journal of Gerontology: Social Sciences",
+"status": "published"
+},
+{
+"title": "Imperfect Commitment, Altruism, and the Family: Evidence from Transfer Behavior in Low-Income Rural Areas",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 2001,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "A consistent semiparametric estimation of the consumer surplus distribution",
+"authors": [
+"A.D. Foster",
+"J. Hahn"
+],
+"year": 2000,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Women's Schooling, Home Teaching, and Economic Growth",
+"authors": [
+"J. Behrman",
+"A.D. Foster",
+"M.R. Rosenzweig",
+"P. Vashishtha"
+],
+"year": 1999,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Reconstructing the Size of the African-American Population by Age and Sex: 1930-1990",
+"authors": [
+"S. Preston",
+"I. Elo",
+"H. Fu",
+"A.D. Foster"
+],
+"year": 1997,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "The Dynamics of Agricultural Production and the Calorie-Income Relationship: Evidence from Pakistan",
+"authors": [
+"J. Behrman",
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1997,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Dynamic Savings Decisions in Agricultural Environments with Incomplete Markets",
+"authors": [
+"J. Behrman",
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1997,
+"venue": "Journal of Business and Economic Statistics",
+"status": "published"
+},
+{
+"title": "Technical Change and Human Capital Returns and Investments: Evidence from the Green Revolution",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1996,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Comparative Advantage, Information and the Allocation of Workers to Tasks: Evidence from an Agricultural Labor Market",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1996,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1995,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Prices, Credit Constraints, and Child Growth in Rural Bangladesh",
+"authors": [
+"A.D. Foster"
+],
+"year": 1995,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "A Test for Moral Hazard in the Labor Market: Effort, Health and Calorie Consumption",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1994,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Information, Learning, and Wage Rates in Rural Labor Markets",
+"authors": [
+"A.D. Foster",
+"M.R. Rosenzweig"
+],
+"year": 1994,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Household Partition in Rural Bangladesh",
+"authors": [
+"A.D. Foster"
+],
+"year": 1993,
+"venue": "Population Studies",
+"status": "published"
+}
+]
+},
+"john friedman": {
+"name": "John Friedman",
+"papers": [
+{
+"title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Nathan Hendren",
+"Maggie R. Jones",
+"Sonya R. Porter"
+],
+"year": 2018,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Explaining Geographic Differences in Young Disability Insurance Rates",
+"authors": [
+"John Friedman",
+"Maxwell Kellogg",
+"Ithai Lurie",
+"Magne Mogstad"
+],
+"year": 2018,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Optimal Gerrymandering in a Competitive Environment",
+"authors": [
+"John Friedman",
+"Richard Holden"
+],
+"year": 2020,
+"venue": "Economic Theory Bulletin",
+"status": "published"
+},
+{
+"title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+"authors": [
+"John Friedman"
+],
+"year": 2020,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "A Practical Method to Reduce Privacy Loss when Disclosing Statistics Based on Small Samples",
+"authors": [
+"John Friedman",
+"Raj Chetty"
+],
+"year": 2019,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Measuring the Impacts of Teachers: Reply to Rothstein",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Jonah Rockoff"
+],
+"year": 2017,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Using Lagged Outcomes to Evaluate Bias in Value-Added Models",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Jonah Rockoff"
+],
+"year": 2016,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Identification and Inference with Many Invalid Instruments",
+"authors": [
+"John Friedman",
+"Michal Kolesar",
+"Raj Chetty",
+"Edward Glaeser",
+"Guido Imbens"
+],
+"year": 2015,
+"venue": "Journal of Business and Economic Statistics",
+"status": "published"
+},
+{
+"title": "Measuring the Impacts of Teachers II: Teacher Value-Added and Students Outcomes in Adulthood",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Jonah Rockoff"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Measuring the Impacts of Teacher I: Evaluating Bias in Teacher Value-Added Estimates",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Jonah Rockoff"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Active vs. Passive Decisions and Crowd-out in Retirement Savings Accounts: Evidence from Denmark",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Soren Leth-Petersen",
+"Torben Heien Nielsen",
+"Tore Olsen"
+],
+"year": 2014,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Using Differences in Knowledge Across Neighborhood to Uncover the Impacts of the EITC on Earnings",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Emmanuel Saez"
+],
+"year": 2013,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "How Does Your Kindergarten Classroom Affect Your Earnings? Evidence from Project STAR",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Nate Hilger",
+"Emmanuel Saez",
+"Diane Schanzenbach",
+"Danny Yagan"
+],
+"year": 2011,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Adjustment Costs, Firm Responses, and Micro vs. Macro Labor Supply Elasticities: Evidence from Danish Tax Records",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Tore Olsen",
+"Luigi Pistaferri"
+],
+"year": 2011,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Performance Improvement and Performance Dysfunction: An Empirical Examination of Distortionary Impacts of the Emergency Room Wait-Time Target in the English National Health Service",
+"authors": [
+"John Friedman",
+"Steve Kelman"
+],
+"year": 2009,
+"venue": "Journal of Public Administration Research and Theory",
+"status": "published"
+},
+{
+"title": "The Rising Incumbent Advantage: What's Gerrymandering Got To Do With It?",
+"authors": [
+"John Friedman",
+"Richard Holden"
+],
+"year": 2009,
+"venue": "Journal of Politics",
+"status": "published"
+},
+{
+"title": "Optimal Gerrymandering: Sometimes Pack but Never Crack",
+"authors": [
+"John Friedman",
+"Richard Holden"
+],
+"year": 2008,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+"authors": [
+"John Friedman",
+"Raj Chetty",
+"Michael Stepner",
+"Opportunity Insights Team"
+],
+"year": 2023,
+"venue": "Quarterly Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "Building on What Works: A Proposal to Modernize Retirement Savings",
+"authors": [
+"John Friedman"
+],
+"year": 2015,
+"venue": "The Hamilton Project, Discussion Paper",
+"status": "working_paper"
+},
+{
+"title": "The Incidence of the Medicare Prescription Drug Benefit: Using Asset Prices to Assess its Impact on Drug Makers",
+"authors": [
+"John Friedman"
+],
+"year": 2011,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Effort As Investment: Analyzing the Response to Incentives",
+"authors": [
+"John Friedman",
+"Steven Kelman"
+],
+"year": 2011,
+"venue": "AEJ: Public Policy",
+"status": "revise_resubmit"
+}
+]
+},
+"alexandre gaillard": {
+"name": "Alexandre Gaillard",
+"papers": [
+{
+"title": "Extreme Poverty in Wealthy Nations: Evidence from France",
+"authors": [
+"Alexandre Gaillard",
+"C. Bruneel Zupanc",
+"C. Hellwig",
+"P. Wangner",
+"N. Werquin"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Consumption, Wealth, and Income Inequality: A Tale of Tails",
+"authors": [
+"Alexandre Gaillard",
+"C. Hellwig",
+"P. Wangner",
+"N. Werquin"
+],
+"year": 2024,
+"venue": "Quarterly Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Inequality, Business Cycles, and Growth: A Unified Theory of Fiscal Stabilization Policies",
+"authors": [
+"Alexandre Gaillard",
+"P. Wangner"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Savings Wedge",
+"authors": [
+"Alexandre Gaillard",
+"W. Morrison",
+"P. Wangner"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unemployment Insurance Generosity and Self-Employment",
+"authors": [
+"Alexandre Gaillard",
+"S. Kankanamge"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Wealth, Returns, and Taxation: A Tale of Two Dependencies",
+"authors": [
+"Alexandre Gaillard",
+"P. Wangner"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Trade, Value Added, and Productivity Linkages: A Quantitative Analysis",
+"authors": [
+"Alexandre Gaillard",
+"F. de Soyres"
+],
+"year": 2026,
+"venue": "American Economic Journal: Macroeconomics",
+"status": "published"
+},
+{
+"title": "From Unemployment to Self-Employment: An Evaluation of the SEA Programs",
+"authors": [
+"Alexandre Gaillard",
+"S. Kankanamge"
+],
+"year": 2026,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "Supply Disruptions and Fiscal Stimulus: Transmission through Global Value Chains",
+"authors": [
+"Alexandre Gaillard",
+"F. De Soyres",
+"A. M. Santacreu",
+"D. Moore"
+],
+"year": 2024,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Global Trade and GDP Comovement",
+"authors": [
+"Alexandre Gaillard",
+"F. de Soyres"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Partner Similarity and The Sectoral Evolution of China's Trade",
+"authors": [
+"Alexandre Gaillard",
+"E. Fisgin",
+"F. de Soyres",
+"A. M. Santacreu",
+"H. Young"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Wealth Dynamics and Serial Business Ownership",
+"authors": [
+"Alexandre Gaillard",
+"S. Kankanamge",
+"O. Karabulut"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Universal Basic Capital with a Social Wealth Fund",
+"authors": [
+"Alexandre Gaillard",
+"T. Lee"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Buying and Selling Business Assets",
+"authors": [
+"Alexandre Gaillard",
+"S. Kankanamge"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"oded galor": {
+"name": "Oded Galor",
+"papers": []
+},
+"amy handlan": {
+"name": "Amy Handlan",
+"papers": [
+{
+"title": "Gender Differences in Economics Seminars",
+"authors": [
+"Amy Handlan",
+"Pascaline Dupas",
+"Alicia Sasser Modestino",
+"Muriel Niederle",
+"Mateo Seré",
+"Haoyu Sheng",
+"Justin Wolfers"
+],
+"year": 2026,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Reputation for Confidence",
+"authors": [
+"Amy Handlan",
+"Laura Gáti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Monetary Communication Rules",
+"authors": [
+"Amy Handlan",
+"Laura Gáti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Text Shocks and Monetary Surprises: Text Analysis of FOMC Statements with Machine Learning",
+"authors": [
+"Amy Handlan"
+],
+"year": 2022,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "FedSpeak Matters: Statement Similarity and Monetary Policy Expectations",
+"authors": [
+"Amy Handlan",
+"Laura Acevedo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Government-Directed R&D and Innovation: Evidence from NASA Budget Requests",
+"authors": [
+"Amy Handlan",
+"Ethan Ilzetzki",
+"Réka Juhász"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "FedSpeak Indicators",
+"authors": [
+"Amy Handlan",
+"Sara Canilang",
+"Amanda Michaud"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Hot off the Press: Newspaper Sentiment and Economic Fluctuations",
+"authors": [
+"Amy Handlan",
+"Jennifer La'O"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Joint Taxation and Labor Supply",
+"authors": [
+"Amy Handlan",
+"Ross Batzer"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Gender and Tone in Recorded Economics Presentations: Audio Analysis with Machine Learning",
+"authors": [
+"Amy Handlan",
+"Haoyu Sheng"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"peter hull": {
+"name": "Peter Hull",
+"papers": []
+},
+"sebnem kalemli ozcan": {
+"name": "Sebnem Kalemli-Ozcan",
+"papers": []
+},
+"toru kitagawa": {
+"name": "Toru Kitagawa",
+"papers": [
+{
+"title": "Identification-aware Markov chain Monte Carlo",
+"authors": [
+"Toru Kitagawa",
+"Yizhou Kuang"
+],
+"year": 2025,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Who with Whom? Learning Optimal Matching Policies",
+"authors": [
+"Toru Kitagawa",
+"Yagan Hazard"
+],
+"year": 2025,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Leave No One Undermined: Policy Targeting with Regret Aversion",
+"authors": [
+"Toru Kitagawa",
+"S. Lee",
+"C. Qiu"
+],
+"year": 2026,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Sewers and Urbanization in the Developing World",
+"authors": [
+"Toru Kitagawa",
+"S. McCulloch",
+"M. Schaelling",
+"M. Turner"
+],
+"year": 2025,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Dynamic Targeting: Experimental Evidence from Energy Rebate Programs",
+"authors": [
+"Toru Kitagawa",
+"T. Ida",
+"T. Ishihara",
+"K. Ito",
+"D. Kido",
+"S. Sakaguchi",
+"S. Sasaki"
+],
+"year": 2026,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "SVARs with breaks: Identification and inference",
+"authors": [
+"Toru Kitagawa",
+"E. Bacchiocchi"
+],
+"year": 2024,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Partially-Identified Heteroskedastic SVARs",
+"authors": [
+"Toru Kitagawa",
+"E. Bacchiocchi",
+"A. Bastianin",
+"E. Mirto"
+],
+"year": 2024,
+"venue": "Journal of Business Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Adaptive Experimental Design for Policy Learning",
+"authors": [
+"Toru Kitagawa",
+"M. Kato",
+"K. Okumura",
+"T. Ishihara"
+],
+"year": 2024,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Optimal Publication Rules for Evidence-Based Policy",
+"authors": [
+"Toru Kitagawa",
+"P. Vu"
+],
+"year": 2023,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Linear Regressions, Shorts to Long",
+"authors": [
+"Toru Kitagawa",
+"M. Sawada"
+],
+"year": 2023,
+"venue": "Institute of Economic Research, Hitotsubashi University",
+"status": "working_paper"
+},
+{
+"title": "Individualized Treatment Allocation in Sequential Network Games",
+"authors": [
+"Toru Kitagawa",
+"G. Wang"
+],
+"year": 2026,
+"venue": "Quantitative Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Stochastic Treatment Choice with Empirical Welfare Updating",
+"authors": [
+"Toru Kitagawa",
+"H. Lopéz",
+"J. Rowley"
+],
+"year": 2023,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Best Arm Identification with Contextual Information Under a Small Gap",
+"authors": [
+"Toru Kitagawa",
+"M. Kato",
+"M. Imaizumi",
+"T. Ishihara"
+],
+"year": 2023,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Policy Choice in Time-Series by Empirical Welfare Maximization",
+"authors": [
+"Toru Kitagawa",
+"W. Wang",
+"M. Xu"
+],
+"year": 2026,
+"venue": "Quantitative Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "von Mises-Fisher Distributions and Their Statistical Divergence",
+"authors": [
+"Toru Kitagawa",
+"J. Rowley"
+],
+"year": 2022,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Testing Instrument Validity with Covariates",
+"authors": [
+"Toru Kitagawa",
+"T. Carr"
+],
+"year": 2024,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Constrained Classification and Policy Learning",
+"authors": [
+"Toru Kitagawa",
+"S. Sakaguchi",
+"A. Tetenov"
+],
+"year": 2023,
+"venue": "arXiv",
+"status": "working_paper"
+},
+{
+"title": "Identification and Inference under Narrative Restrictions",
+"authors": [
+"Toru Kitagawa",
+"R. Giacomini",
+"M. Read"
+],
+"year": 2023,
+"venue": "Review of Economic Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "On Global Identification in Structural Vector Autoregressions",
+"authors": [
+"Toru Kitagawa",
+"E. Bacchiocchi"
+],
+"year": 2026,
+"venue": "Econometrics Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Locally- but not Globally-Identified SVARs",
+"authors": [
+"Toru Kitagawa",
+"E. Bacchiocchi"
+],
+"year": 2026,
+"venue": "Journal of Econometrics",
+"status": "revise_resubmit"
+},
+{
+"title": "Estimation under Ambiguity",
+"authors": [
+"Toru Kitagawa",
+"R. Giacomini",
+"H. Uhlig"
+],
+"year": 2019,
+"venue": "Cemmap working paper",
+"status": "working_paper"
+},
+{
+"title": "Measurement Error and Rank Correlations",
+"authors": [
+"Toru Kitagawa",
+"M. Nybom",
+"J. Stuhler"
+],
+"year": 2018,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "Intersection Bounds, Robust Bayes, and Updating Ambiguous Beliefs",
+"authors": [
+"Toru Kitagawa"
+],
+"year": 2011,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Testing for Instrument Independence in the Selection Model",
+"authors": [
+"Toru Kitagawa"
+],
+"year": 2010,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"brian knight": {
+"name": "Brian Knight",
+"papers": [
+{
+"title": "Supermajority Voting Requirements for Tax Increases: Evidence from the States",
+"authors": [
+"Brian Knight"
+],
+"year": 2000,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Endogenous Federal Grants and Crowd-Out of State Government Spending: Theory and Evidence from the Federal Highway Aid Program",
+"authors": [
+"Brian Knight"
+],
+"year": 2002,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Parochial Interests and the Centralized Provision of Local Public Goods: Evidence from Congressional Voting on Transportation Projects",
+"authors": [
+"Brian Knight"
+],
+"year": 2004,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Estimating the Value of Proposal Power",
+"authors": [
+"Brian Knight"
+],
+"year": 2005,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Are Policy Platforms Capitalized into Equity Prices? Evidence from the Bush / Gore 2000 Presidential Election",
+"authors": [
+"Brian Knight"
+],
+"year": 2006,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Socially Optimal Districting: A Theoretical and Empirical Exploration",
+"authors": [
+"Brian Knight",
+"Stephen Coate"
+],
+"year": 2007,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Legislative Representation, Bargaining Power and the Distribution of Federal Funds: Evidence from the U.S. Senate",
+"authors": [
+"Brian Knight"
+],
+"year": 2008,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "The Effects of School District Consolidation on Educational Cost and Quality",
+"authors": [
+"Brian Knight",
+"Nora Gordon"
+],
+"year": 2008,
+"venue": "Public Finance Review",
+"status": "published"
+},
+{
+"title": "A New Look at Racial Profiling: Evidence from the Boston Police Department",
+"authors": [
+"Brian Knight",
+"Kate Antonovics"
+],
+"year": 2009,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "A Spatial Merger Estimator with an Application to School District Consolidation",
+"authors": [
+"Brian Knight",
+"Nora Gordon"
+],
+"year": 2009,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Pet Overpopulation: An Economic Analysis",
+"authors": [
+"Brian Knight",
+"Stephen Coate"
+],
+"year": 2010,
+"venue": "The B.E. Journal of Economic Analysis & Policy",
+"status": "published"
+},
+{
+"title": "Momentum and Social Learning in Presidential Primaries",
+"authors": [
+"Brian Knight",
+"Nathan Schiff"
+],
+"year": 2010,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Media Bias and Influence: Evidence from Newspaper Endorsements",
+"authors": [
+"Brian Knight",
+"Chun-Fang Chiang"
+],
+"year": 2011,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Government Form and Public Spending: Theory and Evidence from U.S. Cities",
+"authors": [
+"Brian Knight",
+"Stephen Coate"
+],
+"year": 2011,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Partisan Control, Media Bias, and Viewer Responses: Evidence from Berlusconi's Italy",
+"authors": [
+"Brian Knight",
+"Ruben Durante"
+],
+"year": 2012,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Spatial Competition and Cross-Border Shopping: Evidence from State Lotteries",
+"authors": [
+"Brian Knight",
+"Nathan Schiff"
+],
+"year": 2012,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "State Gun Policy and Cross-State Externalities: Evidence from Crime Gun Tracing",
+"authors": [
+"Brian Knight"
+],
+"year": 2013,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "On the Selection of Arbitrators",
+"authors": [
+"Brian Knight",
+"Geoffroy de Clippel",
+"Kfir Eliaz"
+],
+"year": 2014,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Sequential or Simultaneous Elections? An Empirical Welfare Analysis",
+"authors": [
+"Brian Knight",
+"Patrick Hummell"
+],
+"year": 2015,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Market-Based Lobbying: Evidence from Advertising Spending in Italy",
+"authors": [
+"Brian Knight",
+"Stefano DellaVigna",
+"Ruben Durante",
+"Eliana La Ferrara"
+],
+"year": 2016,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Homophily, Group Size, and the Diffusion of Political Information in Social Networks: Evidence from Twitter",
+"authors": [
+"Brian Knight",
+"Yosh Halberstam"
+],
+"year": 2016,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "An Econometric Evaluation of Competing Explanations for the Midterm Gap",
+"authors": [
+"Brian Knight"
+],
+"year": 2017,
+"venue": "Quarterly Journal of Political Science",
+"status": "published"
+},
+{
+"title": "The Out-of-State Tuition Distortion",
+"authors": [
+"Brian Knight",
+"Nathan Schiff"
+],
+"year": 2019,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "The Limits of Propaganda: Evidence from Venezuela",
+"authors": [
+"Brian Knight",
+"Ana Maria Tribin"
+],
+"year": 2019,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Advertising Spending and Media Bias: Evidence from News Coverage of Car Safety Recalls",
+"authors": [
+"Brian Knight",
+"Graham Beattie",
+"Ruben Durante",
+"Ananya Sen"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Reducing Frictions in College Admissions: Evidence from the Common Application",
+"authors": [
+"Brian Knight",
+"Nate Schiff"
+],
+"year": 2022,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Opposition Media, State Censorship, and Political Accountability: Evidence from Chavez's Venezuela",
+"authors": [
+"Brian Knight",
+"Ana Maria Tribin"
+],
+"year": 2022,
+"venue": "World Bank Economic Review",
+"status": "published"
+},
+{
+"title": "Immigration and Violent Crime: Evidence from the Colombia-Venezuela Border",
+"authors": [
+"Brian Knight",
+"Ana Tribin"
+],
+"year": 2023,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Crime and Gender Segregation: Evidence from the Bogota \"Pico y Genero\" Lockdown",
+"authors": [
+"Brian Knight",
+"Maria Mercedes Ponce de Leon",
+"Ana Tribin"
+],
+"year": null,
+"venue": "World Bank Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "The Franchise, Policing, and Race: Evidence from Arrests Data and the Voting Rights Act",
+"authors": [
+"Brian Knight",
+"Giovanni Facchini",
+"Cecilia Testa"
+],
+"year": 2025,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Vote early and vote often? Detecting Electoral Fraud from the Timing of 19th Century Elections",
+"authors": [
+"Brian Knight",
+"Francesco Ferlenga"
+],
+"year": 2025,
+"venue": "Journal of Public Economics",
+"status": "published"
+}
+]
+},
+"soonwoo kwon": {
+"name": "Soonwoo Kwon",
+"papers": [
+{
+"title": "Testing Mechanisms",
+"authors": [
+"Soonwoo Kwon",
+"Jonathan Roth"
+],
+"year": 2026,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Optimal Shrinkage Estimation of Fixed Effects in Linear Panel Data Models",
+"authors": [
+"Soonwoo Kwon"
+],
+"year": 2026,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "(Empirical) Bayes Approaches to Parallel Trends",
+"authors": [
+"Soonwoo Kwon",
+"Jonathan Roth"
+],
+"year": 2024,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Misspecified Moment Inequality Models: Inference and Diagnostics",
+"authors": [
+"Soonwoo Kwon",
+"Donald Andrews"
+],
+"year": 2024,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "The Identification Power of Smoothness Assumptions in Models with Counterfactual Outcomes",
+"authors": [
+"Soonwoo Kwon",
+"Wooyoung Kim",
+"Koohyun Kwon",
+"Sokbae Lee"
+],
+"year": 2018,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "International Trends in Technological Progress: Evidence from Patent Citations, 1980-2011",
+"authors": [
+"Soonwoo Kwon",
+"Jihong Lee",
+"Sokbae Lee"
+],
+"year": 2017,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Estimating Treatment Effects Under Bounded Heterogeneity",
+"authors": [
+"Soonwoo Kwon",
+"Liyang Sun"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Empirical Bayes Shrinkage (mostly) Does Not Correct the Measurement Error in Regression",
+"authors": [
+"Soonwoo Kwon",
+"Jiafeng Chen",
+"Jiaying Gu"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Extrapolation in Regression Discontinuity Design Using Comonotonicity",
+"authors": [
+"Soonwoo Kwon",
+"Ben Deaner"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bias-Aware Inference in Regularized Regression Models",
+"authors": [
+"Soonwoo Kwon",
+"Timothy Armstrong",
+"Michal Kolesr"
+],
+"year": 2023,
+"venue": "Quantitative Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Inference in Regression Discontinuity Designs under Monotonicity",
+"authors": [
+"Soonwoo Kwon",
+"Koohyun Kwon"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Adaptive Inference in Multivariate Nonparametric Regression Models Under Monotonicity",
+"authors": [
+"Soonwoo Kwon",
+"Koohyun Kwon"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"spencer kwon": {
+"name": "Spencer Kwon",
+"papers": [
+{
+"title": "Gambling for Goals",
+"authors": [
+"Spencer Kwon",
+"Costas Arkolakis",
+"Dominic Russel",
+"Claire Shi",
+"Hyunjoo Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Beliefs from Cues",
+"authors": [
+"Spencer Kwon",
+"John Conlon"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Investor Composition and Overreaction",
+"authors": [
+"Spencer Kwon",
+"Michael Blank",
+"Johnny Tang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Communication under Disagreement",
+"authors": [
+"Spencer Kwon",
+"Adi Sunderam"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Models in Finance, Theory and Experiments",
+"authors": [
+"Spencer Kwon",
+"Josh Schwartzstein",
+"Adi Sunderam"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Extreme Events and Overreaction to News",
+"authors": [
+"Spencer Kwon",
+"Johnny Tang"
+],
+"year": 2025,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "How People Use Statistics",
+"authors": [
+"Spencer Kwon",
+"Pedro Bordalo",
+"John Conlon",
+"Nicola Gennaioli",
+"Andrei Shleifer"
+],
+"year": 2025,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "100 Years of Rising Corporate Concentration",
+"authors": [
+"Spencer Kwon",
+"Yueran Ma",
+"Kaspar Zimmerman"
+],
+"year": 2024,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Overreaction in Expectations: Evidence and Theory",
+"authors": [
+"Spencer Kwon",
+"Hassan Afrouzi",
+"Augustin Landier",
+"Yueran Ma",
+"David Thesmar"
+],
+"year": 2023,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Memory and Probability",
+"authors": [
+"Spencer Kwon",
+"Pedro Bordalo",
+"John Conlon",
+"Nicola Gennaioli",
+"Andrei Shleifer"
+],
+"year": 2022,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+}
+]
+},
+"rafael la porta": {
+"name": "Rafael La Porta",
+"papers": [
+{
+"title": "Expectations of Fundamentals and Stock Market Puzzles",
+"authors": [
+"Rafael La Porta",
+"P. Bordalo",
+"N. Gennaioli",
+"Andrei Shleifer"
+],
+"year": 2022,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Belief Overreaction and Aggregate Fluctuations",
+"authors": [
+"Rafael La Porta",
+"P. Bordalo",
+"N. Gennaioli",
+"M. Obrien",
+"Andrei Shleifer"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"lorenzo lagos": {
+"name": "Lorenzo Lagos",
+"papers": [
+{
+"title": "Union Bargaining Power and the Amenity-Wage Tradeoff",
+"authors": [
+"Lorenzo Lagos"
+],
+"year": 2026,
+"venue": "American Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "Collective Bargaining for Women: How Unions Create Female-Friendly Jobs",
+"authors": [
+"Lorenzo Lagos",
+"Viola Corradini",
+"Garima Sharma"
+],
+"year": 2025,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Assortative Matching or Exclusionary Hiring? The Impact of Firm Policies on Racial Wage Differences in Brazil",
+"authors": [
+"Lorenzo Lagos",
+"François Gerard",
+"Edson Severnini",
+"David Card"
+],
+"year": 2021,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "What Do (Thousands of) Union Do? Union-Specific Pay Premia and Inequality",
+"authors": [
+"Lorenzo Lagos",
+"Ellora Derenoncourt",
+"François Gerard",
+"Claire Montialoux"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Minimum Wages and Informality",
+"authors": [
+"Lorenzo Lagos",
+"Ellora Derenoncourt",
+"François Gerard",
+"Claire Montialoux"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sham Unions: Evidence from the USMCA's Rapid Response Mechanism",
+"authors": [
+"Lorenzo Lagos",
+"Raquel Badillo Salas",
+"Jorge Pérez Pérez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Leading with Equality: Union Board Gender Representation and its Impact on Maternity Leave Take-up and Employment Trajectories",
+"authors": [
+"Lorenzo Lagos",
+"Raquel Badillo Salas",
+"Jorge Pérez Pérez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Union-Politics Pipeline",
+"authors": [
+"Lorenzo Lagos",
+"Ricardo Dahis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Racial Inequality, Minimum Wage Spillovers, and the Informal Sector",
+"authors": [
+"Lorenzo Lagos",
+"Ellora Derenoncourt",
+"François Gerard",
+"Claire Montialoux"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"elisa macchi": {
+"name": "Elisa Macchi",
+"papers": [
+{
+"title": "Hidden discrimination in frictional labor markets",
+"authors": [
+"Elisa Macchi",
+"Claude Raisaro"
+],
+"year": 2026,
+"venue": "BREAD Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Informal redistribution through work",
+"authors": [
+"Elisa Macchi",
+"Jeremia Stalder"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "forthcoming"
+},
+{
+"title": "Graduate student and faculty mental health: Evidence from European economics departments",
+"authors": [
+"Elisa Macchi",
+"Clara Sievert",
+"Paul Barreira",
+"Valentin Bolotnyy"
+],
+"year": 2026,
+"venue": "American Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Worth your weight: experimental evidence on the benefits of obesity in low-income countries.",
+"authors": [
+"Elisa Macchi"
+],
+"year": 2023,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "EU transfers and euroscepticism: can't buy me love?",
+"authors": [
+"Elisa Macchi",
+"A. Borin",
+"M. Mancini"
+],
+"year": 2021,
+"venue": "Economic Policy",
+"status": "published"
+},
+{
+"title": "The effects of large scale cash transfers on informal redistribution and firm growth",
+"authors": [
+"Elisa Macchi",
+"Dennis Egger",
+"Nicholas Swanson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Symptoms",
+"authors": [
+"Elisa Macchi",
+"Kevin Carney"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Attention, productivity, and phone use in poor countries",
+"authors": [
+"Elisa Macchi",
+"Rohini Pande",
+"Emma Riley",
+"Simone Schaner"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"teddy mekonnen": {
+"name": "Teddy Mekonnen",
+"papers": [
+{
+"title": "Luck Out or Outpay? Competing with a Public Option",
+"authors": [
+"Teddy Mekonnen"
+],
+"year": null,
+"venue": "American Economic Journal: Microeconomics",
+"status": "forthcoming"
+},
+{
+"title": "How to Segment a Search Market",
+"authors": [
+"Teddy Mekonnen"
+],
+"year": 2026,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Persuaded Search",
+"authors": [
+"Teddy Mekonnen",
+"Zeky Murra-Anton",
+"Bobby Pakzad-Hurson"
+],
+"year": 2025,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Bayesian Comparative Statics",
+"authors": [
+"Teddy Mekonnen",
+"René Leal-Vizcaíno"
+],
+"year": 2022,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Informed Principal, Moral Hazard, and Limited Liability",
+"authors": [
+"Teddy Mekonnen"
+],
+"year": 2021,
+"venue": "Economic Theory Bulletin",
+"status": "published"
+},
+{
+"title": "Competition, Pesuasion, and Search",
+"authors": [
+"Teddy Mekonnen",
+"Bobby Pakzad-Hurson"
+],
+"year": null,
+"venue": "Theoretical Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Distributional Preferences for Market Design",
+"authors": [
+"Teddy Mekonnen",
+"Federico Echenique",
+"M. Bumin Yenmez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Endogenous Inequality Aversion: Decision criteria for triage and other ethical tradeoffs",
+"authors": [
+"Teddy Mekonnen",
+"Federico Echenique",
+"M. Bumin Yenmez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Diversity as Majorization",
+"authors": [
+"Teddy Mekonnen",
+"Federico Echenique",
+"M. Bumin Yenmez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Diversity in Choice as Majorization",
+"authors": [
+"Teddy Mekonnen",
+"Federico Echenique",
+"M. Bumin Yenmez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Random vs. Directed Search for Scarce Resources",
+"authors": [
+"Teddy Mekonnen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dynamic Contracting with Moral Hazard Under Incomplete Information",
+"authors": [
+"Teddy Mekonnen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"stelios michalopoulos": {
+"name": "Stelios Michalopoulos",
+"papers": [
+{
+"title": "Myths, Morals, and Movies",
+"authors": [
+"Stelios Michalopoulos",
+"Rauh"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "Civil War-Induced Displacement and Human Capital",
+"authors": [
+"Stelios Michalopoulos",
+"Chiovelli",
+"Papaioannou",
+"Sequeira"
+],
+"year": 2026,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Illuminating the Global South",
+"authors": [
+"Stelios Michalopoulos",
+"Chiovelli",
+"Papaioannou",
+"Tanner"
+],
+"year": null,
+"venue": "Economic Journal",
+"status": "forthcoming"
+},
+{
+"title": "Landmines and Spatial Development",
+"authors": [
+"Stelios Michalopoulos",
+"Chiovelli",
+"Papaioannou"
+],
+"year": 2025,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Religion and Educational Mobility in Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Alesina",
+"Hohmann",
+"Papaioannou"
+],
+"year": 2023,
+"venue": "Nature",
+"status": "published"
+},
+{
+"title": "Folklore",
+"authors": [
+"Stelios Michalopoulos",
+"Xue"
+],
+"year": 2021,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Intergenerational Mobility in Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Alesina",
+"Hohmann",
+"Papaioannou"
+],
+"year": 2021,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Historical Legacies and African Development",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2020,
+"venue": "Journal of Economic Literature",
+"status": "published"
+},
+{
+"title": "The Influence of Ancestral Lifeways on Individual Economic Outcomes in Sub-Saharan Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Putterman",
+"Weil"
+],
+"year": 2019,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Spatial Patterns of Development: A Meso Approach",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2018,
+"venue": "Annual Review of Economics",
+"status": "published"
+},
+{
+"title": "Trade and Geography in the Spread of Islam",
+"authors": [
+"Stelios Michalopoulos",
+"Naghavi",
+"Prarolo"
+],
+"year": 2018,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "The Long-Run Effects of the Scramble for Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2016,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Ethnic Inequality",
+"authors": [
+"Stelios Michalopoulos",
+"Alesina",
+"Papaioannou"
+],
+"year": 2016,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Islam, Inequality, and Pre-Industrial Comparative Development",
+"authors": [
+"Stelios Michalopoulos",
+"Naghavi",
+"Prarolo"
+],
+"year": 2016,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Climatic Fluctuations and the Diffusion of Agriculture",
+"authors": [
+"Stelios Michalopoulos",
+"Ashraf"
+],
+"year": 2015,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "On the Ethnic Origins of African Development: Traditional Chiefs and Pre-Colonial Political Centralization",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2015,
+"venue": "Academy of Management Perspectives",
+"status": "published"
+},
+{
+"title": "Financial Innovation and Endogenous Growth",
+"authors": [
+"Stelios Michalopoulos",
+"Laeven",
+"Levine"
+],
+"year": 2015,
+"venue": "Journal of Financial Intermediation",
+"status": "published"
+},
+{
+"title": "Further Evidence on the Link between Pre-Colonial Political Centralization and Comparative Economic Development in Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "National Institutions and Subnational Development in Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2014,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Pre-colonial Ethnic Institutions and Contemporary African Development",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": 2013,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "The Origins of Ethnolinguistic Diversity",
+"authors": [
+"Stelios Michalopoulos"
+],
+"year": 2012,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Evolution and the Growth Process: Natural Selection of Entrepreneurial Traits",
+"authors": [
+"Stelios Michalopoulos",
+"Galor"
+],
+"year": 2012,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Uprootedness, Human Capital, and Skill Transferability",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou",
+"Murard",
+"Sakalli"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "American Life Histories",
+"authors": [
+"Stelios Michalopoulos",
+"Lagakos",
+"Voth"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Private Colonialism in Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Chiovelli",
+"Le Rossignol",
+"Papaioannou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Once a Refugee Always a Refugee",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou",
+"Murard",
+"Sakalli"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Refugees in the Mediterranean: Political Consequences",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou",
+"Logothetis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Songs of Refugees",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Divide and Rule or the Rule of the Divided? Evidence from Africa",
+"authors": [
+"Stelios Michalopoulos",
+"Papaioannou"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "The Evolution of Entrepreneurial Spirit and the Process of Development",
+"authors": [
+"Stelios Michalopoulos",
+"Galor"
+],
+"year": null,
+"venue": "CEPR Discussion Paper",
+"status": "working_paper"
+},
+{
+"title": "Trade and Geography in the Origins and Spread of Islam",
+"authors": [
+"Stelios Michalopoulos",
+"Naghavi",
+"Prarolo"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Emigration During the French Revolution: Consequences in the Short and Longue Durée",
+"authors": [
+"Stelios Michalopoulos",
+"Franck"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+}
+]
+},
+"andriy norets": {
+"name": "Andriy Norets",
+"papers": [
+{
+"title": "Bayesian Nonparametric Model for Nonseparable Instrumental Variable Regression",
+"authors": [
+"Andriy Norets",
+"Simone Martinalli"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Relaxing the Fréchet Assumption in Quantitative Spatial Models: A Finite Mixture Approach",
+"authors": [
+"Andriy Norets",
+"Kenichi Shimizu",
+"Matthew Turner"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Locally Robust Efficient Bayesian Inference",
+"authors": [
+"Andriy Norets",
+"Ulrich Müller"
+],
+"year": 2026,
+"venue": "Econometrica",
+"status": "forthcoming"
+},
+{
+"title": "MCMC Proposals Based on Method of Moments with an Application to Finite Beta Mixtures",
+"authors": [
+"Andriy Norets",
+"Xun Tang"
+],
+"year": 2026,
+"venue": "The Japanese Economic Review",
+"status": "published"
+},
+{
+"title": "Semiparametric Bayesian Estimation of Dynamic Discrete Choice Models",
+"authors": [
+"Andriy Norets",
+"Kenichi Shimizu"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Adaptive Bayesian Estimation of Mixed Discrete-Continuous Distributions under Smoothness and Sparsity",
+"authors": [
+"Andriy Norets",
+"Justinas Pelenis"
+],
+"year": 2022,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Adaptive Bayesian Estimation of Conditional Discrete-Continuous Distributions with an Application to Stock Market Trading Activity",
+"authors": [
+"Andriy Norets",
+"Justinas Pelenis"
+],
+"year": 2022,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Optimal Auxiliary Priors and Reversible Jump Proposals for a Class of Variable Dimension Models",
+"authors": [
+"Andriy Norets"
+],
+"year": 2021,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Adaptive Bayesian Estimation of Conditional Densities",
+"authors": [
+"Andriy Norets",
+"Debdeep Pati"
+],
+"year": 2017,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Credibility of Confidence Sets in Nonstandard Econometric Problems",
+"authors": [
+"Andriy Norets",
+"Ulrich Müller"
+],
+"year": 2016,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Coverage Inducing Priors in Nonstandard Inference Problems",
+"authors": [
+"Andriy Norets",
+"Ulrich Müller"
+],
+"year": 2016,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Bayesian Regression with Nonparametric Heteroskedasticity",
+"authors": [
+"Andriy Norets"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Semiparametric Inference in Dynamic Binary Choice Models",
+"authors": [
+"Andriy Norets",
+"Xun Tang"
+],
+"year": 2014,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Posterior Consistency in Conditional Density Estimation by Covariate Dependent Mixtures",
+"authors": [
+"Andriy Norets",
+"Justinas Pelenis"
+],
+"year": 2014,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "On the Surjectivity of the Mapping between Utilities and Choice Probabilities",
+"authors": [
+"Andriy Norets",
+"Satoru Takahashi"
+],
+"year": 2013,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Bayesian Modeling of Joint and Conditional Distributions",
+"authors": [
+"Andriy Norets",
+"Justinas Pelenis"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimation of Dynamic Discrete Choice Models Using Artificial Neural Network Approximations",
+"authors": [
+"Andriy Norets"
+],
+"year": 2012,
+"venue": "Econometric Reviews",
+"status": "published"
+},
+{
+"title": "Approximation of Conditional Densities by Smooth Mixtures of Regressions",
+"authors": [
+"Andriy Norets"
+],
+"year": 2010,
+"venue": "Annals of Statistics",
+"status": "published"
+},
+{
+"title": "Continuity and Differentiability of Expected Value Functions in Dynamic Discrete Choice Models",
+"authors": [
+"Andriy Norets"
+],
+"year": 2010,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Inference in Dynamic Discrete Choice Models with Serially Correlated Unobserved State Variables",
+"authors": [
+"Andriy Norets"
+],
+"year": 2009,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Semiparametric Identification of Dynamic Multinomial Choice Models",
+"authors": [
+"Andriy Norets"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Implementation of Bayesian Inference in Dynamic Discrete Choice Models",
+"authors": [
+"Andriy Norets"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"emily oster": {
+"name": "Emily Oster",
+"papers": [
+{
+"title": "Expecting Better: Why the Conventional Pregnancy Wisdom is Wrong and What you Really Need to Know",
+"authors": [
+"Emily Oster"
+],
+"year": 2013,
+"venue": "Penguin Press",
+"status": "published"
+},
+{
+"title": "Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting from Birth to Preschool",
+"authors": [
+"Emily Oster"
+],
+"year": 2019,
+"venue": "Penguin Press",
+"status": "published"
+},
+{
+"title": "The Family Firm: A Data-Driven Guide to Better Decision-Making in the Early School Years",
+"authors": [
+"Emily Oster"
+],
+"year": 2021,
+"venue": "Penguin Press",
+"status": "published"
+},
+{
+"title": "The Unexpected: Navigating Pregnancy During and After Complications",
+"authors": [
+"Emily Oster"
+],
+"year": 2024,
+"venue": "Penguin Press",
+"status": "published"
+},
+{
+"title": "Pandemic Schooling Mode and Student Test Scores: Evidence from U.S. School Districts",
+"authors": [
+"Emily Oster",
+"Rebecca Jack",
+"Clare Halloran",
+"James Okun"
+],
+"year": 2023,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "Changes in Household Diet: Determinants and Predictability",
+"authors": [
+"Emily Oster",
+"Stefan Hut"
+],
+"year": 2022,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Impact of School Opening Mode on SARS-CoV-2 Community Incidence and Mortality",
+"authors": [
+"Emily Oster",
+"Z. Ertem"
+],
+"year": 2021,
+"venue": "Nature Medicine",
+"status": "published"
+},
+{
+"title": "Effectiveness of three versus six feet of physical distancing for controlling spread of COVID-19 among primary and secondary students and staff: A retrospective, state-wide cohort study",
+"authors": [
+"Emily Oster",
+"Polly van den Berg"
+],
+"year": 2021,
+"venue": "Clinical Infectious Diseases",
+"status": "published"
+},
+{
+"title": "Disparities in learning mode access among K12 students during the COVID-19 pandemic, by race/ethnicity, geography, and grade level--United States, September 2020-April 2021",
+"authors": [
+"Emily Oster",
+"Rebecca Jack"
+],
+"year": 2021,
+"venue": "Morbidity and Mortality Weekly Report",
+"status": "published"
+},
+{
+"title": "Health Recommendations and Selection in Health Behaviors",
+"authors": [
+"Emily Oster"
+],
+"year": 2020,
+"venue": "American Economic Review: Insights",
+"status": "published"
+},
+{
+"title": "A simple approximation for evaluating external validity bias",
+"authors": [
+"Emily Oster",
+"Isaiah Andrews"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Diabetes and Diet: Purchasing Behavior Response to Health Information",
+"authors": [
+"Emily Oster"
+],
+"year": 2018,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Unobservable selection and coefficient stability: Theory and evidence",
+"authors": [
+"Emily Oster"
+],
+"year": 2019,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published"
+},
+{
+"title": "Does Disease Cause Vaccination? Disease Outbreaks and Vaccination Response",
+"authors": [
+"Emily Oster"
+],
+"year": 2018,
+"venue": "Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Why is Infant Mortality Higher in the US than in Europe",
+"authors": [
+"Emily Oster",
+"Heidi Williams",
+"Alice Chen"
+],
+"year": 2016,
+"venue": "American Economic Journal: Policy",
+"status": "published"
+},
+{
+"title": "Informativeness of Early Huntington Disease Signs about Gene Status",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey"
+],
+"year": 2015,
+"venue": "Journal of Huntington Disease",
+"status": "published"
+},
+{
+"title": "Limited Life Expectancy, Human Capital and Health Investments",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey",
+"Ira Shoulson"
+],
+"year": 2013,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Optimal Expectations and Limited Medical Testing: Evidence from Huntington's Disease",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey",
+"Ira Shoulson"
+],
+"year": 2013,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Do IT Service Centers Promote School Enrollment? Evidence from India",
+"authors": [
+"Emily Oster",
+"Bryce Millett"
+],
+"year": 2013,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Knowledge of the Genetic Information Nondiscrimination Act among individuals affected by Huntington disease",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey"
+],
+"year": 2013,
+"venue": "Clinical Genetics",
+"status": "published"
+},
+{
+"title": "Determinants of Technology Adoption: Private Value and Peer Effects in Menstrual Cup Take-Up",
+"authors": [
+"Emily Oster",
+"Rebecca Thornton"
+],
+"year": 2012,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+"authors": [
+"Emily Oster"
+],
+"year": 2012,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "HIV and Sexual Behavior Change: Why Not Africa?",
+"authors": [
+"Emily Oster"
+],
+"year": 2012,
+"venue": "Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "Menstruation, Sanitary Products and School Attendance: Evidence from a Randomized Evaluation",
+"authors": [
+"Emily Oster",
+"Rebecca Thornton"
+],
+"year": 2011,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Genetic Adverse Selection in Long Term Care and Life Insurance: Evidence from Huntington Disease",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey"
+],
+"year": 2010,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Estimating HIV Prevalence and Incidence in Africa from Mortality Data",
+"authors": [
+"Emily Oster"
+],
+"year": 2010,
+"venue": "The B.E. Journal of Economic Analysis & Policy",
+"status": "published"
+},
+{
+"title": "Hepatitis B Does Not Explain Male-Biased Sex Ratios in China",
+"authors": [
+"Emily Oster",
+"Gang Chen"
+],
+"year": 2010,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The Power of TV: Cable Television and Women's Status in India",
+"authors": [
+"Emily Oster",
+"Robert Jensen"
+],
+"year": 2009,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Does Increased Access Increase Equality? Health Investments and Gender Inequality in India",
+"authors": [
+"Emily Oster"
+],
+"year": 2009,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Proximate Sources of Population Sex Imbalance in India",
+"authors": [
+"Emily Oster"
+],
+"year": 2009,
+"venue": "Demography",
+"status": "published"
+},
+{
+"title": "Fear of health insurance loss among individuals at risk for Huntington Disease",
+"authors": [
+"Emily Oster",
+"E. Ray Dorsey"
+],
+"year": 2008,
+"venue": "American Journal of Medical Genetics, Part A",
+"status": "published"
+},
+{
+"title": "Hepatitis B and the Case of the Missing Women",
+"authors": [
+"Emily Oster"
+],
+"year": 2005,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Sexually Transmitted Infections, Sexual Behavior and the HIV/AIDS Epidemic",
+"authors": [
+"Emily Oster"
+],
+"year": 2005,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Witchcraft, Weather and Economic Growth in Renaissance Europe",
+"authors": [
+"Emily Oster"
+],
+"year": 2004,
+"venue": "Journal of Economic Perspectives",
+"status": "published"
+},
+{
+"title": "Are All Lotteries Regressive? Evidence from the Powerball",
+"authors": [
+"Emily Oster"
+],
+"year": 2004,
+"venue": "National Tax Journal",
+"status": "published"
+}
+]
+},
+"pablo ottonello": {
+"name": "Pablo Ottonello",
+"papers": [
+{
+"title": "Capital Unemployment",
+"authors": [
+"Pablo Ottonello"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Illiquid Lemon Markets and the Macroeconomy",
+"authors": [
+"Pablo Ottonello",
+"Aimé Bierdel",
+"Andres Drenik",
+"Juan Herreño"
+],
+"year": 2026,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification",
+"authors": [
+"Pablo Ottonello",
+"Wenting Song"
+],
+"year": 2026,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "The Dynamics of Large Inflation Surges",
+"authors": [
+"Pablo Ottonello",
+"Andres Blanco",
+"Tereza Ranosova"
+],
+"year": 2025,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Fiscal Stimulus Under Sovereign Risk",
+"authors": [
+"Pablo Ottonello",
+"Javier Bianchi",
+"Ignacio Presno"
+],
+"year": 2023,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "The Micro Anatomy of Macro Consumption Adjustments",
+"authors": [
+"Pablo Ottonello",
+"Rafael Guntin",
+"Diego Perez"
+],
+"year": 2023,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Monetary Policy and Redistribution in Open Economies",
+"authors": [
+"Pablo Ottonello",
+"Xing Guo",
+"Diego Perez"
+],
+"year": 2023,
+"venue": "Journal of Political Economy Macroeconomics",
+"status": "published"
+},
+{
+"title": "Are Collateral-Constraint Models Ready for Macroprudential Policy Design?",
+"authors": [
+"Pablo Ottonello",
+"Diego Perez",
+"Paolo Varraso"
+],
+"year": 2022,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Global Banks and Systemic Debt Crises",
+"authors": [
+"Pablo Ottonello",
+"Juan Morelli",
+"Diego Perez"
+],
+"year": 2022,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Optimal Exchange Rate Policy Under Collateral Constraints and Wage Rigidity",
+"authors": [
+"Pablo Ottonello"
+],
+"year": 2021,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Financial Heterogeneity and the Investment Channel of Monetary Policy",
+"authors": [
+"Pablo Ottonello",
+"Thomas Winberry"
+],
+"year": 2020,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "The Currency Composition of Sovereign Debt",
+"authors": [
+"Pablo Ottonello",
+"Diego Perez"
+],
+"year": 2019,
+"venue": "American Economic Journal: Macroeconomics",
+"status": "published"
+},
+{
+"title": "Sudden Stops under the Microscope: Evidence from Uruguay",
+"authors": [
+"Pablo Ottonello",
+"Cecilia Dassatti",
+"Rodrigo Lluberas",
+"Diego Perez"
+],
+"year": null,
+"venue": "IMF Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "Argentina's Disinflation: An International and Historical Perspective",
+"authors": [
+"Pablo Ottonello",
+"Rafael Di Tella",
+"Franco Nuñez"
+],
+"year": 2025,
+"venue": "Quarterly Review",
+"status": "published"
+},
+{
+"title": "Bankruptcy Resolution and Credit Cycles",
+"authors": [
+"Pablo Ottonello",
+"Martin Kornejew",
+"Chen Lian",
+"Yueran Ma",
+"Diego Perez"
+],
+"year": 2024,
+"venue": "NBER Macroeconomics Annual",
+"status": "published"
+},
+{
+"title": "Sophisticated Borrowing Constraints and Macroeconomic Dynamics",
+"authors": [
+"Pablo Ottonello",
+"Mahdi Ebsim",
+"Chen Lian",
+"Yueran Ma",
+"Diego Perez"
+],
+"year": null,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications",
+"authors": [
+"Pablo Ottonello",
+"Xing Guo",
+"Thomas Winberry",
+"Toni Whited"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "Capital, Ideas, and the Costs of Financial Frictions",
+"authors": [
+"Pablo Ottonello",
+"Thomas Winberry"
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "An Anatomy of Firms' Political Speech",
+"authors": [
+"Pablo Ottonello",
+"Wenting Song",
+"Sebastian Sotelo"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "The Exchange Rate as an Industrial Policy",
+"authors": [
+"Pablo Ottonello",
+"Diego Perez",
+"William Witheridge"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Firms' Investment and the Real Transmission of the Global Financial Cycle",
+"authors": [
+"Pablo Ottonello",
+"Caitlin Hegarty",
+"Matias Moretti",
+"Diego Perez"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Labor Markets, Financial Crises, and Inflation: Jobless and Wageless Recoveries",
+"authors": [
+"Pablo Ottonello",
+"Guillermo Calvo",
+"Emilio Colombi",
+"Fabrizio Coricelli"
+],
+"year": 2012,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+}
+]
+},
+"bobby pakzad hurson": {
+"name": "Bobby Pakzad-Hurson",
+"papers": [
+{
+"title": "Equal Pay for Similar Work",
+"authors": [
+"Bobby Pakzad-Hurson",
+"D. Gentile",
+"F. Kojima"
+],
+"year": 2026,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Crowdsourcing and Optimal Market Design",
+"authors": [
+"Bobby Pakzad-Hurson"
+],
+"year": 2025,
+"venue": "The Review of Economics and Statistics",
+"status": "forthcoming"
+},
+{
+"title": "Persuaded Search",
+"authors": [
+"Bobby Pakzad-Hurson",
+"T. Mekonnen",
+"Z. Murra-Anton"
+],
+"year": 2025,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Home Sweet Home: How Much Do Employees Value Remote Work?",
+"authors": [
+"Bobby Pakzad-Hurson",
+"Z. Cullen",
+"R. Perez-Truglia"
+],
+"year": 2025,
+"venue": "American Economic Association Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Stable and Efficient Resource Allocation with Contracts",
+"authors": [
+"Bobby Pakzad-Hurson"
+],
+"year": 2023,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "Equilibrium Effects of Pay Transparency",
+"authors": [
+"Bobby Pakzad-Hurson",
+"Z. Cullen"
+],
+"year": 2023,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Strategic Disaggregation in Matching Markets",
+"authors": [
+"Bobby Pakzad-Hurson",
+"S. Nei"
+],
+"year": 2021,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Peer Preferences in Centralized School Choice Markets: Theory and Evidence",
+"authors": [
+"Bobby Pakzad-Hurson",
+"N. Cox",
+"R. Fonseca",
+"M. Pecenco"
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Pushing The Envelope: The Effects of Salary Negotiations",
+"authors": [
+"Bobby Pakzad-Hurson",
+"Z. Cullen",
+"R. Perez-Truglia"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+}
+]
+},
+"dev patel": {
+"name": "Dev Patel",
+"papers": [
+{
+"title": "Environmental Beliefs and Adaptation to Climate Change",
+"authors": [
+"Dev Patel"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Floods: Measurement, Impacts, and Adaptation",
+"authors": [
+"Dev Patel"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Rosetta Stone for Human Capital",
+"authors": [
+"Dev Patel",
+"Justin Sandefur"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Mis-Remembrance of Things Past: Memory and Adaptation to Climate Change",
+"authors": [
+"Dev Patel"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Jobs Come to Mind? Stereotypes about Fields of Study",
+"authors": [
+"Dev Patel",
+"John J. Conlon"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "Texts Don't Nudge: An Adaptive Trial to Prevent the Spread of COVID-19 in India",
+"authors": [
+"Dev Patel",
+"Sebastian Bauhoff",
+"Girija Bahety",
+"James Potter"
+],
+"year": 2021,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "The New Era of Unconditional Convergence",
+"authors": [
+"Dev Patel",
+"Justin Sandefur",
+"Arvind Subramanian"
+],
+"year": 2021,
+"venue": "Journal of Development Economics",
+"status": "published"
+}
+]
+},
+"christina paxson": {
+"name": "Christina Paxson",
+"papers": []
+},
+"matthew pecenco": {
+"name": "Matthew Pecenco",
+"papers": [
+{
+"title": "Conviction, Incarceration, and Policy Effects in the Criminal Justice System",
+"authors": [
+"Matthew Pecenco",
+"Vishal Kamat",
+"Samuel Norris"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identification in Multiple Treatment Models under Discrete Variation",
+"authors": [
+"Matthew Pecenco",
+"Vishal Kamat",
+"Samuel Norris"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "High-Responsibility Work and Firm Creation: Experimental Evidence from the Dominican Republic",
+"authors": [
+"Matthew Pecenco",
+"Carlos Schmidt-Padilla",
+"Hamilton Taveras"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Peer Preferences in Centralized School Choice Markets: Theory and Evidence",
+"authors": [
+"Matthew Pecenco",
+"Natalie Cox",
+"Ricardo Fonseca",
+"Bobak Pakzad-Hurson"
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Is Workplace Temperature a Valuable Job Amenity? Implications for Climate Change",
+"authors": [
+"Matthew Pecenco",
+"Rode et al."
+],
+"year": null,
+"venue": "Journal of Political Economy",
+"status": "revise_resubmit"
+},
+{
+"title": "Customer Discrimination in the Workplace: Evidence from Online Sales",
+"authors": [
+"Matthew Pecenco",
+"Erin Kelley",
+"Gregory Lane",
+"Edward Rubin"
+],
+"year": 2026,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "The Impact of Incarceration on Employment, Earnings, and Tax Filing",
+"authors": [
+"Matthew Pecenco",
+"Andrew Garin",
+"Dmitri Koustas",
+"Carl McPherson",
+"Samuel Norris",
+"Evan K. Rose",
+"Yotam Shem-Tov",
+"Jeffrey Weaver"
+],
+"year": 2025,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "The Effect of Incarceration on Mortality",
+"authors": [
+"Matthew Pecenco",
+"Samuel Norris",
+"Jeffrey Weaver"
+],
+"year": 2024,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "The Effects of Parental and Sibling Incarceration: Evidence from Ohio",
+"authors": [
+"Matthew Pecenco",
+"Samuel Norris",
+"Jeffrey Weaver"
+],
+"year": 2021,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Electoral Competition and Political Rents: Evidence from India",
+"authors": [
+"Matthew Pecenco",
+"Sandip Sukhtankar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"fabrizio perri": {
+"name": "Fabrizio Perri",
+"papers": []
+},
+"jonathan roth": {
+"name": "Jonathan Roth",
+"papers": [
+{
+"title": "Evaluating Counterfactual Policies Using Instruments",
+"authors": [
+"Jonathan Roth",
+"Michal Kolesr",
+"Jose Luis Montiel Olea"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+},
+{
+"title": "Testing Monotonicity in a Finite Population",
+"authors": [
+"Jonathan Roth",
+"Jiafeng Chen",
+"Jann Spiess"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Union Reform and Teacher Turnover: Evidence from Wisconsin's Act 10",
+"authors": [
+"Jonathan Roth"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"kareen rozen": {
+"name": "Kareen Rozen",
+"papers": [
+{
+"title": "Foundations of Intrinsic Habit Formation",
+"authors": [
+"Kareen Rozen"
+],
+"year": 2010,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Competing for Consumer Inattention",
+"authors": [
+"Kareen Rozen",
+"Geoffroy de Clippel",
+"Kfir Eliaz"
+],
+"year": 2014,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Conflict Leads to Cooperation in Demand Bargaining",
+"authors": [
+"Kareen Rozen"
+],
+"year": 2013,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Wasteful Sanctions, Underperformance and Endogenous Supervision",
+"authors": [
+"Kareen Rozen",
+"D. Miller"
+],
+"year": 2014,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "History-Dependent Risk Attitude",
+"authors": [
+"Kareen Rozen",
+"D. Dillenberger"
+],
+"year": 2015,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Rationalizing Choice with Multi-Self Models",
+"authors": [
+"Kareen Rozen",
+"A. Ambrus"
+],
+"year": 2015,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Optimism and Pessimism with Expected Utility",
+"authors": [
+"Kareen Rozen",
+"D. Dillenberger",
+"A. Postlewaite"
+],
+"year": 2017,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "On Selecting the Right Agent",
+"authors": [
+"Kareen Rozen",
+"Geoffroy de Clippel",
+"Kfir Eliaz",
+"D. Fershtman"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Bounded Rationality and Limited Datasets",
+"authors": [
+"Kareen Rozen",
+"Geoffroy de Clippel"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Bargaining over Contingent Contracts under Incomplete Information",
+"authors": [
+"Kareen Rozen",
+"Geoffroy de Clippel",
+"Jack Fanning"
+],
+"year": 2022,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Order-k Rationality",
+"authors": [
+"Kareen Rozen",
+"S. Barbera",
+"Geoffroy de Clippel",
+"A. Neme"
+],
+"year": 2022,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Fairness Through the Lens of Cooperative Game Theory: An Experimental Approach",
+"authors": [
+"Kareen Rozen",
+"Geoffroy de Clippel"
+],
+"year": 2022,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+}
+]
+},
+"susanne schennach": {
+"name": "Susanne Schennach",
+"papers": [
+{
+"title": "Optimally-transported generalized method of moments",
+"authors": [
+"Susanne Schennach",
+"V. Starck"
+],
+"year": 2026,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Using spatial modeling to address covariate measurement error",
+"authors": [
+"Susanne Schennach",
+"V. Starck"
+],
+"year": 2026,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Instrument-free estimation of triangular equation systems with the trigmm command",
+"authors": [
+"Susanne Schennach",
+"H. Lee",
+"A. Lewbel",
+"L. Zhang"
+],
+"year": 2026,
+"venue": "Stata Journal",
+"status": "published"
+},
+{
+"title": "Bounded Tilting Estimation",
+"authors": [
+"Susanne Schennach",
+"O. Wahlstrom"
+],
+"year": 2024,
+"venue": "Econometric Reviews",
+"status": "published"
+},
+{
+"title": "Identification of a triangular two equation system without instruments",
+"authors": [
+"Susanne Schennach",
+"A. Lewbel",
+"L. Zhang"
+],
+"year": 2024,
+"venue": "Journal of Business and Economic Statistics",
+"status": "published"
+},
+{
+"title": "Independent Nonlinear Component Analysis",
+"authors": [
+"F. Gunsilius",
+"Susanne Schennach"
+],
+"year": 2023,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Identification of Nonparametric Monotonic Regression Models with Continuous Nonclassical Measurement Errors",
+"authors": [
+"Y. Hu",
+"Susanne Schennach",
+"J.-L. Shiu"
+],
+"year": 2022,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Measurement Systems",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2022,
+"venue": "Journal of Economic Literature",
+"status": "published"
+},
+{
+"title": "A bias bound approach to nonparametric inference",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2020,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Convolution without independence",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2019,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Long memory via networking",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2018,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "A Simple Parametric Model Selection Test",
+"authors": [
+"Susanne Schennach",
+"D. Wilhelm"
+],
+"year": 2017,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Injectivity of a Class of Integral Operators with Compactly Supported Kernels",
+"authors": [
+"Y. Hu",
+"Susanne Schennach",
+"J.-L. Shiu"
+],
+"year": 2017,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Recent Advances in the Measurement Error Literature",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2016,
+"venue": "Annual Review of Economics",
+"status": "published"
+},
+{
+"title": "Estimating nonseparable models with mismeasured endogenous variables",
+"authors": [
+"S. Song",
+"Susanne Schennach",
+"H. White"
+],
+"year": 2015,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Entropic Latent Variable Integration via Simulation",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2014,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Nonparametric Identification and Semiparametric estimation of classical measurement error models without side information",
+"authors": [
+"Susanne Schennach",
+"Y. Hu"
+],
+"year": 2013,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Instrumental variable treatment of the nonparametric Berkson measurement error model",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2013,
+"venue": "Annals of Statistics",
+"status": "published"
+},
+{
+"title": "Local indirect least squares and average marginal effects in nonseparable structural systems",
+"authors": [
+"Susanne Schennach",
+"H. White",
+"K. Chalak"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimating the Technology of Cognitive and Noncognitive Skill Formation",
+"authors": [
+"F. Cunha",
+"J. Heckman",
+"Susanne Schennach"
+],
+"year": 2010,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Instrumental variable treatment of nonclassical measurement error models",
+"authors": [
+"Y. Hu",
+"Susanne Schennach"
+],
+"year": 2008,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Quantile Regression with Mismeasured Covariates",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2008,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Instrumental Variable Estimation of Nonlinear Errors-in-Variables Models",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2007,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Point Estimation with Exponentially Tilted Empirical Likelihood",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2007,
+"venue": "Annals of Statistics",
+"status": "published"
+},
+{
+"title": "Simple Inverse Density Weighted Estimators",
+"authors": [
+"A. Lewbel",
+"Susanne Schennach"
+],
+"year": 2007,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Bayesian Exponentially-Tilted Empirical Likelihood",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2005,
+"venue": "Biometrika",
+"status": "published"
+},
+{
+"title": "Panel Data Analysis of U.S. Coal Productivity",
+"authors": [
+"Thomas Stoker",
+"Ernst Berndt",
+"Denny Ellerman",
+"Susanne Schennach"
+],
+"year": 2005,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimation of Nonlinear Models with Measurement Error",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2004,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Nonparametric Regression in the Presence of Measurement Error",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2004,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Exponential Specifications and Errors-in-Variables",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2004,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The Economics of Emission Permit Banking in the Context of Title IV of the 1990 Clean Air Act Amendments",
+"authors": [
+"Susanne Schennach"
+],
+"year": 2000,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+}
+]
+},
+"roberto serrano": {
+"name": "Roberto Serrano",
+"papers": []
+},
+"bryce steinberg": {
+"name": "Bryce Steinberg",
+"papers": []
+},
+"neil thakral": {
+"name": "Neil Thakral",
+"papers": [
+{
+"title": "Choice Errors and Choice Restrictions in Public Housing Allocation",
+"authors": [
+"Neil Thakral",
+"Canishk Naik"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pooling Noisy Choices",
+"authors": [
+"Neil Thakral",
+"Linh Tô"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Anticipation and Temptation",
+"authors": [
+"Neil Thakral"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Public Housing Allocation Problem",
+"authors": [
+"Neil Thakral",
+"Zeky Murra-Anton"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Scale-Equivariant Transformations",
+"authors": [
+"Neil Thakral",
+"Linh Tô"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Reference-Dependent Social Norms",
+"authors": [
+"Neil Thakral"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Excess Anticipation-Dependence in Consumption",
+"authors": [
+"Neil Thakral",
+"Linh Tô"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+}
+]
+},
+"matthew turner": {
+"name": "Matthew Turner",
+"papers": [
+{
+"title": "Does the US have an Infrastructure Cost Problem? Evidence from the Interstate Highway System",
+"authors": [
+"Matthew Turner",
+"Neil Mehrotra",
+"Juan Pablo Uribe"
+],
+"year": 2024,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Foundations of Cities",
+"authors": [
+"Matthew Turner",
+"Jacques Thisse",
+"Philip Ushchev"
+],
+"year": 2024,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "The Value of Sewers: Evidence from 19th Century Chicago",
+"authors": [
+"Matthew Turner",
+"Michael Coury",
+"Toru Kitagawa",
+"Allison Shertzer"
+],
+"year": 2024,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Subways and Urban Air Pollution",
+"authors": [
+"Matthew Turner",
+"Nicholas Gendron-Carrier",
+"Marco Gonzales-Navarro",
+"Stefano Polloni"
+],
+"year": 2022,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Urbanization in the developing world: Too early or to slow?",
+"authors": [
+"Matthew Turner",
+"J. Vernon Henderson"
+],
+"year": 2020,
+"venue": "Journal of Economic Perspectives",
+"status": "published"
+},
+{
+"title": "Does Investment in National Highways Help or Hurt Hinterland Growth?",
+"authors": [
+"Matthew Turner",
+"Nathaniel Baum-Snow",
+"J. Vernon Henderson",
+"Qinghua Zhang",
+"Loren Brandt"
+],
+"year": 2018,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Urban Form and Driving",
+"authors": [
+"Matthew Turner",
+"Gilles Duranton"
+],
+"year": 2018,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Subways and Urban Growth: Evidence from Earth",
+"authors": [
+"Matthew Turner",
+"Marco Gonzalez-Navarro"
+],
+"year": 2018,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Benefits Transfer and Spatial Equilibrium",
+"authors": [
+"Matthew Turner"
+],
+"year": 2018,
+"venue": "Environmental and Resource Economics",
+"status": "published"
+},
+{
+"title": "Transport Infrastructure and the Decentralization of Cities in the Peoples' Republic of China",
+"authors": [
+"Matthew Turner",
+"Nathaniel Baum-Snow"
+],
+"year": 2017,
+"venue": "Asian Development Review",
+"status": "published"
+},
+{
+"title": "Roads, Railroads and Decentralization in Chinese Cities",
+"authors": [
+"Matthew Turner",
+"Nathaniel Baum-Snow",
+"Loren Brandt",
+"J. Vernon Henderson",
+"Qinghua Zhang"
+],
+"year": 2017,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Land Use Regulation and Welfare",
+"authors": [
+"Matthew Turner",
+"Andrew Haughwout",
+"Wilbert van der Klaauw"
+],
+"year": 2014,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Roads and Trade: Evidence from the US",
+"authors": [
+"Matthew Turner",
+"Peter Morrow",
+"Gilles Duranton"
+],
+"year": 2014,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Adaptation to Climate Change: Evidence from 18th and 19th Century Iceland",
+"authors": [
+"Matthew Turner",
+"Jeffrey S. Rosenthal",
+"Jian Chen",
+"Chunyan Hao"
+],
+"year": 2012,
+"venue": "Advances and Applications in Statistics",
+"status": "published"
+},
+{
+"title": "Urban Growth and Transportation",
+"authors": [
+"Matthew Turner",
+"Gilles Duranton"
+],
+"year": 2012,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Adaptation to Climate Change in Preindustrial Iceland",
+"authors": [
+"Matthew Turner",
+"Jeffrey S. Rosenthal",
+"Jian Chen",
+"Chunyan Hao"
+],
+"year": 2012,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "The Effects of Land Transfer Taxes on Real Estate Markets: Evidence from a Natural Experiment in Toronto",
+"authors": [
+"Matthew Turner",
+"Ben Dachis",
+"Gilles Duranton"
+],
+"year": 2012,
+"venue": "Journal of Economic Geography",
+"status": "published"
+},
+{
+"title": "The Fundamental Law of Highway Congestion: Evidence from the US",
+"authors": [
+"Matthew Turner",
+"Gilles Duranton"
+],
+"year": 2011,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Value of Information in Public Decisions",
+"authors": [
+"Matthew Turner",
+"Arvind Magesan"
+],
+"year": 2010,
+"venue": "Berkeley Electronic Journal of Economics and Policy",
+"status": "published"
+},
+{
+"title": "Cost-Benefit Analyses versus Referenda",
+"authors": [
+"Matthew Turner",
+"Martin Osborne"
+],
+"year": 2010,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Decomposing the Growth in Residential Land in the United States",
+"authors": [
+"Matthew Turner",
+"Henry Overman",
+"Diego Puga"
+],
+"year": 2008,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "Fat City: Questioning the Relationship between Urban Sprawl and Obesity in the United States",
+"authors": [
+"Matthew Turner",
+"Jean Eid",
+"Henry Overman",
+"Diego Puga"
+],
+"year": 2008,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "The Usefulness of Imperfect Elections",
+"authors": [
+"Matthew Turner",
+"Loren Brandt"
+],
+"year": 2007,
+"venue": "Economics and Politics",
+"status": "published"
+},
+{
+"title": "A Simple Theory of Smart Growth and Sprawl",
+"authors": [
+"Matthew Turner"
+],
+"year": 2007,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Causes of Sprawl: A Portrait from Space",
+"authors": [
+"Matthew Turner",
+"Diego Puga",
+"Henry Overman",
+"Marcy Burchfield"
+],
+"year": 2006,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Meetings with Costly Participation",
+"authors": [
+"Matthew Turner",
+"Martin J. Osborne",
+"Jeffrey Rosenthal"
+],
+"year": 2000,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Tradition and Common Property Regulation",
+"authors": [
+"Matthew Turner"
+],
+"year": 1999,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Parental Altruism and Common Property Regulation",
+"authors": [
+"Matthew Turner"
+],
+"year": 1997,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Quota induced Discarding in Heterogeneous Fisheries",
+"authors": [
+"Matthew Turner"
+],
+"year": 1997,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "Value Based ITQ's",
+"authors": [
+"Matthew Turner"
+],
+"year": 1996,
+"venue": "Marine Resource Economics",
+"status": "published"
+},
+{
+"title": "Industrial Development in Cities",
+"authors": [
+"Matthew Turner",
+"J. V. Henderson",
+"A. Kuncoro"
+],
+"year": 1995,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Meetings with Costly Participation: An empirical analysis",
+"authors": [
+"Matthew Turner",
+"Quinn Weninger"
+],
+"year": 2005,
+"venue": "Review of Economic Studies",
+"status": "published"
+},
+{
+"title": "Landscape Preferences and Patterns of Residential Location",
+"authors": [
+"Matthew Turner"
+],
+"year": 2005,
+"venue": "Journal of Urban Economics",
+"status": "published"
+},
+{
+"title": "Local Government Behavior, Bureaucratic Incentives, and Tenure Security in Rural China",
+"authors": [
+"Matthew Turner",
+"Loren Brandt",
+"Scott Rozelle"
+],
+"year": 2004,
+"venue": "Journal of Institutional and Theoretical Economics",
+"status": "published"
+},
+{
+"title": "The Negative Impact of a Massachusetts Real Estate Transfer Tax on Fiscal Revenue and Household Mobility",
+"authors": [
+"Matthew Turner",
+"Gilles Duranton",
+"Lu Han"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Equilibrium Particulate Exposure",
+"authors": [
+"Matthew Turner",
+"Lorenzo Aldeco",
+"Lint Barrage"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sewers and urbanization in the developing world",
+"authors": [
+"Matthew Turner",
+"Sean McCulloch",
+"Matthew Schaelling",
+"Toru Kitagawa"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bus Rapid Transit, Urban Growth and Pollution",
+"authors": [
+"Matthew Turner",
+"Nic Gendron-Carrier",
+"Marco Gonzalez-Navarro"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Effect of LIHTC on Housing Markets: Quantities, Prices, and Welfare",
+"authors": [
+"Matthew Turner",
+"Fernando Ferreira",
+"Gillian Meyer"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Are Big Cities Important for Economic Growth",
+"authors": [
+"Matthew Turner",
+"David Weil"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Transportation Infrastructure and Urban Development",
+"authors": [
+"Matthew Turner",
+"Gilles Duranton"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"felipe valencia caicedo": {
+"name": "Felipe Valencia Caicedo",
+"papers": [
+{
+"title": "The Mission: Economic Persistence, Human Capital Transmission and Culture in South America",
+"authors": [
+"Felipe Valencia Caicedo"
+],
+"year": 2019,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Engineering Growth",
+"authors": [
+"Felipe Valencia Caicedo",
+"William F. Maloney"
+],
+"year": 2022,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "The Persistence of (Subnational) Fortune",
+"authors": [
+"Felipe Valencia Caicedo",
+"William F. Maloney"
+],
+"year": 2016,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "Country of Women? Repercussions of the Triple Alliance War in Paraguay",
+"authors": [
+"Felipe Valencia Caicedo",
+"Laura Schechter",
+"Jennifer Alix-Garcia",
+"Siyao Jessica Zhu"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "The Legacies of War for Ukraine",
+"authors": [
+"Felipe Valencia Caicedo",
+"Ellen Munroe",
+"Anastasiia Nosach",
+"Moises Pedrozo",
+"Eleonora Guarnieri",
+"Juan Felipe Riaño",
+"Ana Tur-Prats"
+],
+"year": 2023,
+"venue": "Economic Policy",
+"status": "published"
+},
+{
+"title": "Religion and Prosociality across the Globe",
+"authors": [
+"Felipe Valencia Caicedo",
+"Thomas Dohmen",
+"Andreas Pondorfer"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Collateral Damage: The Legacy of the Secret War in Laos",
+"authors": [
+"Felipe Valencia Caicedo",
+"Juan Felipe Riaño"
+],
+"year": 2024,
+"venue": "The Economic Journal",
+"status": "published"
+}
+]
+},
+"rajiv vohra": {
+"name": "Rajiv Vohra",
+"papers": [
+{
+"title": "Nash Bargaining in Coalitional Games",
+"authors": [
+"Rajiv Vohra",
+"Debraj Ray"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Signaling, Screening, and Core Stability",
+"authors": [
+"Rajiv Vohra",
+"Yusuke Kamishiro",
+"Roberto Serrano"
+],
+"year": 2023,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "A Principal-Agent Relationship with No Advantage to Commitment",
+"authors": [
+"Rajiv Vohra",
+"Francisco Espinosa",
+"Debraj Ray"
+],
+"year": 2021,
+"venue": "Pure and Applied Functional Analysis",
+"status": "published"
+},
+{
+"title": "Games of Love and Hate",
+"authors": [
+"Rajiv Vohra",
+"Debraj Ray"
+],
+"year": 2020,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Maximality in the Farsighted Stable Set",
+"authors": [
+"Rajiv Vohra",
+"Debraj Ray"
+],
+"year": 2019,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Rational Expectations and Farsighted Stability",
+"authors": [
+"Rajiv Vohra",
+"Bhaskar Dutta"
+],
+"year": 2017,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "The Farsighted Stable Set",
+"authors": [
+"Rajiv Vohra",
+"Debraj Ray"
+],
+"year": 2015,
+"venue": "Econometrica",
+"status": "published"
+}
+]
+},
+"david weil": {
+"name": "David Weil",
+"papers": [
+{
+"title": "Replacement Fertility is Neither Natural, Nor Optimal, Nor Likely",
+"authors": [
+"David Weil"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Are Big Cities Important for Economic Growth?",
+"authors": [
+"David Weil",
+"Matthew Turner"
+],
+"year": 2025,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "Climate Change Population Growth and Population Pressure",
+"authors": [
+"David Weil",
+"Vernon Henderson",
+"Bo Yeon Jang",
+"Adam Storeygard"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Land Quality",
+"authors": [
+"David Weil",
+"Vernon Henderson",
+"Adam Storeygard"
+],
+"year": 2022,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
+"authors": [
+"David Weil"
+],
+"year": 2026,
+"venue": "Journal of Economic Perspectives",
+"status": "published"
+},
+{
+"title": "The Effect of Increasing Human Capital Investment on Economic Growth and Poverty: A Simulation Exercise",
+"authors": [
+"David Weil",
+"Matthew E. Collin"
+],
+"year": 2020,
+"venue": "Journal of Human Capital",
+"status": "published"
+},
+{
+"title": "The Influence of Ancestral Lifeways on Individual Economic Outcomes in Sub-Saharan Africa",
+"authors": [
+"David Weil",
+"Stelios Michalopoulos",
+"Louis Putterman"
+],
+"year": 2019,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "The Global Spatial Distribution of Economic Activity: Nature, History, and the Role of Trade",
+"authors": [
+"David Weil",
+"Vernon Henderson",
+"Tim Squires",
+"Adam Storeygard"
+],
+"year": 2018,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "How the Growing Gap in Life Expectancy May Affect Retirement Benefits and Reforms",
+"authors": [
+"David Weil"
+],
+"year": 2017,
+"venue": "Geneva Papers on Risk and Insurance",
+"status": "published"
+},
+{
+"title": "Cognitive Effects of Micronutrient Deficiency: Evidence from Salt Iodization in the United States",
+"authors": [
+"David Weil",
+"James Feyrer",
+"Dimitra Politi"
+],
+"year": 2017,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Gyrations in African Mortality and their Effect on Economic Growth",
+"authors": [
+"David Weil"
+],
+"year": 2017,
+"venue": "Journal of Demographic Economics",
+"status": "published"
+},
+{
+"title": "Malaria and Early African Development: Evidence from the Sickle Cell Trait",
+"authors": [
+"David Weil",
+"Emilio Depetris Chauvin"
+],
+"year": 2017,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Old Teachers, Old Ideas, and the Effect of Population Aging on Economic Growth",
+"authors": [
+"David Weil",
+"Jillian Berk"
+],
+"year": 2015,
+"venue": "Research in Economics",
+"status": "published"
+},
+{
+"title": "The Home Economics of E-Money: Velocity, Cash Management, and Discount Rates of M-Pesa Users",
+"authors": [
+"David Weil",
+"Isaac Mbiti"
+],
+"year": 2013,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Measuring Economic Growth from Outer Space",
+"authors": [
+"David Weil",
+"Vernon Henderson",
+"Adam Storeygard"
+],
+"year": 2012,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Dynamics of Age Structure, Dependency, and Consumption",
+"authors": [
+"David Weil",
+"Heinrich Hock"
+],
+"year": 2012,
+"venue": "Journal of Population Economics",
+"status": "published"
+},
+{
+"title": "Post-1500 Population Flows and the Long-Run Determinants of Economic Growth and Inequality",
+"authors": [
+"David Weil",
+"Louis Putterman"
+],
+"year": 2010,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Mortality Change, the Uncertainty Effect, and Retirement",
+"authors": [
+"David Weil",
+"Sebnem Kalemli-Ozcan"
+],
+"year": 2010,
+"venue": "Journal of Economic Growth",
+"status": "published"
+},
+{
+"title": "Endemic Diseases and African Economic Growth",
+"authors": [
+"David Weil"
+],
+"year": 2010,
+"venue": "Journal of African Economies",
+"status": "published"
+},
+{
+"title": "How Relevant is Malthus for Economic Development Today?",
+"authors": [
+"David Weil"
+],
+"year": 2009,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "When Does Improving Health Raise GDP?",
+"authors": [
+"David Weil",
+"Quamrul Ashraf",
+"Ashley Lester"
+],
+"year": 2008,
+"venue": "NBER Macroeconomics Annual",
+"status": "published"
+},
+{
+"title": "Accounting for the Effect of Health on Economic Growth",
+"authors": [
+"David Weil"
+],
+"year": 2007,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "How Much of Cross-Country Income Variation is Explained by Health?",
+"authors": [
+"David Weil",
+"Gauri Kartini Shastry"
+],
+"year": 2003,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "The Baby Boom and the Stock Market Boom",
+"authors": [
+"David Weil",
+"Kyung-Mook Lim"
+],
+"year": 2003,
+"venue": "Scandinavian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Population, Technology, and Growth: From Malthusian Stagnation to the Demographic Transition and Beyond",
+"authors": [
+"David Weil",
+"Oded Galor"
+],
+"year": 2000,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Saving and Growth with Habit Formation",
+"authors": [
+"David Weil",
+"Chris Carroll",
+"Jody Overland"
+],
+"year": 2000,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Mortality Decline, Human Capital Investment, and Economic Growth",
+"authors": [
+"David Weil",
+"Sebnem Kalemli-Ozcan",
+"Harl E. Ryder"
+],
+"year": 2000,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Population Growth, Dependency, and Consumption",
+"authors": [
+"David Weil"
+],
+"year": 1999,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "From Malthusian Stagnation to Modern Growth",
+"authors": [
+"David Weil",
+"Oded Galor"
+],
+"year": 1999,
+"venue": "American Economic Review Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Appropriate Technology and Growth",
+"authors": [
+"David Weil",
+"Susanto Basu"
+],
+"year": 1998,
+"venue": "Quarterly Journal of Economics",
+"status": "published"
+},
+{
+"title": "Intergenerational Earnings Mobility, Inequality, and Growth",
+"authors": [
+"David Weil",
+"Ann Owen"
+],
+"year": 1998,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Comparison Utility in a Growth Model",
+"authors": [
+"David Weil",
+"Chris Carroll",
+"Jody Overland"
+],
+"year": 1997,
+"venue": "Journal of Economic Growth",
+"status": "published"
+},
+{
+"title": "An Asset Allocation Puzzle",
+"authors": [
+"David Weil",
+"Niko Canner",
+"Greg Mankiw"
+],
+"year": 1997,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Gender Gap, Fertility, and Growth",
+"authors": [
+"David Weil",
+"Oded Galor"
+],
+"year": 1996,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Effect of News on Bond Prices: Evidence from the United Kingdom, 1900-1920",
+"authors": [
+"David Weil",
+"Douglas Elmendorf",
+"Mary Hirschfeld"
+],
+"year": 1996,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Saving and Growth: A Reinterpretation",
+"authors": [
+"David Weil",
+"Chris Carroll"
+],
+"year": 1994,
+"venue": "Carnegie-Rochester Conference Series on Public Policy",
+"status": "published"
+}
+]
+},
+"matthew kraft": {
+"name": "Matthew Kraft",
+"papers": [
+{
+"title": "The effect of student-tutor ratios: Experimental evidence from a pilot online math tutoring program",
+"authors": [
+"Matthew Kraft",
+"V. Lovison"
+],
+"year": null,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "forthcoming"
+},
+{
+"title": "Teacher strikes as public signals: Impacts on political campaigns and public education funding",
+"authors": [
+"M.A. Lyon",
+"Matthew Kraft"
+],
+"year": null,
+"venue": "Journal of Human Resources",
+"status": "forthcoming"
+},
+{
+"title": "Grow Your Own: An umbrella term for very different localized teacher pipeline programs",
+"authors": [
+"D.S. Edwards",
+"Matthew Kraft"
+],
+"year": 2025,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Taking teacher evaluation to scale: The effects of state reforms on student achievement and attainment",
+"authors": [
+"J. Bleiberg",
+"E. Brunner",
+"E. Harbatkin",
+"Matthew Kraft",
+"M. Springer"
+],
+"year": 2025,
+"venue": "Journal of Political Economy: Microeconomics",
+"status": "published"
+},
+{
+"title": "Teacher shortages: A framework for understanding and predicting vacancies",
+"authors": [
+"D.S. Edwards",
+"Matthew Kraft",
+"A. Christian",
+"C. Candelaria"
+],
+"year": 2025,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "The rise and fall of the teaching profession: Prestige, interest, preparation, and satisfaction over the last half century",
+"authors": [
+"Matthew Kraft",
+"M.A. Lyon"
+],
+"year": 2024,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "Time in school: A conceptual framework, synthesis of the causal research, and empirical exploration",
+"authors": [
+"Matthew Kraft",
+"S. Novicoff"
+],
+"year": 2024,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "The effect size benchmark that matters most: Education interventions often fail",
+"authors": [
+"Matthew Kraft"
+],
+"year": 2023,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Local supply, temporal dynamics, and unrealized potential in teacher hiring",
+"authors": [
+"J.K. James",
+"Matthew Kraft",
+"J.P. Papay"
+],
+"year": 2023,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "How informal mentoring by teachers, counselors, and coaches supports students' long-run academic success",
+"authors": [
+"Matthew Kraft",
+"A. Bolves",
+"N. Hurd"
+],
+"year": 2023,
+"venue": "Economics of Education Review",
+"status": "published"
+},
+{
+"title": "What happened to the K-12 education labor market during COVID? The acute need for better data systems",
+"authors": [
+"J. Bleiberg",
+"Matthew Kraft"
+],
+"year": 2023,
+"venue": "Education Finance and Policy",
+"status": "published"
+},
+{
+"title": "Can technology transform communication between schools, teachers, and parents? Evidence from a randomized field trial",
+"authors": [
+"Matthew Kraft",
+"A. Bolves"
+],
+"year": 2022,
+"venue": "Education Finance and Policy",
+"status": "published"
+},
+{
+"title": "Can teacher evaluation systems produce high-quality feedback? An administrator training field experiment",
+"authors": [
+"Matthew Kraft",
+"A. Christian"
+],
+"year": 2022,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "The inequitable effects of teacher layoffs: What we know and can do",
+"authors": [
+"Matthew Kraft",
+"J. Bleiberg"
+],
+"year": 2022,
+"venue": "Educational Finance and Policy",
+"status": "published"
+},
+{
+"title": "Online tutoring by college volunteers: Experimental evidence from a pilot program",
+"authors": [
+"Matthew Kraft",
+"J.A. List",
+"J.A. Livingston",
+"S. Sadoff"
+],
+"year": 2022,
+"venue": "American Economic Review: Papers & Proceedings",
+"status": "published"
+},
+{
+"title": "Operator versus partner: A case study of the Blueprint School Network's model for school turnaround",
+"authors": [
+"J.P. Papay",
+"Matthew Kraft",
+"J.K. James"
+],
+"year": 2021,
+"venue": "Journal of Research on Educational Effectiveness",
+"status": "published"
+},
+{
+"title": "Sustaining a sense of success: The protective role of teacher working conditions during the COVID-19 pandemic",
+"authors": [
+"Matthew Kraft",
+"N.S. Simon",
+"M.A. Lyon"
+],
+"year": 2021,
+"venue": "Journal of Research on Educational Effectiveness",
+"status": "published"
+},
+{
+"title": "A blueprint for scaling tutoring and mentoring across public schools",
+"authors": [
+"Matthew Kraft",
+"G.T. Falken"
+],
+"year": 2021,
+"venue": "AERA Open",
+"status": "published"
+},
+{
+"title": "The big problem with little classroom interruptions",
+"authors": [
+"Matthew Kraft",
+"M. Monti-Nussbaum"
+],
+"year": 2021,
+"venue": "AERA Open",
+"status": "published"
+},
+{
+"title": "Developing ambitious mathematics instruction through web-based coaching: An experimental trial",
+"authors": [
+"Matthew Kraft",
+"H.C. Hill"
+],
+"year": 2020,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "The effect of teacher accountability reforms on new teacher supply and quality",
+"authors": [
+"Matthew Kraft",
+"E.J. Brunner",
+"S.M. Dougherty",
+"D. Schwegman"
+],
+"year": 2020,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Interpreting Effect Sizes of Education Interventions",
+"authors": [
+"Matthew Kraft"
+],
+"year": 2020,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Teacher skill development: Evidence from performance ratings by principals",
+"authors": [
+"Matthew Kraft",
+"J.P. Papay",
+"O.L. Chi"
+],
+"year": 2020,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "Balancing rigor, replication, and relevance: A case for multiple-cohort, longitudinal experiments",
+"authors": [
+"D.L. Blazar",
+"Matthew Kraft"
+],
+"year": 2019,
+"venue": "AERA Open",
+"status": "published"
+},
+{
+"title": "Teacher effects on complex cognitive skills and social-emotional competencies",
+"authors": [
+"Matthew Kraft"
+],
+"year": 2019,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence",
+"authors": [
+"Matthew Kraft",
+"D. Blazar",
+"D. Hogan"
+],
+"year": 2018,
+"venue": "Review of Educational Research",
+"status": "published"
+},
+{
+"title": "Can schools empower parents to prevent summer learning loss? A text messaging field experiment to promote literacy skills",
+"authors": [
+"Matthew Kraft",
+"M. Monti-Nussbaum"
+],
+"year": 2017,
+"venue": "The ANNALS of the American Academy of Political and Social Science",
+"status": "published"
+},
+{
+"title": "The sensitivity of teacher performance ratings to the design of teacher evaluation systems",
+"authors": [
+"M.P. Steinberg",
+"Matthew Kraft"
+],
+"year": 2017,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Individualized coaching to improve teacher practice across grades and subjects: New experimental evidence",
+"authors": [
+"Matthew Kraft",
+"D. Blazar"
+],
+"year": 2017,
+"venue": "Educational Policy",
+"status": "published"
+},
+{
+"title": "Revisiting the widget effect: Teacher evaluation reforms and distribution of teacher effectiveness ratings",
+"authors": [
+"Matthew Kraft",
+"A. Gilmour"
+],
+"year": 2017,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Gauging goodness of fit: Teachers' expectations for their instructional teams in high-poverty schools",
+"authors": [
+"M. Charner-Laird",
+"M. Ng",
+"S.M. Johnson",
+"Matthew Kraft",
+"J.P. Papay",
+"S.K. Reinhorn"
+],
+"year": 2017,
+"venue": "American Journal of Education",
+"status": "published"
+},
+{
+"title": "Teacher and teaching effects on students' attitudes and behaviors",
+"authors": [
+"D. Blazar",
+"Matthew Kraft"
+],
+"year": 2017,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Can principals promote teacher development as evaluators? A case study of principals' views and experiences",
+"authors": [
+"Matthew Kraft",
+"A. Gilmour"
+],
+"year": 2016,
+"venue": "Educational Administration Quarterly",
+"status": "published"
+},
+{
+"title": "School organizational contexts, teacher turnover, and student achievement: Evidence from panel data",
+"authors": [
+"Matthew Kraft",
+"W.H. Marinell",
+"D. Yee"
+],
+"year": 2016,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "The productivity costs of inefficient hiring practices: Evidence from late teacher hiring",
+"authors": [
+"J.P. Papay",
+"Matthew Kraft"
+],
+"year": 2016,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "Promise and paradox: Measuring students' non-cognitive skills and the impact of schooling",
+"authors": [
+"M.R. West",
+"Matthew Kraft",
+"A.S. Finn",
+"R. Martin",
+"A. Duckworth",
+"C.F. Gabrieli",
+"J.D. Gabrieli"
+],
+"year": 2016,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Exploring mechanisms of effective teacher coaching: Results from two cohorts of an experimental evaluation",
+"authors": [
+"D. Blazar",
+"Matthew Kraft"
+],
+"year": 2015,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Productivity returns to experience in the teacher labor market: Methodological challenges and new evidence on long-term career improvement",
+"authors": [
+"J.P. Papay",
+"Matthew Kraft"
+],
+"year": 2015,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Educating amidst uncertainty: The organizational supports that teachers need to serve students in high-poverty, urban schools",
+"authors": [
+"Matthew Kraft",
+"J.P. Papay",
+"M. Charner-Laird",
+"S.M. Johnson",
+"M. Ng",
+"S.K. Reinhorn"
+],
+"year": 2015,
+"venue": "Educational Administration Quarterly",
+"status": "published"
+},
+{
+"title": "Teacher layoffs, teacher quality and student achievement: Evidence from a discretionary layoff policy",
+"authors": [
+"Matthew Kraft"
+],
+"year": 2015,
+"venue": "Education Finance and Policy",
+"status": "published"
+},
+{
+"title": "The underutilized potential of teacher-to-parent communication: Evidence from a field experiment",
+"authors": [
+"Matthew Kraft",
+"T. Rogers"
+],
+"year": 2015,
+"venue": "Economics of Education Review",
+"status": "published"
+},
+{
+"title": "How to make additional time matter: Extending the school day for individualized tutorials",
+"authors": [
+"Matthew Kraft"
+],
+"year": 2015,
+"venue": "Education Finance and Policy",
+"status": "published"
+},
+{
+"title": "Can professional environments in schools promote teacher development? Explaining heterogeneity in returns to teaching experience",
+"authors": [
+"Matthew Kraft",
+"J.P. Papay"
+],
+"year": 2014,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Ready to lead, but what role will they play? Teachers' experiences in high-poverty urban schools",
+"authors": [
+"S.M. Johnson",
+"S.K. Reinhorn",
+"M. Charner-Laird",
+"Matthew Kraft",
+"M. Ng",
+"J.P. Papay"
+],
+"year": 2014,
+"venue": "Teachers College Record",
+"status": "published"
+},
+{
+"title": "State and local efforts to investigate the validity and reliability of scores from teacher evaluation systems",
+"authors": [
+"C. Herlihy",
+"E. Karger",
+"C. Pollard",
+"H.C. Hill",
+"Matthew Kraft",
+"M. Gregory",
+"S. Howard"
+],
+"year": 2014,
+"venue": "Teachers College Record",
+"status": "published"
+}
+]
+},
+"john papay": {
+"name": "John Papay",
+"papers": [
+{
+"title": "Increasing High School Exit Exam in Science: Consequences in Massachusetts",
+"authors": [
+"A. Mantil",
+"John Papay",
+"P.P. Mbekeani",
+"R.J. Murnane"
+],
+"year": 2025,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "Navigating a Fractured Landscape: Teachers' Engagement with Professional Learning Across Multiple Forms and Formats",
+"authors": [
+"S.K. Patrick",
+"J.A. Grissom",
+"John Papay"
+],
+"year": 2025,
+"venue": "American Journal of Education",
+"status": "published"
+},
+{
+"title": "Are Community-College Students Increasingly Choosing High-Paying Fields of Study? Evidence from Massachusetts",
+"authors": [
+"R.J. Murnane",
+"J.B. Willett",
+"A. McDonough",
+"John Papay",
+"A. Mantil"
+],
+"year": 2024,
+"venue": "AERA Open",
+"status": "published"
+},
+{
+"title": "Local Supply, Temporal Dynamics, and Unrealized Potential in Teacher Hiring",
+"authors": [
+"J. James",
+"Matthew Kraft",
+"John Papay"
+],
+"year": 2023,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "Teacher Preparation Programs and Graduates' Growth in Instructional Effectiveness",
+"authors": [
+"E. Bardelli",
+"M. Ronfeldt",
+"John Papay"
+],
+"year": 2023,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "On the Threshold: Impacts of Barely Passing High-School Exit Exams on Post-Secondary Enrollment and Completion",
+"authors": [
+"John Papay",
+"A. Mantil",
+"R.J. Murnane"
+],
+"year": 2022,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Operator Versus Partner: A Case Study of Blueprint School Network's Model for School Turnaround",
+"authors": [
+"John Papay",
+"Matthew Kraft",
+"J.K. James"
+],
+"year": 2022,
+"venue": "Journal of Research on Educational Effectiveness",
+"status": "published"
+},
+{
+"title": "Teacher Skill Development: Evidence from Performance Ratings by Principals",
+"authors": [
+"Matthew Kraft",
+"John Papay",
+"O. Chi"
+],
+"year": 2020,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "Learning Job Skills from Colleagues at Work: Evidence from a Field Experiment Using Teacher Performance Data",
+"authors": [
+"John Papay",
+"E.S. Taylor",
+"J.H. Tyler",
+"M.E. Laski"
+],
+"year": 2020,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "The Challenge of Teacher Retention in Urban Schools: Evidence of Variation from a Cross-Site Analysis",
+"authors": [
+"John Papay",
+"A. Bacher-Hicks",
+"L.C. Page",
+"W.H. Marinell"
+],
+"year": 2017,
+"venue": "Educational Researcher",
+"status": "published"
+},
+{
+"title": "Gauging Goodness of Fit: Teachers' Assessments of their Instructional Teams in High-Poverty Schools",
+"authors": [
+"M. Charner-Laird",
+"M. Ng",
+"S.M. Johnson",
+"Matthew Kraft",
+"John Papay",
+"S.K. Reinhorn"
+],
+"year": 2017,
+"venue": "American Journal of Education",
+"status": "published"
+},
+{
+"title": "The Productivity Costs of Inefficient Hiring Practices: Evidence from Late Teacher Hiring",
+"authors": [
+"John Papay",
+"Matthew Kraft"
+],
+"year": 2016,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "The Impact of Test-Score Labels on Human-Capital Investment Decisions",
+"authors": [
+"John Papay",
+"R.J. Murnane",
+"J.B. Willett"
+],
+"year": 2016,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Productivity Returns to Experience in the Teacher Labor Market: Methodological Challenges and New Evidence on Long-Term Career Growth",
+"authors": [
+"John Papay",
+"Matthew Kraft"
+],
+"year": 2015,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Educating Amid Uncertainty: The Organizational Supports Teachers Need to Serve Students in High-Poverty, Urban Schools",
+"authors": [
+"Matthew Kraft",
+"John Papay",
+"M. Charner-Laird",
+"S.M. Johnson",
+"M. Ng",
+"S.K. Reinhorn"
+],
+"year": 2015,
+"venue": "Educational Administration Quarterly",
+"status": "published"
+},
+{
+"title": "An Idea Whose Time Had Come: Negotiating Teacher Evaluation Reform in New Haven, Connecticut",
+"authors": [
+"M.L. Donaldson",
+"John Papay"
+],
+"year": 2015,
+"venue": "American Journal of Education",
+"status": "published"
+},
+{
+"title": "Inequality and Educational Attainment: Evidence from Massachusetts",
+"authors": [
+"John Papay",
+"R.J. Murnane",
+"J.B. Willett"
+],
+"year": 2015,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "High-School Exit Examinations and the Schooling Decisions of Teenagers: A Multi-Dimensional Regression-Discontinuity Analysis",
+"authors": [
+"John Papay",
+"R.J. Murnane",
+"J.B. Willett"
+],
+"year": 2014,
+"venue": "Journal of Research on Educational Effectiveness",
+"status": "published"
+},
+{
+"title": "Does Practice-Based Teacher Preparation Increase Student Achievement? Early Evidence from the Boston Teacher Residency",
+"authors": [
+"John Papay",
+"M.R. West",
+"J.B. Fullerton",
+"T.J. Kane"
+],
+"year": 2012,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "How Context Matters in High-Need Schools: The Effects of Teachers' Working Conditions on Their Professional Satisfaction and Their Students' Achievement",
+"authors": [
+"S.M. Johnson",
+"Matthew Kraft",
+"John Papay"
+],
+"year": 2012,
+"venue": "Teachers College Record",
+"status": "published"
+},
+{
+"title": "Is PAR a Good Investment? Understanding the Costs and Benefits of Teacher Peer Assistance and Review Programs",
+"authors": [
+"John Papay",
+"S.M. Johnson"
+],
+"year": 2012,
+"venue": "Educational Policy",
+"status": "published"
+},
+{
+"title": "Refocusing the Debate: Assessing the Purposes and Tools of Teacher Evaluation",
+"authors": [
+"John Papay"
+],
+"year": 2012,
+"venue": "Harvard Educational Review",
+"status": "published"
+},
+{
+"title": "Extending the Regression-Discontinuity Approach to Multiple Assignment Variables",
+"authors": [
+"John Papay",
+"J.B. Willett",
+"R.J. Murnane"
+],
+"year": 2011,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Different Tests, Different Answers: The Stability of Teacher Value-Added Estimates across Outcome Measures",
+"authors": [
+"John Papay"
+],
+"year": 2011,
+"venue": "American Educational Research Journal",
+"status": "published"
+},
+{
+"title": "The Consequences of High School Exit Examinations for Low-Performing Urban Students: Evidence from Massachusetts",
+"authors": [
+"John Papay",
+"R.J. Murnane",
+"J.B. Willett"
+],
+"year": 2010,
+"venue": "Educational Evaluation and Policy Analysis",
+"status": "published"
+},
+{
+"title": "Teachers' Views on No Child Left Behind: Support for the Principles, Concerns about the Practices",
+"authors": [
+"R.J. Murnane",
+"John Papay"
+],
+"year": 2010,
+"venue": "Journal of Economic Perspectives",
+"status": "published"
+},
+{
+"title": "Leading the Local: Teachers Union Presidents Chart Their Own Course",
+"authors": [
+"S.M. Johnson",
+"M.L. Donaldson",
+"M.S. Munger",
+"John Papay",
+"E.K. Qazilbash"
+],
+"year": 2009,
+"venue": "Peabody Journal of Education",
+"status": "published"
+}
+]
+}
+}
