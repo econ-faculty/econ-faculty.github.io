@@ -7,7 +7,7 @@
 data/faculty/<university>.json is the canonical, hand-editable data (one JSON array per university).
 """
 import glob, json, os, re, sys, unicodedata
-from collections import Counter
+from collections import Counter, defaultdict
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -289,12 +289,32 @@ def do_import(raw_dir):
                 continue
             buckets[uid].append(r)
     # detailed CV-level enrichment: raw/enrich/<batch>.json, matched by id or normalized name
-    enrich = {}
+    # each file applies only to its own university (same-name people at different schools must not collide)
+    legacy = {"cornell": "cornell-university", "hku": "university-of-hong-kong",
+              "cuhk": "chinese-university-of-hong-kong", "hkust": "hong-kong-university-of-science-and-technology",
+              "nus": "national-university-of-singapore", "ntu": "nanyang-technological-university",
+              "smu": "singapore-management-university"}
+
+    def enrich_uni(fname):
+        stem = os.path.basename(fname)[:-5]
+        for uid in buckets:
+            fulls = [uid] + (["the-" + uid] if os.path.exists(os.path.join(raw_dir, f"the-{uid}.json")) else [])
+            for full in fulls:  # merge files are named from raw ids, which may keep "the-"
+                p = full.split("-")
+                if stem.startswith(p[0] + "_" + p[-1] + "_"):
+                    return uid
+        return legacy.get(stem.split("_")[0])
+
+    enrich = defaultdict(dict)
     for f in sorted(glob.glob(os.path.join(raw_dir, "enrich", "*.json"))):
         if os.path.basename(f).startswith("_"):
             continue
+        u = enrich_uni(f)
+        if u is None:
+            warnings.append(f"enrich file {os.path.basename(f)}: cannot map to a university (skipped)")
+            continue
         for e in json.load(open(f, encoding="utf-8")):
-            enrich[norm(e.get("name"))] = e
+            enrich[u][norm(e.get("name"))] = e
     os.makedirs(os.path.join(DATA, "faculty"), exist_ok=True)
     for uid, recs in buckets.items():
         if not recs:
@@ -325,7 +345,7 @@ def do_import(raw_dir):
                         prev[k] = v
                 continue
             rec["id"] = slug(rec["name"])
-            e = enrich.get(key) or enrich.get(orig_key)
+            e = enrich[uid].get(key) or enrich[uid].get(orig_key)
             if e:
                 for k in ENRICH_KEYS:
                     if e.get(k) not in (None, "", []):

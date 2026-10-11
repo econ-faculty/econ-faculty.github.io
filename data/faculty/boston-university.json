@@ -5739,20 +5739,21 @@
   "unit_type": "business",
   "area": "Strategy and Innovation",
   "other_units": null,
-  "fields_raw": "Focus Areas (menu text only; no research interests given)",
+  "fields_raw": null,
   "fields_std": [
-   "Labor Economics",
-   "Data Science & Analytics"
+   "Strategy",
+   "Entrepreneurship & Innovation",
+   "Labor Economics"
   ],
   "phd_institution": "Stanford University",
-  "phd_year": null,
+  "phd_year": 2018,
   "phd_field": "Economics",
   "ma_institution": "University of Oxford",
-  "ma_year": null,
-  "ma_field": "M.Sc.",
+  "ma_year": 2010,
+  "ma_field": "History of Science, Medicine, and Technology",
   "ba_institution": "Harvard University",
-  "ba_year": null,
-  "ba_field": null,
+  "ba_year": 2009,
+  "ba_field": "History",
   "education_raw": null,
   "homepage_url": "http://ravivmg.com/",
   "profile_url": "https://www.bu.edu/questrom/profiles/raviv-murciano-goroff/",
@@ -5768,7 +5769,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "profile",
+  "detail_source": "cv",
   "id": "raviv-murciano-goroff"
  },
  {
