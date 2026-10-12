@@ -1855,5 +1855,131 @@
   "region": "Europe",
   "city": "Copenhagen",
   "added": "top5-2026"
+ },
+ {
+  "id": "university-of-exeter",
+  "name": "University of Exeter",
+  "short": "Exeter",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Exeter",
+  "added": "top5-2026"
+ },
+ {
+  "id": "california-state-university-fullerton",
+  "name": "California State University, Fullerton",
+  "short": "CSU Fullerton",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "nova-school-of-business-and-economics",
+  "name": "Nova School of Business and Economics",
+  "short": "Nova SBE",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-calgary",
+  "name": "University of Calgary",
+  "short": "Calgary",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Calgary",
+  "added": "top5-2026"
+ },
+ {
+  "id": "uppsala-university",
+  "name": "Uppsala University",
+  "short": "Uppsala",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Uppsala",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-delaware",
+  "name": "University of Delaware",
+  "short": "Delaware",
+  "country": "United States",
+  "region": "North America",
+  "city": "Newark",
+  "added": "top5-2026"
+ },
+ {
+  "id": "insead",
+  "name": "INSEAD",
+  "short": "INSEAD",
+  "country": "France",
+  "region": "Europe",
+  "city": "Fontainebleau",
+  "added": "top5-2026"
+ },
+ {
+  "id": "pontifical-catholic-university-of-rio-de-janeiro",
+  "name": "Pontifical Catholic University of Rio de Janeiro",
+  "short": "PUC-Rio",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "Rio de Janeiro",
+  "added": "top5-2026"
+ },
+ {
+  "id": "pontificia-universidad-catolica-de-chile",
+  "name": "Pontificia Universidad Católica de Chile",
+  "short": "PUC Chile",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "Santiago",
+  "added": "top5-2026"
+ },
+ {
+  "id": "amherst-college",
+  "name": "Amherst College",
+  "short": "Amherst",
+  "country": "United States",
+  "region": "North America",
+  "city": "Amherst",
+  "added": "top5-2026"
+ },
+ {
+  "id": "imt-school-for-advanced-studies-lucca",
+  "name": "IMT School for Advanced Studies Lucca",
+  "short": "IMT Lucca",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Lucca",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-arkansas",
+  "name": "University of Arkansas",
+  "short": "Arkansas",
+  "country": "United States",
+  "region": "North America",
+  "city": "Fayetteville",
+  "added": "top5-2026"
+ },
+ {
+  "id": "frankfurt-school-of-finance-management",
+  "name": "Frankfurt School of Finance & Management",
+  "short": "Frankfurt School",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Frankfurt am Main",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-utah",
+  "name": "University of Utah",
+  "short": "Utah",
+  "country": "United States",
+  "region": "North America",
+  "city": "Salt Lake City",
+  "added": "top5-2026"
  }
 ]

@@ -23,6 +23,7 @@
   const opt = (v, label, sel) => `<option value="${esc(v)}" ${String(sel) === String(v) ? "selected" : ""}>${esc(label)}</option>`;
   const link = (url, text) => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : "";
   const uniq = (a) => [...new Set(a)];
+  const byShort = (a, b) => a.short.localeCompare(b.short);  // institution dropdowns: alphabetical
   const rankCls = (r) => "rk-" + D.ranks[r].split(" ")[0];
 
   const V = D.v ? "?v=" + D.v : "";  // build version: busts stale browser caches after each deploy
@@ -104,8 +105,8 @@
     const shown = list.slice((S.page - 1) * CONFIG.pageSize, S.page * CONFIG.pageSize);
     const count = (fn) => P.filter(fn).length;
     const regions = uniq(U.map((u) => u.region));
-    const countries = uniq(U.filter((u) => !S.region || u.region === S.region).map((u) => u.country));
-    const unis = U.filter((u) => u.n && (!S.region || u.region === S.region) && (!S.country || u.country === S.country));
+    const countries = uniq(U.filter((u) => !S.region || u.region === S.region).map((u) => u.country)).sort((a, b) => a.localeCompare(b));
+    const unis = U.filter((u) => u.n && (!S.region || u.region === S.region) && (!S.country || u.country === S.country)).sort(byShort);
     const pfc = {}; for (const p of P) if (match(p, "pf")) for (const i of p.pfield) pfc[i] = (pfc[i] || 0) + 1;
     const groups = uniq(D.pfields.map((x) => x.split(":")[0]));
     const fieldOpts = groups.map((g) => {
@@ -312,7 +313,7 @@
         <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
         <select id="pj"><option value="">Any journal</option>${journalOpts(s.jr)}</select>
       </div><div class="row">
-        <select id="pu"><option value="">All institutions</option>${U.filter((u) => u.n).map((u) => opt(u.id, u.short, s.uni)).join("")}</select>
+        <select id="pu"><option value="">All institutions</option>${U.filter((u) => u.n).sort(byShort).map((u) => opt(u.id, u.short, s.uni)).join("")}</select>
         <input id="py0" type="number" placeholder="From year" value="${esc(s.y0)}" style="max-width:120px"><input id="py1" type="number" placeholder="To year" value="${esc(s.y1)}" style="max-width:120px">
         <label class="small" title="Hide the ${(D.n_all || 0).toLocaleString()} articles whose authors are not in the directory"><input type="checkbox" id="pall" ${s.all ? "" : "checked"}> Only papers by faculty in the directory</label>
         <button class="btn" id="preset" type="button">Reset</button></div></section>
