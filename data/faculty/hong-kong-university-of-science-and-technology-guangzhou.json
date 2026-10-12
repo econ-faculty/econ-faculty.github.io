@@ -183,7 +183,7 @@
   "education_raw": "PhD Economics, Cornell University",
   "homepage_url": "https://www.siguangli.com/about-me.html",
   "profile_url": null,
-  "cv_url": null,
+  "cv_url": "https://www.siguangli.com/cv.html",
   "google_scholar_url": null,
   "orcid": "https://orcid.org/0000-0003-1371-7257",
   "year_joined": null,
@@ -195,7 +195,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "siguang-li"
  },
  {
@@ -224,7 +224,7 @@
   "education_raw": "PhD Economics, University of Chicago, 1992",
   "homepage_url": "https://personal.hkust-gz.edu.cn/dxie/personaldanyangxie.html",
   "profile_url": null,
-  "cv_url": null,
+  "cv_url": "http://personal.hkust-gz.edu.cn/dxie/vita_xie.pdf",
   "google_scholar_url": "https://scholar.google.com/citations?user=ZhjULlYAAAAJ",
   "orcid": "https://orcid.org/0000-0003-0305-4031",
   "year_joined": null,
@@ -236,7 +236,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "danyang-xie"
  },
  {
