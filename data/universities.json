@@ -1540,5 +1540,320 @@
   "region": "Europe",
   "city": "Barcelona",
   "added": "top5-2026"
+ },
+ {
+  "id": "university-of-western-ontario",
+  "name": "University of Western Ontario",
+  "short": "Western",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "unsw-sydney",
+  "name": "UNSW Sydney",
+  "short": "UNSW",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Sydney",
+  "added": "top5-2026"
+ },
+ {
+  "id": "birkbeck-university-of-london",
+  "name": "Birkbeck, University of London",
+  "short": "Birkbeck",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-north-carolina-at-charlotte",
+  "name": "University of North Carolina at Charlotte",
+  "short": "UNC Charlotte",
+  "country": "United States",
+  "region": "North America",
+  "city": "Charlotte",
+  "added": "top5-2026"
+ },
+ {
+  "id": "brigham-young-university",
+  "name": "Brigham Young University",
+  "short": "BYU",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universite-du-quebec-a-montreal",
+  "name": "Université du Québec à Montréal",
+  "short": "UQAM",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Montreal",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-lausanne",
+  "name": "University of Lausanne",
+  "short": "Lausanne",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Lausanne",
+  "added": "top5-2026"
+ },
+ {
+  "id": "xiamen-university",
+  "name": "Xiamen University",
+  "short": "Xiamen",
+  "country": "China",
+  "region": "Asia",
+  "city": "Xiamen",
+  "added": "top5-2026"
+ },
+ {
+  "id": "johannes-kepler-university-linz",
+  "name": "Johannes Kepler University Linz",
+  "short": "JKU Linz",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Linz",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universite-libre-de-bruxelles",
+  "name": "Université libre de Bruxelles",
+  "short": "ULB",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "Brussels",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lancaster-university",
+  "name": "Lancaster University",
+  "short": "Lancaster",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Lancaster",
+  "added": "top5-2026"
+ },
+ {
+  "id": "otaru-university-of-commerce",
+  "name": "Otaru University of Commerce",
+  "short": "Otaru",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Otaru",
+  "added": "top5-2026"
+ },
+ {
+  "id": "osaka-university",
+  "name": "Osaka University",
+  "short": "Osaka",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Osaka",
+  "added": "top5-2026"
+ },
+ {
+  "id": "sciences-po",
+  "name": "Sciences Po",
+  "short": "Sciences Po",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universite-de-montreal",
+  "name": "Université de Montréal",
+  "short": "UdeM",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-lorraine",
+  "name": "University of Lorraine",
+  "short": "Lorraine",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "york-university",
+  "name": "York University",
+  "short": "York U (Canada)",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Toronto",
+  "added": "top5-2026"
+ },
+ {
+  "id": "tu-wien",
+  "name": "TU Wien",
+  "short": "TU Wien",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lehigh-university",
+  "name": "Lehigh University",
+  "short": "Lehigh",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-padova",
+  "name": "University of Padova",
+  "short": "Padova",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Padova",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-dhaka",
+  "name": "University of Dhaka",
+  "short": "Dhaka",
+  "country": "Bangladesh",
+  "region": "Asia",
+  "city": "Dhaka",
+  "added": "top5-2026"
+ },
+ {
+  "id": "royal-holloway-university-of-london",
+  "name": "Royal Holloway, University of London",
+  "short": "Royal Holloway",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "nantes-universite",
+  "name": "Nantes Université",
+  "short": "Nantes",
+  "country": "France",
+  "region": "Europe",
+  "city": "Nantes",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-california-merced",
+  "name": "University of California, Merced",
+  "short": "UC Merced",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "jinan-university",
+  "name": "Jinan University",
+  "short": "Jinan",
+  "country": "China",
+  "region": "Asia",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-luxembourg",
+  "name": "University of Luxembourg",
+  "short": "Luxembourg",
+  "country": "Luxembourg",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "chapman-university",
+  "name": "Chapman University",
+  "short": "Chapman",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bordeaux",
+  "name": "University of Bordeaux",
+  "short": "Bordeaux",
+  "country": "France",
+  "region": "Europe",
+  "city": "Bordeaux",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-gothenburg",
+  "name": "University of Gothenburg",
+  "short": "Gothenburg",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Gothenburg",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lahore-university-of-management-sciences",
+  "name": "Lahore University of Management Sciences",
+  "short": "LUMS",
+  "country": "Pakistan",
+  "region": "Asia",
+  "city": "Lahore",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bern",
+  "name": "University of Bern",
+  "short": "Bern",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Bern",
+  "added": "top5-2026"
+ },
+ {
+  "id": "barnard-college",
+  "name": "Barnard College",
+  "short": "Barnard",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "dartmouth-college",
+  "name": "Dartmouth College",
+  "short": "Dartmouth",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "fgv-eaesp-sao-paulo-school-of-business-administration",
+  "name": "FGV EAESP São Paulo School of Business Administration",
+  "short": "FGV EAESP",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "Sao Paulo",
+  "added": "top5-2026"
+ },
+ {
+  "id": "copenhagen-business-school",
+  "name": "Copenhagen Business School",
+  "short": "CBS",
+  "country": "Denmark",
+  "region": "Europe",
+  "city": "Copenhagen",
+  "added": "top5-2026"
  }
 ]
