@@ -280,6 +280,8 @@ def same_person(a, b):
 
 def do_import(raw_dir):
     unis, alias = load_unis()
+    dp = os.path.join(DATA, "drop_people.json")
+    DROP = {(d["university"], norm(d["name"])) for d in json.load(open(dp, encoding="utf-8"))} if os.path.exists(dp) else set()
     buckets = {u["id"]: [] for u in unis}
     for f in sorted(glob.glob(os.path.join(raw_dir, "*.json"))):
         if os.path.basename(f).startswith("_") or re.search(r"_(screening|domestic|domestic_decision|phd_unknown)\.json$", f):
@@ -293,6 +295,8 @@ def do_import(raw_dir):
             recs = recs.get("records") or recs.get("people") or []
         for r in recs:
             uid = alias.get(norm(r.get("university")).replace(" ", "")) or alias.get(norm(os.path.basename(f)[:-5]).replace(" ", ""))
+            if uid and (uid, norm(fix_name(r.get("name")))) in DROP:   # same person listed at another university
+                continue
             if not uid:
                 warnings.append(f"{os.path.basename(f)}: unknown university '{r.get('university')}'")
                 continue

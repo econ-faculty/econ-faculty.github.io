@@ -1,0 +1,254 @@
+[
+ {
+  "pid": "patrick-kehoe--minnesota",
+  "university": "university-of-minnesota",
+  "name": "Patrick Kehoe",
+  "kept_as": "patrick-kehoe--stanford",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "andrew-patton--smu",
+  "university": "singapore-management-university",
+  "name": "Andrew Patton",
+  "kept_as": "andrew-j-patton--duke",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "marti-subrahmanyam--nyushanghai",
+  "university": "new-york-university-shanghai",
+  "name": "Marti Subrahmanyam",
+  "kept_as": "marti-g-subrahmanyam--nyu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "alan-m-taylor--ucdavis",
+  "university": "university-of-california-davis",
+  "name": "Alan M. Taylor",
+  "kept_as": "alan-taylor--columbia",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "christopher-m-meissner--cambridge",
+  "university": "university-of-cambridge",
+  "name": "Christopher M. Meissner",
+  "kept_as": "christopher-meissner--ucdavis",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "francesca-molinari--cornell",
+  "university": "cornell-university",
+  "name": "Francesca Molinari",
+  "kept_as": "francesca-molinari--jhu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "ed-dehaan--uw",
+  "university": "university-of-washington",
+  "name": "Ed deHaan",
+  "kept_as": "ed-dehaan--stanford",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "levon-barseghyan--cornell",
+  "university": "cornell-university",
+  "name": "Levon Barseghyan",
+  "kept_as": "levon-barseghyan--jhu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "natalia-levina--warwick",
+  "university": "university-of-warwick",
+  "name": "Natalia Levina",
+  "kept_as": "natalia-levina--nyu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "heather-berry--gwu",
+  "university": "george-washington-university",
+  "name": "Heather Berry",
+  "kept_as": "heather-berry--georgetown",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "daniel-gottlieb--lse",
+  "university": "london-school-of-economics",
+  "name": "Daniel Gottlieb",
+  "kept_as": "daniel-gottlieb--usc",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "xing-huang--washu",
+  "university": "washington-university-in-st-louis",
+  "name": "Xing Huang",
+  "kept_as": "xing-huang--cornell",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "basak-kalkanci--georgiatech",
+  "university": "georgia-institute-of-technology",
+  "name": "Basak Kalkanci",
+  "kept_as": "basak-kalkanci--ucsb",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "tat-chan--washu",
+  "university": "washington-university-in-st-louis",
+  "name": "Tat Chan",
+  "kept_as": "tat-yuen-chan--hku",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "gurneeta-vasudeva-singh--minnesota",
+  "university": "university-of-minnesota",
+  "name": "Gurneeta Vasudeva Singh",
+  "kept_as": "gurneeta-vasudeva-singh--texasa&m",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "jessica-fong--michigan",
+  "university": "university-of-michigan",
+  "name": "Jessica Fong",
+  "kept_as": "jessica-fong--umd",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "songfa-zhong--nus",
+  "university": "national-university-of-singapore",
+  "name": "Songfa Zhong",
+  "kept_as": "songfa-zhong--hkust",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "adam-brandenburger--nyushanghai",
+  "university": "new-york-university-shanghai",
+  "name": "Adam Brandenburger",
+  "kept_as": "adam-m-brandenburger--nyu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "heejung-byun--purdue",
+  "university": "purdue-university",
+  "name": "Heejung Byun",
+  "kept_as": "heejung-byun--pennstate",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "zhaogang-song--jhu",
+  "university": "johns-hopkins-university",
+  "name": "Zhaogang Song",
+  "kept_as": "zhaogang-song--smu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "yuxin-chen--nyu",
+  "university": "new-york-university",
+  "name": "Yuxin Chen",
+  "kept_as": "yuxin-chen--nyushanghai",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "peter-christensen--uiuc",
+  "university": "university-of-illinois-urbana-champaign",
+  "name": "Peter Christensen",
+  "kept_as": "peter-christensen--ucsantacruz",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "dragana-cvijanovic--cornell",
+  "university": "cornell-university",
+  "name": "Dragana Cvijanovic",
+  "kept_as": "dragana-cvijanovic--uva",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "yunzhi-hu--unc",
+  "university": "university-of-north-carolina-at-chapel-hill",
+  "name": "Yunzhi Hu",
+  "kept_as": "yunzhi-hu--hkust",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "kira-schabram--uw",
+  "university": "university-of-washington",
+  "name": "Kira Schabram",
+  "kept_as": "kira-schabram--pennstate",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "yona-rubinstein--uh",
+  "university": "university-of-houston",
+  "name": "Yona Rubinstein",
+  "kept_as": "yona-rubinstein--lse",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "hao-liang--smu",
+  "university": "singapore-management-university",
+  "name": "Hao Liang",
+  "kept_as": "hao-liang--ntu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "michael-rubens--ucla",
+  "university": "university-of-california-los-angeles",
+  "name": "Michael Rubens",
+  "kept_as": "michael-rubens--bc",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "paul-a-wong--ucdavis",
+  "university": "university-of-california-davis",
+  "name": "Paul A. Wong",
+  "kept_as": "paul-wong--kentucky",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "julia-hur--nyu",
+  "university": "new-york-university",
+  "name": "Julia Hur",
+  "kept_as": "julia-hur--nyushanghai",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "raviv-murciano-goroff--nyu",
+  "university": "new-york-university",
+  "name": "Raviv Murciano-Goroff",
+  "kept_as": "raviv-murciano-goroff--bu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "jiahui-mo--clemson",
+  "university": "clemson-university",
+  "name": "Jiahui Mo",
+  "kept_as": "jiahui-mo--ncstate",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "simone-lenzu--nyu",
+  "university": "new-york-university",
+  "name": "Simone Lenzu",
+  "kept_as": "simone-lenzu--cambridge",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "zenan-wu--pku",
+  "university": "peking-university",
+  "name": "Zenan Wu",
+  "kept_as": "zenan-wu--tsinghua",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "will-cong--cornell",
+  "university": "cornell-university",
+  "name": "Will Cong",
+  "kept_as": "will-cong--ntu",
+  "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "jingyuan-li--cuhk-shenzhen",
+  "university": "chinese-university-of-hong-kong-shenzhen",
+  "name": "Jingyuan Li",
+  "kept_as": "jingyuan-li--indiana",
+  "reason": "same person listed twice (2026-10-11 review)"
+ }
+]
