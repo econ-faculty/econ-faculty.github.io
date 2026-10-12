@@ -1243,5 +1243,302 @@
   "region": "Latin America",
   "city": "",
   "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bologna",
+  "name": "University of Bologna",
+  "short": "Bologna",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "erasmus-university-rotterdam",
+  "name": "Erasmus University Rotterdam",
+  "short": "Erasmus",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "hec-montreal",
+  "name": "HEC Montréal",
+  "short": "HEC Montréal",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "cy-cergy-paris-university",
+  "name": "CY Cergy Paris University",
+  "short": "CY Cergy",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "ku-leuven",
+  "name": "KU Leuven",
+  "short": "KU Leuven",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "sgh-warsaw-school-of-economics",
+  "name": "SGH Warsaw School of Economics",
+  "short": "SGH",
+  "country": "Poland",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "humboldt-university-of-berlin",
+  "name": "Humboldt University of Berlin",
+  "short": "HU Berlin",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Berlin",
+  "added": "top5-2026"
+ },
+ {
+  "id": "carleton-university",
+  "name": "Carleton University",
+  "short": "Carleton",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "paris-school-of-economics",
+  "name": "Paris School of Economics",
+  "short": "PSE",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "top5-2026"
+ },
+ {
+  "id": "queen-mary-university-of-london",
+  "name": "Queen Mary University of London",
+  "short": "QMUL",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "top5-2026"
+ },
+ {
+  "id": "monash-university",
+  "name": "Monash University",
+  "short": "Monash",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lumiere-university-lyon-2",
+  "name": "Lumière University Lyon 2",
+  "short": "Lyon 2",
+  "country": "France",
+  "region": "Europe",
+  "city": "Lyon",
+  "added": "top5-2026"
+ },
+ {
+  "id": "paris-dauphine-university",
+  "name": "Paris Dauphine University",
+  "short": "Paris Dauphine",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "top5-2026"
+ },
+ {
+  "id": "le-mans-university",
+  "name": "Le Mans University",
+  "short": "Le Mans",
+  "country": "France",
+  "region": "Europe",
+  "city": "Le Mans",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bristol",
+  "name": "University of Bristol",
+  "short": "Bristol",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Bristol",
+  "added": "top5-2026"
+ },
+ {
+  "id": "hse-university",
+  "name": "HSE University",
+  "short": "HSE",
+  "country": "Russia",
+  "region": "Europe",
+  "city": "Moscow",
+  "added": "top5-2026"
+ },
+ {
+  "id": "mcgill-university",
+  "name": "McGill University",
+  "short": "McGill",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Montreal",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lmu-munich",
+  "name": "LMU Munich",
+  "short": "LMU Munich",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Munich",
+  "added": "top5-2026"
+ },
+ {
+  "id": "norwegian-university-of-science-and-technology",
+  "name": "Norwegian University of Science and Technology",
+  "short": "NTNU",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "european-university-institute",
+  "name": "European University Institute",
+  "short": "EUI",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "essec-business-school",
+  "name": "ESSEC Business School",
+  "short": "ESSEC",
+  "country": "France",
+  "region": "Europe",
+  "city": "Cergy",
+  "added": "top5-2026"
+ },
+ {
+  "id": "nyu-abu-dhabi",
+  "name": "NYU Abu Dhabi",
+  "short": "NYU Abu Dhabi",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "city": "Abu Dhabi",
+  "added": "top5-2026"
+ },
+ {
+  "id": "lund-university",
+  "name": "Lund University",
+  "short": "Lund",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Lund",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-technology-sydney",
+  "name": "University of Technology Sydney",
+  "short": "UTS",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Sydney",
+  "added": "top5-2026"
+ },
+ {
+  "id": "eth-zurich",
+  "name": "ETH Zurich",
+  "short": "ETH Zurich",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Zurich",
+  "added": "top5-2026"
+ },
+ {
+  "id": "aalto-university",
+  "name": "Aalto University",
+  "short": "Aalto",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-amsterdam",
+  "name": "University of Amsterdam",
+  "short": "Amsterdam",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Amsterdam",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-warsaw",
+  "name": "University of Warsaw",
+  "short": "Warsaw",
+  "country": "Poland",
+  "region": "Europe",
+  "city": "Warsaw",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-applied-labour-studies",
+  "name": "University of Applied Labour Studies",
+  "short": "HdBA",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Schwerin",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universidad-carlos-iii-de-madrid",
+  "name": "Universidad Carlos III de Madrid",
+  "short": "UC3M",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-helsinki",
+  "name": "University of Helsinki",
+  "short": "Helsinki",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "Helsinki",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-stavanger",
+  "name": "University of Stavanger",
+  "short": "Stavanger",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "Stavanger",
+  "added": "top5-2026"
+ },
+ {
+  "id": "barcelona-school-of-economics",
+  "name": "Barcelona School of Economics",
+  "short": "BSE",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "top5-2026"
  }
 ]
