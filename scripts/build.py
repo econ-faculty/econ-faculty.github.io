@@ -521,6 +521,15 @@ def build(check):
     tier_of = {j[0]: TIERS[j[1]] for j in JOURNALS}
     PMATCH.update(paper_match.match([{"pid": pid, "name": nm, "phd": people[ri][9], "cv": ps} for pid, nm, ri, ps, _, _ in pending],
                                     corpus, tier_of, NATURAL))
+    # links verified by OpenAlex affiliations for faculty the name matcher could not link (pipeline/zerolink/verify.py)
+    xp = os.path.join(DATA, "paperdb", "extra_links.json")
+    if os.path.exists(xp):
+        pids = {x[0] for x in pending}
+        for pid, ds in json.load(open(xp)).items():
+            if pid in pids:
+                for d, ai in ds.items():
+                    if d in PDB:
+                        PMATCH.setdefault(pid, {}).setdefault(d, ai)
     with open(os.path.join(DATA, "paperdb", "matched.json"), "w") as g:
         json.dump(PMATCH, g, separators=(",", ":"), sort_keys=True)
     print(f"{sum(map(len, PMATCH.values()))} paper-author links for {len(PMATCH)} faculty from {len(corpus)} journal articles")
