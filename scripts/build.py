@@ -269,6 +269,15 @@ def year(v):
     return int(m.group(0)) if m else None
 
 
+def same_person(a, b):
+    """Two records with the same name at one university are the same person unless their PhDs disagree."""
+    pa, pb = norm(a.get("phd_institution")), norm(b.get("phd_institution"))
+    if pa and pb and pa != pb and pa not in pb and pb not in pa:
+        return False
+    ya, yb = year(a.get("phd_year")), year(b.get("phd_year"))
+    return not (ya and yb and abs(ya - yb) > 1)
+
+
 def do_import(raw_dir):
     unis, alias = load_unis()
     buckets = {u["id"]: [] for u in unis}
@@ -319,7 +328,7 @@ def do_import(raw_dir):
     for uid, recs in buckets.items():
         if not recs:
             continue
-        out, seen = [], {}
+        out, seen, namesake = [], {}, set()
         for r in recs:
             rec = {k: r.get(k) for k in KEEP}
             orig_key = norm(r.get("name"))
@@ -337,6 +346,10 @@ def do_import(raw_dir):
             for k in ("phd_year", "ba_year", "year_joined"):
                 rec[k] = year(rec.get(k))
             key = norm(rec["name"])
+            if key in seen and not same_person(out[seen[key]], rec):  # namesakes at one university: keep both
+                warnings.append(f"{uid}: two different people named {rec['name']} ({out[seen[key]].get('unit')} / {rec.get('unit')}) kept apart")
+                key = key + " #2"
+                namesake.add(norm(rec["name"]))
             if key in seen:  # same person in two units -> merge
                 prev = out[seen[key]]
                 prev["other_units"] = "; ".join(x for x in [prev.get("other_units"), rec.get("unit")] if x)
@@ -346,6 +359,8 @@ def do_import(raw_dir):
                 continue
             rec["id"] = slug(rec["name"])
             e = enrich[uid].get(key) or enrich[uid].get(orig_key)
+            if e and norm(rec["name"]) in namesake | {k[:-3] for k in seen if k.endswith(" #2")} and not same_person(e, rec):
+                e = None                       # enrichment is keyed by name; never copy it onto the wrong namesake
             if e:
                 for k in ENRICH_KEYS:
                     if e.get(k) not in (None, "", []):
@@ -530,6 +545,12 @@ def build(check):
                 for d, ai in ds.items():
                     if d in PDB:
                         PMATCH.setdefault(pid, {}).setdefault(d, ai)
+    # links confirmed wrong (namesakes) by manual / agent review: never shown, even if a matcher proposes them again
+    ep = os.path.join(DATA, "paperdb", "exclude_links.json")
+    if os.path.exists(ep):
+        for pid, ds in json.load(open(ep)).items():
+            for d in ds:
+                PMATCH.get(pid, {}).pop(d, None)
     with open(os.path.join(DATA, "paperdb", "matched.json"), "w") as g:
         json.dump(PMATCH, g, separators=(",", ":"), sort_keys=True)
     print(f"{sum(map(len, PMATCH.values()))} paper-author links for {len(PMATCH)} faculty from {len(corpus)} journal articles")
