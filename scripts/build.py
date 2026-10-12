@@ -273,7 +273,7 @@ def do_import(raw_dir):
     unis, alias = load_unis()
     buckets = {u["id"]: [] for u in unis}
     for f in sorted(glob.glob(os.path.join(raw_dir, "*.json"))):
-        if f.endswith("_screening.json") or os.path.basename(f).startswith("_"):
+        if os.path.basename(f).startswith("_") or re.search(r"_(screening|domestic|domestic_decision|phd_unknown)\.json$", f):
             continue
         try:
             recs = json.load(open(f, encoding="utf-8"))

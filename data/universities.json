@@ -805,5 +805,443 @@
   "country": "Singapore",
   "region": "Asia",
   "city": "Singapore"
+ },
+ {
+  "id": "tsinghua-university",
+  "name": "Tsinghua University",
+  "short": "Tsinghua",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "peking-university",
+  "name": "Peking University",
+  "short": "PKU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "fudan-university",
+  "name": "Fudan University",
+  "short": "Fudan",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai"
+ },
+ {
+  "id": "shanghai-jiao-tong-university",
+  "name": "Shanghai Jiao Tong University",
+  "short": "SJTU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai"
+ },
+ {
+  "id": "new-york-university-shanghai",
+  "name": "New York University Shanghai",
+  "short": "NYU Shanghai",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai",
+  "aliases": [
+   "NYU Shanghai"
+  ]
+ },
+ {
+  "id": "chinese-university-of-hong-kong-shenzhen",
+  "name": "The Chinese University of Hong Kong, Shenzhen",
+  "short": "CUHK-Shenzhen",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shenzhen",
+  "aliases": [
+   "CUHK Shenzhen",
+   "CUHK-SZ",
+   "Chinese University of Hong Kong, Shenzhen"
+  ]
+ },
+ {
+  "id": "hong-kong-university-of-science-and-technology-guangzhou",
+  "name": "The Hong Kong University of Science and Technology (Guangzhou)",
+  "short": "HKUST-GZ",
+  "country": "China",
+  "region": "Asia",
+  "city": "Guangzhou",
+  "aliases": [
+   "HKUST (Guangzhou)",
+   "HKUST(GZ)",
+   "Hong Kong University of Science and Technology (Guangzhou)"
+  ]
+ },
+ {
+  "id": "university-college-london",
+  "name": "University College London",
+  "short": "UCL",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-cologne",
+  "name": "University of Cologne",
+  "short": "Cologne",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Cologne",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universitat-pompeu-fabra",
+  "name": "Universitat Pompeu Fabra",
+  "short": "UPF",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "top5-2026"
+ },
+ {
+  "id": "bi-norwegian-business-school",
+  "name": "BI Norwegian Business School",
+  "short": "BI",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "Oslo",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-mannheim",
+  "name": "University of Mannheim",
+  "short": "Mannheim",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Mannheim",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bergen",
+  "name": "University of Bergen",
+  "short": "Bergen",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "Bergen",
+  "added": "top5-2026"
+ },
+ {
+  "id": "norwegian-school-of-economics",
+  "name": "Norwegian School of Economics",
+  "short": "NHH",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "Bergen",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-tubingen",
+  "name": "University of Tübingen",
+  "short": "Tübingen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Tübingen",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-louisville",
+  "name": "University of Louisville",
+  "short": "Louisville",
+  "country": "United States",
+  "region": "North America",
+  "city": "Louisville",
+  "added": "top5-2026"
+ },
+ {
+  "id": "instituto-tecnologico-autonomo-de-mexico",
+  "name": "Instituto Tecnológico Autónomo de México",
+  "short": "ITAM",
+  "country": "Mexico",
+  "region": "Latin America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-montevideo",
+  "name": "University of Montevideo",
+  "short": "Montevideo",
+  "country": "Uruguay",
+  "region": "Latin America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "hebrew-university-of-jerusalem",
+  "name": "The Hebrew University of Jerusalem",
+  "short": "Hebrew U",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "Jerusalem",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-tokyo",
+  "name": "University of Tokyo",
+  "short": "Tokyo",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-british-columbia",
+  "name": "University of British Columbia",
+  "short": "UBC",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Vancouver",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-bonn",
+  "name": "University of Bonn",
+  "short": "Bonn",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Bonn",
+  "added": "top5-2026"
+ },
+ {
+  "id": "bocconi-university",
+  "name": "Bocconi University",
+  "short": "Bocconi",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Milan",
+  "added": "top5-2026"
+ },
+ {
+  "id": "oberlin-college",
+  "name": "Oberlin College",
+  "short": "Oberlin",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "luiss-guido-carli-university",
+  "name": "LUISS Guido Carli University",
+  "short": "LUISS",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-turin",
+  "name": "University of Turin",
+  "short": "Turin",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "united-states-military-academy",
+  "name": "United States Military Academy",
+  "short": "West Point",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universidad-de-los-andes",
+  "name": "Universidad de los Andes",
+  "short": "Los Andes",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "hec-paris",
+  "name": "HEC Paris",
+  "short": "HEC Paris",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-southampton",
+  "name": "University of Southampton",
+  "short": "Southampton",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-essex",
+  "name": "University of Essex",
+  "short": "Essex",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "top5-2026"
+ },
+ {
+  "id": "stockholm-university",
+  "name": "Stockholm University",
+  "short": "Stockholm U",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Stockholm",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-copenhagen",
+  "name": "University of Copenhagen",
+  "short": "Copenhagen",
+  "country": "Denmark",
+  "region": "Europe",
+  "city": "Copenhagen",
+  "added": "top5-2026"
+ },
+ {
+  "id": "city-st-george-s-university-of-london",
+  "name": "City St George's, University of London",
+  "short": "City St George's",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "top5-2026"
+ },
+ {
+  "id": "universidad-autonoma-de-madrid",
+  "name": "Universidad Autónoma de Madrid",
+  "short": "UAM",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "top5-2026"
+ },
+ {
+  "id": "esade-business-school",
+  "name": "ESADE Business School",
+  "short": "ESADE",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "top5-2026"
+ },
+ {
+  "id": "kiel-university",
+  "name": "Kiel University",
+  "short": "Kiel",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Kiel",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-zurich",
+  "name": "University of Zurich",
+  "short": "UZH",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Zurich",
+  "added": "top5-2026"
+ },
+ {
+  "id": "stockholm-school-of-economics",
+  "name": "Stockholm School of Economics",
+  "short": "SSE",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Stockholm",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-glasgow",
+  "name": "University of Glasgow",
+  "short": "Glasgow",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Glasgow",
+  "added": "top5-2026"
+ },
+ {
+  "id": "linnaeus-university",
+  "name": "Linnaeus University",
+  "short": "Linnaeus",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Växjö",
+  "added": "top5-2026"
+ },
+ {
+  "id": "tel-aviv-university",
+  "name": "Tel Aviv University",
+  "short": "Tel Aviv",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "Tel Aviv",
+  "added": "top5-2026"
+ },
+ {
+  "id": "mines-paris-psl",
+  "name": "MINES Paris - PSL",
+  "short": "MINES Paris",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "top5-2026"
+ },
+ {
+  "id": "toulouse-school-of-economics",
+  "name": "Toulouse School of Economics",
+  "short": "TSE",
+  "country": "France",
+  "region": "Europe",
+  "city": "Toulouse",
+  "added": "top5-2026"
+ },
+ {
+  "id": "kyoto-university",
+  "name": "Kyoto University",
+  "short": "Kyoto",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Kyoto",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-leeds",
+  "name": "University of Leeds",
+  "short": "Leeds",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Leeds",
+  "added": "top5-2026"
+ },
+ {
+  "id": "university-of-toronto",
+  "name": "University of Toronto",
+  "short": "Toronto",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Toronto",
+  "added": "top5-2026"
+ },
+ {
+  "id": "fgv-epge-brazilian-school-of-economics-and-finance",
+  "name": "FGV EPGE Brazilian School of Economics and Finance",
+  "short": "FGV EPGE",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "",
+  "added": "top5-2026"
  }
 ]

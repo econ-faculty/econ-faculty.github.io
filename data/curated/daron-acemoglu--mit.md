@@ -1,0 +1,205 @@
+# Daron Acemoglu (MIT) - curated publication list
+
+## Publications
+
+- Acemoglu, Daron, and Pascual Restrepo. 2025. "[Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity](https://doi.org/10.1093/qje/qjag006)." Forthcoming in *Quarterly Journal of Economics*.
+- Acemoglu, Daron, Daniel Huttenlocher, Asuman Ozdaglar, and James Siderius. 2025. "[Online Business Models, Digital Ads, and User Welfare](https://doi.org/10.1086/742715)." Forthcoming in *Journal of Political Economy*.
+- Acemoglu, Daron, Alex Xi He, and Daniel le Maire. 2025. "[Eclipse of Rent-Sharing: The Effects of Managers Business Education on wages and the Labor Share in the US and Denmark](https://doi.org/10.3386/w29874)." Forthcoming in *American Economic Review*.
+- Acemoglu, Daron, Hans R. A. Koster, and Ceren Ozgen. 2023. "[Robots and Workers: Evidence from the Netherlands](https://doi.org/10.3386/w31009)." Forthcoming in *Journal of Political Economy*.
+- Acemoglu, Daron, and Jonas Loebbing. 2026. "[Automation and Polarization](https://doi.org/10.1086/739330)." *Journal of Political Economy* 134 (3): 1017–1072.
+- Acemoglu, Daron. 2025. "[Institutions, Technology and Prosperity: Nobel Lecture](https://doi.org/10.1257/aer.115.6.1709)." *American Economic Review* 115 (6): 1709–1748.
+- Acemoglu, Daron, and James A. Robinson. 2025. "[Culture, Institutions and Social Equilibria: A Framework](https://doi.org/10.1257/jel.20241680)." *Journal of Economic Literature* 63 (2): 637–692.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2025. "[When Big Data Enables Behavioral Manipulation](https://doi.org/10.1257/aeri.20230589)." *American Economic Review: Insights* 7 (1): 19–38.
+- Acemoglu, Daron, and Alireza Tahbaz-Salehi. 2025. "[The Macroeconomics of Supply Chain Disruptions](https://doi.org/10.1093/restud/rdae038)." *Review of Economic Studies* 92 (2): 656–695.
+- Acemoglu, Daron, Nicolás Ajzenman, Cevat Giray Aksoy, Martin Fiszbein, and Carlos Molina. 2025. "[(Successful) Democracies Breed Their Own Support](https://doi.org/10.1093/restud/rdae051)." *Review of Economic Studies* 92 (2): 621–655.
+- Acemoglu, Daron, Tuomas Pekkarinen, Kjell G Salvanes, and Matti Sarvimäki. 2025. "[The Making of Social Democracy: The Economic and Electoral Consequences of Norway's 1936 Folk School Reform](https://doi.org/10.1093/jeea/jvae039)." *Journal of the European Economic Association* 23 (1): 119–158.
+- Acemoglu, Daron. 2025. "[Capital and Wages](https://doi.org/10.1111/iere.12733)." *International Economic Review* 66 (1): 3–24.
+- Acemoglu, Daron. 2025. "[The Simple Macroeconomics of AI](https://doi.org/10.1093/epolic/eiae042)." *Economic Policy* 40 (121): 13–58.
+- Acemoglu, Daron, Asuman Ozdaglar, and James Siderius. 2024. "[A Model of Online Misinformation](https://doi.org/10.1093/restud/rdad111)." *Review of Economic Studies* 91 (6): 3117–3150.
+- Acemoglu, Daron, and Todd Lensman. 2024. "[Regulating Transformative Technologies](https://doi.org/10.1257/aeri.20230353)." *American Economic Review: Insights* 6 (3): 359–376.
+- Acemoglu, Daron, and Simon Johnson. 2024. "[Learning from Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution - And in the Age of AI](https://doi.org/10.1146/annurev-economics-091823-025129)." *Annual Review of Economics* 16 (1): 597–621.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2024. "[Testing, Voluntary Social Distancing and the Spread of an Infection](https://doi.org/10.1287/opre.2021.2220)." *Operations Research* 72 (2): 533–548.
+- Acemoglu, Daron, and Martin Kaae Jensen. 2024. "[Equilibrium Analysis in Behavioral One-Sector Growth Models](https://doi.org/10.1093/restud/rdad043)." *Review of Economic Studies* 91 (2): 599–640.
+- Acemoglu, Daron, David Autor, and Christina Patterson. 2024. "[Bottlenecks: Sectoral Imbalances and the US Productivity Slowdown](https://doi.org/10.1086/729196)." *NBER Macroeconomics Annual* 38: 153–207.
+- Acemoglu, Daron. 2023. "[Distorted Innovation: Does the Market Get the Direction of Technology Right?](https://doi.org/10.1257/pandp.20231000)" *American Economic Review: Papers and Proceedings* 113: 1–28.
+- Acemoglu, Daron, and James A. Robinson. 2023. "[Weak, Despotic or Inclusive? How State Type Emerges from State versus Civil Society Competition](https://doi.org/10.1017/s0003055422000740)." *American Political Science Review* 117 (2): 407–420.
+- Acemoglu, Daron, Gary Anderson, David Beede, Catherine Buffington, Eric Childress, Emin Dinlersoz, Lucia Foster, Nathan Goldschlag, John Haltiwanger, Zachary Kroff, Pascual Restrepo, and Nikolas Zolas. 2023. "[Advanced Technology Adoption: Selection or Causal Effects?](https://doi.org/10.1257/pandp.20231037)" *American Economic Review: Papers and Proceedings* 113: 210–214.
+- Acemoglu, Daron, and Will Rafey. 2023. "[Mirage on the Horizon: Geoengineering and Carbon Taxation Without Commitment](https://doi.org/10.1016/j.jpubeco.2022.104802)." *Journal of Public Economics* 219 (2023): 104802.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asu Ozdaglar. 2022. "[Too Much Data: Prices and Inefficiencies in Data Markets](https://doi.org/10.1257/mic.20200200)." *American Economic Journal: Microeconomics* 14 (4): 218–256.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2022. "[Learning from Reviews: The Selection Effect and the Speed of Learning](https://doi.org/10.3982/ecta15847)." *Econometrica* 90 (6): 2857–2899.
+- Acemoglu, Daron, and Pascual Restrepo. 2022. "[Tasks, Automation and the Rise in US Wage Inequality](https://doi.org/10.3982/ecta19815)." *Econometrica* 90 (5): 1973–2016.
+- Acemoglu, Daron, Ufuk Akcigit, and Murat Alp Celik. 2022. "[Radical and Incremental Innovation: The Roles of Firms, Managers and Innovators](https://doi.org/10.1257/mac.20170410)." *American Economic Journal: Macroeconomics* 14 (3): 199–249.
+- Acemoglu, Daron, David Autor, Jonathon Hazell, and Pascual Restrepo. 2022. "[Artificial Intelligence and Jobs - Evidence from Online Vacancies](https://doi.org/10.1086/718327)." *Journal of Labor Economics* 40 (S1): S293–S340.
+- Acemoglu, Daron, and Pascual Restrepo. 2022. "[Demographics and Automation](https://doi.org/10.1093/restud/rdab031)." *Review of Economic Studies* 89 (1): 1–44.
+- Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. "[War, Socialism and the Rise of Fascism: An Empirical Exploration](https://doi.org/10.1093/qje/qjac001)." *Quarterly Journal of Economics* 137 (2): 1233–1296.
+- Acemoglu, Daron, Victor Chernozhukov, Iván Werning, and Michael D. Whinston. 2021. "[Optimal Targeted Lockdowns in a Multi-Group SIR Model](https://doi.org/10.1257/aeri.20200590)." *American Economic Review: Insights* 3 (4): 487–502.
+- Acemoglu, Daron, and Alexander Wolitzky. 2021. "[A Theory of Equality Before the Law](https://doi.org/10.1093/ej/ueaa116)." *Economic Journal* 131 (636): 1429–1465.
+- Acemoglu, Daron, Ali Cheema, Asim I. Khwaja, and James A. Robinson. 2020. "[Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan](https://doi.org/10.1086/707765)." *Journal of Political Economy* 128 (8): 3090–3147.
+- Acemoglu, Daron, Leopoldo Fergusson, James Robinson, Dario Romero, and Juan F. Vargas. 2020. "[The Perils of High Powered Incentives: Evidence from Colombia's False Positives](https://doi.org/10.1257/pol.20180168)." *American Economic Journal: Economic Policy* 12 (3): 1–43.
+- Acemoglu, Daron, Leopoldo Fergusson, and Simon Johnson. 2020. "[Population and Conflict](https://doi.org/10.1093/restud/rdz042)." *Review of Economic Studies* 87 (4): 1565–1604.
+- Acemoglu, Daron, and Pascual Restrepo. 2020. "[Robots and Jobs: Evidence from US Labor Markets](https://doi.org/10.1086/705716)." *Journal of Political Economy* 128 (6): 2188–2244.
+- Acemoglu, Daron, and Pascual Restrepo. 2020. "[Unpacking Skill Bias: Automation and New Tasks](https://doi.org/10.1257/pandp.20201063)." *AEA Papers and Proceedings* 110: 356–361.
+- Acemoglu, Daron, Claire Lelarge, and Pascual Restrepo. 2020. "[Competing with Robots: Firm-Level Evidence from France](https://doi.org/10.1257/pandp.20201003)." *AEA Papers and Proceedings* 110: 383–388.
+- Acemoglu, Daron, and Alexander Wolitzky. 2020. "[Sustaining Cooperation: Community Enforcement versus Specialized Enforcement](https://doi.org/10.1093/jeea/jvz008)." *Journal of the European Economic Association* 18 (2): 1078–1122.
+- Acemoglu, Daron, Andrea Manera, and Pascual Restrepo. 2020. "[Does the US Tax Code Favor Automation?](https://doi.org/10.1353/eca.2020.0003)" *Brookings Papers on Economic Activity* 2020 (1): 231–300.
+- Acemoglu, Daron, Giuseppe De Feo, and Giacomo Davide De Luca. 2020. "[Weak States: Causes and Consequences of the Sicilian Mafia](https://doi.org/10.1093/restud/rdz009)." *Review of Economic Studies* 87 (2): 537–581.
+- Acemoglu, Daron, and Pablo D. Azar. 2020. "[Endogenous Production Networks](https://doi.org/10.3982/ecta15899)." *Econometrica* 88 (1): 33–82.
+- Acemoglu, Daron, and Pascual Restrepo. 2019. "[Automation and New Tasks: How Technology Displaces and Reinstates Labor](https://doi.org/10.1257/jep.33.2.3)." *Journal of Economic Perspectives* 33 (2): 3–30.
+- Acemoglu, Daron, Suresh Naidu, Pascual Restrepo, and James A. Robinson. 2019. "[Democracy Does Cause Growth](https://doi.org/10.1086/700936)." *Journal of Political Economy* 127 (1): 47–100.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2018. "[Informational Braess' Paradox: The Effect of Information on Traffic Congestion](https://doi.org/10.1287/opre.2017.1712)." *Operations Research* 66 (4): 893–917.
+- Acemoglu, Daron, and Pascual Restrepo. 2018. "[The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment](https://doi.org/10.1257/aer.20160696)." *American Economic Review* 108 (6): 1488–1542.
+- Acemoglu, Daron, Ufuk Akcigit, Harun Alp, Nicholas Bloom, and William Kerr. 2018. "[Innovation, Reallocation and Growth](https://doi.org/10.1257/aer.20130470)." *American Economic Review* 108 (11): 3450–3491.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2018. "[Social Mobility and Stability of Democracy: Reevaluating de Tocqueville](https://doi.org/10.1093/qje/qjx038)." *Quarterly Journal of Economics* 133 (2): 1041–1105.
+- Acemoglu, Daron, Tarek A. Hassan, and Ahmed Tahoun. 2018. "[The Power of the Street: Evidence from Egypt's Arab Spring](https://doi.org/10.1093/rfs/hhx086)." *Review of Financial Studies* 31 (1): 1–42.
+- Acemoglu, Daron, and Pascual Restrepo. 2018. "[Modeling Automation](https://doi.org/10.1257/pandp.20181020)." *AEA Papers and Proceedings* 108: 48–53.
+- Acemoglu, Daron, James A. Robinson, and Thierry Verdier. 2017. "[Asymmetric Growth and Institutions in an Interdependent World](https://doi.org/10.1086/693038)." *Journal of Political Economy* 125 (5): 1245–1305.
+- Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2017. "[Privacy-Constrained Network Formation](https://doi.org/10.1016/j.geb.2017.08.001)." *Games and Economic Behavior* 105 (2017): 255–275.
+- Acemoglu, Daron, and Matthew O. Jackson. 2017. "[Social Norms and the Enforcement of Laws](https://doi.org/10.3386/w20369)." *Journal of the European Economic Association* 15 (2): 245–295.
+- Acemoglu, Daron, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2017. "[Microeconomic Origins of Macroeconomic Tail Risks](https://doi.org/10.1257/aer.20151086)." *American Economic Review* 107 (1): 54–108.
+- Acemoglu, Daron, and Pascual Restrepo. 2017. "[Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation](https://doi.org/10.1257/aer.p20171101)." *American Economic Review: Papers and Proceedings* 107 (5): 174–179.
+- Acemoglu, Daron, Ufuk Akcigit, and William R. Kerr. 2016. "[Innovation Network](https://doi.org/10.1073/pnas.1613559113)." *Proceedings of the National Academy of Sciences* 113 (41): 11483–11488.
+- Acemoglu, Daron, Azarakhsh Malekian, and Asu Ozdaglar. 2016. "[Network Security and Contagion](https://doi.org/10.1016/j.jet.2016.09.009)." *Journal of Economic Theory* 166: 536–585.
+- Acemoglu, Daron, Simon Johnson, Amir Kermani, James Kwak, and Todd Mitton. 2016. "[The Value of Connections in Turbulent Times: Evidence from the United States](https://doi.org/10.1016/j.jfineco.2015.10.001)." *Journal of Financial Economics* 121 (2): 368–391.
+- Acemoglu, Daron, Ufuk Akcigit, and William Kerr. 2016. "[Networks and the Macroeconomy: An Empirical Exploration](https://doi.org/10.1086/685961)." *NBER Macroeconomics Annual* 30 (1): 273–335.
+- Acemoglu, Daron, Jacob Moscona, and James A. Robinson. 2016. "[State Capacity and American Technology: Evidence from the 19th Century](https://doi.org/10.1257/aer.p20161071)." *American Economic Review* 106 (5): 61–67.
+- Acemoglu, Daron, Ufuk Akcigit, Douglas Hanley, and William Kerr. 2016. "[Transition to Clean Technology](https://doi.org/10.1086/684511)." *Journal of Political Economy* 124 (1): 52–104.
+- Acemoglu, Daron, Victor Chernozhukov, and Muhamet Yildiz. 2016. "[Fragility of Asymptotic Agreement under Bayesian Learning](https://doi.org/10.3982/te436)." *Theoretical Economics* 11 (1): 187–225.
+- Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "[Import Competition and the Great US Employments Sag of the 2000s](https://doi.org/10.1086/682384)." *Journal of Labor Economics* 34 (S1): S141–S198.
+- Acemoglu, Daron, and James A. Robinson. 2015. "[The Rise and Decline of General Laws of Capitalism](https://doi.org/10.1257/jep.29.1.3)." *Journal of Economic Perspectives* 29 (1): 3–28.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2015. "[Political Economy in a Changing World](https://doi.org/10.1086/682679)." *Journal of Political Economy* 123 (5): 1038–1086.
+- Acemoglu, Daron, Camilo García-Jimeno, and James A. Robinson. 2015. "[State Capacity and Economic Development: A Network Approach](https://doi.org/10.1257/aer.20140044)." *American Economic Review* 105 (8): 2364–2409.
+- Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2015. "[Offshoring and Directed Technical Change](https://doi.org/10.1257/mac.20130302)." *American Economic Journal: Macroeconomics* 7 (3): 84–122.
+- Acemoglu, Daron, and Martin Kaae Jensen. 2015. "[Robust Comparative Statics in Large Dynamic Economies](https://doi.org/10.1086/680685)." *Journal of Political Economy* 123 (3): 587–640.
+- Acemoglu, Daron, and Dan Cao. 2015. "[Innovation by Entrants and Incumbents](https://doi.org/10.1016/j.jet.2015.01.001)." *Journal of Economic Theory* 157: 255–294.
+- Acemoglu, Daron. 2015. "[Localized and Biased Technologies: Atkinson and Stiglitz's New View, Induced Innovations, and Directed Technological Change](https://doi.org/10.1111/ecoj.12227)." *Economic Journal* 125 (583): 443–463.
+- Acemoglu, Daron, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2015. "[Systemic Risk and Stability in Financial Networks](https://doi.org/10.1257/aer.20130456)." *American Economic Review* 105 (2): 564–608.
+- Acemoglu, Daron, and Matthew O. Jackson. 2015. "[History, Expectations and Leadership in the Evolution of Cooperation](https://doi.org/10.1093/restud/rdu039)." *Review of Economic Studies* 82 (2): 423–456.
+- Acemoglu, Daron, and William B. Hawkins. 2014. "[Search with Multi-Worker Firms](https://doi.org/10.3982/te1061)." *Theoretical Economics* 9 (3): 583–628.
+- Acemoglu, Daron, Tristan Reed, and James A. Robinson. 2014. "[Chiefs: Economic Development and Elite Control of Civil Society in Sierra Leone](https://doi.org/10.1086/674988)." *Journal of Political Economy* 122 (2): 319–368.
+- Acemoglu, Daron, and Alexander Wolitzky. 2014. "[Cycles of Conflict: An Economic Model](https://doi.org/10.1257/aer.104.4.1350)." *American Economic Review* 104 (4): 1350–1367.
+- Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2014. "[Dynamics of Information Exchange in Endogenous Social Networks](https://doi.org/10.3982/te1204)." *Theoretical Economics* 9 (1): 41–97.
+- Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2014. "[Return of the Solow Paradox? IT, Productivity, and Employment in U.S. Manufacturing](https://doi.org/10.1257/aer.104.5.394)." *American Economic Review: Papers and Proceedings* 104 (5): 394–399.
+- Acemoglu, Daron, Francisco A. Gallego, and James A. Robinson. 2014. "[Institutions, Human Capital and Development](https://doi.org/10.1146/annurev-economics-080213-041119)." *Annual Review of Economics* 6 (1): 875–912.
+- Acemoglu, Daron, David Laibson, and John A. List. 2014. "[Equalizing Superstars: The Internet and the Democratization of Education](https://doi.org/10.1257/aer.104.5.523)." *American Economic Review: Papers and Proceedings* 104 (5): 523–527.
+- Acemoglu, Daron, Amy Finkelstein, and Matthew J. Notowidigdo. 2013. "[Income and Health Spending: Evidence from Oil Price Shocks](https://doi.org/10.1162/rest_a_00306)." *Review of Economics and Statistics* 95 (4): 1079–1095.
+- Acemoglu, Daron, and Martin Kaae Jensen. 2013. "[Aggregate Comparative Statics](https://doi.org/10.1016/j.geb.2013.03.009)." *Games and Economic Behavior* 81 (2013): 27–49.
+- Acemoglu, Daron, James A. Robinson, and Ragnar Torvik. 2013. "[Why Do Voters Dismantle Checks and Balances?](https://doi.org/10.1093/restud/rdt007)" *Review of Economic Studies* 80 (3): 845–875.
+- Acemoglu, Daron, and James A Robinson. 2013. "[Economics versus Politics: Pitfalls of Policy Advice](https://doi.org/10.1257/jep.27.2.173)." *Journal of Economic Perspectives* 27 (2): 173–192.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2013. "[A Political Theory of Populism](https://doi.org/10.1093/qje/qjs077)." *Quarterly Journal of Economics* 128 (2): 771–805.
+- Acemoglu, Daron, James A. Robinson, and Rafael J. Santos. 2013. "[The Monopoly of Violence: Evidence from Colombia](https://doi.org/10.1111/j.1542-4774.2012.01099.x)." *Journal of the European Economic Association* 11 (1): 5–44.
+- Acemoglu, Daron, Vasco Carvalho, Asuman Ozdaglar, and Alireza Tahbaz-Salehi. 2012. "[Network Origins of Aggregate Fluctuations](https://doi.org/10.2139/ssrn.1947096)." *Econometrica* 80 (5): 1977–2016.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2012. "[Dynamics and Stability of Constitutions, Coalitions and Clubs](https://doi.org/10.1257/aer.102.4.1446)." *American Economic Review* 102 (4): 1446–1476.
+- Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2012. "[Competing Engines of Growth: Innovation and Standardization](https://doi.org/10.1016/j.jet.2010.09.001)." *Journal of Economic Theory* 147 (2): 570–601.e3.
+- Acemoglu, Daron, Mike Golosov, Aleh Tsyvinski, and Pierre Yared. 2012. "[A Dynamic Theory of the Resource Wars](https://doi.org/10.1093/qje/qjr048)." *Quarterly Journal of Economics* 127 (1): 283–331.
+- Acemoglu, Daron, Philippe Aghion, Leonardo Bursztyn, and David Hemous. 2012. "[The Environment and Directed Technical Change](https://doi.org/10.1257/aer.102.1.131)." *American Economic Review* 102 (1): 131–166.
+- Acemoglu, Daron, and Ufuk Akcigit. 2012. "[Intellectual Property Rights, Competition and Innovation](https://doi.org/10.1111/j.1542-4774.2011.01053.x)." *Journal of the European Economic Association* 10 (1): 1–42.
+- Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James A Robinson. 2011. "[The Consequences of Radical Reform: The French Revolution](https://doi.org/10.1257/aer.101.7.3286)." *American Economic Review* 101 (7): 3286–3307.
+- Acemoglu, Daron, Tarek A. Hassan, and James A. Robinson. 2011. "[Social Structure and Development: A Legacy of the Holocaust in Russia](https://doi.org/10.1093/qje/qjr018)." *Quarterly Journal of Economics* 126 (2): 895–946.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2011. "[A Political Model of Social Evolution](https://doi.org/10.1073/pnas.1019454108)." *Proceedings of the National Academy of Sciences* 108 (S4): 21292–21296.
+- Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2011. "[Political Economy of Ramsey Taxation](https://doi.org/10.1016/j.jpubeco.2010.10.014)." *Journal of Public Economics* 95 (7-8): 467–475.
+- Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2011. "[Power Fluctuations and Political Economy](https://doi.org/10.1016/j.jet.2010.11.002)." *Journal of Economic Theory* 146 (3): 1009–1041.
+- Acemoglu, Daron, Davide Ticchi, and Andrea Vindigni. 2011. "[Emergence and Persistence of Inefficient States](https://doi.org/10.1111/j.1542-4774.2010.01008.x)." *Journal of the European Economic Association* 9 (2): 177–208.
+- Acemoglu, Daron, Munzer.Dahleh, Ilan Lobel, and Asuman Ozdaglar. 2011. "[Bayesian Learning in Social Networks](https://doi.org/10.1093/restud/rdr004)." *Review of Economic Studies* 78 (4): 1201–1236.
+- Acemoglu, Daron, and Alexander Wolitzky. 2011. "[The Economics of Labor Coercion](https://doi.org/10.3386/w15581)." *Econometrica* 79 (2): 555–600.
+- Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2011. "[Experimentation, Patents and Innovation](https://doi.org/10.1257/mic.3.1.37)." *American Economic Journal: Microeconomics* 3 (1): 37–77.
+- Acemoglu, Daron. 2010. "[When Does Labor Scarcity Encourage Innovation?](https://doi.org/10.1086/658160)" *Journal of Political Economy* 118 (6): 1037–1078.
+- Acemoglu, Daron, Asuman Ozdaglar, and Ali ParandehGheibi. 2010. "[Spread of (Mis)Information in Social Networks](https://doi.org/10.1016/j.geb.2010.01.005)." *Games and Economic Behavior* 70 (2): 194–227.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2010. "[Political Selection and Persistence of Bad Governments](https://doi.org/10.1162/qjec.2010.125.4.1511)." *Quarterly Journal of Economics* 125 (4): 1511–1575.
+- Acemoglu, Daron, Philippe Aghion, Rachel Griffith, and Fabrizio Zilibotti. 2010. "[Vertical Integration and Technology: Theory and Evidence](https://doi.org/10.1162/jeea_a_00013)." *Journal of the European Economic Association* 8 (5): 989–1033.
+- Acemoglu, Daron. 2010. "[Theory, General Equilibrium, Political Economy and Empirics in Development Economics](https://doi.org/10.1257/jep.24.3.17)." *Journal of Economic Perspectives* 24 (2): 17–32.
+- Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2010. "[Dynamic Mirrlees Taxation Under Political Economy Constraints](https://doi.org/10.1111/j.1467-937x.2009.00587.x)." *Review of Economic Studies* 77 (3): 841–881.
+- Acemoglu, Daron, Davide Ticchi, and Andrea Vindigni. 2010. "[A Theory of Military Dictatorships](https://doi.org/10.1257/mac.2.1.1)." *American Economic Journal: Macroeconomics* 2 (1): 1–42.
+- Acemoglu, Daron, and Melissa Dell. 2010. "[Productivity Differences Between and Within Countries](https://doi.org/10.1257/mac.2.1.169)." *American Economic Journal: Macroeconomics* 2 (1): 169–188.
+- Acemoglu, Daron. 2010. "[Institutions, Factor Prices and Taxation: Virtues of Strong States?](https://doi.org/10.1257/aer.100.2.115)" *American Economic Review: Papers and Proceedings* 100 (2): 115–119.
+- Acemoglu, Daron, and Pierre Yared. 2010. "[Political Limits to Globalization](https://doi.org/10.1257/aer.100.2.83)." *American Economic Review: Papers and Proceedings* 100 (2): 83–88.
+- Acemoglu, Daron, Simon Johnson, James A. Robinson, and Pierre Yared. 2009. "[Reevaluating the Modernization Hypothesis](https://doi.org/10.1016/j.jmoneco.2009.10.002)." *Journal of Monetary Economics* 56 (8): 1043–1058.
+- Acemoglu, Daron, and James Robinson. 2009. "[Foundations of Social Inequality](https://doi.org/10.1126/science.1181939)." *Science* 326 (5953): 678–679.
+- Acemoglu, Daron, Simon Johnson, and Todd Mitton. 2009. "[Determinants of Vertical Integration: Financial Development and Contracting Costs](https://doi.org/10.1111/j.1540-6261.2009.01464.x)." *Journal of Finance* 64 (3): 1251–1290.
+- Acemoglu, Daron, Kostas Bimpikis, and Asuman Ozdaglar. 2009. "[Price and Capacity Competition](https://doi.org/10.1016/j.geb.2008.06.004)." *Games and Economic Behavior* 66 (1): 1–26.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2009. "[Do Juntas Lead to Personal Rule?](https://doi.org/10.1257/aer.99.2.298)" *American Economic Review: Papers and Proceedings* 99 (2): 298–303.
+- Acemoglu, Daron, and Amy Finkelstein. 2008. "[Input and Technology Choices in Regulated Industries: Evidence from the Healthcare Sector](https://doi.org/10.1086/595014)." *Journal of Political Economy* 116 (5): 837–880.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2008. "[Coalition Formation in Nondemocracies](https://doi.org/10.1111/j.1467-937x.2008.00503.x)." *Review of Economic Studies* 75 (4): 987–1009.
+- Acemoglu, Daron, and Veronica Guerrieri. 2008. "[Capital Deepening and Non-Balanced Endogenous Growth](https://doi.org/10.1086/589523)." *Journal of Political Economy* 116 (3): 467–498.
+- Acemoglu, Daron, Simon Johnson, James A Robinson, and Pierre Yared. 2008. "[Income and Democracy](https://doi.org/10.1257/aer.98.3.808)." *American Economic Review* 98 (3): 808–842.
+- Acemoglu, Daron, Michael Golosov, and Aleh Tsyvinski. 2008. "[Political Economy of Mechanisms](https://doi.org/10.1111/j.1468-0262.2008.00849.x)." *Econometrica* 76 (3): 619–641.
+- Acemoglu, Daron, and James A Robinson. 2008. "[Persistence of Elites, Power and Institutions](https://doi.org/10.1257/aer.98.1.267)." *American Economic Review* 98 (1): 267–293.
+- Acemoglu, Daron, Mikhail Golosov, and Aleh Tsyvinski. 2008. "[Markets Versus Governments](https://doi.org/10.1016/j.jmoneco.2007.12.003)." *Journal of Monetary Economics* 55 (1): 159–189.
+- Acemoglu, Daron. 2008. "[Oligarchic Versus Democratic Societies](https://doi.org/10.1162/jeea.2008.6.1.1)." *Journal of the European Economic Association* 6 (1): 1–44.
+- Acemoglu, Daron, Simon Johnson, Pablo Querubín, and James A. Robinson. 2008. "[When Does Policy Reform Work? The Case of Central Bank Independence](https://doi.org/10.1353/eca.0.0002)." *Brookings Papers on Economic Activity* 2008 (1): 351–418.
+- Acemoglu, Daron, and Simon Johnson. 2007. "[Disease and Development: the Effect of Life Expectancy on Economic Growth](https://doi.org/10.1086/529000)." *Journal of Political Economy* 115 (6): 925–985.
+- Acemoglu, Daron, Philippe Aghion, Claire Lelarge, John Van Reenen, and Fabrizio Zilibotti. 2007. "[Technology, Information and the Decentralization of the Firm](https://doi.org/10.1162/qjec.2007.122.4.1759)." *Quarterly Journal of Economics* 122 (4): 1759–1799.
+- Acemoglu, Daron, Michael Kremer, and Atif Mian. 2007. "[Incentives in Markets, Firms and Governments](https://doi.org/10.1093/jleo/ewm055)." *Journal of Law, Economics, and Organization* 24 (2): 273–306.
+- Acemoglu, Daron. 2007. "[Equilibrium Bias of Technology](https://doi.org/10.1111/j.1468-0262.2007.00797.x)." *Econometrica* 75 (5): 1371–1409.
+- Acemoglu, Daron, Pol Antràs, and Elhanan Helpman. 2007. "[Contracts and Technology Adoption](https://doi.org/10.1257/aer.97.3.916)." *American Economic Review* 97 (3): 916–943.
+- Acemoglu, Daron, and James A. Robinson. 2006. "[Economic Backwardness in Political Perspective](https://doi.org/10.1017/s0003055406062046)." *American Political Science Review* 100 (1): 115–131.
+- Acemoglu, Daron, Philippe Aghion, and Fabrizio Zilibotti. 2006. "[Distance to Frontier, Selection, and Economic Growth](https://doi.org/10.1162/jeea.2006.4.1.37)." *Journal of the European Economic Association* 4 (1): 37–74.
+- Acemoglu, Daron, and James A Robinson. 2006. "[De Facto Political Power and Institutional Persistence](https://doi.org/10.1257/000282806777212549)." *American Economic Review: Papers and Proceedings* 96 (2): 325–330.
+- Acemoglu, Daron, David Cutler, Amy Finkelstein, and Joshua Linn. 2006. "[Did Medicare Induce Pharmaceutical Innovations?](https://doi.org/10.1257/000282806777211766)" *American Economic Review: Papers and Proceedings* 96 (2): 103–107.
+- Acemoglu, Daron, and Simon Johnson. 2005. "[Unbundling Institutions](https://doi.org/10.1086/432166)." *Journal of Political Economy* 113 (5): 949–995.
+- Acemoglu, Daron, Simon Johnson, and James Robinson. 2005. "[The Rise of Europe: Atlantic Trade, Institutional Change and Growth](https://doi.org/10.1257/0002828054201305)." *American Economic Review* 95 (3): 546–579.
+- Acemoglu, Daron. 2005. "[Politics and Economics in Weak and Strong States](https://doi.org/10.1016/j.jmoneco.2005.05.001)." *Journal of Monetary Economics* 52 (7): 1199–1226.
+- Acemoglu, Daron, Simon Johnson, James A Robinson, and Pierre Yared. 2005. "[From Education to Democracy?](https://doi.org/10.1257/000282805774669916)" *American Economic Review: Papers and Proceedings* 95 (2): 44–49.
+- Acemoglu, Daron, and Joshua Linn. 2004. "[Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry](https://doi.org/10.1162/0033553041502144)." *Quarterly Journal of Economics* 119 (3): 1049–1090.
+- Acemoglu, Daron, David H. Autor, and David Lyle. 2004. "[Women, War and Wages: The Effect of Female Labor Supply on Labor Market Outcomes](https://doi.org/10.1086/383100)." *Journal of Political Economy* 112 (3): 497–551.
+- Acemoglu, Daron. 2003. "[Patterns of Skill Premia](https://doi.org/10.1111/1467-937x.00242)." *Review of Economic Studies* 70 (2): 199–230.
+- Acemoglu, Daron. 2003. "[Labor-and Capital-Augmenting Technical Change](https://doi.org/10.1162/154247603322256756)." *Journal of the European Economic Association* 1 (1): 1–37.
+- Acemoglu, Daron. 2003. "[Cross-Country Inequality Trends](https://doi.org/10.1111/1468-0297.00100)." *Economic Journal* 113 (485): F121–149.
+- Acemoglu, Daron, Simon Johnson, James Robinson, and Yunyong Thaicharoen. 2003. "[Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth](https://doi.org/10.1016/s0304-3932(02)00208-8)." *Journal of Monetary Economics* 50 (1): 49–123.
+- Acemoglu, Daron. 2002. "[Directed Technical Change](https://doi.org/10.1111/1467-937x.00226)." *Review of Economic Studies* 69 (4): 781–809.
+- Acemoglu, Daron, Simon Johnson, and James Robinson. 2002. "[Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://doi.org/10.1162/003355302320935025)." *Quarterly Journal of Economics* 117 (4): 1231–1294.
+- Acemoglu, Daron, and Jaume Ventura. 2002. "[The World Income Distribution](https://doi.org/10.1162/003355302753650355)." *Quarterly Journal of Economics* 117 (2): 659–694.
+- Acemoglu, Daron. 2002. "[Technical Change, Inequality and Labor Market](https://doi.org/10.1257/jel.40.1.7)." *Journal of Economic Literature* 40 (1): 7–72.
+- Acemoglu, Daron, Simon Johnson, and James A Robinson. 2001. "[The Colonial Origins of Comparative Development: An Empirical Investigation](https://doi.org/10.1257/aer.91.5.1369)." *American Economic Review* 91 (5): 1369–1401.
+- Acemoglu, Daron, and James A. Robinson. 2001. "[Inefficient Redistribution](https://doi.org/10.1017/s0003055401003057)." *American Political Science Review* 95 (3): 649–661.
+- Acemoglu, Daron, and James A Robinson. 2001. "[A Theory of Political Transitions](https://doi.org/10.1257/aer.91.4.938)." *American Economic Review* 91 (4): 938–963.
+- Acemoglu, Daron, and Joshua D. Angrist. 2001. "[Consequences of Employment Protection? The Case of the Americans With Disabilities Act](https://doi.org/10.1086/322836)." *Journal of Political Economy* 109 (5): 915–957.
+- Acemoglu, Daron, and Fabrizio Zilibotti. 2001. "[Productivity Differences](https://doi.org/10.1162/00335530151144104)." *Quarterly Journal of Economics* 116 (2): 563–606.
+- Acemoglu, Daron. 2001. "[Good Jobs versus Bad Jobs: Theory and Some Evidence](https://doi.org/10.1086/209978)." *Journal of Labor Economics* 19 (1): 1–21.
+- Acemoglu, Daron, and Robert Shimer. 2000. "[Wage and Technology Dispersion](https://doi.org/10.1111/1467-937x.00146)." *Review of Economic Studies* 67 (4): 585–607.
+- Acemoglu, Daron, and James Robinson. 2000. "[Why Did the West Extend the Franchise? Democracy, Inequality and Growth in Historical Perspective](https://doi.org/10.1162/003355300555042)." *Quarterly Journal of Economics* 115 (4): 1167–1199.
+- Acemoglu, Daron, and Thierry Verdier. 2000. "[The Choice Between Market Failures and Corruption](https://doi.org/10.1257/aer.90.1.194)." *American Economic Review* 90 (1): 194–211.
+- Acemoglu, Daron, and Joshua Angrist. 2000. "[How Large Are Human Capital Externalities? Evidence from Compulsory Schooling Laws](https://doi.org/10.1086/654403)." *NBER Macroeconomics Annual* 15: 9–59.
+- Acemoglu, Daron, and James A Robinson. 2000. "[Political Losers as a Barrier to Economic Development](https://doi.org/10.1257/aer.90.2.126)." *American Economic Review: Papers and Proceedings* 90 (2): 126–130.
+- Acemoglu, Daron. 1999. "[Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence](https://doi.org/10.1257/aer.89.5.1259)." *American Economic Review* 89 (5): 1259–1278.
+- Acemoglu, Daron, and Robert Shimer. 1999. "[Efficient Unemployment Insurance](https://doi.org/10.1086/250084)." *Journal of Political Economy* 107 (5): 893–928.
+- Acemoglu, Daron, and Robert Shimer. 1999. "[Holdups and Efficiency with Search Frictions](https://doi.org/10.1111/1468-2354.00043)." *International Economic Review* 40 (4): 827–849.
+- Acemoglu, Daron, and Jörn‐Steffen Pischke. 1999. "[The Structure of Wages and Investment in General Training](https://doi.org/10.1086/250071)." *Journal of Political Economy* 107 (3): 539–572.
+- Acemoglu, Daron, and Fabrizio Zilibotti. 1999. "[Information Accumulation in Development](https://doi.org/10.1023/a:1009833807671)." *Journal of Economic Growth* 4 (1): 5–38.
+- Acemoglu, Daron, and Jorn‐Steffen Pischke. 1999. "[Beyond Becker: Training in Imperfect Labor Markets](https://doi.org/10.1111/1468-0297.00405)." *Economic Journal* 109 (453): F112–F142.
+- Acemoglu, Daron. 1998. "[Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality](https://doi.org/10.1162/003355398555838)." *Quarterly Journal of Economics* 113 (4): 1055–1089.
+- Acemoglu, Daron, and Thierry Verdier. 1998. "[Property Rights, Corruption and the Allocation of Talent: A General Equilibrium Approach](https://doi.org/10.1111/1468-0297.00347)." *Economic Journal* 108 (450): 1381–1403.
+- Acemoglu, Daron, and Steve Pischke. 1998. "[Why Do Firms Train? Theory and Evidence](https://doi.org/10.1162/003355398555531)." *Quarterly Journal of Economics* 113 (1): 79–119.
+- Acemoglu, Daron. 1998. "[Credit Market Imperfections and Separation of Ownership from Control](https://doi.org/10.1006/jeth.1997.2368)." *Journal of Economic Theory* 78 (2): 355–381.
+- Acemoglu, Daron, and Andrew Scott. 1997. "[Asymmetric Business Cycles: Theory and Time Series Evidence](https://doi.org/10.1016/s0304-3932(97)00049-4)." *Journal of Monetary Economics* 40 (3): 501–533.
+- Acemoglu, Daron, and Fabrizio Zilibotti. 1997. "[Was Prometheus Unbound By Chance? Risk, Diversification and Growth](https://doi.org/10.1086/262091)." *Journal of Political Economy* 105 (4): 709–751.
+- Acemoglu, Daron. 1997. "[Training and Innovation in an Imperfect Labor Market](https://doi.org/10.2307/2971723)." *Review of Economic Studies* 64 (3): 445–464.
+- Acemoglu, Daron. 1997. "[Matching, Heterogeneity and the Evolution of Income Distribution](https://doi.org/10.1023/a:1009733730177)." *Journal of Economic Growth* 2 (1): 61–92.
+- Acemoglu, Daron. 1996. "[A Microfoundation for Social Increasing Returns in Human Capital Accumulation](https://doi.org/10.2307/2946672)." *Quarterly Journal of Economics* 111 (3): 779–804.
+- Acemoglu, Daron. 1995. "[Asymmetric Information, Bargaining and Unemployment Fluctuations](https://doi.org/10.2307/2527270)." *International Economic Review* 36 (4): 1003–24.
+- Acemoglu, Daron, and Andrew Scott. 1994. "[Asymmetries in the Cyclical Behavior UK Labor Markets](https://doi.org/10.2307/2235450)." *Economic Journal* 104 (427): 1303–1323.
+- Acemoglu, Daron, and Andrew Scott. 1994. "[Consumer Confidence and Rational Expectations: Are Agents' Beliefs Consistent With the Theory?](https://doi.org/10.2307/2234671)" *Economic Journal* 104 (422): 1–20.
+- Acemoglu, Daron. 1993. "[Learning About Others' Actions and the Investment Accelerator](https://doi.org/10.2307/2234770)." *Economic Journal* 103 (417): 318–329.
+
+## Revise & Resubmit
+
+
+## Working Papers
+
+- Acemoglu, Daron, A. Arda Gitmez, and Mehdi Shadmehr. 2026. "[Automation and Repression](https://doi.org/10.3386/w35336)." NBER Working Paper 35336.
+- Acemoglu, Daron, and Alexander Wolitzky. 2026. "[Employment and Community: Socioeconomic Cooperation and Its Breakdown](https://doi.org/10.3386/w32773)." NBER Working Paper 32773.
+- Acemoglu, Daron, Dingwen Kong, and Asuman Ozdaglar. 2026. "[AI, Human Cognition and Knowledge Collapse](https://doi.org/10.3386/w34910)." NBER Working Paper 34910.
+- Acemoglu, Daron, Tianyi Lin, Asuman Ozdaglar, and James Siderius. 2026. "[How AI Aggregation Affects Knowledge](https://doi.org/10.3386/w35036)." NBER Working Paper 35036.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. 2026. "[Multidimensional Signaling and the Rise of Cultural Politics](https://doi.org/10.3386/w34909)." NBER Working Paper 34909.
+- Acemoglu, Daron, Cevat Giray Aksoy, Ceren Baysan, Carlos Molina, and Gamze Zeki. 2025. "[Misperceptions and Demand for Democracy under Authoritarianism](https://doi.org/10.3386/w33018)." NBER Working Paper 33018.
+- Acemoglu, Daron, Philippe Aghion, Lint Barrage, and David Hémous. 2024. "[Climate Change, Directed Innovation, and Energy Transition: The Long-run Consequences of the Shale Gas Revolution](https://doi.org/10.3386/w31657)." NBER Working Paper 31657.
+- Acemoglu, Daron, Asuman Ozdaglar, and Sarath Pattathil. 2024. "[Learning, Diversity and Adaptation in Changing Environments: The Role of Weak Links](https://doi.org/10.3386/w31214)." NBER Working Paper 31214.
+- Acemoglu, Daron, Alireza Fallah, Ali Makhdoumi, Azarakhsh Malekian, and Asuman Ozdaglar. 2023. "[How Good Are Privacy Guarantees? Platform Architecture and Violation of User Privacy](https://doi.org/10.3386/w31413)." NBER Working Paper 31413.
+- Acemoglu, Daron, Mohamed Mostagir, and Asuman Ozdaglar. n.d. "[Managing Innovation in a Crowd](https://doi.org/10.3386/w19852)." NBER Working Paper 19852.
+- Acemoglu, Daron, Victor Chernozhukov, and Muhamet Yildiz. n.d. "[Learning and Disagreement in an Uncertain World](https://doi.org/10.3386/w12648)." NBER Working Paper 12648.
+- Acemoglu, Daron, and Alp Simsek. n.d. "[Moral Hazard and Efficiency in General Equilibrium With Anonymous Trading](https://doi.org/10.2139/ssrn.1597907)." MIT Department of Economics Working Paper 10-8.
+- Acemoglu, Daron, Georgy Egorov, and Konstantin Sonin. n.d. "[Equilibrium Refinement in Dynamic Voting Games](https://doi.org/10.2139/ssrn.1490164)." MIT Department of Economics Working Paper 09-26.
+- Acemoglu, Daron, Asuman Ozdaglar, and Alp Simsek. n.d. "On the Uniqueness of Solutions for Nonlinear and Mixed Complementarity Problems." MIT Economics Department Working Paper.
+- Acemoglu, Daron, and Asuman Ozdaglar. n.d. "Flow Control, Routing and Performance from Service Provider Viewpoint." MIT Economics Department Working Paper.
+- Acemoglu, Daron, and Muhamet Yildiz. n.d. "[Evolution of Perceptions and Play](https://doi.org/10.2139/ssrn.290779)." MIT Economics Department Working Paper.
+- Acemoglu, Daron. n.d. "Corporate Control and Balance of Power." MIT Economics Department Working Paper.
+- Acemoglu, Daron. n.d. "Career Concerns and Coverups: A Dynamic Model of Collusion." MIT Economics Department Working Paper.
