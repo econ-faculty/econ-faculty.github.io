@@ -4028,7 +4028,7 @@
   "ba_year": null,
   "ba_field": null,
   "education_raw": "Doctor Degree, Economics, Bocconi University, ITA, 2004-09-01 —— 2009-06-01; Master Degree, Systems Engineering, Beijing Jiaotong University, 1998-09-01 —— 2001-04-01",
-  "homepage_url": null,
+  "homepage_url": "https://junye-li.github.io/",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012130",
   "cv_url": null,
   "google_scholar_url": null,
@@ -4042,7 +4042,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "junye-li"
  },
  {
@@ -5654,7 +5654,7 @@
   "ba_year": 2016,
   "ba_field": "Engineering Systems & Design",
   "education_raw": "Doctor Degree, Management, National University of Singapore, Singapore, 2016-09-01 —— 2021-04-01; Bachelor Degree, Engineering Systems & Design, Singapore University of Technology and Design, Singapore, 2013-05-01 —— 2016-09-01",
-  "homepage_url": null,
+  "homepage_url": "https://sites.google.com/view/minglongzhou",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012567",
   "cv_url": null,
   "google_scholar_url": null,
@@ -5668,7 +5668,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "minglong-zhou"
  },
  {
@@ -5774,7 +5774,7 @@
   "ba_year": 2017,
   "ba_field": "Statistics",
   "education_raw": "Doctor Degree, Industrial Systems Engineering & Management, National University of Singapore, SGP, 2017-07-01 —— 2021-11-01; Bachelor Degree, Statistics, Nanjing University, 2013-09-01 —— 2017-07-01",
-  "homepage_url": null,
+  "homepage_url": "https://www.xunzhangweb.com/",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=013118",
   "cv_url": null,
   "google_scholar_url": null,
@@ -5788,7 +5788,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "xun-zhang"
  },
  {
@@ -6620,7 +6620,7 @@
   "ba_year": 2016,
   "ba_field": "Statistics",
   "education_raw": "Doctor Degree, Statistics, Tsinghua University, 2016-08-01 —— 2021-06-01; Bachelor Degree, Statistics, Renmin University of China, 2012-09-01 —— 2016-07-01",
-  "homepage_url": null,
+  "homepage_url": "https://sites.google.com/view/feiyujiang/",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012449",
   "cv_url": null,
   "google_scholar_url": null,
@@ -6634,7 +6634,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "feiyu-jiang"
  },
  {
@@ -6859,7 +6859,7 @@
   "ba_year": 2019,
   "ba_field": "Mathematics and Applied Mathematics",
   "education_raw": "Doctor Degree, Mathematics, The Hong Kong University of Science and Technology, HK, 2019-08-01 —— 2023-06-01; Bachelor Degree, Mathematics and Applied Mathematics, Zhejiang University, 2015-09-01 —— 2019-06-30",
-  "homepage_url": null,
+  "homepage_url": "https://jjyyli.github.io/",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=013116",
   "cv_url": null,
   "google_scholar_url": null,
@@ -6873,7 +6873,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "jingyang-li"
  },
  {
