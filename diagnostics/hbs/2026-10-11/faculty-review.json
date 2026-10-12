@@ -1,0 +1,4530 @@
+{
+  "base_commit": "aa2b2152dbe5ef8a94006e529d7b1da668dfc320",
+  "status": "Source-verified personal-field update; publication imports are excluded",
+  "scope": "184 existing HBS directory faculty; not a current faculty census",
+  "faculty_fields_changed": {
+    "fields_raw": 72,
+    "notes": 182,
+    "detail_source": 56,
+    "phd_institution": 10,
+    "cv_url": 37,
+    "google_scholar_url": 3,
+    "title": 5,
+    "homepage_url": 5
+  },
+  "faculty_with_substantive_updates": 99,
+  "faculty_changes": [
+    {
+      "name": "Aiyesha Dey",
+      "field": "fields_raw",
+      "before": null,
+      "after": "behavioral finance; corporate culture; corporate governance; financial reporting",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340604",
+      "captured_at": "2026-10-12T00:10:52.624Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "behavioral finance",
+          "corporate culture",
+          "corporate governance",
+          "financial reporting"
+        ]
+      }
+    },
+    {
+      "name": "Aiyesha Dey",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340604",
+      "captured_at": "2026-10-12T00:10:52.624Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Aiyesha Dey",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340604",
+      "captured_at": "2026-10-12T00:10:52.624Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Charles C.Y. Wang",
+      "field": "fields_raw",
+      "before": null,
+      "after": "asset pricing; boards of directors; corporate governance",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=651677",
+      "captured_at": "2026-10-12T00:11:13.296Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "asset pricing",
+          "boards of directors",
+          "corporate governance"
+        ]
+      }
+    },
+    {
+      "name": "Charles C.Y. Wang",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Stanford University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=651677",
+      "captured_at": "2026-10-12T00:11:13.296Z",
+      "evidence": "holds a Ph.D. and an M.A. in economics and an M.S. in statistics from Stanford University"
+    },
+    {
+      "name": "Charles C.Y. Wang",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=651677",
+      "captured_at": "2026-10-12T00:11:13.296Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Charles C.Y. Wang",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=651677",
+      "captured_at": "2026-10-12T00:11:13.296Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Dennis Campbell",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; management accounting and control systems; strategy; innovation; performance measurement; risk management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10677",
+      "captured_at": "2026-10-12T00:13:21.301Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "management accounting and control systems",
+          "strategy",
+          "innovation",
+          "performance measurement",
+          "risk management"
+        ]
+      }
+    },
+    {
+      "name": "Dennis Campbell",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10677",
+      "captured_at": "2026-10-12T00:13:21.301Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Dennis Campbell",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10677",
+      "captured_at": "2026-10-12T00:13:21.301Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Eugene F. Soltes",
+      "field": "fields_raw",
+      "before": null,
+      "after": "risk management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541710",
+      "captured_at": "2026-10-12T00:13:41.822Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "risk management"
+        ]
+      }
+    },
+    {
+      "name": "Eugene F. Soltes",
+      "field": "phd_institution",
+      "before": null,
+      "after": "University of Chicago",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541710",
+      "captured_at": "2026-10-12T00:13:41.822Z",
+      "evidence": "received his PhD and MBA from the University of Chicago Booth School of Business, and his AM in statistics and AB in economics from Harvard University"
+    },
+    {
+      "name": "Eugene F. Soltes",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541710",
+      "captured_at": "2026-10-12T00:13:41.822Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Eugene F. Soltes",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541710",
+      "captured_at": "2026-10-12T00:13:41.822Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "George Serafeim",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; business transformation; corporate culture; corporate governance; strategy; accounting; capital markets; corporate accountability; corporate finance; corruption; fair value accounting; financial reporting; financial statement analysis; insurance and reinsurance; international accounting; leadership; valuation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=15705",
+      "captured_at": "2026-10-12T00:14:02.987Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "business transformation",
+          "corporate culture",
+          "corporate governance",
+          "strategy",
+          "accounting",
+          "capital markets",
+          "corporate accountability",
+          "corporate finance",
+          "corruption",
+          "fair value accounting",
+          "financial reporting",
+          "financial statement analysis",
+          "insurance and reinsurance",
+          "international accounting",
+          "leadership",
+          "valuation"
+        ]
+      }
+    },
+    {
+      "name": "George Serafeim",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=15705",
+      "captured_at": "2026-10-12T00:14:02.987Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "George Serafeim",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=15705",
+      "captured_at": "2026-10-12T00:14:02.987Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Jonas Heese",
+      "field": "fields_raw",
+      "before": null,
+      "after": "accounting red flags; corporate governance; financial reporting",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159",
+      "captured_at": "2026-10-12T00:14:23.807Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "accounting red flags",
+          "corporate governance",
+          "financial reporting"
+        ]
+      }
+    },
+    {
+      "name": "Jonas Heese",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Maastricht University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159",
+      "captured_at": "2026-10-12T00:14:23.807Z",
+      "evidence": "obtained a Ph.D. and an M.Sc. in accounting from Maastricht University in the Netherlands"
+    },
+    {
+      "name": "Jonas Heese",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV_Jonas%20Heese%2020260903_89612051-fbcb-4c1c-9729-7b8056e84726.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159",
+      "captured_at": "2026-10-12T00:14:23.807Z",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV_Jonas Heese 20260903_89612051-fbcb-4c1c-9729-7b8056e84726.pdf"
+      }
+    },
+    {
+      "name": "Jonas Heese",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159",
+      "captured_at": "2026-10-12T00:14:23.807Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jonas Heese",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159",
+      "captured_at": "2026-10-12T00:14:23.807Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Suraj Srinivasan",
+      "field": "fields_raw",
+      "before": null,
+      "after": "boards of directors; corporate governance; financial reporting; financial statement analysis; globalization; accounting; accounting red flags; compensation; conflicts of interest; corporate accountability; corporate culture; corporate strategy; corporate values/value systems; cross-cultural/cross-border; disclosure strategy; emerging markets; family business; incentives; international business; international comparison; managerial incentives; nonprofit governance; quality of earnings; shareholder activism; succession; valuation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10700",
+      "captured_at": "2026-10-12T00:14:44.629Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "boards of directors",
+          "corporate governance",
+          "financial reporting",
+          "financial statement analysis",
+          "globalization",
+          "accounting",
+          "accounting red flags",
+          "compensation",
+          "conflicts of interest",
+          "corporate accountability",
+          "corporate culture",
+          "corporate strategy",
+          "corporate values/value systems",
+          "cross-cultural/cross-border",
+          "disclosure strategy",
+          "emerging markets",
+          "family business",
+          "incentives",
+          "international business",
+          "international comparison",
+          "managerial incentives",
+          "nonprofit governance",
+          "quality of earnings",
+          "shareholder activism",
+          "succession",
+          "valuation"
+        ]
+      }
+    },
+    {
+      "name": "Suraj Srinivasan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10700",
+      "captured_at": "2026-10-12T00:14:44.629Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Suraj Srinivasan",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10700",
+      "captured_at": "2026-10-12T00:14:44.629Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Tatiana Sandino",
+      "field": "fields_raw",
+      "before": null,
+      "after": "compensation; incentives; big data; corporate governance; creativity; innovation; machine learning",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10699",
+      "captured_at": "2026-10-12T00:15:05.207Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "compensation",
+          "incentives",
+          "big data",
+          "corporate governance",
+          "creativity",
+          "innovation",
+          "machine learning"
+        ]
+      }
+    },
+    {
+      "name": "Tatiana Sandino",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10699",
+      "captured_at": "2026-10-12T00:15:05.207Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Tatiana Sandino",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10699",
+      "captured_at": "2026-10-12T00:15:05.207Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "V.G. Narayanan",
+      "field": "fields_raw",
+      "before": null,
+      "after": "balanced scorecard; boards of directors; incentives; inter-organizational control; accounting; activity-based costing and management; agency theory; control systems; corporate governance; management accounting and control systems; managerial incentives; strategy implementation; supply chain management; trust; value profit chain",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6520",
+      "captured_at": "2026-10-12T00:15:25.777Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "balanced scorecard",
+          "boards of directors",
+          "incentives",
+          "inter-organizational control",
+          "accounting",
+          "activity-based costing and management",
+          "agency theory",
+          "control systems",
+          "corporate governance",
+          "management accounting and control systems",
+          "managerial incentives",
+          "strategy implementation",
+          "supply chain management",
+          "trust",
+          "value profit chain"
+        ]
+      }
+    },
+    {
+      "name": "V.G. Narayanan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6520",
+      "captured_at": "2026-10-12T00:15:25.777Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "V.G. Narayanan",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6520",
+      "captured_at": "2026-10-12T00:15:25.777Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Ethan C. Rouen",
+      "field": "fields_raw",
+      "before": null,
+      "after": "accounting; corporate governance; disclosure; financial reporting; labor management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=953217",
+      "captured_at": "2026-10-12T00:15:46.401Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "accounting",
+          "corporate governance",
+          "disclosure",
+          "financial reporting",
+          "labor management"
+        ]
+      }
+    },
+    {
+      "name": "Ethan C. Rouen",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Rouen_cv_public_050824_4cded350-7bd6-48c4-adb1-aa639036e719.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=953217",
+      "captured_at": "2026-10-12T00:15:46.401Z",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Rouen_cv_public_050824_4cded350-7bd6-48c4-adb1-aa639036e719.pdf"
+      }
+    },
+    {
+      "name": "Ethan C. Rouen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=953217",
+      "captured_at": "2026-10-12T00:15:46.401Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ethan C. Rouen",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=953217",
+      "captured_at": "2026-10-12T00:15:46.401Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Joseph Pacelli",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=774396",
+      "captured_at": "2026-10-12T00:16:06.964Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Susanna Gallani",
+      "field": "fields_raw",
+      "before": null,
+      "after": "compensation; corporate governance; managerial incentives; performance management; balanced scorecard; cost management; management accounting and control systems; nonprofit governance",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=774593",
+      "captured_at": "2026-10-12T00:16:27.627Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "compensation",
+          "corporate governance",
+          "managerial incentives",
+          "performance management",
+          "balanced scorecard",
+          "cost management",
+          "management accounting and control systems",
+          "nonprofit governance"
+        ]
+      }
+    },
+    {
+      "name": "Susanna Gallani",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=774593",
+      "captured_at": "2026-10-12T00:16:27.627Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Yuan Zou",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; disclosure; financial intermediaries; financial reporting; valuation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306",
+      "captured_at": "2026-10-12T00:16:48.430Z",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "disclosure",
+          "financial intermediaries",
+          "financial reporting",
+          "valuation"
+        ]
+      }
+    },
+    {
+      "name": "Yuan Zou",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306",
+      "captured_at": "2026-10-12T00:16:48.430Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Yuan Zou",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306",
+      "captured_at": "2026-10-12T00:16:48.430Z",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Aliya Korganbekova",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1563739",
+      "captured_at": "2026-10-12T00:42:10.582365+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Brian K. Baik",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1145752",
+      "captured_at": "2026-10-12T00:42:31.309362+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jung Koo Kang",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV_JungKooKang_202609_0ccdd95c-b25e-463d-9ab9-6043164637a0.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1324810",
+      "captured_at": "2026-10-12T00:42:51.794224+00:00",
+      "evidence": {
+        "label": "CV - Jung Koo Kang (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV_JungKooKang_202609_0ccdd95c-b25e-463d-9ab9-6043164637a0.pdf"
+      }
+    },
+    {
+      "name": "Jung Koo Kang",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1324810",
+      "captured_at": "2026-10-12T00:42:51.794224+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jung Koo Kang",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1324810",
+      "captured_at": "2026-10-12T00:42:51.794224+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Shirley Lu",
+      "field": "fields_raw",
+      "before": null,
+      "after": "accounting; corporate social responsibility; disclosure; diversity",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=722144",
+      "captured_at": "2026-10-12T00:43:13.517335+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "accounting",
+          "corporate social responsibility",
+          "disclosure",
+          "diversity"
+        ]
+      }
+    },
+    {
+      "name": "Shirley Lu",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=722144",
+      "captured_at": "2026-10-12T00:43:13.517335+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Alberto F. Cavallo",
+      "field": "fields_raw",
+      "before": null,
+      "after": "big data; macroeconomics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=394129",
+      "captured_at": "2026-10-12T00:43:34.386917+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "big data",
+          "macroeconomics"
+        ]
+      }
+    },
+    {
+      "name": "Alberto F. Cavallo",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Cavallo-CV_ddfc71aa-b6b4-46ac-969c-5d3eaa02e403.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=394129",
+      "captured_at": "2026-10-12T00:43:34.386917+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Cavallo-CV_ddfc71aa-b6b4-46ac-969c-5d3eaa02e403.pdf"
+      }
+    },
+    {
+      "name": "Alberto F. Cavallo",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=394129",
+      "captured_at": "2026-10-12T00:43:34.386917+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Alberto F. Cavallo",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=394129",
+      "captured_at": "2026-10-12T00:43:34.386917+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Caroline M. Elkins",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=937841",
+      "captured_at": "2026-10-12T00:43:56.042303+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "David A. Moss",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6518",
+      "captured_at": "2026-10-12T00:44:18.366295+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Forest L. Reinhardt",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economic institutions; economics; environment; government and business; strategy; business policy; competition; competitive advantage; competitive strategy; corporate social responsibility; corporate strategy; ethics; globalization; industry structure; international business; international comparison; market institutions; nonprofit; risk management; values",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6538",
+      "captured_at": "2026-10-12T00:44:39.544585+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economic institutions",
+          "economics",
+          "environment",
+          "government and business",
+          "strategy",
+          "business policy",
+          "competition",
+          "competitive advantage",
+          "competitive strategy",
+          "corporate social responsibility",
+          "corporate strategy",
+          "ethics",
+          "globalization",
+          "industry structure",
+          "international business",
+          "international comparison",
+          "market institutions",
+          "nonprofit",
+          "risk management",
+          "values"
+        ]
+      }
+    },
+    {
+      "name": "Forest L. Reinhardt",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6538",
+      "captured_at": "2026-10-12T00:44:39.544585+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Forest L. Reinhardt",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6538",
+      "captured_at": "2026-10-12T00:44:39.544585+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Gunnar Trumbull",
+      "field": "fields_raw",
+      "before": null,
+      "after": "consumer finance; consumer goods; consumer policy; government and business; political economy; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=140863",
+      "captured_at": "2026-10-12T00:45:00.220260+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "consumer finance",
+          "consumer goods",
+          "consumer policy",
+          "government and business",
+          "political economy",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Gunnar Trumbull",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=140863",
+      "captured_at": "2026-10-12T00:45:00.220260+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Gunnar Trumbull",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=140863",
+      "captured_at": "2026-10-12T00:45:00.220260+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Matthew C. Weinzierl",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economics; government and business; macroeconomics; taxation; ethics; political economy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496493",
+      "captured_at": "2026-10-12T00:45:22.182741+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economics",
+          "government and business",
+          "macroeconomics",
+          "taxation",
+          "ethics",
+          "political economy"
+        ]
+      }
+    },
+    {
+      "name": "Matthew C. Weinzierl",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496493",
+      "captured_at": "2026-10-12T00:45:22.182741+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Matthew C. Weinzierl",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496493",
+      "captured_at": "2026-10-12T00:45:22.182741+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Meg Rithmire",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=594996",
+      "captured_at": "2026-10-12T00:45:44.297612+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rafael M. Di Tella",
+      "field": "fields_raw",
+      "before": null,
+      "after": "corruption; crime; happiness; political economy; welfare state; economic institutions; emotions; ethics; macroeconomics; privatization; values",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6448",
+      "captured_at": "2026-10-12T00:46:05.150671+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "corruption",
+          "crime",
+          "happiness",
+          "political economy",
+          "welfare state",
+          "economic institutions",
+          "emotions",
+          "ethics",
+          "macroeconomics",
+          "privatization",
+          "values"
+        ]
+      }
+    },
+    {
+      "name": "Rafael M. Di Tella",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6448",
+      "captured_at": "2026-10-12T00:46:05.150671+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rafael M. Di Tella",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6448",
+      "captured_at": "2026-10-12T00:46:05.150671+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Rawi E. Abdelal",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6628",
+      "captured_at": "2026-10-12T00:46:25.822805+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sophus A. Reinert",
+      "field": "fields_raw",
+      "before": null,
+      "after": "business history; economic development; globalization; government and business; political economy; competition; competitive strategy; economics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=603179",
+      "captured_at": "2026-10-12T00:46:46.346197+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "business history",
+          "economic development",
+          "globalization",
+          "government and business",
+          "political economy",
+          "competition",
+          "competitive strategy",
+          "economics"
+        ]
+      }
+    },
+    {
+      "name": "Sophus A. Reinert",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=603179",
+      "captured_at": "2026-10-12T00:46:46.346197+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sophus A. Reinert",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=603179",
+      "captured_at": "2026-10-12T00:46:46.346197+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Vincent Pons",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.vincentpons.org/cv",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=736825",
+      "captured_at": "2026-10-12T00:47:07.023870+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae",
+        "url": "https://www.vincentpons.org/cv"
+      }
+    },
+    {
+      "name": "Vincent Pons",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=736825",
+      "captured_at": "2026-10-12T00:47:07.023870+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Mattias E. Fibiger",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economic history; emerging markets; globalization; government and business; political economy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1059061",
+      "captured_at": "2026-10-12T03:31:42.410929+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economic history",
+          "emerging markets",
+          "globalization",
+          "government and business",
+          "political economy"
+        ]
+      }
+    },
+    {
+      "name": "Mattias E. Fibiger",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1059061",
+      "captured_at": "2026-10-12T03:31:42.410929+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Mattias E. Fibiger",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1059061",
+      "captured_at": "2026-10-12T03:31:42.410929+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Reshmaan N. Hussam",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941",
+      "captured_at": "2026-10-12T03:31:44.220070+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Awa Ambra Seck",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1503412",
+      "captured_at": "2026-10-12T03:31:45.298035+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Charlotte L. Robertson",
+      "field": "fields_raw",
+      "before": null,
+      "after": "business history; economic history; financial institutions; government and business; political economy; capital markets; financial innovation; globalization; investment banking; social change; values",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322911",
+      "captured_at": "2026-10-12T03:31:46.504077+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "business history",
+          "economic history",
+          "financial institutions",
+          "government and business",
+          "political economy",
+          "capital markets",
+          "financial innovation",
+          "globalization",
+          "investment banking",
+          "social change",
+          "values"
+        ]
+      }
+    },
+    {
+      "name": "Charlotte L. Robertson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322911",
+      "captured_at": "2026-10-12T03:31:46.504077+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Charlotte L. Robertson",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322911",
+      "captured_at": "2026-10-12T03:31:46.504077+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Jaya Y. Wen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1283584",
+      "captured_at": "2026-10-12T03:31:47.852328+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Laura V. Jakli",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1309486",
+      "captured_at": "2026-10-12T03:31:49.084427+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Marco E. Tabellini",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economic history; economic institutions; political economy; international trade",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330",
+      "captured_at": "2026-10-12T03:31:51.197695+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economic history",
+          "economic institutions",
+          "political economy",
+          "international trade"
+        ]
+      }
+    },
+    {
+      "name": "Marco E. Tabellini",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/MT_CV_long_9a7fb352-da76-400c-88ee-8b84bb48b944.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330",
+      "captured_at": "2026-10-12T03:31:51.197695+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/MT_CV_long_9a7fb352-da76-400c-88ee-8b84bb48b944.pdf"
+      }
+    },
+    {
+      "name": "Marco E. Tabellini",
+      "field": "google_scholar_url",
+      "before": null,
+      "after": "https://scholar.google.com/citations?user=zLJG304AAAAJ&hl=it&oi=ao",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330",
+      "captured_at": "2026-10-12T03:31:51.197695+00:00",
+      "evidence": {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=zLJG304AAAAJ&hl=it&oi=ao"
+      }
+    },
+    {
+      "name": "Marco E. Tabellini",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330",
+      "captured_at": "2026-10-12T03:31:51.197695+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Marco E. Tabellini",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330",
+      "captured_at": "2026-10-12T03:31:51.197695+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Marlous van Waijenburg",
+      "field": "fields_raw",
+      "before": null,
+      "after": "business history; economic development; economic history; globalization; labor management; political economy; taxation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1200880",
+      "captured_at": "2026-10-12T03:31:52.383354+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "business history",
+          "economic development",
+          "economic history",
+          "globalization",
+          "labor management",
+          "political economy",
+          "taxation"
+        ]
+      }
+    },
+    {
+      "name": "Marlous van Waijenburg",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1200880",
+      "captured_at": "2026-10-12T03:31:52.383354+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Natalia Garbiras-Diaz",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1457929",
+      "captured_at": "2026-10-12T03:31:53.708849+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Paula C. Rettl",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1457923",
+      "captured_at": "2026-10-12T03:31:55.913251+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Christopher T. Stanton",
+      "field": "fields_raw",
+      "before": null,
+      "after": "compensation; digital economy; distributed innovation; entrepreneurship; small company management; electronic markets; experimentation; human resource management; information technology; performance measurement; venture capital",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=602452",
+      "captured_at": "2026-10-12T03:31:57.633653+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "compensation",
+          "digital economy",
+          "distributed innovation",
+          "entrepreneurship",
+          "small company management",
+          "electronic markets",
+          "experimentation",
+          "human resource management",
+          "information technology",
+          "performance measurement",
+          "venture capital"
+        ]
+      }
+    },
+    {
+      "name": "Christopher T. Stanton",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Stanton_Christopher_CV_20250710_ed29e29e-ebd1-46b1-9129-566de42be9dc.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=602452",
+      "captured_at": "2026-10-12T03:31:57.633653+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Stanton_Christopher_CV_20250710_ed29e29e-ebd1-46b1-9129-566de42be9dc.pdf"
+      }
+    },
+    {
+      "name": "Christopher T. Stanton",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=602452",
+      "captured_at": "2026-10-12T03:31:57.633653+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Christopher T. Stanton",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=602452",
+      "captured_at": "2026-10-12T03:31:57.633653+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Ranjay Gulati",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=77265",
+      "captured_at": "2026-10-12T03:32:01.106646+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sabrina T. Howell",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772774",
+      "captured_at": "2026-10-12T03:32:03.348683+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Scott Duke Kominers",
+      "field": "title",
+      "before": "Sarofim-Rock Professor of Business Administration",
+      "after": "Sarofim-Rock Professor of Business Administration (Leave of Absence)",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905",
+      "captured_at": "2026-10-12T03:32:06.080225+00:00",
+      "evidence": {
+        "profile_heading": "Sarofim-Rock Professor of Business Administration (Leave of Absence)"
+      }
+    },
+    {
+      "name": "Scott Duke Kominers",
+      "field": "fields_raw",
+      "before": null,
+      "after": "entrepreneurship; market design",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905",
+      "captured_at": "2026-10-12T03:32:06.080225+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "entrepreneurship",
+          "market design"
+        ]
+      }
+    },
+    {
+      "name": "Scott Duke Kominers",
+      "field": "cv_url",
+      "before": null,
+      "after": "http://www.scottkom.com/docs/scott_kominers_cv.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905",
+      "captured_at": "2026-10-12T03:32:06.080225+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "http://www.scottkom.com/docs/scott_kominers_cv.pdf"
+      }
+    },
+    {
+      "name": "Scott Duke Kominers",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Leave of absence.",
+      "after": "fields_std inferred from HBS academic unit. Leave of absence.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905",
+      "captured_at": "2026-10-12T03:32:06.080225+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Shai Benjamin Bernstein",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=423089",
+      "captured_at": "2026-10-12T03:32:07.257207+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Thomas R. Eisenmann",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Eisenmann_CV_July_2026_fff27bd6-7da8-400d-84e3-93e152bd148c.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6452",
+      "captured_at": "2026-10-12T03:32:08.753656+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Eisenmann_CV_July_2026_fff27bd6-7da8-400d-84e3-93e152bd148c.pdf"
+      }
+    },
+    {
+      "name": "Thomas R. Eisenmann",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6452",
+      "captured_at": "2026-10-12T03:32:08.753656+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Thomas R. Eisenmann",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6452",
+      "captured_at": "2026-10-12T03:32:08.753656+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Tom Nicholas",
+      "field": "fields_raw",
+      "before": null,
+      "after": "entrepreneurship; innovation; intellectual property; patents; technological change; business history; family business",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337264",
+      "captured_at": "2026-10-12T03:32:10.031857+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "entrepreneurship",
+          "innovation",
+          "intellectual property",
+          "patents",
+          "technological change",
+          "business history",
+          "family business"
+        ]
+      }
+    },
+    {
+      "name": "Tom Nicholas",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337264",
+      "captured_at": "2026-10-12T03:32:10.031857+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Tom Nicholas",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337264",
+      "captured_at": "2026-10-12T03:32:10.031857+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "William R. Kerr",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Kerr_William_CV_704acaa3-47c5-47db-847a-b4bfeb4bc4ec.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265",
+      "captured_at": "2026-10-12T03:32:12.635778+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Kerr_William_CV_704acaa3-47c5-47db-847a-b4bfeb4bc4ec.pdf"
+      }
+    },
+    {
+      "name": "William R. Kerr",
+      "field": "google_scholar_url",
+      "before": null,
+      "after": "https://scholar.google.com/citations?user=3T3vX6sAAAAJ&hl=en",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265",
+      "captured_at": "2026-10-12T03:32:12.635778+00:00",
+      "evidence": {
+        "label": "Google",
+        "url": "https://scholar.google.com/citations?user=3T3vX6sAAAAJ&hl=en"
+      }
+    },
+    {
+      "name": "William R. Kerr",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265",
+      "captured_at": "2026-10-12T03:32:12.635778+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "William R. Kerr",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265",
+      "captured_at": "2026-10-12T03:32:12.635778+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Benjamin N. Roth",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economic development; entrepreneurship; social entrepreneurship",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1028680",
+      "captured_at": "2026-10-12T03:32:14.009945+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economic development",
+          "entrepreneurship",
+          "social entrepreneurship"
+        ]
+      }
+    },
+    {
+      "name": "Benjamin N. Roth",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Benjamin_N_Roth_CV_Sept2026_bb61e024-f798-436d-8d13-1eb7ff2d2f7f.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1028680",
+      "captured_at": "2026-10-12T03:32:14.009945+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Benjamin_N_Roth_CV_Sept2026_bb61e024-f798-436d-8d13-1eb7ff2d2f7f.pdf"
+      }
+    },
+    {
+      "name": "Benjamin N. Roth",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1028680",
+      "captured_at": "2026-10-12T03:32:14.009945+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Benjamin N. Roth",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1028680",
+      "captured_at": "2026-10-12T03:32:14.009945+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Joshua Lev Krieger",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435",
+      "captured_at": "2026-10-12T03:32:15.888923+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Natalia Rigol",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Natalia%20Rigol_53af1fbb-d316-4f19-953f-26b5034f8b88.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060423",
+      "captured_at": "2026-10-12T03:32:16.962845+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Natalia Rigol_53af1fbb-d316-4f19-953f-26b5034f8b88.pdf"
+      }
+    },
+    {
+      "name": "Natalia Rigol",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060423",
+      "captured_at": "2026-10-12T03:32:16.962845+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ray Kluender",
+      "field": "fields_raw",
+      "before": null,
+      "after": "bankruptcy; consumer finance; entrepreneurship; healthcare management; insurance and reinsurance; business and poverty; consumer policy; digital economy; experimental economics; government and business; healthcare ventures; law; social entrepreneurship; welfare state",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199335",
+      "captured_at": "2026-10-12T03:32:19.133959+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "bankruptcy",
+          "consumer finance",
+          "entrepreneurship",
+          "healthcare management",
+          "insurance and reinsurance",
+          "business and poverty",
+          "consumer policy",
+          "digital economy",
+          "experimental economics",
+          "government and business",
+          "healthcare ventures",
+          "law",
+          "social entrepreneurship",
+          "welfare state"
+        ]
+      }
+    },
+    {
+      "name": "Ray Kluender",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199335",
+      "captured_at": "2026-10-12T03:32:19.133959+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rembrand M. Koning",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Stanford University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=876389",
+      "captured_at": "2026-10-12T03:32:22.805874+00:00",
+      "evidence": "earned degrees in mathematics and statistics from the University of Chicago and his Ph.D. at the Stanford Graduate School of Business, where he received a Kauffman Dissertation Fellowship"
+    },
+    {
+      "name": "Rembrand M. Koning",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/remkoning-cv%20%283%29_c3923423-20c2-47f5-ad32-48dbeff65c83.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=876389",
+      "captured_at": "2026-10-12T03:32:22.805874+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/remkoning-cv (3)_c3923423-20c2-47f5-ad32-48dbeff65c83.pdf"
+      }
+    },
+    {
+      "name": "Rembrand M. Koning",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=876389",
+      "captured_at": "2026-10-12T03:32:22.805874+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rembrand M. Koning",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=876389",
+      "captured_at": "2026-10-12T03:32:22.805874+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Zoe B. Cullen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=879471",
+      "captured_at": "2026-10-12T03:32:24.948280+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Anke Becker",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1205278",
+      "captured_at": "2026-10-12T03:32:26.678141+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ebehi Iyoha",
+      "field": "title",
+      "before": "Assistant Professor of Business Administration",
+      "after": "Assistant Professor of Business Administration (Leave of Absence)",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929",
+      "captured_at": "2026-10-12T03:32:28.739211+00:00",
+      "evidence": {
+        "profile_heading": "Assistant Professor of Business Administration (Leave of Absence)"
+      }
+    },
+    {
+      "name": "Ebehi Iyoha",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Leave of absence.",
+      "after": "fields_std inferred from HBS academic unit. Leave of absence.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929",
+      "captured_at": "2026-10-12T03:32:28.739211+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Olivia S. Kim",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/cv%20%284%29_9d26f949-9e77-4a69-9ac4-2fc7a40d070e.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1428172",
+      "captured_at": "2026-10-12T03:32:29.805613+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/cv (4)_9d26f949-9e77-4a69-9ac4-2fc7a40d070e.pdf"
+      }
+    },
+    {
+      "name": "Olivia S. Kim",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1428172",
+      "captured_at": "2026-10-12T03:32:29.805613+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Todd Lensman",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; economics; innovation; macroeconomics; technological change; economic development; entrepreneurship; managing growth; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1661455",
+      "captured_at": "2026-10-12T03:32:30.806831+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "economics",
+          "innovation",
+          "macroeconomics",
+          "technological change",
+          "economic development",
+          "entrepreneurship",
+          "managing growth",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Todd Lensman",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1661455",
+      "captured_at": "2026-10-12T03:32:30.806831+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Adi Sunderam",
+      "field": "fields_raw",
+      "before": null,
+      "after": "asset pricing; capital markets; corporate finance; financial institutions; financial intermediaries; behavioral finance; capital structure; debt financing; equity financing; hedge funds; institutional investing; investment banking; investment management; market institutions; mutual funds",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
+      "captured_at": "2026-10-12T03:32:31.810615+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "asset pricing",
+          "capital markets",
+          "corporate finance",
+          "financial institutions",
+          "financial intermediaries",
+          "behavioral finance",
+          "capital structure",
+          "debt financing",
+          "equity financing",
+          "hedge funds",
+          "institutional investing",
+          "investment banking",
+          "investment management",
+          "market institutions",
+          "mutual funds"
+        ]
+      }
+    },
+    {
+      "name": "Adi Sunderam",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://drive.google.com/open?id=1alrY4W6JNSN_IuJCtbngOh8uS0cCVA_H",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
+      "captured_at": "2026-10-12T03:32:31.810615+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae",
+        "url": "https://drive.google.com/open?id=1alrY4W6JNSN_IuJCtbngOh8uS0cCVA_H"
+      }
+    },
+    {
+      "name": "Adi Sunderam",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
+      "captured_at": "2026-10-12T03:32:31.810615+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Benjamin C. Esty",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6454",
+      "captured_at": "2026-10-12T03:32:33.876208+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "C. Fritz Foley",
+      "field": "homepage_url",
+      "before": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10647",
+      "after": "http://www.people.hbs.edu/ffoley/",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10647",
+      "captured_at": "2026-10-12T03:32:36.232962+00:00",
+      "evidence": {
+        "label": "Personal Website",
+        "url": "http://www.people.hbs.edu/ffoley/"
+      }
+    },
+    {
+      "name": "C. Fritz Foley",
+      "field": "cv_url",
+      "before": null,
+      "after": "http://www.people.hbs.edu/ffoley/cv.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10647",
+      "captured_at": "2026-10-12T03:32:36.232962+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "http://www.people.hbs.edu/ffoley/cv.pdf"
+      }
+    },
+    {
+      "name": "C. Fritz Foley",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10647",
+      "captured_at": "2026-10-12T03:32:36.232962+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "C. Fritz Foley",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10647",
+      "captured_at": "2026-10-12T03:32:36.232962+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "David S. Scharfstein",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567",
+      "captured_at": "2026-10-12T03:32:38.585157+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Erik Stafford",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6625",
+      "captured_at": "2026-10-12T03:32:40.078323+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Josh Lerner",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961",
+      "captured_at": "2026-10-12T03:32:43.729162+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Lauren H. Cohen",
+      "field": "homepage_url",
+      "before": null,
+      "after": "https://www.laurenhcohen.com/",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063",
+      "captured_at": "2026-10-12T03:32:46.514747+00:00",
+      "evidence": {
+        "label": "personal website.",
+        "url": "https://www.laurenhcohen.com/"
+      }
+    },
+    {
+      "name": "Lauren H. Cohen",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/cv_7_070bcd8f-8268-4bf7-af12-6577debbcf38.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063",
+      "captured_at": "2026-10-12T03:32:46.514747+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/cv_7_070bcd8f-8268-4bf7-af12-6577debbcf38.pdf"
+      }
+    },
+    {
+      "name": "Lauren H. Cohen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063",
+      "captured_at": "2026-10-12T03:32:46.514747+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Luis M. Viceira",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6604",
+      "captured_at": "2026-10-12T03:32:48.542918+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Malcolm P. Baker",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/cv9_43d13571-1df1-4951-a5d9-886eab35fcfe.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10639",
+      "captured_at": "2026-10-12T03:32:49.728125+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/cv9_43d13571-1df1-4951-a5d9-886eab35fcfe.pdf"
+      }
+    },
+    {
+      "name": "Malcolm P. Baker",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10639",
+      "captured_at": "2026-10-12T03:32:49.728125+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Mark L. Egan",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Egan%20-%20CV%20-07-14-2025_b726a85b-cae4-469f-8594-bb3e5f1e1df2.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=774513",
+      "captured_at": "2026-10-12T03:32:50.749986+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Egan - CV -07-14-2025_b726a85b-cae4-469f-8594-bb3e5f1e1df2.pdf"
+      }
+    },
+    {
+      "name": "Mark L. Egan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=774513",
+      "captured_at": "2026-10-12T03:32:50.749986+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Mihir A. Desai",
+      "field": "homepage_url",
+      "before": null,
+      "after": "http://www.mihirdesai.org/",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6585",
+      "captured_at": "2026-10-12T03:32:51.837831+00:00",
+      "evidence": {
+        "label": "Personal Website",
+        "url": "http://www.mihirdesai.org/"
+      }
+    },
+    {
+      "name": "Mihir A. Desai",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Curriculum%20Vitae_7f9532c6-a679-49cc-914e-81318f33d434.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6585",
+      "captured_at": "2026-10-12T03:32:51.837831+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Curriculum Vitae_7f9532c6-a679-49cc-914e-81318f33d434.pdf"
+      }
+    },
+    {
+      "name": "Mihir A. Desai",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6585",
+      "captured_at": "2026-10-12T03:32:51.837831+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Paul A. Gompers",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6463",
+      "captured_at": "2026-10-12T03:32:53.953933+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Robin Greenwood",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/cv_greenwood_2_26_c34c2e1f-8e06-4ccd-bb5c-9137f334a430.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=136446",
+      "captured_at": "2026-10-12T03:32:55.291893+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/cv_greenwood_2_26_c34c2e1f-8e06-4ccd-bb5c-9137f334a430.pdf"
+      }
+    },
+    {
+      "name": "Robin Greenwood",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=136446",
+      "captured_at": "2026-10-12T03:32:55.291893+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Samuel G. Hanson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333598",
+      "captured_at": "2026-10-12T03:32:56.322120+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Shawn A. Cole",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/cole-cv-2020-07-web_d5513e15-bcf4-4149-b2fe-f9fdaef2a974.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340064",
+      "captured_at": "2026-10-12T03:32:57.802470+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/cole-cv-2020-07-web_d5513e15-bcf4-4149-b2fe-f9fdaef2a974.pdf"
+      }
+    },
+    {
+      "name": "Shawn A. Cole",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340064",
+      "captured_at": "2026-10-12T03:32:57.802470+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Victoria Ivashina",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=378483",
+      "captured_at": "2026-10-12T03:32:59.005690+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Wenxin Du",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1587925",
+      "captured_at": "2026-10-12T03:33:00.507954+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Elisabeth Kempf",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=878441",
+      "captured_at": "2026-10-12T03:33:01.497572+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Emil N. Siriwardane",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=773720",
+      "captured_at": "2026-10-12T00:11:33.778Z",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Marco Sammon",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326895",
+      "captured_at": "2026-10-12T03:33:02.738081+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ishita Sen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1204618",
+      "captured_at": "2026-10-12T03:33:04.146590+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jessica S. Li",
+      "field": "homepage_url",
+      "before": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741696",
+      "after": "https://sites.google.com/view/jessicaliwebsite/home?pli=1",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741696",
+      "captured_at": "2026-10-12T03:33:05.648473+00:00",
+      "evidence": {
+        "label": "Personal Website",
+        "url": "https://sites.google.com/view/jessicaliwebsite/home?pli=1"
+      }
+    },
+    {
+      "name": "Jessica S. Li",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741696",
+      "captured_at": "2026-10-12T03:33:05.648473+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jessica S. Li",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741696",
+      "captured_at": "2026-10-12T03:33:05.648473+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Max J. Miller",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1494424",
+      "captured_at": "2026-10-12T03:33:06.582305+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Philippe van der Beck",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1494427",
+      "captured_at": "2026-10-12T03:33:07.733485+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Samuel B. Antill",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/SamCV_3c240030-657e-4f0d-881f-2bffd06a568e.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284277",
+      "captured_at": "2026-10-12T03:33:08.771165+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/SamCV_3c240030-657e-4f0d-881f-2bffd06a568e.pdf"
+      }
+    },
+    {
+      "name": "Samuel B. Antill",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284277",
+      "captured_at": "2026-10-12T03:33:08.771165+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sebastian Hillenbrand",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1431982",
+      "captured_at": "2026-10-12T03:33:10.566390+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Debora L. Spar",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economic development; government and business; international business; political economy; business policy; emerging markets; global; globalization; intellectual property; life sciences",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6558",
+      "captured_at": "2026-10-12T03:33:13.054313+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economic development",
+          "government and business",
+          "international business",
+          "political economy",
+          "business policy",
+          "emerging markets",
+          "global",
+          "globalization",
+          "intellectual property",
+          "life sciences"
+        ]
+      }
+    },
+    {
+      "name": "Debora L. Spar",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6558",
+      "captured_at": "2026-10-12T03:33:13.054313+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Geoffrey G. Jones",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV%20Geoffrey%20Jones%20-%20August2026_632dec78-f8d1-488f-ac02-09272e0bff36.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24276",
+      "captured_at": "2026-10-12T03:33:14.574119+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV Geoffrey Jones - August2026_632dec78-f8d1-488f-ac02-09272e0bff36.pdf"
+      }
+    },
+    {
+      "name": "Geoffrey G. Jones",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24276",
+      "captured_at": "2026-10-12T03:33:14.574119+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Geoffrey G. Jones",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24276",
+      "captured_at": "2026-10-12T03:33:14.574119+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Laura Alfaro",
+      "field": "title",
+      "before": "Warren Alpert Professor of Business Administration",
+      "after": "Warren Alpert Professor of Business Administration (Leave of Absence)",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6629",
+      "captured_at": "2026-10-12T03:33:17.365222+00:00",
+      "evidence": {
+        "profile_heading": "Warren Alpert Professor of Business Administration (Leave of Absence)"
+      }
+    },
+    {
+      "name": "Laura Alfaro",
+      "field": "fields_raw",
+      "before": null,
+      "after": "capital markets; economics; foreign direct investment; globalization; international finance; economic development; government and business; international business; macroeconomics; political economy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6629",
+      "captured_at": "2026-10-12T03:33:17.365222+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "capital markets",
+          "economics",
+          "foreign direct investment",
+          "globalization",
+          "international finance",
+          "economic development",
+          "government and business",
+          "international business",
+          "macroeconomics",
+          "political economy"
+        ]
+      }
+    },
+    {
+      "name": "Laura Alfaro",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Leave of absence.",
+      "after": "fields_std inferred from HBS academic unit. Leave of absence.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6629",
+      "captured_at": "2026-10-12T03:33:17.365222+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Laura Alfaro",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6629",
+      "captured_at": "2026-10-12T03:33:17.365222+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Leemore S. Dafny",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=220887",
+      "captured_at": "2026-10-12T03:33:18.972933+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Nien-he Hsieh",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24284",
+      "captured_at": "2026-10-12T03:33:20.567497+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rebecca M. Henderson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=12345",
+      "captured_at": "2026-10-12T03:33:22.277386+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Regina E. Herzlinger",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6476",
+      "captured_at": "2026-10-12T03:33:25.605197+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rosabeth M. Kanter",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6486",
+      "captured_at": "2026-10-12T03:33:28.317212+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "William C. Kirby",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "after": "fields_std inferred from HBS academic unit. Historian/political scientist in HBS unit; included as HBS tenure-line faculty.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=409749",
+      "captured_at": "2026-10-12T03:33:30.122737+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Youngme Moon",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6589",
+      "captured_at": "2026-10-12T03:33:31.083413+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Anita Elberse",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=244024",
+      "captured_at": "2026-10-12T03:33:32.271289+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Das Narayandas",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6521",
+      "captured_at": "2026-10-12T03:33:33.652538+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Elie Ofek",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13407",
+      "captured_at": "2026-10-12T03:33:35.481566+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rajiv Lal",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6497",
+      "captured_at": "2026-10-12T03:33:36.764163+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sunil Gupta",
+      "field": "fields_raw",
+      "before": null,
+      "after": "customer relationship management; marketing; technology management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=261323",
+      "captured_at": "2026-10-12T03:33:38.414927+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "customer relationship management",
+          "marketing",
+          "technology management"
+        ]
+      }
+    },
+    {
+      "name": "Sunil Gupta",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=261323",
+      "captured_at": "2026-10-12T03:33:38.414927+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Sunil Gupta",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=261323",
+      "captured_at": "2026-10-12T03:33:38.414927+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Julian De Freitas",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; consumer psychology; ethics; cognition; conflict; consumer behavior; corporate social responsibility; crisis management; evolutionary theory; game theory; identity; machine learning; marketing; philanthropy; trust",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326184",
+      "captured_at": "2026-10-12T03:33:40.558047+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "consumer psychology",
+          "ethics",
+          "cognition",
+          "conflict",
+          "consumer behavior",
+          "corporate social responsibility",
+          "crisis management",
+          "evolutionary theory",
+          "game theory",
+          "identity",
+          "machine learning",
+          "marketing",
+          "philanthropy",
+          "trust"
+        ]
+      }
+    },
+    {
+      "name": "Julian De Freitas",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326184",
+      "captured_at": "2026-10-12T03:33:40.558047+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Shunyuan Zhang",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206",
+      "captured_at": "2026-10-12T03:33:41.485052+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Demi Oba",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1621669",
+      "captured_at": "2026-10-12T03:33:42.335828+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Isamar Troncoso",
+      "field": "title",
+      "before": "Assistant Professor of Business Administration",
+      "after": "Assistant Professor of Business Administration (Leave of Absence)",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1374826",
+      "captured_at": "2026-10-12T03:33:43.285628+00:00",
+      "evidence": {
+        "profile_heading": "Assistant Professor of Business Administration (Leave of Absence)"
+      }
+    },
+    {
+      "name": "Isamar Troncoso",
+      "field": "fields_raw",
+      "before": null,
+      "after": "analytics; artificial intelligence; electronic commerce; machine learning; marketing; big data; econometrics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1374826",
+      "captured_at": "2026-10-12T03:33:43.285628+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "analytics",
+          "artificial intelligence",
+          "electronic commerce",
+          "machine learning",
+          "marketing",
+          "big data",
+          "econometrics"
+        ]
+      }
+    },
+    {
+      "name": "Isamar Troncoso",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Leave of absence.",
+      "after": "fields_std inferred from HBS academic unit. Leave of absence.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1374826",
+      "captured_at": "2026-10-12T03:33:43.285628+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Madhav Kumar",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1621666",
+      "captured_at": "2026-10-12T03:33:44.079157+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Maren Hoff",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1621663",
+      "captured_at": "2026-10-12T03:33:45.233487+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Tomomichi Amano",
+      "field": "fields_raw",
+      "before": null,
+      "after": "environment; marketing; product management; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=938509",
+      "captured_at": "2026-10-12T03:33:46.731807+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "environment",
+          "marketing",
+          "product management",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Tomomichi Amano",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=938509",
+      "captured_at": "2026-10-12T03:33:46.731807+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Brian J. Hall",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6468",
+      "captured_at": "2026-10-12T03:33:47.919596+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Deepak Malhotra",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=189290",
+      "captured_at": "2026-10-12T03:33:49.013485+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Guhan Subramanian",
+      "field": "fields_raw",
+      "before": null,
+      "after": "corporate finance; corporate governance; dealmaking; mergers and acquisitions; negotiation; auctions; boards of directors; business law; leveraged buyouts",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6644",
+      "captured_at": "2026-10-12T03:33:50.236372+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "corporate finance",
+          "corporate governance",
+          "dealmaking",
+          "mergers and acquisitions",
+          "negotiation",
+          "auctions",
+          "boards of directors",
+          "business law",
+          "leveraged buyouts"
+        ]
+      }
+    },
+    {
+      "name": "Guhan Subramanian",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6644",
+      "captured_at": "2026-10-12T03:33:50.236372+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Guhan Subramanian",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6644",
+      "captured_at": "2026-10-12T03:33:50.236372+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "James K. Sebenius",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6550",
+      "captured_at": "2026-10-12T03:33:51.434865+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "John Beshears",
+      "field": "fields_raw",
+      "before": null,
+      "after": "behavioral finance; consumer finance; economics; healthcare management; negotiation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=8943",
+      "captured_at": "2026-10-12T03:33:52.541217+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "behavioral finance",
+          "consumer finance",
+          "economics",
+          "healthcare management",
+          "negotiation"
+        ]
+      }
+    },
+    {
+      "name": "John Beshears",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=8943",
+      "captured_at": "2026-10-12T03:33:52.541217+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "John Beshears",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=8943",
+      "captured_at": "2026-10-12T03:33:52.541217+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Joshua R. Schwartzstein",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=564091",
+      "captured_at": "2026-10-12T03:33:54.073072+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Katherine B. Coffman",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Coffman_Katherine_CV_997503b4-bf44-47bc-bfb5-3484ef0eca86.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=879706",
+      "captured_at": "2026-10-12T03:33:55.032796+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Coffman_Katherine_CV_997503b4-bf44-47bc-bfb5-3484ef0eca86.pdf"
+      }
+    },
+    {
+      "name": "Katherine B. Coffman",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=879706",
+      "captured_at": "2026-10-12T03:33:55.032796+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Leslie K. John",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=589473",
+      "captured_at": "2026-10-12T03:33:56.427258+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Max H. Bazerman",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6420",
+      "captured_at": "2026-10-12T03:33:58.266107+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Michael I. Norton",
+      "field": "fields_raw",
+      "before": null,
+      "after": "consumer behavior; consumer psychology; decision-making; nonprofit; philanthropy; corporate social responsibility; ethnic marketing; experimental economics; marketing; pricing; race and ethnicity; social enterprise; social interactions",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=326229",
+      "captured_at": "2026-10-12T03:33:59.455891+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "consumer behavior",
+          "consumer psychology",
+          "decision-making",
+          "nonprofit",
+          "philanthropy",
+          "corporate social responsibility",
+          "ethnic marketing",
+          "experimental economics",
+          "marketing",
+          "pricing",
+          "race and ethnicity",
+          "social enterprise",
+          "social interactions"
+        ]
+      }
+    },
+    {
+      "name": "Michael I. Norton",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=326229",
+      "captured_at": "2026-10-12T03:33:59.455891+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Alison Wood Brooks",
+      "field": "title",
+      "before": "Associate Professor of Business Administration",
+      "after": "Associate Professor of Business Administration (Leave of Absence)",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=684820",
+      "captured_at": "2026-10-12T03:34:00.452759+00:00",
+      "evidence": {
+        "profile_heading": "Associate Professor of Business Administration (Leave of Absence)"
+      }
+    },
+    {
+      "name": "Alison Wood Brooks",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Leave of absence.",
+      "after": "fields_std inferred from HBS academic unit. Leave of absence.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=684820",
+      "captured_at": "2026-10-12T03:34:00.452759+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Amit Goldenberg",
+      "field": "fields_raw",
+      "before": null,
+      "after": "cognition; conflict management; emotions; group dynamics; technological change",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1194484",
+      "captured_at": "2026-10-12T03:34:01.491199+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "cognition",
+          "conflict management",
+          "emotions",
+          "group dynamics",
+          "technological change"
+        ]
+      }
+    },
+    {
+      "name": "Amit Goldenberg",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1194484",
+      "captured_at": "2026-10-12T03:34:01.491199+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ashley V. Whillans",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=943704",
+      "captured_at": "2026-10-12T03:34:02.806006+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Edward H. Chang",
+      "field": "fields_raw",
+      "before": null,
+      "after": "decision-making; diversity; gender; organizational behavior; race and ethnicity",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284280",
+      "captured_at": "2026-10-12T03:34:03.740580+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "decision-making",
+          "diversity",
+          "gender",
+          "organizational behavior",
+          "race and ethnicity"
+        ]
+      }
+    },
+    {
+      "name": "Edward H. Chang",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284280",
+      "captured_at": "2026-10-12T03:34:03.740580+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Edward H. Chang",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284280",
+      "captured_at": "2026-10-12T03:34:03.740580+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Jillian J. Jordan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284607",
+      "captured_at": "2026-10-12T03:34:04.670774+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Julian J. Zlatev",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1041982",
+      "captured_at": "2026-10-12T03:34:05.750401+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Alex Chan",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Stanford University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1495303",
+      "captured_at": "2026-10-12T03:34:06.659944+00:00",
+      "evidence": "holds a Ph.D. from Stanford University and an M"
+    },
+    {
+      "name": "Alex Chan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1495303",
+      "captured_at": "2026-10-12T03:34:06.659944+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Kadeem Noray",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1662262",
+      "captured_at": "2026-10-12T03:34:07.550750+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Livia Alfonsi",
+      "field": "fields_raw",
+      "before": null,
+      "after": "career decision-making; economic development; experimental economics; labor markets; mentoring",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1494418",
+      "captured_at": "2026-10-12T03:34:08.908206+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "career decision-making",
+          "economic development",
+          "experimental economics",
+          "labor markets",
+          "mentoring"
+        ]
+      }
+    },
+    {
+      "name": "Livia Alfonsi",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/alfonsi_CV_Aug26_97c7454b-dbd7-4c3f-b926-e081953b5e1a.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1494418",
+      "captured_at": "2026-10-12T03:34:08.908206+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/alfonsi_CV_Aug26_97c7454b-dbd7-4c3f-b926-e081953b5e1a.pdf"
+      }
+    },
+    {
+      "name": "Livia Alfonsi",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1494418",
+      "captured_at": "2026-10-12T03:34:08.908206+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Boris Groysberg",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10650",
+      "captured_at": "2026-10-12T03:34:10.341519+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jeffrey T. Polzer",
+      "field": "fields_raw",
+      "before": null,
+      "after": "diversity; global collaboration; leadership; people analytics; teams; analytics; communication technologies; conflict management; cross-functional integration; team analytics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6627",
+      "captured_at": "2026-10-12T03:34:11.554984+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "diversity",
+          "global collaboration",
+          "leadership",
+          "people analytics",
+          "teams",
+          "analytics",
+          "communication technologies",
+          "conflict management",
+          "cross-functional integration",
+          "team analytics"
+        ]
+      }
+    },
+    {
+      "name": "Jeffrey T. Polzer",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Northwestern University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6627",
+      "captured_at": "2026-10-12T03:34:11.554984+00:00",
+      "evidence": "received his Ph.D. in Organizational Behavior from the Kellogg Graduate School of Management at Northwestern University"
+    },
+    {
+      "name": "Jeffrey T. Polzer",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6627",
+      "captured_at": "2026-10-12T03:34:11.554984+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jeffrey T. Polzer",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6627",
+      "captured_at": "2026-10-12T03:34:11.554984+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Joshua D. Margolis",
+      "field": "fields_raw",
+      "before": null,
+      "after": "ethics; leadership; organizational behavior; tradeoffs; business policy; corporate accountability; corporate social responsibility; corporate values/value systems; crisis management; emotions; general management; managerial skills; organizational development; organizational learning; organizational management; qualitative research; social enterprise; teams; value creation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658",
+      "captured_at": "2026-10-12T03:34:12.633974+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "ethics",
+          "leadership",
+          "organizational behavior",
+          "tradeoffs",
+          "business policy",
+          "corporate accountability",
+          "corporate social responsibility",
+          "corporate values/value systems",
+          "crisis management",
+          "emotions",
+          "general management",
+          "managerial skills",
+          "organizational development",
+          "organizational learning",
+          "organizational management",
+          "qualitative research",
+          "social enterprise",
+          "teams",
+          "value creation"
+        ]
+      }
+    },
+    {
+      "name": "Joshua D. Margolis",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Harvard University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658",
+      "captured_at": "2026-10-12T03:34:12.633974+00:00",
+      "evidence": "received his B.A. from Yale University and his A.M. (Sociology) and Ph.D. in Organizational Behavior from Harvard University, where he was also a Fellow in the Program in Ethics and the Professions"
+    },
+    {
+      "name": "Joshua D. Margolis",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658",
+      "captured_at": "2026-10-12T03:34:12.633974+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Joshua D. Margolis",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658",
+      "captured_at": "2026-10-12T03:34:12.633974+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Julie Battilana",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=382192",
+      "captured_at": "2026-10-12T03:34:13.781731+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Lakshmi Ramarajan",
+      "field": "fields_raw",
+      "before": null,
+      "after": "conflict management; diversity; identity; organizational behavior; social change",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496799",
+      "captured_at": "2026-10-12T03:34:14.754507+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "conflict management",
+          "diversity",
+          "identity",
+          "organizational behavior",
+          "social change"
+        ]
+      }
+    },
+    {
+      "name": "Lakshmi Ramarajan",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496799",
+      "captured_at": "2026-10-12T03:34:14.754507+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Lakshmi Ramarajan",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=496799",
+      "captured_at": "2026-10-12T03:34:14.754507+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Leslie A. Perlow",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24278",
+      "captured_at": "2026-10-12T03:34:15.818004+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Linda A. Hill",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6479",
+      "captured_at": "2026-10-12T03:34:17.574033+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rakesh Khurana",
+      "field": "fields_raw",
+      "before": null,
+      "after": "boards of directors; corporate governance; leadership; market institutions; organizational behavior; agency theory; compensation; corporate accountability; corporate social responsibility; economic institutions; education; human resource management; incentives; networks; power and influence",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6921",
+      "captured_at": "2026-10-12T03:34:18.621698+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "boards of directors",
+          "corporate governance",
+          "leadership",
+          "market institutions",
+          "organizational behavior",
+          "agency theory",
+          "compensation",
+          "corporate accountability",
+          "corporate social responsibility",
+          "economic institutions",
+          "education",
+          "human resource management",
+          "incentives",
+          "networks",
+          "power and influence"
+        ]
+      }
+    },
+    {
+      "name": "Rakesh Khurana",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6921",
+      "captured_at": "2026-10-12T03:34:18.621698+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ryan L. Raffaelli",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Boston College",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=257292",
+      "captured_at": "2026-10-12T03:34:19.872556+00:00",
+      "evidence": "holds master’s degrees in business and government relations (MPP) and in organizational ethics (MTS) from Harvard University. He received a PhD in management and an MS in organization studies from Boston College"
+    },
+    {
+      "name": "Ryan L. Raffaelli",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/2026-10-08%20Raffaelli_Ryan_CV_3ad5cf8b-405b-4156-8457-c122a7842b59.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=257292",
+      "captured_at": "2026-10-12T03:34:19.872556+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/2026-10-08 Raffaelli_Ryan_CV_3ad5cf8b-405b-4156-8457-c122a7842b59.pdf"
+      }
+    },
+    {
+      "name": "Ryan L. Raffaelli",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=257292",
+      "captured_at": "2026-10-12T03:34:19.872556+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ryan L. Raffaelli",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=257292",
+      "captured_at": "2026-10-12T03:34:19.872556+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Tsedal Neeley",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=438575",
+      "captured_at": "2026-10-12T03:34:21.069614+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ting Zhang",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV_Ting%20Zhang_8ea3ca63-3c70-418a-b3d9-f3ecddcea228.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=567321",
+      "captured_at": "2026-10-12T03:34:21.946264+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV_Ting Zhang_8ea3ca63-3c70-418a-b3d9-f3ecddcea228.pdf"
+      }
+    },
+    {
+      "name": "Ting Zhang",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=567321",
+      "captured_at": "2026-10-12T03:34:21.946264+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Alexandra C. Feldberg",
+      "field": "fields_raw",
+      "before": null,
+      "after": "diversity; gender; general management; knowledge management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=663916",
+      "captured_at": "2026-10-12T03:34:22.851205+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "diversity",
+          "gender",
+          "general management",
+          "knowledge management"
+        ]
+      }
+    },
+    {
+      "name": "Alexandra C. Feldberg",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=663916",
+      "captured_at": "2026-10-12T03:34:22.851205+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Anjali M. Bhatt",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=656900",
+      "captured_at": "2026-10-12T03:34:23.772372+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Emily Truelove",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=350109",
+      "captured_at": "2026-10-12T03:34:24.720799+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "James W. Riley",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284778",
+      "captured_at": "2026-10-12T03:34:25.670238+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Lumumba B. Seegars",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV_LSeegars_May%202026_331660e3-33d9-43d7-9756-7fc6375e7f03.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=743283",
+      "captured_at": "2026-10-12T03:34:26.638140+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV_LSeegars_May 2026_331660e3-33d9-43d7-9756-7fc6375e7f03.pdf"
+      }
+    },
+    {
+      "name": "Lumumba B. Seegars",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=743283",
+      "captured_at": "2026-10-12T03:34:26.638140+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Lumumba B. Seegars",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=743283",
+      "captured_at": "2026-10-12T03:34:26.638140+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Summer R. Jackson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=946932",
+      "captured_at": "2026-10-12T03:34:27.718295+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Cynthia A. Montgomery",
+      "field": "fields_raw",
+      "before": null,
+      "after": "boards of directors; competitive advantage; corporate governance; corporate strategy; strategy; business policy; competition; competitive strategy; diversification; mergers and acquisitions; organizational strategy; strategy formulation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6516",
+      "captured_at": "2026-10-12T03:34:28.792896+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "boards of directors",
+          "competitive advantage",
+          "corporate governance",
+          "corporate strategy",
+          "strategy",
+          "business policy",
+          "competition",
+          "competitive strategy",
+          "diversification",
+          "mergers and acquisitions",
+          "organizational strategy",
+          "strategy formulation"
+        ]
+      }
+    },
+    {
+      "name": "Cynthia A. Montgomery",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6516",
+      "captured_at": "2026-10-12T03:34:28.792896+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Cynthia A. Montgomery",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6516",
+      "captured_at": "2026-10-12T03:34:28.792896+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Dennis A. Yao",
+      "field": "fields_raw",
+      "before": null,
+      "after": "competitive strategy; economics; government and business; intellectual property; strategy; agency theory; alliances; contracts; game theory; incentives; industry structure; invention; knowledge management; mergers and acquisitions; procurement; strategy formulation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=209495",
+      "captured_at": "2026-10-12T03:34:29.898900+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "competitive strategy",
+          "economics",
+          "government and business",
+          "intellectual property",
+          "strategy",
+          "agency theory",
+          "alliances",
+          "contracts",
+          "game theory",
+          "incentives",
+          "industry structure",
+          "invention",
+          "knowledge management",
+          "mergers and acquisitions",
+          "procurement",
+          "strategy formulation"
+        ]
+      }
+    },
+    {
+      "name": "Dennis A. Yao",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=209495",
+      "captured_at": "2026-10-12T03:34:29.898900+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Dennis A. Yao",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=209495",
+      "captured_at": "2026-10-12T03:34:29.898900+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Eric J. Van den Steen",
+      "field": "fields_raw",
+      "before": null,
+      "after": "competitive advantage; competitive strategy; leadership; organizational strategy; corporate culture; corporate strategy; decision-making; game theory; knowledge management; organizational design; strategic change; strategy formulation; strategy implementation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=301858",
+      "captured_at": "2026-10-12T03:34:31.134267+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "competitive advantage",
+          "competitive strategy",
+          "leadership",
+          "organizational strategy",
+          "corporate culture",
+          "corporate strategy",
+          "decision-making",
+          "game theory",
+          "knowledge management",
+          "organizational design",
+          "strategic change",
+          "strategy formulation",
+          "strategy implementation"
+        ]
+      }
+    },
+    {
+      "name": "Eric J. Van den Steen",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Stanford University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=301858",
+      "captured_at": "2026-10-12T03:34:31.134267+00:00",
+      "evidence": "holds a MS in Mechanical Engineering from the KULeuven (Belgium), an MBA from the University of Chicago, and a PhD from the Stanford Graduate School of Business"
+    },
+    {
+      "name": "Eric J. Van den Steen",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=301858",
+      "captured_at": "2026-10-12T03:34:31.134267+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Eric J. Van den Steen",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=301858",
+      "captured_at": "2026-10-12T03:34:31.134267+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Jan W. Rivkin",
+      "field": "fields_raw",
+      "before": null,
+      "after": "competitive advantage; competitive strategy; complexity; cross-functional integration; interactions; business policy; cognition; competition; corporate strategy; decision-making; evolutionary theory; industry evolution; industry structure; knowledge management; managerial cognition; modularity; organizational design; strategic change; strategic planning; strategy; strategy formulation; tradeoffs",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6539",
+      "captured_at": "2026-10-12T03:34:32.822847+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "competitive advantage",
+          "competitive strategy",
+          "complexity",
+          "cross-functional integration",
+          "interactions",
+          "business policy",
+          "cognition",
+          "competition",
+          "corporate strategy",
+          "decision-making",
+          "evolutionary theory",
+          "industry evolution",
+          "industry structure",
+          "knowledge management",
+          "managerial cognition",
+          "modularity",
+          "organizational design",
+          "strategic change",
+          "strategic planning",
+          "strategy",
+          "strategy formulation",
+          "tradeoffs"
+        ]
+      }
+    },
+    {
+      "name": "Jan W. Rivkin",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Rivkin_Jan_CV_2025_11776012-4c21-4518-9a08-7aa1b9dda44e.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6539",
+      "captured_at": "2026-10-12T03:34:32.822847+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Rivkin_Jan_CV_2025_11776012-4c21-4518-9a08-7aa1b9dda44e.pdf"
+      }
+    },
+    {
+      "name": "Jan W. Rivkin",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6539",
+      "captured_at": "2026-10-12T03:34:32.822847+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jan W. Rivkin",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6539",
+      "captured_at": "2026-10-12T03:34:32.822847+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Juan Alcacer",
+      "field": "fields_raw",
+      "before": null,
+      "after": "corporate strategy; foreign direct investment; international business; patents; strategy; business policy; competitive strategy; global; global collaboration; globalization; intellectual property; technological innovation; technology management; technology strategy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=178197",
+      "captured_at": "2026-10-12T03:34:33.863734+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "corporate strategy",
+          "foreign direct investment",
+          "international business",
+          "patents",
+          "strategy",
+          "business policy",
+          "competitive strategy",
+          "global",
+          "global collaboration",
+          "globalization",
+          "intellectual property",
+          "technological innovation",
+          "technology management",
+          "technology strategy"
+        ]
+      }
+    },
+    {
+      "name": "Juan Alcacer",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=178197",
+      "captured_at": "2026-10-12T03:34:33.863734+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Juan Alcacer",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=178197",
+      "captured_at": "2026-10-12T03:34:33.863734+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Raffaella Sadun",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economics; human resource management; management styles; organizational structure; strategy; education; foreign direct investment; health care quality; information technology; managerial incentives; private equity; technological change; trust",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541712",
+      "captured_at": "2026-10-12T03:34:34.952039+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economics",
+          "human resource management",
+          "management styles",
+          "organizational structure",
+          "strategy",
+          "education",
+          "foreign direct investment",
+          "health care quality",
+          "information technology",
+          "managerial incentives",
+          "private equity",
+          "technological change",
+          "trust"
+        ]
+      }
+    },
+    {
+      "name": "Raffaella Sadun",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541712",
+      "captured_at": "2026-10-12T03:34:34.952039+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Raffaella Sadun",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=541712",
+      "captured_at": "2026-10-12T03:34:34.952039+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Ramon Casadesus-Masanell",
+      "field": "fields_raw",
+      "before": null,
+      "after": "competitive advantage; competitive strategy; game theory; agency theory; complexity; corporate strategy; trust",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24279",
+      "captured_at": "2026-10-12T03:34:36.287686+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "competitive advantage",
+          "competitive strategy",
+          "game theory",
+          "agency theory",
+          "complexity",
+          "corporate strategy",
+          "trust"
+        ]
+      }
+    },
+    {
+      "name": "Ramon Casadesus-Masanell",
+      "field": "phd_institution",
+      "before": null,
+      "after": "Northwestern University",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24279",
+      "captured_at": "2026-10-12T03:34:36.287686+00:00",
+      "evidence": "received his Ph.D. in Managerial Economics and Strategy from the Kellogg Graduate School of Management, Northwestern University"
+    },
+    {
+      "name": "Ramon Casadesus-Masanell",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24279",
+      "captured_at": "2026-10-12T03:34:36.287686+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ramon Casadesus-Masanell",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=24279",
+      "captured_at": "2026-10-12T03:34:36.287686+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Tarun Khanna",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/tkhanna_resume_july2024_3c749a1a-7157-48f9-9589-7d0a66943351.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6491",
+      "captured_at": "2026-10-12T03:34:38.113029+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/tkhanna_resume_july2024_3c749a1a-7157-48f9-9589-7d0a66943351.pdf"
+      }
+    },
+    {
+      "name": "Tarun Khanna",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6491",
+      "captured_at": "2026-10-12T03:34:38.113029+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Andy Wu",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=871877",
+      "captured_at": "2026-10-12T03:34:39.222775+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jorge Tamayo",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Tamayo_Jorge_CV_7f288593-b871-455c-a6af-21e6280cf5d5.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1063486",
+      "captured_at": "2026-10-12T03:34:40.281475+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Tamayo_Jorge_CV_7f288593-b871-455c-a6af-21e6280cf5d5.pdf"
+      }
+    },
+    {
+      "name": "Jorge Tamayo",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1063486",
+      "captured_at": "2026-10-12T03:34:40.281475+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Tiona W. Zuzul",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=478965",
+      "captured_at": "2026-10-12T03:34:41.172074+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Carolyn J. Fu",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1387630",
+      "captured_at": "2026-10-12T03:34:42.195047+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Henrique Castro-Pires",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1664311",
+      "captured_at": "2026-10-12T03:34:43.063283+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Maria P. Roche",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284955",
+      "captured_at": "2026-10-12T03:34:44.013851+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Michele Bisceglia",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1664299",
+      "captured_at": "2026-10-12T03:34:44.816525+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Quan Le",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1583101",
+      "captured_at": "2026-10-12T03:34:45.726570+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rebecca A. Karp",
+      "field": "fields_raw",
+      "before": null,
+      "after": "growth management; innovation; strategy formulation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=998715",
+      "captured_at": "2026-10-12T03:34:46.653542+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "growth management",
+          "innovation",
+          "strategy formulation"
+        ]
+      }
+    },
+    {
+      "name": "Rebecca A. Karp",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=998715",
+      "captured_at": "2026-10-12T03:34:46.653542+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Rebecca A. Karp",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=998715",
+      "captured_at": "2026-10-12T03:34:46.653542+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Renata Gaineddenova",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432021",
+      "captured_at": "2026-10-12T03:34:47.556406+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Amy C. Edmondson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6451",
+      "captured_at": "2026-10-12T03:34:48.867906+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ananth Raman",
+      "field": "fields_raw",
+      "before": null,
+      "after": "consumer goods; decision support; operations management; supply chain; supply chain management; emerging markets; entrepreneurship; executive development; incentives; operations strategy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6534",
+      "captured_at": "2026-10-12T03:34:50.214006+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "consumer goods",
+          "decision support",
+          "operations management",
+          "supply chain",
+          "supply chain management",
+          "emerging markets",
+          "entrepreneurship",
+          "executive development",
+          "incentives",
+          "operations strategy"
+        ]
+      }
+    },
+    {
+      "name": "Ananth Raman",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6534",
+      "captured_at": "2026-10-12T03:34:50.214006+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ananth Raman",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6534",
+      "captured_at": "2026-10-12T03:34:50.214006+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Antonio Moreno",
+      "field": "fields_raw",
+      "before": null,
+      "after": "analytics; channels of distribution; digital economy; operations management; supply chain; electronic commerce; machine learning",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1029325",
+      "captured_at": "2026-10-12T03:34:51.219075+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "analytics",
+          "channels of distribution",
+          "digital economy",
+          "operations management",
+          "supply chain",
+          "electronic commerce",
+          "machine learning"
+        ]
+      }
+    },
+    {
+      "name": "Antonio Moreno",
+      "field": "google_scholar_url",
+      "before": null,
+      "after": "https://scholar.google.com/citations?user=Vs8RUAwAAAAJ",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1029325",
+      "captured_at": "2026-10-12T03:34:51.219075+00:00",
+      "evidence": {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Vs8RUAwAAAAJ"
+      }
+    },
+    {
+      "name": "Antonio Moreno",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1029325",
+      "captured_at": "2026-10-12T03:34:51.219075+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Feng Zhu",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=14938",
+      "captured_at": "2026-10-12T03:34:52.520647+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Frances X. Frei",
+      "field": "fields_raw",
+      "before": null,
+      "after": "corporate culture; customer behavior; gender; service management; strategy; Toyota production system; consumer behavior; customer focus; customer profitability analysis; customer relationship management; customer satisfaction; diversity; education; employee relationship management; executive development; family business; general management; government and business; health care quality; leadership development; leading change; management processes; management styles; marketing; nonprofit; operations strategy; organizational behavior; organizational change and transformation; organizational learning; performance management; process improvement; professional service firms; service operations; service quality; social enterprise; tradeoffs; value profit chain",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6587",
+      "captured_at": "2026-10-12T03:34:54.488111+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "corporate culture",
+          "customer behavior",
+          "gender",
+          "service management",
+          "strategy",
+          "Toyota production system",
+          "consumer behavior",
+          "customer focus",
+          "customer profitability analysis",
+          "customer relationship management",
+          "customer satisfaction",
+          "diversity",
+          "education",
+          "employee relationship management",
+          "executive development",
+          "family business",
+          "general management",
+          "government and business",
+          "health care quality",
+          "leadership development",
+          "leading change",
+          "management processes",
+          "management styles",
+          "marketing",
+          "nonprofit",
+          "operations strategy",
+          "organizational behavior",
+          "organizational change and transformation",
+          "organizational learning",
+          "performance management",
+          "process improvement",
+          "professional service firms",
+          "service operations",
+          "service quality",
+          "social enterprise",
+          "tradeoffs",
+          "value profit chain"
+        ]
+      }
+    },
+    {
+      "name": "Frances X. Frei",
+      "field": "homepage_url",
+      "before": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6587",
+      "after": "https://anneandfrances.com/",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6587",
+      "captured_at": "2026-10-12T03:34:54.488111+00:00",
+      "evidence": {
+        "label": "Personal Website",
+        "url": "https://anneandfrances.com/"
+      }
+    },
+    {
+      "name": "Frances X. Frei",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6587",
+      "captured_at": "2026-10-12T03:34:54.488111+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Frances X. Frei",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6587",
+      "captured_at": "2026-10-12T03:34:54.488111+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Karim R. Lakhani",
+      "field": "fields_raw",
+      "before": null,
+      "after": "communities; distributed innovation; open source; technological innovation; technology strategy; disruptive technology; electronic commerce; information technology; innovation; intellectual property; invention; knowledge management; life sciences; managing innovation; modularity; motivation; network organizations; networks; organizational design; product development; product management; self-organizing systems; technological change; technology management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=240491",
+      "captured_at": "2026-10-12T03:34:55.642080+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "communities",
+          "distributed innovation",
+          "open source",
+          "technological innovation",
+          "technology strategy",
+          "disruptive technology",
+          "electronic commerce",
+          "information technology",
+          "innovation",
+          "intellectual property",
+          "invention",
+          "knowledge management",
+          "life sciences",
+          "managing innovation",
+          "modularity",
+          "motivation",
+          "network organizations",
+          "networks",
+          "organizational design",
+          "product development",
+          "product management",
+          "self-organizing systems",
+          "technological change",
+          "technology management"
+        ]
+      }
+    },
+    {
+      "name": "Karim R. Lakhani",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=240491",
+      "captured_at": "2026-10-12T03:34:55.642080+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Karim R. Lakhani",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=240491",
+      "captured_at": "2026-10-12T03:34:55.642080+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Marco Iansiti",
+      "field": "fields_raw",
+      "before": null,
+      "after": "innovation; managing innovation; operations strategy; product development; IT strategy; disruptive technology; strategy; strategy formulation; strategy implementation; technological change; technological innovation; technology management",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6482",
+      "captured_at": "2026-10-12T03:34:56.778284+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "innovation",
+          "managing innovation",
+          "operations strategy",
+          "product development",
+          "IT strategy",
+          "disruptive technology",
+          "strategy",
+          "strategy formulation",
+          "strategy implementation",
+          "technological change",
+          "technological innovation",
+          "technology management"
+        ]
+      }
+    },
+    {
+      "name": "Marco Iansiti",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped). Not on unit faculty page (unit head/administrator); title from profile page.",
+      "after": "fields_std inferred from HBS academic unit. Not on unit faculty page (unit head/administrator); title from profile page.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6482",
+      "captured_at": "2026-10-12T03:34:56.778284+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Marco Iansiti",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6482",
+      "captured_at": "2026-10-12T03:34:56.778284+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Michael W. Toffel",
+      "field": "fields_raw",
+      "before": null,
+      "after": "disclosure strategy; environment; government and business; operations management; supply chain management; corporate accountability; disclosure; process improvement; strategy; supply chain; sustainability",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=386263",
+      "captured_at": "2026-10-12T03:34:58.657162+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "disclosure strategy",
+          "environment",
+          "government and business",
+          "operations management",
+          "supply chain management",
+          "corporate accountability",
+          "disclosure",
+          "process improvement",
+          "strategy",
+          "supply chain",
+          "sustainability"
+        ]
+      }
+    },
+    {
+      "name": "Michael W. Toffel",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.dropbox.com/scl/fi/fwyuhxl5un94xde6x5055/Toffel_Michael_CV.pdf?rlkey=z2622rshko4sclazebp4d4sl7&dl=0",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=386263",
+      "captured_at": "2026-10-12T03:34:58.657162+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.dropbox.com/scl/fi/fwyuhxl5un94xde6x5055/Toffel_Michael_CV.pdf?rlkey=z2622rshko4sclazebp4d4sl7&dl=0"
+      }
+    },
+    {
+      "name": "Michael W. Toffel",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=386263",
+      "captured_at": "2026-10-12T03:34:58.657162+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Michael W. Toffel",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=386263",
+      "captured_at": "2026-10-12T03:34:58.657162+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Robert S. Huckman",
+      "field": "fields_raw",
+      "before": null,
+      "after": "health care quality; operations strategy; organizational strategy; organizational structure; economics; human resource management; life sciences; organizational learning; performance measurement; technological change",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10653",
+      "captured_at": "2026-10-12T03:34:59.995254+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "health care quality",
+          "operations strategy",
+          "organizational strategy",
+          "organizational structure",
+          "economics",
+          "human resource management",
+          "life sciences",
+          "organizational learning",
+          "performance measurement",
+          "technological change"
+        ]
+      }
+    },
+    {
+      "name": "Robert S. Huckman",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/huckman_robert_cv_2_21_24_ea9f3d4e-35cf-4686-9870-af68dd69c33b.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10653",
+      "captured_at": "2026-10-12T03:34:59.995254+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/huckman_robert_cv_2_21_24_ea9f3d4e-35cf-4686-9870-af68dd69c33b.pdf"
+      }
+    },
+    {
+      "name": "Robert S. Huckman",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10653",
+      "captured_at": "2026-10-12T03:34:59.995254+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Robert S. Huckman",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10653",
+      "captured_at": "2026-10-12T03:34:59.995254+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Ryan W. Buell",
+      "field": "fields_raw",
+      "before": null,
+      "after": "customer behavior; customer satisfaction; service management; service operations; service quality; behavioral operations; competition; operations management; operations strategy; process improvement; technology management; value creation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=320524",
+      "captured_at": "2026-10-12T03:35:01.037917+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "customer behavior",
+          "customer satisfaction",
+          "service management",
+          "service operations",
+          "service quality",
+          "behavioral operations",
+          "competition",
+          "operations management",
+          "operations strategy",
+          "process improvement",
+          "technology management",
+          "value creation"
+        ]
+      }
+    },
+    {
+      "name": "Ryan W. Buell",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=320524",
+      "captured_at": "2026-10-12T03:35:01.037917+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Ryan W. Buell",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=320524",
+      "captured_at": "2026-10-12T03:35:01.037917+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Shane M. Greenstein",
+      "field": "fields_raw",
+      "before": null,
+      "after": "digital economy; information technology; networks; technological innovation; technology strategy; open source; user-generated content",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=718917",
+      "captured_at": "2026-10-12T03:35:02.863089+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "digital economy",
+          "information technology",
+          "networks",
+          "technological innovation",
+          "technology strategy",
+          "open source",
+          "user-generated content"
+        ]
+      }
+    },
+    {
+      "name": "Shane M. Greenstein",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/CV-Greenstein_2cee1d77-f737-42bd-82ba-61ed95f35de0.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=718917",
+      "captured_at": "2026-10-12T03:35:02.863089+00:00",
+      "evidence": {
+        "label": "CV (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/CV-Greenstein_2cee1d77-f737-42bd-82ba-61ed95f35de0.pdf"
+      }
+    },
+    {
+      "name": "Shane M. Greenstein",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=718917",
+      "captured_at": "2026-10-12T03:35:02.863089+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Shane M. Greenstein",
+      "field": "detail_source",
+      "before": "none",
+      "after": "profile",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=718917",
+      "captured_at": "2026-10-12T03:35:02.863089+00:00",
+      "evidence": "The official profile supports the other changed personal fields"
+    },
+    {
+      "name": "Stefan H. Thomke",
+      "field": "fields_raw",
+      "before": null,
+      "after": "experimentation; innovation; operations management; product development; IT strategy; Toyota production system; alliances; economics of design; electronic commerce; healthcare ventures; invention; knowledge management; life sciences; managing innovation; modularity; networks; organizational learning; performance measurement; process improvement; systems design; technological change; technological innovation; technology strategy; value creation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6566",
+      "captured_at": "2026-10-12T03:35:05.260313+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "experimentation",
+          "innovation",
+          "operations management",
+          "product development",
+          "IT strategy",
+          "Toyota production system",
+          "alliances",
+          "economics of design",
+          "electronic commerce",
+          "healthcare ventures",
+          "invention",
+          "knowledge management",
+          "life sciences",
+          "managing innovation",
+          "modularity",
+          "networks",
+          "organizational learning",
+          "performance measurement",
+          "process improvement",
+          "systems design",
+          "technological change",
+          "technological innovation",
+          "technology strategy",
+          "value creation"
+        ]
+      }
+    },
+    {
+      "name": "Stefan H. Thomke",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6566",
+      "captured_at": "2026-10-12T03:35:05.260313+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Chiara Farronato",
+      "field": "fields_raw",
+      "before": null,
+      "after": "economics; electronic commerce; electronic markets; innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=775022",
+      "captured_at": "2026-10-12T03:35:06.289912+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "economics",
+          "electronic commerce",
+          "electronic markets",
+          "innovation"
+        ]
+      }
+    },
+    {
+      "name": "Chiara Farronato",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=775022",
+      "captured_at": "2026-10-12T03:35:06.289912+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Iavor I. Bojinov",
+      "field": "fields_raw",
+      "before": null,
+      "after": "econometrics; experimentation; information technology; innovation; statistics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199332",
+      "captured_at": "2026-10-12T03:35:07.336965+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "econometrics",
+          "experimentation",
+          "information technology",
+          "innovation",
+          "statistics"
+        ]
+      }
+    },
+    {
+      "name": "Iavor I. Bojinov",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199332",
+      "captured_at": "2026-10-12T03:35:07.336965+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Kris Johnson Ferreira",
+      "field": "fields_raw",
+      "before": null,
+      "after": "analytics; electronic commerce; operations strategy; consumer goods; customer behavior; decision support; decision-making; electronic markets; innovation; market design; operations management; service operations; supply chain management; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=773347",
+      "captured_at": "2026-10-12T03:35:08.985101+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "analytics",
+          "electronic commerce",
+          "operations strategy",
+          "consumer goods",
+          "customer behavior",
+          "decision support",
+          "decision-making",
+          "electronic markets",
+          "innovation",
+          "market design",
+          "operations management",
+          "service operations",
+          "supply chain management",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Kris Johnson Ferreira",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=773347",
+      "captured_at": "2026-10-12T03:35:08.985101+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Kyle R. Myers",
+      "field": "fields_raw",
+      "before": null,
+      "after": "entrepreneurship; innovation; invention; technology management; technology strategy",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951639",
+      "captured_at": "2026-10-12T03:35:09.932953+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "entrepreneurship",
+          "innovation",
+          "invention",
+          "technology management",
+          "technology strategy"
+        ]
+      }
+    },
+    {
+      "name": "Kyle R. Myers",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951639",
+      "captured_at": "2026-10-12T03:35:09.932953+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Christian Kaps",
+      "field": "fields_raw",
+      "before": null,
+      "after": "energy; sustainability; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1495309",
+      "captured_at": "2026-10-12T03:35:10.868331+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "energy",
+          "sustainability",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Christian Kaps",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1495309",
+      "captured_at": "2026-10-12T03:35:10.868331+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "David Almog",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://drive.google.com/file/d/16JZrOqwqwN4CxT4rf95VTQg9E7IzVa5C/view",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741684",
+      "captured_at": "2026-10-12T03:35:11.703610+00:00",
+      "evidence": {
+        "label": "CV",
+        "url": "https://drive.google.com/file/d/16JZrOqwqwN4CxT4rf95VTQg9E7IzVa5C/view"
+      }
+    },
+    {
+      "name": "David Almog",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741684",
+      "captured_at": "2026-10-12T03:35:11.703610+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Edward McFowland III",
+      "field": "fields_raw",
+      "before": null,
+      "after": "analytics; decision-making; information technology; machine learning; networks; econometrics",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772797",
+      "captured_at": "2026-10-12T03:35:12.806609+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "analytics",
+          "decision-making",
+          "information technology",
+          "machine learning",
+          "networks",
+          "econometrics"
+        ]
+      }
+    },
+    {
+      "name": "Edward McFowland III",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772797",
+      "captured_at": "2026-10-12T03:35:12.806609+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Elisabeth C. Paulson",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322893",
+      "captured_at": "2026-10-12T03:35:14.031249+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Himabindu Lakkaraju",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1057381",
+      "captured_at": "2026-10-12T03:35:15.117894+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Jacqueline Ng Lane",
+      "field": "fields_raw",
+      "before": null,
+      "after": "artificial intelligence; decision-making; knowledge management; technological change; technological innovation",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432009",
+      "captured_at": "2026-10-12T03:35:16.086532+00:00",
+      "evidence": {
+        "section": "Areas of Interest",
+        "topics": [
+          "artificial intelligence",
+          "decision-making",
+          "knowledge management",
+          "technological change",
+          "technological innovation"
+        ]
+      }
+    },
+    {
+      "name": "Jacqueline Ng Lane",
+      "field": "cv_url",
+      "before": null,
+      "after": "https://www.hbs.edu/faculty/Profile%20Files/Lane%20CV%2001-12-26%20RIS_2c752e6f-8c97-4455-8717-0b342e9b8f4b.pdf",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432009",
+      "captured_at": "2026-10-12T03:35:16.086532+00:00",
+      "evidence": {
+        "label": "Curriculum Vitae (pdf)",
+        "url": "https://www.hbs.edu/faculty/Profile Files/Lane CV 01-12-26 RIS_2c752e6f-8c97-4455-8717-0b342e9b8f4b.pdf"
+      }
+    },
+    {
+      "name": "Jacqueline Ng Lane",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432009",
+      "captured_at": "2026-10-12T03:35:16.086532+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Michael Lingzhi Li",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432015",
+      "captured_at": "2026-10-12T03:35:17.026992+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    },
+    {
+      "name": "Michelle A. Vaccaro",
+      "field": "notes",
+      "before": "fields_std inferred from HBS academic unit (profile not scraped).",
+      "after": "fields_std inferred from HBS academic unit.",
+      "source_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1741687",
+      "captured_at": "2026-10-12T03:35:17.884913+00:00",
+      "evidence": "Saved profile was identity-checked and parsed"
+    }
+  ],
+  "deferred_cv_replacements": [
+    {
+      "name": "Charles C.Y. Wang",
+      "field": "cv_url",
+      "retained": "https://scholar.harvard.edu/files/charlescywang/files/wang_2018_cv.pdf",
+      "candidate": "https://www.hbs.edu/faculty/Profile%20Files/WangCV%209.30.26_c83b87c7-66c2-48a0-866c-7afa8fd1bb2d.pdf",
+      "reason": "Filename year alone does not verify newer CV contents"
+    },
+    {
+      "name": "Ranjay Gulati",
+      "field": "cv_url",
+      "retained": "https://ranjaygulati.com/new/wp-content/uploads/2020/12/Academic-CV-updated-12-7-20.pdf",
+      "candidate": "https://www.hbs.edu/faculty/Profile%20Files/Gulati%20Academic%20CV%20-%20updated%202-4-2026_8_1b5e85fd-7dde-46e8-b663-da74541f1224.pdf",
+      "reason": "Filename year alone does not verify newer CV contents"
+    },
+    {
+      "name": "Zoe B. Cullen",
+      "field": "cv_url",
+      "retained": "https://www.hbs.edu/ris/Profile%20Files/Cullen_Zoe_CV%20202509_17cb1968-e7d9-4d27-b6df-36330f520683.pdf",
+      "candidate": "https://www.hbs.edu/faculty/Profile%20Files/Cullen_Zoe_CV%20202609_5cf34004-e21f-4753-b63b-063701308789.pdf",
+      "reason": "Filename year alone does not verify newer CV contents"
+    },
+    {
+      "name": "Nien-he Hsieh",
+      "field": "cv_url",
+      "retained": "https://www.hbs.edu/ris/Profile%20Files/CV-Hsieh-2022-03-06_9ae10bc8-170a-4abb-a421-de1903238e33.pdf",
+      "candidate": "https://www.hbs.edu/faculty/Profile%20Files/CV-Hsieh-2026-Feb-1_43b2feee-990c-48a6-b5c0-7e0c29d3b8db.pdf",
+      "reason": "Filename year alone does not verify newer CV contents"
+    }
+  ],
+  "publication_batch": {
+    "status": "Excluded from this PR; retained locally for item-level review",
+    "previous_candidate_displayed_records": 875,
+    "remaining_known_genre_question": {
+      "name": "Rafael M. Di Tella",
+      "title": "Comments on Macri's Macro by Federico Sturzenegger",
+      "reason": "Plural Comments on was not covered by the genre filter"
+    }
+  },
+  "validation": {
+    "all_changes_have_official_profile_evidence": true,
+    "all_72_topic_updates_verified_under_areas_of_interest": true,
+    "existing_academic_ranks_and_derived_field_labels_unchanged": true,
+    "no_new_faculty_fields": true,
+    "non_hbs_faculty_unchanged": true
+  },
+  "limitations": [
+    "New CV/homepage/Scholar URLs are explicit links on official profiles; remote availability and target document/account contents are not verified",
+    "PhD institutions are filled only where the biography explicitly names a PhD; no degree years inferred",
+    "Publication drafts and their former audit reports are excluded from this PR"
+  ],
+  "change_characterization": {
+    "missing_values_filled": 124,
+    "homepage_placeholders_replaced": 3,
+    "title_updates_append_leave_status": 5,
+    "provenance_only_field_changes": 238,
+    "faculty_record_types": {
+      "substantive_faculty": 99,
+      "provenance_only_faculty": 83
+    },
+    "no_existing_nonempty_research_degrees_career_or_cv_overwritten": true,
+    "original_official_profile_urls_preserved": true,
+    "meaningfulness_statement": "132 personal-field improvements across 99 faculty; 238 provenance corrections are not new personal information"
+  }
+}
