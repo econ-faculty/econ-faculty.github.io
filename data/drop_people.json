@@ -250,5 +250,12 @@
   "name": "Jingyuan Li",
   "kept_as": "jingyuan-li--indiana",
   "reason": "same person listed twice (2026-10-11 review)"
+ },
+ {
+  "pid": "wei-xiong--cuhk-shenzhen",
+  "university": "chinese-university-of-hong-kong-shenzhen",
+  "name": "Wei Xiong",
+  "kept_as": "wei-xiong--princeton",
+  "reason": "same person listed twice; user chose Princeton (2026-10-12)"
  }
 ]
