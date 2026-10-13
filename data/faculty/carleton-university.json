@@ -7,9 +7,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "energy economics, resource economics",
+  "fields_raw": "Research fields: energy economics, resource economics\nExpertise:\n• Canadian energy policy",
   "fields_std": [
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "Agricultural & Resource Economics",
+   "Public Policy"
   ],
   "phd_institution": "British Columbia",
   "phd_year": null,
@@ -35,7 +37,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "andre-plourde"
  },
  {
@@ -46,10 +48,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "optimal asset allocation, risk management, dependence modelling, asymptotic theory",
+  "fields_raw": "Research fields: optimal asset allocation, risk management, dependence modelling, asymptotic theory. Expertise: estimating VaR using the large deviations approach",
   "fields_std": [
-   "Microeconomic Theory",
-   "Financial Economics"
+   "Financial Economics",
+   "Econometrics"
   ],
   "phd_institution": "London",
   "phd_year": null,
@@ -75,7 +77,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ba-m-chu"
  },
  {
@@ -86,11 +88,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "labour economics, applied econometrics, development economics",
+  "fields_raw": "Research fields: labour economics, applied econometrics, development economics. Expertise: economics of immigration",
   "fields_std": [
    "Labor Economics",
-   "Development Economics",
-   "Econometrics"
+   "Econometrics",
+   "Development Economics"
   ],
   "phd_institution": "British Columbia",
   "phd_year": null,
@@ -116,7 +118,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "christopher-worswick"
  },
  {
@@ -127,9 +129,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, business cycles",
+  "fields_raw": "Research fields: macroeconomics, business cycles. Expertise: nominal and real frictions",
   "fields_std": [
-   "Macroeconomics"
+   "Macroeconomics",
+   "Monetary Economics"
   ],
   "phd_institution": "UBC",
   "phd_year": null,
@@ -155,7 +158,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "hashmat-u-khan"
  },
  {
@@ -166,12 +169,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "School of Public Policy & Administration (SPPA)",
-  "fields_raw": "labour economics, micro-econometrics, applied econometrics, development economics",
+  "fields_raw": "Research fields: labour economics, micro-econometrics, applied econometrics, development economics. Expertise: program evaluation",
   "fields_std": [
    "Labor Economics",
    "Development Economics",
-   "Econometrics",
-   "Microeconomic Theory"
+   "Econometrics"
   ],
   "phd_institution": "Syracuse",
   "phd_year": null,
@@ -197,7 +199,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jose-c-galdo"
  },
  {
@@ -208,7 +210,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "international trade, political economy",
+  "fields_raw": "Research fields: international trade, political economy\nExpertise:\n• international trade with special emphasis on outsourcing and intra-industry trade",
   "fields_std": [
    "International Trade",
    "Political Economy"
@@ -237,7 +239,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhihao-yu"
  },
  {
@@ -248,36 +250,36 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "industrial organization, international trade",
+  "fields_raw": "Research fields: industrial organization, international trade. Expertise: anti-trust economics",
   "fields_std": [
-   "International Trade",
-   "Industrial Organization"
+   "Industrial Organization",
+   "International Trade"
   ],
-  "phd_institution": "Western Ontario",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "Carleton",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of Western Ontario",
+  "phd_year": 1991,
+  "phd_field": "Economics",
+  "ma_institution": "Carleton University",
+  "ma_year": 1987,
+  "ma_field": "Economics",
+  "ba_institution": "Nanjing University",
+  "ba_year": 1985,
+  "ba_field": "Economics",
   "education_raw": "M.A. (Carleton), Ph.D. (Western Ontario)",
   "homepage_url": "https://sites.google.com/site/zhiqichenswebsite/",
   "profile_url": "https://carleton.ca/economics/people/chen-zhiqi/",
   "cv_url": null,
   "google_scholar_url": "https://scholar.google.ca/citations?user=Q0iV9fIAAAAJ&amp;hl=en",
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 1991,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (1991-1996)",
+  "prior_positions": "Visiting Economist, Competition Bureau, Government of Canada, 2011-2012; Director, Ottawa-Carleton Joint Doctoral Program in Economics, Carleton University, 2001-2004; T.D. MacDonald Chair in Industrial Economics, Competition Bureau, Government of Canada, 1998-1999 and 2004-2005; Associate Professor, Department of Economics, Carleton University, 1996-2002; Director, Carleton Industrial Organization Research Unit, Carleton University, 1996-1998; Senior Fellow, Department of Economics, National University of Singapore, 1997-1998",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "zhiqi-chen"
  },
  {
@@ -288,37 +290,36 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Norman Paterson School of International Affairs (NPSIA)",
-  "fields_raw": "development economics, labour economics, applied microeconomics",
+  "fields_raw": "Research fields: development economics, labour economics, applied microeconomics. Expertise: child labour and schooling",
   "fields_std": [
-   "Labor Economics",
    "Development Economics",
-   "Microeconomic Theory"
+   "Labor Economics"
   ],
-  "phd_institution": "Syracuse",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "Syracuse",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Syracuse University",
+  "phd_year": 2006,
+  "phd_field": "Economics",
+  "ma_institution": "Syracuse University",
+  "ma_year": 2004,
+  "ma_field": "Economics",
+  "ba_institution": "Pontificia Universidad Catolica del Peru",
+  "ba_year": 1999,
+  "ba_field": "Economics",
   "education_raw": "M.A., Ph.D. (Syracuse)",
   "homepage_url": "https://sites.google.com/site/acdammert",
   "profile_url": "https://carleton.ca/economics/people/dammert-ana-c/",
   "cv_url": null,
   "google_scholar_url": "https://scholar.google.com/citations?user=LBtx3FsAAAAJ&amp;hl=en",
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2008,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Postdoctoral Research Fellow, Department of Economics, McMaster University (2006-2008)",
+  "prior_positions": "Assistant Professor, Department of Economics and Norman Paterson School of International Affairs, Carleton University (2008-2014); Research Associate, Center for Policy Research, Maxwell School, Syracuse University (2003-2006); Research Assistant, GRADE, Lima (1998-2000); Visiting Researcher, CIDE, Mexico City (2003); Short Term Consultant, Inter-American Development Bank (2005); Visiting Researcher, Universidad del Pacifico (2007); Short Term Consultant, World Bank (2016); Visiting Scholar, Georgetown University (2015-2016); Visiting Scholar, University of Barcelona (2022-2023); Consultant, International Labour Organization (2021-2024)",
+  "year_current_rank": 2014,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "ana-c-dammert"
  },
  {
@@ -329,36 +330,36 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, credit and banking, technological change",
+  "fields_raw": "Research fields: macroeconomics, credit and banking, technological change. Expertise: expectations-driven business cycles",
   "fields_std": [
-   "Monetary Economics",
-   "Macroeconomics"
+   "Macroeconomics",
+   "Banking & Financial Intermediation"
   ],
-  "phd_institution": "McMaster",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "McMaster",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "British Columbia",
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "McMaster University",
+  "phd_year": 2012,
+  "phd_field": "Economics",
+  "ma_institution": "McMaster University",
+  "ma_year": 2007,
+  "ma_field": "Economics",
+  "ba_institution": "University of British Columbia",
+  "ba_year": 1997,
+  "ba_field": "Engineering",
   "education_raw": "B.A.Sc. (British Columbia), M.A., Ph.D. (McMaster)",
   "homepage_url": "https://sites.google.com/site/homepageofchristophergunn",
   "profile_url": "https://carleton.ca/economics/people/gunn-christopher-m/",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2012,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (2012-2017)",
+  "prior_positions": "Senior Consultant, IBM Canada, Business Consulting Services, 2003-2006; Consultant, PwC Consulting / Price Waterhouse, Management Consulting Services, 1999-2002; Research Analyst, Price Waterhouse, Global Forest and Paper Practice, 1997-1998; Research Assistant, Department of Economics, McMaster University, 2006-2012",
+  "year_current_rank": 2017,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "christopher-m-gunn"
  },
  {
@@ -369,35 +370,39 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, business cycles",
+  "fields_raw": "Research fields: macroeconomics, business cycles. Expertise: causes of business cycles",
   "fields_std": [
    "Macroeconomics"
   ],
-  "phd_institution": "British Columbia",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "McGill",
+  "phd_institution": "University of British Columbia",
+  "phd_year": 2015,
+  "phd_field": "Economics",
+  "ma_institution": "McGill University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Economics",
+  "ba_institution": "University of Western Ontario",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Actuarial Science with Economics",
   "education_raw": "M.A. (McGill), Ph.D. (British Columbia)",
   "homepage_url": "https://www.danagalizia.com",
   "profile_url": "https://carleton.ca/economics/people/galizia-dana/",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2015,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
+  "phd_advisors": [
+   "Paul Beaudry",
+   "Henry Siu",
+   "Yaniv Yedid-Levi"
+  ],
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (2015-2021)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "dana-galizia"
  },
  {
@@ -408,10 +413,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "financial economics, public economics",
+  "fields_raw": "Research fields: financial economics, public economics. Expertise: contract theory, insurance, and regulation",
   "fields_std": [
-   "Public Economics",
-   "Financial Economics"
+   "Financial Economics",
+   "Public Economics"
   ],
   "phd_institution": "Queen’s",
   "phd_year": null,
@@ -437,7 +442,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "eric-stephens"
  },
  {
@@ -448,11 +453,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, business cycles, investment theory, asset pricing",
+  "fields_raw": "Research fields: macroeconomics, business cycles, investment theory, asset pricing. Expertise: learning and cyclical fluctuations",
   "fields_std": [
    "Macroeconomics",
-   "Microeconomic Theory",
-   "Financial Economics"
+   "Asset Pricing"
   ],
   "phd_institution": "Johns Hopkins",
   "phd_year": null,
@@ -478,7 +482,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "fanny-s-demers"
  },
  {
@@ -489,7 +493,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "microeconomic theory, financial economics, decision theory",
+  "fields_raw": "Research fields: microeconomic theory, financial economics, decision theory\nExpertise:\n• expected utility and non-expected utility",
   "fields_std": [
    "Microeconomic Theory",
    "Financial Economics"
@@ -518,7 +522,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jiankang-zhang"
  },
  {
@@ -529,7 +533,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "econometrics, applied industrial organization, empirical financial economics",
+  "fields_raw": "Research fields: econometrics, applied industrial organization, empirical financial economics. Expertise: discrete-choice demand models",
   "fields_std": [
    "Econometrics",
    "Industrial Organization",
@@ -559,7 +563,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "konstantinos-metaxoglou"
  },
  {
@@ -570,21 +574,21 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "public, health, and labour economics",
+  "fields_raw": "Applied Microeconomics, Public, Health and Labour Economics.",
   "fields_std": [
-   "Labor Economics",
+   "Public Economics",
    "Health Economics",
-   "Public Economics"
+   "Labor Economics"
   ],
-  "phd_institution": "Montréal",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "British Columbia",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "HEC",
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Universite de Montreal",
+  "phd_year": 2014,
+  "phd_field": "Economics",
+  "ma_institution": "University of British Columbia",
+  "ma_year": 2008,
+  "ma_field": "Economics",
+  "ba_institution": "HEC Montreal",
+  "ba_year": 2007,
+  "ba_field": "Applied Economics",
   "education_raw": "B.A. (HEC), M.A. (British Columbia), Ph.D. (Montréal)",
   "homepage_url": "https://www.lpbeland.com/",
   "profile_url": "https://carleton.ca/economics/people/beland-louis-philippe/",
@@ -600,7 +604,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "louis-philippe-beland"
  },
  {
@@ -611,10 +615,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "applied econometrics and labour economics",
+  "fields_raw": "Research fields: applied econometrics and labour economics. Expertise: cluster robust inference",
   "fields_std": [
-   "Labor Economics",
-   "Econometrics"
+   "Econometrics",
+   "Labor Economics"
   ],
   "phd_institution": "Queen’s",
   "phd_year": null,
@@ -640,7 +644,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "matthew-d-webb"
  },
  {
@@ -651,20 +655,20 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "environmental and energy economics, applied econometrics",
+  "fields_raw": "Research fields: environmental and energy economics, applied econometrics. Expertise: economics of climate change",
   "fields_std": [
    "Environmental & Energy Economics",
    "Econometrics"
   ],
-  "phd_institution": "California at Berkeley",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "UCL",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of California, Berkeley",
+  "phd_year": 2013,
+  "phd_field": "Agricultural and Resource Economics",
+  "ma_institution": "University College London",
+  "ma_year": 2003,
+  "ma_field": "Environmental and Resource Economics",
+  "ba_institution": "Carleton University",
+  "ba_year": 2002,
+  "ba_field": "Economics",
   "education_raw": "M.Sc. (UCL), Ph.D. (California at Berkeley)",
   "homepage_url": "https://sites.google.com/site/mayapapineau",
   "profile_url": "https://carleton.ca/economics/people/papineau-maya-m/",
@@ -680,7 +684,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "maya-papineau"
  },
  {
@@ -691,11 +695,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, investment theory and finance, economic development and growth",
+  "fields_raw": "Research fields: macroeconomics, investment theory and finance, economic development and growth. Expertise: irreversible investment",
   "fields_std": [
-   "Development Economics",
    "Macroeconomics",
-   "Microeconomic Theory",
+   "Development Economics",
    "Financial Economics"
   ],
   "phd_institution": "Johns Hopkins",
@@ -722,7 +725,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "michel-demers"
  },
  {
@@ -733,36 +736,36 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, household finance, computational economics",
+  "fields_raw": "Research fields: macroeconomics, household finance, computational economics. Expertise: portfolio choice",
   "fields_std": [
    "Macroeconomics",
    "Financial Economics"
   ],
-  "phd_institution": "Michigan",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "Korea",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of Michigan",
+  "phd_year": 2016,
+  "phd_field": "Economics",
+  "ma_institution": "Korea University",
+  "ma_year": 2009,
+  "ma_field": "Economics",
+  "ba_institution": "Korea University",
+  "ba_year": 2007,
+  "ba_field": "Economics",
   "education_raw": "M.A. (Korea), Ph.D. (Michigan)",
   "homepage_url": "https://sites.google.com/site/minjoonlee/home",
   "profile_url": "https://carleton.ca/economics/people/lee-minjoon/",
   "cv_url": null,
   "google_scholar_url": "https://scholar.google.ca/citations?user=E-ObOBAAAAAJ&amp;hl=en",
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2016,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (2016-2022)",
+  "prior_positions": "Visiting Scholar, Retirement and Savings Institute, HEC Montreal, 2022; Visiting Scholar, Center for Retirement Research, Boston College, 2022-2023; Guest Associate Professor (Global), Keio University, 2026",
+  "year_current_rank": 2022,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "minjoon-lee"
  },
  {
@@ -773,7 +776,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "macroeconomics, economic history",
+  "fields_raw": "Research fields: macroeconomics, economic history. Expertise: testing long-run neutrality restrictions",
   "fields_std": [
    "Macroeconomics",
    "Economic History"
@@ -802,7 +805,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "patrick-j-coe"
  },
  {
@@ -813,7 +816,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "behavioural and experimental economics",
+  "fields_raw": "Research fields: behavioural and experimental economics. Expertise: experimental methods",
   "fields_std": [
    "Behavioral Economics",
    "Experimental Economics"
@@ -842,7 +845,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "radovan-vadovic"
  },
  {
@@ -853,37 +856,39 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "international macroeconomics, macroeconomics, monetary economics",
+  "fields_raw": "Research fields: international macroeconomics, macroeconomics, monetary economics. Expertise: exchange rate regimes",
   "fields_std": [
    "International Finance",
    "Monetary Economics",
    "Macroeconomics"
   ],
-  "phd_institution": "California at Berkeley",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "El Colegio de México | California at Berkeley",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of California, Berkeley",
+  "phd_year": 2009,
+  "phd_field": "Economics",
+  "ma_institution": "El Colegio de Mexico | University of California, Berkeley",
+  "ma_year": "2000 | 2005",
+  "ma_field": "Economics | Statistics",
+  "ba_institution": "ITESM",
+  "ba_year": 1997,
+  "ba_field": "Economics",
   "education_raw": "M.A. (El Colegio de México), M.A., Ph.D. (California at Berkeley)",
   "homepage_url": "https://sites.google.com/site/razogarciahomepage/",
   "profile_url": "https://carleton.ca/economics/people/razo-garcia-raul/",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2008,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": [
+   "Barry Eichengreen"
+  ],
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (2009-2016)",
+  "prior_positions": "Lecturer in Economics, Carleton University, 2008-2009; Analyst, Research Division, Banco de Mexico, 2000-2002; Visiting Fellow, Universitat Autonoma de Barcelona, 2017; Visiting Professor, CIDE, 2018",
+  "year_current_rank": 2016,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "raul-razo-garcia"
  },
  {
@@ -894,10 +899,9 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "econometrics, history of economic thought, comparative economic systems",
+  "fields_raw": "Research fields: econometrics, history of economic thought, comparative economic systems. Expertise: Quantitative Methods",
   "fields_std": [
-   "Econometrics",
-   "Economic History"
+   "Econometrics"
   ],
   "phd_institution": "Western Ontario",
   "phd_year": null,
@@ -923,7 +927,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "simon-power"
  },
  {
@@ -971,7 +975,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Econometrics, Applied Econometrics",
+  "fields_raw": "Research fields: Econometrics, Applied Econometrics. Expertise: Partial Identification",
   "fields_std": [
    "Econometrics"
   ],
@@ -981,7 +985,7 @@
   "ma_institution": "University of Toronto",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Queen's University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "M.A., Ph.D. (University of Toronto)",
@@ -999,7 +1003,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "thomas-russell"
  },
  {
@@ -1010,38 +1014,37 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "international macroeconomics, public economics, international trade",
+  "fields_raw": "Research fields: international macroeconomics, public economics, international trade. Expertise: optimal capital taxation in open economies",
   "fields_std": [
-   "International Trade",
-   "International Finance",
    "Macroeconomics",
-   "Public Economics"
+   "Public Economics",
+   "International Trade"
   ],
-  "phd_institution": "California at Santa Barbara",
-  "phd_year": null,
-  "phd_field": null,
-  "ma_institution": "Humboldt | California at Santa Barbara",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of California Santa Barbara",
+  "phd_year": 2011,
+  "phd_field": "Economics",
+  "ma_institution": "Universite du Quebec a Montreal | Humboldt University Berlin | University of California Santa Barbara",
+  "ma_year": "2005 | 2007 | 2010",
+  "ma_field": "Economics | Sociology and Political Science | Economics",
+  "ba_institution": "Otto-von-Guericke Universitat Magdeburg",
+  "ba_year": 2002,
+  "ba_field": "Business Administration (Vordiplom)",
   "education_raw": "M.A. (Humboldt), M.A., Ph.D. (California at Santa Barbara)",
   "homepage_url": "https://sites.google.com/site/tillgrosshomepage",
   "profile_url": "https://carleton.ca/economics/people/gross-till-o/",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2011,
   "source_url": "https://carleton.ca/economics/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Department of Economics, Carleton University (2011-present)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2019,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "till-o-gross"
  },
  {
@@ -1052,12 +1055,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Department of Philosophy",
-  "fields_raw": "international trade, international aspects of economic development, international macroeconomics",
+  "fields_raw": "Research fields: international trade, international aspects of economic development, international macroeconomics. Expertise: Political economy of globalization",
   "fields_std": [
-   "Development Economics",
    "International Trade",
    "International Finance",
-   "Macroeconomics"
+   "Development Economics"
   ],
   "phd_institution": "Columbia",
   "phd_year": null,
@@ -1083,7 +1085,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "vivek-h-dehejia"
  },
  {
@@ -1094,7 +1096,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "School of Public Policy and Administration",
-  "fields_raw": "Agricultural extension, science, technology, and innovation, health",
+  "fields_raw": "Research fields: Agricultural extension, science, technology, and innovation, health. Refereed Publications in the Last 6 Years: (listed in the fields text)",
   "fields_std": [
    "Agricultural & Resource Economics",
    "Health Economics"
@@ -1105,7 +1107,7 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "UBC",
+  "ba_institution": "University of British Columbia",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "B.A. (UBC), Ph.D. (Cornell University)",
@@ -1123,7 +1125,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "vivian-hoffmann"
  },
  {
@@ -1134,10 +1136,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Health economics, Labour economics, Family economics Areas of",
+  "fields_raw": "Research fields: Health economics, Labour economics, Family economics. Areas of Expertise: Intergenerational transmission of outcomes, Economic vulnerability and inequality, Administrative and survey data and corresponding linkages",
   "fields_std": [
-   "Labor Economics",
-   "Health Economics"
+   "Health Economics",
+   "Labor Economics"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
@@ -1145,7 +1147,7 @@
   "ma_institution": "University of British Columbia",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Concordia University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "M.A, PhD (University of British Columbia)",
@@ -1163,7 +1165,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gaelle-simard-duplain"
  },
  {
@@ -1183,7 +1185,7 @@
   "phd_field": "Management",
   "ma_institution": "Queen’s University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "Queen’s University",
   "ba_year": null,
   "ba_field": "Psychology",
@@ -1202,7 +1204,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "merridee-bujaki"
  },
  {
@@ -1222,7 +1224,7 @@
   "phd_field": null,
   "ma_institution": "University of Windsor",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": "Western University | University of Windsor",
   "ba_year": null,
   "ba_field": null,
@@ -1241,7 +1243,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hilary-becker"
  },
  {
@@ -1254,17 +1256,18 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Business Ethics & Society"
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": "McMaster University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "Mount Allison University",
   "ba_year": null,
-  "ba_field": "of Commerce",
+  "ba_field": "Commerce",
   "education_raw": "Bachelor of Commerce (Mount Allison University), MBA (McMaster University), PhD (Concordia University), CMA, CPA",
   "homepage_url": "https://www.leannekeddie.ca/",
   "profile_url": "https://sprott.carleton.ca/people/leanne-keddie/",
@@ -1280,7 +1283,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "leanne-keddie"
  },
  {
@@ -1297,7 +1300,7 @@
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
-  "phd_field": "Business Administration",
+  "phd_field": "Business Administration, Accountancy",
   "ma_institution": "Tarbiat Modares University",
   "ma_year": null,
   "ma_field": "Accounting",
@@ -1319,7 +1322,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "maryam-firoozi"
  },
  {
@@ -1358,7 +1361,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "ouafa-sakka"
  },
  {
@@ -1381,7 +1384,7 @@
   "ma_field": "Public Accounting",
   "ba_institution": "HEC Montreal",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Administration",
   "education_raw": "BBA (HEC Montreal), Graduate Diploma in Public Accounting (HEC Montreal), MSc Public Accounting (HEC Montreal), PhD in Management (Queen’s University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/oriane-couchoux/",
@@ -1397,7 +1400,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "oriane-couchoux"
  },
  {
@@ -1408,16 +1411,18 @@
   "unit_type": "business",
   "area": "Accounting and",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Accounting teaching area\nSprott School of Business\nCarleton University",
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Business Ethics & Society",
+   "Entrepreneurship & Innovation"
   ],
-  "phd_institution": "Université du Québec à Trois-Rivières",
-  "phd_year": null,
+  "phd_institution": "Université du Québec à Trois-Rivières (UQTR)",
+  "phd_year": 2004,
   "phd_field": "Business Administration (DBA)",
-  "ma_institution": "Université du Québec à Montréal",
-  "ma_year": null,
-  "ma_field": "Accounting",
+  "ma_institution": "Université du Québec à Montréal (UQAM)",
+  "ma_year": 1993,
+  "ma_field": "Accounting Sciences (Maîtrise en sciences comptables)",
   "ba_institution": "HEC Montréal",
   "ba_year": null,
   "ba_field": "Business Administration",
@@ -1436,7 +1441,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "francois-brouard"
  },
  {
@@ -1459,7 +1464,7 @@
   "ma_field": "Management",
   "ba_institution": "China Agricultural University",
   "ba_year": null,
-  "ba_field": "of Management",
+  "ba_field": "Management",
   "education_raw": "Bachelor of Management (China Agricultural University, China), MSc in Management (Central University of Finance and Economics, China), PhD in Management (Carleton University, Canada)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/qi-deng/",
@@ -1475,7 +1480,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qi-deng"
  },
  {
@@ -1488,8 +1493,8 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Data Science & Analytics",
-   "Information Systems"
+   "Information Systems",
+   "Data Science & Analytics"
   ],
   "phd_institution": "Arizona State University",
   "phd_year": null,
@@ -1499,7 +1504,7 @@
   "ma_field": null,
   "ba_institution": "University of Alberta",
   "ba_year": null,
-  "ba_field": "of Commerce",
+  "ba_field": "Commerce",
   "education_raw": "Bachelor of Commerce (University of Alberta); MSc (Arizona State University); PhD Computer Information Systems (Arizona State University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/michael-hine/",
@@ -1515,7 +1520,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "michael-hine"
  },
  {
@@ -1528,14 +1533,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Marketing"
   ],
   "phd_institution": "Helsinki School of Economics",
   "phd_year": null,
-  "phd_field": "Economics, Marketing (DSc)",
+  "phd_field": "Economics, Marketing",
   "ma_institution": "Helsinki School of Economics",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics, Marketing",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1554,7 +1560,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mika-westerlund"
  },
  {
@@ -1574,7 +1580,7 @@
   "phd_field": "Management",
   "ma_institution": "Simon Fraser University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "Mount Allison University",
   "ba_year": null,
   "ba_field": null,
@@ -1593,7 +1599,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "rick-colbourne"
  },
  {
@@ -1613,10 +1619,10 @@
   "phd_field": "Management",
   "ma_institution": "Carleton University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Telecommunications Technology Management",
   "ba_institution": "McMaster University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Engineering Physics",
   "education_raw": "PhD Management (Carleton University), MEng Telecommunications Technology Management (Carleton University), BEng Engineering Physics (McMaster University), PMP (Project Management Institute)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/steven-muegge/",
@@ -1632,7 +1638,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "steven-muegge"
  },
  {
@@ -1647,12 +1653,12 @@
   "fields_std": [
    "Entrepreneurship & Innovation"
   ],
-  "phd_institution": "Université Pierre et Marie Curie | Sofia University",
+  "phd_institution": "University Pierre and Marie Curie | Sofia University",
   "phd_year": null,
   "phd_field": "Physics | Theology",
   "ma_institution": "Sofia University | Carleton University | University of Sherbrooke",
   "ma_year": null,
-  "ma_field": "Physics | Theology",
+  "ma_field": "Physics | Technology Management | Theology",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1671,7 +1677,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "stoyan-tanev"
  },
  {
@@ -1694,7 +1700,7 @@
   "ma_field": null,
   "ba_institution": "University of Ljubljana",
   "ba_year": null,
-  "ba_field": "of Science in Marketing",
+  "ba_field": "Marketing and Marketing Communications",
   "education_raw": "Bachelor of Science in Marketing and Marketing Communications (University of Ljubljana), PhD in Mechanical Engineering – Innovation Management (University of Ljubljana)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/nusa-fain/",
@@ -1710,7 +1716,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nusa-fain"
  },
  {
@@ -1723,7 +1729,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
@@ -1749,7 +1755,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "howard-nemiroff"
  },
  {
@@ -1762,17 +1768,17 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "University of Tasmania",
   "phd_year": null,
   "phd_field": "Finance",
   "ma_institution": "Carleton University | Carleton University",
   "ma_year": null,
-  "ma_field": "Public Administration | Management Studies Finance",
+  "ma_field": "Public Administration | Management Studies (Finance)",
   "ba_institution": "University of Ghana",
   "ba_year": null,
-  "ba_field": "Administration Accounting",
+  "ba_field": "Accounting",
   "education_raw": "Bachelors Administration Accounting (University of Ghana), Masters Public Administration (Carleton University), Masters Management Studies Finance (Carleton University), PhD Finance (University of Tasmania)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/isaac-otchere/",
@@ -1788,7 +1794,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "isaac-otchere"
  },
  {
@@ -1799,19 +1805,20 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Risk-taking, Privatization, Banking, Firm Performance, Corporate Governance, Gender Diversity, Sustainability, Corporate Disclosure",
   "fields_std": [
-   "Corporate Finance"
+   "Corporate Finance",
+   "Banking & Financial Intermediation"
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
   "phd_field": "Administration-Finance",
-  "ma_institution": "H.E.C. Montreal",
+  "ma_institution": "HEC Montreal",
   "ma_year": null,
   "ma_field": "Finance",
   "ba_institution": "IHEC Carthage",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Finance",
   "education_raw": "BBA Finance (IHEC Carthage), MSc Finance (H.E.C. Montreal), PhD Administration-Finance (Concordia University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/sana-mohsni/",
@@ -1827,7 +1834,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sana-mohsni"
  },
  {
@@ -1840,7 +1847,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "University of Manitoba",
   "phd_year": null,
@@ -1848,7 +1855,7 @@
   "ma_institution": "University of Warwick",
   "ma_year": null,
   "ma_field": "Finance",
-  "ba_institution": "City University, London",
+  "ba_institution": "City University London",
   "ba_year": null,
   "ba_field": "Investment & Financial Risk Management",
   "education_raw": "BSc Investment & Financial Risk Management (City University, London), MSc Finance (University of Warwick), PhD Finance (University of Manitoba)",
@@ -1866,7 +1873,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shi-li"
  },
  {
@@ -1877,9 +1884,11 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Yuriy’s research interests include empirical corporate finance, fixed income securities, derivatives, and he has a growing interest in financial technology, blockchain and financial data analytics.\nORCID: https://orcid.org/0000-0002-6891-0487\nSprott School of Business",
   "fields_std": [
-   "Corporate Finance"
+   "Corporate Finance",
+   "Financial Economics",
+   "Data Science & Analytics"
   ],
   "phd_institution": "Simon Fraser University",
   "phd_year": null,
@@ -1905,7 +1914,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yuriy-zabolotnyuk"
  },
  {
@@ -1916,9 +1925,9 @@
   "unit_type": "business",
   "area": "Finance and Business Analytics",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Financial Networks; Social Media in Financial Markets",
   "fields_std": [
-   "Corporate Finance",
+   "Financial Economics",
    "Data Science & Analytics"
   ],
   "phd_institution": "Queen’s University",
@@ -1926,7 +1935,7 @@
   "phd_field": "Finance",
   "ma_institution": "Queen’s University | Queen’s University",
   "ma_year": null,
-  "ma_field": "Electrical Engineering",
+  "ma_field": "Electrical Engineering | Business Administration",
   "ba_institution": "University of Toronto",
   "ba_year": null,
   "ba_field": "Electrical Engineering",
@@ -1945,7 +1954,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mohamed-al-guindy"
  },
  {
@@ -1965,10 +1974,10 @@
   "phd_field": "Management Sciences",
   "ma_institution": "Babson College",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "Dalian University of Technology",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Engineering",
   "education_raw": "BEng (Dalian University of Technology), MBA (Babson College), PhD Management Sciences (University of Waterloo)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/shaobo-ji/",
@@ -1981,10 +1990,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Business Analyst, multiple global IT consulting firms (unnamed), null; System Engineer, multiple global IT consulting firms (unnamed), null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shaobo-ji"
  },
  {
@@ -1997,8 +2006,8 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Data Science & Analytics",
-   "Information Systems"
+   "Information Systems",
+   "Data Science & Analytics"
   ],
   "phd_institution": "McMaster University",
   "phd_year": null,
@@ -2024,7 +2033,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "samira-farivar"
  },
  {
@@ -2037,7 +2046,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Management & Organizations"
+   "Other"
   ],
   "phd_institution": "University of Oregon",
   "phd_year": null,
@@ -2063,7 +2072,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "luciara-nardon"
  },
  {
@@ -2074,19 +2083,20 @@
   "unit_type": "business",
   "area": "International Business",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Research Interests:\nNewcomers’ Integration\nInternationalization",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Strategy"
   ],
   "phd_institution": "Carleton University",
   "phd_year": null,
   "phd_field": "Management",
   "ma_institution": "Ryerson University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": "University of Toronto",
   "ba_year": null,
-  "ba_field": "of Commerce",
+  "ba_field": "Commerce",
   "education_raw": "Bachelor of Commerce (University of Toronto); MBA (Ryerson University); PhD Management (Carleton University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/daniel-gulanowski/",
@@ -2102,7 +2112,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "daniel-gulanowski"
  },
  {
@@ -2115,6 +2125,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Strategy",
    "Management & Organizations"
   ],
   "phd_institution": "Ivey Business School",
@@ -2122,7 +2133,7 @@
   "phd_field": null,
   "ma_institution": "Ivey Business School",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": "Shanghai Jiaotong University",
   "ba_year": null,
   "ba_field": null,
@@ -2132,16 +2143,16 @@
   "cv_url": null,
   "google_scholar_url": "https://scholar.google.ca/citations?user=R95tntYAAAAJ&amp;hl=en",
   "orcid": "https://orcid.org/0000-0002-4235-2237",
-  "year_joined": null,
+  "year_joined": 2016,
   "source_url": "https://sprott.carleton.ca/our-people/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Associate Professor, Rowe School of Business, Dalhousie University, years unknown",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "frank-guoliang-jiang"
  },
  {
@@ -2154,17 +2165,17 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Management & Organizations"
+   "Other"
   ],
   "phd_institution": "Copenhagen Business School",
   "phd_year": null,
-  "phd_field": "Business Economics",
-  "ma_institution": "Lund University | Copenhagen Business School",
+  "phd_field": "Business Economics and Management",
+  "ma_institution": "Lund University",
   "ma_year": null,
-  "ma_field": "of Asian Studies",
+  "ma_field": "Asian Studies",
   "ba_institution": "Georgetown University",
   "ba_year": null,
-  "ba_field": "of Foreign Service",
+  "ba_field": "Foreign Service",
   "education_raw": "Bachelors of Foreign Service (Georgetown University, USA), Masters of Asian Studies (Lund University, Sweden), PhD in Business Economics and Management (Copenhagen Business School, Denmark)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/jinsun-bae/",
@@ -2180,7 +2191,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jinsun-bae"
  },
  {
@@ -2194,17 +2205,17 @@
   "fields_raw": null,
   "fields_std": [
    "Marketing",
-   "Management & Organizations"
+   "Other"
   ],
   "phd_institution": "University of Manchester",
   "phd_year": null,
   "phd_field": "Marketing",
   "ma_institution": "University of Ottawa",
   "ma_year": null,
-  "ma_field": "Business Administration",
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": "Universidad de Talca",
   "ba_year": null,
-  "ba_field": "Accounting",
+  "ba_field": "Accounting and Auditing",
   "education_raw": "Bachelors Accounting and Auditing (Universidad de Talca), MBA Business Administration (University of Ottawa), PhD Marketing (University of Manchester)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/jose-rojas-mendez/",
@@ -2220,7 +2231,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jose-rojas-mendez"
  },
  {
@@ -2233,14 +2244,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Organizational Behavior",
    "Management & Organizations"
   ],
   "phd_institution": "McMaster University",
   "phd_year": null,
-  "phd_field": "Human Resources",
-  "ma_institution": "University of Waterloo | McMaster University",
+  "phd_field": "Human Resources and Management",
+  "ma_institution": "University of Waterloo",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Industrial Organizational Psychology",
   "ba_institution": "St. Mary’s University",
   "ba_year": null,
   "ba_field": "Psychology",
@@ -2259,7 +2271,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "greg-sears"
  },
  {
@@ -2279,10 +2291,10 @@
   "phd_field": "Management",
   "ma_institution": "Concordia University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "Concordia University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Building",
   "education_raw": "BEng Building (Concordia University), MBA (Concordia University), PhD Management (Carleton University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/linda-schweitzer/",
@@ -2298,7 +2310,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "linda-schweitzer"
  },
  {
@@ -2311,12 +2323,13 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Organizational Behavior",
    "Management & Organizations"
   ],
-  "phd_institution": "Queen’s University",
+  "phd_institution": "Queen's University",
   "phd_year": null,
   "phd_field": "Management Organizational Behaviour",
-  "ma_institution": "Queen’s University",
+  "ma_institution": "Queen's University",
   "ma_year": null,
   "ma_field": "Management Organizational Behaviour",
   "ba_institution": null,
@@ -2337,7 +2350,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "angela-dionisi"
  },
  {
@@ -2350,7 +2363,8 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Management & Organizations"
+   "Strategy",
+   "Public Policy"
   ],
   "phd_institution": "Carleton University",
   "phd_year": null,
@@ -2367,7 +2381,7 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": "https://orcid.org/0000-0002-0565-6362",
-  "year_joined": null,
+  "year_joined": 1988,
   "source_url": "https://sprott.carleton.ca/our-people/",
   "notes": null,
   "ba_country": null,
@@ -2376,7 +2390,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ian-lee"
  },
  {
@@ -2415,7 +2429,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "ruth-mckay"
  },
  {
@@ -2428,17 +2442,18 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Business Ethics & Society",
    "Management & Organizations"
   ],
   "phd_institution": "University of Pittsburgh",
   "phd_year": null,
-  "phd_field": "Business Environment",
-  "ma_institution": "Simon Fraser University | Simon Fraser University",
+  "phd_field": "Business Environment, Ethics, and Public Policy",
+  "ma_institution": "Simon Fraser University",
   "ma_year": null,
   "ma_field": "Policy Analysis",
   "ba_institution": "Simon Fraser University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Finance, Marketing",
   "education_raw": "BBA Finance, Marketing (Simon Fraser University); MBA Policy Analysis (Simon Fraser University); PhD Business Environment, Ethics, and Public Policy (University of Pittsburgh)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/sefa-hayibor/",
@@ -2454,7 +2469,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sefa-hayibor"
  },
  {
@@ -2465,8 +2480,9 @@
   "unit_type": "business",
   "area": "Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Corporate Governance; Sustainability",
   "fields_std": [
+   "Business Ethics & Society",
    "Management & Organizations"
   ],
   "phd_institution": null,
@@ -2493,7 +2509,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sujit-sur"
  },
  {
@@ -2504,9 +2520,10 @@
   "unit_type": "business",
   "area": "Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Leadership, leadership emergence, gender, menstruation, pregnancy, work-family",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Organizational Behavior"
   ],
   "phd_institution": "Queen’s University",
   "phd_year": null,
@@ -2514,9 +2531,9 @@
   "ma_institution": "Queen’s University",
   "ma_year": null,
   "ma_field": "Management",
-  "ba_institution": "Honours",
+  "ba_institution": "Queen’s University",
   "ba_year": null,
-  "ba_field": "of Science",
+  "ba_field": "Psychology",
   "education_raw": "Bachelor of Science (Honours) in Psychology (Queen’s University), MSc Management (Queen’s University), PhD Management (Queen’s University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/shani-pupco/",
@@ -2532,7 +2549,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shani-pupco"
  },
  {
@@ -2545,15 +2562,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Strategy",
-   "Management & Organizations"
+   "Management & Organizations",
+   "Strategy"
   ],
-  "phd_institution": "Queen’s University",
+  "phd_institution": "Queens University",
   "phd_year": null,
   "phd_field": "Management",
   "ma_institution": "Queens University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": "University of Ottawa",
   "ba_year": null,
   "ba_field": "English Literature",
@@ -2572,7 +2589,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lorraine-dyke"
  },
  {
@@ -2587,15 +2604,15 @@
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": "York",
+  "phd_institution": "York University",
   "phd_year": null,
   "phd_field": "Marketing",
   "ma_institution": "Dublin City University",
   "ma_year": null,
-  "ma_field": "of Marketing",
+  "ma_field": "Marketing",
   "ba_institution": "University College Cork",
   "ba_year": null,
-  "ba_field": "of Commerce",
+  "ba_field": "Commerce",
   "education_raw": "Bachelor of Commerce (University College Cork), Master of Marketing (Dublin City University), Ph.D. in Marketing (York)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/aron-darmody/",
@@ -2611,7 +2628,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aron-darmody"
  },
  {
@@ -2622,9 +2639,11 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Research Interests:\nSustainable and ethical consumption\nEmpathetic AI in marketing communication",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Business Ethics & Society",
+   "Information Systems"
   ],
   "phd_institution": "Carleton University",
   "phd_year": null,
@@ -2650,7 +2669,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "irene-lu"
  },
  {
@@ -2673,7 +2692,7 @@
   "ma_field": "Marketing",
   "ba_institution": "Bishop’s University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Administration",
   "education_raw": "BBA (Bishop’s University), MSc Marketing (Queen’s University), PhD Marketing (Queen’s University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/lindsay-mcshane/",
@@ -2689,7 +2708,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lindsay-mcshane"
  },
  {
@@ -2725,10 +2744,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Faculty, Richard Ivey School of Business, University of Western Ontario, null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "robin-ritchie"
  },
  {
@@ -2748,10 +2767,10 @@
   "phd_field": "Management",
   "ma_institution": "Central University of Finance and Economics",
   "ma_year": null,
-  "ma_field": "of Management",
+  "ma_field": "Management",
   "ba_institution": "China Agricultural University",
   "ba_year": null,
-  "ba_field": "of Management",
+  "ba_field": "Management",
   "education_raw": "Bachelor of Management (China Agricultural University), Master of Management (Central University of Finance and Economics), PhD in Management (Carleton University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/dora-wang/",
@@ -2767,7 +2786,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "dora-yun-wang"
  },
  {
@@ -2778,10 +2797,10 @@
   "unit_type": "business",
   "area": "Strategic Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "International Business and Corporate Social Responsibility (CSR); Non-market strategies; Organizational Corruption; Environmental Entrepreneurship; Strategic Stakeholder Theory",
   "fields_std": [
    "Strategy",
-   "Management & Organizations"
+   "Business Ethics & Society"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
@@ -2807,7 +2826,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "stelios-zyglidopoulos"
  },
  {
@@ -2820,15 +2839,14 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Operations Management",
-   "Management & Organizations"
+   "Operations Management"
   ],
   "phd_institution": "New Mexico State University",
   "phd_year": null,
   "phd_field": "Operations Management",
   "ma_institution": "New Mexico State University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": "Fudan University",
   "ba_year": null,
   "ba_field": "Degree",
@@ -2847,7 +2865,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "alan-cai"
  },
  {
@@ -2858,10 +2876,10 @@
   "unit_type": "business",
   "area": "Supply Chain Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "His principal research interests are:\ndata analysis,\nstatistical applications in casualty actuarial science, employment discrimination and transportation,",
   "fields_std": [
-   "Operations Management",
-   "Management & Organizations"
+   "Data Science & Analytics",
+   "Econometrics"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -2887,7 +2905,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jerry-tomberlin"
  },
  {
@@ -2901,7 +2919,7 @@
   "fields_raw": null,
   "fields_std": [
    "Operations Management",
-   "Management & Organizations"
+   "Data Science & Analytics"
   ],
   "phd_institution": "York University",
   "phd_year": null,
@@ -2922,12 +2940,12 @@
   "source_url": "https://sprott.carleton.ca/our-people/",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
+  "phd_advisors": "Michael Friendly",
   "first_job_after_phd": null,
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ernest-kwan"
  },
  {
@@ -2941,18 +2959,17 @@
   "fields_raw": null,
   "fields_std": [
    "Operations Management",
-   "Data Science & Analytics",
-   "Management & Organizations"
+   "Data Science & Analytics"
   ],
   "phd_institution": "Laval University",
   "phd_year": null,
-  "phd_field": "Logistics",
-  "ma_institution": "Laval University | Laval University | Laval University",
+  "phd_field": "Logistics and Manufacturing Management",
+  "ma_institution": "Laval University",
   "ma_year": null,
   "ma_field": "Operations Management",
   "ba_institution": "Laval University",
   "ba_year": null,
-  "ba_field": "Forest Resources Production",
+  "ba_field": "Forest Resources Production and Management",
   "education_raw": "BSc Forest Resources Production and Management (Laval University), Masters Operations Management (Laval University), PhD Logistics and Manufacturing Management (Laval University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/aaron-nsakanda/",
@@ -2968,7 +2985,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aaron-nsakanda"
  },
  {
@@ -2983,33 +3000,33 @@
   "fields_std": [
    "Operations Management",
    "Data Science & Analytics",
-   "Management & Organizations"
+   "Information Systems"
   ],
-  "phd_institution": "York University",
-  "phd_year": null,
-  "phd_field": "Operations Management",
-  "ma_institution": "Queens University",
+  "phd_institution": "York University (Schulich School of Business)",
+  "phd_year": 2012,
+  "phd_field": "Operations Management and Information Systems (Strategy minor)",
+  "ma_institution": "Queen's University",
   "ma_year": null,
-  "ma_field": "Electrical",
+  "ma_field": "Electrical and Computer Engineering",
   "ba_institution": "Mansoura University",
   "ba_year": null,
-  "ba_field": "Electrical",
+  "ba_field": "Electrical and Computer Engineering",
   "education_raw": "PhD Operations Management and Information Systems (York University); MSc Electrical and Computer Engineering (Queens University); BSc Electrical and Computer Engineering (Mansoura University)",
   "homepage_url": null,
   "profile_url": "https://sprott.carleton.ca/people/ahmed-doha/",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": "https://orcid.org/0000-0001-8717-4019",
-  "year_joined": null,
+  "year_joined": 2010,
   "source_url": "https://sprott.carleton.ca/our-people/",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Mark Pagell (Chair), Morgan Swink, Ajay Agrawal, David Johnston",
+  "first_job_after_phd": "Assistant Professor of Supply Chain Management, Sprott School of Business, Carleton University (2012–2018)",
+  "prior_positions": "Assistant Professor, Sprott School of Business, Carleton University, 2012–2018; Lecturer in Supply Chain Management, Sprott School of Business, Carleton University, 2010–2012; Research Assistant & Instructor of Supply Chain Courses, Schulich School of Business, York University, 2006–2010; Research & Teaching Assistant, Electrical & Computer Engineering, Queen's University and University of Waterloo, 2003–2006; Regional Project Manager, Lucent Technologies Inc., 1999–2002; Wireless Networks Design Engineer, Nortel Networks Inc., 1997–1998",
+  "year_current_rank": 2018,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "ahmed-doha"
  },
  {
@@ -3020,10 +3037,11 @@
   "unit_type": "public_policy",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "International Monetary Fund, World Bank and other Multilateral Financial Institutions, Sovereign Debt, Financial Crises and Capital Flows, Exchange Rates, International Trade and Trade Policy, Migration and Remittances, Development Assistance and Cooperation, Economics of Conflict and Peacekeeping, Conflict and Development and Terrorism.",
   "fields_std": [
+   "International Finance",
    "International Trade",
-   "International Finance"
+   "Development Economics"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -3049,7 +3067,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "dane-rowlands"
  },
  {
@@ -3060,17 +3078,17 @@
   "unit_type": "public_policy",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Professor Wang’s research focuses on empirical analyses of international trade and foreign direct investment (FDI) at both the macro and micro levels. Her work spans a wide range of topics within these two areas. Her PhD dissertation examined the effects of imports from developed countries on productivity in developing countries, arguing that imports embed the tech",
   "fields_std": [
    "International Trade",
-   "International Finance"
+   "Development Economics"
   ],
   "phd_institution": "Georgetown University",
   "phd_year": null,
   "phd_field": "Economics",
   "ma_institution": "Georgetown University | Renmin University of China",
   "ma_year": null,
-  "ma_field": "Economics",
+  "ma_field": "Economics | Economics",
   "ba_institution": "Renmin University of China",
   "ba_year": null,
   "ba_field": "Economics",
@@ -3080,16 +3098,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2003,
   "source_url": "https://carleton.ca/npsia/our-faculty/",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "prior_positions": "Researcher, State Economic & Trade Commission, P.R. China, 1995-1997; Consultant, World Bank, 2001-2003; Associate Director (PhD Program), Norman Paterson School of International Affairs, Carleton University, 2019-2023",
+  "year_current_rank": 2015,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yanling-wang"
  },
  {
@@ -3100,9 +3118,11 @@
   "unit_type": "public_policy",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "African economic development, domestic resource mobilization, foreign aid, fragile and conflict-affected states, deindustrialization and income inequality, small island developing states, trade and development.",
   "fields_std": [
-   "Development Economics"
+   "Development Economics",
+   "Public Economics",
+   "International Trade"
   ],
   "phd_institution": "University of Ottawa",
   "phd_year": null,
@@ -3128,7 +3148,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yiagadeesen-teddy-samy"
  },
  {
@@ -3142,7 +3162,7 @@
   "fields_raw": "health economics; health policy; applied microeconomics",
   "fields_std": [
    "Health Economics",
-   "Microeconomic Theory"
+   "Public Policy"
   ],
   "phd_institution": "Laboratoire d’Économie et Gestion – CNRS and Université de Bourgogne",
   "phd_year": null,
@@ -3164,11 +3184,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoctoral Fellowship, Canadian Institutes of Health Research (2012-2013)",
+  "prior_positions": "Postdoctoral Fellowship, Canadian Institutes of Health Research, 2012-2013",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mehdi-ammi"
  },
  {
@@ -3182,12 +3202,12 @@
   "fields_raw": "natural resource management; air quality control policy; northern development; common pool resources; experimental economics; energy policy and strategies",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Development Economics",
-   "Experimental Economics"
+   "Agricultural & Resource Economics",
+   "Behavioral Economics"
   ],
   "phd_institution": "University of Guelph",
   "phd_year": null,
-  "phd_field": "Natural Resource",
+  "phd_field": "Natural Resource and Environmental Economics",
   "ma_institution": "University of Guelph",
   "ma_year": null,
   "ma_field": "Economics",
@@ -3205,11 +3225,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoc, McMaster University",
+  "prior_positions": "Postdoc, McMaster University",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "stephan-schott"
  },
  {
@@ -3222,7 +3242,8 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Other"
+   "Health Economics",
+   "Labor Economics"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -3248,7 +3269,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jennifer-stewart"
  },
  {
@@ -3262,7 +3283,8 @@
   "fields_raw": "program and policy evaluation; development economics; education; cost-benefit analysis; mixed-methods evaluation; machine learning",
   "fields_std": [
    "Economics of Education",
-   "Development Economics"
+   "Development Economics",
+   "Public Policy"
   ],
   "phd_institution": "Queen’s University",
   "phd_year": null,
@@ -3288,7 +3310,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "ardyn-nordstrom"
  }
 ]

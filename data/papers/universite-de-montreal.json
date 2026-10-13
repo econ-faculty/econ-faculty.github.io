@@ -1,0 +1,2243 @@
+{
+"davide alonzo": {
+"name": "Davide Alonzo",
+"papers": []
+},
+"massimiliano amarante": {
+"name": "Massimiliano Amarante",
+"papers": [
+{
+"title": "Distortion risk measures: Prudence, Coherence, and the Expected Shortfall",
+"authors": [
+"Massimiliano Amarante",
+"F. Liebrich"
+],
+"year": null,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Uniqueness of convex-ranged probabilities and applications to risk measures and games",
+"authors": [
+"Massimiliano Amarante",
+"F. Liebrich",
+"C. Munari"
+],
+"year": null,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "A unified framework for Bayesian and non-Bayesian decision making and inference",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2022,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Bipolar behavior of submodular, law-invariant capacities",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2021,
+"venue": "Statistics & Risk Modeling",
+"status": "published"
+},
+{
+"title": "Aggregation of opinions and risk measures",
+"authors": [
+"Massimiliano Amarante",
+"M. Ghossoub"
+],
+"year": 2021,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Recursive Maxmin Preferences and Rectangular Priors: a Simple Proof",
+"authors": [
+"Massimiliano Amarante",
+"M. Siniscalchi"
+],
+"year": 2019,
+"venue": "Economic Theory Bulletin",
+"status": "published"
+},
+{
+"title": "The Sandwich Theorem via Pataraia's fixed point theorem",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2019,
+"venue": "Positivity",
+"status": "published"
+},
+{
+"title": "Sandwich Theorems for set functions: An application of the Lehrer-Teper integral",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2019,
+"venue": "Fuzzy Sets and Systems",
+"status": "published"
+},
+{
+"title": "Mm-OWA: a generalization of OWA operators",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2018,
+"venue": "IEEE Transactions on Fuzzy Systems",
+"status": "published"
+},
+{
+"title": "Information and Ambiguity: toward a foundation of non-Expected Utility",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2017,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Contracting on ambiguous prospects",
+"authors": [
+"Massimiliano Amarante",
+"M. Ghossoub",
+"E. Phelps"
+],
+"year": 2017,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "Uniqueness of the weights in Harsanyi-type theorems",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2017,
+"venue": "Economic Theory Bulletin",
+"status": "published"
+},
+{
+"title": "Conditional expected utility",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2017,
+"venue": "Theory and Decision",
+"status": "published"
+},
+{
+"title": "A representation of risk measures",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2016,
+"venue": "Decisions in Economics and Finance",
+"status": "published"
+},
+{
+"title": "Optimal insurance for a minimal expected retention: the case of an ambiguity-seeking insurer",
+"authors": [
+"Massimiliano Amarante",
+"M. Ghossoub"
+],
+"year": 2016,
+"venue": "Risks",
+"status": "published"
+},
+{
+"title": "Analogy in Decision Making",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2015,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Ambiguity on the insurer’s side: the demand for insurance",
+"authors": [
+"Massimiliano Amarante",
+"M. Ghossoub",
+"E. Phelps"
+],
+"year": 2015,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "A characterization of exact non-atomic market games",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2014,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "The Bargaining set of a large game",
+"authors": [
+"Massimiliano Amarante",
+"L. Montrucchio"
+],
+"year": 2010,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "Foundations of Neo-Bayesian Statistics",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2009,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Ambiguous Events and Maxmin Expected Utility",
+"authors": [
+"Massimiliano Amarante",
+"E. Filiz"
+],
+"year": 2007,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Cores of Non-atomic Market Games",
+"authors": [
+"Massimiliano Amarante",
+"F. Maccheroni",
+"M. Marinacci",
+"L. Montrucchio"
+],
+"year": 2006,
+"venue": "International Journal of Game Theory",
+"status": "published"
+},
+{
+"title": "When an event makes a difference",
+"authors": [
+"Massimiliano Amarante",
+"F. Maccheroni"
+],
+"year": 2006,
+"venue": "Theory and Decision",
+"status": "published"
+},
+{
+"title": "Ambiguity, Measurability and Multiple Priors",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2005,
+"venue": "Economic Theory",
+"status": "published"
+},
+{
+"title": "On the uniqueness of convex-ranged probabilities",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2004,
+"venue": "Decisions in Economics and Finance",
+"status": "published"
+},
+{
+"title": "Recursive Structure and Equilibria for Games with Private Monitoring",
+"authors": [
+"Massimiliano Amarante"
+],
+"year": 2003,
+"venue": "Economic Theory",
+"status": "published"
+}
+]
+},
+"william arbour": {
+"name": "William Arbour",
+"papers": [
+{
+"title": "Prison rehabilitation programs and recidivism: evidence from variations in availability",
+"authors": [
+"Arbour, W.",
+"Lacroix, G.",
+"Marchand, S."
+],
+"year": 2024,
+"venue": "Journal of Human Resources",
+"status": "published"
+},
+{
+"title": "Beyond Traditional Risk Scores: Tackling LS/CMI Offender Misclassifications with Machine Learning",
+"authors": [
+"Arbour, W.",
+"Brouillette-Alarie, S.",
+"Giguère, G.",
+"Lacroix, G.",
+"Marchand, S."
+],
+"year": 2025,
+"venue": "Journal of Quantitative Criminology",
+"status": "published"
+},
+{
+"title": "Can Recidivism Be Prevented From Behind Bars? Evidence From a Behavioral Program",
+"authors": [
+"William Arbour"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Can Parole Reduce Both Time Served and Crime?",
+"authors": [
+"William Arbour",
+"Steeve Marchand"
+],
+"year": null,
+"venue": "American Economic Journal: Economic Policy",
+"status": "revise_resubmit"
+},
+{
+"title": "From Twitter to the Headlines? Uncovering Social Media’s Role as a Political Agenda-Building Tool During an Election",
+"authors": [
+"William Arbour",
+"Jérémie Drouin",
+"Adrien Cloutier",
+"Yannick Dufresne"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Does a Good Teacher Sound Like?",
+"authors": [
+"William Arbour",
+"Marlène Koffi",
+"Philip Oreopoulos"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Occupations Do?",
+"authors": [
+"William Arbour",
+"David Price"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pierre loup beauregard": {
+"name": "Pierre-Loup Beauregard",
+"papers": [
+{
+"title": "Pathways Into and Out of Homelessness",
+"authors": [
+"Pierre-Loup Beauregard",
+"Victor Couture",
+"Jeffrey Hicks",
+"David Green",
+"William Warburton"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "It’s About Time: Social Housing, Parental Labour Supply, and Long-term Child Outcomes",
+"authors": [
+"Pierre-Loup Beauregard"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data",
+"authors": [
+"Pierre-Loup Beauregard",
+"Thomas Lemieux",
+"Derek Messacar",
+"Raffaele Saggio"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Beyond Earnings: Availability and the Non-Pecuniary Returns of Universal Childcare",
+"authors": [
+"Pierre-Loup Beauregard",
+"Sébastien Montpetit",
+"Luisa Carrer"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "Gentrification, Displacement, and Income Trajectory of Incumbent Workers",
+"authors": [
+"Pierre-Loup Beauregard"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Immigrant Neighborhood Formation: Evidence from Canadian Cities",
+"authors": [
+"Pierre-Loup Beauregard",
+"Vedran Juraj Razmilic",
+"Pablo Valenzuela-Casasempere"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Primary School Reopenings and Parental Work",
+"authors": [
+"Pierre-Loup Beauregard",
+"Marie Connolly",
+"Catherine Haeck",
+"Tímea Laura Molnár"
+],
+"year": 2022,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Distribution of COVID-19 Related Risks",
+"authors": [
+"Pierre-Loup Beauregard",
+"Patrick Baylis",
+"Marie Connolly",
+"Nicole M. Fortin",
+"David A. Green",
+"Pablo Gutiérrez-Cubillos",
+"Sam Gyetvay",
+"Catherine Haeck",
+"Tímea Laura Molnár",
+"Gaëlle Simard-Duplain",
+"Henry E. Siu",
+"Maria teNyenhuis",
+"Casey Warman"
+],
+"year": 2022,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+}
+]
+},
+"andriana bellou": {
+"name": "Andriana Bellou",
+"papers": [
+{
+"title": "Wages, Implicit Contracts and the Business Cycle: Evidence from a European Panel",
+"authors": [
+"Andriana Bellou",
+"Baris Kaymak"
+],
+"year": 2012,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Reducing Underage Alcohol and Tobacco Use: Evidence from the Introduction of Vertical Identification Cards",
+"authors": [
+"Andriana Bellou",
+"Rachana Bhatt"
+],
+"year": 2013,
+"venue": "Journal of Health Economics",
+"status": "published"
+},
+{
+"title": "The Impact of Internet Diffusion on Marriage Rates: Evidence from the Broadband Market",
+"authors": [
+"Andriana Bellou"
+],
+"year": 2015,
+"venue": "Journal of Population Economics",
+"status": "published"
+},
+{
+"title": "Occupations after WWII: The Legacy of Rosie The Riveter",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia"
+],
+"year": 2016,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "Male Wage Inequality and Marital Dissolution: Is There a Link?",
+"authors": [
+"Andriana Bellou"
+],
+"year": 2017,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "The Cyclical Behavior of Job Quality and Real Wage Growth",
+"authors": [
+"Andriana Bellou",
+"Baris Kaymak"
+],
+"year": 2021,
+"venue": "AER Insights",
+"status": "published"
+},
+{
+"title": "Great Depression and the rise of female employment: A new hypothesis",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia"
+],
+"year": 2021,
+"venue": "Explorations in Economic History",
+"status": "published"
+},
+{
+"title": "The Long-Run Impacts of Adolescent Drinking: Evidence from Zero Tolerance Laws",
+"authors": [
+"Andriana Bellou",
+"Tatiana Abboud",
+"Joshua Lewis"
+],
+"year": 2024,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Great Depression, WWII and the College Gender Gap",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia"
+],
+"year": 2026,
+"venue": "Canadian Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "From Bust to Boom: The Great Depression and Women’s Fertility",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia",
+"Joshua Lewis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Drought and Distress: Effects of Environmental Shocks on the U.S. Banking Sector, 1920-1937",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia",
+"Joshua Lewis",
+"Régis Kouassi"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Baby-Boom, Baby-Bust and the Great Depression",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Great Depression and the lasting effects of mortgage debt on women's work",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Long Term Consequences of the 1930s Housing Market Crash: Evidence from Linked Samples",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia",
+"Joshua Lewis"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Environmental Shocks and Tariff Policy over the first half of the 20th Century United States",
+"authors": [
+"Andriana Bellou",
+"Emanuela Cardia",
+"Régis Kouassi",
+"Joshua Lewis"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Politicians and Business: Connections over the Long Run",
+"authors": [
+"Andriana Bellou",
+"L. Moore"
+],
+"year": 2018,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"walter bossert": {
+"name": "Walter Bossert",
+"papers": []
+},
+"marine carrasco": {
+"name": "Marine Carrasco",
+"papers": [
+{
+"title": "Hansen-Jagannathan distance with many assets",
+"authors": [
+"Marine Carrasco",
+"Cheikh Nokho"
+],
+"year": null,
+"venue": "Journal of Econometrics",
+"status": "revise_resubmit"
+},
+{
+"title": "Nonparametric Estimation of the Density of a Change-Point",
+"authors": [
+"Marine Carrasco",
+"Hugo Peltier"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Regularized LIML for Dynamic Panel Data Models",
+"authors": [
+"Marine Carrasco",
+"Ada Nayihouba"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Optimal Portfolio Selection using Regularization",
+"authors": [
+"Marine Carrasco",
+"N’Golo Koné",
+"Nérée Noumon"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Regularized Generalized Empirical Likelihood Estimators",
+"authors": [
+"Marine Carrasco",
+"R. Kotchoni"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Choosing the number of instruments for Jackknife instrumental variable estimator",
+"authors": [
+"Marine Carrasco",
+"Mohamed Doukali"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Regularization Based Anderson Rubin Tests for Many Instruments",
+"authors": [
+"Marine Carrasco",
+"Guy Tchuente"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"deniz dizdar": {
+"name": "Deniz Dizdar",
+"papers": [
+{
+"title": "A quantitative hydrodynamic limit of the Kawasaki dynamics",
+"authors": [
+"Deniz Dizdar",
+"Georg Menz",
+"Felix Otto",
+"Tianqi Wu"
+],
+"year": 2024,
+"venue": "Electronic Journal of Probability",
+"status": "published"
+},
+{
+"title": "Search less for a better price",
+"authors": [
+"Deniz Dizdar",
+"Eren Bilen",
+"Chun-Hui Miao"
+],
+"year": 2023,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "On the optimality of small research tournaments",
+"authors": [
+"Deniz Dizdar"
+],
+"year": 2021,
+"venue": "Mathematical Social Sciences",
+"status": "published"
+},
+{
+"title": "A simple proof of strong duality in the linear persuasion problem",
+"authors": [
+"Deniz Dizdar",
+"Eugen Kováč"
+],
+"year": 2020,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "The Feedback Effect in Two-sided Markets with Bilateral Investments",
+"authors": [
+"Deniz Dizdar",
+"Benny Moldovanu",
+"Nora Szech"
+],
+"year": 2019,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Two-sided Investment and Matching with Multidimensional Cost Types and Attributes",
+"authors": [
+"Deniz Dizdar"
+],
+"year": 2018,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+},
+{
+"title": "On the Importance of Uniform Sharing Rules for Efficient Matching",
+"authors": [
+"Deniz Dizdar",
+"Benny Moldovanu"
+],
+"year": 2016,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Revenue maximization in the dynamic knapsack problem",
+"authors": [
+"Deniz Dizdar",
+"Alex Gershkov",
+"Benny Moldovanu"
+],
+"year": 2011,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Competing Pre-match Investments Revisited: A Characterization of Monotone Bayes-Nash Equilibria in Large Markets",
+"authors": [
+"Deniz Dizdar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Approximately efficient pre-match investments for assortative TU matching",
+"authors": [
+"Deniz Dizdar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"lars ehlers": {
+"name": "Lars Ehlers",
+"papers": [
+{
+"title": "School Choice with Controlled Choice Constraints: Hard Bounds versus Soft Bounds",
+"authors": [
+"Lars Ehlers",
+"I.E. Hafalir",
+"M.B. Yenmez",
+"M.A. Yilidrim"
+],
+"year": 2014,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Continuity and Incentive Compatibility in Cardinal Mechanisms",
+"authors": [
+"Lars Ehlers",
+"D. Majumdar",
+"D. Mishra",
+"A. Sen"
+],
+"year": 2020,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "An Algorithm for Identifying Agent-k-linked Allocations in Economies with Indivisibilities",
+"authors": [
+"Lars Ehlers",
+"T. Andersson"
+],
+"year": 2022,
+"venue": "International Journal of Economic Theory",
+"status": "published"
+}
+]
+},
+"alain philippe fortin": {
+"name": "Alain-Philippe Fortin",
+"papers": []
+},
+"joao alfredo galindo da fonseca": {
+"name": "Joao Alfredo Galindo da Fonseca",
+"papers": [
+{
+"title": "Accident-Induced Absence from Work and Wage Growth",
+"authors": [
+"João Galindo da Fonseca",
+"Anikó Bíró",
+"Márta Bisztray",
+"Tímea Molnár"
+],
+"year": null,
+"venue": "Journal of Labor Economics",
+"status": "forthcoming"
+},
+{
+"title": "The Housing Boom and Selection into Entrepreneurship",
+"authors": [
+"João Galindo da Fonseca",
+"Pierluca Pannella"
+],
+"year": 2023,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Spouses, Children and Entrepreneurship",
+"authors": [
+"João Galindo da Fonseca",
+"Charles Berubé"
+],
+"year": 2023,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Unemployment, Entrepreneurship and Firm Outcomes",
+"authors": [
+"João Galindo da Fonseca"
+],
+"year": 2022,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Match Quality and Contractual Sorting",
+"authors": [
+"João Galindo da Fonseca",
+"Giovanni Gallipoli",
+"Yaniv Yedid-Levi"
+],
+"year": 2020,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Labour Market Tightness, Wage Inequality, and Workplace Amenities",
+"authors": [
+"João Galindo da Fonseca",
+"Anikó Bíró",
+"Attila Lindner",
+"Tímea Molnár"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identifying Labor Market Power: A Quasi-Experimental Approach",
+"authors": [
+"João Galindo da Fonseca",
+"Rogério Santarrosa"
+],
+"year": null,
+"venue": "IDB WP",
+"status": "working_paper"
+},
+{
+"title": "How are wages determined? A quasi-experimental test of wage determination theories",
+"authors": [
+"João Galindo da Fonseca",
+"Rogério Santarrosa",
+"Marcelo Carvalho"
+],
+"year": null,
+"venue": "RCEA WP",
+"status": "working_paper"
+},
+{
+"title": "Entrepreneurship, Outside Options and Constrained Efficiency",
+"authors": [
+"João Galindo da Fonseca",
+"Iain Snoddy"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"raphael godefroy": {
+"name": "Raphaël Godefroy",
+"papers": [
+{
+"title": "National institutions and self-insurance",
+"authors": [
+"Raphaël Godefroy",
+"Joshua Lewis"
+],
+"year": 2025,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Distribution and predictors of F-18-FDG uptake values of non-malignant cervical lymph nodes in pediatric patients",
+"authors": [
+"Raphaël Godefroy",
+"Jeremy Godefroy",
+"et al."
+],
+"year": 2024,
+"venue": "EJNMMI Research",
+"status": "published"
+},
+{
+"title": "Estimating population infection rates from non-random testing data: Evidence from the COVID-19 pandemic",
+"authors": [
+"Raphaël Godefroy",
+"David Benatia",
+"Joshua Lewis"
+],
+"year": 2024,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "What Explains the Socioeconomic Status/Health Gradient? Evidence from Workplace COVID-19 Infections",
+"authors": [
+"Raphaël Godefroy",
+"Joshua Lewis"
+],
+"year": 2022,
+"venue": "Social Science & Medicine - Population Health",
+"status": "published"
+},
+{
+"title": "Estimates of COVID-19 Cases Across Four Canadian Provinces",
+"authors": [
+"Raphaël Godefroy",
+"David Benatia",
+"Joshua Lewis"
+],
+"year": 2020,
+"venue": "Canadian Public Policy",
+"status": "published"
+},
+{
+"title": "How women’s rights affect fertility: Evidence from Nigeria",
+"authors": [
+"Raphaël Godefroy"
+],
+"year": 2019,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "Does male education affect fertility: Evidence from Mali",
+"authors": [
+"Raphaël Godefroy",
+"Joshua Lewis"
+],
+"year": 2018,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Parliament shapes and sizes",
+"authors": [
+"Raphaël Godefroy",
+"Nicolas Klein"
+],
+"year": 2018,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Voter turnout and fiscal policy",
+"authors": [
+"Raphaël Godefroy",
+"Emeric Henry"
+],
+"year": 2016,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Choosing choices: Agenda selection with uncertain issues",
+"authors": [
+"Raphaël Godefroy",
+"Eduardo Perez-Richet"
+],
+"year": 2013,
+"venue": "Econometrica",
+"status": "published"
+},
+{
+"title": "Les taxes sur les cigarettes sont-elles régressives?",
+"authors": [
+"Raphaël Godefroy"
+],
+"year": 2004,
+"venue": "Économie publique/Public Economics",
+"status": "published"
+},
+{
+"title": "The Long-Run Effects of Childhood Fostering: Evidence from Benin",
+"authors": [
+"Raphaël Godefroy",
+"Irene Dohouin",
+"Caleb Gbeholo",
+"Joshua Lewis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The impact of uncertainty on agriculture",
+"authors": [
+"Raphaël Godefroy",
+"Joshua Lewis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Effect of information acquisition on Research and Development in medicine",
+"authors": [
+"Raphaël Godefroy",
+"Samiratou Kora Chabi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"sean horan": {
+"name": "Sean Horan",
+"papers": [
+{
+"title": "When is Coarseness not a Curse? Comparative statics of the coarse random utility model",
+"authors": [
+"Sean Horan",
+"P. Manzini",
+"M. Mariotti"
+],
+"year": 2022,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Two-Stage Majoritarian Choice",
+"authors": [
+"Sean Horan",
+"Y. Sprumont"
+],
+"year": 2022,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Stochastic Semi-orders",
+"authors": [
+"Sean Horan"
+],
+"year": 2021,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Agendas in Legislative Decision-Making",
+"authors": [
+"Sean Horan"
+],
+"year": 2021,
+"venue": "Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Random Consideration and Choice: a case study of “default” options",
+"authors": [
+"Sean Horan"
+],
+"year": 2019,
+"venue": "Mathematical Social Sciences",
+"status": "published"
+},
+{
+"title": "Positively Responsive Collective Choice Rules: a generalization of May’s theorem to many alternatives",
+"authors": [
+"Sean Horan",
+"M. Osborne",
+"R. Sanver"
+],
+"year": 2019,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Welfare Criteria from Choice: an axiomatic analysis",
+"authors": [
+"Sean Horan",
+"Y. Sprumont"
+],
+"year": 2016,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "A Simple Model of Two-Stage Choice",
+"authors": [
+"Sean Horan"
+],
+"year": 2016,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Inferring Rationales from Choice: identification for rational shortlist methods",
+"authors": [
+"Sean Horan",
+"R. Dutta"
+],
+"year": 2015,
+"venue": "American Economic Journal: Microeconomics",
+"status": "published"
+}
+]
+},
+"marcelin joanis": {
+"name": "Marcelin Joanis",
+"papers": []
+},
+"nicolas klein": {
+"name": "Nicolas Klein",
+"papers": []
+},
+"max antoine lesellier": {
+"name": "Max Antoine Lesellier",
+"papers": [
+{
+"title": "Optimal choice of moments in quadratic-form specification tests",
+"authors": [
+"Max Antoine Lesellier",
+"Hippolyte Boucher",
+"Gökçe Gökkoça"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Optimal choice of instruments to estimate and test the distribution of Random coefficients in the BLP demand model",
+"authors": [
+"Max Antoine Lesellier",
+"Hippolyte Boucher",
+"Gökçe Gökkoça"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Smoothed inference for moment inequalities",
+"authors": [
+"Max Antoine Lesellier",
+"Christian Bontemps",
+"Rohit Kumar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sharp inference in static entry games with covariates",
+"authors": [
+"Max Antoine Lesellier",
+"Christian Bontemps",
+"Rohit Kumar"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identification and estimation of incentive contracts under asymetric information: an application to the French water sector",
+"authors": [
+"Max Antoine Lesellier",
+"Christian Bontemps",
+"David Martimort"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"joshua lewis": {
+"name": "Joshua Lewis",
+"papers": [
+{
+"title": "Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Akshaya Jha",
+"Edson Severnini"
+],
+"year": null,
+"venue": "Journal of Economic Perspectives",
+"status": "forthcoming"
+},
+{
+"title": "The Social Lifecycle Impacts of Power Plant Siting in the Historical United States",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Danae Hernandez-Cortes",
+"Akshaya Jha",
+"Noah Miller",
+"Edson Severnini"
+],
+"year": null,
+"venue": "Environmental and Energy Policy and the Economy",
+"status": "published"
+},
+{
+"title": "National Institutions and Self-Insurance.",
+"authors": [
+"Joshua Lewis",
+"Raphael Godefroy"
+],
+"year": 2025,
+"venue": "Economic Development & Cultural Change",
+"status": "published"
+},
+{
+"title": "The Historical Impact of Coal on Cities",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Edson Severnini"
+],
+"year": 2024,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "The Long-run Impacts of Adolescent Drinking: Evidence from Zero Tolerance Laws",
+"authors": [
+"Joshua Lewis",
+"Tatiana Abboud",
+"Andriana Bellou"
+],
+"year": 2024,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "The Value of Health Insurance during a Crisis: Effects of Medicaid Implementation on Pandemic Influenza Mortality.",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Edson Severnini",
+"Xiao Wang"
+],
+"year": 2024,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Canary in a Coal Mine: Infant Mortality Tradeoffs Associated with Mid-20th Century Air Pollution.",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Edson Severnini"
+],
+"year": 2024,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "Estimating Population Infection Rates from Non-Random Testing Data: Evidence from the COVID-19 Pandemic.",
+"authors": [
+"Joshua Lewis",
+"David Benatia",
+"Raphael Godefroy"
+],
+"year": 2024,
+"venue": "PLOS ONE",
+"status": "published"
+},
+{
+"title": "What Explains the Socioeconomic Status-Health Gradient? Evidence from Workplace COVID-19 Infections",
+"authors": [
+"Joshua Lewis",
+"Raphael Godefroy"
+],
+"year": 2022,
+"venue": "Social Science & Medicine - Population Health",
+"status": "published"
+},
+{
+"title": "Estimates of COVID-19 Cases Across Four Canadian Provinces.",
+"authors": [
+"Joshua Lewis",
+"David Benatia",
+"Raphael Godefroy"
+],
+"year": 2020,
+"venue": "Canadian Public Policy",
+"status": "published"
+},
+{
+"title": "Short- and Long-Run Impacts of Rural Electrification: Evidence from the Historical Rollout of the U.S. Power Grid.",
+"authors": [
+"Joshua Lewis",
+"Edson Severnini"
+],
+"year": 2020,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "What Explains Cross-City Variation in Mortality during the 1918 Influenza Pandemic? Evidence from 440 U.S. Cities.",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Edson Severnini"
+],
+"year": 2019,
+"venue": "Economics and Human Biology",
+"status": "published"
+},
+{
+"title": "Pollution, Infectious Disease, and Mortality: Evidence from the 1918 Spanish Influenza Pandemic.",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Edson Severnini"
+],
+"year": 2018,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Does Male Education Affect Fertility? Evidence from Mali.",
+"authors": [
+"Joshua Lewis",
+"Raphael Godefroy"
+],
+"year": 2018,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Infant Health, Women’s Fertility, and Rural Electrification in the United States, 1930-1960.",
+"authors": [
+"Joshua Lewis"
+],
+"year": 2018,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "The Impact of Technological Change within the Home.",
+"authors": [
+"Joshua Lewis"
+],
+"year": 2015,
+"venue": "Journal of Economic History",
+"status": "published"
+},
+{
+"title": "Impacts of the Clean Air Act on the Power Sector from 1938-1994: Anticipation and Adaptation",
+"authors": [
+"Joshua Lewis",
+"Karen Clay",
+"Akshaya Jha",
+"Edson Severnini"
+],
+"year": null,
+"venue": "NBER Working Paper",
+"status": "working_paper"
+},
+{
+"title": "From Bust to Boom: The Great Depression and Women’s Fertility",
+"authors": [
+"Joshua Lewis",
+"Emanuela Cardia",
+"Andriana Bellou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Long-run Impacts of Childhood Fostering: Evidence from Benin",
+"authors": [
+"Joshua Lewis",
+"Irène Dohouin",
+"Caleb Gbeholo",
+"Raphael Godefroy"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Powering Women’s Liberation: Intergenerational Effects of Household Electrification.",
+"authors": [
+"Joshua Lewis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"mathieu marcoux": {
+"name": "Mathieu Marcoux",
+"papers": [
+{
+"title": "Imposing Equilibrium Restrictions in the Estimation of Dynamic Discrete Games",
+"authors": [
+"Mathieu Marcoux",
+"Victor Aguirregabiria"
+],
+"year": 2021,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Strategic Interactions in Mobile Network Investment with a New Entrant and Unobserved Heterogeneity",
+"authors": [
+"Mathieu Marcoux"
+],
+"year": 2022,
+"venue": "International Journal of Industrial Organization",
+"status": "published"
+},
+{
+"title": "A Simple Specification Test for Models with Many Conditional Moment Inequalities",
+"authors": [
+"Mathieu Marcoux",
+"Thomas Russell",
+"Yuanyuan Wan"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Sharp Test for Equilibrium Uniqueness in Discrete Games with Private Information and Common Knowledge Unobserved Heterogeneity",
+"authors": [
+"Mathieu Marcoux"
+],
+"year": 2024,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Estimating Complementarity With Large Choice Sets: An Application to Mergers",
+"authors": [
+"Mathieu Marcoux",
+"Daniel Ershov",
+"Jean-William Laliberté",
+"Scott Orr"
+],
+"year": 2025,
+"venue": "RAND Journal of Economics",
+"status": "published"
+}
+]
+},
+"luca mazzone": {
+"name": "Luca Mazzone",
+"papers": [
+{
+"title": "Go Big or Buy a Home: Impact of Student Debt on Career and Housing Choices",
+"authors": [
+"Luca Mazzone",
+"M. Folch"
+],
+"year": 2026,
+"venue": "Review of Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Fiscal consolidation: Taking stock of success factors, impact, and design",
+"authors": [
+"Luca Mazzone",
+"V. Balasundharam",
+"O. Basdevant",
+"D. Benicio",
+"A. Ceber",
+"Y. Kim",
+"H. Selim",
+"Y. Yang"
+],
+"year": 2026,
+"venue": "Journal of Economic Surveys",
+"status": "published"
+},
+{
+"title": "Human Capital Ladders, Cyclical Sorting, and Hysteresis",
+"authors": [
+"Luca Mazzone",
+"E. Acabbi",
+"A. Alati"
+],
+"year": 2024,
+"venue": "American Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "On the Solution of High-Dimensional Macro Models with Distributional Channels",
+"authors": [
+"Luca Mazzone"
+],
+"year": 2019,
+"venue": "Computational Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Parental Health, Aging, and the Labor Supply of Young Workers",
+"authors": [
+"Luca Mazzone",
+"S. Casella"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sorting into Entrepreneurial Teams",
+"authors": [
+"Luca Mazzone",
+"E. Acabbi",
+"A. Alati",
+"M. Morazzoni"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"william j mccausland": {
+"name": "William J. McCausland",
+"papers": [
+{
+"title": "On the Multiplicative Inequality",
+"authors": [
+"William J. McCausland",
+"A. A. J. Marley"
+],
+"year": 2024,
+"venue": "Journal of Mathematical Psychology",
+"status": "published"
+},
+{
+"title": "An Illustrated Guide to Context Effects",
+"authors": [
+"William J. McCausland",
+"Clintin Davis-Stober",
+"A. A. J. Marley",
+"Brandon Turner"
+],
+"year": 2023,
+"venue": "Journal of Mathematical Psychology",
+"status": "published"
+},
+{
+"title": "Multivariate stochastic volatility using the HESSIAN method",
+"authors": [
+"William J. McCausland",
+"Shirley Miller",
+"Denis Pelletier"
+],
+"year": 2021,
+"venue": "Econometrics and Statistics",
+"status": "published"
+},
+{
+"title": "Testing the random utility hypothesis directly",
+"authors": [
+"William J. McCausland",
+"Clintin Davis-Stober",
+"A. A. J. Marley",
+"Sanghyuk Park",
+"Nicholas Brown"
+],
+"year": 2020,
+"venue": "Economic Journal",
+"status": "published"
+},
+{
+"title": "The HESSIAN method for models with leverage-like effects",
+"authors": [
+"William J. McCausland",
+"Gbowan B. Djegnéné"
+],
+"year": 2015,
+"venue": "Journal of Financial Econometrics",
+"status": "published"
+},
+{
+"title": "Bayesian inference and model comparison for random choice structures",
+"authors": [
+"William J. McCausland",
+"A.A.J. Marley"
+],
+"year": 2014,
+"venue": "Journal of Mathematical Psychology",
+"status": "published"
+},
+{
+"title": "Prior Distributions for Random Choice Structures",
+"authors": [
+"William J. McCausland",
+"A.A.J. Marley"
+],
+"year": 2013,
+"venue": "Journal of Mathematical Psychology",
+"status": "published"
+},
+{
+"title": "The HESSIAN Method (Highly Efficient State Smoothing, In A Nutshell)",
+"authors": [
+"William J. McCausland"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Simulation smoothing for state-space models: A computational efficiency analysis",
+"authors": [
+"William J. McCausland",
+"Shirley Miller",
+"Denis Pelletier"
+],
+"year": 2011,
+"venue": "Computational Statistics and Data Analysis",
+"status": "published"
+},
+{
+"title": "Time Reversibility of Stationary Regular Finite State Markov Chains",
+"authors": [
+"William J. McCausland"
+],
+"year": 2007,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Using the BACC Software for Bayesian Inference",
+"authors": [
+"William J. McCausland"
+],
+"year": 2004,
+"venue": "Computational Economics",
+"status": "published"
+},
+{
+"title": "Bayesian Specification Analysis in Econometrics",
+"authors": [
+"William J. McCausland",
+"John Geweke"
+],
+"year": 2001,
+"venue": "American Journal of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "Random Consumer Demand",
+"authors": [
+"William J. McCausland"
+],
+"year": 2009,
+"venue": "Economica",
+"status": "published"
+},
+{
+"title": "On Bayesian Analysis and Computation for Functions with Monotonicity and Curvature Restrictions",
+"authors": [
+"William J. McCausland"
+],
+"year": 2008,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "A Flexible Stochastic Conditional Duration Model",
+"authors": [
+"William J. McCausland",
+"Samuel Gingras"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A population choice experiment for testing axioms of stochastic discrete choice",
+"authors": [
+"William J. McCausland",
+"Tony Marley",
+"Clint Davis-Stober"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Joint Sampling of States and Parameters in State Space Models",
+"authors": [
+"William J. McCausland",
+"Samual Gingras"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Sequential Monte Carlo for testing random preference",
+"authors": [
+"William J. McCausland"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dynamic factor models with stochastic volatility",
+"authors": [
+"William J. McCausland"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Ghost in the Machine: Inferring Machine-Based Strategies from Observed Behavior",
+"authors": [
+"William J. McCausland",
+"Jim Engle-Warnick",
+"John Miller"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"hyejin park": {
+"name": "Hyejin Park",
+"papers": [
+{
+"title": "Non-Competes, Worker Mobility, and Productivity Growth: Theory and Evidence",
+"authors": [
+"Hyejin Park"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Declines in Labor Market Fluidity Cause Productivity Slowdown?",
+"authors": [
+"Hyejin Park"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Heterogeneous Effects of Capital-Embodied Innovation on Labor Market",
+"authors": [
+"Hyejin Park",
+"Younghun Shim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does Growth Lead to Labor Reallocation?",
+"authors": [
+"Hyejin Park"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"benoit perron": {
+"name": "Benoit Perron",
+"papers": [
+{
+"title": "Bootstrapping with AI/ML Labels",
+"authors": [
+"Benoit Perron",
+"Tim Christensen",
+"Silvia Gonçalves"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bootstrap Inference for Group Factor Models",
+"authors": [
+"Benoit Perron",
+"Silvia Goncalves",
+"Julia Koh"
+],
+"year": 2025,
+"venue": "Journal of Financial Econometrics",
+"status": "published"
+},
+{
+"title": "Bootstrap inference under cross sectional dependence",
+"authors": [
+"Benoit Perron",
+"Tim Conley",
+"Silvia Gonçalves",
+"Min Seong Kim"
+],
+"year": 2023,
+"venue": "Quantitative Economics",
+"status": "published"
+},
+{
+"title": "Bootstrapping Factor Models with Cross-sectional Dependence",
+"authors": [
+"Benoit Perron",
+"Silvia Gonçalves"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "The Scale of Predictability",
+"authors": [
+"Benoit Perron",
+"Federico Bandi",
+"Andrea Tamoni",
+"Claudio Tebaldi"
+],
+"year": 2019,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Tests of Equal Accuracy for Nested Models with Estimated Factors",
+"authors": [
+"Benoit Perron",
+"Silvia Gonçalves",
+"Michael McCracken"
+],
+"year": 2017,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Bootstrap prediction intervals for factor models",
+"authors": [
+"Benoit Perron",
+"Silvia Gonçalves",
+"Antoine Djogbenou"
+],
+"year": 2017,
+"venue": "Journal of Business and Economic Statistics",
+"status": "published"
+},
+{
+"title": "Bootstrap inference in regressions with estimated factors and serial correlation",
+"authors": [
+"Benoit Perron",
+"Antoine Djogbenou",
+"Silvia Gonçalves"
+],
+"year": 2015,
+"venue": "Journal of Time Series Analysis",
+"status": "published"
+},
+{
+"title": "Bootstrapping factor-augmented regression models",
+"authors": [
+"Benoit Perron",
+"Silvia Gonçalves"
+],
+"year": 2014,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Point Optimal Panel Unit Root Tests with Serially Correlated Errors",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon",
+"Peter C.B. Phillips"
+],
+"year": null,
+"venue": "Econometrics Journal",
+"status": "forthcoming"
+},
+{
+"title": "Beyond Panel Unit Root Tests: Using Multiple Testing to Determine the Nonstationarity Properties of Individual Series in a Panel",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Peter C.B. Phillips’ Contributions to Panel Data Methods",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2014,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Long-run Risk-Return Trade-offs",
+"authors": [
+"Benoit Perron",
+"Federico Bandi"
+],
+"year": 2008,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Asymptotic Local Power of pooled t-ratio Tests for Unit Roots in Panels with Fixed Effects",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2008,
+"venue": "Econometrics Journal",
+"status": "published"
+},
+{
+"title": "Incidental Trends and the Power of Panel Unit Root Tests",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon",
+"Peter C.B. Phillips"
+],
+"year": 2007,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Long Memory and the Relation Between Implied and Realized Volatility",
+"authors": [
+"Benoit Perron",
+"Federico Bandi"
+],
+"year": 2006,
+"venue": "Journal of Financial Econometrics",
+"status": "published"
+},
+{
+"title": "An Empirical Analysis of Nonstationarity in a Panel of Interest Rates with Factors",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2007,
+"venue": "Journal of Applied Econometrics",
+"status": "published"
+},
+{
+"title": "On the Breitung Test for Panel Unit Roots and Local Asymptotic Power",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon",
+"Peter C.B. Phillips"
+],
+"year": 2006,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Efficient Estimation of the SUR Cointegration Regression Model and Testing for Purchasing Power Parity",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2005,
+"venue": "Econometric Reviews",
+"status": "published"
+},
+{
+"title": "Détection nonparamétrique des sauts dans la volatilité des marchés financiers",
+"authors": [
+"Benoit Perron"
+],
+"year": 2004,
+"venue": "L'Actualité économique",
+"status": "published"
+},
+{
+"title": "Testing for A Unit Root in Panels with Dynamic Factors",
+"authors": [
+"Benoit Perron",
+"Hyungsik Roger Moon"
+],
+"year": 2004,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Semi-parametric Weak Instrument Regressions with an Application to the Risk-Return Tradeoff",
+"authors": [
+"Benoit Perron"
+],
+"year": 2003,
+"venue": "Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "The Shape of the Risk Premium: Evidence from a Semiparametric GARCH Model",
+"authors": [
+"Benoit Perron",
+"Oliver Linton"
+],
+"year": 2003,
+"venue": "Journal of Business and Economic Statistics",
+"status": "published"
+}
+]
+},
+"laetitia renee": {
+"name": "Laëtitia Renée",
+"papers": [
+{
+"title": "The Impact of After-School Care on Maternal Labor Market Outcomes",
+"authors": [
+"Laëtitia Renée",
+"Ailin He",
+"Nagham Sayour"
+],
+"year": null,
+"venue": "Canadian Journal of Economics",
+"status": "forthcoming"
+},
+{
+"title": "The Long-Term Effects of Career Guidance in High School and Student Financial Aid: Evidence from a Randomized Experiment",
+"authors": [
+"Laëtitia Renée"
+],
+"year": 2025,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published"
+},
+{
+"title": "Conditional cash transfers and women’s reproductive choices",
+"authors": [
+"Laëtitia Renée",
+"Sonia Laszlo",
+"Farhan Majid"
+],
+"year": 2024,
+"venue": "Health Economics",
+"status": "published"
+},
+{
+"title": "How to Measure Parenting Styles?",
+"authors": [
+"Laëtitia Renée",
+"Christopher Rauh"
+],
+"year": 2023,
+"venue": "Review of Economics of the Household",
+"status": "published"
+},
+{
+"title": "Can Paternity Leave Reduce the Gender Earnings Gap?",
+"authors": [
+"Laëtitia Renée",
+"Yaya Diallo",
+"Fabian Lange"
+],
+"year": null,
+"venue": "Journal of Labor Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Successful Replication of The Long-Run Effects of Sports Club Vouchers for Primary School Children",
+"authors": [
+"Laëtitia Renée",
+"Felix Bacon",
+"Abdel-Hamid Bello",
+"Myriam Brown",
+"Todd Morris"
+],
+"year": 2023,
+"venue": "Institute for Replication Discussion Paper Series",
+"status": "working_paper"
+},
+{
+"title": "The income gradient in college enrolment and graduation",
+"authors": [
+"Laëtitia Renée"
+],
+"year": 2022,
+"venue": "FutureSkills Research Lab",
+"status": "working_paper"
+},
+{
+"title": "The relative role of parental income and parental education in child educational achievement and socioeconomic status attainment: A decomposition approach.",
+"authors": [
+"Laëtitia Renée",
+"Xavier St-Denis"
+],
+"year": 2022,
+"venue": "FutureSkills Research Lab",
+"status": "working_paper"
+}
+]
+},
+"guillaume sublet": {
+"name": "Guillaume Sublet",
+"papers": [
+{
+"title": "The Optimal Degree of Flexibility in Policy Rules",
+"authors": [
+"Guillaume Sublet"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "revise_resubmit"
+},
+{
+"title": "The Optimal Allocation of Policy-Making Between Executive Agencies and the Legislature",
+"authors": [
+"Guillaume Sublet",
+"Alessandro Dovis",
+"Rishabh Kirpalani"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "The Optimal Degree of Flexibility in Fiscal Policy: A Quantitative Exploration",
+"authors": [
+"Guillaume Sublet"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Rate Caps on Revolving Credit Lines",
+"authors": [
+"Guillaume Sublet",
+"Gajendran Raveendranathan",
+"Georgios Stefanidis"
+],
+"year": 2026,
+"venue": "Journal of Political Economy Macroeconomics",
+"status": "published"
+},
+{
+"title": "Information Design and Capital Formation",
+"authors": [
+"Guillaume Sublet",
+"Andrés Carvajal",
+"Marzena Rostek"
+],
+"year": 2018,
+"venue": "Journal of Economic Theory",
+"status": "published"
+}
+]
+}
+}

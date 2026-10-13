@@ -7,20 +7,20 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Applied Econometrics; Labor Economics",
+  "fields_raw": "Statistical models for linked employer-employee data, duration models, returns to human capital, matching model of the labor market, applied econometrics, firm performance, turnover; Past positions: 2015-2025 Academic director, QICSS; 2020-2022 Director, Department of Applied Economics, HEC Montreal; 2011-2014 Director Institute of Applied",
   "fields_std": [
    "Labor Economics",
    "Econometrics"
   ],
-  "phd_institution": "Cornell",
-  "phd_year": null,
-  "phd_field": "economics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "Cornell University",
+  "phd_year": 2001,
+  "phd_field": "Economics",
+  "ma_institution": "Université Laval",
+  "ma_year": 1996,
+  "ma_field": "Economics",
+  "ba_institution": "Université Laval",
+  "ba_year": 1994,
+  "ba_field": "Mathematical Economics",
   "education_raw": "Ph.D.(economics), Cornell",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/benoit-dostie",
@@ -33,10 +33,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Academic director, Quebec Inter-University Center for Social Statistics (QICSS), 2015-2025; Director, Department of Applied Economics, HEC Montreal, 2020-2022",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "benoit-dostie"
  },
  {
@@ -47,9 +47,8 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Public Finances; Development Economics; Public Policy Analysis; Governance and corruption; Public expenditure tracking",
+  "fields_raw": "Expertise; Public Finances; Development Economics",
   "fields_std": [
-   "Corporate Finance",
    "Public Economics",
    "Development Economics"
   ],
@@ -73,11 +72,11 @@
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Post Doctoral Fellow (Political Economy), Washington University in St. Louis",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "bernard-gauthier"
  },
  {
@@ -88,16 +87,17 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Political Economy; Procurement; Labor",
+  "fields_raw": "Expertise; Political Economy; Procurement",
   "fields_std": [
-   "Political Economy"
+   "Political Economy",
+   "Industrial Organization"
   ],
   "phd_institution": "European University Institute",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "Master of Advanced Studies in Economics, Universitat Pompeu Fabra | Master (Economics and Finance), University of Naples Federico II",
+  "ma_institution": "University of Naples Federico II",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics and Finance",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -116,7 +116,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "decio-coviello"
  },
  {
@@ -127,9 +127,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Macroeconomics; Open Economy Macroeconomics; International Finance",
+  "fields_raw": "Expertise; Macroeconomics; Open Economy Macroeconomics",
   "fields_std": [
-   "Macroeconomics"
+   "Macroeconomics",
+   "International Finance"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -155,7 +156,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hafedh-bouakez"
  },
  {
@@ -166,12 +167,13 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Distributive justice; Cost sharing",
+  "fields_raw": "Distributive Justice, Environmental Issues, Cost Sharing",
   "fields_std": [
-   "Other"
+   "Public Economics",
+   "Environmental & Energy Economics"
   ],
   "phd_institution": "Rice University",
-  "phd_year": null,
+  "phd_year": 2005,
   "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
@@ -185,16 +187,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2005,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Assistant Professor, Department of Applied Economics, HEC Montreal (2005-2010)",
+  "prior_positions": "Associate Professor, HEC Montreal, 2010 (end not stated); Visiting, Economics Department, University of Texas at Austin, 2011-2012; Visiting, Economics Department, University of Berne, 2012; Visiting, Center for Health and Wellbeing, Princeton University, 2018-2019",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "justin-leroux"
  },
  {
@@ -205,20 +207,21 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "International Macroeconomics; Macroeconomics and International Trade",
+  "fields_raw": "Expertise; International Macroeconomics; Macroeconomics and International Trade",
   "fields_std": [
-   "International Trade",
-   "Macroeconomics"
+   "Macroeconomics",
+   "International Finance",
+   "International Trade"
   ],
   "phd_institution": "Boston College",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), Boston College",
+  "ma_institution": "Boston College",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A. (Economics), Bocconi University",
+  "ma_field": "Economics",
+  "ba_institution": "Bocconi University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": "Ph.D. (Economics), Boston College ; M.A. (Economics), Boston College ; B.A. (Economics), Bocconi University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/matteo-cacciatore",
@@ -234,7 +237,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "matteo-cacciatore"
  },
  {
@@ -245,10 +248,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Industrial Organization; Auction Theory; Political Economics",
+  "fields_raw": "Expertise; Industrial Organization; Auction Theory",
   "fields_std": [
    "Industrial Organization",
-   "Political Economy"
+   "Microeconomic Theory"
   ],
   "phd_institution": "University of Pennsylvania",
   "phd_year": null,
@@ -274,7 +277,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nicolas-sahuguet"
  },
  {
@@ -285,21 +288,20 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Department of Applied Economics",
-  "fields_raw": "Macroeconomics; Monetary Economics; Investment Decisions of Firms; Finance",
+  "fields_raw": "Expertise; Macroeconomics; Monetary Economics",
   "fields_std": [
-   "Asset Pricing",
    "Macroeconomics",
    "Monetary Economics"
   ],
   "phd_institution": "Northwestern University",
-  "phd_year": null,
+  "phd_year": 2007,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), Queen’s University",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A.A., HEC Montréal",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Queen's University",
+  "ma_year": 2000,
+  "ma_field": "Economics",
+  "ba_institution": "HEC Montréal",
+  "ba_year": 1999,
+  "ba_field": "Applied Economics (B.Com.)",
   "education_raw": "B.A.A., HEC Montréal ; M.A. (Economics), Queen’s University ; Ph. D. (Economics), Northwestern University",
   "homepage_url": "https://www.hec.ca/en/profs/nicolas-vincent",
   "profile_url": "https://www.hec.ca/en/profs/nicolas-vincent",
@@ -315,7 +317,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (2026 top-5 author check)",
+  "detail_source": "cv",
   "id": "nicolas-vincent"
  },
  {
@@ -326,17 +328,17 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Health Economics; Insurance and Savings Economics; Applied Econometrics",
+  "fields_raw": "Expertise; Health Economics; Insurance and Savings Economics",
   "fields_std": [
    "Health Economics",
-   "Econometrics"
+   "Financial Economics"
   ],
   "phd_institution": "CentER, Tilburg University",
-  "phd_year": null,
-  "phd_field": "sciences économiques",
-  "ma_institution": "M.Sc. (économie appliquée), HEC Montréal",
-  "ma_year": null,
-  "ma_field": null,
+  "phd_year": 2005,
+  "phd_field": "Economics",
+  "ma_institution": "HEC Montréal",
+  "ma_year": 2001,
+  "ma_field": "Applied Economics",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -350,12 +352,12 @@
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
+  "phd_advisors": "Arthur van Soest; Jan van Ours",
   "first_job_after_phd": null,
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "pierre-carl-michaud"
  },
  {
@@ -366,10 +368,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Real estate price dynamics in cities; Credit and banking networks; Climate change, transition and physical risk",
+  "fields_raw": "Expertise; Real estate price dynamics in cities; Credit and banking networks",
   "fields_std": [
-   "Banking & Financial Intermediation",
-   "Real Estate"
+   "Real Estate",
+   "Urban & Regional Economics",
+   "Banking & Financial Intermediation"
   ],
   "phd_institution": "École des Hautes Études en Sciences Sociales",
   "phd_year": null,
@@ -395,7 +398,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "amine-ouazad"
  },
  {
@@ -406,21 +409,19 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Applied Econometrics; Theoretical Econometrics; Energy economics; Environmental economics; Industrial organization",
+  "fields_raw": "Expertise; Applied Econometrics; Theoretical Econometrics",
   "fields_std": [
-   "Industrial Organization",
-   "Environmental & Energy Economics",
    "Econometrics"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "Master 2 (Economics of Environment), Toulouse School of Economics",
+  "ma_institution": "Toulouse School of Economics",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Bachelor of Science (Economics), Toulouse School of Economics",
+  "ma_field": "Economics of Environment",
+  "ba_institution": "Toulouse School of Economics",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": "Ph.D. (Economics), Université de Montréal ; Master 2 (Economics of Environment), Toulouse School of Economics ; M. Sc. (Economics), Toulouse School of Economics ; Bachelor of Science (Economics), Toulouse School of Economics",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/david-benatia",
@@ -436,7 +437,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "david-benatia"
  },
  {
@@ -447,10 +448,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Macroeconomics; International Macroeconomics and Finance; Monetary Economics",
+  "fields_raw": "Expertise; Macroeconomics; International Macroeconomics and Finance",
   "fields_std": [
    "Macroeconomics",
-   "Monetary Economics"
+   "International Finance"
   ],
   "phd_institution": "Boston College",
   "phd_year": null,
@@ -476,7 +477,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "giacomo-candian"
  },
  {
@@ -487,17 +488,17 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Energy and environmental economics; International trade economics",
+  "fields_raw": "Expertise; Energy and environmental economics; International trade economics",
   "fields_std": [
-   "International Trade",
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "International Trade"
   ],
   "phd_institution": "ETH Zürich (Swiss Federal Institute of Technology)",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.Sc. (Economics), University of Lausanne (HEC Lausanne)",
+  "ma_institution": "University of Lausanne (HEC Lausanne)",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -516,7 +517,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "justin-caron"
  },
  {
@@ -527,18 +528,17 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Empirical Industrial Organization; Energy and Environmental Economics; Applied Econometrics",
+  "fields_raw": "Expertise; Empirical Industrial Organization; Energy and Environmental Economics",
   "fields_std": [
    "Industrial Organization",
-   "Environmental & Energy Economics",
-   "Econometrics"
+   "Environmental & Energy Economics"
   ],
   "phd_institution": "University of Arizona",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), Centro de Investigacion y Docencia Economicas | M.A. (Economics), University of Arizona",
+  "ma_institution": "University of Arizona",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -557,7 +557,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mario-samano"
  },
  {
@@ -568,7 +568,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Macroeconomics; Monetary economics; Fiscal policy",
+  "fields_raw": "Expertise; Macroeconomics; Monetary economics",
   "fields_std": [
    "Macroeconomics",
    "Monetary Economics"
@@ -597,7 +597,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nora-traum"
  },
  {
@@ -636,7 +636,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "emilien-gouin-bonenfant"
  },
  {
@@ -647,14 +647,13 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Political economy; Applied microeconomics",
+  "fields_raw": "Expertise; Political economy; Applied microeconomics",
   "fields_std": [
-   "Microeconomic Theory",
    "Political Economy"
   ],
   "phd_institution": "University of California, Berkeley",
-  "phd_year": null,
-  "phd_field": "économie",
+  "phd_year": 2020,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -676,7 +675,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "caroline-le-pennec"
  },
  {
@@ -687,7 +686,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Political Economy",
+  "fields_raw": "Expertise; Political Economy; Fall 2026",
   "fields_std": [
    "Political Economy"
   ],
@@ -715,7 +714,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "eric-avis"
  },
  {
@@ -726,10 +725,9 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Personnel Economics; Labor Economics; Development Economics",
+  "fields_raw": "Expertise; Personnel Economics; Labor Economics",
   "fields_std": [
-   "Labor Economics",
-   "Development Economics"
+   "Labor Economics"
   ],
   "phd_institution": "Boston College",
   "phd_year": null,
@@ -755,7 +753,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-gauthier"
  },
  {
@@ -766,7 +764,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Macroeconomics; Economic growth; Productivity; Firm dynamics",
+  "fields_raw": "Expertise; Macroeconomics; Economic growth",
   "fields_std": [
    "Macroeconomics"
   ],
@@ -794,7 +792,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-felix-brouillette"
  },
  {
@@ -812,12 +810,12 @@
   "phd_institution": "University of California, Berkeley",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), Central European University",
+  "ma_institution": "Central European University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A. (Economics), Corvinus University of Budapest",
+  "ma_field": "Economics",
+  "ba_institution": "Corvinus University of Budapest",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": "Ph.D. (Economics), University of California, Berkeley ; M.A. (Economics), Central European University ; B.A. (Economics), Corvinus University of Budapest",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/katalin-springel",
@@ -833,7 +831,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "katalin-springel"
  },
  {
@@ -872,7 +870,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "andree-lafortune"
  },
  {
@@ -883,16 +881,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Auditing and Accountability",
+  "fields_raw": "Expertise; Auditing and Accountability; Current research",
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Public Policy"
   ],
-  "phd_institution": "Abo Akademi University",
+  "phd_institution": "Åbo Akademi University",
   "phd_year": null,
   "phd_field": "Accounting",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
+  "ma_institution": "Khabarovsk State Academy of Economics and Law",
+  "ma_year": 2001,
+  "ma_field": "International Accounting and Auditing",
   "ba_institution": "BA (Econ & Law)/M. Sc. (Accounting and Auditing), Khabarovsk State University of Economics and Law",
   "ba_year": null,
   "ba_field": null,
@@ -902,16 +901,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2020,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, University of Manchester (2006 - 2016)",
+  "prior_positions": "Assistant Professor, University of Manchester, 2006-2016; Associate Professor, University of Manchester, 2016-2018; Professor, Alliance Manchester Business School, University of Manchester, 2006-2019; Instructor, Åbo Akademi University, 2002-2005",
+  "year_current_rank": 2020,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "anna-samsonova-taddei"
  },
  {
@@ -922,7 +921,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Accounting profession; Management control; Gender studies",
+  "fields_raw": "Expertise; Accounting profession; Management control",
   "fields_std": [
    "Accounting"
   ],
@@ -950,7 +949,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "caroline-lambert"
  },
  {
@@ -961,9 +960,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management Accounting; Performance Evaluation; Corporate Governance; Management of State-Owned Enterprises and Privatization; Financial Statement Analysis",
+  "fields_raw": "Expertise; Management Accounting; Performance Evaluation",
   "fields_std": [
-   "Corporate Finance"
+   "Accounting"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
@@ -989,7 +988,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "claude-laurin"
  },
  {
@@ -1000,11 +999,11 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management accounting; Performance measurement; Corporate governance; Executive compensation",
+  "fields_raw": "Expertise; Management accounting; Performance measurement",
   "fields_std": [
-   "Corporate Finance"
+   "Accounting"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Montréal",
   "phd_year": null,
   "phd_field": "Canada",
   "ma_institution": null,
@@ -1028,7 +1027,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "eduardo-schiehll"
  },
  {
@@ -1039,9 +1038,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate governance; Financial accounting; Management accounting; Performance measures; Investment decisions",
+  "fields_raw": "Expertise; Corporate governance; Financial accounting",
   "fields_std": [
-   "Asset Pricing",
+   "Accounting",
    "Corporate Finance"
   ],
   "phd_institution": "HEC Montréal",
@@ -1068,7 +1067,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jackie-di-vito"
  },
  {
@@ -1079,10 +1078,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "International Taxation (transfer pricing); Ethics in Taxation; Taxation Research Methodology",
+  "fields_raw": "Expertise; International Taxation (transfer pricing); Ethics in Taxation",
   "fields_std": [
-   "Public Economics",
-   "Business Ethics & Society"
+   "Accounting",
+   "Public Economics"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -1108,7 +1107,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-pierre-vidal"
  },
  {
@@ -1119,9 +1118,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Accounting Management in Cultural Organizations; Management Accounting (Behaviourist Aspects); Financial Accounting; Careers of Accountants",
+  "fields_raw": "Expertise; Accounting Management in Cultural Organizations; Management Accounting (Behaviourist Aspects)",
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Organizational Behavior"
   ],
   "phd_institution": "Warwick, Angleterre",
   "phd_year": null,
@@ -1147,7 +1147,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "johanne-turbide"
  },
  {
@@ -1158,8 +1158,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate governance; Fraud; Business valuation; Initial public offerings; Mergers and acquisitions",
+  "fields_raw": "Expertise; Corporate governance; Fraud",
   "fields_std": [
+   "Accounting",
    "Corporate Finance"
   ],
   "phd_institution": "Université Paris 1 Panthéon-Sorbonne",
@@ -1186,7 +1187,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "julien-le-maux"
  },
  {
@@ -1197,16 +1198,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Financial Accounting; Auditing; Accounting regulation",
+  "fields_raw": "Research professorship for the development of the Accounting expertise; Member of the Ordre des Administrateurs Agréés du Québec; Education",
   "fields_std": [
    "Accounting"
   ],
   "phd_institution": "University of Paris 1 Panthéon-Sorbonne",
   "phd_year": null,
-  "phd_field": "Accounting",
-  "ma_institution": "MSc (Accounting, Management and Audit), University of Paris-Dauphine",
+  "phd_field": "Administration (Accounting)",
+  "ma_institution": "University of Paris-Dauphine",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Accounting, Management and Audit",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1225,7 +1226,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mouna-hazgui"
  },
  {
@@ -1236,9 +1237,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management accounting and performance management; Social and environmental accounting; Governance; Public management and non-profit organizations; Business and society",
+  "fields_raw": "Expertise; Management accounting and performance management; Social and environmental accounting",
   "fields_std": [
-   "Corporate Finance"
+   "Accounting"
   ],
   "phd_institution": "Université Paris-Dauphine",
   "phd_year": null,
@@ -1264,7 +1265,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "samuel-sponem"
  },
  {
@@ -1275,9 +1276,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Assurance and Audit; Digital Transformation; Governance, Risk and Compliance; Financial Reporting",
+  "fields_raw": "Expertise; Assurance and Audit; Digital Transformation",
   "fields_std": [
-   "Corporate Finance"
+   "Accounting",
+   "Information Systems"
   ],
   "phd_institution": "Université Laval",
   "phd_year": null,
@@ -1303,7 +1305,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "simon-dermarkar"
  },
  {
@@ -1314,10 +1316,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management accounting; Management control systems; Energy efficiency management; Sustainable development",
+  "fields_raw": "Expertise; Management accounting; Management control systems",
   "fields_std": [
-   "Environmental & Energy Economics",
-   "Business Ethics & Society"
+   "Accounting"
   ],
   "phd_institution": "University of Lancaster",
   "phd_year": null,
@@ -1343,7 +1344,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sophie-tessier"
  },
  {
@@ -1354,9 +1355,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate taxation and reorganisations; Taxation of the owner-shareholder/family business; Tax aspects of compensation; Governance",
+  "fields_raw": "Expertise; Corporate taxation and reorganisations; Taxation of the owner-shareholder/family business",
   "fields_std": [
-   "Corporate Finance",
+   "Accounting",
    "Public Economics"
   ],
   "phd_institution": "University of Florida",
@@ -1383,7 +1384,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "suzanne-landry"
  },
  {
@@ -1394,9 +1395,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Financial Accounting; Managerial Accounting; Corporate Governance; Performance Measurements; Privatizations",
+  "fields_raw": "Expertise; Financial Accounting; Managerial Accounting",
   "fields_std": [
-   "Corporate Finance"
+   "Accounting"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -1422,7 +1423,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yves-bozec"
  },
  {
@@ -1433,35 +1434,35 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Quality of financial and environmental audits, gender, ethnicity, accounting regulations, and financial reporting quality; Teaching Interests: Financial Accounting, Financial Statement Analysis, Accounting Theory, Managerial Accounting",
   "fields_std": [
    "Accounting"
   ],
   "phd_institution": "University of California, Berkeley",
-  "phd_year": null,
+  "phd_year": 2007,
   "phd_field": "Accounting",
-  "ma_institution": "MBA, Washington University",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Washington University, Saint Louis",
+  "ma_year": 1997,
+  "ma_field": "MBA",
+  "ba_institution": "Tel-Aviv University",
+  "ba_year": 1988,
+  "ba_field": "Accounting and Economics",
   "education_raw": "Ph. D. (Accounting), University of California, Berkeley ; MBA, Washington University ; B. A. (Accounting and Economics), Tel-Aviv University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/zvi-singer",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2016,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, McGill University, Desautels Faculty of Management (2007-2016)",
+  "prior_positions": "Visiting Associate Professor, HEC Montreal, 2016-2018; Associate Professor, HEC Montreal, 2018-2024",
+  "year_current_rank": 2024,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "zvi-singer"
  },
  {
@@ -1479,12 +1480,12 @@
   "phd_institution": "HEC Montréal",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": "Master of Finance, Queen’s University",
+  "ma_institution": "Queen’s University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Bachelor of Commerce, McGill University",
+  "ma_field": "Finance",
+  "ba_institution": "McGill University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Commerce",
   "education_raw": "PHD, HEC Montréal ; Master of Finance, Queen’s University ; Bachelor of Commerce, McGill University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/johnathon-cziffra",
@@ -1500,7 +1501,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "johnathon-cziffra"
  },
  {
@@ -1539,7 +1540,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "kim-trottier"
  },
  {
@@ -1550,19 +1551,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "B.B.A. – Specialization: Public Accountancy; Current research; Accounting profession",
   "fields_std": [
    "Accounting"
   ],
   "phd_institution": "Queen’s University",
   "phd_year": null,
-  "phd_field": "Accounting",
+  "phd_field": "Management (Accounting)",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
   "ba_institution": null,
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Public Accountancy",
   "education_raw": "Ph.D. in Management (Accounting), Queen’s University ; M. Sc. (Administration) – Public Accounting ; Graduate Diploma in Public Accounting ; B.B.A. – Specialization: Public Accountancy",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/laurence-daoust",
@@ -1578,7 +1579,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "laurence-daoust"
  },
  {
@@ -1589,8 +1590,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Individual taxation; Corporate taxation",
+  "fields_raw": "Expertise; Individual taxation; Corporate taxation",
   "fields_std": [
+   "Accounting",
    "Public Economics"
   ],
   "phd_institution": null,
@@ -1617,7 +1619,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nadia-genest"
  },
  {
@@ -1628,8 +1630,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate Governance; Financial Reporting Quality; Earnings Management; Intangible Assets; Financial Performance of High-Tech Firms; International Financial Reporting Standards Implementation in Developing Countries",
+  "fields_raw": "Expertise; Corporate Governance; Financial Reporting Quality",
   "fields_std": [
+   "Accounting",
    "Corporate Finance"
   ],
   "phd_institution": "HEC Montréal",
@@ -1656,7 +1659,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "philemon-rakoto"
  },
  {
@@ -1674,9 +1677,9 @@
   "phd_institution": null,
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": "M.Sc. Economics (London School of Economics, Londres)",
+  "ma_institution": "London School of Economics",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics",
   "ba_institution": "B.A.A.– options comptabilité et économie (HEC Montréal)",
   "ba_year": null,
   "ba_field": null,
@@ -1695,7 +1698,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "renaud-lachance"
  },
  {
@@ -1734,7 +1737,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "sophie-marmousez"
  },
  {
@@ -1745,19 +1748,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Qualititative and mixed methods research",
+  "fields_raw": "Expertise; Qualitative and mixed methods research; Winter 2026",
   "fields_std": [
    "Accounting"
   ],
   "phd_institution": "Queen’s University",
   "phd_year": null,
-  "phd_field": "Accounting",
+  "phd_field": "Management (Accounting)",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Bachelor of Commerce, University of Alberta",
+  "ba_institution": "University of Alberta",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Commerce",
   "education_raw": "Ph.D. in Management (Accounting), Queen’s University ; LL. M., Université de Montréal ; Bachelor of Commerce, University of Alberta",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/till-arne-hahn",
@@ -1773,7 +1776,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "till-arne-hahn"
  },
  {
@@ -1784,7 +1787,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management Control; Managerial Accounting",
+  "fields_raw": "Expertise; Management Control; Managerial Accounting",
   "fields_std": [
    "Accounting"
   ],
@@ -1812,7 +1815,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "elodie-allain"
  },
  {
@@ -1823,19 +1826,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Auditing; Financial Accounting; Textual Analysis",
+  "fields_raw": "Expertise; Auditing; Financial Accounting",
   "fields_std": [
    "Accounting"
   ],
-  "phd_institution": "CY Cergy Paris Université",
+  "phd_institution": "ESSEC Business School",
   "phd_year": null,
-  "phd_field": "Management Sciences",
-  "ma_institution": "MSc (Corporate Finance and Banking), EDHEC Business School",
+  "phd_field": "Business Administration",
+  "ma_institution": "ESSEC Business School | EDHEC Business School",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BSc (International Business), NEOMA Business School",
+  "ma_field": "Business Administration Research | Corporate Finance and Banking",
+  "ba_institution": "NEOMA Business School",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "International Business",
   "education_raw": "PhD (Management Sciences), CY Cergy Paris Université ; PhD (Business Administration), ESSEC Business School ; Advanced MS (Business Administration Research), ESSEC Business School ; MSc (Corporate Finance and Banking), EDHEC Business School ; BSc (International Business), NEOMA Business School",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/emeline-deneuve",
@@ -1851,7 +1854,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "emeline-deneuve"
  },
  {
@@ -1868,13 +1871,13 @@
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
-  "phd_field": "PhD",
-  "ma_institution": "Master of Science in Finance (MSc), Concordia University",
+  "phd_field": "Management",
+  "ma_institution": "Concordia University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Bachelor of Business Administration (BAdmin), Concordia University",
+  "ma_field": "Finance",
+  "ba_institution": "Concordia University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Administration",
   "education_raw": "Bachelor of Business Administration (BAdmin), Concordia University ; Master of Science in Finance (MSc), Concordia University ; Doctorate in Management (PhD), McGill University ; Chartered Financial Analyst (CFA) ; Certified Management Accountant (CMA-US) ; Professional Risk Manager (PRM)",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/jason-moschella",
@@ -1890,7 +1893,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jason-moschella"
  },
  {
@@ -1929,7 +1932,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "margaret-fong"
  },
  {
@@ -1940,13 +1943,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Statistical learning; Random forests; Bayesian modeling; Spatial modeling; Complex dependence structures; Biostatistics; Applications: health, transportation, road safety",
+  "fields_raw": "Expertise; Statistical learning; Random forests",
   "fields_std": [
    "Data Science & Analytics"
   ],
   "phd_institution": "University of Waterloo",
   "phd_year": null,
-  "phd_field": "statistique",
+  "phd_field": "Statistics",
   "ma_institution": "Maîtrise (statistique), Université de Montréal",
   "ma_year": null,
   "ma_field": null,
@@ -1968,7 +1971,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aurelie-labbe"
  },
  {
@@ -1979,9 +1982,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "ZHOU, Tianli, FIELDS, Evan, OSORIO, Carolina; « A data-driven discrete simulation-based optimization algorithm for car-sharing service design »",
   "fields_std": [
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "École Polytechnique Fédérale de Lausanne (EPFL)",
   "phd_year": null,
@@ -2007,7 +2010,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "carolina-osorio"
  },
  {
@@ -2018,8 +2021,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Quantitative risk management; Quantitative asset allocation; Sentometrics",
+  "fields_raw": "Expertise: Quantitative risk management; Quantitative asset allocation. Primary fields: Financial econometrics, Machine learning for finance, Natural language processing, Risk modeling. Secondary fields: Asset allocation, Climate finance, Market microstructure.",
   "fields_std": [
+   "Financial Economics",
+   "Econometrics",
    "Data Science & Analytics"
   ],
   "phd_institution": "Université de Fribourg",
@@ -2046,7 +2051,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "david-ardia"
  },
  {
@@ -2057,13 +2062,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Extreme Values; Robustness; Statistical Modeling; Statistical Computing",
+  "fields_raw": "Expertise: Extreme Values; Robustness",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "University of New Brunswick",
   "phd_year": null,
-  "phd_field": "mathématiques et statistiques",
+  "phd_field": "Mathematics and Statistics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -2085,7 +2090,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "debbie-j-dupuis"
  },
  {
@@ -2096,9 +2101,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Nonparametric methods in statistics; Multivariate data analysis; Data mining; Statistical consulting",
+  "fields_raw": "Expertise: Nonparametric methods in statistics; Multivariate data analysis",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -2124,7 +2129,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "denis-larocque"
  },
  {
@@ -2135,14 +2140,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Optimization under Uncertainty; Applications of Operations Research",
+  "fields_raw": "Expertise: Optimization under Uncertainty; Applications of Operations Research",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Stanford University",
   "phd_year": null,
-  "phd_field": "génie électrique",
+  "phd_field": "Electrical Engineering",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -2164,7 +2168,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "erick-delage"
  },
  {
@@ -2203,7 +2207,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "francois-bellavance"
  },
  {
@@ -2214,9 +2218,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Stochastic Calculus; Probability and statistic; Mathematical modelling; Financial engineering; Pricing; Risk management; Credit risk",
+  "fields_raw": "Expertise: Stochastic Calculus; Probability and statistic",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "Carleton U., Ottawa",
   "phd_year": null,
@@ -2242,7 +2246,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "genevieve-gauthier"
  },
  {
@@ -2253,7 +2257,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Game theory; New product diffusion; Transportation and distribution of oil and gas products; Environmental management; Quantitative marketing",
+  "fields_raw": "Expertise: Game theory; New product diffusion",
   "fields_std": [
    "Microeconomic Theory",
    "Marketing"
@@ -2282,7 +2286,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "georges-zaccour"
  },
  {
@@ -2293,7 +2297,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Artificial intelligence; Data mining; Neural networks; Algorithmics; Combinatorial optimization",
+  "fields_raw": "Expertise: Artificial intelligence; Data mining",
   "fields_std": [
    "Data Science & Analytics"
   ],
@@ -2321,7 +2325,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gilles-caporossi"
  },
  {
@@ -2332,9 +2336,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Financial engineering; Stochastic processes; Stochastic simulation; Stochastic dynamic programming; Option Pricing; Risk measurement; Bankruptcy prediction",
+  "fields_raw": "Expertise: Financial engineering; Stochastic processes",
   "fields_std": [
-   "Banking & Financial Intermediation"
+   "Financial Economics"
   ],
   "phd_institution": "HEC Montréal, Montréal, Canada",
   "phd_year": null,
@@ -2360,7 +2364,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hatem-ben-ameur"
  },
  {
@@ -2371,13 +2375,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Statistical Inference; Statistical Learning; Sports Analytics; Applied Artificial Intelligence; Dependence Models (copulas)",
+  "fields_raw": "Expertise: Statistical Inference; Statistical Learning",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
-  "phd_field": "statistique",
+  "phd_field": "Statistics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -2399,7 +2403,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-plante"
  },
  {
@@ -2410,9 +2414,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Analysis of longitudinal data; Prediction; Biostatistics; Random effects models; Bayesian statistics",
+  "fields_raw": "Expertise: Analysis of longitudinal data; Prediction",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "University of Waterloo",
   "phd_year": null,
@@ -2438,7 +2442,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marc-fredette"
  },
  {
@@ -2449,10 +2453,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Energy transition; Capacity expansion of power networks; Energy modeling; Stochastic optimization; Reinforcement learning",
+  "fields_raw": "Expertise: Energy transition; Capacity expansion of power networks",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
@@ -2478,7 +2482,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "michel-denault"
  },
  {
@@ -2489,9 +2493,8 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Game theory; Operations research; Decision analysis; Mathematical models in finance and in energy",
+  "fields_raw": "Expertise: Game theory; Operations research",
   "fields_std": [
-   "Environmental & Energy Economics",
    "Microeconomic Theory",
    "Operations Management"
   ],
@@ -2519,7 +2522,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "michele-breton"
  },
  {
@@ -2530,7 +2533,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Operational research; Mathematical models in economy / energy / environment; Climate changes",
+  "fields_raw": "Codirector of the e3 Hub: Expertise in Energy and Environment; Member, Institut de l'environnement, du développement durable et de l'économie circulaire (Institut EDDEC)",
   "fields_std": [
    "Environmental & Energy Economics"
   ],
@@ -2558,7 +2561,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "olivier-bahn"
  },
  {
@@ -2569,10 +2572,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Energy policy; Electricity markets; Decision analysis; Investment and privatization in developing countries",
+  "fields_raw": "Expertise: Energy policy; Electricity markets",
   "fields_std": [
-   "Asset Pricing",
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "Public Policy"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -2598,7 +2601,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pierre-olivier-pineau"
  },
  {
@@ -2609,9 +2612,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Combinatorial optimization; Global optimization; Mathematical Programming; Column generation; Clustering / Network Clustering; Complex Network Analysis; Quadratic Programming",
+  "fields_raw": "Expertise: Combinatorial optimization; Global optimization",
   "fields_std": [
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Polytechnique Montréal",
   "phd_year": null,
@@ -2637,7 +2640,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sylvain-perron"
  },
  {
@@ -2648,10 +2651,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Stochastic process; Probability; Financial engineering; Portfolio optimization; Stochastic optimal control",
+  "fields_raw": "Expertise: Stochastic process; Probability",
   "fields_std": [
-   "Asset Pricing",
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "University of Waterloo",
   "phd_year": null,
@@ -2677,7 +2679,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chantal-labbe"
  },
  {
@@ -2716,7 +2718,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jian-tang"
  },
  {
@@ -2727,10 +2729,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Dependence modelling; Actuarial mathematics; Property and casualty insurance; Biostatistics; Adaptive treatment strategies",
+  "fields_raw": "Expertise: Dependence modelling; Actuarial mathematics",
   "fields_std": [
-   "Strategy",
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "Université McGill",
   "phd_year": null,
@@ -2756,7 +2757,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "juliana-schulz"
  },
  {
@@ -2767,35 +2768,36 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Machine learning; Artificial intelligence; Recommender systems; Bayesian statistics; Deep learning",
+  "fields_raw": "Expertise: Machine learning; Artificial intelligence",
   "fields_std": [
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Information Systems"
   ],
   "phd_institution": "University of Toronto",
-  "phd_year": null,
-  "phd_field": "informatique",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_year": 2014,
+  "phd_field": "Computer Science",
+  "ma_institution": "University of Waterloo",
+  "ma_year": 2007,
+  "ma_field": "Computer Science",
+  "ba_institution": "École Polytechnique de Montréal",
+  "ba_year": 2004,
+  "ba_field": "Computer Engineering",
   "education_raw": "Ph. D. (informatique), University of Toronto ; MMath (informatique), University of Waterloo",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/laurent-charlin",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2016,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "phd_advisors": "Richard Zemel; Craig Boutilier",
+  "first_job_after_phd": "Postdoctoral fellow, McGill University (2015–2016)",
+  "prior_positions": "Postdoctoral researcher, Princeton & Columbia University, 2013–2015; Postdoctoral fellow, McGill University, 2015–2016",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "laurent-charlin"
  },
  {
@@ -2806,9 +2808,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Extreme values; Likelihood-based inference; Hierarchical modelling; Statistical software",
+  "fields_raw": "Expertise: Extreme values; Likelihood-based inference",
   "fields_std": [
-   "Data Science & Analytics"
+   "Other"
   ],
   "phd_institution": "École polytechnique fédérale de Lausanne",
   "phd_year": null,
@@ -2834,7 +2836,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "leo-raymond-belzile"
  },
  {
@@ -2845,10 +2847,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Operations research; Combinatorial optimization; Large-scale optimization; Design and management of large scale networks; Data-centric and learning-augmented optimization",
+  "fields_raw": "Expertise: Operations research; Combinatorial optimization",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Bilkent University",
   "phd_year": null,
@@ -2874,7 +2875,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "okan-arslan"
  },
  {
@@ -2913,7 +2914,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "eva-portelance"
  },
  {
@@ -2924,36 +2925,35 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Sequential decision making under uncertainty; Stochastic programming and robust optimization; Mixed-integer programming; Large-scale optimization; Applications of operations research",
+  "fields_raw": "Research Interests: Methodologies: Stochastic optimization, Robust optimization, Integer programming, Large-scale optimization; Application Areas: Sequential decision-making under uncertainty, Telecommunications, Healthcare, Supply chain planning, Service systems staffing, Scheduling, Description logic",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "University of Toronto",
-  "phd_year": null,
+  "phd_year": 2022,
   "phd_field": "Industrial Engineering",
-  "ma_institution": "MSc (Computer Science), Concordia University | MSc (Industrial Engineering), Amirkabir University of Technology",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BSc (Industrial Engineering and Systems Analysis), Amirkabir University of Technology",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Concordia University | Amirkabir University of Technology",
+  "ma_year": "2016 | 2013",
+  "ma_field": "Computer Science | Industrial Engineering",
+  "ba_institution": "Amirkabir University of Technology",
+  "ba_year": 2011,
+  "ba_field": "Industrial Engineering & Systems Analysis",
   "education_raw": "PhD (Industrial Engineering), University of Toronto ; MSc (Computer Science), Concordia University ; MSc (Industrial Engineering), Amirkabir University of Technology ; BSc (Industrial Engineering and Systems Analysis), Amirkabir University of Technology",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/maryam-daryalal",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2022,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
+  "phd_advisors": "Merve Bodur",
+  "first_job_after_phd": "Assistant Professor of Operations Research, HEC Montréal (2022–present)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2022,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "maryam-daryalal"
  },
  {
@@ -2966,6 +2966,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Operations Management",
    "Data Science & Analytics"
   ],
   "phd_institution": "Polytechnique Montréal",
@@ -2992,7 +2993,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "tegan-maharaj"
  },
  {
@@ -3005,6 +3006,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
+   "Operations Management",
    "Data Science & Analytics"
   ],
   "phd_institution": "University of Waterloo",
@@ -3031,7 +3033,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zachary-van-oosten"
  },
  {
@@ -3042,19 +3044,20 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Entrepreneurship; Entrepreneurial opportunities; International entrepreneurship; Cognitive sciences; Research methods",
+  "fields_raw": "Entrepreneurship; Entrepreneurial opportunities",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Strategy"
   ],
   "phd_institution": "University of Colorado at Boulder",
   "phd_year": null,
-  "phd_field": "Strategy and Entrepreneurship",
+  "phd_field": "Business Administration (Strategy and Entrepreneurship)",
   "ma_institution": "MSc (Management), HEC Montréal",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "BSc (Architecture), McGill University",
+  "ba_institution": "McGill University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Architecture",
   "education_raw": "PhD Business Administration (Strategy and Entrepreneurship), University of Colorado at Boulder ; MSc (Management), HEC Montréal ; BSc (Architecture), McGill University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/denis-gregoire",
@@ -3070,7 +3073,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "denis-gregoire"
  },
  {
@@ -3081,16 +3084,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "•\tInnovation; •\tIndustrial clusters and ecosystems of innovation; •\tInnovation networks; •\tInnovation Policy",
+  "fields_raw": "Innovation; Industrial clusters and ecosystems of innovation",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Urban & Regional Economics"
   ],
   "phd_institution": "University of Pittsburgh",
   "phd_year": null,
   "phd_field": "Public and International Affairs",
-  "ma_institution": "M.A. (Public and International Affairs), University of Pittsburgh",
+  "ma_institution": "University of Pittsburgh",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Public and International Affairs",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -3109,7 +3113,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ekaterina-turkina"
  },
  {
@@ -3120,7 +3124,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Entrepreneurship",
+  "fields_raw": "Entrepreneurship; Current research",
   "fields_std": [
    "Entrepreneurship & Innovation"
   ],
@@ -3148,7 +3152,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "franck-bares"
  },
  {
@@ -3159,12 +3163,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Innovation Management; Organizational Learning; Teamwork and Collaboration",
+  "fields_raw": "Innovation Management; Organizational Learning",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Management & Organizations"
   ],
-  "phd_institution": "HEC Montréal (2010-2014)",
-  "phd_year": 2010,
+  "phd_institution": "HEC Montréal",
+  "phd_year": 2014,
   "phd_field": "management",
   "ma_institution": null,
   "ma_year": null,
@@ -3183,11 +3188,11 @@
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoctorate (management), Harvard Business School (2014-2016)",
+  "prior_positions": "Postdoctorate (management), Harvard Business School, 2014-2016",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-harvey"
  },
  {
@@ -3198,9 +3203,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management; Management, new technologies and knowledge economy; Project managemen",
+  "fields_raw": "Management; Management, new technologies and knowledge economy",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Management & Organizations",
+   "Information Systems"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -3226,7 +3232,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "laurent-simon"
  },
  {
@@ -3237,9 +3243,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Family business; Entrepreneurship; Small business management; Contradictions and paradoxes",
+  "fields_raw": "Family business; Entrepreneurship",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Paris",
   "phd_year": null,
@@ -3265,7 +3272,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "luis-felipe-cisneros-martinez"
  },
  {
@@ -3276,18 +3283,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Social Entrepreneurship; New Venture Creation; International Business; Strategic Management; Transition Economies; Emerging Markets",
+  "fields_raw": "Social Entrepreneurship; New Venture Creation",
   "fields_std": [
-   "Strategy",
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "University of St. Gallen",
   "phd_year": null,
   "phd_field": "Management",
-  "ma_institution": null,
+  "ma_institution": "University of Hawai'i",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A., Hanoi University",
+  "ma_field": "MBA",
+  "ba_institution": "Hanoi University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "B.A., Hanoi University ; M.B.A., University of Hawai'i ; Ph. D. (Management), University of St. Gallen",
@@ -3305,7 +3311,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mai-thi-thanh-thai"
  },
  {
@@ -3316,17 +3322,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Venture capital firms; Financing of entrepreneurial companies; Strategy in turbulent contexts",
+  "fields_raw": "Venture capital firms; Financing of entrepreneurial companies",
   "fields_std": [
-   "Strategy",
-   "Entrepreneurship & Innovation"
+   "Entrepreneurship & Innovation",
+   "Corporate Finance"
   ],
   "phd_institution": "McGill",
   "phd_year": null,
   "phd_field": "Management",
-  "ma_institution": "MBA, Stanford University",
+  "ma_institution": "Stanford University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "MBA",
   "ba_institution": "B.Eng., University of Waterloo",
   "ba_year": null,
   "ba_field": null,
@@ -3345,7 +3351,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "brian-king"
  },
  {
@@ -3356,7 +3362,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Entrepreneurial Marketing for start-ups dans small businesses; Lean Startup Method; New Product Development; Marketing of Innovation and Technology; International and Cross-Cultural Marketing",
+  "fields_raw": "Entrepreneurial Marketing for start-ups dans small businesses; Lean Startup Method",
   "fields_std": [
    "Marketing",
    "Entrepreneurship & Innovation"
@@ -3385,7 +3391,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-ouellet"
  },
  {
@@ -3424,7 +3430,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "jorge-humberto-mejia-morelos"
  },
  {
@@ -3435,7 +3441,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Innovation; Open innovation; Digital innovation; Digital health; Qualitative and longitudinal methodologies",
+  "fields_raw": "Innovation; Open innovation",
   "fields_std": [
    "Entrepreneurship & Innovation"
   ],
@@ -3463,7 +3469,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "karl-emanuel-dionne"
  },
  {
@@ -3474,9 +3480,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Health and well-being communication and marketing",
+  "fields_raw": "Academic Supervisor of the Specialized Graduate Diploma (D.E.S.S.) in Marketing Communication; Associated, Mosaic, catalyst of creative potential, and Pôle Médias; Education",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Entrepreneurship & Innovation"
   ],
   "phd_institution": "Université Laval",
   "phd_year": null,
@@ -3502,7 +3509,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pierre-balloffet"
  },
  {
@@ -3541,7 +3548,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "audrey-anne-cyr"
  },
  {
@@ -3552,10 +3559,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Sustainable finance; Performance evaluation of mutual funds and hedge funds; Investment and financing decisions of firms",
+  "fields_raw": "Sustainable finance; Performance evaluation of mutual funds and hedge funds",
   "fields_std": [
-   "Asset Pricing",
-   "Business Ethics & Society"
+   "Financial Economics",
+   "Asset Pricing"
   ],
   "phd_institution": "Université de Berne",
   "phd_year": null,
@@ -3581,7 +3588,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "iwan-meier"
  },
  {
@@ -3592,10 +3599,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Fixed Interest Securities; Derivative Products; Applying Econometrics to Financial Problems",
+  "fields_raw": "Fixed Interest Securities; Derivative Products",
   "fields_std": [
    "Asset Pricing",
-   "Econometrics"
+   "Financial Economics"
   ],
   "phd_institution": "McGill",
   "phd_year": null,
@@ -3621,7 +3628,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-guy-simonato"
  },
  {
@@ -3632,9 +3639,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate Finance; Credit Risk; Debt Pricing",
+  "fields_raw": "Expertise\nCorporate Finance\nCredit Risk",
   "fields_std": [
-   "Corporate Finance"
+   "Corporate Finance",
+   "Banking & Financial Intermediation"
   ],
   "phd_institution": "Paris I Sorbonne et ESSEC",
   "phd_year": null,
@@ -3660,7 +3668,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pascal-francois"
  },
  {
@@ -3671,9 +3679,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Household Finance; Financial Institutions; Applied Econometrics",
+  "fields_raw": "Expertise\nHousehold Finance\nFinancial Institutions",
   "fields_std": [
-   "Econometrics"
+   "Financial Economics",
+   "Banking & Financial Intermediation"
   ],
   "phd_institution": "Georgia State University",
   "phd_year": null,
@@ -3699,7 +3708,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "philippe-d-astous"
  },
  {
@@ -3710,21 +3719,20 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Asset pricing; Financial economics; Econometrics; Forecasting; Macroeconomics",
+  "fields_raw": "Expertise\nAsset pricing\nFinancial economics",
   "fields_std": [
    "Asset Pricing",
-   "Financial Economics",
-   "Macroeconomics"
+   "Financial Economics"
   ],
   "phd_institution": "University of California, San Diego",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), University of California, San Diego | M.Sc. (Statistics), University of California, San Diego",
+  "ma_institution": "University of California, San Diego | University of California, San Diego",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.Sc. (Industrial Engineering), Bogazici University",
+  "ma_field": "Economics | Statistics",
+  "ba_institution": "Bogazici University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Industrial Engineering",
   "education_raw": "B.Sc. (Industrial Engineering), Bogazici University ; M.A. (Economics), University of California, San Diego ; M.Sc. (Statistics), University of California, San Diego ; Ph.D. (Economics), University of California, San Diego",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/tolga-cenesizoglu",
@@ -3740,7 +3748,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "tolga-cenesizoglu"
  },
  {
@@ -3751,13 +3759,14 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Information economics; Market microstructure; Financial big data analytics; Cybersecurity and finance; Machine learning applications in finance",
+  "fields_raw": "Expertise\nInformation economics\nMarket microstructure",
   "fields_std": [
-   "Data Science & Analytics"
+   "Financial Economics",
+   "Microeconomic Theory"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
-  "phd_field": "finance",
+  "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -3779,7 +3788,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "vincent-gregoire"
  },
  {
@@ -3792,7 +3801,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
@@ -3800,9 +3809,9 @@
   "ma_institution": "M.A (Economics), Hebrew University of Jerusalem",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "B.A. (Economics and Business), Hebrew University of Jerusalem",
+  "ba_institution": "Hebrew University of Jerusalem",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics and Business",
   "education_raw": "Ph.D. (Finance), University of British Columbia ; M.A (Economics), Hebrew University of Jerusalem ; B.A. (Economics and Business), Hebrew University of Jerusalem",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/amir-barnea",
@@ -3818,7 +3827,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "amir-barnea"
  },
  {
@@ -3829,13 +3838,12 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Derivatives; Volatility modeling; Credit risk; Risk management; Financial econometrics",
+  "fields_raw": "Derivatives; Volatility modeling",
   "fields_std": [
    "Asset Pricing",
-   "Financial Economics",
-   "Econometrics"
+   "Financial Economics"
   ],
-  "phd_institution": "McGill",
+  "phd_institution": "McGill University",
   "phd_year": null,
   "phd_field": "Finance",
   "ma_institution": null,
@@ -3856,10 +3864,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Research Fellow, null, 2019–",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "christian-dorion"
  },
  {
@@ -3872,14 +3880,14 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "European Business School – Germany",
   "phd_year": null,
   "phd_field": "Finance",
-  "ma_institution": null,
+  "ma_institution": "European Business School – Germany",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business administration and finance (Diplom-Kaufman)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -3898,7 +3906,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gunnar-grass"
  },
  {
@@ -3909,11 +3917,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Financial Econometrics; Statistics; Privatization; Corporate Governance",
+  "fields_raw": "Expertise\nFinancial Econometrics\nStatistics",
   "fields_std": [
-   "Corporate Finance",
-   "Financial Economics",
-   "Econometrics"
+   "Econometrics",
+   "Financial Economics"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -3939,7 +3946,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pascale-valery"
  },
  {
@@ -3950,16 +3957,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "I am Associate Professor of Finance at HEC Montréal and Scientific Director at the Canadian Derivatives Institute. My research interests center on the econometrics of asset pricing and derivatives.\nI teach courses in financial econometrics, investment and derivatives at the undergraduate and graduate level.\nEvery year, I organize two events: the Annual Conference of the CDI, in collaboration with ",
   "fields_std": [
-   "Corporate Finance"
+   "Asset Pricing",
+   "Econometrics"
   ],
-  "phd_institution": "Università della Svizzera italiana",
-  "phd_year": null,
-  "phd_field": "économie",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
+  "phd_institution": "University of Lugano",
+  "phd_year": 2017,
+  "phd_field": "Economics",
+  "ma_institution": "Warsaw School of Economics",
+  "ma_year": 2008,
+  "ma_field": "Quantitative Methods and Information Systems in Economics",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -3969,16 +3977,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2017,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, HEC Montréal (2017-2023)",
+  "prior_positions": "Consultant, Alphacruncher A.G., Lugano (Switzerland), 2016; Senior Economist, Dom Maklerski AFS, Warszawa (Poland), 2007-2010",
+  "year_current_rank": 2023,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "piotr-orlowski"
  },
  {
@@ -3991,14 +3999,15 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Asset Pricing",
+   "Financial Economics"
   ],
   "phd_institution": "University of Washington",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "M.A. (Economics), University of Washington | MSc (Finance), Seattle University",
+  "ma_institution": "University of Washington | Seattle University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Economics | Finance",
   "ba_institution": "BComm (Finance and Economics), Concordia University",
   "ba_year": null,
   "ba_field": null,
@@ -4017,7 +4026,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "anthony-sanford"
  },
  {
@@ -4030,17 +4039,17 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "University of Zurich",
   "phd_year": null,
   "phd_field": "Finance",
-  "ma_institution": "M.A. (Business and Economics), University of Zurich",
+  "ma_institution": "University of Zurich",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A. (Business and Economics), University of Basel",
+  "ma_field": "Business and Economics",
+  "ba_institution": "University of Basel",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business and Economics",
   "education_raw": "PhD (Finance), University of Zurich ; M.A. (Business and Economics), University of Zurich ; B.A. (Business and Economics), University of Basel",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/benjamin-schneider",
@@ -4056,7 +4065,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "benjamin-schneider"
  },
  {
@@ -4067,9 +4076,11 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Financial decision making; Automated decision tools; Financial literacy & financial education interventions; Pensions; Annuities and long-term care insurance",
   "fields_std": [
-   "Corporate Finance"
+   "Behavioral Economics",
+   "Public Economics",
+   "Financial Economics"
   ],
   "phd_institution": "Goethe University Frankfurt",
   "phd_year": null,
@@ -4092,10 +4103,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "null, Retirement and Savings Institute at HEC Montréal, null; null, International Center for Insurance Regulation, null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "franca-glenzer"
  },
  {
@@ -4108,7 +4119,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "Goethe University Frankfurt",
   "phd_year": null,
@@ -4134,7 +4145,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "irina-gemmo"
  },
  {
@@ -4145,11 +4156,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate finance; Product market competition; Innovation and investment decisions of firms; Capital structure",
+  "fields_raw": "Corporate finance; Product market competition",
   "fields_std": [
-   "Asset Pricing",
    "Corporate Finance",
-   "Entrepreneurship & Innovation"
+   "Industrial Organization"
   ],
   "phd_institution": "University of Lausanne",
   "phd_year": null,
@@ -4175,7 +4185,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jakub-hajda"
  },
  {
@@ -4188,17 +4198,17 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "Frankfurt School of Finance and Management",
   "phd_year": null,
   "phd_field": "Financial Economics",
-  "ma_institution": "MSc (Financial Economics), University of Oxford",
+  "ma_institution": "University of Oxford",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BSc (Management, Philosophy & Economics), Frankfurt School of Finance and Management",
+  "ma_field": "Financial Economics",
+  "ba_institution": "Frankfurt School of Finance and Management",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Management, Philosophy & Economics",
   "education_raw": "PhD (Financial Economics), Frankfurt School of Finance and Management ; MSc (Financial Economics), University of Oxford ; BSc (Management, Philosophy & Economics), Frankfurt School of Finance and Management",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/maximilian-voigt",
@@ -4214,7 +4224,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "maximilian-voigt"
  },
  {
@@ -4225,9 +4235,11 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Entrepreneurial finance; Lending discrimination; Cooperative lenders; Government intervention",
+  "fields_raw": "Expertise\nEntrepreneurial finance\nLending discrimination",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Banking & Financial Intermediation",
+   "Entrepreneurship & Innovation",
+   "Corporate Finance"
   ],
   "phd_institution": "University of Ottawa",
   "phd_year": null,
@@ -4253,7 +4265,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nicolas-legendre"
  },
  {
@@ -4266,14 +4278,14 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Corporate Finance"
+   "Financial Economics"
   ],
   "phd_institution": "Bocconi University",
   "phd_year": null,
   "phd_field": "Economics and Finance",
-  "ma_institution": "MSc (Mathematical Finance), University of Manchester | MSc (Secondary Education), Universidad Europea",
+  "ma_institution": "University of Manchester",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Mathematical Finance",
   "ba_institution": "BSc (Mathematics), Universidad Autónoma de Madrid",
   "ba_year": null,
   "ba_field": null,
@@ -4292,7 +4304,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ruben-fernandez-fuertes"
  },
  {
@@ -4303,8 +4315,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Contingent Employment; Telecommuting; Temporary Employment; Recruitment and Selection",
+  "fields_raw": "Expertise\nContingent Employment\nTelecommuting",
   "fields_std": [
+   "Management & Organizations",
    "Organizational Behavior"
   ],
   "phd_institution": "Univ. Illinois",
@@ -4331,7 +4344,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "anne-bourhis"
  },
  {
@@ -4342,8 +4355,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Labour Relations; Conflict Management; Unionism; Comparative Study in the Field of Industrial Relations; Public Policies in the Field of Industrial Relations",
+  "fields_raw": "Expertise\nLabour Relations\nConflict Management",
   "fields_std": [
+   "Management & Organizations",
    "Organizational Behavior"
   ],
   "phd_institution": "Laval",
@@ -4370,7 +4384,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "christian-levesque"
  },
  {
@@ -4381,8 +4395,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Remuneration; Mobilization of Human Resources; HR management and occupational health",
+  "fields_raw": "Expertise\nRemuneration\nMobilization of Human Resources",
   "fields_std": [
+   "Management & Organizations",
    "Organizational Behavior"
   ],
   "phd_institution": "Université des Sciences Sociales, Toulouse I",
@@ -4409,7 +4424,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "denis-chenevert"
  },
  {
@@ -4420,9 +4435,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Conflict Management; Negotiation; Mediation",
+  "fields_raw": "Expertise\nConflict Management\nNegotiation",
   "fields_std": [
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "University of Massachusetts Boston",
   "phd_year": null,
@@ -4448,7 +4464,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-poitras"
  },
  {
@@ -4459,9 +4475,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Labour relations; Trade unionism; Collective Bargaining; Multinational Corporations and Social Responsibility; Workplace transformation",
+  "fields_raw": "Expertise\nLabour relations\nTrade unionism",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -4487,7 +4503,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marc-antonin-hennebert"
  },
  {
@@ -4498,9 +4514,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Emotional labour, service performance, and psychological well-being; Job attitudes and personnel retention; HR analytics and roles of HR professionals",
+  "fields_raw": "Expertise\nEmotional labour, service performance, and psychological well-being\nJob attitudes and personnel retention",
   "fields_std": [
-   "Data Science & Analytics"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "UQAM",
   "phd_year": null,
@@ -4526,7 +4543,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "michel-cossette"
  },
  {
@@ -4537,16 +4554,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Employees performance and mobilization; Leadership and management skills; Performance management practices; Employee management in sports organizations",
+  "fields_raw": "Academic supervisor of the Organizational Behaviour and Human Resources specialization (PhD)\nEducation\nMBA, UQAM",
   "fields_std": [
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "UQAM",
   "phd_year": null,
   "phd_field": "gestion des ressources humaines",
-  "ma_institution": "MBA, UQAM",
+  "ma_institution": "UQAM",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "MBA",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -4565,7 +4583,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "olivier-doucet"
  },
  {
@@ -4576,9 +4594,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Labour law; Comparative labour law; International labour law",
+  "fields_raw": "Expertise\nLabour law\nComparative labour law",
   "fields_std": [
-   "Organizational Behavior"
+   "Other"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -4604,7 +4622,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "urwana-coiquaud"
  },
  {
@@ -4615,10 +4633,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Green human resource management; Organizational citizenship behaviors (OCB); Sustainable Development; Organizational culture; Certifications and international norms",
+  "fields_raw": "Expertise\nGreen human resource management\nOrganizational citizenship behaviors (OCB)",
   "fields_std": [
    "Organizational Behavior",
-   "Business Ethics & Society"
+   "Management & Organizations"
   ],
   "phd_institution": "Université Laval",
   "phd_year": null,
@@ -4626,9 +4644,9 @@
   "ma_institution": "MA (Standardization, Social Regulation and Sustainable Development), University of Geneva",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "BSc (Economics), G.V. Plekhanov Russian University of Economics",
+  "ba_institution": "G.V. Plekhanov Russian University of Economics",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Economics",
   "education_raw": "PhD (Management), Université Laval ; MA (Standardization, Social Regulation and Sustainable Development), University of Geneva ; BSc (Economics), G.V. Plekhanov Russian University of Economics",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/alexander-yuriev",
@@ -4644,7 +4662,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "alexander-yuriev"
  },
  {
@@ -4655,16 +4673,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Negotiation and collaboration; Conflict management",
+  "fields_raw": "Head of the MBA's HR specialization\nEducation\nPh.D. (Organizational Behavior), Rotman School of Management, University of Toronto",
   "fields_std": [
    "Organizational Behavior"
   ],
   "phd_institution": "Rotman School of Management, University of Toronto",
   "phd_year": null,
   "phd_field": "Organizational Behavior",
-  "ma_institution": "M.Sc. (Management), John Molson School of Business, Concordia University",
+  "ma_institution": "John Molson School of Business, Concordia University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Management",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -4683,7 +4701,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "kevin-hill"
  },
  {
@@ -4694,9 +4712,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Labour relations; Public policies in industrial relations; Comparative study in industrial relations",
+  "fields_raw": "Expertise\nLabour relations\nPublic policies in industrial relations",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations",
+   "Public Policy"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -4722,7 +4741,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lucie-morissette"
  },
  {
@@ -4733,9 +4752,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational justice; Leadership; Employee commitment and citizenship behaviors; Skills, training and learning management; Algorithmic management and employee outcomes",
+  "fields_raw": "Head of the Human Resources Management (HRM) specialization at the BBA\nMember, International Observatory on the Societal Impacts of AI and Digital Technologies\nCRHA",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -4761,7 +4780,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marie-claude-gaudet"
  },
  {
@@ -4774,7 +4793,7 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -4800,7 +4819,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "mouna-knani"
  },
  {
@@ -4811,11 +4830,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Talent management; Comparative research; Regions and regional development; Region, governance et better work; Industrial clusters and innovation policies",
+  "fields_raw": "Expertise\nTalent management\nComparative research",
   "fields_std": [
-   "Corporate Finance",
-   "Urban & Regional Economics",
-   "Entrepreneurship & Innovation"
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -4841,7 +4858,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sara-perez-lauzon"
  },
  {
@@ -4852,8 +4869,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Work and job quality in the era of AI; Algorithmic management and technological control at work; AI in HRM; Compensation management",
+  "fields_raw": "Expertise\nWork and job quality in the era of AI\nAlgorithmic management and technological control at work",
   "fields_std": [
+   "Management & Organizations",
    "Organizational Behavior"
   ],
   "phd_institution": "UQAM",
@@ -4876,11 +4894,11 @@
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoctoral researcher, Curtin University",
+  "prior_positions": "Postdoctoral researcher, Curtin University",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xavier-parent-rocheleau"
  },
  {
@@ -4891,16 +4909,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Adoption of digital technologies; Use of digital technologies; Impact of digital technologies; Application of artificial intelligence and machine learning",
+  "fields_raw": "Expertise: Adoption of digital technologies; Use of digital technologies",
   "fields_std": [
-   "Data Science & Analytics"
+   "Information Systems"
   ],
   "phd_institution": "Queen’s University",
   "phd_year": null,
   "phd_field": "Information Systems",
-  "ma_institution": "MSc (Management), University of Lethbridge | MSc (Equivalent Degree, Computer Science and Engineering), Universidad de Deusto",
+  "ma_institution": "University of Lethbridge",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Management",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -4919,7 +4937,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ana-ortiz-de-guinea-lopez-de-arana"
  },
  {
@@ -4930,9 +4948,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Inter-organizational and intra-organizational communication; Use of information technology in virtual teams; Impacts of emerging information and communication technologies; Multitasking and multicommunication",
+  "fields_raw": "Expertise: Inter-organizational and intra-organizational communication; Use of information technology in virtual teams",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Organizational Behavior"
   ],
   "phd_institution": "Queen's University",
   "phd_year": null,
@@ -4949,16 +4968,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2006,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "IS application analyst and corporate trainer, Imperial Oil, 2000-2001; Assistant Professor, HEC Montréal, 2006-2012; Associate Professor, HEC Montréal, 2012-present; Holder of the Professorship in Information Technology and Multitasking, HEC Montréal, 2014-2019; Visiting Professor, Queen’s University, 2018",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "ann-frances-cameron"
  },
  {
@@ -4997,7 +5016,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "benoit-aubert"
  },
  {
@@ -5008,7 +5027,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "User Experience",
+  "fields_raw": "Expertise: User Experience; Current research",
   "fields_std": [
    "Information Systems"
   ],
@@ -5036,7 +5055,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "constantinos-coursaris"
  },
  {
@@ -5047,9 +5066,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Digital health; Management of technological change; Artificial intelligence in the health care sector; Litterature reviews; Qualitative research",
+  "fields_raw": "Expertise: Digital health; Management of technological change",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Management & Organizations"
   ],
   "phd_institution": "Florida International University",
   "phd_year": null,
@@ -5075,7 +5095,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "guy-pare"
  },
  {
@@ -5086,7 +5106,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "User Experience (UX); Human-Computer Interaction (HCI); Human-Centered AI (HCAI); NeuroIS (Neuro-Information Systems); Serious Games for Learning Information Technologies (ERPsim)",
+  "fields_raw": "Expertise: User Experience (UX); Human-Computer Interaction (HCI)",
   "fields_std": [
    "Information Systems"
   ],
@@ -5114,7 +5134,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pierre-majorique-leger"
  },
  {
@@ -5125,9 +5145,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Digital Cities; Societal impacts of artificial intelligence and digital technologies; Electronic Government; Cybersecurity; Cyberjustice; Use of Information systems in oganizations; Role of Information systems in organizational performance; NeuroIS; Non-linear modeling; Discourse analysis",
+  "fields_raw": "Expertise: Digital Cities; Societal impacts of artificial intelligence and digital technologies",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Public Policy"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -5153,7 +5174,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ryad-titah"
  },
  {
@@ -5164,35 +5185,36 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "The Impact of Aging on Technology Use; Technostress; Electronic Commerce; Knowledge Management; Biological Measurement",
+  "fields_raw": "Expertise: The Impact of Aging on Technology Use; Technostress",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Organizational Behavior"
   ],
   "phd_institution": "Clemson University",
-  "phd_year": null,
-  "phd_field": "Management",
-  "ma_institution": "M.S. (Management), New Jersey Institute of Technology",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.S. (Information Systems), University of Applied Sciences and Arts Hannover | B.S. (Business Administration), University of Applied Sciences and Arts Hannover",
-  "ba_year": null,
-  "ba_field": null,
+  "phd_year": 2011,
+  "phd_field": "Management (Information Systems specialization)",
+  "ma_institution": "New Jersey Institute of Technology",
+  "ma_year": 2007,
+  "ma_field": "Management (Information Systems specialization)",
+  "ba_institution": "University of Applied Sciences & Arts Hannover",
+  "ba_year": 2006,
+  "ba_field": "Information Systems | Business Administration",
   "education_raw": "Ph.D. (Management), Clemson University ; M.S. (Management), New Jersey Institute of Technology ; B.S. (Information Systems), University of Applied Sciences and Arts Hannover ; B.S. (Business Administration), University of Applied Sciences and Arts Hannover",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/stefan-tams",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2011,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Varun Grover; Jason Thatcher",
+  "first_job_after_phd": "Assistant Professor, HEC Montréal (2011-2016)",
+  "prior_positions": "Associate Professor, HEC Montréal, 2016-2024",
+  "year_current_rank": 2024,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "stefan-tams"
  },
  {
@@ -5203,19 +5225,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Digital Transformation",
+  "fields_raw": "Expertise: Digital Transformation",
   "fields_std": [
    "Information Systems"
   ],
   "phd_institution": "University of Amsterdam Business School",
   "phd_year": null,
   "phd_field": "Information Systems",
-  "ma_institution": "MSc (Organization Sciences), VU University of Amsterdam",
+  "ma_institution": "VU University of Amsterdam",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BSc (Organization Sciences), VU University of Amsterdam",
+  "ma_field": "Organization Sciences",
+  "ba_institution": "VU University of Amsterdam",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Organization Sciences",
   "education_raw": "PhD (Information Systems), University of Amsterdam Business School ; MSc (Organization Sciences), VU University of Amsterdam ; BSc (Organization Sciences), VU University of Amsterdam",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/wietske-van-osch",
@@ -5231,7 +5253,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wietske-van-osch"
  },
  {
@@ -5242,10 +5264,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Cybersecurity / Information security; InfoSec behavior; InfoSec organizational culture; InfoSec risk management; Knowledge sharing in organizational contexts; Ethics and data privacy; Knowledge management systems in organizations; Strategic IT alignment; Qualitative research methods",
+  "fields_raw": "Expertise\nCybersecurity / Information security\nInfoSec behavior",
   "fields_std": [
-   "Strategy",
-   "Business Ethics & Society"
+   "Information Systems"
   ],
   "phd_institution": "Georgia State University",
   "phd_year": null,
@@ -5271,7 +5292,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "alina-maria-dulipovici"
  },
  {
@@ -5282,19 +5303,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Individual information systems use; Collective information systems use; Distributed information technology championing; Open source software development process; Open source services legitimation",
+  "fields_raw": "Expertise: Individual information systems use; Collective information systems use",
   "fields_std": [
    "Information Systems"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
   "phd_field": "Management",
-  "ma_institution": "MBA (Information Systems), McGill University",
+  "ma_institution": "McGill University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.Sc. Hon. (Computing and Computer Electronics), Wilfrid Laurier University",
+  "ma_field": "Information Systems (MBA)",
+  "ba_institution": "Wilfrid Laurier University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Computing and Computer Electronics",
   "education_raw": "Ph.D. (Management), McGill University ; MBA (Information Systems), McGill University ; B.Sc. Hon. (Computing and Computer Electronics), Wilfrid Laurier University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/bogdan-negoita",
@@ -5310,7 +5331,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "bogdan-negoita"
  },
  {
@@ -5321,9 +5342,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Social acceptance of new information technologies; Responsible adoption of new information technologies; Electronic commerce: consumers' information-seeking and decision-making process; Automated decision-making systems; Digital transformation of organisations; Effective use of information technologies",
+  "fields_raw": "Expertise: Social acceptance of new information technologies; Responsible adoption of new information technologies",
   "fields_std": [
-   "Marketing"
+   "Information Systems"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
@@ -5349,7 +5370,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "camille-grange"
  },
  {
@@ -5388,7 +5409,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "gregory-vial"
  },
  {
@@ -5399,16 +5420,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "IT project management; Decision making in IT projects (project escalation, project status reporting); Management of IT personnel",
+  "fields_raw": "Expertise: IT project management; Decision making in IT projects (project escalation, project status reporting)",
   "fields_std": [
    "Information Systems"
   ],
   "phd_institution": "Georgia State University",
   "phd_year": null,
   "phd_field": "Computer Information Systems",
-  "ma_institution": "M.S. (Management Information Systems), University of Arizona",
+  "ma_institution": "University of Arizona",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Management Information Systems",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -5427,7 +5448,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hyung-koo-lee"
  },
  {
@@ -5438,7 +5459,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Critical analysis of information systems; Inter-organizational information systems implementation; Information systems in health care organizations; Information systems in cultural organizations",
+  "fields_raw": "Expertise: Critical analysis of information systems; Inter-organizational information systems implementation",
   "fields_std": [
    "Information Systems"
   ],
@@ -5466,7 +5487,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marie-claude-trudel"
  },
  {
@@ -5505,7 +5526,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "antoine-grenier-ouimet"
  },
  {
@@ -5516,19 +5537,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Cybersecurity; Data breaches; Information privacy",
+  "fields_raw": "Expertise: Cybersecurity; Data breaches",
   "fields_std": [
    "Information Systems"
   ],
   "phd_institution": "University of Mannheim",
   "phd_year": null,
   "phd_field": "Business and Economics",
-  "ma_institution": "MSc (Management), University of Mannheim",
+  "ma_institution": "University of Mannheim",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BSc (Business Administration), University of Mannheim",
+  "ma_field": "Management",
+  "ba_institution": "University of Mannheim",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Administration",
   "education_raw": "Dr. rer. pol. (Business and Economics), University of Mannheim ; MSc (Management), University of Mannheim ; BSc (Business Administration), University of Mannheim",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/frederic-schlackl",
@@ -5544,7 +5565,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "frederic-schlackl"
  },
  {
@@ -5565,9 +5586,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "BComm Hons (Human Resource Management), University of Western Australia Business School | B.A. (Psychology), University of Western Australia",
+  "ba_institution": "University of Western Australia",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Psychology",
   "education_raw": "PhD (Business Information Systems), University of Sydney Business School ; BComm Hons (Human Resource Management), University of Western Australia Business School ; B.A. (Psychology), University of Western Australia",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/rick-sullivan",
@@ -5583,7 +5604,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "rick-sullivan"
  },
  {
@@ -5599,30 +5620,30 @@
    "Information Systems"
   ],
   "phd_institution": "HEC Montréal",
-  "phd_year": null,
-  "phd_field": "Information Technologies",
-  "ma_institution": "MSc (Information Technologies), HEC Montréal",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "BBA (Administration), HEC Montréal",
-  "ba_year": null,
-  "ba_field": null,
+  "phd_year": 2023,
+  "phd_field": "Administration, Information Technologies",
+  "ma_institution": "HEC Montréal",
+  "ma_year": 2018,
+  "ma_field": "Information Technologies",
+  "ba_institution": "HEC Montréal",
+  "ba_year": 2016,
+  "ba_field": "Business Administration",
   "education_raw": "PhD (Information Technologies), HEC Montréal ; MSc (Information Technologies), HEC Montréal ; BBA (Administration), HEC Montréal",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/theophile-demazure",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2023,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Pierre-Majorique Léger; Marc Fredette",
+  "first_job_after_phd": "Assistant Professor, HEC Montréal (2023-present)",
+  "prior_positions": "Visiting Professor, Virginia Tech, Business Information Technology Department, Summer & Fall 2024",
+  "year_current_rank": 2023,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "theophile-demazure"
  },
  {
@@ -5633,7 +5654,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "International trade; Global value chains; International business policy; Industrial clusters; Chinese economy",
+  "fields_raw": "Expertise: International trade; Global value chains",
   "fields_std": [
    "International Trade"
   ],
@@ -5661,7 +5682,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ari-van-assche"
  },
  {
@@ -5700,7 +5721,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "david-doloreux"
  },
  {
@@ -5711,7 +5732,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Liability of Foreignness & Immigration; Competitive Dynamics; Sports Industry; Golf Industry; PGA Tour",
+  "fields_raw": "Expertise: Liability of Foreignness & Immigration; Competitive Dynamics",
   "fields_std": [
    "Strategy"
   ],
@@ -5739,7 +5760,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "david-pastoriza-rivas"
  },
  {
@@ -5754,7 +5775,7 @@
   "fields_std": [
    "Strategy"
   ],
-  "phd_institution": "University of British Columbia, Green College Alumnus",
+  "phd_institution": "University of British Columbia",
   "phd_year": null,
   "phd_field": "Political Science",
   "ma_institution": "M.A. (Political Science), Université du Québec à Montréal",
@@ -5778,7 +5799,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "philippe-bourbeau"
  },
  {
@@ -5789,15 +5810,14 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Data Science for Global Transformations; Platform Economy; Industrial Organization; Globalization and regionalization; European Union",
+  "fields_raw": "Data Science for Global Transformations; Platform Economy",
   "fields_std": [
-   "Industrial Organization",
-   "Urban & Regional Economics",
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Industrial Organization"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": "France",
+  "phd_institution": "ESSEC Business School",
+  "phd_year": 2000,
+  "phd_field": "Monetary Economics and Finance",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -5814,12 +5834,14 @@
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
+  "phd_advisors": [
+   "André Fourçans"
+  ],
   "first_job_after_phd": null,
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "thierry-warin"
  },
  {
@@ -5830,7 +5852,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Economic geography; Technological innovation; Urban and regional development",
+  "fields_raw": "Expertise: Economic geography; Technological innovation",
   "fields_std": [
    "Urban & Regional Economics",
    "Entrepreneurship & Innovation"
@@ -5859,7 +5881,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "anthony-frigon"
  },
  {
@@ -5870,16 +5892,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategic management in an international context; Strategic organizational practices; Strategy process and firm trajectory; Knowledge transfer in multinational firms",
+  "fields_raw": "Strategic management in an international context; Strategic organizational practices",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": null,
+  "ma_institution": "Concordia University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -5898,7 +5921,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gwyneth-edwards"
  },
  {
@@ -5909,19 +5932,19 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "FDI-assisted economic development; Multinational enterprises; Technology transfer; Innovative technological capability creation; Economics of innovation and Innovation systems; Developing countries",
+  "fields_raw": "Head of the International business specialization at the BBA",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Other"
   ],
-  "phd_institution": "University of Mauritius, Mauritius",
+  "phd_institution": "University of Mauritius",
   "phd_year": null,
   "phd_field": "International Business",
-  "ma_institution": "M.Sc. (International Business), Birkbeck College, University of London",
+  "ma_institution": "Birkbeck College, University of London",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.Sc. Hons. (Business Management), King’s College, University of London",
+  "ma_field": "International Business",
+  "ba_institution": "King’s College, University of London",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Management",
   "education_raw": "B.Sc. Hons. (Business Management), King’s College, University of London ; M.Sc. (International Business), Birkbeck College, University of London ; Ph.D. (International Business), University of Mauritius, Mauritius",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/jahan-peerally",
@@ -5937,7 +5960,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jahan-ara-peerally"
  },
  {
@@ -5948,16 +5971,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Transnational Governance; Business-government-civil society relations Relations; Inclusive global value chains; International development",
+  "fields_raw": "Transnational Governance; Business-government-civil society relations",
   "fields_std": [
-   "Corporate Finance"
+   "Public Policy",
+   "Political Economy"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
   "phd_field": "Management",
-  "ma_institution": "Master’s Degree (Management), Federal University of Rio Grande do Sul (UFRGS)",
+  "ma_institution": "Federal University of Rio Grande do Sul (UFRGS)",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Management",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -5976,7 +6000,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "natalia-aguilar-delgado"
  },
  {
@@ -5987,9 +6011,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Headquarters relocations; Corporate taxation in internationalization decisions",
+  "fields_raw": "Expertise: Headquarters relocations; Corporate taxation in internationalization decisions",
   "fields_std": [
-   "Public Economics"
+   "Strategy",
+   "International Trade"
   ],
   "phd_institution": "KU Leuven",
   "phd_year": null,
@@ -6015,7 +6040,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aleksi-eerola"
  },
  {
@@ -6054,7 +6079,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "clara-dallaire-fortier"
  },
  {
@@ -6065,10 +6090,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Impact investing; Investment Law; Non-market strategy; Corporate political activity; Investments in Africa; Africa",
+  "fields_raw": "Expertise: Impact investing; Investment Law",
   "fields_std": [
-   "Asset Pricing",
-   "Strategy"
+   "Financial Economics",
+   "Law & Economics"
   ],
   "phd_institution": "BI Norwegian Business School",
   "phd_year": null,
@@ -6094,7 +6119,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gilbert-kofi-adarkwah"
  },
  {
@@ -6130,10 +6155,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Post-Doctoral Fellow, Centre for Social and Sustainable Innovation (CSSI), Peter B. Gustavson School of Business, University of Victoria, Canada",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "viviana-pilato"
  },
  {
@@ -6144,9 +6169,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Supply management; Buyer-supplier relationships; Sustainable procurement; Public procurement; Aerospace sector; Management reseach methods",
+  "fields_raw": "Supply management; Buyer-supplier relationships",
   "fields_std": [
-   "Business Ethics & Society"
+   "Operations Management"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6172,7 +6197,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "claudia-rebolledo"
  },
  {
@@ -6183,7 +6208,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Total Quality; Improvement of Operational Systems; Flexibility; Process Management",
+  "fields_raw": "Total Quality; Improvement of Operational Systems",
   "fields_std": [
    "Operations Management"
   ],
@@ -6211,7 +6236,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "federico-pasin"
  },
  {
@@ -6222,10 +6247,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Logistics; Transportation; Combinatorial Optimization; Mathematical Decomposition",
+  "fields_raw": "Logistics; Transportation",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Polytechnique Montréal",
   "phd_year": null,
@@ -6251,7 +6275,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-cordeau"
  },
  {
@@ -6262,10 +6286,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Operations research; Vehicle routing; Scheduling; Meta and Matheuristics; Decomposition approaches",
+  "fields_raw": "Operations research; Vehicle routing",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Université de Nantes",
   "phd_year": null,
@@ -6291,7 +6314,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jorge-mendoza-gimenez"
  },
  {
@@ -6302,10 +6325,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Humanitarian logistics; Operations research; Transportation network modelling and optimization; Supply chain management; Operations management",
+  "fields_raw": "Humanitarian logistics; Operations research",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6331,7 +6353,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marie-eve-rancourt"
  },
  {
@@ -6342,17 +6364,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Operations Management; Production Planning; Applications of Operations Research; Integer Programming; Combinatorial Optimization",
+  "fields_raw": "Operations Management; Production Planning",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Katholieke Universiteit Leuven",
-  "phd_year": null,
-  "phd_field": "Applied Economics and Operations Research",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
+  "phd_year": 2002,
+  "phd_field": "Operations Research",
+  "ma_institution": "Katholieke Universiteit Leuven",
+  "ma_year": 1997,
+  "ma_field": "Business Engineering",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -6362,16 +6383,18 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2008,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": [
+   "Z. Degraeve"
+  ],
+  "first_job_after_phd": "Post-Doctoral Research Fellow, Erasmus University Rotterdam School of Management (2002–2003)",
+  "prior_positions": "Post-Doctoral Research Fellow, Erasmus University Rotterdam School of Management, 2002–2003; Assistant Professor of Operations Management, Erasmus University Rotterdam School of Management, 2003–2007; Visiting Assistant Professor, McGill University, 2006–2007; Associate Professor of Operations Management, Erasmus University Rotterdam School of Management, 2008",
+  "year_current_rank": 2014,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "raf-jans"
  },
  {
@@ -6410,7 +6433,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "stephan-vachon"
  },
  {
@@ -6421,10 +6444,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Continuous improvement and Toyota Kata; Strategy deployment and management system; Lean Healthcare; Healthcare logistics; Supply chain management",
+  "fields_raw": "Continuous improvement and Toyota Kata; Strategy deployment and management system",
   "fields_std": [
-   "Strategy",
-   "Operations Management"
+   "Operations Management",
+   "Strategy"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6450,7 +6473,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sylvain-landry"
  },
  {
@@ -6461,10 +6484,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Healthcare logistics; Emergency management; Transportation; Operations research; Process improvement",
+  "fields_raw": "Healthcare logistics; Emergency management",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6490,7 +6512,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "valerie-belanger"
  },
  {
@@ -6501,7 +6523,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Supply Chain Analytics; Optimization under Uncertainty; Large-Scale Optimization",
+  "fields_raw": "Supply Chain Analytics; Optimization under Uncertainty",
   "fields_std": [
    "Operations Management",
    "Data Science & Analytics"
@@ -6509,9 +6531,9 @@
   "phd_institution": "HEC Montréal",
   "phd_year": null,
   "phd_field": "gestion des opérations et de la logistique",
-  "ma_institution": "Master of Civil Engineering (Transportation Engineering), Chulalongkorn University",
+  "ma_institution": "Chulalongkorn University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Civil Engineering (Transportation Engineering)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -6530,7 +6552,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yossiri-adulyasak"
  },
  {
@@ -6569,7 +6591,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "andre-tchokogue"
  },
  {
@@ -6580,10 +6602,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Service Operations Management; Transportation; E-commerce logistics; Supply chain and operations optimization in nonprofit or humanitarian organizations",
+  "fields_raw": "Service Operations Management; Transportation",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6609,7 +6630,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "julie-paquette"
  },
  {
@@ -6620,10 +6641,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Continuous improvement; Operations strategy; International production networks; Behavioral and cognitive perspective of operations management; Qualitative research methods",
+  "fields_raw": "Continuous improvement; Operations strategy",
   "fields_std": [
-   "Strategy",
-   "Operations Management"
+   "Operations Management",
+   "Strategy"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6649,7 +6670,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "maricela-arellano-caro"
  },
  {
@@ -6660,14 +6681,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Decision Support System; Operations Research; Artificial Intelligence; Logistics, Transportation and Healthcare Applications",
+  "fields_raw": "Academic advisor for the M.Sc. specialization in Gestion des opérations et chaîne d’approvisionnement; Regular member of CIRRELT; Co-head of the Sustainable Health axis, member of the scientific committee, and regular research member of the International Observatory on the Societal Impacts of AI and Digital Te…",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
-  "phd_field": "management",
+  "phd_field": "Management",
   "ma_institution": "M.Sc. (administration), HEC Montréal",
   "ma_year": null,
   "ma_field": null,
@@ -6689,7 +6709,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "martin-cousineau"
  },
  {
@@ -6702,14 +6722,14 @@
   "other_units": null,
   "fields_raw": "Political risk; Empirical research",
   "fields_std": [
-   "Operations Management"
+   "Political Economy"
   ],
   "phd_institution": "Clemson University",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": "MBA, Winthrop University",
+  "ma_institution": "Winthrop University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -6728,7 +6748,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "remi-charpin"
  },
  {
@@ -6739,11 +6759,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Production and Operation Management; Supplying of Knowledge-based Services; Total Quality Management and Continuous Improvement; Technology and Innovation Process Management; Operations Strategy",
+  "fields_raw": "Production and Operation Management; Supplying of Knowledge-based Services",
   "fields_std": [
-   "Strategy",
-   "Operations Management",
-   "Entrepreneurship & Innovation"
+   "Operations Management"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -6769,7 +6787,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "silvia-ponce"
  },
  {
@@ -6780,10 +6798,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Transportation and Logistics; Data Analytics; Operations Management",
+  "fields_raw": "Pedagogical coordinator for the Operations and Supply Chain Management Specialization in Master of Science program (M.Sc.); Member of CIRRELT",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "University of British Columbia",
   "phd_year": null,
@@ -6809,7 +6826,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wenyi-xia"
  },
  {
@@ -6820,11 +6837,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Operations Research; Sustainable Supply Chains; (Agri-)food systems; Logistics",
+  "fields_raw": "Operations Research; Sustainable Supply Chains",
   "fields_std": [
-   "Operations Management",
-   "Business Ethics & Society",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "Wageningen University",
   "phd_year": null,
@@ -6832,9 +6847,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "B.A. (Management Science and Economics), University of Strathclyde",
+  "ba_institution": "University of Strathclyde",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Management Science and Economics",
   "education_raw": "Ph.D. (Operations Research and Logistics), Wageningen University ; M. Res. (Computer Aided Decision Support), Polytech Tours ; B.A. (Management Science and Economics), University of Strathclyde",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/sonja-ursula-katharina-rohmer",
@@ -6850,7 +6865,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sonja-rohmer"
  },
  {
@@ -6861,9 +6876,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management Consulting; Professional service firms; Complex Transformations; Strategic Dialogue",
+  "fields_raw": "Management Consulting; Professional service firms",
   "fields_std": [
-   "Strategy"
+   "Management & Organizations"
   ],
   "phd_institution": null,
   "phd_year": null,
@@ -6889,7 +6904,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "alaric-bourgoin"
  },
  {
@@ -6900,10 +6915,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Teaching methods in management education; Uses / impacts of academic knowledge; Management learning and development; Research ethics; Sociology of organizations",
+  "fields_raw": "Expertise; Teaching methods in management education; Uses / impacts of academic knowledge",
   "fields_std": [
-   "Economics of Education",
-   "Business Ethics & Society"
+   "Management & Organizations"
   ],
   "phd_institution": "Cambridge",
   "phd_year": null,
@@ -6929,7 +6943,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "anne-mesny"
  },
  {
@@ -6968,7 +6982,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "anne-pezet"
  },
  {
@@ -6979,9 +6993,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management and Effectiveness of Work Teams; Counterproductive behaviors at work; Positive organizational behavior",
+  "fields_raw": "Expertise; Management and Effectiveness of Work Teams; Counterproductive behaviors at work",
   "fields_std": [
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -7007,7 +7022,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "caroline-aube"
  },
  {
@@ -7018,9 +7033,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management; Management Skills; Management and Innovation",
+  "fields_raw": "Expertise; Management; Management Skills",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -7046,7 +7061,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chantale-mailhot"
  },
  {
@@ -7057,7 +7072,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategy and society; Strategy and sustainable transitions; Voluntary self-regulation; Strategy in pluralistic contexts; Qualitative methods",
+  "fields_raw": "Expertise; Strategy and society; Strategy and sustainable transitions",
   "fields_std": [
    "Strategy",
    "Business Ethics & Society"
@@ -7065,12 +7080,12 @@
   "phd_institution": "HEC Montréal",
   "phd_year": null,
   "phd_field": "Administration",
-  "ma_institution": "Master of Management, McGill University",
+  "ma_institution": "McGill University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.Comm. (Marketing and Management Informations Systems), McGill University",
+  "ma_field": "Management",
+  "ba_institution": "McGill University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Marketing and Management Information Systems",
   "education_raw": "Ph.D. (Administration), HEC Montréal ; Master of Management, McGill University ; B.Comm. (Marketing and Management Informations Systems), McGill University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/charlotte-cloutier",
@@ -7086,7 +7101,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "charlotte-cloutier"
  },
  {
@@ -7097,8 +7112,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Industrial and organizational psychology; Organizational commitment; Performance management; Employee retention; Change and well-being in the workplace",
+  "fields_raw": "Expertise; Industrial and organizational psychology; Organizational commitment",
   "fields_std": [
+   "Organizational Behavior",
    "Management & Organizations"
   ],
   "phd_institution": "Université catholique de Louvain",
@@ -7125,7 +7141,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "christian-vandenberghe"
  },
  {
@@ -7136,9 +7152,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Leadership; Business history; Decision; Management",
+  "fields_raw": "Expertise; Leadership; Business history",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations",
+   "Economic History"
   ],
   "phd_institution": "HEC Paris",
   "phd_year": null,
@@ -7164,7 +7181,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "cyrille-sardais"
  },
  {
@@ -7175,9 +7192,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational Transformation; Organizational Development; Innovation and Technological Change; Work & Organization Psychology",
+  "fields_raw": "Expertise; Organizational Transformation; Organizational Development",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Management & Organizations",
+   "Organizational Behavior"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -7203,7 +7221,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "celine-bareil"
  },
  {
@@ -7214,9 +7232,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management; Organizations and Natural Environment; Social Dimensions of Natural Resource Management",
+  "fields_raw": "Expertise; Management; Organizations and Natural Environment",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Business Ethics & Society"
   ],
   "phd_institution": "McGill",
   "phd_year": null,
@@ -7242,7 +7261,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "emmanuel-raufflet"
  },
  {
@@ -7253,9 +7272,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Leadership and Management Skills; E-Leadership; Sport Management",
+  "fields_raw": "Expertise; Leadership and Management Skills; E-Leadership",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations",
+   "Information Systems"
   ],
   "phd_institution": "École Polytechnique de Montréal",
   "phd_year": null,
@@ -7281,7 +7301,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "eric-brunelle"
  },
  {
@@ -7292,8 +7312,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Job design, organization of work, and meaning of work (existentialist and humanistic approach); Mental health at work; Organizational effectiveness and performance indicators; Emotional intelligence at work",
+  "fields_raw": "Expertise; Job design, organization of work, and meaning of work (existentialist and humanistic approach); Mental health at work",
   "fields_std": [
+   "Organizational Behavior",
    "Management & Organizations"
   ],
   "phd_institution": "Université de Montréal",
@@ -7320,7 +7341,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "estelle-morin"
  },
  {
@@ -7331,13 +7352,14 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Family Business; Management; Corporate Strategy",
+  "fields_raw": "Expertise; Family Business; Management",
   "fields_std": [
-   "Strategy"
+   "Entrepreneurship & Innovation",
+   "Management & Organizations"
   ],
   "phd_institution": "Imperial College London, University of London",
   "phd_year": null,
-  "phd_field": "management",
+  "phd_field": "Management",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -7359,7 +7381,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "isabelle-le-breton-miller"
  },
  {
@@ -7370,8 +7392,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational Transformation; Change Management; Organizational Behavior",
+  "fields_raw": "Expertise; Organizational Transformation; Change Management",
   "fields_std": [
+   "Management & Organizations",
    "Organizational Behavior"
   ],
   "phd_institution": "HEC Montréal",
@@ -7398,7 +7421,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "kevin-johnson"
  },
  {
@@ -7409,35 +7432,36 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategy-as-practice; Organization theories; Narratives of practice; Middle managers; Organizational Restructuring; Pluralistic contexts and permanently failing organizations",
+  "fields_raw": "Expertise; Strategy-as-practice; Organization theories",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
-  "phd_year": null,
-  "phd_field": "administration",
-  "ma_institution": "M.A.(socio.) Université Laval",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_year": 1995,
+  "phd_field": "Administration",
+  "ma_institution": "Université Laval",
+  "ma_year": 1986,
+  "ma_field": "Sociology",
+  "ba_institution": "Université Laval",
+  "ba_year": 1982,
+  "ba_field": "Sociology",
   "education_raw": "M.A.(socio.) Université Laval ; Ph.D (administration) HEC Montréal",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/linda-rouleau",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 1997,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Professeure-adjointe, Université Laval (1995-1997)",
+  "prior_positions": "Professeure-adjointe, Université Laval, 1995-1997; Professeure-agrégée, HEC Montréal, 1997-2000",
+  "year_current_rank": 2007,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "linda-rouleau"
  },
  {
@@ -7454,7 +7478,7 @@
   ],
   "phd_institution": "University of Western Ontario",
   "phd_year": null,
-  "phd_field": "gestion",
+  "phd_field": "Gestion (management)",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -7476,7 +7500,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "louis-hebert"
  },
  {
@@ -7487,13 +7511,14 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Institutionalization process of socially oriented organizational forms; Social impact of different organizational forms; Performativity of socially oriented organizations; Impact and Social Entrepreneurship",
+  "fields_raw": "Institutionalization process of socially oriented organizational forms; Social impact of different organizational forms",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Management & Organizations",
+   "Business Ethics & Society"
   ],
-  "phd_institution": "Université Jean Moulin Lyon III",
+  "phd_institution": "Federal University of Rio Grande do Sul",
   "phd_year": null,
-  "phd_field": "sciences de gestion",
+  "phd_field": "Management science",
   "ma_institution": "Maîtrise (administration), Federal University of Rio Grande do Sul;",
   "ma_year": null,
   "ma_field": null,
@@ -7515,7 +7540,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "luciano-barin-cruz"
  },
  {
@@ -7526,9 +7551,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management and Leadership; Creativity Management; Organisational Design; Creative Cognition; Creative Processes",
+  "fields_raw": "Management and Leadership; Creativity Management",
   "fields_std": [
-   "Organizational Behavior"
+   "Management & Organizations",
+   "Entrepreneurship & Innovation"
   ],
   "phd_institution": "Ecoles des Mines de Paris",
   "phd_year": null,
@@ -7554,7 +7580,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marine-agogue"
  },
  {
@@ -7565,16 +7591,17 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategy; Dynamic capabilities; Organizations and the natural environment; Performing arts management",
+  "fields_raw": "Strategy; Dynamic capabilities",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "IESE Business School, Universidad de Navarra",
   "phd_year": null,
-  "phd_field": "management",
-  "ma_institution": "MBA, ESC Nantes, Deusto, Strathclyde Business School",
+  "phd_field": "Management",
+  "ma_institution": "ESC Nantes, Deusto, Strathclyde Business School",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -7593,7 +7620,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "serge-poisson-de-haro"
  },
  {
@@ -7604,9 +7631,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Compensation Management; Performance Management; Balancing Job and Family",
+  "fields_raw": "Compensation Management; Performance Management",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Organizational Behavior"
   ],
   "phd_institution": "York",
   "phd_year": null,
@@ -7632,7 +7660,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sylvie-st-onge"
  },
  {
@@ -7643,9 +7671,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Socioprofessional Integration of Immigrants; Ethnic social relations, institutions and organizations; Entrepreneurial practices, culture and identity; Sport and society",
+  "fields_raw": "Socioprofessional Integration of Immigrants; Ethnic social relations, institutions and organizations",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Management & Organizations"
   ],
   "phd_institution": "Université de Montréal",
   "phd_year": null,
@@ -7671,7 +7699,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sebastien-arcand"
  },
  {
@@ -7689,9 +7717,9 @@
   "phd_institution": "ESSEC Business School",
   "phd_year": null,
   "phd_field": "Business Administration",
-  "ma_institution": "MBA, Sharif University of Technology",
+  "ma_institution": "Sharif University of Technology",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "MBA",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -7710,7 +7738,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "alireza-ahmadsimab"
  },
  {
@@ -7721,9 +7749,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "International; Comparative Management; Alternative Management; Latin America (Brazil); Corporate Strategy",
+  "fields_raw": "Expertise; International; Comparative Management",
   "fields_std": [
-   "Strategy"
+   "Management & Organizations"
   ],
   "phd_institution": "Sao Paulo",
   "phd_year": null,
@@ -7749,7 +7777,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "allain-joly"
  },
  {
@@ -7760,19 +7788,20 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Ethical decision-making; Sustainability and social responsibility",
+  "fields_raw": "Expertise; Ethical decision-making; Sustainability and social responsibility",
   "fields_std": [
-   "Business Ethics & Society"
+   "Business Ethics & Society",
+   "Management & Organizations"
   ],
   "phd_institution": "University of Lausanne",
   "phd_year": null,
   "phd_field": "Management",
-  "ma_institution": "MSc., (Management), University of Lausanne",
+  "ma_institution": "University of Lausanne",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A., (Honors Business Administration), Ivey Business School, Western University",
+  "ma_field": "Management",
+  "ba_institution": "Ivey Business School, Western University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Honors Business Administration",
   "education_raw": "Ph.D. (Management), University of Lausanne ; MSc., (Management), University of Lausanne ; B.A., (Honors Business Administration), Ivey Business School, Western University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/celia-chui",
@@ -7788,7 +7817,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "celia-chui"
  },
  {
@@ -7824,10 +7853,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Post-Doctoral Studies, Northwestern University",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "daniel-waeger"
  },
  {
@@ -7838,13 +7867,14 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Management; Identity; Theories of organizational discourse; Qualitative methods; Management consulting",
+  "fields_raw": "Expertise; Management; Identity",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Organizational Behavior"
   ],
   "phd_institution": "University of Cambridge",
   "phd_year": null,
-  "phd_field": "management",
+  "phd_field": "Management",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -7866,7 +7896,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "djahanchah-philip-ghadiri"
  },
  {
@@ -7877,10 +7907,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organization theory; Cultural and institutional analysis; Entrepreneurship and strategic innovation; Crowdfunding",
+  "fields_raw": "Expertise; Organization theory; Cultural and institutional analysis",
   "fields_std": [
-   "Strategy",
-   "Entrepreneurship & Innovation"
+   "Management & Organizations"
   ],
   "phd_institution": "University of Alberta",
   "phd_year": null,
@@ -7906,7 +7935,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-francois-soubliere"
  },
  {
@@ -7917,10 +7946,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational ethics (business ethics, professional ethics); Organizational neuroethics; Management; Health care administration (governance and ethical issues)",
+  "fields_raw": "Expertise; Organizational ethics (business ethics, professional ethics); Organizational neuroethics",
   "fields_std": [
-   "Corporate Finance",
-   "Business Ethics & Society"
+   "Business Ethics & Society",
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -7946,7 +7975,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "joe-t-martineau"
  },
  {
@@ -7985,7 +8014,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "marie-ann-betschinger"
  },
  {
@@ -7996,9 +8025,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Corporate strategy; Management of collective organizations; Agribusiness",
+  "fields_raw": "Corporate strategy; Management of collective organizations",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "ESSEC Cergy-Pontoise (France)",
   "phd_year": null,
@@ -8024,7 +8054,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "martine-vezina"
  },
  {
@@ -8035,9 +8065,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Project management; Project Governance; Public and infrastructure projects; Major projects and megaprojects; Qualitative methods",
+  "fields_raw": "Project management; Project Governance",
   "fields_std": [
-   "Corporate Finance"
+   "Operations Management"
   ],
   "phd_institution": "UQAM",
   "phd_year": null,
@@ -8045,9 +8075,9 @@
   "ma_institution": "Master in project management, UQAM",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Bachelor in International Developement Studies, McGill University",
+  "ba_institution": "McGill University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "International Development Studies",
   "education_raw": "Postdoctoral researcher, École de technologie supérieure (2017-2018) ; Ph. D. (administration), UQAM ; Master in project management, UQAM ; Bachelor in International Developement Studies, McGill University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/maude-brunet",
@@ -8059,11 +8089,11 @@
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Postdoctoral researcher, École de technologie supérieure (2017-2018)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "maude-brunet"
  },
  {
@@ -8074,9 +8104,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational behavior; Leadership; Followership; Leader-follower relationships",
+  "fields_raw": "Organizational behavior; Leadership",
   "fields_std": [
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "Université Concordia",
   "phd_year": null,
@@ -8102,7 +8133,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "melanie-robinson"
  },
  {
@@ -8141,7 +8172,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "nicolas-le-devedec"
  },
  {
@@ -8152,10 +8183,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Environmental Philosophy; Sustainability Science; Innovation Studies",
+  "fields_raw": "Environmental Philosophy; Sustainability Science",
   "fields_std": [
-   "Entrepreneurship & Innovation",
-   "Business Ethics & Society"
+   "Business Ethics & Society",
+   "Other"
   ],
   "phd_institution": "McGill University",
   "phd_year": null,
@@ -8163,9 +8194,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "B.Sc.( Philosophy and Economics), London School of Economics",
+  "ba_institution": "London School of Economics",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Philosophy and Economics",
   "education_raw": "Ph.D. (Philosophy), McGill University ; B.Sc.( Philosophy and Economics), London School of Economics",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/rafael-ziegler",
@@ -8181,7 +8212,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "rafael-ziegler"
  },
  {
@@ -8192,19 +8223,20 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategic management; Social capital and strategic decisions; Quantitative methods in strategy research",
+  "fields_raw": "Strategic management; Social capital and strategic decisions",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": "Masters of Engineering, McMaster University",
+  "ma_institution": "McMaster University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Bachelor of Engineering, McMaster University",
+  "ma_field": "Engineering",
+  "ba_institution": "McMaster University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Engineering",
   "education_raw": "Bachelor of Engineering, McMaster University ; Masters of Engineering, McMaster University ; Ph. D., HEC Montréal",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/russell-fralich",
@@ -8220,7 +8252,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "russell-fralich"
  },
  {
@@ -8231,11 +8263,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Global environmental problems and grand challenges; Global environmental change and global environmental politics; International organizations (MNCs, NGOs, and International Organizations); Strategic management and climate change; Sustainable transition; Climate change education",
+  "fields_raw": "Global environmental problems and grand challenges; Global environmental change and global environmental politics",
   "fields_std": [
-   "Economics of Education",
-   "Strategy",
-   "Business Ethics & Society"
+   "Public Policy",
+   "Other"
   ],
   "phd_institution": "Western University",
   "phd_year": null,
@@ -8261,7 +8292,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yves-plourde"
  },
  {
@@ -8272,9 +8303,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational Theory; Economic Anthropology; Sustainable degrowth",
+  "fields_raw": "Organizational Theory; Economic Anthropology",
   "fields_std": [
-   "Business Ethics & Society"
+   "Management & Organizations",
+   "Other"
   ],
   "phd_institution": "HEC Paris",
   "phd_year": null,
@@ -8300,7 +8332,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yves-marie-abraham"
  },
  {
@@ -8311,9 +8343,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Organizational Routines; Cross-cultural Management; Arts and Cultural Management; Qualitative methods",
+  "fields_raw": "Expertise; Organizational Routines; Cross-cultural Management",
   "fields_std": [
-   "Management & Organizations"
+   "Management & Organizations",
+   "Organizational Behavior"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -8339,7 +8372,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "charlotte-blanche"
  },
  {
@@ -8350,9 +8383,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Strategy-as-practice and process; Strategy in pluralistic contexts; Ethnography",
+  "fields_raw": "Expertise; Strategy-as-practice and process; Strategy in pluralistic contexts",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "University of Sydney",
   "phd_year": null,
@@ -8360,9 +8394,9 @@
   "ma_institution": "MSc (Management – Strategy), HEC Montréal",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "McGill University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Social Work",
   "education_raw": "PhD (Strategy, Innovation, and Entrepreneurship), University of Sydney ; MSc (Management – Strategy), HEC Montréal ; BSW (Social Work), McGill University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/fannie-couture",
@@ -8378,7 +8412,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "fannie-couture"
  },
  {
@@ -8417,7 +8451,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "justine-ballon"
  },
  {
@@ -8456,7 +8490,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "leandre-chenard-poirier"
  },
  {
@@ -8467,10 +8501,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Sales Force Effectiveness; Sales Management; Business Development; Business-to-Business (B2B) Marketing; Technology and Artificial Intelligence (AI); Mental Health and Well-Being; Ethics",
+  "fields_raw": "Sales Force Effectiveness; Sales Management",
   "fields_std": [
-   "Marketing",
-   "Business Ethics & Society"
+   "Marketing"
   ],
   "phd_institution": "Université Grenoble Alpes",
   "phd_year": null,
@@ -8496,7 +8529,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "bruno-lussier"
  },
  {
@@ -8535,7 +8568,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "danilo-correa-dantas"
  },
  {
@@ -8546,16 +8579,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Marketing of arts and culture",
+  "fields_raw": "Head of the PhD's field of application In Marketing and Management of Arts, Cultural Industries and the Medias",
   "fields_std": [
    "Marketing"
   ],
   "phd_institution": null,
   "phd_year": null,
   "phd_field": null,
-  "ma_institution": "MBA, HEC Montréal",
+  "ma_institution": "HEC Montréal",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -8574,7 +8607,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "francois-colbert"
  },
  {
@@ -8585,9 +8618,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Anthropology of consumption; Consumer behaviours study; Material culture studies; Ethnographic research",
+  "fields_raw": "Anthropology of consumption; Consumer behaviours study",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Other"
   ],
   "phd_institution": "University College London, University of London",
   "phd_year": null,
@@ -8613,7 +8647,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jean-sebastien-marcoux"
  },
  {
@@ -8624,10 +8658,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "International marketing; Creativity and innovation; Marketing for cultural industries; International strategic alliances and joint ventures; Performance measurement",
+  "fields_raw": "International marketing; Creativity and innovation",
   "fields_std": [
    "Marketing",
-   "Strategy",
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "University of Warwick",
@@ -8654,7 +8687,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "johanne-brunet"
  },
  {
@@ -8665,16 +8698,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Anti-consumption Lifestyles; Consumer Resistance; Hormones and Consumer Behavior; Materialism; Cross-cultural Marketing; Social Media and Consumer Behavior",
+  "fields_raw": "Anti-consumption Lifestyles; Consumer Resistance",
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": "John Molson School of Business, Concordia University",
+  "phd_institution": "Concordia University",
   "phd_year": null,
   "phd_field": "Marketing",
-  "ma_institution": "M.Sc. (Psychology), University of Brasilia",
+  "ma_institution": "University of Brasilia",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Psychology",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -8693,7 +8726,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marcelo-vinhal-nepomuceno"
  },
  {
@@ -8704,7 +8737,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Branding; Communities of Consumption; Fashion Marketing; Media Consumption and Participatory Culture; Qualitative Research Methods",
+  "fields_raw": "Branding; Communities of Consumption",
   "fields_std": [
    "Marketing"
   ],
@@ -8732,7 +8765,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marie-agnes-parmentier"
  },
  {
@@ -8743,7 +8776,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Consumer behavior; Marketing culture and the arts; Costumer satisfaction; Sales promotions",
+  "fields_raw": "Consumer behavior; Marketing culture and the arts",
   "fields_std": [
    "Marketing"
   ],
@@ -8771,7 +8804,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "renaud-legoux"
  },
  {
@@ -8782,9 +8815,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Marketing models; Marketing research; Management of marketing channels; Promotions",
+  "fields_raw": "Marketing models; Marketing research",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Data Science & Analytics"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -8810,7 +8844,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sihem-taboubi"
  },
  {
@@ -8823,7 +8857,8 @@
   "other_units": null,
   "fields_raw": "Internet marketing; Online consumer behavior",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Information Systems"
   ],
   "phd_institution": "HEC Montréal",
   "phd_year": null,
@@ -8849,7 +8884,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "sylvain-senecal"
  },
  {
@@ -8860,10 +8895,9 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Customer revenge and betrayal; Online public complaining; Relationship marketing; Service failure and recovery; Teaching: marketing strategy",
+  "fields_raw": "Customer revenge and betrayal; Online public complaining",
   "fields_std": [
-   "Marketing",
-   "Strategy"
+   "Marketing"
   ],
   "phd_institution": "University of Western Ontario",
   "phd_year": null,
@@ -8889,7 +8923,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yany-gregoire"
  },
  {
@@ -8907,9 +8941,9 @@
   "phd_institution": "Concordia University",
   "phd_year": null,
   "phd_field": "Marketing",
-  "ma_institution": "MBA, Bilkent University",
+  "ma_institution": "Bilkent University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -8928,7 +8962,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ali-tezer"
  },
  {
@@ -8939,9 +8973,10 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "International/ Relational/ Industrial Marketing; Value Creation/ Sharing/ Capture; Customer-Supplier Relationships; Latin America",
+  "fields_raw": "International/ Relational/ Industrial Marketing; Value Creation/ Sharing/ Capture",
   "fields_std": [
-   "Marketing"
+   "Marketing",
+   "Strategy"
   ],
   "phd_institution": "Université Laval",
   "phd_year": null,
@@ -8967,7 +9002,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aurelia-durand"
  },
  {
@@ -8980,15 +9015,16 @@
   "other_units": null,
   "fields_raw": "Morality and Ethics in Consumption",
   "fields_std": [
+   "Marketing",
    "Business Ethics & Society"
   ],
   "phd_institution": "Université Concordia",
   "phd_year": null,
   "phd_field": "marketing",
-  "ma_institution": null,
+  "ma_institution": "American University in Cairo",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A.A., American University in Cairo",
+  "ma_field": "Business Administration (MBA)",
+  "ba_institution": "American University in Cairo",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "Ph. D. (marketing), Université Concordia ; M.B.A., American University in Cairo ; B.A.A., American University in Cairo",
@@ -9006,7 +9042,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "aya-aboelenien"
  },
  {
@@ -9017,7 +9053,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Marketing Strategy; Market-Oriented Organizational Cultures; Business-to-Business Marketing; Marketing Channels; Pricing",
+  "fields_raw": "Marketing Strategy; Market-Oriented Organizational Cultures",
   "fields_std": [
    "Marketing",
    "Strategy"
@@ -9025,9 +9061,9 @@
   "phd_institution": "Northwestern University",
   "phd_year": null,
   "phd_field": "Marketing",
-  "ma_institution": "MBA, Case Western Reserve University",
+  "ma_institution": "Case Western Reserve University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (MBA)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -9046,7 +9082,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gary-gebhardt"
  },
  {
@@ -9057,36 +9093,36 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Motivational research, study of consumer dreams and desires; Non-profit marketing, green marketing, and consumer ethics; Qualitative marketing research: projective techniques, in-depth interviews, ethnography",
+  "fields_raw": "Motivational research, study of consumer dreams and desires; Non-profit marketing, green marketing, and consumer ethics",
   "fields_std": [
    "Marketing",
    "Business Ethics & Society"
   ],
   "phd_institution": "Concordia University",
-  "phd_year": null,
-  "phd_field": "administration",
-  "ma_institution": null,
+  "phd_year": 2009,
+  "phd_field": "Administration",
+  "ma_institution": "HEC Montreal",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.A.A. (marketing), HEC Montréal",
+  "ma_field": "Administration (Major in Marketing)",
+  "ba_institution": "HEC Montreal",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Business Administration (Major in Marketing)",
   "education_raw": "B.A.A. (marketing), HEC Montréal ; M. Sc. (marketing), HEC Montréal ; Ph. D. (administration), Concordia University",
   "homepage_url": null,
   "profile_url": "https://www.hec.ca/en/profs/jonathan-deschenes",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2007,
   "source_url": "https://www.hec.ca/en/profs/complete-faculty-list",
   "notes": "Education parsed from profile list; no degree years on site; some French degree-field strings kept verbatim",
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Annamma Joy",
+  "first_job_after_phd": "Assistant Professor, HEC Montreal (2007-2012)",
+  "prior_positions": "Lecturer, UQAM, 2007; Teaching and research assistant, Concordia University and HEC Montreal, 2003-2006; Lecturer, HEC Montreal, 2002-2003; Consultant, for-profit and not-for-profit organizations, Montreal, since 2004; Market analyst, GRAMI (HEC Montreal), 2001; Marketing manager, Technidek inc., 1999-2000; Demo day representative, Epson Canada, 1998",
+  "year_current_rank": 2012,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "jonathan-deschenes"
  },
  {
@@ -9097,16 +9133,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Consumer behavior; Services marketing; Measurement",
+  "fields_raw": "Consumer behavior; Services marketing",
   "fields_std": [
    "Marketing"
   ],
   "phd_institution": "Concordia University",
   "phd_year": null,
-  "phd_field": "Marketing",
-  "ma_institution": "M.Sc. in Administration (Marketing), Concordia University",
+  "phd_field": "Administration (Marketing)",
+  "ma_institution": "Concordia University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Administration (Marketing)",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -9125,7 +9161,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "marc-tomiuk"
  },
  {
@@ -9136,13 +9172,13 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Consumer behavior: Consumers' identity projects; Cultural and experiential facet of consumption; Brand management; Food marketing and consumption; Qualitative methods in marketing research",
+  "fields_raw": "Consumer behavior: Consumers' identity projects; Cultural and experiential facet of consumption; Brand management",
   "fields_std": [
    "Marketing"
   ],
   "phd_institution": "Queen's University",
   "phd_year": null,
-  "phd_field": "marketing",
+  "phd_field": "Marketing",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -9164,7 +9200,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yannik-st-james"
  },
  {
@@ -9203,7 +9239,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "alex-baudet"
  },
  {
@@ -9218,7 +9254,7 @@
   "fields_std": [
    "Entrepreneurship & Innovation"
   ],
-  "phd_institution": "Faculty of Science and Engineering, University of Manchester",
+  "phd_institution": "University of Manchester",
   "phd_year": null,
   "phd_field": "Textile Design Fashion and Management",
   "ma_institution": null,
@@ -9242,7 +9278,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "francesca-bonetti"
  },
  {
@@ -9253,7 +9289,7 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Digital Marketing; Consumer Psychology; Visual Attention",
+  "fields_raw": "Digital Marketing; Consumer Psychology",
   "fields_std": [
    "Marketing"
   ],
@@ -9281,7 +9317,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ruxandra-monica-luca"
  },
  {
@@ -9292,16 +9328,16 @@
   "unit_type": "business",
   "area": null,
   "other_units": null,
-  "fields_raw": "Business-to-Business Marketing; Business Development; Relationship Marketing; Personal Selling and Sales Management; New Product Launches",
+  "fields_raw": "Business-to-Business Marketing; Business Development",
   "fields_std": [
    "Marketing"
   ],
   "phd_institution": "Justus-Liebig University",
   "phd_year": null,
-  "phd_field": "Business Administration with Marketing Emphasis",
-  "ma_institution": "MSc (Business Administration with Management Emphasis), Justus-Liebig University",
+  "phd_field": "Business Administration (Marketing emphasis)",
+  "ma_institution": "Justus-Liebig University",
   "ma_year": null,
-  "ma_field": null,
+  "ma_field": "Business Administration (Management emphasis)",
   "ba_institution": "BA (International Management with Engineering), South Westphalia University of Applied Sciences",
   "ba_year": null,
   "ba_field": null,
@@ -9320,7 +9356,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "stephan-volpers"
  }
 ]

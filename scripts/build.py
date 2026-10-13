@@ -308,26 +308,40 @@ def do_import(raw_dir):
               "nus": "national-university-of-singapore", "ntu": "nanyang-technological-university",
               "smu": "singapore-management-university"}
 
-    def enrich_uni(fname):
-        stem = os.path.basename(fname)[:-5]
-        for uid in buckets:
-            fulls = [uid] + (["the-" + uid] if os.path.exists(os.path.join(raw_dir, f"the-{uid}.json")) else [])
-            for full in fulls:  # merge files are named from raw ids, which may keep "the-"
-                p = full.split("-")
-                if stem.startswith(p[0] + "_" + p[-1] + "_"):
-                    return uid
-        return legacy.get(stem.split("_")[0])
+    def fulls_of(uid):  # merge files are named from raw ids, which may keep "the-"
+        return [uid] + (["the-" + uid] if os.path.exists(os.path.join(raw_dir, f"the-{uid}.json")) else [])
 
+    def enrich_unis(fname):
+        """universities an enrich file may belong to: exact full-id tag first, else the short 'first_last' prefix
+        (several universities can share it, e.g. universite-de-montreal / universite-du-quebec-a-montreal)"""
+        stem = os.path.basename(fname)[:-5]
+        exact = [uid for uid in buckets for full in fulls_of(uid) if stem.startswith(full.replace("-", "_") + "_")]
+        if exact:
+            return exact[:1]
+        short = [uid for uid in buckets for full in fulls_of(uid)
+                 if stem.startswith(full.split("-")[0] + "_" + full.split("-")[-1] + "_")]
+        if short:
+            return list(dict.fromkeys(short))
+        return [legacy[stem.split("_")[0]]] if stem.split("_")[0] in legacy else []
+
+    roster_names = {uid: {norm(r.get("name")) for r in recs} for uid, recs in buckets.items()}
     enrich = defaultdict(dict)
     for f in sorted(glob.glob(os.path.join(raw_dir, "enrich", "*.json"))):
         if os.path.basename(f).startswith("_"):
             continue
-        u = enrich_uni(f)
-        if u is None:
+        us = enrich_unis(f)
+        if not us:
             warnings.append(f"enrich file {os.path.basename(f)}: cannot map to a university (skipped)")
             continue
         for e in json.load(open(f, encoding="utf-8")):
-            enrich[u][norm(e.get("name"))] = e
+            k = norm(e.get("name"))
+            if len(us) == 1:
+                enrich[us[0]][k] = e
+                continue
+            # ambiguous short prefix: assign each record to the one university whose roster has this name
+            hit = [u for u in us if k in roster_names[u]]
+            if len(hit) == 1:
+                enrich[hit[0]][k] = e
     os.makedirs(os.path.join(DATA, "faculty"), exist_ok=True)
     for uid, recs in buckets.items():
         if not recs:
