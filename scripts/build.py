@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site")
 
-RANKS = ["Professor", "Associate Professor", "Assistant Professor"]
+RANKS = ["Professor", "Associate Professor", "Assistant Professor", "Faculty"]   # "Faculty" = tenure-line, rank not stated by the university
 UNIT_TYPES = ["economics", "business", "public_policy", "ag_resource_econ", "environment", "law", "public_health", "other"]
 FIELDS = [
     "Microeconomic Theory", "Macroeconomics", "Monetary Economics", "Econometrics", "Labor Economics", "Public Economics",
@@ -338,6 +338,8 @@ def do_import(raw_dir):
             orig_key = norm(r.get("name"))
             rec["name"] = fix_name(r.get("name"))
             rec["rank_std"] = clean_rank(r.get("rank_std"), r.get("title"))
+            if rec["rank_std"] is None and r.get("rank_unknown"):
+                rec["rank_std"] = "Faculty"
             if rec["rank_std"] is None:
                 warnings.append(f"{uid}: {r.get('name')}: unrecognized rank '{r.get('title')}' (dropped)")
                 continue
