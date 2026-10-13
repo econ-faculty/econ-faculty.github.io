@@ -1610,8 +1610,7 @@
   "short": "Xiamen",
   "country": "China",
   "region": "Asia",
-  "city": "Xiamen",
-  "added": "top5-2026"
+  "city": "Xiamen"
  },
  {
   "id": "johannes-kepler-university-linz",
@@ -1981,5 +1980,37 @@
   "region": "North America",
   "city": "Salt Lake City",
   "added": "top5-2026"
+ },
+ {
+  "id": "central-university-of-finance-and-economics",
+  "name": "Central University of Finance and Economics",
+  "short": "CUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "shanghai-university-of-finance-and-economics",
+  "name": "Shanghai University of Finance and Economics",
+  "short": "SUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai"
+ },
+ {
+  "id": "university-of-international-business-and-economics",
+  "name": "University of International Business and Economics",
+  "short": "UIBE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "renmin-university-of-china",
+  "name": "Renmin University of China",
+  "short": "RUC",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
  }
 ]
