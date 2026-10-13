@@ -488,6 +488,8 @@ def build(check):
     pf_list = []
     pindex, ptitle = {}, {}
     pending, udetails = [], []
+    lo = os.path.join(DATA, "link_overrides.json")   # {pid: {homepage_url|profile_url|cv_url: url or null}} (verified link fixes)
+    LINKS = json.load(open(lo, encoding="utf-8")) if os.path.exists(lo) else {}
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
@@ -509,6 +511,9 @@ def build(check):
             if r.get("rank_std") not in RANKS:
                 warnings.append(f"{u['id']}: {r.get('name')}: bad rank")
                 continue
+            for k, v in (LINKS.get(pid) or {}).items():
+                if k in ("homepage_url", "profile_url", "cv_url"):
+                    r[k] = v
             fs = [FIELDS.index(x) for x in r.get("fields_std") or [] if x in FIELDS]
             pf = field_labels(r)
             for x in pf:
