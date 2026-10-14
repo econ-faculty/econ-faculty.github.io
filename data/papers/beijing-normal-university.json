@@ -1,0 +1,8433 @@
+{
+"ying kong": {
+"name": "Ying Kong",
+"papers": [
+{
+"title": "A system dynamics framework to formulate energy policies for sustainable development in Ethiopia",
+"authors": [
+"Ying Kong",
+"H. B. Alemayehu",
+"W. Zhang",
+"Y. He",
+"J. Zhang",
+"S. Liu"
+],
+"year": 2025,
+"venue": "Utilities Policy",
+"status": "published"
+},
+{
+"title": "Environmental footprint in specific industries: intellectual base and research status",
+"authors": [
+"Ying Kong",
+"X. Huang",
+"R. Chen",
+"E. H. Zhuang",
+"S. Kong",
+"Y. Zhiquan"
+],
+"year": 2025,
+"venue": "Carbon Footprints",
+"status": "published"
+},
+{
+"title": "Air pollution and corporate innovation under China's new and stringent round of environmental regulations",
+"authors": [
+"Ying Kong",
+"X. Huang",
+"R. Chen",
+"R. Zhang"
+],
+"year": 2025,
+"venue": "Journal of Environmental Management",
+"status": "published"
+},
+{
+"title": "Systematic review of life cycle assessments on carbon emissions in the transportation system",
+"authors": [
+"Ying Kong",
+"W. Zhang",
+"Y. Li",
+"H. Li",
+"S. Liu",
+"J. Zhang"
+],
+"year": 2024,
+"venue": "Environmental Impact Assessment Review",
+"status": "published"
+},
+{
+"title": "A comprehensive review of greenhouse gas based on subject categories",
+"authors": [
+"Ying Kong",
+"R. Chen"
+],
+"year": 2023,
+"venue": "Science of The Total Environment",
+"status": "published"
+},
+{
+"title": "How does transportation infrastructure affect urban carbon emissions? an empirical study based on 286 cities in China",
+"authors": [
+"Ying Kong",
+"F. Xiao",
+"F. Pang",
+"D. Yan",
+"D. Yang"
+],
+"year": 2023,
+"venue": "Environmental Science and Pollution Research",
+"status": "published"
+},
+{
+"title": "Impact of low-carbon pilot cities on surrounding cities",
+"authors": [
+"Ying Kong",
+"T. Wang"
+],
+"year": 2022,
+"venue": "International Journal of New Developments in Engineering and Society",
+"status": "published"
+},
+{
+"title": "Redefine carbon footprint performance with the total factor productivity: A case from a regional food production system",
+"authors": [
+"Ying Kong",
+"R. Chen"
+],
+"year": 2022,
+"venue": "Ecological Indicators",
+"status": "published"
+},
+{
+"title": "Nonferrous Metals Futures Price Prediction Based on Deep Learning Model",
+"authors": [
+"Ying Kong",
+"Y. Hou",
+"Z. Li"
+],
+"year": 2022,
+"venue": "3rd International Conference on Computer Engineering and Application (ICCEA), IEEE",
+"status": "published"
+},
+{
+"title": "Prediction of household carbon emissions based on SP-LIME and ensemble learning models",
+"authors": [
+"Ying Kong",
+"Z. Pang"
+],
+"year": 2022,
+"venue": "5th International Conference on Electronics Technology (ICET), IEEE",
+"status": "published"
+},
+{
+"title": "Trend Prediction of Stock Industry Index Based on Financial Text",
+"authors": [
+"Ying Kong",
+"L. Chen",
+"J. Lin"
+],
+"year": 2021,
+"venue": "International Conference on Identification, Information and Knowledge in the Internet of Things",
+"status": "published"
+},
+{
+"title": "Stock-bond Yield Correlation Analysis based on Natural Language Processing",
+"authors": [
+"Ying Kong",
+"Y. Xu",
+"J. Lin"
+],
+"year": 2021,
+"venue": "2021 IEEE 19th International Conference on Industrial Informatics (INDIN)",
+"status": "published"
+},
+{
+"title": "An Analysis of COVID-19 impacts on S&P 500 and FinTech Index",
+"authors": [
+"Ying Kong",
+"H. Wang",
+"C. Chan",
+"J. Lin"
+],
+"year": 2021,
+"venue": "International Journal of Financial Engineering",
+"status": "published"
+},
+{
+"title": "Disparities and drivers of the water footprint of food consumption in China",
+"authors": [
+"Ying Kong",
+"Z. Pang",
+"D. Yan",
+"T. Wang"
+],
+"year": 2021,
+"venue": "Environmental Science and Pollution Research",
+"status": "published"
+},
+{
+"title": "The effectiveness of travel restriction measures in alleviating the COVID-19 epidemic: evidence from Shenzhen, China",
+"authors": [
+"Ying Kong",
+"H. Ji",
+"H. Tong",
+"J. Wang"
+],
+"year": 2021,
+"venue": "Environmental Geochemistry and Health",
+"status": "published"
+},
+{
+"title": "How do socioeconomic factors influence urban PM2.5 pollution in China? Empirical analysis from the perspective of spatiotemporal disequilibrium",
+"authors": [
+"Ying Kong",
+"D. Yan",
+"P. Jiang",
+"R. Huang",
+"B. Ye"
+],
+"year": 2021,
+"venue": "Science of The Total Environment",
+"status": "published"
+},
+{
+"title": "Are compact cities more sustainable? Empirical evidence from 49 high-tier Chinese cities",
+"authors": [
+"Ying Kong",
+"M. Hu"
+],
+"year": 2021,
+"venue": "Energy Proceedings",
+"status": "published"
+},
+{
+"title": "Catch Up or Fall Behind on Eco-Efficiency: Insight from Convergence Analysis",
+"authors": [
+"Ying Kong",
+"Z. Yang",
+"J. Sha"
+],
+"year": 2020,
+"venue": "Chemical Engineering Transactions",
+"status": "published"
+},
+{
+"title": "The heterogeneity effects of socioeconomic determinants on PM2.5 concentrations using a two-step panel quantile regression",
+"authors": [
+"Ying Kong",
+"D. Yan",
+"X. Ren"
+],
+"year": 2020,
+"venue": "Applied Energy",
+"status": "published"
+},
+{
+"title": "The impact of population urbanization lag on eco-efficiency: A panel quantile approach",
+"authors": [
+"Ying Kong",
+"Y. Zhou",
+"H. Wang",
+"L. Zeng"
+],
+"year": 2020,
+"venue": "Journal of Cleaner Production",
+"status": "published"
+},
+{
+"title": "The Spatial and Temporal Evolution of Provincial Eco-efficiency in China Based on SBM Modified Three Stages Data Envelopment Analysis",
+"authors": [
+"Ying Kong",
+"Y. Zhou",
+"T. Zhang"
+],
+"year": 2020,
+"venue": "Environmental Science and Pollution Research",
+"status": "published"
+},
+{
+"title": "Long-term Impacts of Urbanization through Population Migration on China's Energy Demand and CO2 Emissions",
+"authors": [
+"Ying Kong",
+"J. Liu",
+"M. Yin Mingjian",
+"Wang Ke",
+"Zou Ji"
+],
+"year": 2020,
+"venue": "Mitigation and Adaptation Strategies for Global Change",
+"status": "published"
+},
+{
+"title": "Asymptotic Meta Learning for Cross Validation of Models for Financial Data",
+"authors": [
+"Ying Kong",
+"Haitao Xiang",
+"Jianwu Lin"
+],
+"year": 2020,
+"venue": "IEEE Intelligent Systems",
+"status": "published"
+},
+{
+"title": "CausalBG: Causal Recurrent Neural Network for the Blood Glucose Inference With IoT Platform",
+"authors": [
+"Ying Kong",
+"M. He",
+"W. Gu",
+"L. Zhang",
+"C. J. Spanos",
+"K. M. Mosalam"
+],
+"year": 2020,
+"venue": "IEEE Internet of Things Journal",
+"status": "published"
+},
+{
+"title": "中国电力部门实现碳中和目标的路径和建议",
+"authors": [
+"郝鑫",
+"孔英"
+],
+"year": 2021,
+"venue": "开放导报",
+"status": "published"
+},
+{
+"title": "基于复杂网络视角的金融科技风险传染研究",
+"authors": [
+"曹齐芳",
+"孔英"
+],
+"year": 2021,
+"venue": "金融监管研究",
+"status": "published"
+},
+{
+"title": "城镇化背景下中国长期低碳转型路径研究",
+"authors": [
+"刘俊伶",
+"王克",
+"夏侯沁蕊",
+"刘芳名",
+"邹骥",
+"孔英"
+],
+"year": 2020,
+"venue": "气候变化研究进展",
+"status": "published"
+},
+{
+"title": "管理经济学",
+"authors": [
+"孔英"
+],
+"year": 2012,
+"venue": "北京大学出版社",
+"status": "published"
+},
+{
+"title": "开放度与经济质量研究",
+"authors": [
+"孔英"
+],
+"year": 2019,
+"venue": "吉林科技出版社",
+"status": "published"
+}
+]
+},
+"zimin meng": {
+"name": "Zimin Meng",
+"papers": [
+{
+"title": "日本综合商社的功能及其演化",
+"authors": [
+"Zimin Meng"
+],
+"year": 2010,
+"venue": "北京师范大学出版社",
+"status": "published"
+},
+{
+"title": "当代日本“掠影”与“点睛”——从社会文化到企业经营的透视",
+"authors": [
+"Zimin Meng"
+],
+"year": 2025,
+"venue": "九州出版社",
+"status": "published"
+},
+{
+"title": "课程思政教学实践中的若干问题及改进路径",
+"authors": [
+"Zimin Meng",
+"李莉"
+],
+"year": 2022,
+"venue": "中国大学教学",
+"status": "published"
+},
+{
+"title": "粤港澳大湾区非遗旅游开发——基于RMP分析",
+"authors": [
+"Zimin Meng"
+],
+"year": 2022,
+"venue": "社会科学家",
+"status": "published"
+},
+{
+"title": "从创新教学法看国际教学创新的主流内容及变化趋势",
+"authors": [
+"Zimin Meng"
+],
+"year": 2025,
+"venue": "成人教育",
+"status": "published"
+},
+{
+"title": "国际“创新教学法”对我国职业教育“三教”改革的启示——基于IPR系列报告的纵向研究",
+"authors": [
+"Zimin Meng",
+"徐琳"
+],
+"year": 2024,
+"venue": "中国职业技术教育",
+"status": "published"
+},
+{
+"title": "珠海经济特区的发展历程及路径分析",
+"authors": [
+"Zimin Meng"
+],
+"year": 2020,
+"venue": "城市观察",
+"status": "published"
+},
+{
+"title": "基于SPSS的连锁快餐厅顾客满意影响因素探究——以麦当劳、肯德基为例",
+"authors": [
+"Zimin Meng",
+"邓坤涵"
+],
+"year": 2013,
+"venue": "消费经济",
+"status": "published"
+},
+{
+"title": "零售商买方势力对供应商的影响分析",
+"authors": [
+"吴清萍",
+"Zimin Meng"
+],
+"year": 2009,
+"venue": "江苏商论",
+"status": "published"
+},
+{
+"title": "绿色经济:21世纪可持续发展的经济",
+"authors": [
+"Zimin Meng"
+],
+"year": 2002,
+"venue": "商业研究",
+"status": "published"
+},
+{
+"title": "打破绿色流通发展的“瓶颈",
+"authors": [
+"Zimin Meng"
+],
+"year": 2002,
+"venue": "经济论坛",
+"status": "published"
+},
+{
+"title": "试论我国流通生产力要素系统的构建和完善",
+"authors": [
+"Zimin Meng"
+],
+"year": 2002,
+"venue": "财贸经济",
+"status": "published"
+},
+{
+"title": "我国百货企业运营模式的变革与创新",
+"authors": [
+"Zimin Meng",
+"王文"
+],
+"year": 2000,
+"venue": "经济与管理",
+"status": "published"
+},
+{
+"title": "市场维艰穷则思变──也谈大商场的困境和出路",
+"authors": [
+"Zimin Meng"
+],
+"year": 1999,
+"venue": "经济与管理",
+"status": "published"
+},
+{
+"title": "総合商社におけるコア機能の構造変化によるビジネスモデルの再構築",
+"authors": [
+"Zimin Meng"
+],
+"year": 2008,
+"venue": "イノベーション・マネジメント (法政大学)",
+"status": "published"
+},
+{
+"title": "総合商社における中核機能の変化についての検証",
+"authors": [
+"Zimin Meng"
+],
+"year": 2007,
+"venue": "現代社会文化研究",
+"status": "published"
+},
+{
+"title": "総合商社における情報経営について：日本の総合商社における情報機能・ネットワーク効果を中心に",
+"authors": [
+"Zimin Meng"
+],
+"year": 2007,
+"venue": "情報経営",
+"status": "published"
+},
+{
+"title": "総合商社におけるナノテクビジネス分野への取り組みの検証：日本の産業界の動向に対するデータ分析から",
+"authors": [
+"Zimin Meng"
+],
+"year": 2006,
+"venue": "現代社会文化研究",
+"status": "published"
+},
+{
+"title": "An Analysis on the Reengineering of SOGO SHOSHA's Functions",
+"authors": [
+"Zimin Meng"
+],
+"year": 2006,
+"venue": "Journal of the Study of Modern Society and Culture",
+"status": "published"
+}
+]
+},
+"chuantao cui": {
+"name": "Chuantao Cui",
+"papers": [
+{
+"title": "External enablement of new venture creation: An exploratory, query-driven assessment of China's high-speed rail expansion",
+"authors": [
+"Jean Jinghan Chen",
+"Chuantao Cui",
+"Richard A. Hunt",
+"Leona Shao-Zhi Li"
+],
+"year": 2020,
+"venue": "Journal of Business Venturing",
+"status": "published"
+},
+{
+"title": "Value-added exports and the skill premium: Evidence from China's international and regional production networks",
+"authors": [
+"Chuantao Cui",
+"Leona Shao-Zhi Li",
+"Daoju Peng"
+],
+"year": 2020,
+"venue": "Pacific Economic Review",
+"status": "published"
+},
+{
+"title": "The effect of the US-China trade war on Chinese new firm entry",
+"authors": [
+"Chuantao Cui",
+"Leona Shao-Zhi Li"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Job and home dilemma: housing pathways of urban migrants in China",
+"authors": [
+"Zhimin Wang",
+"Chuantao Cui"
+],
+"year": 2021,
+"venue": "Asian Population Studies",
+"status": "published"
+},
+{
+"title": "Bailout expectation and debt risks of Chinese local governments: an evidence based study on quasi-municipal bonds",
+"authors": [
+"Jin Zou",
+"Chuantao Cui"
+],
+"year": 2021,
+"venue": "Copernicus Journal of Political Studies",
+"status": "published"
+},
+{
+"title": "Trade policy uncertainty and new firm entry: Evidence from China",
+"authors": [
+"Chuantao Cui",
+"Leona Shao-Zhi Li"
+],
+"year": 2023,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Stepping forward with ease: Government debt governance as a catalyst for entrepreneurship",
+"authors": [
+"Chuantao Cui",
+"Yinhao Yang",
+"Huanhui Gan",
+"Jie Dong"
+],
+"year": 2024,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "救助预期与地方政府隐性债务风险",
+"authors": [
+"邹瑾",
+"崔传涛",
+"顾辛迪"
+],
+"year": 2020,
+"venue": "财经科学",
+"status": "published"
+},
+{
+"title": "负责任的中国智造：工业机器人应用、要素禀赋结构与企业ESG表现",
+"authors": [
+"崔传涛",
+"杨胤豪",
+"关慧琳",
+"刘敬"
+],
+"year": 2024,
+"venue": "现代金融研究",
+"status": "published"
+}
+]
+},
+"darong dai": {
+"name": "Darong Dai",
+"papers": [
+{
+"title": "Nonlinear Labor Income Taxation Under a Political Constraint",
+"authors": [
+"Darong Dai"
+],
+"year": 2026,
+"venue": "Journal of Public Economic Theory",
+"status": "published"
+},
+{
+"title": "Optimal Budget Institutions and Migration Externalities: The Role of Alternative Regional Criteria",
+"authors": [
+"Darong Dai"
+],
+"year": 2026,
+"venue": "Journal of Institutional and Theoretical Economics",
+"status": "published"
+},
+{
+"title": "Optimal Fiscal Policy for Protecting Future Generations",
+"authors": [
+"Darong Dai",
+"Guoqiang Tian"
+],
+"year": 2026,
+"venue": "Annals of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Interregional Spillovers and Optimal Budget Institutions under Asymmetric Information",
+"authors": [
+"Darong Dai",
+"Haoyang Li",
+"Guoqiang Tian"
+],
+"year": 2026,
+"venue": "Review of Economic Design",
+"status": "published"
+},
+{
+"title": "Can the Middle Class Benefit from More Conservative Redistribution?",
+"authors": [
+"Darong Dai"
+],
+"year": 2025,
+"venue": "European Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Relativity, Inequality and Optimal Taxation of Internationally Mobile Top Incomes",
+"authors": [
+"Darong Dai",
+"Guoqiang Tian"
+],
+"year": 2025,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Optimal Interregional Redistribution and Local Budget Rules with Multidimensional Heterogeneity",
+"authors": [
+"Darong Dai",
+"Guoqiang Tian"
+],
+"year": 2023,
+"venue": "Review of Economic Design",
+"status": "published"
+},
+{
+"title": "Voting over Selfishly Optimal Income Tax Schedules with Tax-Driven Migrations",
+"authors": [
+"Darong Dai",
+"Guoqiang Tian"
+],
+"year": 2023,
+"venue": "Social Choice and Welfare",
+"status": "published"
+},
+{
+"title": "Optimal Regional Insurance Provision: Do Federal Transfers Complement Local Debt?",
+"authors": [
+"Darong Dai",
+"Weige Huang",
+"Liqun Liu",
+"Guoqiang Tian"
+],
+"year": 2022,
+"venue": "Journal of Economics",
+"status": "published"
+},
+{
+"title": "Toward Longer Investment: Is an Inclusive Regime Always Better than an Authoritarian One?",
+"authors": [
+"Darong Dai",
+"Guoqiang Tian"
+],
+"year": 2021,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Inter-Jurisdiction Migration and the Fiscal Policies of Local Governments",
+"authors": [
+"Darong Dai",
+"Dennis W. Jansen",
+"Liqun Liu"
+],
+"year": 2021,
+"venue": "Journal of Economics",
+"status": "published"
+},
+{
+"title": "Voting over Selfishly Optimal Tax Schedules: Can Pigouvian Tax Redistribute Income?",
+"authors": [
+"Darong Dai"
+],
+"year": 2020,
+"venue": "Journal of Public Economic Theory",
+"status": "published"
+},
+{
+"title": "Relativity, Mobility, and Optimal Nonlinear Income Taxation in an Open Economy",
+"authors": [
+"Darong Dai",
+"Wenzheng Gao",
+"Guoqiang Tian"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Optimal Interregional Redistribution and Local Borrowing Rules under Migration and Asymmetric Information",
+"authors": [
+"Darong Dai",
+"Liqun Liu",
+"Guoqiang Tian"
+],
+"year": 2019,
+"venue": "Journal of Public Economic Theory",
+"status": "published"
+},
+{
+"title": "Interregional Redistribution and Budget Institutions with Private Information on Intergenerational Externality",
+"authors": [
+"Darong Dai",
+"Liqun Liu",
+"Guoqiang Tian"
+],
+"year": 2019,
+"venue": "Review of Economic Design",
+"status": "published"
+},
+{
+"title": "Patent Protection in the South: Is there a Case for Nondiscrimination?",
+"authors": [
+"Darong Dai"
+],
+"year": 2019,
+"venue": "Journal of International Trade & Economic Development",
+"status": "published"
+},
+{
+"title": "Intellectual Property Rights and R&D Subsidies: Are They Complementary Policies?",
+"authors": [
+"Darong Dai"
+],
+"year": 2018,
+"venue": "Journal of Economics",
+"status": "published"
+},
+{
+"title": "Fiscal Policy under a Minimum-Time Objective",
+"authors": [
+"Darong Dai"
+],
+"year": 2018,
+"venue": "Scottish Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "IPR Protection vs. Innovation Subsidy: What is the Choice for the Emerging South?",
+"authors": [
+"Darong Dai",
+"Kunrong Shen"
+],
+"year": 2016,
+"venue": "Journal of International Trade & Economic Development",
+"status": "published"
+}
+]
+},
+"hongru tan": {
+"name": "Hongru Tan",
+"papers": [
+{
+"title": "A Price Theory of Multi-sided Platforms: Comment",
+"authors": [
+"Hongru Tan",
+"Julian Wright"
+],
+"year": 2018,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "The Regulation of Merchant Fees in Credit Card Markets",
+"authors": [
+"Hongru Tan"
+],
+"year": 2020,
+"venue": "Journal of Regulatory Economics",
+"status": "published"
+},
+{
+"title": "The No-surcharge Rule and Surcharging Behaviours in Credit Card Markets",
+"authors": [
+"Hongru Tan",
+"Zhongqi Deng"
+],
+"year": 2020,
+"venue": "Australian Economic Papers",
+"status": "published"
+},
+{
+"title": "Pricing Distortions in Multi-sided Platforms",
+"authors": [
+"Hongru Tan",
+"Julian Wright"
+],
+"year": 2021,
+"venue": "International Journal of Industrial Organization",
+"status": "published"
+},
+{
+"title": "The No Surcharge Rule and Its Welfare Implication",
+"authors": [
+"Hongru Tan",
+"Xuezheng Chen"
+],
+"year": 2024,
+"venue": "International Review of Economics & Finance",
+"status": "published"
+},
+{
+"title": "How NAFTA affected US vehicle emissions: Demand growth and usage patterns",
+"authors": [
+"Lian",
+"Zeng",
+"Liang Chen",
+"Hongru Tan"
+],
+"year": 2025,
+"venue": "Economic Modelling",
+"status": "published"
+}
+]
+},
+"insook lee": {
+"name": "Insook Lee",
+"papers": [
+{
+"title": "Possibility of Leapfrogging Style Economic Reform in North Korea and the Roles of Foreign Capital",
+"authors": [
+"Insook Lee",
+"Keun Lee",
+"Byung-Yeon Kim"
+],
+"year": 2009,
+"venue": "Journal of Contemporary Asia",
+"status": "published"
+},
+{
+"title": "Is Social Expenditure Responsible for Recent Rise in Public Debt in OECD Countries?",
+"authors": [
+"Insook Lee"
+],
+"year": 2018,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Income Tax Evasion Responses to Tax Rate and Tax Enforcement Rate",
+"authors": [
+"Insook Lee"
+],
+"year": 2018,
+"venue": "Advances in Economics and Business",
+"status": "published"
+},
+{
+"title": "The Effect of Death Tax on Labor Supply of Donors: Evidence from TRA97",
+"authors": [
+"Insook Lee"
+],
+"year": 2019,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Bequest and Moral Hazard in Family",
+"authors": [
+"Insook Lee"
+],
+"year": 2020,
+"venue": "Singapore Economic Review",
+"status": "published"
+},
+{
+"title": "Trade-Off Effect of Pay-As-You-Go Public Pension on Economic and Welfare Volatility",
+"authors": [
+"Insook Lee"
+],
+"year": 2020,
+"venue": "Review of Public Economics",
+"status": "published"
+},
+{
+"title": "Does Outlawing Mandatory Retirement Reduce Public Pension Benefit Claim?",
+"authors": [
+"Insook Lee"
+],
+"year": 2021,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Idiosyncratic Risk and Acyclically Increasing Public Debt",
+"authors": [
+"Insook Lee"
+],
+"year": 2021,
+"venue": "Singapore Economic Review",
+"status": "published"
+},
+{
+"title": "Conditional Effect of Government Debt on Household Debt",
+"authors": [
+"Insook Lee"
+],
+"year": 2022,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "To Cap or Not To Cap on Public Pension",
+"authors": [
+"Insook Lee",
+"Timothy Lu",
+"Qian Chen"
+],
+"year": 2022,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Does Political Polarization Lead to a Rise in Government Debt?",
+"authors": [
+"Insook Lee"
+],
+"year": 2022,
+"venue": "Review of Public Economics",
+"status": "published"
+},
+{
+"title": "Revisiting the Meltzer-Richard Hypothesis of Pre-Tax Income Inequality and Income Tax Rate",
+"authors": [
+"Insook Lee"
+],
+"year": 2022,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Technological Progress and Optimal Income Taxation",
+"authors": [
+"Insook Lee"
+],
+"year": 2023,
+"venue": "Economic Research-Ekonomska Istraživanja",
+"status": "published"
+},
+{
+"title": "Optimal Progressivity of Public Pension Benefit and Labor Income Tax",
+"authors": [
+"Insook Lee"
+],
+"year": 2023,
+"venue": "Review of Public Economics",
+"status": "published"
+},
+{
+"title": "Individualism Culture and Tax Progressivity",
+"authors": [
+"Insook Lee"
+],
+"year": 2023,
+"venue": "Economic Research-Ekonomska Istraživanja",
+"status": "published"
+},
+{
+"title": "Co-Movement of Steady-State Government Debt and Household Debt",
+"authors": [
+"Insook Lee"
+],
+"year": 2024,
+"venue": "Singapore Economic Review",
+"status": "published"
+},
+{
+"title": "Technological Progress and Political Polarization",
+"authors": [
+"Insook Lee"
+],
+"year": 2025,
+"venue": "Review of Public Economics",
+"status": "published"
+},
+{
+"title": "Wage Discrimination and Tax Progressivity",
+"authors": [
+"Insook Lee"
+],
+"year": null,
+"venue": "Singapore Economic Review",
+"status": "forthcoming"
+}
+]
+},
+"yingdong chen": {
+"name": "Yingdong Chen",
+"papers": [
+{
+"title": "Green transition and financial stability: The role of green monetary and macroprudential policies and vouchers",
+"authors": [
+"Chan, Y. T.",
+"Punzi, M. T.",
+"Zhao, H."
+],
+"year": 2024,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Optimal monetary policy responses to carbon and green bubbles: A two-sector DSGE analysis",
+"authors": [
+"Chan, Y. T.",
+"Ji, Q.",
+"Zhang, D."
+],
+"year": 2024,
+"venue": "Energy Economics",
+"status": "published"
+},
+{
+"title": "Volatility spillover between oil and stock prices: Structural connectedness based on a multi-sector DSGE model approach with Bayesian estimation",
+"authors": [
+"Chan, Y. T.",
+"Qiao H."
+],
+"year": 2023,
+"venue": "International Review of Economics & Finance",
+"status": "published"
+},
+{
+"title": "On the ambiguity of job search",
+"authors": [
+"Chan, Y. T.",
+"Yip, C. M."
+],
+"year": 2023,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Optimal carbon tax rates in a dynamic stochastic general equilibrium model with a supply chain",
+"authors": [
+"Chan, Y. T.",
+"Zhao H."
+],
+"year": 2023,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "How does oil price volatility affect unemployment rates? A dynamic stochastic general equilibrium model",
+"authors": [
+"Chan, Y. T.",
+"Dong Y. L."
+],
+"year": 2022,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Effects of R&D policy on income inequality in a growth model with heterogeneous assets and skills",
+"authors": [
+"Chan, Y. T.",
+"Yang, Y. B.",
+"Zheng, Z. J."
+],
+"year": 2022,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The macroeconomic impacts of the COVID-19 pandemic: A SIR-DSGE model approach",
+"authors": [
+"Chan, Y. T."
+],
+"year": 2022,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Optimal emissions tax rates under habit formation and social comparisons",
+"authors": [
+"Chan, Y. T."
+],
+"year": 2020,
+"venue": "Energy Policy",
+"status": "published"
+},
+{
+"title": "Carbon policies and productivity uncertainty: An intertemporal analysis",
+"authors": [
+"Chan, Y. T."
+],
+"year": 2020,
+"venue": "Technological Forecasting and Social Change",
+"status": "published"
+},
+{
+"title": "Estimating the tourism-induced province-specific environmental Kuznets curve: Evidence from panel analyses of Chinese provinces",
+"authors": [
+"Chan, Y. T.",
+"Wong, Y. F."
+],
+"year": 2020,
+"venue": "International Journal of Tourism Research",
+"status": "published"
+},
+{
+"title": "Are macroeconomic policies better in curbing air pollution than environmental policies? A DSGE approach with carbon-dependent fiscal and monetary policies",
+"authors": [
+"Chan, Y. T."
+],
+"year": 2020,
+"venue": "Energy Policy",
+"status": "published"
+}
+]
+},
+"dan jia": {
+"name": "Dan Jia",
+"papers": [
+{
+"title": "Navigating Revenue Shocks: Impacts of Regulating Prices on Hospital Performance",
+"authors": [
+"Dan Jia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Fighting Health Inequality: The Role of Cross-price Incentives",
+"authors": [
+"Dan Jia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Value of the Past: The Role of Digitalized Medical Records",
+"authors": [
+"Dan Jia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Product Offering and Capacity Constraint in Healthcare: Evidence from Dialysis Industry",
+"authors": [
+"Dan Jia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"min lin": {
+"name": "Min Lin",
+"papers": [
+{
+"title": "Asymmetric spatial effects of unemployment on health outcomes",
+"authors": [
+"Lin, M.",
+"Lin, H."
+],
+"year": 2025,
+"venue": "Spatial Economic Analysis",
+"status": "published"
+}
+]
+},
+"yanan wu": {
+"name": "Yanan Wu",
+"papers": [
+{
+"title": "Substitution and Complementarity Between Online and Offline Healthcare",
+"authors": [
+"Yanan Wu",
+"Yijuan Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Endogenous Productivity Enhancing Signaling: The Joint Signaling Game",
+"authors": [
+"Yanan Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Theory of Symbolic Co-branding with Quality Signaling",
+"authors": [
+"Yanan Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The paradox of transportation cost for a luxury brand's choice between online and offline channels",
+"authors": [
+"Yanan Wu",
+"Yijuan Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Education Competition and Low Fertility Trap",
+"authors": [
+"Yanan Wu",
+"Ji Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Multi-Market Differentiation in a Two-Dimensional Vertical Differentiation Model",
+"authors": [
+"Yanan Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"zihan nie": {
+"name": "Zihan Nie",
+"papers": [
+{
+"title": "Increasing household waste segregation rates in the presence of a segregated collection service: A randomized controlled trial in India",
+"authors": [
+"Shivani Wadehra",
+"Zihan Nie",
+"Francisco Alpízar"
+],
+"year": 2026,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published"
+},
+{
+"title": "Spillover effects of an environmental campaign on policy support: within and between domains",
+"authors": [
+"Zihan Nie",
+"Thong Q. Ho",
+"Francisco Alpízar",
+"Fredrik Carlsson",
+"Pham Khanh Nam"
+],
+"year": 2026,
+"venue": "Resource and Energy Economics",
+"status": "published"
+},
+{
+"title": "Performance of reward, punishment, and communication in common-pool resource management: Evidence from grassland conservation in China",
+"authors": [
+"Min Liu",
+"Ming Jiang",
+"Pengfei Liu",
+"Jizhe Wang",
+"Zihan Nie",
+"Kaixing Huang",
+"David Wuepper"
+],
+"year": 2026,
+"venue": "American Journal of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "Do information processing biases drive local community misconceptions of aquaculture? Evidence from harmonized surveys in Chile and Vietnam",
+"authors": [
+"César Salazar",
+"Marcela Jaime",
+"Thong Ho",
+"Zihan Nie",
+"Yu Jiang",
+"Jorge Dresdner"
+],
+"year": 2026,
+"venue": "Journal of Environmental Management",
+"status": "published"
+},
+{
+"title": "Collective action in the pastural area of Inner Mongolia, China: Evidence from a lab-in-the-field experiment",
+"authors": [
+"Jizhe Wang",
+"Lita Alita",
+"Ming Jiang",
+"Zihan Nie",
+"Qin Tu",
+"Min Liu"
+],
+"year": 2024,
+"venue": "Land Use Policy",
+"status": "published"
+},
+{
+"title": "Celebrity endorsement in promoting pro-environmental behavior",
+"authors": [
+"Thong Quoc Ho",
+"Zihan Nie",
+"Francisco Alpizar",
+"Fredrik Carlsson",
+"Pham Khanh Nam"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Resource scarcity and cooperation: Evidence from a gravity irrigation system in China",
+"authors": [
+"Zihan Nie",
+"Xiaojun Yang",
+"Qin Tu"
+],
+"year": 2020,
+"venue": "World Development",
+"status": "published"
+},
+{
+"title": "Institutional preferences, social preferences and cooperation: Evidence from a lab-in-the-field experiment in rural China",
+"authors": [
+"Xiaojun Yang",
+"Zihan Nie",
+"Jianying Qiu",
+"Qin Tu"
+],
+"year": 2020,
+"venue": "Journal of Behavioral and Experimental Economics",
+"status": "published"
+},
+{
+"title": "A framework for selecting and designing policies to reduce marine plastic pollution in developing countries",
+"authors": [
+"Francisco Alpizar",
+"Fredrik Carlsson",
+"Gracia Lanza",
+"Bethanie Carney",
+"Reza C. Daniels",
+"Mónica Jaime",
+"Thong Ho",
+"Zihan Nie"
+],
+"year": 2020,
+"venue": "Environmental Science & Policy",
+"status": "published"
+},
+{
+"title": "Does certified food production reduce agrochemical use in China?",
+"authors": [
+"Zihan Nie",
+"Nico Heerink",
+"Qin Tu",
+"Shuqin Jin"
+],
+"year": 2018,
+"venue": "China Agricultural Economic Review",
+"status": "published"
+},
+{
+"title": "Organic farming: does acquisition of the farming information influence Chinese apple farmers' willingness to adopt?",
+"authors": [
+"Wanglin Ma",
+"Chunbo Ma",
+"Ye Su",
+"Zihan Nie"
+],
+"year": 2017,
+"venue": "China Agricultural Economic Review",
+"status": "published"
+},
+{
+"title": "Crisis, stimulus package and migration in China",
+"authors": [
+"Maria Csanádi",
+"Zihan Nie",
+"Shi Li"
+],
+"year": 2015,
+"venue": "China & World Economy",
+"status": "published"
+}
+]
+},
+"chengyu yang": {
+"name": "Chengyu Yang",
+"papers": [
+{
+"title": "租房货币补贴政策的福利与分配效应",
+"authors": [
+"Chengyu Yang",
+"张红菲"
+],
+"year": 2025,
+"venue": "中国经济学",
+"status": "published"
+},
+{
+"title": "中国女性生育行为差异及其变化趋势研究——基于第四次至七次全国人口普查数据的分析",
+"authors": [
+"Chengyu Yang",
+"刘圣辉"
+],
+"year": 2025,
+"venue": "人口与发展",
+"status": "published"
+},
+{
+"title": "Income and cultural consumption in China: A theoretical analysis and a regional empirical evidence",
+"authors": [
+"Chengyu Yang",
+"Xupeng Wang"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Role of banks in promoting risky financial assets",
+"authors": [
+"Chengyu Yang",
+"Devendra Kumar"
+],
+"year": 2023,
+"venue": "Economic & Political Weekly",
+"status": "published"
+},
+{
+"title": "卫生支出结构、个人健康投资与居民福利",
+"authors": [
+"Chengyu Yang",
+"王树森"
+],
+"year": 2023,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "育儿补贴、经济增长与代际不平等：理论模型与政策模拟",
+"authors": [
+"Chengyu Yang",
+"张昭",
+"龚婧"
+],
+"year": 2021,
+"venue": "中央财经大学学报",
+"status": "published"
+},
+{
+"title": "老龄化与农村老年人口多维贫困——基于AF方法的贫困测度与分解",
+"authors": [
+"Chengyu Yang",
+"张昭"
+],
+"year": 2020,
+"venue": "人口与发展",
+"status": "published"
+},
+{
+"title": "房产财富与金融财富如何影响居民消费?——理论解释与实证检验",
+"authors": [
+"Chengyu Yang",
+"杨耀武"
+],
+"year": 2019,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "财富不平等与遗产税的财富分布效应",
+"authors": [
+"Chengyu Yang",
+"蔡诚"
+],
+"year": 2018,
+"venue": "中国经济问题",
+"status": "published"
+},
+{
+"title": "Analysis of wealth inequality with a random money transfer model",
+"authors": [
+"Chengyu Yang",
+"Wang",
+"Chen",
+"Desiderio"
+],
+"year": 2018,
+"venue": "RUDN Journal of Economics",
+"status": "published"
+},
+{
+"title": "基于异质性世代交替模型数值模拟的个人所得税改革分析",
+"authors": [
+"Chengyu Yang",
+"刘元生",
+"李建军"
+],
+"year": 2017,
+"venue": "财政研究",
+"status": "published"
+},
+{
+"title": "教育投资结构对居民收入代际流动的影响分析——基于OLG模型的政策实验",
+"authors": [
+"Chengyu Yang",
+"徐丽",
+"吴丹萍"
+],
+"year": 2017,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "收入导向型”多维贫困的识别与流动性研究——基于CFPS调查数据农村子样本的考察",
+"authors": [
+"Chengyu Yang",
+"张昭",
+"袁强"
+],
+"year": 2017,
+"venue": "经济理论与经济管理",
+"status": "published"
+},
+{
+"title": "收入导向型多维贫困测度的稳健性与敏感性",
+"authors": [
+"Chengyu Yang",
+"张昭",
+"袁强"
+],
+"year": 2016,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "延迟退休、就业与福利",
+"authors": [
+"Chengyu Yang",
+"王天宇",
+"邱牧远"
+],
+"year": 2016,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "财产性收入差距及其影响的国际比较",
+"authors": [
+"Chengyu Yang",
+"高晶晶",
+"闫晶晶",
+"王伟尧"
+],
+"year": 2015,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "China's Gini Coefficient: Myths and Realities",
+"authors": [
+"Chengyu Yang",
+"Yang Yaowu"
+],
+"year": 2015,
+"venue": "China Economist",
+"status": "published"
+},
+{
+"title": "China's New Challenges: Income inequality, Poverty, and Social Security System",
+"authors": [
+"Chengyu Yang",
+"Elena Zavyalova"
+],
+"year": 2015,
+"venue": "The Theoretical Economy",
+"status": "published"
+},
+{
+"title": "中国基尼系数是否真地下降了？——基于微观数据的基尼系数区间估计",
+"authors": [
+"Chengyu Yang",
+"杨耀武"
+],
+"year": 2015,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "基于非参数Bootstrap法的基尼系数置信区间估计",
+"authors": [
+"Chengyu Yang",
+"王伟尧",
+"袁强"
+],
+"year": 2014,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "How may consumption be affected by housing and financial assets in China and the Euro countries?",
+"authors": [
+"Chengyu Yang",
+"Yang Yaowu"
+],
+"year": 2014,
+"venue": "China Economic Policy Review",
+"status": "published"
+},
+{
+"title": "房屋资产与居民消费—来自中国和欧元区国家的证据",
+"authors": [
+"Chengyu Yang",
+"杨耀武",
+"阎晶晶"
+],
+"year": 2013,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "个人所得税的收入分配效应",
+"authors": [
+"Chengyu Yang",
+"刘元生",
+"袁强"
+],
+"year": 2013,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "Economic growth and the effects of fiscal policy",
+"authors": [
+"Chengyu Yang",
+"Richard Day"
+],
+"year": 2011,
+"venue": "Metroeconomica",
+"status": "published"
+},
+{
+"title": "From Keynes to Solow to optimal growth: An encompassing model of monetary and fiscal policy",
+"authors": [
+"Chengyu Yang",
+"Richard Day"
+],
+"year": 2009,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Economic growth and revealed social preference",
+"authors": [
+"Chengyu Yang",
+"Richard Day"
+],
+"year": 2005,
+"venue": "Studies in Nonlinear Dynamics and Econometrics",
+"status": "published"
+},
+{
+"title": "索洛模型双稳态结构的对称群分析",
+"authors": [
+"Chengyu Yang"
+],
+"year": 1998,
+"venue": "北京师范大学学报(理科)",
+"status": "published"
+},
+{
+"title": "一维非线性动力系统分岔的对称破缺分析",
+"authors": [
+"Chengyu Yang"
+],
+"year": 1998,
+"venue": "系统工程",
+"status": "published"
+},
+{
+"title": "经济动力学方程的对称群分析",
+"authors": [
+"Chengyu Yang"
+],
+"year": 1995,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "The Development of BRICS under Globalization",
+"authors": [
+"Chengyu Yang",
+"Bolisoglepski"
+],
+"year": 2013,
+"venue": "Moscow ИНФРА-М Publisher",
+"status": "published"
+}
+]
+},
+"haiyuan wan": {
+"name": "Haiyuan Wan",
+"papers": [
+{
+"title": "收入分配改革史",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "中国工人出版社",
+"status": "published"
+},
+{
+"title": "共同富裕的推进制度与政策措施",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "人民出版社",
+"status": "published"
+},
+{
+"title": "走向共同富裕之路",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2022,
+"venue": "人民出版社",
+"status": "published"
+},
+{
+"title": "构建中国特色和谐劳动关系",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "劳动社会保障出版社",
+"status": "published"
+},
+{
+"title": "居民收入分配四十年",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2018,
+"venue": "格致出版社",
+"status": "published"
+},
+{
+"title": "税收制度的收入分配效应",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2018,
+"venue": "社会科学文献出版社",
+"status": "published"
+},
+{
+"title": "收入不平等与公共政策",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2017,
+"venue": "社会科学文献出版社",
+"status": "published"
+},
+{
+"title": "新型城镇化与人口迁移模式",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2014,
+"venue": "广东经济出版社",
+"status": "published"
+},
+{
+"title": "经济新常态下居民收入分配研究",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2019,
+"venue": "经济科学出版社",
+"status": "published"
+},
+{
+"title": "税收政策支持与企业预期转变",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "城市社区基础设施投资的创业带动作用",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "户籍歧视与城乡收入差距",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2013,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "中国住房需求居高不下之谜",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "劳动力市场培育与中等收入陷阱",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2014,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "构建辅助宏观决策的就业价格指数：理论、方法与应用",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2025,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "公积金降费的稳就业效果及其解释",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "公共数据开放与企业数字劳动需求",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2025,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "中国农村财政与村庄收入分配",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "住房公积金制度的收入分配效应",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "经济学(季刊)",
+"status": "published"
+},
+{
+"title": "共同富裕的理论内涵与量化方法",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "财贸经济",
+"status": "published"
+},
+{
+"title": "为教育而流动",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2018,
+"venue": "财贸经济",
+"status": "published"
+},
+{
+"title": "贫民住区改造与主观幸福感",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2013,
+"venue": "财贸经济",
+"status": "published"
+},
+{
+"title": "高净值人群缺失与财产差距",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2022,
+"venue": "财政研究",
+"status": "published"
+},
+{
+"title": "共享发展的全球比较与共同富裕的中国路径",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "财政研究",
+"status": "published"
+},
+{
+"title": "中国老年人低就业率成因",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "收入分配极化的长期变动趋势",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "从投资拉动到创新驱动",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2019,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "农户退耕还林政策的参与决策研究",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2013,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "城市医生资源和新冠肺炎防控效率",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "全民基本收入理论与政策评介",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "提高我国基尼系数估算的可信度",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2013,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "收入分配格局与再分配政策",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2017,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "企业应对税收优惠的行为决策与福利损失",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2025,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "我国城乡居民收入差距趋势预测",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2019,
+"venue": "数量经济与技术经济研究",
+"status": "published"
+},
+{
+"title": "住房公积金与居民收入分配",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2018,
+"venue": "数量经济与技术经济研究",
+"status": "published"
+},
+{
+"title": "鱼和熊掌不可兼得：生育影响住房需求",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2019,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "南北工资差距的新变化及市场化成因",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "中国人口科学",
+"status": "published"
+},
+{
+"title": "贫困残疾人识别及扶贫政策评价",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2011,
+"venue": "中国人口科学",
+"status": "published"
+},
+{
+"title": "高净值人群修补技术新进展",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "中国人口科学",
+"status": "published"
+},
+{
+"title": "中国居民财产差距研究的回顾与展望",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "房价下跌的消费冲击",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "扩大我国中等收入群体",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2017,
+"venue": "新华文摘",
+"status": "published"
+},
+{
+"title": "共同富裕的改革路径与推进政策",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2022,
+"venue": "北京工商大学学报",
+"status": "published"
+},
+{
+"title": "我国中等收入群体比重及特征",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2018,
+"venue": "北京工商大学学报",
+"status": "published"
+},
+{
+"title": "对当前劳动力成本的基本判断",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2017,
+"venue": "China Economist",
+"status": "published"
+},
+{
+"title": "扩大中等收入群体",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2016,
+"venue": "宏观经济管理",
+"status": "published"
+},
+{
+"title": "收入分配政策的政府协同机制研究",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "行政管理改革",
+"status": "published"
+},
+{
+"title": "新发展阶段推进共同富裕的若干理论问题",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "东南学术",
+"status": "published"
+},
+{
+"title": "我国农村居民收入分配差距新变化",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2022,
+"venue": "农业经济问题",
+"status": "published"
+},
+{
+"title": "Convergence of Inequality Dimensions in China: Income, Consumption and Wealth from 1988 to 2018",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "Review of Income and Wealth",
+"status": "published"
+},
+{
+"title": "Guarantee Employment or Guarantee Wage? Firm-level Evidence from China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Effect of Air Pollution on Income",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2024,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "China's Growing but Slowing Inequality of Household Wealth, 2013-2018: A Challenge to 'Common Prosperity'?",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Correction of China's Income Inequality for Missing Top Incomes",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "Review of Development Economics",
+"status": "published"
+},
+{
+"title": "The Receding Housing Ladder: House Price Inflation, Parental Support, and the Intergenerational Distribution of Housing Wealth in China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2023,
+"venue": "Journal of Chinese Economic and Business Studies",
+"status": "published"
+},
+{
+"title": "Why has China's Inequality of Household Wealth Risen Rapidly in the Twenty-First Century?",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "Review of Income and Wealth",
+"status": "published"
+},
+{
+"title": "The Long-term of Income Polarization in China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "Journal of Development Studies",
+"status": "published"
+},
+{
+"title": "Working beyond the Normal Retirement Age in Urban China and Urban Russia",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "IZA Journal of Development and Migration",
+"status": "published"
+},
+{
+"title": "Top Incomes in China: Data Collection and the Impact on Income Inequality",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Social Stratification and Housing Wealth Inequality in Transitional Urban China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "International Journal of Urban Sciences",
+"status": "published"
+},
+{
+"title": "Wage Growth and Wage Inequality in Urban China: 1988-2013",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2020,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Unintended Impact of Housing Provident Fund on Income Inequality in Urban China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2021,
+"venue": "China Economic Quarterly International",
+"status": "published"
+},
+{
+"title": "Evolution of Wealth Inequality in China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "China Economic Journal",
+"status": "published"
+},
+{
+"title": "Yuan and Roubles: Comparing Wage Determination in Urban China and Russia",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2015,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Institutional Labour Market Segmentation in China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2014,
+"venue": "Business and Public Administration Studies",
+"status": "published"
+},
+{
+"title": "Payments for Ecological Restoration and Rural Labor Migration in China",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2012,
+"venue": "IZA Journal of Migration",
+"status": "published"
+},
+{
+"title": "Income Distribution and China's Economic New Normal",
+"authors": [
+"Haiyuan Wan"
+],
+"year": 2019,
+"venue": "World Scientific Press",
+"status": "published"
+}
+]
+},
+"haoran he": {
+"name": "Haoran He",
+"papers": [
+{
+"title": "Helping Doctors’ AI-Assisted Health Care Decision-Making: The Role of Social Norms",
+"authors": [
+"Haoran He",
+"Jingwen Xia"
+],
+"year": 2026,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Do Workers Value Flexible Jobs? A Field Experiment",
+"authors": [
+"Haoran He",
+"David Neumark",
+"Qian Weng"
+],
+"year": 2021,
+"venue": "Journal of Labor Economics",
+"status": "published"
+},
+{
+"title": "Auction Mechanisms for Allocating Subsidies for Carbon Emissions Reduction: An Experimental Investigation",
+"authors": [
+"Haoran He",
+"Yefeng Chen"
+],
+"year": 2021,
+"venue": "Social Choice and Welfare",
+"status": "published"
+}
+]
+},
+"juan yang": {
+"name": "Juan Yang",
+"papers": [
+{
+"title": "More equitable, more involved: intergenerational educational mobility and parental involvement",
+"authors": [
+"Juan Yang",
+"Zebing Yang"
+],
+"year": 2026,
+"venue": "International Journal of Educational Development",
+"status": "published"
+},
+{
+"title": "Educational Inequality and residents' social trust in China: The role of inequality of opportunity",
+"authors": [
+"Juan Yang",
+"Lifang Zhang",
+"Jiusheng Zhu"
+],
+"year": 2025,
+"venue": "Asian Journal of Social Science",
+"status": "published"
+},
+{
+"title": "Does increased public education spending reduce the financial burden on families?",
+"authors": [
+"Juan Yang",
+"Bonan Shi",
+"Bo han"
+],
+"year": 2025,
+"venue": "Journal of Asian Economics",
+"status": "published"
+},
+{
+"title": "The impact of intergenerational educational mobility on fertility intentions: evidence from China",
+"authors": [
+"Juan Yang",
+"Zebing Yang"
+],
+"year": 2025,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Decision-making as cognitive household labor: Higher education expansion, women empowerment, and their intra-household decision-making responsibility",
+"authors": [
+"Juan Yang",
+"Lifang Zhang",
+"Jiusheng Zhu"
+],
+"year": 2025,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Longer breastfeeding duration, better child development? Evidence from a large-scale survey in China",
+"authors": [
+"Xinhui Zhao",
+"Juan Yang"
+],
+"year": 2022,
+"venue": "Children and Youth Services Review",
+"status": "published"
+},
+{
+"title": "Does all work and no play make elite students? Evidence from the China education panel survey",
+"authors": [
+"Juan Yang",
+"Xinhui Zhao"
+],
+"year": 2021,
+"venue": "International Journal of Educational Development",
+"status": "published"
+},
+{
+"title": "The effect of creative thinking on academic performance: Mechanisms, heterogeneity, and implication",
+"authors": [
+"Juan Yang",
+"Xinhui Zhao"
+],
+"year": 2021,
+"venue": "Thinking Skills and Creativity",
+"status": "published"
+},
+{
+"title": "Parenting styles and children's academic performance: Evidence from middle schools in China",
+"authors": [
+"Juan Yang",
+"Xinhui Zhao"
+],
+"year": 2020,
+"venue": "Children and Youth Services Review",
+"status": "published"
+},
+{
+"title": "Minimum wage impacts on wages, employment and hours in China",
+"authors": [
+"Juan Yang",
+"Gunderson, M."
+],
+"year": 2019,
+"venue": "International Journal of Manpower",
+"status": "published"
+},
+{
+"title": "The Impact of Education Expansion on Wage Inequality",
+"authors": [
+"Juan Yang",
+"Man Gao"
+],
+"year": 2018,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Pain of Disasters: The Educational Cost of Exogenous Shocks Evidence from Tangshan Earthquake in 1976",
+"authors": [
+"Juan Yang",
+"Jun Wang"
+],
+"year": 2017,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Impact of Education on Income Inequality and Intergenerational Mobility",
+"authors": [
+"Juan Yang",
+"Muyuan Qiu"
+],
+"year": 2016,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Changing Determinants of High School Attainment in Rural China",
+"authors": [
+"Juan Yang",
+"Terry Sicular",
+"Desheng Lai"
+],
+"year": 2014,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Earnings Differentials between the Public and the Private Sectors in China: Exploring Changes for Urban Local Residents in the 2000s",
+"authors": [
+"Juan Yang",
+"S. Démurger",
+"Shi Li"
+],
+"year": 2012,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Impact of Rustication on Sent-Down Cohorts' Income",
+"authors": [
+"Juan Yang",
+"Shi Li"
+],
+"year": 2011,
+"venue": "Frontiers of Economics in China",
+"status": "published"
+},
+{
+"title": "Graduate Overeducation and Graduation Wages In China",
+"authors": [
+"Juan Yang",
+"David Mayston"
+],
+"year": 2012,
+"venue": "The Chinese Economy",
+"status": "published"
+},
+{
+"title": "An Empirical Study on Educational Investment for all Levels of Higher Education in China",
+"authors": [
+"Juan Yang",
+"D. Mayston"
+],
+"year": 2009,
+"venue": "Frontiers of Economics in China",
+"status": "published"
+},
+{
+"title": "家庭教育对子女人力资本发展的影响：事实与机制",
+"authors": [
+"赵心慧",
+"杨娟"
+],
+"year": 2025,
+"venue": "教育与经济",
+"status": "published"
+},
+{
+"title": "农转非人口的收入市民化研究",
+"authors": [
+"杨娟",
+"伏璐"
+],
+"year": 2025,
+"venue": "世界经济文汇",
+"status": "published"
+},
+{
+"title": "中国教育不平等的变化趋势：基于机会不平等的视角",
+"authors": [
+"杨娟",
+"张立芳"
+],
+"year": 2024,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "父母养育投入与子女人力资本的动态形成——基于CES生产函数的新发现",
+"authors": [
+"杨娟",
+"赵心慧"
+],
+"year": 2023,
+"venue": "教育研究",
+"status": "published"
+},
+{
+"title": "学校选择时学校优先还是专业优先?——基于匹配理论对考生偏好的分析",
+"authors": [
+"杨娟",
+"张立芳"
+],
+"year": 2023,
+"venue": "教育与经济",
+"status": "published"
+},
+{
+"title": "代际教育流动性的变化趋势",
+"authors": [
+"杨娟",
+"赵心慧"
+],
+"year": 2022,
+"venue": "中国经济问题",
+"status": "published"
+},
+{
+"title": "中国经济转型时期的劳动生产率——影响因素和增长分解",
+"authors": [
+"邓金锋",
+"杨娟"
+],
+"year": 2022,
+"venue": "人口与经济",
+"status": "published"
+},
+{
+"title": "高校合并对本科录取分数的影响——以我国“985工程”与“211工程”高校为例",
+"authors": [
+"杨娟",
+"张卓然"
+],
+"year": 2021,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "机会和成本对农村学生接受更多教育的影响",
+"authors": [
+"杨娟",
+"赵心慧"
+],
+"year": 2020,
+"venue": "北京大学教育评论",
+"status": "published"
+},
+{
+"title": "去大城市就业是否可以带来更高的教育回报?",
+"authors": [
+"杨娟",
+"艾美彤"
+],
+"year": 2020,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "户籍融合对流动子女成绩影响的实证分析",
+"authors": [
+"杨娟",
+"李凌霄"
+],
+"year": 2019,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "以教控人是否有效？---基于北京、上海两地抬高随迁子女入学门槛政策的比较分析",
+"authors": [
+"杨娟",
+"宁静馨"
+],
+"year": 2019,
+"venue": "教育与经济",
+"status": "published"
+},
+{
+"title": "教育对不同户籍流动人口收入差距的影响",
+"authors": [
+"杨娟",
+"赵心慧"
+],
+"year": 2008,
+"venue": "北京工商大学学报",
+"status": "published"
+},
+{
+"title": "两部门生产模型中政府在教育领域的最优支出结构",
+"authors": [
+"杨娟",
+"田四通"
+],
+"year": 2018,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "教育代际流动性的城乡差异分析",
+"authors": [
+"杨娟",
+"杨钰"
+],
+"year": 2017,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "高等教育扩展与大学生性别工资差距的演变——基于CHIPs数据的经验研究",
+"authors": [
+"欧阳任飞",
+"孟大虎",
+"杨娟"
+],
+"year": 2017,
+"venue": "清华大学教育研究",
+"status": "published"
+},
+{
+"title": "子女留守对农民工收入与支出的影响",
+"authors": [
+"杨娟",
+"李凌霄"
+],
+"year": 2017,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "最低工资提高会增加农民工收入吗？",
+"authors": [
+"杨娟",
+"李实"
+],
+"year": 2016,
+"venue": "经济学季刊",
+"status": "published"
+},
+{
+"title": "如何通过教育缓解收入不平等？",
+"authors": [
+"杨娟",
+"赖德胜",
+"邱牧远"
+],
+"year": 2015,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "教育扩张对农民收入的影响",
+"authors": [
+"杨娟",
+"高曼"
+],
+"year": 2015,
+"venue": "北京师范大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "中国城镇居民代际收入流动性的变化趋势",
+"authors": [
+"杨娟",
+"张绘"
+],
+"year": 2015,
+"venue": "财政研究",
+"status": "published"
+},
+{
+"title": "教育的代际流动性",
+"authors": [
+"杨娟",
+"何婷婷"
+],
+"year": 2015,
+"venue": "世界经济文汇",
+"status": "published"
+},
+{
+"title": "什么因素阻碍了农村学生接受高中教育",
+"authors": [
+"杨娟",
+"赖德胜",
+"史努莉"
+],
+"year": 2014,
+"venue": "北京大学教育评论",
+"status": "published"
+},
+{
+"title": "增加公共教育经费有助于改善教育的代际流动性吗？",
+"authors": [
+"杨娟",
+"周青"
+],
+"year": 2013,
+"venue": "北京师范大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "教育经济学的最新研究进展",
+"authors": [
+"杨娟"
+],
+"year": 2013,
+"venue": "教育与经济",
+"status": "published"
+},
+{
+"title": "中国农村居民的收入与农村村特征关系研究",
+"authors": [
+"杨娟",
+"张绘",
+"李实"
+],
+"year": 2013,
+"venue": "财政研究",
+"status": "published"
+},
+{
+"title": "人力资本投资风险理论：模型演变及其进展",
+"authors": [
+"廖娟",
+"赖德胜",
+"杨娟"
+],
+"year": 2012,
+"venue": "财经科学",
+"status": "published"
+},
+{
+"title": "中国城镇不同所有制企业职工收入差距的变化趋势---基于中国城镇家庭收入调查数据的经验分析",
+"authors": [
+"杨娟",
+"S. Démurger",
+"李实"
+],
+"year": 2011,
+"venue": "经济学季刊",
+"status": "published"
+},
+{
+"title": "下乡经历对知青收入的影响",
+"authors": [
+"杨娟",
+"李实"
+],
+"year": 2011,
+"venue": "世界经济文汇",
+"status": "published"
+},
+{
+"title": "高等教育投资风险和收益的实证研究",
+"authors": [
+"杨娟",
+"孟大虎",
+"岳昌君"
+],
+"year": 2011,
+"venue": "中国人民大学教育学刊",
+"status": "published"
+},
+{
+"title": "人力资本、社会资本与大学生求职渠道的选择",
+"authors": [
+"孟大虎",
+"曾风婵",
+"杨娟"
+],
+"year": 2011,
+"venue": "中南财经政法大学学报",
+"status": "published"
+},
+{
+"title": "美、日政府教育职责对我国的借鉴",
+"authors": [
+"杨娟",
+"丁建福",
+"王善迈"
+],
+"year": 2010,
+"venue": "比较教育研究",
+"status": "published"
+},
+{
+"title": "通用个人教育收益率计算方法的比较",
+"authors": [
+"杨娟"
+],
+"year": 2008,
+"venue": "中国人口科学",
+"status": "published"
+},
+{
+"title": "运用“优序理论”对大学毕业生劳动力市场的分析",
+"authors": [
+"杨娟"
+],
+"year": 2008,
+"venue": "北京大学教育评论",
+"status": "published"
+},
+{
+"title": "不确定条件下的最优教育选择",
+"authors": [
+"杨娟"
+],
+"year": 2008,
+"venue": "北京师范大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "以县为主”政策中县级政府责任探析",
+"authors": [
+"杨娟",
+"刘亚荣",
+"王善迈"
+],
+"year": 2009,
+"venue": "教育发展研究",
+"status": "published"
+},
+{
+"title": "分析金融全球化的正负效应及中国金融政策的选择",
+"authors": [
+"杨娟",
+"姜磊",
+"马卫锋"
+],
+"year": 2002,
+"venue": "东北财经大学学报",
+"status": "published"
+},
+{
+"title": "学习力就是竞争力",
+"authors": [
+"杨娟"
+],
+"year": 2024,
+"venue": "中信出版集团",
+"status": "published"
+},
+{
+"title": "京津冀基础教育协同发展研究",
+"authors": [
+"杨娟"
+],
+"year": 2018,
+"venue": "经济科学出版社",
+"status": "published"
+},
+{
+"title": "代际流动性的经济学分析",
+"authors": [
+"杨娟"
+],
+"year": 2016,
+"venue": "经济科学出版社",
+"status": "published"
+},
+{
+"title": "最优教育选择研究",
+"authors": [
+"杨娟"
+],
+"year": 2010,
+"venue": "北京师范大学出版社",
+"status": "published"
+}
+]
+},
+"minbo xu": {
+"name": "Minbo Xu",
+"papers": [
+{
+"title": "Why Does a Ruler Tolerate Corruption and How Can Corruption Possibly Be Eliminated?",
+"authors": [
+"Yuanzhu Lu",
+"Minbo Xu",
+"Xundong Yin",
+"Hai Zhong"
+],
+"year": 2024,
+"venue": "Singapore Economic Review",
+"status": "forthcoming"
+},
+{
+"title": "Psychological Pressure and Performance in Competitive Environments: The First-Hole Effect in Youth Golf",
+"authors": [
+"Minbo Xu",
+"Oliver Wang"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Equilibrium Competition, Social Welfare and Corruption in Procurement Auctions",
+"authors": [
+"Minbo Xu",
+"Daniel Z. Li"
+],
+"year": 2019,
+"venue": "Social Choice and Welfare",
+"status": "published"
+},
+{
+"title": "Multitask Assignments with Adverse Selection",
+"authors": [
+"Minbo Xu",
+"Nina Yin",
+"Sanxi Li"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "All-Pay Auctions with a Buy-Price Option",
+"authors": [
+"Minbo Xu",
+"Sanxi Li",
+"Jianye Yan"
+],
+"year": 2019,
+"venue": "Economic Inquiry",
+"status": "published"
+},
+{
+"title": "Selling a Dollar for More Than a Dollar? Evidence from Online Penny Auctions",
+"authors": [
+"Zhongmin Wang",
+"Minbo Xu"
+],
+"year": 2016,
+"venue": "Information Economics and Policy",
+"status": "published"
+},
+{
+"title": "Empirical Evidence on Competition and Revenue in an All-Pay Contest",
+"authors": [
+"Zhongmin Wang",
+"Minbo Xu"
+],
+"year": 2016,
+"venue": "Review of Industrial Organization",
+"status": "published"
+},
+{
+"title": "户籍工资差距中歧视的形成路径—基于城市偏向的劳动力市场搜寻分析",
+"authors": [
+"许敏波",
+"鄢姣"
+],
+"year": 2024,
+"venue": "北京社会科学",
+"status": "published"
+},
+{
+"title": "性别身份规范与大学专业性别失衡",
+"authors": [
+"许敏波",
+"曾梦"
+],
+"year": 2024,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "房价上涨对城镇居民初婚推迟的影响",
+"authors": [
+"许敏波",
+"曾梦",
+"房慧"
+],
+"year": 2024,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "中国农村家庭教育支出的变化特征及驱动因素",
+"authors": [
+"鄢姣",
+"许敏波"
+],
+"year": 2023,
+"venue": "北京师范大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "农村劳动力非农就业的双重市场均衡与扩张",
+"authors": [
+"鄢姣",
+"许敏波",
+"尹训东"
+],
+"year": 2023,
+"venue": "经济理论与经济管理",
+"status": "published"
+},
+{
+"title": "高校扩招、师生比下降与教育质量",
+"authors": [
+"邢春冰",
+"许敏波"
+],
+"year": 2023,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "地域歧视、补偿性溢价与户籍工资差距",
+"authors": [
+"鄢姣",
+"许敏波",
+"孟大虎"
+],
+"year": 2021,
+"venue": "人口与经济",
+"status": "published"
+},
+{
+"title": "家庭预算约束与车牌分配机制的福利分析",
+"authors": [
+"许敏波"
+],
+"year": 2021,
+"venue": "经济学(季刊)",
+"status": "published"
+},
+{
+"title": "米尔格罗姆和威尔逊对拍卖理论的贡献—2020年度诺贝尔经济学奖得主获奖成就评介",
+"authors": [
+"许敏波"
+],
+"year": 2020,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "中国城镇劳动参与率的结构和趋势—基于家庭微观调查的证据",
+"authors": [
+"许敏波",
+"李实"
+],
+"year": 2019,
+"venue": "安徽师范大学学报(人文社会科学版)",
+"status": "published"
+},
+{
+"title": "撤点并校与学龄人口城镇化：“第一步”效应",
+"authors": [
+"许敏波",
+"李若瑶",
+"杨卿栩"
+],
+"year": 2018,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "个体学习与新体验品的动态定价：连续统消费者的情形",
+"authors": [
+"翁翕",
+"尹训东",
+"许敏波"
+],
+"year": 2018,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "全支付竞争中的有限理性与过度投资：理论与实证",
+"authors": [
+"许敏波",
+"尹训东"
+],
+"year": 2018,
+"venue": "经济学(季刊)",
+"status": "published"
+},
+{
+"title": "耐用品垄断市场中的租赁与销售契约",
+"authors": [
+"尹训东",
+"许敏波"
+],
+"year": 2017,
+"venue": "中央财经大学学报",
+"status": "published"
+}
+]
+},
+"yexin zhou": {
+"name": "Yexin Zhou",
+"papers": [
+{
+"title": "经济与社会微观调查：方法及应用",
+"authors": [
+"周晔馨",
+"沈扬扬"
+],
+"year": 2023,
+"venue": "北京大学出版社",
+"status": "published"
+},
+{
+"title": "社会资本与农民收入",
+"authors": [
+"周晔馨"
+],
+"year": 2017,
+"venue": "北京大学出版社",
+"status": "published"
+},
+{
+"title": "社会资本是穷人的资本吗？——来自中国农户收入的经验证据",
+"authors": [
+"周晔馨"
+],
+"year": 2012,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "惩罚、社会资本与条件合作——基于传统实验和人为田野实验的对比研究",
+"authors": [
+"周晔馨",
+"涂勤",
+"胡必亮"
+],
+"year": 2014,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "社会资本与大学教师学术创新能力研究",
+"authors": [
+"梁文艳",
+"周晔馨",
+"于洪霞"
+],
+"year": 2019,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "社会资本转换与农民工收入——来自北京农民工调查的证据",
+"authors": [
+"叶静怡",
+"周晔馨"
+],
+"year": 2010,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "农民工的社会资本如何形成：基于社会网络的分析",
+"authors": [
+"周晔馨",
+"涂勤",
+"梁斌",
+"叶静怡"
+],
+"year": 2019,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "Cooperation and Authoritarian Values: An Experimental Study in China",
+"authors": [
+"Vollan, B.",
+"Landmann, A.",
+"Yexin Zhou",
+"Hu, B.",
+"Herrmann-Pillath, C."
+],
+"year": 2017,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Does Democratic Decision-making Process Enhance Cooperation Among Children and Adolescents? A Large-scale Lab-in-the-field Experiment with Students",
+"authors": [
+"Yexin Zhou",
+"Chen, S.",
+"Yan, J."
+],
+"year": 2026,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Group identity and cooperative behavior: Evidence from a public goods experiment in China",
+"authors": [
+"Yexin Zhou",
+"Chen, R.",
+"Yan, J."
+],
+"year": 2026,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Development of Egalitarianism: Evidence from Children and Adults in China",
+"authors": [
+"Yexin Zhou",
+"Li, C.",
+"Vollan, B.",
+"He, J.",
+"Guan, C."
+],
+"year": 2025,
+"venue": "Social Choice and Welfare",
+"status": "published"
+},
+{
+"title": "Does Parental Migration Alleviate Multidimensional Poverty among Left-behind Children in Rural Areas?",
+"authors": [
+"Yexin Zhou",
+"Chen, R.",
+"Shen, Y.",
+"Li, X."
+],
+"year": 2025,
+"venue": "China & World Economy",
+"status": "published"
+},
+{
+"title": "Does Parental Migration Impede the Development of the Cooperative Preferences in their Left-Behind Children? Evidence From a Large-Scale Field Experiment in China",
+"authors": [
+"Yexin Zhou",
+"Chen, S.",
+"Chen, Y.",
+"Vollan, B."
+],
+"year": 2022,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Does Education Affect Consumers' Attitudes Toward Genetically Modified Foods? Evidence From China's Two Rounds of Education Reforms",
+"authors": [
+"Yexin Zhou",
+"Chen, S.",
+"Wang, T.",
+"Cui, Q."
+],
+"year": 2022,
+"venue": "China Agricultural Economic Review",
+"status": "published"
+},
+{
+"title": "How Does Perceived Environmental Pollution Affect Migration Interests: Adapt or Flee?",
+"authors": [
+"Yexin Zhou",
+"Yuan, B.",
+"Liang, B.",
+"Cui, Q.",
+"Zhang, S.",
+"He, J."
+],
+"year": 2023,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Is NIMBY inevitable? An empirical exploration of determinants of public attitudes towards unwanted facilities using nationally representative data in China",
+"authors": [
+"Yexin Zhou",
+"Chen, S.",
+"Cui, Q."
+],
+"year": 2024,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "名师能否出高徒———学术精英型导师对博士生科研创新能力培养的实证研究",
+"authors": [
+"梁文艳",
+"孙雨婷",
+"周晔馨"
+],
+"year": 2025,
+"venue": "北京大学教育评论",
+"status": "published"
+},
+{
+"title": "社会资本、合作与“科研生产力之谜”——基于中国研究型大学教师的经验分析",
+"authors": [
+"梁文艳",
+"周晔馨"
+],
+"year": 2016,
+"venue": "北京大学教育评论",
+"status": "published"
+},
+{
+"title": "社会网络视角下的农村留守儿童心理健康：基于四川省调查的经验证据",
+"authors": [
+"王天宇",
+"周晔馨"
+],
+"year": 2023,
+"venue": "中国农村观察",
+"status": "published"
+},
+{
+"title": "个体异质性、社会资本与合作类型——基于标准实验和工人田野实验的证据",
+"authors": [
+"周晔馨",
+"何娟",
+"梁斌",
+"涂勤"
+],
+"year": 2019,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "童年留守经历对个体非认知能力的长期效应",
+"authors": [
+"李瑞",
+"宁光杰",
+"周晔馨"
+],
+"year": 2026,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "为何巾帼胜须眉？非认知能力与大学生在校表现的性别差距",
+"authors": [
+"梁文艳",
+"周晔馨"
+],
+"year": 2023,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "基于DSGE模型的财政刺激政策效果分析——以“四万亿投资”为例",
+"authors": [
+"梁斌",
+"周晔馨"
+],
+"year": 2017,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "城镇化会提高生活用能需求吗？——基于中国2003-2013年省际面板数据的检验",
+"authors": [
+"林卫斌",
+"周晔馨",
+"苏剑"
+],
+"year": 2016,
+"venue": "财经研究",
+"status": "published"
+},
+{
+"title": "经济发展方式转变：加快还是减缓——基于能源环境视角的测度与分析",
+"authors": [
+"林卫斌",
+"苏剑",
+"周晔馨"
+],
+"year": 2016,
+"venue": "经济学家",
+"status": "published"
+},
+{
+"title": "新常态下中国能源需求预测",
+"authors": [
+"林卫斌",
+"苏剑",
+"周晔馨"
+],
+"year": 2016,
+"venue": "学术研究",
+"status": "published"
+},
+{
+"title": "全球经济格局新变化与中国应对新策略",
+"authors": [
+"胡必亮",
+"周晔馨",
+"范莎"
+],
+"year": 2015,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "社会资本在减轻农村贫困中的作用：文献述评与研究展望",
+"authors": [
+"周晔馨",
+"叶静怡"
+],
+"year": 2014,
+"venue": "南方经济",
+"status": "published"
+},
+{
+"title": "社会资本在农户收入中的作用——基于中国家计调查（CHIPS2002）的证据",
+"authors": [
+"周晔馨"
+],
+"year": 2013,
+"venue": "经济评论",
+"status": "published"
+},
+{
+"title": "流动农民工社会资本的测量及其分布特征——基于北京市农民工社会网络的分析",
+"authors": [
+"周晔馨",
+"叶静怡",
+"曹和平"
+],
+"year": 2013,
+"venue": "云南财经大学学报",
+"status": "published"
+},
+{
+"title": "资源环境问题的实验经济学研究新进展",
+"authors": [
+"张生玲",
+"周晔馨"
+],
+"year": 2012,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "社会网络层次与农民工工资水平",
+"authors": [
+"叶静怡",
+"薄诗雨",
+"刘丛",
+"周晔馨"
+],
+"year": 2012,
+"venue": "经济评论",
+"status": "published"
+},
+{
+"title": "中国转型期的农户兼业问题研究综述",
+"authors": [
+"周晔馨",
+"伍琴"
+],
+"year": 2009,
+"venue": "四川师范大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "沈阳与大连装备制造业创新能力的比较研究",
+"authors": [
+"崔万田",
+"周晔馨",
+"李进伟"
+],
+"year": 2009,
+"venue": "财经问题研究",
+"status": "published"
+},
+{
+"title": "用负所得税重构中国低保制度的难点研究",
+"authors": [
+"李庆梅",
+"聂佃忠",
+"周晔馨"
+],
+"year": 2009,
+"venue": "甘肃理论学刊",
+"status": "published"
+},
+{
+"title": "正式制度与非正式制度的关系探析",
+"authors": [
+"崔万田",
+"周晔馨"
+],
+"year": 2006,
+"venue": "教学与研究",
+"status": "published"
+},
+{
+"title": "How Does Social Capital Affect Residents' Waste-Separation Behavior Evidence from China",
+"authors": [
+"Yexin Zhou",
+"Song, H.",
+"Huang, X.",
+"Chen, H.",
+"Wei, W."
+],
+"year": 2022,
+"venue": "International Journal of Environmental Research and Public Health",
+"status": "published"
+},
+{
+"title": "How does air pollution damage residents' well-being? The evidence from China",
+"authors": [
+"Yuan, B.",
+"Wei, W.",
+"Huang, X.",
+"Yexin Zhou"
+],
+"year": 2024,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Will Bad Air Quality Affect the Siting of Foreign-Invested Manufacturing Enterprises? The Evidence from China",
+"authors": [
+"Cui, Q.",
+"Yuan, B.",
+"Yexin Zhou",
+"Chen, H.",
+"Hu, Y."
+],
+"year": 2021,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Analysis of the Economy-Wide Rebound Effect of Water Efficiency Improvement in China Based on a Multi-Sectoral Computable General Equilibrium Analysis",
+"authors": [
+"Yexin Zhou",
+"Li, J.",
+"Wei, W.",
+"Cui, Q.",
+"He, L."
+],
+"year": 2021,
+"venue": "Water",
+"status": "published"
+},
+{
+"title": "Digital connections: Impact of internet usage on the psychological well-being of older Chinese adults",
+"authors": [
+"Yang, Z.",
+"Yexin Zhou",
+"Wang, Y.",
+"Wei, H."
+],
+"year": 2025,
+"venue": "Digital Health",
+"status": "published"
+}
+]
+},
+"hui xu": {
+"name": "Hui Xu",
+"papers": [
+{
+"title": "Hidden barriers to competition: The role of digital inequality",
+"authors": [
+"Liu, Y.",
+"Li, D.",
+"Liang, J.",
+"Hui Xu"
+],
+"year": 2026,
+"venue": "Asian-Pacific Economic Literature",
+"status": "published"
+},
+{
+"title": "Only-Child parents and the language cognitive ability of their children in China",
+"authors": [
+"Hui Xu",
+"Zhang, Z.",
+"Zhao, Z."
+],
+"year": 2026,
+"venue": "Economic Analysis and Policy",
+"status": "published"
+},
+{
+"title": "Returns to education: the roles of income, gender, and occupations",
+"authors": [
+"Wang, S.",
+"Hui Xu",
+"Shen, M.",
+"Meng, D."
+],
+"year": 2025,
+"venue": "AEA Papers and Proceedings",
+"status": "published"
+},
+{
+"title": "Small ponds are best to motivate performance with relative feedback",
+"authors": [
+"Lou H.",
+"Page, L.",
+"Hui Xu"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Free education and the intergenerational transmission of cognitive skills in rural China",
+"authors": [
+"Zheyuan Zhang",
+"Hui Xu",
+"Ruilin Liu",
+"Zhong Zhao"
+],
+"year": 2025,
+"venue": "Journal of Population Economics",
+"status": "published"
+},
+{
+"title": "Emotion expression and indirect reciprocity",
+"authors": [
+"Hui Xu",
+"Daniel Houser"
+],
+"year": 2024,
+"venue": "Singapore Economic Review",
+"status": "published"
+},
+{
+"title": "Parental socioeconomic status and children's cognitive ability in China",
+"authors": [
+"Hui Xu",
+"Zheyuan Zhang",
+"Zhong Zhao"
+],
+"year": 2023,
+"venue": "Journal of Asia Economics",
+"status": "published"
+},
+{
+"title": "The impact of parental migration on social identity- A framed field experiment with left-behind children in China",
+"authors": [
+"Siyu Wang",
+"Hui Xu"
+],
+"year": 2021,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Does windfall money encourage charitable giving? An experimental study",
+"authors": [
+"Huangfang Li",
+"Jie Liang",
+"Hui Xu",
+"Yingxi Liu"
+],
+"year": 2019,
+"venue": "International Journal of Voluntary and Nonprofit Organizations",
+"status": "published"
+},
+{
+"title": "Culture, Gender and Asset Prices: Experimental Evidence from the U.S. and China",
+"authors": [
+"Jianxin Wang",
+"Dan Houser",
+"Hui Xu"
+],
+"year": 2018,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "How Religion Impacts Deception and Trust Behavior: Evidence from a Lab-in-the-Field Experiment in China",
+"authors": [
+"Hui Xu",
+"Jie Liang",
+"Yingxi Liu"
+],
+"year": 2018,
+"venue": "Journal of Neuroscience, Psychology, and Economics",
+"status": "published"
+},
+{
+"title": "Trust and trustworthiness under the prospect theory: a field experiment in Vietnam",
+"authors": [
+"Quang Nguyen",
+"Marie Claire Villeval",
+"Hui Xu"
+],
+"year": 2016,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Left-behind children and return migration in China",
+"authors": [
+"Sylvie Démurger",
+"Hui Xu"
+],
+"year": 2015,
+"venue": "IZA Journal of Migration",
+"status": "published"
+},
+{
+"title": "Return migrants: The rise of new entrepreneurs in rural China",
+"authors": [
+"Sylvie Démurger",
+"Hui Xu"
+],
+"year": 2011,
+"venue": "World Development",
+"status": "published"
+},
+{
+"title": "Return migration, occupational change, and self-employment: the case of Wuwei county",
+"authors": [
+"Hui Xu"
+],
+"year": 2010,
+"venue": "China Perspectives",
+"status": "published"
+},
+{
+"title": "教育如何影响流动人口的社会融入？-基于义务教育法实施的自然实验",
+"authors": [
+"张晓敏",
+"李亚男",
+"徐慧"
+],
+"year": 2022,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "地方政府政策回应能否提高流动人口定居意愿?",
+"authors": [
+"陈济冬",
+"徐慧"
+],
+"year": 2020,
+"venue": "公共行政评论",
+"status": "published"
+},
+{
+"title": "留守儿童的公平感与幸福度: 来自实地实验与调查的依据",
+"authors": [
+"徐慧",
+"王斯妤"
+],
+"year": 2020,
+"venue": "南方经济",
+"status": "published"
+},
+{
+"title": "社会地位来源对欺骗行为的影响：来自实验室实验的依据",
+"authors": [
+"徐慧",
+"梁捷",
+"桂姗"
+],
+"year": 2019,
+"venue": "南方经济",
+"status": "published"
+},
+{
+"title": "返乡农民工主观幸福度研究－外出务工经历的潜在影响",
+"authors": [
+"徐慧",
+"梁捷",
+"赖德胜"
+],
+"year": 2019,
+"venue": "财经研究",
+"status": "published"
+},
+{
+"title": "子女随迁、城市就学和农民工城市认同",
+"authors": [
+"徐慧"
+],
+"year": 2019,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "独生子女的经济行为有别于非独生子女吗?－来自实验室和田野实验的证据",
+"authors": [
+"何浩然",
+"徐慧"
+],
+"year": 2017,
+"venue": "北京师范大学学报",
+"status": "published"
+},
+{
+"title": "区域身份认同与团队劳动供给－基于印度旁遮普人与孟加拉人的实验研究",
+"authors": [
+"梁捷",
+"刘盈曦",
+"徐慧"
+],
+"year": 2014,
+"venue": "印度洋经济体研究",
+"status": "published"
+},
+{
+"title": "人的发展经济学研究（第一辑）：促进人的全面发展",
+"authors": [
+"李实",
+"方晋",
+"徐慧"
+],
+"year": 2025,
+"venue": "中国财富出版社",
+"status": "published"
+}
+]
+},
+"mengbing zhu": {
+"name": "Mengbing Zhu",
+"papers": [
+{
+"title": "Husbands' wages and married women's labor supply in urban China",
+"authors": [
+"Mengbing Zhu",
+"Chunbing Xing",
+"Yi Li"
+],
+"year": 2023,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "中国社会保障制度的收入再分配效应：一些新发现",
+"authors": [
+"李实",
+"朱梦冰"
+],
+"year": 2023,
+"venue": "社会保障评论",
+"status": "published"
+},
+{
+"title": "推进收入分配制度改革 促进共同富裕实现",
+"authors": [
+"李实",
+"朱梦冰"
+],
+"year": 2022,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "城镇地区家庭结构变动与居民财产分布",
+"authors": [
+"朱梦冰",
+"邓曲恒"
+],
+"year": 2021,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "Evaluating the Effectiveness of the Rural Minimum Living Standard Guarantee (Dibao) Program in China",
+"authors": [
+"Nanak Kakwani",
+"Shi Li",
+"Xiaobing Wang",
+"Mengbing Zhu"
+],
+"year": 2019,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "中国经济转型40年中居民收入差距的变动",
+"authors": [
+"李实",
+"朱梦冰"
+],
+"year": 2018,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "中国城乡居民住房不平等分析",
+"authors": [
+"朱梦冰",
+"李实"
+],
+"year": 2018,
+"venue": "经济与管理研究",
+"status": "published"
+},
+{
+"title": "农村居民消费不平等的演变趋势：2002-2013",
+"authors": [
+"朱梦冰"
+],
+"year": 2018,
+"venue": "北京工商大学学报",
+"status": "published"
+},
+{
+"title": "精准扶贫重在精准识别贫困人口—农村低保政策的瞄准效果分析",
+"authors": [
+"朱梦冰",
+"李实"
+],
+"year": 2017,
+"venue": "中国社会科学",
+"status": "published"
+},
+{
+"title": "婚姻匹配问题研究进展",
+"authors": [
+"朱梦冰"
+],
+"year": 2017,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "中国社会保障制度的收入再分配效应",
+"authors": [
+"李实",
+"朱梦冰",
+"詹鹏"
+],
+"year": 2017,
+"venue": "社会保障评论",
+"status": "published"
+}
+]
+},
+"min zhu": {
+"name": "Min Zhu",
+"papers": [
+{
+"title": "Is Risk-taking Propensity Associated with Unethical Behaviors? An Experimental Study",
+"authors": [
+"Min Zhu",
+"Zhixin Xu",
+"Yue Wang",
+"Hing Keung Ma"
+],
+"year": null,
+"venue": "Ethics & Behavior",
+"status": "forthcoming"
+},
+{
+"title": "Matching in the Large: An Experimental Study",
+"authors": [
+"Min Zhu",
+"Yan Chen",
+"Ming Jiang",
+"Onur Kesten",
+"Stéphane Robin"
+],
+"year": 2018,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "College Admissions in China: A Mechanism Design Perspective",
+"authors": [
+"Min Zhu"
+],
+"year": 2014,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "宁为鸡头，不做凤尾？ ——相对排名对学生教育产出的影响",
+"authors": [
+"高曼",
+"朱敏"
+],
+"year": null,
+"venue": "教育学报",
+"status": "forthcoming"
+},
+{
+"title": "志愿填报建议与学校选择：一项实验研究",
+"authors": [
+"朱敏"
+],
+"year": 2016,
+"venue": "教育经济评论",
+"status": "published"
+},
+{
+"title": "东南亚金融危机对东亚国家教育的影响：经验与启示",
+"authors": [
+"赖德胜",
+"朱敏"
+],
+"year": 2009,
+"venue": "比较教育研究",
+"status": "published"
+},
+{
+"title": "Experience Transmission: Truth-telling Adoption in Matching",
+"authors": [
+"Min Zhu"
+],
+"year": 2017,
+"venue": "GATE Working Paper 1702",
+"status": "working_paper"
+},
+{
+"title": "An Experimental Study of Partnership Formation in Social Network",
+"authors": [
+"Min Zhu",
+"Francis Bloch",
+"Bhaskar Dutta",
+"Stéphane Robin"
+],
+"year": 2018,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Online Reputation System in Credence Goods Market",
+"authors": [
+"Min Zhu",
+"Yihong Lin",
+"Huiyu Zhang"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pan liu": {
+"name": "Pan Liu",
+"papers": [
+{
+"title": "公共教育投入、家庭人力资本投资与生育决策",
+"authors": [
+"罗楚亮",
+"刘盼"
+],
+"year": 2026,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "养老保险缴费、就业与劳动力技能结构",
+"authors": [
+"颜迪",
+"刘盼",
+"袁璐璐",
+"罗楚亮"
+],
+"year": 2024,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "Commitment and partial naivety: Early withdrawal penalties on retirement accounts",
+"authors": [
+"Torben M. Andersen",
+"Joydeep Bhattacharya",
+"Pan Liu"
+],
+"year": 2023,
+"venue": "Journal of Mathematical Economics",
+"status": "published"
+},
+{
+"title": "公共就业服务机构匹配效率及其地区差异",
+"authors": [
+"罗楚亮",
+"刘盼"
+],
+"year": 2022,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "代际利他主义与税收结构中性",
+"authors": [
+"刘盼",
+"罗楚亮"
+],
+"year": 2021,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "税收结构改变的长期影响与转型特征",
+"authors": [
+"刘盼",
+"罗楚亮"
+],
+"year": 2021,
+"venue": "浙江工商大学学报",
+"status": "published"
+},
+{
+"title": "Pay-as-you-go pensions and endogenous retirement",
+"authors": [
+"Pan Liu",
+"Joachim Thogersen"
+],
+"year": 2020,
+"venue": "Macroeconomic Dynamics",
+"status": "published"
+},
+{
+"title": "Resolving intergenerational conflict over the environment under the Pareto criterion",
+"authors": [
+"Torben M. Andersen",
+"Joydeep Bhattacharya",
+"Pan Liu"
+],
+"year": 2020,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "劳动边际产出与企业工资分布",
+"authors": [
+"刘盼",
+"罗楚亮"
+],
+"year": 2019,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "预期寿命、年金市场与经济行为",
+"authors": [
+"刘盼",
+"王欣雨"
+],
+"year": 2019,
+"venue": "财经研究",
+"status": "published"
+},
+{
+"title": "我国城镇高等教育机会的省际差异与省内差异",
+"authors": [
+"罗楚亮",
+"赵国昌",
+"刘盼"
+],
+"year": 2019,
+"venue": "经济社会体制比较",
+"status": "published"
+},
+{
+"title": "企业工资分布与工资刚性",
+"authors": [
+"罗楚亮",
+"刘盼"
+],
+"year": 2018,
+"venue": "劳动经济研究",
+"status": "published"
+},
+{
+"title": "向企业征税还是向劳动者征税？",
+"authors": [
+"刘盼",
+"罗楚亮"
+],
+"year": 2018,
+"venue": "经济科学",
+"status": "published"
+}
+]
+},
+"siwei cao": {
+"name": "Siwei Cao",
+"papers": [
+{
+"title": "How Enemies Become Partners: Cross-Jurisdiction Benefit Sharing, Business Locations, and Race to the Bottom",
+"authors": [
+"Siwei Cao",
+"Guangrong Ma",
+"Yang Yang",
+"Kui Zhao"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Transcontinental Railway and Hinterland Development",
+"authors": [
+"Siwei Cao",
+"Mi Dai",
+"Yizhen Gu",
+"Kui Zhao"
+],
+"year": 2025,
+"venue": "Journal of Economic Geography",
+"status": "revise_resubmit"
+},
+{
+"title": "创新激励政策的正外部性——基于普适型和选择型政策的比较",
+"authors": [
+"曹思未",
+"屠西伟",
+"胡涛",
+"叶静怡"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Distinguishing Tortoises and Hares in the Field: Applicants' Prediction of Patent Value Flows",
+"authors": [
+"Siwei Cao",
+"Zhen Lei",
+"Brian Wright"
+],
+"year": 2026,
+"venue": "Research Policy",
+"status": "published"
+},
+{
+"title": "Is Distance Really Dying? Transportation and Knowledge Spillovers",
+"authors": [
+"Siwei Cao",
+"Guangdong Ma",
+"Hao Mao"
+],
+"year": 2024,
+"venue": "Journal of Regional Science",
+"status": "published"
+},
+{
+"title": "How Do Firms Utilize the Deferred Patent Examination system? Evidence from Korea?",
+"authors": [
+"Siwei Cao",
+"Zhen Lei",
+"Junbyoung Oh"
+],
+"year": 2019,
+"venue": "European Journal of Innovation Management",
+"status": "published"
+},
+{
+"title": "跨国公司研发策略部署与开放式创新——来自中国的新发现",
+"authors": [
+"郑飞虎",
+"曹思未"
+],
+"year": 2021,
+"venue": "南开经济研究",
+"status": "published"
+},
+{
+"title": "社会网络与高校专利技术成果转移",
+"authors": [
+"刘雯",
+"曹思未",
+"叶静怡"
+],
+"year": 2020,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "中国国有企业的独特作用：基于知识溢出的视角",
+"authors": [
+"叶静怡",
+"林佳",
+"张鹏飞",
+"曹思未"
+],
+"year": 2019,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "国有企业和非国有企业的创新产出与创新特征分析——基于2016年广州市创新调查和wind数据库的实证研究",
+"authors": [
+"曹思未",
+"蔡随宝",
+"杨洋",
+"叶静怡"
+],
+"year": 2019,
+"venue": "中国科技论坛",
+"status": "published"
+}
+]
+},
+"yanan li": {
+"name": "Yanan Li",
+"papers": [
+{
+"title": "Distributional Effects of Education on Mental Health",
+"authors": [
+"Yanan Li",
+"Naveen Sunder"
+],
+"year": 2024,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Land Inequality and Workfare Policies: Evidence from National Rural Employment Guarantee Scheme in India",
+"authors": [
+"Yanan Li",
+"Naveen Sunder"
+],
+"year": 2022,
+"venue": "Journal of Development Studies",
+"status": "published"
+},
+{
+"title": "What Doesn't Kill Her, Will Make Her Depressed",
+"authors": [
+"Yanan Li",
+"Naveen Sunder"
+],
+"year": 2021,
+"venue": "Economics and Human Biology",
+"status": "published"
+},
+{
+"title": "Air Pollution and Cognitive Functions: Evidence from Straw Burning in China",
+"authors": [
+"Yanan Li",
+"W. Lai",
+"S. Li",
+"X. Tian"
+],
+"year": 2021,
+"venue": "American Journal of Agricultural Economics",
+"status": "published"
+},
+{
+"title": "Minimum Wage Competition between Local Governments in China",
+"authors": [
+"Yanan Li",
+"R. Kanbur",
+"C. Lin"
+],
+"year": 2019,
+"venue": "Journal of Development Studies",
+"status": "published"
+},
+{
+"title": "信息、信念与公众的公共政策偏好和意见表达——基于员工对最低工资水平认知和态度的实证分析",
+"authors": [
+"邢春冰",
+"李溢",
+"李亚男"
+],
+"year": 2023,
+"venue": "世界经济文汇",
+"status": "published"
+},
+{
+"title": "教育如何影响流动人口的社会融入",
+"authors": [
+"张晓敏",
+"李亚男",
+"徐慧"
+],
+"year": 2022,
+"venue": "教育经济评论",
+"status": "published"
+}
+]
+},
+"licheng xu": {
+"name": "Licheng Xu",
+"papers": [
+{
+"title": "Religious Belief and Social Trust in the “Semi-Acquaintance Society”: Evidence From China",
+"authors": [
+"Licheng Xu",
+"Li, W."
+],
+"year": 2026,
+"venue": "Journal for the Scientific Study of Religion",
+"status": "published"
+},
+{
+"title": "Timing of SNAP disbursement and crime incidence in the United States",
+"authors": [
+"Licheng Xu"
+],
+"year": 2025,
+"venue": "Contemporary Economic Policy",
+"status": "published"
+},
+{
+"title": "Mixed motives behind migrants' remittance-sending practices: Evidence from China",
+"authors": [
+"Licheng Xu"
+],
+"year": 2024,
+"venue": "Journal of International Development",
+"status": "published"
+},
+{
+"title": "Land certification, rental market participation, and household welfare in rural China",
+"authors": [
+"Licheng Xu",
+"Du, X."
+],
+"year": 2022,
+"venue": "Agricultural Economics",
+"status": "published"
+},
+{
+"title": "A relational view of self-protection amongst China's food safety crises",
+"authors": [
+"Lin, H.",
+"Fang, P.",
+"Zhou, L.",
+"Licheng Xu"
+],
+"year": 2019,
+"venue": "Canadian Journal of Development Studies",
+"status": "published"
+},
+{
+"title": "个体生命周期、家庭结构与汇款决策——基于京津冀地区进城务工人员的多案例分析",
+"authors": [
+"徐立成"
+],
+"year": 2026,
+"venue": "山西农业大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "依托县域富民产业 完善联农带农机制",
+"authors": [
+"徐立成"
+],
+"year": 2025,
+"venue": "经济研究参考",
+"status": "published"
+},
+{
+"title": "家庭生计模式变迁视角下的进城务工人员市民化路径选择研究",
+"authors": [
+"徐立成"
+],
+"year": 2025,
+"venue": "农业经济问题",
+"status": "published"
+},
+{
+"title": "完善城乡融合发展体制机制：基于农业转移人口市民化视角",
+"authors": [
+"徐立成"
+],
+"year": 2024,
+"venue": "经济研究参考",
+"status": "published"
+},
+{
+"title": "半工半耕”、差序场与农户的差别化食品消费——“一家两制”调查与农户“个体自保”行为分析",
+"authors": [
+"徐立成"
+],
+"year": 2018,
+"venue": "清华社会学评论",
+"status": "published"
+},
+{
+"title": "农消对接”模式的兴起与食品安全信任共同体的重建",
+"authors": [
+"徐立成",
+"周立"
+],
+"year": 2016,
+"venue": "南京农业大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "从“供给驱动”到“需求引导”：农村社区公共产品供给模式转型论",
+"authors": [
+"徐立成",
+"何乐平",
+"冷忠晓"
+],
+"year": 2015,
+"venue": "湖南农业大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "食品安全威胁下“有组织的不负责任”——消费者责任与“一家两制”调查",
+"authors": [
+"徐立成",
+"周立"
+],
+"year": 2014,
+"venue": "中国农业大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "高端农产品价格的“最后一公里”与产业链的失衡发展——基于黑龙江五常市“五常大米”的实证分析",
+"authors": [
+"曾维炯",
+"徐立成"
+],
+"year": 2014,
+"venue": "中国农村观察",
+"status": "published"
+},
+{
+"title": "一家两制”：食品安全威胁下的社会自我保护",
+"authors": [
+"徐立成",
+"周立",
+"潘素梅"
+],
+"year": 2013,
+"venue": "中国农村经济",
+"status": "published"
+},
+{
+"title": "现代农业发展趋势与国际经验",
+"authors": [
+"周立",
+"徐立成",
+"仇焕广",
+"张清勇"
+],
+"year": 2018,
+"venue": "中国农业出版社",
+"status": "published"
+},
+{
+"title": "食品安全与一家两制",
+"authors": [
+"周立",
+"潘素梅",
+"徐立成",
+"方平"
+],
+"year": 2016,
+"venue": "中国农业出版社",
+"status": "published"
+}
+]
+},
+"yan wang": {
+"name": "Yan Wang",
+"papers": [
+{
+"title": "The evolution of income and wealth inequality in China",
+"authors": [
+"Yan Wang",
+"Juan Carlos Conesa"
+],
+"year": 2025,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Workers' income risk and the evolution of income inequality in China",
+"authors": [
+"Yan Wang",
+"Juan Carlos Conesa"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The role of demographics and migration for the future of economic growth in China",
+"authors": [
+"Yan Wang",
+"Juan Carlos Conesa"
+],
+"year": 2022,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "数据要素参与价值创造和分配的理论溯源",
+"authors": [
+"戚聿东",
+"王言"
+],
+"year": 2026,
+"venue": "经济学动态",
+"status": "published"
+}
+]
+},
+"jiajie yu": {
+"name": "Jiajie Yu",
+"papers": []
+},
+"meng sun": {
+"name": "Meng Sun",
+"papers": [
+{
+"title": "The Internet and SME Participation in Exports",
+"authors": [
+"Meng Sun"
+],
+"year": 2021,
+"venue": "Information Economics and Policy",
+"status": "published"
+},
+{
+"title": "The effect of border controls on waste imports: Evidence from China's Green Fence campaign",
+"authors": [
+"Meng Sun"
+],
+"year": 2019,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Central Transfer and Fiscal Capacity in China: Evidence from the Tax-Sharing System",
+"authors": [
+"Meng Sun",
+"Qichun He"
+],
+"year": 2018,
+"venue": "Emerging Markets Finance & Trade",
+"status": "published"
+},
+{
+"title": "Does Fiscal Decentralization Increase the Investment Rate?",
+"authors": [
+"Qichun He",
+"Meng Sun"
+],
+"year": 2018,
+"venue": "Annals of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Do Firms in Polluting Industries Outsource Pollution Abatement Services More? Panel Data Evidence from U.S. Industries",
+"authors": [
+"Meng Sun"
+],
+"year": 2017,
+"venue": "International Journal of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Central Planning Legacies: the Lingering Effects of the Great Leap Forward in China",
+"authors": [
+"Qichun He",
+"Meng Sun"
+],
+"year": 2016,
+"venue": "Bulletin of Economic Research",
+"status": "published"
+},
+{
+"title": "Does Foreign Direct Investment Promote Human Capital Accumulation? The Role of Gradua Financial Liberalization",
+"authors": [
+"Meng Sun",
+"Qichun He"
+],
+"year": 2014,
+"venue": "Emerging Markets Finance & Trade",
+"status": "published"
+},
+{
+"title": "Does Fiscal Decentralization Promote the Inflow of FDI in China?",
+"authors": [
+"Qichun He",
+"Meng Sun"
+],
+"year": 2014,
+"venue": "Economic Modelling",
+"status": "published"
+}
+]
+},
+"yuan xu": {
+"name": "Yuan Xu",
+"papers": [
+{
+"title": "Reshaping Factory Asia: how did the US-China trade war affect the Asian-Pacific Supply China?",
+"authors": [
+"Yuan Xu",
+"Hong Ma",
+"Jingxin Ning"
+],
+"year": 2026,
+"venue": "Journal of International Economics",
+"status": "forthcoming"
+},
+{
+"title": "Real estate expansion and the effectiveness of monetary policy: Evidence from China?",
+"authors": [
+"Yuan Xu",
+"Yudong Qi",
+"Haoyan Tan"
+],
+"year": 2026,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "The employment effects of VAT rebate efficiency: Evidence from SMEs in China?",
+"authors": [
+"Bing Lu",
+"Yuan Xu",
+"Hong Ma",
+"Jiashu Hu"
+],
+"year": 2025,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Tit-for-Tat in Antidumping: How Did China Fight its Antidumping Wars with its Trading Partners?",
+"authors": [
+"Yuan Xu",
+"Wonkyung Lee",
+"Hong Ma"
+],
+"year": 2025,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Magnification of the 'China Shock' Through the U.S. Housing Market",
+"authors": [
+"Yuan Xu",
+"Hong Ma",
+"Robert C. Feenstra"
+],
+"year": 2023,
+"venue": "Review of International Economics",
+"status": "published"
+},
+{
+"title": "Import Penetration and Workplace Safety",
+"authors": [
+"Saiying Deng",
+"Yuan Xu",
+"Connie X. Mao",
+"Xiaoling Pu"
+],
+"year": 2023,
+"venue": "Quarterly Review of Economics and Finance",
+"status": "published"
+},
+{
+"title": "Exchange Rate Disconnect and Financial Constraints – Evidence from Chinese Firms",
+"authors": [
+"Yuan Xu",
+"Yuwei Guo"
+],
+"year": 2021,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Export Tax Rebate and the Margins of Exports: Product Level Evidence from a Quasi-natural Experiment",
+"authors": [
+"Yuan Xu",
+"Wongkyung Lee",
+"Hong Ma"
+],
+"year": 2021,
+"venue": "International Tax and Public Finance",
+"status": "published"
+},
+{
+"title": "US Exports and Employment",
+"authors": [
+"Robert C. Feenstra",
+"Yuan Xu",
+"Hong Ma"
+],
+"year": 2019,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "How do Exchange Rate Movements Affect Chinese Exports? –A firm-level investigation",
+"authors": [
+"Hongbin Li",
+"Yuan Xu",
+"Hong Ma"
+],
+"year": 2015,
+"venue": "Journal of International Economics",
+"status": "published"
+},
+{
+"title": "Job Creation and Destruction in China during 1998-2007",
+"authors": [
+"Yuan Xu",
+"Hong Ma",
+"Xue Qiao"
+],
+"year": 2015,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Robustness to Model Uncertainty and the Nominal Term Premium Puzzle",
+"authors": [
+"Yuan Xu"
+],
+"year": 2015,
+"venue": "Journal of Macroeconomics",
+"status": "published"
+},
+{
+"title": "Measuring China's Trade Liberalization: A Generalized Measure of Trade Restrictiveness Index",
+"authors": [
+"Yuan Xu",
+"Bo Chen",
+"Hong Ma"
+],
+"year": 2014,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "出口放缓对劳动力市场和家户行为的影响",
+"authors": [
+"潘煜",
+"徐嫄",
+"徐铭梽",
+"马弘"
+],
+"year": 2025,
+"venue": "金融研究",
+"status": "published"
+},
+{
+"title": "房地产债务扩张与货币政策有效性下降：理论及实证",
+"authors": [
+"戚聿东",
+"徐嫄",
+"谭昊炎"
+],
+"year": 2024,
+"venue": "财经问题研究",
+"status": "published"
+},
+{
+"title": "对外直接投资影响上市公司股价和绩效吗？—基于上市公司匹配数据的实证研究",
+"authors": [
+"梁兆殷",
+"徐嫄",
+"马弘"
+],
+"year": 2022,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "总统的权力：美国执政党更替与中美贸易（1984-2015）- 兼议中美经贸关系",
+"authors": [
+"马弘",
+"腾越",
+"徐嫄"
+],
+"year": 2018,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "中美贸易摩擦升级战略思考 - 基于日本经验的视角",
+"authors": [
+"马弘",
+"腾越",
+"徐嫄"
+],
+"year": 2018,
+"venue": "国际贸易",
+"status": "published"
+},
+{
+"title": "中国制造业的就业创造与就业消失",
+"authors": [
+"马弘",
+"乔雪",
+"徐嫄"
+],
+"year": 2013,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "基于HCCAPM的利率期限结构",
+"authors": [
+"刘胤",
+"徐嫄"
+],
+"year": 2013,
+"venue": "投资研究",
+"status": "published"
+},
+{
+"title": "人民币汇率对企业进出口贸易的影响",
+"authors": [
+"李宏彬",
+"马弘",
+"熊艳艳",
+"徐嫄"
+],
+"year": 2011,
+"venue": "金融研究",
+"status": "published"
+}
+]
+},
+"haiyang kong": {
+"name": "Haiyang Kong",
+"papers": [
+{
+"title": "Foreign Trade Policy as Education Policy? The Impact of Import Competition on K-12 Public Education Expenditures",
+"authors": [
+"Haiyang Kong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "How Do Low Skilled Immigrants Adjust to Chinese Import Shocks? Evidence using English Language Proficiency",
+"authors": [
+"Haiyang Kong",
+"Delia Furtado"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Import Competition and Native-Immigrant Wage Gaps in the US",
+"authors": [
+"Haiyang Kong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"chaofan chen": {
+"name": "Chaofan Chen",
+"papers": [
+{
+"title": "Formal democratic sanction mechanisms address the social dilemma in public goods games: A Chinese experimental study",
+"authors": [
+"Guan CH",
+"Chen CF",
+"Wang YL"
+],
+"year": 2025,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Carbon regulation and environmental sustainability: The role of market-based instruments in driving green innovation",
+"authors": [
+"Chen CF",
+"Zhou ZX",
+"Li WB"
+],
+"year": 2025,
+"venue": "Journal of Environmental Management",
+"status": "published"
+},
+{
+"title": "Ecological compensation and breakthrough innovation: Evidence from heavily polluting firms",
+"authors": [
+"Chen CF",
+"Zhou ZX",
+"Li C"
+],
+"year": 2025,
+"venue": "Journal of Environmental Management",
+"status": "published"
+},
+{
+"title": "How do property rights affect corporate ESG performance? The moderating effect of green innovation efficiency",
+"authors": [
+"Chen CF",
+"Li WB",
+"Zhang H"
+],
+"year": 2024,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Carbon Emission Reduction Effects of the Digital Economy: Mechanisms and Evidence from 282 Cities in China",
+"authors": [
+"Meng Z",
+"Li WB",
+"Chen CF"
+],
+"year": 2023,
+"venue": "Land",
+"status": "published"
+},
+{
+"title": "Identifying Emissions Reduction Opportunities in International Bilateral Emissions Trading Systems to Achieve China’s Energy Sector NDCs",
+"authors": [
+"Han J",
+"Zhu WL",
+"Chen CF"
+],
+"year": 2023,
+"venue": "International Journal of Environmental Research and Public Health",
+"status": "published"
+},
+{
+"title": "Can government low-carbon regulation stimulate urban green innovation? Quasi-experimental evidence from China’s low-carbon city pilot policy",
+"authors": [
+"Chen CF",
+"Lin YS",
+"Lv N"
+],
+"year": 2022,
+"venue": "Applied Economics",
+"status": "published"
+}
+]
+},
+"qiao wen": {
+"name": "Qiao Wen",
+"papers": [
+{
+"title": "Estimating Returns to College Attainment: Comparing Survey and State Administrative Data Based Estimates",
+"authors": [
+"Qiao Wen",
+"Judith Scott-Clayton"
+],
+"year": 2019,
+"venue": "Evaluation Review",
+"status": "published"
+},
+{
+"title": "Grafting Identity: History Textbook Reform and Identity-building in Contemporary China",
+"authors": [
+"Qiao Wen",
+"Fei Yan",
+"Zhou Zhong",
+"Haoning Wang"
+],
+"year": 2019,
+"venue": "Journal of Educational Change",
+"status": "published"
+}
+]
+},
+"jie xu": {
+"name": "Jie Xu",
+"papers": [
+{
+"title": "The double-edged sword effect of leader humor on employee thriving at work",
+"authors": [
+"Xu, A. J.",
+"Wang, L.",
+"Sun, F. F."
+],
+"year": 2025,
+"venue": "Applied Psychology: An International Review",
+"status": "published"
+},
+{
+"title": "Driving retail cross-selling",
+"authors": [
+"Xu, A. J.",
+"Loi, R.",
+"Chow, W. C.",
+"Lin, V. S. Z."
+],
+"year": 2023,
+"venue": "Journal of Service Research",
+"status": "published"
+},
+{
+"title": "Not threats, but resources: An investigation of how leaders react to employee constructive voice",
+"authors": [
+"Xu, A. J.",
+"Loi, R.",
+"Cai, Z. Y."
+],
+"year": 2023,
+"venue": "British Journal of Management",
+"status": "published"
+},
+{
+"title": "秒回？ICT时代的职场通讯压力",
+"authors": [
+"Sun, H.",
+"Xu, A. J."
+],
+"year": 2023,
+"venue": "心理科学进展",
+"status": "published"
+},
+{
+"title": "基于响应面分析的双元威权领导对员工创新行为的影响研究",
+"authors": [
+"Wang, L.",
+"Song, H. Y.",
+"Xu, A. J."
+],
+"year": 2023,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "Why and when proactive employees take charge at work? The role of servant leadership and prosocial motivation",
+"authors": [
+"Xu, A. J.",
+"Loi, R.",
+"Chow, W. C."
+],
+"year": 2022,
+"venue": "European Journal of Work and Organizational Psychology",
+"status": "published"
+},
+{
+"title": "Can taking charge at work help hospitality frontline employees enrich their family life?",
+"authors": [
+"Xu, A. J.",
+"Loi, R.",
+"Chow, W. C."
+],
+"year": 2020,
+"venue": "International Journal of Hospitality Management",
+"status": "published"
+},
+{
+"title": "Linking customer participation to service employees’ work-to-family enrichment: The role of job crafting and OBSE",
+"authors": [
+"Loi, R.",
+"Xu, A. J.",
+"Chow, W. C. C.",
+"Chan, W. H. W."
+],
+"year": 2020,
+"venue": "Journal of Occupational and Organizational Psychology",
+"status": "published"
+},
+{
+"title": "How and when servant leaders enable collective thriving: The role of team-member exchange and political climate",
+"authors": [
+"Xu, A. J.",
+"Wang, L."
+],
+"year": 2020,
+"venue": "British Journal of Management",
+"status": "published"
+}
+]
+},
+"rongjie li": {
+"name": "Rongjie Li",
+"papers": [
+{
+"title": "The effect of transactive memory systems on process tailoring in software projects: The moderating role of task conflict and shared temporal cognitions",
+"authors": [
+"Lee, J. C.",
+"Wang, Y. T.",
+"Chen, C. Y."
+],
+"year": 2020,
+"venue": "Journal of Systems and Software",
+"status": "published"
+},
+{
+"title": "The effect of process tailoring on software project performance: the role of team absorptive capacity and its knowledge-based enablers",
+"authors": [
+"Lee, J. C.",
+"Chou, I. C.",
+"Chen, C. Y."
+],
+"year": 2021,
+"venue": "Information Systems Journal",
+"status": "published"
+},
+{
+"title": "Comparative effects of knowledge-based antecedents in different realms of CMMI-based software process improvement success",
+"authors": [
+"Chen, C. Y.",
+"Lee, J. C."
+],
+"year": 2022,
+"venue": "Computer Standards & Interfaces",
+"status": "published"
+},
+{
+"title": "Exploring teams' temporal factors for determining process tailoring that promotes the evolution of agile based software development",
+"authors": [
+"Chen, C. Y.",
+"Lee, J. C."
+],
+"year": 2023,
+"venue": "ACM SIGMIS Database: the DATABASE for Advances in Information Systems",
+"status": "published"
+},
+{
+"title": "The continuous usage of artificial intelligence (AI)-powered mobile fitness applications: the goal-setting theory perspective",
+"authors": [
+"Lee, J. C.",
+"Lin, R."
+],
+"year": 2023,
+"venue": "Industrial Management & Data Systems",
+"status": "published"
+},
+{
+"title": "Exploring the adoption decisions of mobile health service users: a behavioral reasoning theory perspective",
+"authors": [
+"Lee, J. C.",
+"Chen, L.",
+"Zhang, H."
+],
+"year": 2023,
+"venue": "Industrial Management & Data Systems",
+"status": "published"
+}
+]
+},
+"jipeng fei": {
+"name": "Jipeng Fei",
+"papers": [
+{
+"title": "When a crisis hits: An examination of the impact of the global financial crisis and the COVID-19 pandemic on financing for women entrepreneurs",
+"authors": [
+"Yu, W.",
+"Jipeng Fei",
+"Peng, G.",
+"Bort, J."
+],
+"year": 2024,
+"venue": "Journal of Business Venturing",
+"status": "published"
+}
+]
+},
+"minhui li": {
+"name": "Minhui Li",
+"papers": [
+{
+"title": "Factors influencing positive perceptions of hybrid teaching in higher education: a case study of an engineering university",
+"authors": [
+"Li, Q.",
+"Xie, R.",
+"Minhui Li"
+],
+"year": 2025,
+"venue": "International Journal of Educational Technology in Higher Education",
+"status": "published"
+},
+{
+"title": "Enhancing humanities and social sciences curriculum in engineering institutions by using interdisciplinary approaches",
+"authors": [
+"Minhui Li",
+"Liu, X."
+],
+"year": 2025,
+"venue": "Cogent Education",
+"status": "published"
+},
+{
+"title": "Organizational Innovation of Chinese Universities of Applied Sciences in Less-Developed Regional Innovation Systems",
+"authors": [
+"Minhui Li",
+"Ruan, N.",
+"Ma, J."
+],
+"year": 2022,
+"venue": "Sustainability",
+"status": "published"
+},
+{
+"title": "知识生产模式下课程思政研究",
+"authors": [
+"李琼",
+"李敏辉",
+"陈志凤"
+],
+"year": 2024,
+"venue": "西部素质教育",
+"status": "published"
+},
+{
+"title": "新型高等教育机构与创新型城市的资源依赖和协同互动研究",
+"authors": [
+"韩双淼",
+"李敏辉"
+],
+"year": 2023,
+"venue": "高校教育管理",
+"status": "published"
+},
+{
+"title": "后疫情时代发展中国家高等教育数字化转型：内涵、困境与路径",
+"authors": [
+"李敏辉",
+"李铭",
+"曾冰然",
+"王超"
+],
+"year": 2022,
+"venue": "北京工业大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "场域视角下“融合交互”混合式教学模式的探索",
+"authors": [
+"李敏辉",
+"李琼"
+],
+"year": 2021,
+"venue": "现代教育技术",
+"status": "published"
+},
+{
+"title": "新制度主义理论视角下“一带一路”发展中国家高校数字化转型",
+"authors": [
+"李敏辉",
+"冯思圆",
+"李琼"
+],
+"year": 2022,
+"venue": "中国教育政策评论",
+"status": "published"
+},
+{
+"title": "以学生为中心”的融合交互教学模式研究—以清华大学深圳国际研究生院为例",
+"authors": [
+"李琼",
+"杨格丹",
+"李敏辉"
+],
+"year": 2021,
+"venue": "现代教育技术",
+"status": "published"
+},
+{
+"title": "学术型研究生全球胜任力的培养模式:以清华-伯克利深圳学院为例",
+"authors": [
+"宋岩",
+"李敏辉"
+],
+"year": 2020,
+"venue": "清华大学教育研究",
+"status": "published"
+},
+{
+"title": "理工科大学的人文通识课程构建——以《跨文化交际》为例",
+"authors": [
+"马近远",
+"李敏辉"
+],
+"year": 2021,
+"venue": "北京航空航天大学学报(社会科学版)",
+"status": "published"
+}
+]
+},
+"yusen dong": {
+"name": "Yusen Dong",
+"papers": [
+{
+"title": "Goodwill Hunting: Why and When Ultimate Controlling Owners Affect Their Firms’ Corporate Social Responsibility Performance",
+"authors": [
+"Dong, Y.",
+"Ma, P.",
+"Sun, L.",
+"Chng, D. H. M."
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Securities fraud among family firms—Evidence from the one-child policy reform in China",
+"authors": [
+"Zhang, D",
+"Dong, Y"
+],
+"year": 2026,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Democracy and Foreign Firms’ Internal Corporate Social Responsibility: Evidence from World Bank Enterprise Surveys",
+"authors": [
+"Choi, Y.",
+"Dong, Y.",
+"Ma, P."
+],
+"year": 2026,
+"venue": "Journal of Business Research",
+"status": "forthcoming"
+},
+{
+"title": "Investee peer effect on firm Innovation: An uncertainty-reduction perspective",
+"authors": [
+"Dong, Y.",
+"Li, D.",
+"Ma, P.",
+"Choi, Y."
+],
+"year": 2025,
+"venue": "Technovation",
+"status": "published"
+},
+{
+"title": "Effects of peer firms’ government certification on focal firm's innovation investment",
+"authors": [
+"Dong, Y.",
+"Chen, S.",
+"Ma, P.",
+"Liu, H.",
+"Xu, X."
+],
+"year": 2024,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "published"
+}
+]
+},
+"liang wu": {
+"name": "Liang Wu",
+"papers": [
+{
+"title": "Do firms defer or accelerate green investment under carbon price uncertainty?",
+"authors": [
+"C. Xie",
+"L. Wu",
+"Z. Tong"
+],
+"year": 2025,
+"venue": "Borsa Istanbul Review",
+"status": "published"
+},
+{
+"title": "Unveiling the carbon-reduction potential of data sharing: A quasi-experimental investigation of public data open platforms in Chinese cities",
+"authors": [
+"C. Xie",
+"Y Wang",
+"W. Wang",
+"L. Wu"
+],
+"year": 2025,
+"venue": "Plos One",
+"status": "published"
+},
+{
+"title": "Market price determination: Interpreting quote order imbalance under zero-profit equilibrium",
+"authors": [
+"Y. Long",
+"J. Yan",
+"L. Wu",
+"X. Long"
+],
+"year": 2024,
+"venue": "Economic modelling",
+"status": "published"
+}
+]
+},
+"lin xu": {
+"name": "Lin Xu",
+"papers": [
+{
+"title": "Spillover Effects of the STAR Market Registration System on Main Board Enterprise Default Risk: Evidence from China",
+"authors": [
+"Lin Xu",
+"Zheng, Y.",
+"Liang, Y.",
+"Chen, X."
+],
+"year": 2026,
+"venue": "Emerging Markets Finance and Trade",
+"status": "published"
+},
+{
+"title": "Second-generation involvement and the digitalisation of family firms: evidence from China",
+"authors": [
+"Lin Xu",
+"Zheng, Y.",
+"Yin, X."
+],
+"year": 2024,
+"venue": "Technology Analysis & Strategic Management",
+"status": "published"
+},
+{
+"title": "政务数据资产化：会计确认与价值评估",
+"authors": [
+"徐琳",
+"郑远",
+"汤珂"
+],
+"year": 2025,
+"venue": "清华大学学报(哲学社会科学版)",
+"status": "published"
+},
+{
+"title": "数据资源研发费用加计扣除研究：基于“行业—活动—费用”框架",
+"authors": [
+"徐琳",
+"郑远",
+"汤珂"
+],
+"year": 2026,
+"venue": "财会通讯",
+"status": "published"
+},
+{
+"title": "股票流动性与企业创新:促进还是抑制——企业异质性视角",
+"authors": [
+"徐琳",
+"刘衍"
+],
+"year": 2020,
+"venue": "科技进步与对策",
+"status": "published"
+},
+{
+"title": "基于PBL教学模式会计专业课程教学改革的探索——以《审计学》为例",
+"authors": [
+"徐琳",
+"年智英",
+"郭盈"
+],
+"year": 2025,
+"venue": "山东高等教育",
+"status": "published"
+},
+{
+"title": "国际“创新教学法”对我国职业教育“三教”改革的启示——基于IPR系列报告的纵向研究",
+"authors": [
+"孟子敏",
+"徐琳"
+],
+"year": 2024,
+"venue": "中国职业技术教育",
+"status": "published"
+},
+{
+"title": "基于BOPPPS模式的会计类课程混合式教学优化研究",
+"authors": [
+"周卉",
+"徐琳",
+"孙云"
+],
+"year": 2023,
+"venue": "高教学刊",
+"status": "published"
+},
+{
+"title": "基于项目式学习的新文科课程及其教学模式探索与实践——以工商管理专业为例",
+"authors": [
+"徐琳",
+"年智英"
+],
+"year": 2024,
+"venue": "北京教育(高教)",
+"status": "published"
+},
+{
+"title": "高管从军经历影响企业关联交易吗？",
+"authors": [
+"郑远",
+"徐琳",
+"孙莹"
+],
+"year": 2022,
+"venue": "财会通讯",
+"status": "published"
+},
+{
+"title": "职业经理人与家族成员：谁更能促进家族企业创新？——基于企业异质性视角",
+"authors": [
+"张雷",
+"徐琳",
+"邱锐婷"
+],
+"year": 2021,
+"venue": "财会通讯",
+"status": "published"
+},
+{
+"title": "人力资本参与、内部控制与公司绩效——基于中国房地产上市公司数据",
+"authors": [
+"徐琳",
+"朱军",
+"刘衍"
+],
+"year": 2021,
+"venue": "会计之友",
+"status": "published"
+}
+]
+},
+"meng han": {
+"name": "Meng Han",
+"papers": [
+{
+"title": "What drives commodity price variation?",
+"authors": [
+"Meng Han",
+"Dam, L.",
+"Pohl, W."
+],
+"year": 2025,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Commodity momentum and reversal: Do they exist, and if so, why?",
+"authors": [
+"Meng Han"
+],
+"year": 2023,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "Is climate policy uncertainty positively or negatively priced in the stock market, and why?",
+"authors": [
+"Wu, L.",
+"Xu, B.",
+"Meng Han"
+],
+"year": 2026,
+"venue": "Journal of Risk",
+"status": "published"
+},
+{
+"title": "Forecasting Dynamic Correlations Between Carbon, Energy, and Stock Markets Using a BOHB-Optimized Multivariable Graph Neural Network",
+"authors": [
+"Ma, Q.",
+"Meng Han"
+],
+"year": 2026,
+"venue": "Mathematics",
+"status": "published"
+},
+{
+"title": "Carbon Convenience Yields and Probability Density Forecasts for Carbon Returns",
+"authors": [
+"Meng Han",
+"You, J.",
+"Lin, M."
+],
+"year": 2026,
+"venue": "Mathematics",
+"status": "published"
+},
+{
+"title": "Forecasting carbon prices in the Shenzhen market, China: The role of mixed-frequency factors",
+"authors": [
+"Meng Han",
+"Ding, L.",
+"Zhao, X.",
+"Kang, W."
+],
+"year": 2019,
+"venue": "Energy",
+"status": "published"
+},
+{
+"title": "Probability density forecasts for steam coal prices in China: The role of high-frequency factors",
+"authors": [
+"Ding, L.",
+"Zhao, Z.",
+"Meng Han"
+],
+"year": 2021,
+"venue": "Energy",
+"status": "published"
+},
+{
+"title": "Forecasting China's wastewater discharge using dynamic factors and mixed-frequency data",
+"authors": [
+"Ding, L.",
+"Lv, Z.",
+"Meng Han",
+"Zhao, X.",
+"Wang, W."
+],
+"year": 2019,
+"venue": "Environmental Pollution",
+"status": "published"
+},
+{
+"title": "Usefulness of economic and energy data at different frequencies for carbon price forecasting in the EU ETS",
+"authors": [
+"Zhao, X.",
+"Meng Han",
+"Ding, L.",
+"Kang, W."
+],
+"year": 2018,
+"venue": "Applied Energy",
+"status": "published"
+}
+]
+},
+"yinghui chen": {
+"name": "Yinghui Chen",
+"papers": [
+{
+"title": "Corporate Governance in China: An Empirical Investigation",
+"authors": [
+"Yinghui Chen"
+],
+"year": 2019,
+"venue": "China Financial & Economic Publishing House",
+"status": "published"
+},
+{
+"title": "Does Regulatory Reform of Cumulative Voting Promote a More Balanced Power Distribution in the Boardroom?",
+"authors": [
+"Yinghui Chen",
+"Julan Du"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Does Political Turnover Stifle or Stimulate Corporate Innovation?",
+"authors": [
+"Yinghui Chen"
+],
+"year": 2021,
+"venue": "International Review of Economics & Finance",
+"status": "published"
+},
+{
+"title": "Earnings Management Uncertainty, Implicit Guarantees, and the Corporate Bond Yield Spread: Evidence from China",
+"authors": [
+"Yinghui Chen",
+"Chenchen Peng",
+"Kam C. Chan"
+],
+"year": 2021,
+"venue": "Borsa Istanbul Review",
+"status": "published"
+},
+{
+"title": "Liquidity Risk and Corporate Bond Yield Spread: Evidence from China",
+"authors": [
+"Yinghui Chen",
+"Lunan Jiang"
+],
+"year": 2021,
+"venue": "International Review of Finance",
+"status": "published"
+},
+{
+"title": "Political Uncertainty, Innovation-Driven Strategy, and Corporate R&D",
+"authors": [
+"Yang Cao",
+"Yinghui Chen",
+"Yuhe Zhang"
+],
+"year": 2022,
+"venue": "Research in International Business and Finance",
+"status": "published"
+},
+{
+"title": "Monetary policy surprises and corporate investment growth in China",
+"authors": [
+"Lunan Jiang",
+"Yinghui Chen",
+"Lin Zhang"
+],
+"year": 2024,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Monetary policy shocks and firm investment decisions: Evidence from China",
+"authors": [
+"Lunan Jiang",
+"Yinghui Chen",
+"Lin Zhang"
+],
+"year": 2024,
+"venue": "International Review of Financial Analysis",
+"status": "published"
+},
+{
+"title": "Non-mandatory approaches to corporate environmental engagement: Insights from the Belt and Road Initiative",
+"authors": [
+"Yinghui Chen",
+"Ying Tong",
+"Can Zhou"
+],
+"year": 2024,
+"venue": "International Review of Economics & Finance",
+"status": "published"
+},
+{
+"title": "Multiple large shareholders and cash holdings: Evidence from China",
+"authors": [
+"Yinghui Chen",
+"Miao Chen",
+"Yong Huang"
+],
+"year": 2025,
+"venue": "International Review of Financial Analysis",
+"status": "published"
+},
+{
+"title": "存款保险制度如何影响公众对不同银行的信心？——来自中国的证据",
+"authors": [
+"王永钦",
+"陈映辉",
+"熊雅文"
+],
+"year": 2018,
+"venue": "金融研究",
+"status": "published"
+},
+{
+"title": "软预算约束与中国地方政府债务的违约风险：来自金融市场的证据",
+"authors": [
+"王永钦",
+"陈映辉",
+"杜巨澜"
+],
+"year": 2016,
+"venue": "经济研究",
+"status": "published"
+}
+]
+},
+"zeyu sun": {
+"name": "Zeyu Sun",
+"papers": [
+{
+"title": "资本市场开放与高管在职消费——基于沪深港通交易制度的准自然实验",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2021,
+"venue": "会计研究",
+"status": "published"
+},
+{
+"title": "资本市场开放与公司内部人减持——基于沪深港通交易制度的准自然实验",
+"authors": [
+"齐保垒",
+"孙泽宇"
+],
+"year": 2023,
+"venue": "会计研究",
+"status": "published"
+},
+{
+"title": "资本市场开放与企业金融化——基于沪(深)港通交易制度的准自然实验",
+"authors": [
+"孙泽宇",
+"孙凡"
+],
+"year": 2021,
+"venue": "管理科学",
+"status": "published"
+},
+{
+"title": "监管型小股东对企业创新的影响",
+"authors": [
+"孙泽宇",
+"孙凡"
+],
+"year": 2024,
+"venue": "管理科学",
+"status": "published"
+},
+{
+"title": "投服中心持股与上市公司股价同步性——基于一项准自然实验",
+"authors": [
+"孙泽宇",
+"孙凡"
+],
+"year": 2024,
+"venue": "管理评论",
+"status": "published"
+},
+{
+"title": "特殊的“内部人”——多个大股东并存对管理层业绩预告的影响研究",
+"authors": [
+"孙泽宇",
+"常钰苑",
+"董春晖"
+],
+"year": 2024,
+"venue": "管理工程学报",
+"status": "published"
+},
+{
+"title": "资本市场开放对管理层业绩预告的影响研究",
+"authors": [
+"孙泽宇",
+"孙凡",
+"董春晖"
+],
+"year": 2023,
+"venue": "管理工程学报",
+"status": "published"
+},
+{
+"title": "多个大股东与企业金融化",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2022,
+"venue": "管理工程学报",
+"status": "published"
+},
+{
+"title": "公共数据开放何以改善资本市场定价效率",
+"authors": [
+"孙凡",
+"孙泽宇"
+],
+"year": 2025,
+"venue": "经济管理",
+"status": "published"
+},
+{
+"title": "税收征管独立性与企业杠杆操纵——基于国地税合并的准自然实验",
+"authors": [
+"孙泽宇",
+"王改便",
+"孙凡"
+],
+"year": 2025,
+"venue": "审计与经济研究",
+"status": "published"
+},
+{
+"title": "监督抑或合谋——多个大股东并存对企业社会责任的影响研究",
+"authors": [
+"孙晶慧",
+"孙泽宇",
+"齐保垒"
+],
+"year": 2024,
+"venue": "中央财经大学学报",
+"status": "published"
+},
+{
+"title": "关键审计事项披露缓解了资产误定价吗",
+"authors": [
+"孙泽宇"
+],
+"year": 2024,
+"venue": "财贸研究",
+"status": "published"
+},
+{
+"title": "社会信任、法律环境与企业社会责任绩效",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2022,
+"venue": "北京工商大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "外资持股对公司战略选择的影响研究——基于沪深港通交易制度的准自然实验",
+"authors": [
+"孙泽宇",
+"孙凡"
+],
+"year": 2021,
+"venue": "上海财经大学学报",
+"status": "published"
+},
+{
+"title": "多个大股东并存与审计师定价决策",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2021,
+"venue": "审计与经济研究",
+"status": "published"
+},
+{
+"title": "资本市场开放与高管薪酬契约有效性——基于沪深港通交易制度的准自然实验",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2021,
+"venue": "当代财经",
+"status": "published"
+},
+{
+"title": "资本市场开放与企业创新——基于沪深港通交易制度的准自然实验",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2021,
+"venue": "科技进步与对策",
+"status": "published"
+},
+{
+"title": "放松卖空管制与企业社会责任——基于融资融券制度的准自然实验",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2020,
+"venue": "当代财经",
+"status": "published"
+},
+{
+"title": "资本市场开放与大股东掏空——基于沪深港通交易制度的经验证据",
+"authors": [
+"孙泽宇",
+"齐保垒",
+"崔晓玉"
+],
+"year": 2020,
+"venue": "金融经济学研究",
+"status": "published"
+},
+{
+"title": "非正式制度的有限激励作用——基于地区信任环境对企业创新影响的实证研究",
+"authors": [
+"孙泽宇",
+"齐保垒"
+],
+"year": 2020,
+"venue": "山西财经大学学报",
+"status": "published"
+}
+]
+},
+"bingxin xing": {
+"name": "Bingxin Xing",
+"papers": [
+{
+"title": "US Macroeconomic News and Low-Frequency Changes in Bond Yields in Canada, Sweden and The UK",
+"authors": [
+"Bingxin Ann Xing",
+"Bruno Feunou",
+"Morvan Nongni-Donfack",
+"Rodrigo Sekkel"
+],
+"year": 2024,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Can Switching Between Predictive Models and the Historical Average Improve Bond Return Predictability?",
+"authors": [
+"Runqing Wan",
+"Bingxin Ann Xing"
+],
+"year": 2025,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "A Cross-Sectional Analysis of Individual Goods Inflation Rates",
+"authors": [
+"Bingxin Ann Xing",
+"Bruno Feunou",
+"Roméo Tédongap"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why Do Inflation Rates Vary Across Countries?",
+"authors": [
+"Bingxin Ann Xing",
+"Bruno Feunou",
+"Roméo Tédongap"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Economic Value of TIPS Arbitrage Mispricing",
+"authors": [
+"Bingxin Ann Xing",
+"Shehryar Amin",
+"Vasilis Dedes",
+"Roméo Tédongap"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"jiayu dai": {
+"name": "Jiayu Dai",
+"papers": [
+{
+"title": "Carbon-information Uncertainty and Loan Price",
+"authors": [
+"Jiayu Dai",
+"Ning Gao",
+"Alice Liang Xu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Investors Value Mandatory Carbon Disclosure",
+"authors": [
+"Jiayu Dai",
+"Xiangshang Cai",
+"Ning Gao",
+"Alice Liang Xu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"minghong wu": {
+"name": "Minghong Wu",
+"papers": [
+{
+"title": "The impact of Investor Attention on Mispricing of Dual-Listed Shares: Evidence from Chinese A-shares and H-shares Markets",
+"authors": [
+"Minghong Wu",
+"Wei-Ling Huang",
+"I-Hsuan Ethan Chiang"
+],
+"year": 2025,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "Herd Behaviors in Index Futures Trading: Driving Factors and Impact on Market Volatility",
+"authors": [
+"Minghong Wu",
+"Wan-Ting Hu",
+"Pei-Shih Weng"
+],
+"year": 2023,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "Google searches around analyst recommendation revision announcements: Evidence from the Taiwan stock market",
+"authors": [
+"Minghong Wu",
+"Wei-Che Tsai",
+"Chia-Chi Lu",
+"Hang Zhang"
+],
+"year": 2022,
+"venue": "International Review of Economics & Finance",
+"status": "published"
+},
+{
+"title": "Volatility of Order Imbalance of Institutional Traders and Expected Asset Returns: Evidence from Taiwan",
+"authors": [
+"Hong-Gia Huang",
+"Minghong Wu",
+"Wei-Che Tsai",
+"Pei-Shih Weng"
+],
+"year": 2021,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Effects of investor attention in China's commodity futures markets",
+"authors": [
+"Minghong Wu",
+"Wei-Che Tsai",
+"Pei-Shih Weng",
+"Dan-Yi Li"
+],
+"year": 2021,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "The Impact of Net Buying Pressure on VIX Option Prices",
+"authors": [
+"Yi-Wei Chuang",
+"Wei-Che Tsai",
+"Minghong Wu"
+],
+"year": 2020,
+"venue": "Journal of Futures Markets",
+"status": "published"
+}
+]
+},
+"weiling huang": {
+"name": "Weiling Huang",
+"papers": [
+{
+"title": "The Impact of Investor Attention on Mispricing of Dual-Listed Shares: Evidence from Chinese A-share and H-share Markets",
+"authors": [
+"Weiling Huang",
+"I-Hsuan Ethan Chiang",
+"Ming-Hung Wu"
+],
+"year": 2025,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "What's Bad for the Environment Is Also Bad for the Market: The Impact of Air Quality on the Mispricing of Dual-Listed Shares in China",
+"authors": [
+"Weiling Huang",
+"Ming-Hung Wu",
+"Pei-Shih Weng"
+],
+"year": 2025,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Economic Policy Uncertainty, Investors' Attention and U.S. REITs Herding Behaviors",
+"authors": [
+"Weiling Huang",
+"I-Chun Tsai",
+"Wen-Yuan Lin"
+],
+"year": 2020,
+"venue": "Journal of Risk",
+"status": "published"
+},
+{
+"title": "The Effect of Economic Policy Uncertainty on China's Housing Market",
+"authors": [
+"Weiling Huang",
+"Wen-Yuan Lin",
+"Shao-Lin Ning"
+],
+"year": 2020,
+"venue": "North American Journal of Economics and Finance",
+"status": "published"
+}
+]
+},
+"xi chen": {
+"name": "Xi Chen",
+"papers": [
+{
+"title": "Extreme Illiquidity and Cross-Sectional Corporate Bond Returns",
+"authors": [
+"Xi Chen"
+],
+"year": 2024,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Return Predictability of Prospect Theory: Evidence from the Thailand Stock Market",
+"authors": [
+"Xi Chen"
+],
+"year": 2024,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "Extreme Illiquidity and Stock Returns: Evidence from Thailand Market",
+"authors": [
+"Xi Chen"
+],
+"year": 2023,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "Jump and Volatility Risk in the Cross-section of Corporate Bond Returns",
+"authors": [
+"Xi Chen"
+],
+"year": 2022,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "结构性产品投资者感知风险与过度自信影响研究",
+"authors": [
+"Xi Chen"
+],
+"year": 2018,
+"venue": "管理科学学报",
+"status": "published"
+},
+{
+"title": "心理因素、交易环境变化与结构性产品风险测度：一个研究综述",
+"authors": [
+"Xi Chen"
+],
+"year": 2020,
+"venue": "中国管理科学",
+"status": "published"
+}
+]
+},
+"xiang dai": {
+"name": "Xiang Dai",
+"papers": [
+{
+"title": "R&D tax incentives and corporate capital structures: Evidence from a quasi-natural experiment in the U.S.",
+"authors": [
+"Xiang Dai",
+"Siliu Feng",
+"Xiyin Luo",
+"Jin Roc Lv"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "R&D tax incentives and corporate cash holdings: Evidence from a quasi-natural experiment in the U.S.",
+"authors": [
+"Xiang Dai",
+"Jin Roc Lv",
+"Chen Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Bankruptcy courts and capital structures",
+"authors": [
+"Xiang Dai",
+"Jin Roc Lv",
+"Chen Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do You Have Any Questions? Revealing Analyst Attention to CSR",
+"authors": [
+"Xiang Dai",
+"Ding Ding",
+"Chao Gao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Corporate Social Responsibility, Local Seniors, and Corporate Dividend Policy",
+"authors": [
+"Xiang Dai",
+"Jin Roc Lv",
+"Emma Schultz"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Political Risk and Political Engagement",
+"authors": [
+"Xiang Dai",
+"Ding Ding",
+"Phong Ngo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yiqi jiang": {
+"name": "Yiqi Jiang",
+"papers": [
+{
+"title": "The Value of The PCAOB's International Audit Oversight on U.S. Listed Foreign Companies: Evidence from an Initial Enforcement Breakdown",
+"authors": [
+"Yiqi Jiang",
+"Tracy Gu",
+"Dan Simunic"
+],
+"year": 2023,
+"venue": "Journal of Contemporary Accounting and Economics",
+"status": "published"
+},
+{
+"title": "Social Media and CEO-employee Pay Disparity",
+"authors": [
+"Yiqi Jiang",
+"Xin Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"zhimin zhang": {
+"name": "Zhimin Zhang",
+"papers": [
+{
+"title": "Leverage Strategies of Real Estate Investment Trusts and Real Estate Operating Companies",
+"authors": [
+"Chang, C.W.",
+"Lim, K.W.",
+"Zhang, Z.M."
+],
+"year": 2024,
+"venue": "International Real Estate Review",
+"status": "published"
+},
+{
+"title": "Waste import ban and water pollution: Evidence from rivers in Guangdong Province, China",
+"authors": [
+"Zhang, Z.",
+"Yu, C.",
+"Li, J."
+],
+"year": 2025,
+"venue": "Resources, Conservation & Recycling Advances",
+"status": "published"
+},
+{
+"title": "From financing to innovation: How green bond issuance promotes corporate green innovation in China",
+"authors": [
+"Zhang, Z.",
+"Jiang, F."
+],
+"year": 2025,
+"venue": "Finance Research Letters",
+"status": "published"
+}
+]
+},
+"dan yang": {
+"name": "Dan Yang",
+"papers": [
+{
+"title": "Corporate decision structure and tax efficiency: Evidence from tax adjustment speed",
+"authors": [
+"Wang, L.",
+"Wu, K.",
+"YANG, D.",
+"Zhang, H."
+],
+"year": 2026,
+"venue": "Journal of Business Finance & Accounting",
+"status": "published"
+},
+{
+"title": "Managerial ability and accounting comparability: Evidence from Chinese listed firms",
+"authors": [
+"Zhang, L.",
+"Hao, B.",
+"YANG, D.",
+"Wang, G."
+],
+"year": 2024,
+"venue": "Economics & Politics",
+"status": "published"
+},
+{
+"title": "Dividend payouts under a societal crisis: Financial constraints or signaling?",
+"authors": [
+"Liang, S.",
+"Niu, Y.",
+"YANG, D.",
+"Liu, X."
+],
+"year": 2023,
+"venue": "International Review of Financial Analysis",
+"status": "published"
+},
+{
+"title": "Does the Prohibition of Long-lived Asset Impairment Reversals Affect Corporate Innovation? — Evidence from China",
+"authors": [
+"Liu, H.",
+"Liu, J.",
+"Wang, H.",
+"YANG, D."
+],
+"year": 2023,
+"venue": "Abacus",
+"status": "published"
+},
+{
+"title": "Dividend Commitment in Firm Bylaws and Capital Structure Change",
+"authors": [
+"Cheng, L.",
+"Wang, G.",
+"Wang, Y.",
+"YANG, D."
+],
+"year": 2021,
+"venue": "European Financial Management",
+"status": "published"
+},
+{
+"title": "Investor attention and stock market reaction: Evidence from publicly listed firms in an emerging economy",
+"authors": [
+"YANG, D.",
+"Ma, T.",
+"Wang, Y.",
+"Wang, G."
+],
+"year": 2021,
+"venue": "Journal of Behavioral Finance",
+"status": "published"
+},
+{
+"title": "Investor protection and cost of debt: Evidence from dividend commitment in firm bylaws",
+"authors": [
+"YANG, D.",
+"Cheng, L.",
+"Wang, G.",
+"Wang, Y.",
+"Zhang, L."
+],
+"year": 2020,
+"venue": "Corporate Governance: An International Review",
+"status": "published"
+},
+{
+"title": "The Determinants of Financial Fraud in Chinese Firms: Does Corporate Governance as an Institutional Innovation Matter?",
+"authors": [
+"YANG, D.",
+"Jiao, H.",
+"Buckland, R."
+],
+"year": 2017,
+"venue": "Technological Forecasting and Social Change",
+"status": "published"
+}
+]
+},
+"fang fang": {
+"name": "Fang Fang",
+"papers": [
+{
+"title": "中国企业高管薪酬差距研究",
+"authors": [
+"方芳",
+"李实"
+],
+"year": 2015,
+"venue": "中国社会科学",
+"status": "published"
+},
+{
+"title": "银行业竞争与企业成长：来自工业企业的经验证据",
+"authors": [
+"方芳",
+"蔡卫星"
+],
+"year": 2016,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "How does regional GDP manipulation affect livelihood investment?",
+"authors": [
+"方芳",
+"Luo, D.",
+"Huang, Y.",
+"Cao, X."
+],
+"year": 2024,
+"venue": "Humanities and Social Sciences Communications",
+"status": "published"
+},
+{
+"title": "从抵押物到现金流：间接融资如何支持创新型企业？",
+"authors": [
+"万晓莉",
+"叶芸绮",
+"方芳"
+],
+"year": 2025,
+"venue": "金融研究",
+"status": "published"
+},
+{
+"title": "The Real Effects of GDP Manipulation on Corporate Innovation: Evidence from China",
+"authors": [
+"邓悦萌",
+"方芳",
+"Širáňová, L.",
+"Zhang, J.",
+"Cao, X."
+],
+"year": 2024,
+"venue": "Journal of Competitiveness",
+"status": "published"
+},
+{
+"title": "数字化转型对企业双重代理成本的影响研究",
+"authors": [
+"莫冬燕",
+"方芳",
+"王洋"
+],
+"year": 2024,
+"venue": "北京师范大学学报（社会科学版）",
+"status": "published"
+},
+{
+"title": "Enterprise digital transformation and audit quality: Empirical evidence from annual reports of Chinese listed companies",
+"authors": [
+"方芳",
+"Mo, D.",
+"Chen, R."
+],
+"year": 2024,
+"venue": "Economics & Politics",
+"status": "published"
+},
+{
+"title": "大数据技术、企业动态能力和盈余管理",
+"authors": [
+"莫冬燕",
+"陈如意",
+"方芳",
+"张锦华"
+],
+"year": 2023,
+"venue": "证券市场导报",
+"status": "published"
+},
+{
+"title": "校友关系能带来基金经理的信息溢价吗？——基于中国资本市场的实证研究",
+"authors": [
+"方芳",
+"曹宇莲",
+"朱然"
+],
+"year": 2022,
+"venue": "管理评论",
+"status": "published"
+},
+{
+"title": "核准制下IPO从严审核的代价——最严发审委的发审效果研究",
+"authors": [
+"方芳",
+"夏立军",
+"曹宇莲"
+],
+"year": 2020,
+"venue": "当代会计评论",
+"status": "published"
+},
+{
+"title": "What Influences the Supervisory Efficiency of Dissenting Independent Directors?",
+"authors": [
+"Fang F.",
+"Tan P.",
+"Xu P.X."
+],
+"year": 2021,
+"venue": "The Inquiry into Industry and Economics",
+"status": "published"
+},
+{
+"title": "Management Background Characteristics and Stock Price Crash Risk",
+"authors": [
+"Fang F.",
+"Semba Hu",
+"Li J.C."
+],
+"year": 2020,
+"venue": "Economic Science",
+"status": "published"
+},
+{
+"title": "The Transformation and Challenge of “Zombie Firms” in China's Capital Market",
+"authors": [
+"Zhu X.L.",
+"Tan P.",
+"Fang F."
+],
+"year": 2020,
+"venue": "The Inquiry into Industry and Economics",
+"status": "published"
+},
+{
+"title": "房价变化、房屋资产与中国居民消费——基于总体和调研数据的证据",
+"authors": [
+"万晓莉",
+"严若予",
+"方芳"
+],
+"year": 2017,
+"venue": "经济学（季刊）",
+"status": "published"
+},
+{
+"title": "A Study on the Compensation Gap among Executives at Chinese Enterprises",
+"authors": [
+"Fang Fang",
+"Li Shi",
+"Liu Yi"
+],
+"year": 2016,
+"venue": "Social Sciences in China",
+"status": "published"
+},
+{
+"title": "短期利率与我国股市非对称影响研究",
+"authors": [
+"董维佳",
+"方芳",
+"吕鑫"
+],
+"year": 2016,
+"venue": "经济与管理研究",
+"status": "published"
+},
+{
+"title": "Asymmetric Reactions of China's Stock Market to Short-term Interest Rates",
+"authors": [
+"Fang F.",
+"Dong W.",
+"Lv X."
+],
+"year": 2016,
+"venue": "International Journal of Economics and Finance",
+"status": "published"
+},
+{
+"title": "中国会计研究中的本土化意识和国际化质量",
+"authors": [
+"崔学刚",
+"方芳",
+"杨丹"
+],
+"year": 2016,
+"venue": "中国会计评论",
+"status": "published"
+},
+{
+"title": "Can Minority Investor Protection Restrain Earnings Management?--An empirical test of China's listed companies",
+"authors": [
+"Fang Fang",
+"Peng Tan",
+"Minghua Gao"
+],
+"year": 2016,
+"venue": "International Review of Business",
+"status": "published"
+},
+{
+"title": "Executive Ability, Industry Competition and Executive Pay--An Empirical Analysis of Chinese Listed Companies",
+"authors": [
+"Fang Fang",
+"Minghua Gao",
+"Dan Hu"
+],
+"year": 2016,
+"venue": "Economic Science",
+"status": "published"
+},
+{
+"title": "The Asymmetric Effects of Official Interest Rate Changes on China's Stock Market during Different Market Regimes",
+"authors": [
+"Lv, X.",
+"Dong, W.J.",
+"Fang, F."
+],
+"year": 2015,
+"venue": "Emerging Markets Finance and Trade",
+"status": "published"
+},
+{
+"title": "董事会治理与财务治理的作用效应——基于应计与真实活动盈余管理的实证检验",
+"authors": [
+"高明华",
+"方芳"
+],
+"year": 2014,
+"venue": "经济与管理研究",
+"status": "published"
+},
+{
+"title": "社会责任表现、报告鉴定与审计定价",
+"authors": [
+"翟华云",
+"郑军",
+"方芳"
+],
+"year": 2014,
+"venue": "证券市场导报",
+"status": "published"
+},
+{
+"title": "区域科技金融发展、R&D投入与企业成长性研究——基于战略性新兴产业上市公司的经验证据",
+"authors": [
+"翟华云",
+"方芳"
+],
+"year": 2014,
+"venue": "科技进步与对策",
+"status": "published"
+},
+{
+"title": "国有企业分类改革与分类治理——基于七家国有企业的调研",
+"authors": [
+"高明华",
+"杨丹",
+"杜雯翠",
+"焦豪",
+"谭玥宁",
+"苏然",
+"方芳",
+"黄晓丰"
+],
+"year": 2014,
+"venue": "经济社会体制比较",
+"status": "published"
+},
+{
+"title": "中国上市公司董事会治理评价及有效性检验",
+"authors": [
+"高明华",
+"苏然",
+"方芳"
+],
+"year": 2014,
+"venue": "经济学动态",
+"status": "published"
+},
+{
+"title": "How does Corporate Governance Affect Earnings Management in China?: In the View of Financial Monitoring",
+"authors": [
+"Fang, F.",
+"Gao, M.",
+"Dong, W."
+],
+"year": 2013,
+"venue": "Economic Science",
+"status": "published"
+},
+{
+"title": "Corporate Governance and Earnings Management-The Role of Committees System Adopted by Japanese Companies",
+"authors": [
+"Fang, F."
+],
+"year": 2011,
+"venue": "The Journal of Business Analysis",
+"status": "published"
+}
+]
+},
+"ji guo": {
+"name": "Ji Guo",
+"papers": [
+{
+"title": "中美顶尖综合性大学科研投入与产出比较",
+"authors": [
+"Ji Guo"
+],
+"year": 2018,
+"venue": "中国高等教育",
+"status": "published"
+},
+{
+"title": "基于跨期消费平滑模型的国际资本流动性实证分析",
+"authors": [
+"Ji Guo"
+],
+"year": 2017,
+"venue": "统计与决策",
+"status": "published"
+},
+{
+"title": "高校校友捐赠收入影响因素研究",
+"authors": [
+"Ji Guo"
+],
+"year": 2017,
+"venue": "中国高教研究",
+"status": "published"
+},
+{
+"title": "我国高校基金会发展态势—基于我国高校基金会财务数据分析",
+"authors": [
+"Ji Guo"
+],
+"year": 2016,
+"venue": "中国高教研究",
+"status": "published"
+},
+{
+"title": "Wage Taxes and Commuters—the Case of Pennsylvania",
+"authors": [
+"Ji Guo"
+],
+"year": 2016,
+"venue": "Applied Spatial Analysis and Policy",
+"status": "published"
+},
+{
+"title": "The Resource Tax Reform of Xinjiang, China",
+"authors": [
+"Ji Guo"
+],
+"year": 2012,
+"venue": "International Journal of Multidisciplinary Thought",
+"status": "published"
+},
+{
+"title": "Macao’s Tourism Industry and its Dependence on Mainland China",
+"authors": [
+"Ji Guo"
+],
+"year": 2011,
+"venue": "Journal of Global Business Management",
+"status": "published"
+},
+{
+"title": "Effect of Tax Rates on Foreign Direct Investment in China",
+"authors": [
+"Ji Guo"
+],
+"year": 2010,
+"venue": "Journal of International Management Studies",
+"status": "published"
+},
+{
+"title": "导致明朝衰亡的两个因素：财政体制与社会基层自治",
+"authors": [
+"Ji Guo"
+],
+"year": 2010,
+"venue": "现代财经—天津财经大学学报",
+"status": "published"
+},
+{
+"title": "Demand for information enhancement: The case of Chinese firms",
+"authors": [
+"Ji Guo"
+],
+"year": 2009,
+"venue": "Journal of International Management Studies",
+"status": "published"
+},
+{
+"title": "Tax Competition for Commuters",
+"authors": [
+"Ji Guo"
+],
+"year": 2009,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+}
+]
+},
+"song su": {
+"name": "Song Su",
+"papers": [
+{
+"title": "Genes and Sales",
+"authors": [
+"Gong, S.",
+"Li, Q.",
+"Su, S.",
+"Zhang, J."
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Low self-concept clarity induces scarcity perceptions: The subsequent effects on prosocial behavior",
+"authors": [
+"Sun, Y.",
+"Wang, X.",
+"Su, S.",
+"Chen, W.",
+"Jiang, T."
+],
+"year": 2024,
+"venue": "Personality and Social Psychology Bulletin",
+"status": "published"
+},
+{
+"title": "From gratitude to injustice:Neurocomputational mechanisms of gratitude-induced injustice",
+"authors": [
+"Zhu, R.",
+"Xu, Z.",
+"Su, S.",
+"Feng, C.",
+"Luo, Y.",
+"Tang, H.",
+"Zhang, S.",
+"Wu, X.",
+"Mai, X.",
+"Liu, C."
+],
+"year": 2021,
+"venue": "NeuroImage",
+"status": "published"
+},
+{
+"title": "Are proselfs more deceptive and hypocritical? Social image concerns in appearing fair",
+"authors": [
+"Tang, H.",
+"Wang, S.",
+"Liang, Z.",
+"Sinnott-Armstrong, W.",
+"Su, S.",
+"Liu, C."
+],
+"year": 2018,
+"venue": "Frontiers in Psychology",
+"status": "published"
+}
+]
+},
+"luqiong tong": {
+"name": "Luqiong Tong",
+"papers": [
+{
+"title": "Warmer or cooler: the influence of ambient temperature on complex choices",
+"authors": [
+"Tong, L.",
+"Zhu, R. J.",
+"Zheng, Y.",
+"Zhao, P."
+],
+"year": 2018,
+"venue": "Marketing Letters",
+"status": "published"
+},
+{
+"title": "Hide the light or let it shine? Examining the factors influencing the effect of publicizing donations on donors’ happiness",
+"authors": [
+"Wang, X.",
+"Tong, L."
+],
+"year": 2015,
+"venue": "International Journal of Research in Marketing",
+"status": "published"
+},
+{
+"title": "Is money really the root of all evil? The impact of priming money on consumer choice",
+"authors": [
+"Tong, L.",
+"Zheng, Y.",
+"Zhao, P."
+],
+"year": 2013,
+"venue": "Marketing Letters",
+"status": "published"
+}
+]
+},
+"xiangyang zhao": {
+"name": "Xiangyang Zhao",
+"papers": [
+{
+"title": "互联网：一种新的心理学研究工具",
+"authors": [
+"赵向阳",
+"朱滢"
+],
+"year": 2002,
+"venue": "心理学发展与动态",
+"status": "published"
+},
+{
+"title": "Business Owners’ Network Size and Business Growth in China: the role of comprehensive social competency",
+"authors": [
+"Zhao, X. Y.",
+"Frese, M.",
+"Giardini, A."
+],
+"year": 2010,
+"venue": "Entrepreneurship and Regional Development",
+"status": "published"
+},
+{
+"title": "基于跨文化视角下的案例法在中国工商管理教育中的应用",
+"authors": [
+"赵向阳"
+],
+"year": 2011,
+"venue": "管理案例研究与评论",
+"status": "published"
+},
+{
+"title": "创业活动的国家差异：文化与国家经济发展水平的交互作用",
+"authors": [
+"赵向阳",
+"李海",
+"Andreas Rauch"
+],
+"year": 2012,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "Cross-country difference in entrepreneurial activities: the role of cultural practice and national wealth",
+"authors": [
+"Zhao, X.Y.",
+"Li, H.",
+"Rauch, A."
+],
+"year": 2012,
+"venue": "Frontiers of Business Research in China",
+"status": "published"
+},
+{
+"title": "从个人价值观到创业意愿：创造力作为中介变量",
+"authors": [
+"赵向阳",
+"李海",
+"孙川"
+],
+"year": 2014,
+"venue": "北京师范大学学报",
+"status": "published"
+},
+{
+"title": "国家文化与早期创业活动：基于“阴阳”和“一分为三”辩证思想的探索性研究",
+"authors": [
+"赵向阳",
+"李海",
+"余佳"
+],
+"year": 2014,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "中国区域文化地图：“大一统”抑或“多元化”？",
+"authors": [
+"赵向阳",
+"李海",
+"孙川"
+],
+"year": 2015,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "如何让中国传统文化走进当下的管理学经验研究？",
+"authors": [
+"赵向阳"
+],
+"year": 2017,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "非科学性”让管理学变得更好：“蔡玉麟质疑”继续中",
+"authors": [
+"韩巍",
+"赵向阳"
+],
+"year": 2017,
+"venue": null,
+"status": "published"
+},
+{
+"title": "为何管理者不待见管理学者",
+"authors": [
+"赵向阳"
+],
+"year": 2017,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "Search and execution: examing the entrepreneurial cognitions behind lean start-up model",
+"authors": [
+"Yang, Xiaomiao",
+"SUN, Li",
+"Zhao, Xiangyang"
+],
+"year": 2018,
+"venue": "Small Business Economics",
+"status": "published"
+},
+{
+"title": "持续进行的纳米创业",
+"authors": [
+"赵向阳"
+],
+"year": 2009,
+"venue": "管理案例研究与评论",
+"status": "published"
+},
+{
+"title": "华夏科创：机遇识别与开发",
+"authors": [
+"赵向阳"
+],
+"year": 2009,
+"venue": "管理案例研究与评论",
+"status": "published"
+},
+{
+"title": "从渔民之子到鱼岛的主人：肖秋利创业人生",
+"authors": [
+"赵向阳",
+"葛玉良"
+],
+"year": 2009,
+"venue": "管理案例研究与评论",
+"status": "published"
+}
+]
+},
+"xue wang": {
+"name": "Xue Wang",
+"papers": [
+{
+"title": "When to Appeal to Cultural Capital in Advertisements? A Cultural Capital Appeal Increases Purchase Intentions for High- but Not Low-priced Products",
+"authors": [
+"Wei-fen Chen",
+"Xue Wang",
+"Chenyang Shao"
+],
+"year": 2025,
+"venue": "Journal of Advertising Research",
+"status": "forthcoming"
+},
+{
+"title": "Perceiving Low Social Mobility Induces Zero-Sum Beliefs About Social Hierarchies",
+"authors": [
+"Wang, Xue",
+"Zhuo Yuemin",
+"Wei-fen Chen",
+"Hongfei Du",
+"Zhansheng Chen"
+],
+"year": 2024,
+"venue": "Personality and Social Psychology Bulletin",
+"status": "forthcoming"
+},
+{
+"title": "Low Self-Concept Clarity Induces Scarcity Perceptions: The Subsequent Effects on Prosocial Behavior",
+"authors": [
+"Sun, Yujia",
+"Xue Wang",
+"Song Su",
+"Wei-fen Chen",
+"Tonglin Jiang"
+],
+"year": 2024,
+"venue": "Personality and Social Psychology Bulletin",
+"status": "forthcoming"
+},
+{
+"title": "Perceiving High Social Mobility Breeds Materialism: The Mediating Role of Socioeconomic Status Uncertainty",
+"authors": [
+"Wang, Xue",
+"Wei-fen Chen",
+"Ying-yi Hong",
+"Zhansheng Chen"
+],
+"year": 2022,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Double Standards in the COVID-19 Pandemic: The Moderation of Perceived Threat",
+"authors": [
+"Wang, Xue",
+"Ting Wang",
+"Tonglin Jiang",
+"Zhansheng Chen",
+"Ying-yi Hong"
+],
+"year": 2022,
+"venue": "European Journal of Social Psychology",
+"status": "published"
+},
+{
+"title": "Perceiving a Lack of Social Justice: Lower-Class Individuals Apply Higher Moral Standards to Others",
+"authors": [
+"Wang, Xue",
+"Zhansheng Chen",
+"Kai-Tak Poon",
+"Tonglin Jiang"
+],
+"year": 2021,
+"venue": "Social Psychological and Personality Science",
+"status": "published"
+}
+]
+},
+"conghui hu": {
+"name": "Conghui Hu",
+"papers": [
+{
+"title": "Market Manipulation and Corporate Risk‐Taking",
+"authors": [
+"YangfaChen",
+"Conghui Hu",
+"Jie Liu",
+"Xiao Liu",
+"Weili Wu"
+],
+"year": 2026,
+"venue": "Financial Management",
+"status": "published"
+},
+{
+"title": "What Are the Benefits of Attracting Gambling Investors：Evidence from Stock Splitsin China",
+"authors": [
+"Conghui Hu",
+"Yu-Jane Liu",
+"Ji-ChaiLin"
+],
+"year": 2022,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "The Valuation Effect of Stock Dividends or Splits: Evidence from aCatering Perspective",
+"authors": [
+"Conghui Hu",
+"Yu-Jane Liu",
+"Xin Xu"
+],
+"year": 2021,
+"venue": "Journal of Empirical Finance",
+"status": "published"
+},
+{
+"title": "Deleveraging Commonality",
+"authors": [
+"Conghui Hu",
+"Yu-Jane Liu",
+"Ning Zhu"
+],
+"year": 2021,
+"venue": "Journal of Financial Markets",
+"status": "published"
+},
+{
+"title": "Liquidity Shocks, Commodity Financialization, and Market Comovements",
+"authors": [
+"Conghui Hu",
+"Zhibing Li",
+"Xiaoyu Liu"
+],
+"year": 2020,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "De-Leverage and Illiquidity Contagion",
+"authors": [
+"Conghui Hu",
+"Yu-Jane Liu",
+"Ning Zhu"
+],
+"year": 2019,
+"venue": "Journal of Banking & Finance",
+"status": "published"
+},
+{
+"title": "Valuing diversity: CEOs' career experiences and corporate investment",
+"authors": [
+"Conghui Hu",
+"Yu-Jane Liu"
+],
+"year": 2015,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Synthetic CDO pricing: the perspective of risk integration",
+"authors": [
+"Conghui Hu",
+"Xun Zhang",
+"Qiuming Gao"
+],
+"year": 2015,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Theimplications of low R2: evidence from China",
+"authors": [
+"Conghui Hu",
+"Shasha Liu"
+],
+"year": 2013,
+"venue": "Emerging Markets Finance and Trade",
+"status": "published"
+}
+]
+},
+"rui li": {
+"name": "Rui Li",
+"papers": [
+{
+"title": "Pension insurance contributions and ESG performance: Evidence from China",
+"authors": [
+"Rui Lia",
+"Zhikai Zhu",
+"Xiaoyan Wang"
+],
+"year": 2023,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Asymmetric information inpeer-to-peer lending: empirical evidence from China",
+"authors": [
+"Jin Wang",
+"Rui Li"
+],
+"year": 2023,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Nonparametric identification and estimation of dynamic treatment effects for survival data in a regression discontinuity design",
+"authors": [
+"Xiaofeng Lv",
+"Xuran Sun",
+"Yue Lu",
+"Rui Li"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The land rental of Chinese rural households and its welfare effects",
+"authors": [
+"Rui Li",
+"Qinghai Li",
+"Xiaofeng Lv",
+"Xi Zhu"
+],
+"year": 2019,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Efficient semiparametric estimation for Gini inequality treatment effects",
+"authors": [
+"Xiaofeng Lv",
+"Rui Li",
+"Zheng Fang"
+],
+"year": 2017,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Maximum weighted likelihood for discrete choice models with a dependently censored covariate",
+"authors": [
+"Xiaofeng Lv",
+"Gupeng Zhang",
+"Qinghai Li",
+"Rui Li"
+],
+"year": 2017,
+"venue": "Journal of the Korean Statistical Society",
+"status": "published"
+},
+{
+"title": "Forecasting dissolved oxygen and biochemical oxygen demand in a river with numerical solution of one-dimensional Bod-Do model",
+"authors": [
+"WANG S. H.",
+"LI R."
+],
+"year": 2017,
+"venue": "Applied Ecology and Environmental Research",
+"status": "published"
+},
+{
+"title": "The Credit Rationing of Chinese Rural Households and Its Welfare Loss: An Investigation Based on Panel Data",
+"authors": [
+"Rui Li",
+"Qinghai Li",
+"Shaoan Huang",
+"Xi Zhu"
+],
+"year": 2013,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Smoothed empirical likelihood analysis of partially linear quantile regression models with missing response variables",
+"authors": [
+"Xiaofeng Lv",
+"Rui Li"
+],
+"year": 2013,
+"venue": "ASTA-Advances in Statistical Analysis",
+"status": "published"
+},
+{
+"title": "Smoothed empirical likelihood confidence intervals for quantile regression parameters with auxiliary information",
+"authors": [
+"Xiaofeng Lv",
+"Rui Li"
+],
+"year": 2013,
+"venue": "Statistical Methodology",
+"status": "published"
+},
+{
+"title": "Study on the Survival of China Agri-Food Export Trade Relationships",
+"authors": [
+"Dongwen Tian",
+"Rui Li",
+"Wei Yao",
+"Li Huang"
+],
+"year": 2014,
+"venue": "China Agricultural Economic Review",
+"status": "published"
+},
+{
+"title": "A Dual Measure of Correlation between the Solow Residual and Output Growth Discrete Covariates",
+"authors": [
+"Dandan Liu",
+"Rui Li",
+"Jijun Tan"
+],
+"year": 2012,
+"venue": "Journal of Productivity Analysis",
+"status": "published"
+},
+{
+"title": "Testing for Structural Breaks in Panel Varying Coefficient Models: With An Application to OECD Health Expenditure",
+"authors": [
+"Dandan Liu",
+"Rui Li",
+"Zijun Wang"
+],
+"year": 2011,
+"venue": "Empirical Economics",
+"status": "published"
+},
+{
+"title": "Econometric Analysis of Credit Constraints of Chinese Rural Households and Welfare Loss",
+"authors": [
+"Li Rui",
+"Zhu Xi"
+],
+"year": 2010,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Nonparametric Estimation of Multivariate CDF with Categorical and Continuous Data",
+"authors": [
+"Gaosheng Ju",
+"Rui Li",
+"Zhongwen Liang"
+],
+"year": 2009,
+"venue": "Advances in Econometrics",
+"status": "published"
+},
+{
+"title": "K-nn Nonparametric Estimation of Regression Functions In the Presence of Irrelevant Variables",
+"authors": [
+"Li Rui",
+"Guan Gong"
+],
+"year": 2008,
+"venue": "Econometrics Journal",
+"status": "published"
+},
+{
+"title": "The Impact of Stock Names on the Expected Stock Return —A Study Based on the Behavior Finance",
+"authors": [
+"Shuo Song",
+"Rui Li"
+],
+"year": 2019,
+"venue": "Journal of Mathematical Finance",
+"status": "published"
+},
+{
+"title": "以党的二十大精神为指引 全面夯实粮食安全根基",
+"authors": [
+"李锐",
+"汪津"
+],
+"year": 2022,
+"venue": "经济研究参考",
+"status": "published"
+},
+{
+"title": "城市金融中心性水平测度及其障碍因子识别-以粤港澳大湾区为例",
+"authors": [
+"普丽娜",
+"李锐"
+],
+"year": 2023,
+"venue": "经济体制改革",
+"status": "published"
+},
+{
+"title": "数字化助力营商环境优化",
+"authors": [
+"李锐",
+"赵婧"
+],
+"year": 2022,
+"venue": "群言",
+"status": "published"
+},
+{
+"title": "多维贫困视角下我国林业扶贫减贫效果的异质性研究",
+"authors": [
+"黎骅逸",
+"王超",
+"李锐"
+],
+"year": 2021,
+"venue": "林业经济",
+"status": "published"
+},
+{
+"title": "有限理性对开放式基金业绩-流量关系的影响",
+"authors": [
+"伍燕然",
+"王凯",
+"苏松",
+"李锐"
+],
+"year": 2019,
+"venue": "管理科学学报",
+"status": "published"
+},
+{
+"title": "基于滚动窗口单位根检测的我国A股市场定价泡沫问题的研究",
+"authors": [
+"李锐",
+"宋烁"
+],
+"year": 2020,
+"venue": "中山大学学报（社会科学版）",
+"status": "published"
+},
+{
+"title": "地位寻求与城镇家庭购买耐用消费品借贷行为的研究",
+"authors": [
+"任国英",
+"汪津",
+"李锐"
+],
+"year": 2020,
+"venue": "中央财经大学学报",
+"status": "published"
+},
+{
+"title": "社会网络、收入稳定性与农户储蓄率：基于工具变量面板分位数回归模型的研究",
+"authors": [
+"师丽娟",
+"李锐"
+],
+"year": 2018,
+"venue": "管理工程学报",
+"status": "published"
+},
+{
+"title": "‘新农保’对‘家庭养老’替代性的地区差异分析",
+"authors": [
+"王芳",
+"李锐"
+],
+"year": 2016,
+"venue": "保险研究",
+"status": "published"
+},
+{
+"title": "农户消费信贷约束及其影响——来自10省样本",
+"authors": [
+"王娟",
+"李锐"
+],
+"year": 2016,
+"venue": "系统工程理论与实践",
+"status": "published"
+},
+{
+"title": "分位数回归中基于检查函数的填补技术",
+"authors": [
+"吕小锋",
+"李锐",
+"张古鹏"
+],
+"year": 2015,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "农村劳动力外出务工模式与留守儿童学习成绩",
+"authors": [
+"李庆海",
+"孙瑞博",
+"李锐"
+],
+"year": 2014,
+"venue": "中国农村经济",
+"status": "published"
+},
+{
+"title": "我国四大经济地区农户的消费结构及其影响因素分析",
+"authors": [
+"李晓楠",
+"李锐"
+],
+"year": 2013,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "农户信贷配给及其福利损失-基于面板数据的分析",
+"authors": [
+"李庆海",
+"李锐",
+"汪三贵"
+],
+"year": 2012,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "农户投资的微观计量分析",
+"authors": [
+"李庆海",
+"李锐"
+],
+"year": 2012,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "农户土地租赁行为及其福利效果",
+"authors": [
+"李庆海",
+"李锐",
+"王兆华"
+],
+"year": 2011,
+"venue": "经济学季刊",
+"status": "published"
+},
+{
+"title": "转型时期农户的经营投资行为—以长三角15 村跟踪观察农户为例",
+"authors": [
+"朱喜",
+"史清华",
+"李锐"
+],
+"year": 2010,
+"venue": "经济学季刊",
+"status": "published"
+},
+{
+"title": "农户金融抑制及其福利损失的计量分析",
+"authors": [
+"李锐",
+"朱喜"
+],
+"year": 2007,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "生育间隔与农村义务教育的实证分析",
+"authors": [
+"章元",
+"李锐",
+"赵娜"
+],
+"year": 2009,
+"venue": "中国人口科学",
+"status": "published"
+},
+{
+"title": "农户借贷行为和偏好的计量分析",
+"authors": [
+"李锐",
+"李超"
+],
+"year": 2007,
+"venue": "中国农村经济",
+"status": "published"
+},
+{
+"title": "真实汇率影响因素的计量分析",
+"authors": [
+"李锐",
+"张澍"
+],
+"year": 2007,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "我国农业科研投资效率的研究",
+"authors": [
+"李锐"
+],
+"year": 2007,
+"venue": "管理科学学报",
+"status": "published"
+},
+{
+"title": "基于两期生命周期模型的农户金融行为的计量分析",
+"authors": [
+"李锐",
+"项海容"
+],
+"year": 2006,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "我国农业公共科研投资的配置：要素稀缺性技术诱导假说的检验",
+"authors": [
+"李锐",
+"项海容"
+],
+"year": 2006,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "农户借贷行为及其福利效果分析",
+"authors": [
+"李锐",
+"李宁辉"
+],
+"year": 2004,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "基于截取回归模型的农村居民消费需求分析",
+"authors": [
+"李锐",
+"李子奈",
+"项海容"
+],
+"year": 2004,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "不同类型收入对农村居民消费的影响",
+"authors": [
+"李锐",
+"项海容"
+],
+"year": 2004,
+"venue": "中国农村经济",
+"status": "published"
+},
+{
+"title": "中国股票市场的月份效应",
+"authors": [
+"李锐"
+],
+"year": 2003,
+"venue": "数量经济技术经济研究",
+"status": "published"
+},
+{
+"title": "我国农村居民消费结构的数量分析",
+"authors": [
+"李锐"
+],
+"year": 2003,
+"venue": "中国农村经济",
+"status": "published"
+},
+{
+"title": "科研总投资分配的理论和计算方法的探讨",
+"authors": [
+"李锐"
+],
+"year": 1992,
+"venue": "管理评论",
+"status": "published"
+},
+{
+"title": "二十一世纪初我国农业资金供给形势的分析和预测",
+"authors": [
+"郑洪涛",
+"李锐",
+"张惠杰"
+],
+"year": 2000,
+"venue": "农业经济问题",
+"status": "published"
+},
+{
+"title": "我国农户信贷配给及其影响的实证研究",
+"authors": [
+"李庆海",
+"李锐"
+],
+"year": 2014,
+"venue": "南京大学出版社",
+"status": "published"
+},
+{
+"title": "中国农村金融问题研究——基于微观计量模型的政策分析",
+"authors": [
+"李锐"
+],
+"year": 2006,
+"venue": "中国财政经济出版社",
+"status": "published"
+},
+{
+"title": "Implementing a multidimensional poverty measure based on the SVM algorithm",
+"authors": [
+"Rui Li",
+"Jin Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Impact of the New Rural Society Pension Insurance Program on Household Consumption",
+"authors": [
+"Rui Li",
+"Fang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Study on noise trading and stock liquidity in China A-share market",
+"authors": [
+"Rui Li",
+"Chunchun Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Quantile Regression with Missing Responses at Random in the Presence of Auxiliary Information",
+"authors": [
+"Rui Li",
+"Xiaofeng Lv"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Kernel Weighted Smoothed Quantile Regression with Endogenous Regressors",
+"authors": [
+"Rui Li",
+"Xiaofeng Lv"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"kun li": {
+"name": "Kun Li",
+"papers": [
+{
+"title": "Do Circuit Breakers Impede Trading Behavior? A Study in Chinese Financial Market",
+"authors": [
+"李堃"
+],
+"year": 2019,
+"venue": "Singapore Economic Review",
+"status": "published"
+},
+{
+"title": "Do High-Frequency Fleeting Orders Exacerbate Market Illiquidity?",
+"authors": [
+"李堃"
+],
+"year": 2018,
+"venue": "Electronic Commerce Research",
+"status": "published"
+},
+{
+"title": "How Does High-Frequency Trading Affect Low-Frequency Trading?",
+"authors": [
+"李堃",
+"Rick Cooper",
+"Ben Van Vliet"
+],
+"year": 2018,
+"venue": "Journal of Behavioral Finance",
+"status": "published"
+}
+]
+},
+"xiaoyu liu": {
+"name": "Xiaoyu Liu",
+"papers": [
+{
+"title": "Investor Attention and Stock Price Manipulation: Evidence from Daily Quasi-Natural Experiments",
+"authors": [
+"Zhibing Li",
+"Jia Liu",
+"Jie Liu",
+"Xiaoyu Liu",
+"Chonglin Wu"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Replicating and Digesting Anomalies in the Chinese A-share Market",
+"authors": [
+"Zhibing Li",
+"Laura Xiaolei Liu",
+"Xiaoyu Liu",
+"K.C. John Wei"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Investor Attention and Stock Price Efficiency: Evidence from Quasi-Natural Experiments in China",
+"authors": [
+"Zhibing Li",
+"Jie Liu",
+"Xiaoyu Liu",
+"Chonglin Wu"
+],
+"year": 2024,
+"venue": "Financial Management",
+"status": "published"
+},
+{
+"title": "The Causal Effect of Political Risk on the Stock Market: Evidence from a Natural Experiment",
+"authors": [
+"Zhibing Li",
+"Jia Liu",
+"Jie Liu",
+"Xiaoyu Liu",
+"Yinglun Zhu"
+],
+"year": 2024,
+"venue": "Australian Economic Papers",
+"status": "published"
+},
+{
+"title": "Liquidity Shocks, Commodity Financialization, and Market Comovements",
+"authors": [
+"Conghui Hu",
+"Zhibing Li",
+"Xiaoyu Liu"
+],
+"year": 2020,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "基金业绩归因与投资者行为",
+"authors": [
+"李志冰",
+"刘晓宇"
+],
+"year": 2019,
+"venue": "金融研究",
+"status": "published"
+}
+]
+},
+"dong ju": {
+"name": "Dong Ju",
+"papers": [
+{
+"title": "Person–jobfit and job involvement: the curvilinear effect and the moderating role of goalorientation",
+"authors": [
+"Ju, D.",
+"Yao, J.",
+"Ma, L."
+],
+"year": 2021,
+"venue": "Journal of Managerial Psychology",
+"status": "published"
+},
+{
+"title": "Implicit voice delivery:Its antecedent, Consequence, and boundary conditions",
+"authors": [
+"Ren, R.",
+"Ma, L.",
+"Chen, G.",
+"Wang, H.",
+"Ju, D."
+],
+"year": 2022,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "The double-edged sword of leaderhumility: Investigating when and why leader humility promotes versus inhibitssubordinate deviance",
+"authors": [
+"Qin, X.",
+"Chen, C.",
+"Yam, K. C.",
+"Huang, M.",
+"Ju, D."
+],
+"year": 2020,
+"venue": "Journal of Applied Psychology",
+"status": "published"
+},
+{
+"title": "Boundary conditions of the emotionalexhaustion-unsafe behavior link: The dark side of group norms and personalcontrol",
+"authors": [
+"Ju, D.",
+"Qin, X.",
+"Xu, M.",
+"DiRenzo, M. S."
+],
+"year": 2016,
+"venue": "Asia Pacific Journal of Management",
+"status": "published"
+},
+{
+"title": "A multilevel study of abusive supervision, norms,and personal control on counterproductive work behavior: A theory of plannedbehavior approach",
+"authors": [
+"Ju, D.",
+"Xu, M.",
+"Qin, X.",
+"Spector, P."
+],
+"year": 2019,
+"venue": "Journal of Leadership & Organizational Studies",
+"status": "published"
+},
+{
+"title": "Applying the job demands–resources model tomigrant workers: Exploring how and when geographical distance increases quitpropensity",
+"authors": [
+"Qin, X.",
+"Hom, P.",
+"Xu, M.",
+"Ju, D."
+],
+"year": 2014,
+"venue": "Journal of Occupational and Organizational Psychology",
+"status": "published"
+}
+]
+},
+"jing li": {
+"name": "Jing Li",
+"papers": [
+{
+"title": "Subsidies, Clean Heating Choices, and Policy Costs: Evidence from Rural Households in Northern China",
+"authors": [
+"Jing Li"
+],
+"year": 2021,
+"venue": "Sustainability",
+"status": "published"
+},
+{
+"title": "The Knowledge map mediated multi-agent system for collaborative organizational knowledge management",
+"authors": [
+"Jing Li"
+],
+"year": 2005,
+"venue": "Intelligent Information Management Systems and Technologies",
+"status": "published"
+},
+{
+"title": "Modeling user multiple interests by an improved GCS approach",
+"authors": [
+"Jing Li"
+],
+"year": 2005,
+"venue": "Expert Systems with Applications",
+"status": "published"
+}
+]
+},
+"ran li": {
+"name": "Ran Li",
+"papers": [
+{
+"title": "Charting the Evolution: A Dynamic Model of Leader-Member Exchange Trajectories and Newcomer Socialization",
+"authors": [
+"Li, R.",
+"Wang, H.",
+"Zhu, X."
+],
+"year": 2026,
+"venue": "Current Psychology",
+"status": "forthcoming"
+},
+{
+"title": "Team Iungens Practice: A Behavioral Perspective to Bridge Demographic Faultlines and Relationship Conflicts",
+"authors": [
+"Cai, Y.",
+"Su, Q.",
+"Lynn, S.",
+"Lau, D.",
+"Li, R."
+],
+"year": 2025,
+"venue": "Journal of Management Studies",
+"status": "forthcoming"
+},
+{
+"title": "The Role of Inclusive Leadership: In Reducing Disability Accommodation Request Withholding",
+"authors": [
+"Zhu, X.",
+"Jiang, F.",
+"Volpone, S. D.",
+"Baldridge, D. C.",
+"Li, R."
+],
+"year": 2025,
+"venue": "Journal of Management",
+"status": "published"
+},
+{
+"title": "The Janus face of grandiose narcissism in the service industry: Self-enhancement and self-protection",
+"authors": [
+"Li, R.",
+"Yang, F.",
+"Zhu, X."
+],
+"year": 2023,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Does employee humility Foster performance and promotability? Exploring the mechanisms of LMX and peer network centrality in China",
+"authors": [
+"Li, R.",
+"Zhang, H.",
+"Zhu, X.",
+"Li, N."
+],
+"year": 2021,
+"venue": "Human Resource Management",
+"status": "published"
+}
+]
+},
+"zhixing xu": {
+"name": "Zhixing Xu",
+"papers": []
+}
+}

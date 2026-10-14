@@ -47,14 +47,11 @@
   "unit_type": "economics",
   "area": "985 Platform for Economics",
   "other_units": null,
-  "fields_raw": "公司金融、货币金融",
+  "fields_raw": "Corporate finance",
   "fields_std": [
-   "Monetary Economics",
-   "Law & Economics",
-   "Corporate Finance",
-   "Banking & Financial Intermediation"
+   "Corporate Finance"
   ],
-  "phd_institution": "KU Leuven (Belgium)",
+  "phd_institution": "KU Leuven",
   "phd_year": null,
   "phd_field": "Applied Economics",
   "ma_institution": null,
@@ -78,7 +75,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qi-quan"
  },
  {
@@ -381,13 +378,12 @@
   "unit_type": "economics",
   "area": "China Center for Economic Studies",
   "other_units": null,
-  "fields_raw": "公共经济学、宏观经济学; Fiscal Decentralization，Economic Growth，Chinese Economy",
+  "fields_raw": "Public economics; economic growth; Chinese economy",
   "fields_std": [
-   "Macroeconomics",
    "Public Economics",
-   "Microeconomic Theory"
+   "Development Economics"
   ],
-  "phd_institution": "Peking University (Guanghua School of Management)",
+  "phd_institution": "Peking University",
   "phd_year": 2004,
   "phd_field": "Economics",
   "ma_institution": "Central China Normal University | 2000 | Economics",
@@ -411,7 +407,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yan-zhang"
  },
  {
@@ -546,19 +542,18 @@
   "unit_type": "economics",
   "area": "Department of Economics",
   "other_units": null,
-  "fields_raw": "经济史、经济发展",
+  "fields_raw": "Economic history; growth and development; comparative institutional and legal history; Chinese economy; East Asian studies",
   "fields_std": [
-   "Macroeconomics",
-   "Development Economics",
    "Economic History",
+   "Development Economics",
    "Political Economy"
   ],
   "phd_institution": "University of North Carolina at Chapel Hill",
   "phd_year": 1998,
   "phd_field": "Economics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
+  "ma_institution": "University of Texas at Arlington",
+  "ma_year": 1992,
+  "ma_field": "Economics",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -568,16 +563,16 @@
   "cv_url": "https://econ.fudan.edu.cn/__local/8/5D/75/58EA2854A6C3038E6DDA4DF1AF9_4C832B36_7A488.pdf",
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2025,
   "source_url": "https://econ.fudan.edu.cn/szdw1/jsml1.htm",
   "notes": "Source: CV (English)",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Post-Doctoral Research Fellow, Hitotsubashi University (1998-2000)",
+  "prior_positions": "Lecturer, Shanghai Finance College, 1986-1989; Post-Doctoral Research Fellow, Hitotsubashi University, 1998-2000; Assistant Professor, University of Missouri at St. Louis, 2000-2003; Associate Professor, National Graduate Institute for Policy Studies, 2002-2006; Lecturer, London School of Economics, 2006-2011; Senior Lecturer, London School of Economics, 2011-2013; Associate Professor, London School of Economics, 2013-2020; Professor, Hitotsubashi University, 2019-2021; Professor, University of Oxford, 2022-2024",
+  "year_current_rank": 2025,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "debin-ma"
  },
  {
@@ -588,12 +583,9 @@
   "unit_type": "economics",
   "area": "Department of Economics",
   "other_units": null,
-  "fields_raw": "长期经济增长与发展、历史经济分析、历史计量方法与应用、中国传统社会政治经济等",
+  "fields_raw": "Quantitative economic history; Chinese economic history",
   "fields_std": [
-   "Macroeconomics",
-   "Econometrics",
-   "Development Economics",
-   "Economics of Education"
+   "Economic History"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": 2011,
@@ -619,7 +611,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nan-li"
  },
  {
@@ -630,11 +622,11 @@
   "unit_type": "economics",
   "area": "Department of Economics",
   "other_units": null,
-  "fields_raw": "Microeconomic theory",
+  "fields_raw": "Digital economy; platform economics; decision theory",
   "fields_std": [
-   "Environmental & Energy Economics",
+   "Industrial Organization",
    "Microeconomic Theory",
-   "Entrepreneurship & Innovation"
+   "Data Science & Analytics"
   ],
   "phd_institution": "Columbia University",
   "phd_year": 2010,
@@ -660,7 +652,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiao-wei"
  },
  {
@@ -671,12 +663,9 @@
   "unit_type": "economics",
   "area": "Department of Economics",
   "other_units": null,
-  "fields_raw": "中国的就业与失业、经济增长问题; Macroeconomy",
+  "fields_raw": "Macroeconomics; disequilibrium theory",
   "fields_std": [
-   "Macroeconomics",
-   "Labor Economics",
-   "Economics of Education",
-   "Urban & Regional Economics"
+   "Macroeconomics"
   ],
   "phd_institution": "Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris",
   "phd_year": 1993,
@@ -702,7 +691,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhigang-yuan"
  },
  {
@@ -796,12 +785,9 @@
   "unit_type": "economics",
   "area": "Department of International Finance",
   "other_units": null,
-  "fields_raw": "微观计量经济学",
+  "fields_raw": "Econometrics",
   "fields_std": [
-   "International Finance",
-   "Econometrics",
-   "Microeconomic Theory",
-   "Financial Economics"
+   "Econometrics"
   ],
   "phd_institution": "Nagoya University",
   "phd_year": null,
@@ -827,7 +813,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hongfei-zhu"
  },
  {
@@ -840,10 +826,8 @@
   "other_units": null,
   "fields_raw": "城市经济学、房地产、应用微观经济学; Real Estate Finance, Urban Economics, Chinese Economy",
   "fields_std": [
-   "International Trade",
-   "Econometrics",
-   "Public Economics",
-   "Environmental & Energy Economics"
+   "Real Estate",
+   "Urban & Regional Economics"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2018,
@@ -869,7 +853,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "long-wang"
  },
  {
@@ -922,12 +906,10 @@
   "unit_type": "economics",
   "area": "Department of Public Economics",
   "other_units": null,
-  "fields_raw": "劳动经济学、发展经济学、中国经济",
+  "fields_raw": "Labor economics; development economics",
   "fields_std": [
    "Labor Economics",
-   "Development Economics",
-   "Financial Economics",
-   "Entrepreneurship & Innovation"
+   "Development Economics"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2017,
@@ -935,25 +917,25 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Fudan University | 2013 | Economics",
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Fudan University",
+  "ba_year": 2013,
+  "ba_field": "Economics",
   "education_raw": "和被部委采纳，担任上海市社联主席团委员，作为副主编编著《中国发展经济学》教材，曾获上海市教师教学创新大赛一等奖、复旦大学教师教学创新大赛特等奖等。 工作经历： 复旦大学经济学院，教授，2022. 12-至今 复旦大学经济学院，副教授，2 ... ，2017. 09-2019.11 教育经历： 新加坡国立大学 经济学系，经济学博士，2017 复旦大学经济学院 经济学系，经济学学士，2013 代表性论文发表： 国际期刊： 1. Li, R., Song, H., Zha ... 与医疗费用—基于灵活就业人员参保行为的研究， 《金融研究》 ，2018年第9期 博士招生方向为：西方经济学， 欢迎热爱科",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14229",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2017,
   "source_url": "https://econ.fudan.edu.cn/szdw1/jsml1.htm",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Fudan University (2017-2019)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2022,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hong-song"
  },
  {
@@ -964,38 +946,37 @@
   "unit_type": "economics",
   "area": "Department of Public Economics",
   "other_units": null,
-  "fields_raw": "政府经济学、转型经济学和企业财务等",
+  "fields_raw": "Fiscal theory and policy; government performance research",
   "fields_std": [
-   "Monetary Economics",
    "Public Economics",
-   "Behavioral Economics",
+   "Accounting",
    "Corporate Finance"
   ],
-  "phd_institution": "National University of Kyiv (Ukraine)",
+  "phd_institution": "National University of Kyiv",
   "phd_year": 2002,
   "phd_field": "Finance and Economics",
-  "ma_institution": "National Economic University of Ukraine | 1997 | Finance",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Jiamusi University | 1993 | Management Engineering",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "National Economic University of Ukraine",
+  "ma_year": 1997,
+  "ma_field": "Finance",
+  "ba_institution": "Jiamusi University",
+  "ba_year": 1993,
+  "ba_field": "Management Engineering",
   "education_raw": "e=\"clear:both;\"> 个人简介： 中文 English 孙琳，教授、博士生导师、复旦大学公共经济学系 副系主任，复旦大学公共经济研究中心秘书长；“卓学计划”学者（2015）。财政部政府会计准则委员会首届咨询专家， ... 果二等奖（2013）；所教授的《财务管理》课程获得上海市精品课程（2018）；荣获首届复旦大学教材建设奖（2022），指导学生荣获第三届上海市金融教指委案例大赛优秀案例（2020）；多次获得学院“我心目中的好老师”荣誉，并获得荣获复旦大学“我心中的好老师”提名奖（2017）；复旦大学三八红旗手（2021）。",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14227",
   "cv_url": "https://econ.fudan.edu.cn/__local/6/95/6D/7EDBB272B7DA43FBE15B6317409_610D372C_8DF2.docx",
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2002,
   "source_url": "https://econ.fudan.edu.cn/szdw1/jsml1.htm",
   "notes": "Source: English directory entry and CV; Chinese name 孙琳 (distinct from FISF faculty member 孙林)",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Postdoctoral Researcher, School of Management, Fudan University (2002-2004)",
+  "prior_positions": "Distribution Accountant, Sino-France Joint Venture Ltd. Co., Jiamusi, 1993-1994; Assistant for Secretary, Department of Finance, Sino-France Joint Venture Ltd. Co., Jiamusi, 1997-1999; Postdoctoral Researcher, School of Management, Fudan University, 2002-2004; Lecturer, Department of Public Economics, School of Economics, Fudan University, 2004-2005",
+  "year_current_rank": 2005,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "lin-sun"
  },
  {
@@ -1090,12 +1071,11 @@
   "unit_type": "economics",
   "area": "Department of Risk Management and Insurance",
   "other_units": "Fanhai International School of Finance",
-  "fields_raw": "保险学、金融科技、消费者权益保护",
+  "fields_raw": "Fintech; financial consumer rights protection; insurance",
   "fields_std": [
-   "Development Economics",
-   "Health Economics",
-   "Economics of Education",
-   "Political Economy"
+   "Financial Economics",
+   "Information Systems",
+   "Public Policy"
   ],
   "phd_institution": "Karlsruhe Institute of Technology (Germany)",
   "phd_year": null,
@@ -1121,7 +1101,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xian-xu"
  },
  {
@@ -1256,12 +1236,10 @@
   "unit_type": "economics",
   "area": "Department of World Economy",
   "other_units": null,
-  "fields_raw": "环境经济; Environmental and Climate change economics, Energy and Power market economics, Economic growth and digital transformation",
+  "fields_raw": "Environmental and climate change economics; energy and electricity market economics; economic growth and digital transformation",
   "fields_std": [
-   "Macroeconomics",
-   "Econometrics",
-   "Development Economics",
-   "Economics of Education"
+   "Environmental & Energy Economics",
+   "Macroeconomics"
   ],
   "phd_institution": "Hiroshima University (Japan)",
   "phd_year": 2004,
@@ -1287,7 +1265,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "libo-wu"
  },
  {
@@ -1298,12 +1276,9 @@
   "unit_type": "economics",
   "area": "Department of World Economy",
   "other_units": null,
-  "fields_raw": "国际经济学; International Economics, Industrial Organization",
+  "fields_raw": "International trade theory and frontiers; multinational firms' foreign direct investment; regional economic integration",
   "fields_std": [
-   "International Trade",
-   "Econometrics",
-   "Industrial Organization",
-   "Development Economics"
+   "International Trade"
   ],
   "phd_institution": "University of California, Davis",
   "phd_year": 2010,
@@ -1329,7 +1304,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhiyuan-li"
  },
  {
@@ -1340,20 +1315,19 @@
   "unit_type": "economics",
   "area": "Department of World Economy",
   "other_units": null,
-  "fields_raw": "计量经济学、贝叶斯计量、应用微观经济学",
+  "fields_raw": "Semiparametric Bayesian econometric theory and applications; applied microeconomics",
   "fields_std": [
-   "Econometrics",
-   "Microeconomic Theory"
+   "Econometrics"
   ],
   "phd_institution": "University of Cambridge",
   "phd_year": 2018,
   "phd_field": "Economics",
-  "ma_institution": "University of Bonn | 2013 | Applied Economics",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Fudan University | 2011 | Computer Science and Technology",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "University of Bonn",
+  "ma_year": 2013,
+  "ma_field": "Applied Economics",
+  "ba_institution": "Fudan University",
+  "ba_year": 2011,
+  "ba_field": "Computer Science and Technology",
   "education_raw": "济学院助理教授，剑桥大学(University of Cambridge)经济学博士（2018），波恩大学(University of Bonn)应用经济学硕士学位（2013），复旦大学计算机科学与技术学士学位（2011）。他的主要研究方向为半参贝叶斯计量经济学理论与应用、应用微观经济学等。",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14193",
@@ -1369,7 +1343,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ruochen-wu"
  },
  {
@@ -1462,22 +1436,19 @@
   "unit_type": "economics",
   "area": "Institute of World Economy",
   "other_units": null,
-  "fields_raw": "比较金融体系、汇率理论、实证金融理论; “Fifteenth Plan” Project of China Education Department, Research Base Project of China Education Department National Post-Ph.D. Fund Project.",
+  "fields_raw": "International finance",
   "fields_std": [
-   "International Finance",
-   "Macroeconomics",
-   "Economics of Education",
-   "Microeconomic Theory"
+   "International Finance"
   ],
   "phd_institution": "Hitotsubashi University",
   "phd_year": 2000,
-  "phd_field": "Business and Management",
+  "phd_field": "Commerce",
   "ma_institution": "Hitotsubashi University (master/doctoral study 1993-2000)",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Tongji University | 1984 | Structural Engineering; Chuo University | 1993 | Economics",
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Tongji University",
+  "ba_year": 1984,
+  "ba_field": "Civil Engineering",
   "education_raw": "P.H.D., Hitotsubashi University (Tokyo,Japan), Bussiness and Management, 2000 ; B.A., Chuo University (Tokyo,Japan), Economics, 1993 ; B.A., Tongji University (Shanghai,China), Structural Engineering, 1984",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14238",
@@ -1493,7 +1464,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lijian-sun"
  },
  {
@@ -1504,38 +1475,36 @@
   "unit_type": "economics",
   "area": "Institute of World Economy",
   "other_units": null,
-  "fields_raw": "应用微观经济学",
+  "fields_raw": "Intermediaries; search; payment",
   "fields_std": [
-   "Econometrics",
-   "Microeconomic Theory",
-   "Financial Economics",
-   "Information Systems"
+   "Industrial Organization",
+   "Microeconomic Theory"
   ],
-  "phd_institution": "Tinbergen Institute (Netherlands)",
-  "phd_year": null,
+  "phd_institution": "Tinbergen Institute",
+  "phd_year": 2019,
   "phd_field": "Economics",
-  "ma_institution": "Tinbergen Institute (Netherlands) | cum laude | Econometrics",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Southwestern University of Finance and Economics | Economics",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Tinbergen Institute",
+  "ma_year": 2014,
+  "ma_field": "Econometrics",
+  "ba_institution": "Southwestern University of Finance and Economics",
+  "ba_year": 2009,
+  "ba_field": "Economics",
   "education_raw": "> 个人简介： 胡博，复旦大学经济学院副教授、硕士生导师。荷兰丁伯根研究所经济学博士和计量经济学硕士（cum laude），西南财经大学经济学学士。研究领域为平台经济、中介经济、搜寻与匹配、信用与支付。论文发表于国内外一流期",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14435",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2019,
   "source_url": "https://econ.fudan.edu.cn/szdw1/jsml1.htm",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Assistant Professor, Fudan University (2019-2024)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2025,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "bo-hu"
  },
  {
@@ -1546,38 +1515,37 @@
   "unit_type": "economics",
   "area": "Institute of World Economy",
   "other_units": null,
-  "fields_raw": "世界经济；财政与金融；税收理论与政策",
+  "fields_raw": "World economic theory; international finance; financial opening and risk; public finance; tax theory and policy; transition economics; digital economy",
   "fields_std": [
    "International Finance",
    "Public Economics",
-   "Economics of Education",
-   "Banking & Financial Intermediation"
+   "International Trade"
   ],
-  "phd_institution": "St. Petersburg State University (Russia)",
+  "phd_institution": "St. Petersburg State University",
   "phd_year": 1999,
   "phd_field": "World Economy",
-  "ma_institution": "St. Petersburg State University | 1996 | Economics",
+  "ma_institution": "St. Petersburg State University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Heilongjiang University | Russian (per English directory)",
+  "ma_field": "World Economy",
+  "ba_institution": "St. Petersburg State University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "World Economy",
   "education_raw": " 个人简介： 中文 English 刘军梅，女，副教授，1990-1999年公派留学俄罗斯联邦国立圣彼得堡大学经济系，世界经济专业，获得本硕及博士学位。2000年起就职于复旦大学经济学院，2001年晋升副教授。2008-2015年任世经所副所长，曾任经济学院副院长。主要社会任职包括杨浦区",
   "homepage_url": null,
   "profile_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14241",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2000,
   "source_url": "https://econ.fudan.edu.cn/szdw1/jsml1.htm",
   "notes": "Studied in Russia 1990-1999 (undergraduate, master and doctoral degrees per Chinese bio); English directory gives PhD 1996-1999",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Faculty, School of Economics, Fudan University (2000-)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2001,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "junmei-liu"
  },
  {
@@ -1672,18 +1640,18 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "实证金融经济学、会计学",
+  "fields_raw": "Corporate finance and mergers and acquisitions; legal and regulatory systems related to financial markets; stock market efficiency",
   "fields_std": [
-   "Asset Pricing",
-   "Financial Economics",
-   "Accounting"
+   "Accounting",
+   "Corporate Finance",
+   "Asset Pricing"
   ],
   "phd_institution": "Columbia University",
   "phd_year": 2009,
   "phd_field": "Accounting",
-  "ma_institution": "Boston University | 2003 | Finance",
-  "ma_year": null,
-  "ma_field": null,
+  "ma_institution": "Boston University",
+  "ma_year": 2003,
+  "ma_field": "Finance",
   "ba_institution": null,
   "ba_year": null,
   "ba_field": null,
@@ -1699,10 +1667,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Manager, Boston Consulting Group, null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lei-zhu"
  },
  {
@@ -1754,19 +1722,17 @@
   "other_units": null,
   "fields_raw": "金融科技、投资学、公司金融等",
   "fields_std": [
-   "Asset Pricing",
-   "Corporate Finance",
    "Financial Economics"
   ],
-  "phd_institution": "University of California, Berkeley (Haas School of Business)",
+  "phd_institution": "University of California, Berkeley",
   "phd_year": null,
   "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Electrical engineering (university not stated)",
+  "ba_institution": "University of Pennsylvania",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Finance; Electrical Engineering",
   "education_raw": "学历信息： 加州大学伯克利分校金融学博士 研究方向： 金融科技、投资学、公司金融等",
   "homepage_url": null,
   "profile_url": "https://fisf.fudan.edu.cn/show-65-75.html",
@@ -1778,11 +1744,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Faculty (rank not stated), Cornell University (null)",
+  "prior_positions": "Faculty (rank not stated), Cornell University, null; Faculty (rank not stated), National Taiwan University, null; Faculty (rank not stated), Peking University, null; Faculty (rank not stated), Chinese University of Hong Kong, null; Professor and Director of MFin program, Shanghai Advanced Institute of Finance, Shanghai Jiao Tong University, 2010-2017",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chun-chang"
  },
  {
@@ -1833,37 +1799,37 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "公司金融、管理层薪酬、企业创新",
+  "fields_raw": "Macro finance; investment; technological innovation; digital finance; virtual currencies and capital markets",
   "fields_std": [
    "Corporate Finance",
    "Financial Economics",
    "Entrepreneurship & Innovation"
   ],
-  "phd_institution": "University of British Columbia (Sauder School of Business)",
+  "phd_institution": "University of British Columbia",
   "phd_year": 2009,
   "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Computer science (university name not stated)",
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Shanghai Jiao Tong University",
+  "ba_year": 2003,
+  "ba_field": "Computer Science",
   "education_raw": "学历信息： 英属哥伦比亚大学 尚德商学院金融学博士 研究方向： 公司金融、管理层薪酬、企业创新",
   "homepage_url": "http://www.huashenggao.net.cn",
   "profile_url": "https://fisf.fudan.edu.cn/show-65-67.html",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2017,
   "source_url": "https://fisf.fudan.edu.cn/lists-Professor_introducti.html",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Assistant Professor, Nanyang Technological University (null)",
+  "prior_positions": "Assistant Professor of Finance, Nanyang Technological University, null; Associate Professor (tenured), Nanyang Technological University, null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "huasheng-gao"
  },
  {
@@ -1919,12 +1885,13 @@
   "fields_raw": "国际宏观与金融、数字经济与金融科技、全球金融市场、中国经济",
   "fields_std": [
    "Macroeconomics",
-   "Financial Economics"
+   "International Finance",
+   "Development Economics"
   ],
   "phd_institution": "London Business School",
   "phd_year": null,
-  "phd_field": "Economics (International Macro and Finance)",
-  "ma_institution": null,
+  "phd_field": "International Macroeconomics and Finance",
+  "ma_institution": "Peking University",
   "ma_year": null,
   "ma_field": null,
   "ba_institution": null,
@@ -1945,7 +1912,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yi-huang"
  },
  {
@@ -1997,20 +1964,21 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "计量经济理论、金融计量经济学、应用计量经济学",
+  "fields_raw": "Econometric theory; financial econometrics; applied econometrics",
   "fields_std": [
    "Econometrics",
-   "Financial Economics"
+   "Financial Economics",
+   "Asset Pricing"
   ],
   "phd_institution": "University of Cambridge",
   "phd_year": 2017,
   "phd_field": "Economics",
-  "ma_institution": "University of Cambridge | 2012 | Economic Research",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "London School of Economics | 2011 | Econometrics and Mathematical Economics",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "University of Cambridge",
+  "ma_year": 2012,
+  "ma_field": "Economic Research",
+  "ba_institution": "London School of Economics and Political Science",
+  "ba_year": 2011,
+  "ba_field": "Econometrics and Mathematical Economics",
   "education_raw": "学历信息： 剑桥大学经济学博士 研究方向： 计量经济理论、金融计量经济学、应用计量经济学",
   "homepage_url": null,
   "profile_url": "https://fisf.fudan.edu.cn/show-65-72.html",
@@ -2026,7 +1994,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "haihan-tang"
  },
  {
@@ -2078,7 +2046,7 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "计量经济学、实证金融、应用计量经济学",
+  "fields_raw": "Financial econometrics; empirical finance; applied and theoretical econometrics",
   "fields_std": [
    "Econometrics",
    "Asset Pricing",
@@ -2099,16 +2067,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2017,
   "source_url": "https://fisf.fudan.edu.cn/lists-Professor_introducti.html",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoctoral Research Fellow, Singapore Management University (null)",
+  "prior_positions": "Postdoctoral Research Fellow, Singapore Management University, null",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "liang-jiang"
  },
  {
@@ -2162,20 +2130,19 @@
   "other_units": null,
   "fields_raw": "货币经济学、宏观经济计量学、国际金融学",
   "fields_std": [
-   "International Finance",
    "Monetary Economics",
-   "Macroeconomics",
-   "Econometrics"
+   "International Finance",
+   "Macroeconomics"
   ],
   "phd_institution": "University of California, San Diego",
   "phd_year": 2017,
   "phd_field": "Economics",
-  "ma_institution": "Renmin University of China (Hanqing Advanced Institute) | 2012 | Mathematical Economics",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Beijing Normal University | 2009 | Management",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Renmin University of China",
+  "ma_year": 2012,
+  "ma_field": "Mathematical Economics",
+  "ba_institution": "Beijing Normal University",
+  "ba_year": 2009,
+  "ba_field": "Management",
   "education_raw": "学历信息： 加州大学圣地亚哥分校经济学博士 研究方向： 货币经济学、宏观经济计量学、国际金融学",
   "homepage_url": "https://sites.google.com/view/wenbinwu-ucsd/home",
   "profile_url": "https://fisf.fudan.edu.cn/show-65-74.html",
@@ -2191,7 +2158,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wenbin-wu"
  },
  {
@@ -2284,38 +2251,37 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "实证公司金融、实证产业组织，可持续金融",
+  "fields_raw": "Empirical corporate finance; empirical industrial organization; sustainable finance",
   "fields_std": [
-   "Industrial Organization",
    "Corporate Finance",
-   "Financial Economics",
-   "Business Ethics & Society"
+   "Industrial Organization",
+   "Environmental & Energy Economics"
   ],
-  "phd_institution": "Tilburg University and ESCP Business School (joint doctoral program)",
-  "phd_year": null,
+  "phd_institution": "Tilburg University & ESCP Business School",
+  "phd_year": 2025,
   "phd_field": "Finance",
-  "ma_institution": "Tilburg University | 2021 | Finance (MPhil)",
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "Peking University | 2016 | Geology and Economics",
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Tilburg University | London School of Economics",
+  "ma_year": "2021 | 2017",
+  "ma_field": "Finance | Economics",
+  "ba_institution": "Peking University",
+  "ba_year": 2016,
+  "ba_field": "Geology and Economics",
   "education_raw": "学历信息： 荷兰蒂尔堡大学和欧洲高等商学院联合培养项目金融学博士 研究方向： 实证公司金融、实证产业组织，可持续金融",
   "homepage_url": "https://hulaizh.github.io/",
   "profile_url": "https://fisf.fudan.edu.cn/show-65-189.html",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2025,
   "source_url": "https://fisf.fudan.edu.cn/lists-Professor_introducti.html",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor of Finance, Fudan University (2025-)",
+  "prior_positions": "Research Assistant, Department of Finance, Chinese University of Hong Kong, 2017-2019",
+  "year_current_rank": 2025,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "hulai-zhang"
  },
  {
@@ -2326,7 +2292,7 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Accounting and Capital Market, Managerial Accounting",
+  "fields_raw": "Accounting and capital markets; managerial accounting",
   "fields_std": [
    "Accounting"
   ],
@@ -2354,7 +2320,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "changjiang-lyu"
  },
  {
@@ -2365,9 +2331,11 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Corporate disclosure, Informational efficiency, Individual and corporate taxation",
+  "fields_raw": "Corporate disclosure; informational efficiency; individual and corporate taxation",
   "fields_std": [
-   "Public Economics"
+   "Accounting",
+   "Public Economics",
+   "Financial Economics"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2014,
@@ -2393,7 +2361,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenkai-ni"
  },
  {
@@ -2404,11 +2372,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Financial Accounting, Auditing and Corporate Finance",
+  "fields_raw": "Financial accounting, auditing and corporate finance",
   "fields_std": [
-   "Corporate Finance",
-   "Financial Economics",
-   "Accounting"
+   "Accounting",
+   "Corporate Finance"
   ],
   "phd_institution": "Shanghai University of Finance and Economics",
   "phd_year": 1999,
@@ -2434,7 +2401,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hongqi-yuan"
  },
  {
@@ -2445,8 +2412,9 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Information Disclosure, Corporate Governance",
+  "fields_raw": "Information disclosure; corporate governance",
   "fields_std": [
+   "Accounting",
    "Corporate Finance"
   ],
   "phd_institution": "Peking University",
@@ -2473,7 +2441,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qinlin-zhong"
  },
  {
@@ -2486,33 +2454,35 @@
   "other_units": null,
   "fields_raw": "Performance evaluation, executive compensation, strategic cost analysis, and business valuation",
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Corporate Finance",
+   "Operations Management"
   ],
-  "phd_institution": "The University of Texas at Dallas",
+  "phd_institution": "University of Texas at Dallas",
   "phd_year": 2006,
-  "phd_field": "Management Science",
-  "ma_institution": "The University of Texas at Dallas",
+  "phd_field": "Management Science (Accounting)",
+  "ma_institution": "University of Texas at Dallas | Mississippi State University",
   "ma_year": 2006,
-  "ma_field": "Management Science",
+  "ma_field": "Accounting | Economics",
   "ba_institution": "Donghua University",
   "ba_year": 1999,
-  "ba_field": "Economics/Computer Science",
+  "ba_field": "Economics | Computer Science",
   "education_raw": "Doctor Degree, Management Science, The University of Texas at Dallas, USA, 2001-07-02 —— 2006-08-02; Master Degree, Management Science, The University of Texas at Dallas, USA, 2001-07-01 —— 2006-08-01; Bachelor Degree, Economics/Computer Science, Donghua University, 1995-09-01 —— 1999-06-01",
   "homepage_url": "https://www.fdsm.fudan.edu.cn/fdrs/teacher/Rong%20Huang_CV_recent_website.pdf",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012123",
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2019,
   "source_url": "https://www.fdsm.fudan.edu.cn/en/fr_faculty/list.htm",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Assistant Professor, Baruch College, City University of New York (2006-2013)",
+  "prior_positions": "Assistant Professor, Baruch College, City University of New York, 2006-2013; Associate Professor (with tenure), Baruch College, City University of New York, 2013-2018; Visiting Assistant Professor, China-Europe International Business School, 2012, 2013; Associate Professor, Cheung Kong Graduate School of Business, 2018-2019",
+  "year_current_rank": 2019,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "rong-huang"
  },
  {
@@ -2523,20 +2493,19 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Corporate finance, sell-side analyst, international accouting, international finance",
+  "fields_raw": "Corporate finance; sell-side analysts; international accounting; international finance",
   "fields_std": [
-   "International Finance",
+   "Accounting",
    "Corporate Finance",
-   "Financial Economics",
-   "Accounting"
+   "International Finance"
   ],
   "phd_institution": "Queen's University",
   "phd_year": 2010,
   "phd_field": "Finance",
-  "ma_institution": "Shanghai Jiaotong University",
+  "ma_institution": "Shanghai Jiao Tong University",
   "ma_year": 2002,
   "ma_field": "Management Science & Engineering",
-  "ba_institution": "Shanghai Jiaotong University",
+  "ba_institution": "Shanghai Jiao Tong University",
   "ba_year": 1999,
   "ba_field": "Foreign Industrial Trade",
   "education_raw": "Doctor Degree, Finance, Queen's University, Canada, 2004-09-01 —— 2010-05-01; Master Degree, Management Science & Engineering, Shanghai Jiaotong University, 1999-09-01 —— 2002-07-01; Bachelor Degree, Foreign Industrial Trade, Shanghai Jiaotong University, 1995-09-01 —— 1999-07-01",
@@ -2554,7 +2523,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xin-zhang"
  },
  {
@@ -2565,8 +2534,9 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Corporate governance, information disclosure, IPO",
+  "fields_raw": "Corporate governance; information disclosure; IPO",
   "fields_std": [
+   "Accounting",
    "Corporate Finance"
   ],
   "phd_institution": "The Hong Kong Polytechnic University",
@@ -2593,7 +2563,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "haina-shi"
  },
  {
@@ -2604,10 +2574,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Capital Market Based Research",
+  "fields_raw": "Capital market based research",
   "fields_std": [
-   "Asset Pricing",
-   "Accounting"
+   "Accounting",
+   "Asset Pricing"
   ],
   "phd_institution": "Peking University",
   "phd_year": 2005,
@@ -2633,7 +2603,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "haoping-xu"
  },
  {
@@ -2686,10 +2656,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Corporate Governance, Corporate Finance",
+  "fields_raw": "Corporate governance; corporate finance",
   "fields_std": [
    "Corporate Finance",
-   "Financial Economics"
+   "Accounting"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": 2013,
@@ -2715,7 +2685,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yi-zhou"
  },
  {
@@ -2726,9 +2696,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Capital Market Research in Accounting, Efficient Capital Market Research in Accounting, Earnings Quality Analysis",
+  "fields_raw": "Capital market research in accounting; efficient capital market research in accounting; earnings quality analysis",
   "fields_std": [
-   "Accounting"
+   "Accounting",
+   "Financial Economics"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2006,
@@ -2754,7 +2725,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yuanpeng-li"
  },
  {
@@ -2765,9 +2736,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Stock Return Anomaly, Cost of Equity Capital, Impact of Disclosure Regulation, Earnings Quality",
+  "fields_raw": "Stock return anomalies; cost of equity capital; impact of disclosure regulation; earnings quality",
   "fields_std": [
-   "Industrial Organization"
+   "Accounting",
+   "Asset Pricing"
   ],
   "phd_institution": "University of Manchester",
   "phd_year": 2012,
@@ -2793,7 +2765,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhenmei-zhu"
  },
  {
@@ -2846,11 +2818,9 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Financial Reporting Quality, ESG, Innovation & Entrepreneurship",
+  "fields_raw": "Financial reporting quality; ESG; innovation and entrepreneurship",
   "fields_std": [
-   "Environmental & Energy Economics",
-   "Corporate Finance",
-   "Financial Economics",
+   "Accounting",
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "The University of Hong Kong",
@@ -2877,7 +2847,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "detian-yang"
  },
  {
@@ -2888,11 +2858,11 @@
   "unit_type": "business",
   "area": "Applied Economics",
   "other_units": null,
-  "fields_raw": "Information Economics, Industrial Organization, Game Theory, Behavioral Economics",
+  "fields_raw": "Information economics; industrial organization; game theory; behavioral economics",
   "fields_std": [
    "Industrial Organization",
-   "Behavioral Economics",
-   "Microeconomic Theory"
+   "Microeconomic Theory",
+   "Behavioral Economics"
   ],
   "phd_institution": "University of California, Irvine",
   "phd_year": 2007,
@@ -2902,7 +2872,7 @@
   "ma_field": null,
   "ba_institution": "Zhongnan University of Economics and Law",
   "ba_year": 2002,
-  "ba_field": "Businesee Administration",
+  "ba_field": "Business Administration",
   "education_raw": "Doctor Degree, Economics, University of California, Irvine, USA, 2002-08-01 —— 2007-06-01; Bachelor Degree, Businesee Administration, Zhongnan University of Economics and Law, 1998-09-01 —— 2002-06-01",
   "homepage_url": null,
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012100",
@@ -2918,7 +2888,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lingfang-li"
  },
  {
@@ -2932,8 +2902,8 @@
   "fields_raw": "Microeconomic Theory, Game Theory and Contract Theory, Industrial Organization, and Political Economy",
   "fields_std": [
    "Industrial Organization",
-   "Political Economy",
-   "Microeconomic Theory"
+   "Microeconomic Theory",
+   "Political Economy"
   ],
   "phd_institution": "University of California, Los Angeles",
   "phd_year": 2007,
@@ -2959,7 +2929,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhiyong-yao"
  },
  {
@@ -3010,7 +2980,7 @@
   "unit_type": "business",
   "area": "Applied Economics",
   "other_units": null,
-  "fields_raw": "Industrial Organization, Corporate Strategy",
+  "fields_raw": "Industrial organization; corporate strategy",
   "fields_std": [
    "Industrial Organization",
    "Strategy"
@@ -3023,7 +2993,7 @@
   "ma_field": "Physical Chemistry",
   "ba_institution": "Shanghai Jiao Tong University",
   "ba_year": 1996,
-  "ba_field": "Chemical Engineering& International Trade",
+  "ba_field": "Chemical Engineering & International Trade",
   "education_raw": "Doctor Degree, Industrial Economics, Fudan University, 1999-07-01 —— 2002-07-01; Master Degree, Physical Chemistry, Fudan University, 1996-09-01 —— 1999-07-01; Bachelor Degree, Chemical Engineering& International Trade, Shanghai Jiao Tong University, 1992-09-01 —— 1996-07-01",
   "homepage_url": null,
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012056",
@@ -3039,7 +3009,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jie-zhang"
  },
  {
@@ -3050,9 +3020,10 @@
   "unit_type": "business",
   "area": "Applied Economics",
   "other_units": null,
-  "fields_raw": "Industrial Organization, Government Regulation",
+  "fields_raw": "Industrial organization; government regulation",
   "fields_std": [
-   "Industrial Organization"
+   "Industrial Organization",
+   "Public Policy"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2004,
@@ -3078,7 +3049,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "rangrang-bai"
  },
  {
@@ -3293,10 +3264,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Organizational Behavior and Human Resource Management, Leadership, Indigenous Management",
+  "fields_raw": "Organizational behavior and human resource management; leadership; indigenous management",
   "fields_std": [
-   "Behavioral Economics",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2004,
@@ -3322,7 +3293,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "he-peng"
  },
  {
@@ -3333,9 +3304,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Business Ethics, Corporate Social Responsibility, International Business",
+  "fields_raw": "Business ethics; corporate social responsibility; international business",
   "fields_std": [
-   "Business Ethics & Society"
+   "Business Ethics & Society",
+   "Strategy"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2004,
@@ -3361,7 +3333,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qinqin-zheng"
  },
  {
@@ -3372,9 +3344,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Strategic Management, CEO Succession, Top Management Team, Strategic Change, Strategy as Practice, Qualitative Research",
+  "fields_raw": "Strategic management; CEO succession; top management team; strategic change; strategy as practice; qualitative research",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "University of Zurich",
   "phd_year": 2015,
@@ -3400,7 +3373,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shenghui-ma"
  },
  {
@@ -3411,10 +3384,9 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Mergers and Acquisitions, Digital Internationalization, Social Entrepreneurship",
+  "fields_raw": "Mergers and acquisitions; digital internationalization; social entrepreneurship",
   "fields_std": [
-   "Corporate Finance",
-   "Information Systems",
+   "Strategy",
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "University of Cambridge",
@@ -3441,7 +3413,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "tian-wei"
  },
  {
@@ -3454,10 +3426,8 @@
   "other_units": null,
   "fields_raw": "Organizational Management, Strategic Human Resource Management, Strategic leadership, The Psychology of Entrepreneurs, Executive Incentives, Sci-tech industries and Innovation, Chinese SOEs",
   "fields_std": [
-   "Behavioral Economics",
-   "Strategy",
    "Organizational Behavior",
-   "Operations Management"
+   "Management & Organizations"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2002,
@@ -3483,7 +3453,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xuhong-li"
  },
  {
@@ -3494,9 +3464,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "International Business, Strategic Management",
+  "fields_raw": "International business; strategic management",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "Management & Organizations"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 1995,
@@ -3522,7 +3493,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yuanxu-li"
  },
  {
@@ -3533,10 +3504,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Leadership & Employee Proactive Behavior, Team Management Employee Well-Being, Inclusive Work Design",
+  "fields_raw": "Leadership and employee proactive behavior; team management; employee well-being; inclusive work design",
   "fields_std": [
-   "Behavioral Economics",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": 2011,
@@ -3562,7 +3533,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhijun-chen"
  },
  {
@@ -3573,7 +3544,7 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Strategic Management, Entrepreneurship, Innovation, International Management",
+  "fields_raw": "Strategic management; entrepreneurship; innovation; international management",
   "fields_std": [
    "Strategy",
    "Entrepreneurship & Innovation"
@@ -3602,7 +3573,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenghua-zeng"
  },
  {
@@ -3613,11 +3584,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Organizational Behavior and Human Resources, Leadership, Diversity and Inclusion, Gig Workers, Cross-Cultural Management, Meta-Analysis",
+  "fields_raw": "Organizational behavior and human resources; leadership; diversity and inclusion; gig workers; cross-cultural management; meta-analysis",
   "fields_std": [
-   "Labor Economics",
-   "Behavioral Economics",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "Michigan State University",
   "phd_year": 2020,
@@ -3643,7 +3613,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "dongyuan-wu"
  },
  {
@@ -3654,9 +3624,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Social Networks, Human Resources, Innovation & Creativity",
+  "fields_raw": "Social networks; human resources; innovation and creativity",
   "fields_std": [
-   "Entrepreneurship & Innovation"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "Purdue University",
   "phd_year": 2018,
@@ -3682,7 +3653,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "hongzhi-chen"
  },
  {
@@ -3693,7 +3664,7 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Corporate Strategy, Entrepreneurship, SME Strategy\n",
+  "fields_raw": "Corporate strategy; entrepreneurship; SME strategy",
   "fields_std": [
    "Strategy",
    "Entrepreneurship & Innovation"
@@ -3722,7 +3693,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jinyun-sun"
  },
  {
@@ -3733,11 +3704,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Leadership, Social media and Digital Communication, AI and Human Resource Development, High-tech Enterprise Management, Organization Justice and Discrimination",
+  "fields_raw": "Leadership; social media and digital communication; AI and human resource development; high-tech enterprise management; organizational justice and discrimination",
   "fields_std": [
-   "Development Economics",
    "Organizational Behavior",
-   "Information Systems"
+   "Management & Organizations"
   ],
   "phd_institution": "Peking University",
   "phd_year": 2019,
@@ -3763,7 +3733,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shengming-liu"
  },
  {
@@ -3776,7 +3746,8 @@
   "other_units": null,
   "fields_raw": "Human Resource Management, especially in Career Development, Performance Management and Motivation, Knowledge Management, especially in Intellectual Capital Management, Knowledge Transfer in MNCs, Oriental Management, Cases Study in Chinese Company ",
   "fields_std": [
-   "Development Economics"
+   "Management & Organizations",
+   "Strategy"
   ],
   "phd_institution": "Zhejiang University",
   "phd_year": 2001,
@@ -3802,7 +3773,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiaojun-xu"
  },
  {
@@ -3813,9 +3784,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Territoriality in Organizations, Leadership, Team",
+  "fields_raw": "Territoriality in organizations; leadership; team",
   "fields_std": [
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "The University of Hong Kong",
   "phd_year": 2021,
@@ -3841,7 +3813,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xingwen-chen"
  },
  {
@@ -3852,10 +3824,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "China Corporate Governance, Family Business Governance and Succession, Entrepreneurial Enterprise Governance, Team Incentive Mechanism",
+  "fields_raw": "China corporate governance; family business governance and succession; entrepreneurial enterprise governance; team incentive mechanism",
   "fields_std": [
    "Corporate Finance",
-   "Entrepreneurship & Innovation"
+   "Management & Organizations"
   ],
   "phd_institution": "Nankai University",
   "phd_year": 2006,
@@ -3881,7 +3853,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yuejun-tang"
  },
  {
@@ -3892,9 +3864,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "International Business, Strategy",
+  "fields_raw": "International business; strategy",
   "fields_std": [
-   "Strategy"
+   "Strategy",
+   "International Trade"
   ],
   "phd_institution": "University of Southern California",
   "phd_year": 2009,
@@ -3920,7 +3893,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zheying-wu"
  },
  {
@@ -3931,10 +3904,10 @@
   "unit_type": "business",
   "area": "Business Administration",
   "other_units": null,
-  "fields_raw": "Diversity, Equity & Inclusion, Leadership, Business & Behavioral Ethics, Decision Making",
+  "fields_raw": "Diversity, equity & inclusion; leadership; business and behavioral ethics; decision making",
   "fields_std": [
-   "Behavioral Economics",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Business Ethics & Society"
   ],
   "phd_institution": "Nanyang Technological University",
   "phd_year": 2020,
@@ -3942,7 +3915,7 @@
   "ma_institution": "Nanjing University",
   "ma_year": 2015,
   "ma_field": "Business Administration",
-  "ba_institution": "Nanjing University Of Finance & Economics",
+  "ba_institution": "Nanjing University of Finance & Economics",
   "ba_year": 2012,
   "ba_field": "Logistics Management",
   "education_raw": "Doctor Degree, Organizational Behavior, Nanyang Technological University, SG, 2015-07-01 —— 2020-03-01; Master Degree, Business Administration, Nanjing University, 2012-09-01 —— 2015-06-01; Bachelor Degree, Logistics Management, Nanjing University Of Finance & Economics, 2008-09-01 —— 2012-06-01",
@@ -3960,7 +3933,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhiyu-feng"
  },
  {
@@ -3971,7 +3944,7 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Risk Measure and Management, Preferences and Trading Strategies, Asset Pricing, Financial Derivatives, Term Structure of Interest Rates, Inverse Problems in Finance",
+  "fields_raw": "Risk measure and management; preferences and trading strategies; asset pricing; financial derivatives; term structure of interest rates; inverse problems in finance",
   "fields_std": [
    "Asset Pricing",
    "Financial Economics"
@@ -4000,7 +3973,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenghu-ma"
  },
  {
@@ -4053,10 +4026,9 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Chinese Economics，Capital Market, Corporate Finance, Empirical Accounting, M&A",
+  "fields_raw": "Chinese economics; capital markets; corporate finance; empirical accounting; M&A",
   "fields_std": [
    "Corporate Finance",
-   "Financial Economics",
    "Accounting"
   ],
   "phd_institution": "Jilin University",
@@ -4083,7 +4055,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "kemin-wang"
  },
  {
@@ -4094,19 +4066,18 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "The main research fields are financial engineering, investment management, econometrics. Had been involved in the fields of system science, software engineering and MIS.",
+  "fields_raw": "Financial engineering; investment management; econometrics",
   "fields_std": [
-   "Econometrics",
    "Asset Pricing",
-   "Financial Economics"
+   "Econometrics"
   ],
-  "phd_institution": "University of Bonn",
+  "phd_institution": "Bonn University",
   "phd_year": 2001,
   "phd_field": "Financial Mathematics",
-  "ma_institution": "Nankai university",
+  "ma_institution": "Nankai University",
   "ma_year": 1991,
   "ma_field": "Cybernetics and its Application",
-  "ba_institution": "Nankai university",
+  "ba_institution": "Nankai University",
   "ba_year": 1985,
   "ba_field": "Cybernetics and its Application",
   "education_raw": "Doctor Degree, Financial Mathematics, Bonn university, Germany, 1998-05-01 —— 2001-04-01; Master Degree, Cybernetics and its Application, Nankai university, 1988-09-01 —— 1991-06-01; Bachelor Degree, Cybernetics and its Application, Nankai university, 1981-09-01 —— 1985-07-01",
@@ -4124,7 +4095,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lanjun-lao"
  },
  {
@@ -4135,9 +4106,10 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Asset Pricing, Fixed Income Securities, Empirical Study of Capital Markets ",
+  "fields_raw": "Asset pricing; fixed income securities; empirical study of capital markets",
   "fields_std": [
-   "Asset Pricing"
+   "Asset Pricing",
+   "Financial Economics"
   ],
   "phd_institution": "Huazhong University of Science and Technology",
   "phd_year": 1997,
@@ -4163,7 +4135,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "longzhen-fan"
  },
  {
@@ -4174,18 +4146,17 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Corporate Finance and International Finance\n",
+  "fields_raw": "Corporate finance and international finance",
   "fields_std": [
-   "International Finance",
    "Corporate Finance",
-   "Financial Economics"
+   "International Finance"
   ],
   "phd_institution": "Arizona State University",
   "phd_year": 1991,
   "phd_field": "Economics",
   "ma_institution": "William Paterson College",
   "ma_year": 1987,
-  "ma_field": "工商管理",
+  "ma_field": "Business Administration",
   "ba_institution": "Peking University",
   "ba_year": 1984,
   "ba_field": "Economics",
@@ -4204,7 +4175,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qian-sun"
  },
  {
@@ -4215,9 +4186,9 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Capital Markets, Investment, Market Microstructure",
+  "fields_raw": "Capital markets; investment; market microstructure",
   "fields_std": [
-   "Microeconomic Theory",
+   "Financial Economics",
    "Asset Pricing"
   ],
   "phd_institution": "Drexel University",
@@ -4244,7 +4215,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiaohong-jiang"
  },
  {
@@ -4297,11 +4268,10 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Behavioral Finance, Asset Pricing, Mutual Funds",
+  "fields_raw": "Behavioral finance; asset pricing; mutual funds",
   "fields_std": [
    "Behavioral Economics",
-   "Asset Pricing",
-   "Financial Economics"
+   "Asset Pricing"
   ],
   "phd_institution": "The University of Hong Kong",
   "phd_year": 2010,
@@ -4309,7 +4279,7 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Shanghai University Of Finance and Economics",
+  "ba_institution": "Shanghai University of Finance and Economics",
   "ba_year": 2005,
   "ba_field": "International Accounting",
   "education_raw": "Doctor Degree, Finance, The University of Hong Kong, 2006-09-01 —— 2010-08-01; Bachelor Degree, International Accounting, Shanghai University Of Finance and Economics, 2001-09-01 —— 2005-08-01",
@@ -4327,7 +4297,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yan-luo"
  },
  {
@@ -4338,17 +4308,16 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Corporate Finance, International Finance, Macroeconomics",
+  "fields_raw": "Corporate finance; international finance; macroeconomics",
   "fields_std": [
-   "International Finance",
-   "Macroeconomics",
    "Corporate Finance",
-   "Financial Economics"
+   "International Finance",
+   "Macroeconomics"
   ],
   "phd_institution": "The University of British Columbia",
   "phd_year": 2012,
   "phd_field": "Economics",
-  "ma_institution": "The University of New South Wales, Australia",
+  "ma_institution": "The University of New South Wales",
   "ma_year": 2006,
   "ma_field": "Economics",
   "ba_institution": "Fudan University",
@@ -4369,7 +4338,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "na-zhang"
  },
  {
@@ -4380,12 +4349,11 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Empirical Asset Pricing, Applied Financial Econometrics, Capital Market & Investment, International Macro",
+  "fields_raw": "Empirical asset pricing; applied financial econometrics; capital markets and investment; international macroeconomics",
   "fields_std": [
-   "International Finance",
-   "Macroeconomics",
-   "Econometrics",
-   "Asset Pricing"
+   "Asset Pricing",
+   "Financial Economics",
+   "Econometrics"
   ],
   "phd_institution": "Emory University",
   "phd_year": 2007,
@@ -4411,7 +4379,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qi-zhu"
  },
  {
@@ -4422,10 +4390,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "IT Diffusion Electronic, Markets Information Sharing",
+  "fields_raw": "IT diffusion; electronic markets; information sharing",
   "fields_std": [
    "Information Systems",
-   "Entrepreneurship & Innovation"
+   "Marketing"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2004,
@@ -4448,10 +4416,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2007; Visiting Scholar, Boston University, 2013-2014",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "cheng-zhang"
  },
  {
@@ -4462,7 +4430,7 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "E- commerce, E-government, Knowledge Management, Business Intelligence, Enterprise Informationization Planning, Data Resource Management",
+  "fields_raw": "E-commerce; e-government; knowledge management; business intelligence; enterprise informatization planning; data resource management",
   "fields_std": [
    "Information Systems",
    "Data Science & Analytics"
@@ -4488,10 +4456,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 1998; Visiting Scholar, MIT Sloan School of Management, 2001",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenghong-zhang"
  },
  {
@@ -4502,9 +4470,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Information Technology Adoption, E-business/Mobile Business Models\n",
+  "fields_raw": "Information technology adoption; e-business and mobile business models",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Data Science & Analytics"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 1997,
@@ -4527,10 +4496,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2001",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lihua-huang"
  },
  {
@@ -4541,12 +4510,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Human-AI Collaboration, User Behavior Research in Digital Economy, and Value of New Technologies",
+  "fields_raw": "Human-AI collaboration; user behavior in the digital economy; value of new technologies",
   "fields_std": [
-   "Labor Economics",
-   "Environmental & Energy Economics",
-   "Behavioral Economics",
-   "Information Systems"
+   "Information Systems",
+   "Marketing"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2004,
@@ -4569,10 +4536,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2007; Visiting Scholar, University of Southern California, 2012-2013",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xianghua-lu"
  },
  {
@@ -4583,10 +4550,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "E-Business, Economics of IT, Supply Chain Management",
+  "fields_raw": "E-business; economics of IT; supply chain management",
   "fields_std": [
-   "Operations Management",
-   "Information Systems"
+   "Information Systems",
+   "Operations Management"
   ],
   "phd_institution": "Tsinghua University",
   "phd_year": 2012,
@@ -4609,10 +4576,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, Georgia Institute of Technology, 2010-2011",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yifan-dou"
  },
  {
@@ -4623,10 +4590,11 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Modeling and Optimization of Electronic Business Processes, Meta-Heuristic Algorithms, Decision Support Systems, Data Mining, ICT Adoption, Mobile Commerce",
+  "fields_raw": "Modeling and optimization of electronic business processes; meta-heuristic algorithms; decision support systems; data mining; ICT adoption; mobile commerce",
   "fields_std": [
+   "Information Systems",
    "Operations Management",
-   "Information Systems"
+   "Data Science & Analytics"
   ],
   "phd_institution": "Northeastern University",
   "phd_year": 2003,
@@ -4648,11 +4616,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoc, DeGroote School of Business, McMaster University (2005-2006)",
+  "prior_positions": "Postdoc, DeGroote School of Business, McMaster University, 2005-2006; Visiting Scholar, Ivey School of Business, The University of Western Ontario, 2007-2008; Visiting Scholar, University of Washington, 2016-2017",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "youwei-wang"
  },
  {
@@ -4663,10 +4631,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Electronic Commerce, Knowledge Management, Social Network Analysis, Information Behavior, Research Methodology",
+  "fields_raw": "Electronic commerce; knowledge management; social network analysis; information behavior; research methodology",
   "fields_std": [
-   "Behavioral Economics",
-   "Information Systems"
+   "Information Systems",
+   "Marketing"
   ],
   "phd_institution": "Syracuse University",
   "phd_year": 2002,
@@ -4692,7 +4660,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yunjie-xu"
  },
  {
@@ -4703,10 +4671,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Information System Development and Management, Virtual Community, E-commerce",
+  "fields_raw": "Information system development and management; virtual communities; e-commerce",
   "fields_std": [
-   "Development Economics",
-   "Information Systems"
+   "Information Systems",
+   "Marketing"
   ],
   "phd_institution": "Texas Tech University",
   "phd_year": 2006,
@@ -4729,10 +4697,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2011; Visiting Scholar, University of Zurich, 2016-2017",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "bo-xu"
  },
  {
@@ -4743,10 +4711,11 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Deployment of GenAI, Platform Economy, Mechanism Design of Information Goods",
+  "fields_raw": "Deployment of generative AI; platform economy; mechanism design of information goods",
   "fields_std": [
-   "Microeconomic Theory",
-   "Information Systems"
+   "Industrial Organization",
+   "Information Systems",
+   "Microeconomic Theory"
   ],
   "phd_institution": "The University of Texas at Dallas",
   "phd_year": 2021,
@@ -4772,7 +4741,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenglong-zhang"
  },
  {
@@ -4783,11 +4752,11 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Crowdfunding, Knowledge Communities, Financial Technologies, Economics of Artificial Intelligence",
+  "fields_raw": "Crowdfunding; knowledge communities; financial technologies; economics of artificial intelligence",
   "fields_std": [
-   "Financial Economics",
    "Information Systems",
-   "Data Science & Analytics"
+   "Entrepreneurship & Innovation",
+   "Financial Economics"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": 2020,
@@ -4795,7 +4764,7 @@
   "ma_institution": "The Hong Kong University of Science and Technology",
   "ma_year": 2016,
   "ma_field": "Information Systems",
-  "ba_institution": "Queen Mary University of London; Beijing University of Posts and Telecommunications",
+  "ba_institution": "Queen Mary University of London | Beijing University of Posts and Telecommunications",
   "ba_year": 2014,
   "ba_field": "e-Commerce Engineering with Law | e-Commerce Engineering with Law",
   "education_raw": "Doctor Degree, Information Systems, The Hong Kong University of Science and Technology, HK, 2016-09-01 —— 2020-09-01; Master Degree, Information Systems, The Hong Kong University of Science and Technology, HK, 2014-09-01 —— 2016-07-01; Bachelor Degree, e-Commerce Engineering with Law, Queen Mary University of London, UK, 2010-09-01 —— 2014-06-01; Bachelor Degree, e-Commerce Engineering with Law, Beijing University of Posts and Telecommunications, 2010-09-01 —— 2014-06-01",
@@ -4813,7 +4782,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gen-li"
  },
  {
@@ -4824,9 +4793,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Network Representation Learning, Social Network Analysis, Artificial Intelligence, Data Mining, Machine Learning",
+  "fields_raw": "Network representation learning; social network analysis; artificial intelligence; data mining; machine learning",
   "fields_std": [
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Information Systems"
   ],
   "phd_institution": "Zhejiang University",
   "phd_year": 2021,
@@ -4849,10 +4819,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Non-Degree Visiting Graduate Student Researcher, University of California, Los Angeles, 2019-2020",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jiarong-xu"
  },
  {
@@ -4863,11 +4833,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Digital Innovation, Online Labor Market, Financial Technology, Economics of Information Systems, Business Analytics (Data Mining)",
+  "fields_raw": "Digital innovation; online labor markets; financial technology; economics of information systems; business analytics (data mining)",
   "fields_std": [
-   "Labor Economics",
-   "Financial Economics",
    "Information Systems",
+   "Data Science & Analytics",
    "Entrepreneurship & Innovation"
   ],
   "phd_institution": "Nanyang Technological University",
@@ -4894,7 +4863,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "nila-zhang"
  },
  {
@@ -4905,10 +4874,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Data Analytics, Machine Learning, Business Intelligence, Social Media, Healthcare Management",
+  "fields_raw": "Data analytics; machine learning; business intelligence; social media; healthcare management",
   "fields_std": [
-   "Health Economics",
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Information Systems"
   ],
   "phd_institution": "The University of Hong Kong",
   "phd_year": 2020,
@@ -4931,10 +4900,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, The University of Arizona, 2018-2019",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wenwen-li"
  },
  {
@@ -4945,9 +4914,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Economics of Information Systems",
+  "fields_raw": "Economics of information systems",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Industrial Organization"
   ],
   "phd_institution": "University of Calgary",
   "phd_year": 2008,
@@ -4970,10 +4940,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2010",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xueqi-wei"
  },
  {
@@ -4984,15 +4954,14 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Information Technology Strategy, Economics of Information Technology, Electronic Commerce, Information Technology Innovation",
+  "fields_raw": "Information technology strategy; economics of information technology; electronic commerce; information technology innovation",
   "fields_std": [
-   "Strategy",
    "Information Systems",
-   "Entrepreneurship & Innovation"
+   "Industrial Organization"
   ],
   "phd_institution": "Georgia Institute of Technology",
   "phd_year": 2008,
-  "phd_field": "Information Technology",
+  "phd_field": "Information Technology, Management",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -5011,10 +4980,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2012",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhe-qu"
  },
  {
@@ -5025,12 +4994,10 @@
   "unit_type": "business",
   "area": "Information Management and Business Intelligence",
   "other_units": null,
-  "fields_raw": "Platform Strategy, Theory of Platform Competitive Advantage, Innovation in Platform Ecosystems",
+  "fields_raw": "Platform strategy; theory of platform competitive advantage; innovation in platform ecosystems",
   "fields_std": [
-   "Industrial Organization",
    "Strategy",
-   "Information Systems",
-   "Entrepreneurship & Innovation"
+   "Information Systems"
   ],
   "phd_institution": "Boston University",
   "phd_year": 2021,
@@ -5056,7 +5023,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhou-zhou"
  },
  {
@@ -5067,17 +5034,16 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Supply Chain Innovation, Data-driven Operations Management, Energy, Environment, and Sustainability, Game Theory, Incentives, and Mechanism Design",
+  "fields_raw": "Supply chain innovation; data-driven operations management; energy, environment, and sustainability; game theory, incentives, and mechanism design",
   "fields_std": [
-   "Environmental & Energy Economics",
-   "Microeconomic Theory",
    "Operations Management",
-   "Entrepreneurship & Innovation"
+   "Microeconomic Theory",
+   "Environmental & Energy Economics"
   ],
   "phd_institution": "University of Pennsylvania",
   "phd_year": 2004,
   "phd_field": "Management Science & Applied Economics",
-  "ma_institution": "University of Rochester; National University of Singapore",
+  "ma_institution": "University of Rochester | National University of Singapore",
   "ma_year": 2001,
   "ma_field": "Management Science | Industrial & Systems Engineering",
   "ba_institution": "Xi'an Jiaotong University",
@@ -5098,7 +5064,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "fuqiang-zhang"
  },
  {
@@ -5109,12 +5075,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Monte Carlo Simulation, Stochastic Optimization, Healthcare, Financial Derivative Pricing and Risk Management, Supply Chain Management",
+  "fields_raw": "Monte Carlo simulation; stochastic optimization; healthcare; financial derivative pricing and risk management; supply chain management",
   "fields_std": [
-   "Health Economics",
-   "Banking & Financial Intermediation",
-   "Financial Economics",
-   "Operations Management"
+   "Operations Management",
+   "Financial Economics"
   ],
   "phd_institution": "Harvard University",
   "phd_year": 1990,
@@ -5140,7 +5104,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jianqiang-hu"
  },
  {
@@ -5151,11 +5115,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Platform Supply Chain, Operations Management, Operations & Marketing Interface",
+  "fields_raw": "Platform supply chain; operations management; operations and marketing interface",
   "fields_std": [
-   "Marketing",
    "Operations Management",
-   "Information Systems"
+   "Industrial Organization"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2015,
@@ -5178,10 +5141,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, Washington University in St. Louis, 2013; Visiting Scholar, Lingnan University, 2015-2016",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lin-tian"
  },
  {
@@ -5192,9 +5155,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Supply Chain Management, Business Model, Service Management",
+  "fields_raw": "Supply chain management; business models; service management",
   "fields_std": [
-   "Operations Management"
+   "Operations Management",
+   "Industrial Organization"
   ],
   "phd_institution": "Konan University",
   "phd_year": 2005,
@@ -5217,10 +5181,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Senior Research Fellow, City University of Hong Kong, 1998; Visiting Scholar, City University of Hong Kong, 2000; Visiting Scholar, The Hong Kong University of Science & Technology, 2000-2007; Visiting Professor, City University of Hong Kong, 2002; Visiting Scholar, Konan University, Japan, 2003-2005; Visiting Scholar, The Hong Kong Polytechnic University, 2008",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qiying-hu"
  },
  {
@@ -5231,13 +5195,12 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Logistics and Supply Chain Management, Behavioral Operations Management, Data-driven Research in Operations Management, Decision Analysis",
+  "fields_raw": "Logistics and supply chain management; behavioral operations management; data-driven research in operations management; decision analysis",
   "fields_std": [
-   "Behavioral Economics",
    "Operations Management",
-   "Data Science & Analytics"
+   "Behavioral Economics"
   ],
-  "phd_institution": "The University of California, Irvine",
+  "phd_institution": "University of California, Irvine",
   "phd_year": 2008,
   "phd_field": "Management",
   "ma_institution": "Fudan University",
@@ -5261,7 +5224,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "tianjun-feng"
  },
  {
@@ -5272,17 +5235,17 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Production Planning and Scheduling, Logistics and Supply Chain Management",
+  "fields_raw": "Production planning and scheduling; logistics and supply chain management",
   "fields_std": [
    "Operations Management"
   ],
-  "phd_institution": "Erasmus University Rotterdam",
+  "phd_institution": "Erasmus University Rotterdam | Tongji University",
   "phd_year": 2010,
-  "phd_field": "Management Science & Engineering",
+  "phd_field": "Management Science & Engineering | Management Engineering",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "Southeastern University, Nanjing",
+  "ba_institution": "Southeastern University",
   "ba_year": 1992,
   "ba_field": "Management Science and Engineering",
   "education_raw": "Doctor Degree, Management Science & Engineering, Erasmus University Rotterdam, The Netherlands, 2007-01-01 —— 2010-07-01; Doctor Degree, Management Engineering, Tongji University, Shanghai, China, 1992-09-01 —— 1997-01-01; Bachelor Degree, Management Science and Engineering, Southeastern University, Nanjing, China, 1988-09-01 —— 1992-07-01",
@@ -5297,10 +5260,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2001; Visiting Scholar, Bocconi University, Italy, 2008; Visiting Scholar, Erasmus University, Netherlands, 2008-2010",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiandong-zhang"
  },
  {
@@ -5311,11 +5274,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Supply Chain Contracting, the Interface Research of Operations and Financial Management",
+  "fields_raw": "Supply chain contracting; the interface of operations and financial management",
   "fields_std": [
-   "Microeconomic Theory",
-   "Financial Economics",
-   "Operations Management"
+   "Operations Management",
+   "Corporate Finance"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2002,
@@ -5338,10 +5300,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, New York University, Stern School of Business, 2006-2007; Visiting Scholar, Kansas State University, 2010; Visiting Scholar, MIT Sloan School of Management, 2012",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiangfeng-chen"
  },
  {
@@ -5352,12 +5314,9 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Supply Chain Management, Risk Management, Sourcing Strategies, Behavioral Modeling, Sustainable Operations",
+  "fields_raw": "Supply chain management; risk management; sourcing strategies; behavioral modeling; sustainable operations",
   "fields_std": [
-   "Behavioral Economics",
-   "Banking & Financial Intermediation",
-   "Operations Management",
-   "Business Ethics & Society"
+   "Operations Management"
   ],
   "phd_institution": "Washington University in St. Louis",
   "phd_year": 2011,
@@ -5380,10 +5339,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Research Fellow, The Boeing Center for Technology, Information & Manufacturing, 2011",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiaole-wu"
  },
  {
@@ -5394,17 +5353,15 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Technical Economics and Management, Logistics and Operations Management, System Dynamics and Policy Analysis, Energy-Economic-Environmental System Analysis and Management",
+  "fields_raw": "Technical economics and management; logistics and operations management; system dynamics and policy analysis; energy-economic-environmental system analysis and management",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Operations Management",
-   "Entrepreneurship & Innovation",
-   "Business Ethics & Society"
+   "Operations Management"
   ],
   "phd_institution": "University of Tsukuba",
   "phd_year": 2002,
   "phd_field": "Ekistics",
-  "ma_institution": "Harbin Institute of Technology, Heilongjiang",
+  "ma_institution": "Harbin Institute of Technology",
   "ma_year": 1987,
   "ma_field": "Managerial Engineering",
   "ba_institution": "Liaoning Technical University",
@@ -5425,7 +5382,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xu-li"
  },
  {
@@ -5436,7 +5393,7 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Service Management, Revenue Management, Supply Chain Management, Stochastic Model, Optimization And Application ",
+  "fields_raw": "Service management; revenue management; supply chain management; stochastic models; optimization and applications",
   "fields_std": [
    "Operations Management"
   ],
@@ -5461,10 +5418,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Professor, MIT Sloan School of Management, 2000; Visiting Professor, The Chinese University of Hong Kong, 2006; Visiting Professor, The Hong Kong University of Science & Technology, 2007",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yifan-xu"
  },
  {
@@ -5475,11 +5432,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": " Supply Chain Management, Artificial Intelligence (AI), Operations & Marketing Interface",
+  "fields_raw": "Supply chain management; artificial intelligence (AI); operations and marketing interface",
   "fields_std": [
-   "Marketing",
    "Operations Management",
-   "Data Science & Analytics"
+   "Marketing"
   ],
   "phd_institution": "North Carolina State University",
   "phd_year": 2003,
@@ -5502,10 +5458,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, Singapore Institute of Manufacturing Technology, 2004-2005; Visiting Scholar, MIT Sloan School of Management, 2005-2006; Visiting Scholar, City University of Hong Kong, 2009",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yue-dai"
  },
  {
@@ -5516,10 +5472,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Supply Chain Management, Game Theory, Sharing Economy",
+  "fields_raw": "Supply chain management; game theory; sharing economy",
   "fields_std": [
-   "Microeconomic Theory",
-   "Operations Management"
+   "Operations Management",
+   "Microeconomic Theory"
   ],
   "phd_institution": "University of Miami",
   "phd_year": 2018,
@@ -5545,7 +5501,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "huiqi-guan"
  },
  {
@@ -5556,10 +5512,8 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Warehousing, Urban Logistics, Queuing Theory, Stochastic Processes, Mathematical Optimization, and Software Development",
+  "fields_raw": "Warehousing; urban logistics; queuing theory; stochastic processes; mathematical optimization; software development",
   "fields_std": [
-   "Development Economics",
-   "Urban & Regional Economics",
    "Operations Management"
   ],
   "phd_institution": "Erasmus University Rotterdam",
@@ -5583,10 +5537,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2023",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jelmer-pier-van-der-gaast"
  },
  {
@@ -5597,9 +5551,8 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Operations Management, Public Policy, Supply Chain Management, Socially Responsible Operations, Sharing Economy",
+  "fields_raw": "Operations management; public policy; supply chain management; socially responsible operations; sharing economy",
   "fields_std": [
-   "Public Economics",
    "Operations Management",
    "Public Policy"
   ],
@@ -5624,10 +5577,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Associate Professor, University of California, Los Angeles, 2025",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jiayi-yu"
  },
  {
@@ -5679,10 +5632,10 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "The Economics of Digitization, Sharing Economy, Game Theory, Operations Management, Supply Chain Management",
+  "fields_raw": "Economics of digitization; sharing economy; game theory; operations management; supply chain management",
   "fields_std": [
-   "Microeconomic Theory",
-   "Operations Management"
+   "Operations Management",
+   "Industrial Organization"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": 2018,
@@ -5708,7 +5661,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shihong-xiao"
  },
  {
@@ -5799,11 +5752,9 @@
   "unit_type": "business",
   "area": "Management Science",
   "other_units": null,
-  "fields_raw": "Empirical Operations Management, Supply Chain Management, Sustainable Operations, Operations-Finance Interface",
+  "fields_raw": "Empirical operations management; supply chain management; sustainable operations; operations-finance interface",
   "fields_std": [
-   "Financial Economics",
-   "Operations Management",
-   "Business Ethics & Society"
+   "Operations Management"
   ],
   "phd_institution": "The Chinese University of Hong Kong",
   "phd_year": 2026,
@@ -5829,7 +5780,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yilin-shi"
  },
  {
@@ -5840,11 +5791,9 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Consumer Behavior",
+  "fields_raw": "Consumer behavior",
   "fields_std": [
-   "Behavioral Economics",
-   "Marketing",
-   "Strategy"
+   "Marketing"
   ],
   "phd_institution": "Pai Chai University",
   "phd_year": 2004,
@@ -5870,7 +5819,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "liyin-jin"
  },
  {
@@ -5881,10 +5830,10 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Consumer Behavior, Judgement and Decision Making, Goall and Motivation",
+  "fields_raw": "Consumer behavior; judgment and decision making; goals and motivation",
   "fields_std": [
-   "Behavioral Economics",
-   "Marketing"
+   "Marketing",
+   "Behavioral Economics"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2014,
@@ -5907,10 +5856,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, University of Texas at Austin, 2011-2012; Visiting Scholar, MIT Sloan School of Management, 2018",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qian-xu"
  },
  {
@@ -5921,12 +5870,10 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Corporate Governance for Sci-tech Innovation Companies, Strategic Leadership, Corporate Reorganization, Marketing in China as an Immature Market ",
+  "fields_raw": "Corporate governance for sci-tech innovation companies; strategic leadership; corporate reorganization; marketing in China as an immature market",
   "fields_std": [
-   "Corporate Finance",
    "Marketing",
-   "Strategy",
-   "Organizational Behavior"
+   "Strategy"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 1997,
@@ -5948,11 +5895,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Post-doctorate Research Fellow, Tuck School of Business at Dartmouth, 2000-2001",
+  "prior_positions": "Visiting Scholar, Fisher College of Business, The Ohio State University, 1995; Visiting Scholar, MIT Sloan School of Management, 1997; Post-doctorate Research Fellow, Tuck School of Business at Dartmouth, 2000-2001",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiongwen-lu"
  },
  {
@@ -5963,7 +5910,7 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Marketing, Service Management",
+  "fields_raw": "Marketing; service management",
   "fields_std": [
    "Marketing"
   ],
@@ -5988,10 +5935,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Professor, Robert Schuman University, France, 2000; Guest Professor, Senior Fellow, Hanken Swedish School of Economics and Business Administration, Finland, 2003-2004; Visiting Scholar, MIT Sloan School of Management, 2011-2012",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiucheng-fan"
  },
  {
@@ -6002,11 +5949,9 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Machine Learning and its Applications in Marketing, Multimedia Data and its Applications in Marketing, Advertising, Innovations and Mechanism Design",
+  "fields_raw": "Machine learning and its applications in marketing; multimedia data and its applications in marketing; advertising; innovations and mechanism design",
   "fields_std": [
-   "Microeconomic Theory",
    "Marketing",
-   "Entrepreneurship & Innovation",
    "Data Science & Analytics"
   ],
   "phd_institution": "The Pennsylvania State University",
@@ -6015,7 +5960,7 @@
   "ma_institution": "Wuhan University",
   "ma_year": 2004,
   "ma_field": "Marketing",
-  "ba_institution": "Naval University of Engineering,PLA",
+  "ba_institution": "Naval University of Engineering, PLA",
   "ba_year": 2001,
   "ba_field": "Computer Science and Technology",
   "education_raw": "Doctor Degree, Marketing, The Pennsylvania State University, USA, 2008-08-01 —— 2013-05-01; Master Degree, Marketing, Wuhan University, 2001-09-01 —— 2004-06-01; Bachelor Degree, Computer Science and Technology, Naval University of Engineering,PLA, 1997-09-01 —— 2001-06-01",
@@ -6030,10 +5975,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, Georgia State University, 2017-2018; Visiting Scholar, The Pennsylvania State University, 2022-2023",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "li-xiao"
  },
  {
@@ -6044,10 +5989,10 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Consumer Behavior, Attitudes and Persuasion, Consumer Decision-Making, Online Word-of Mouth Behavior, Brand Loyalty",
+  "fields_raw": "Consumer behavior; attitudes and persuasion; consumer decision-making; online word-of-mouth behavior; brand loyalty",
   "fields_std": [
-   "Behavioral Economics",
-   "Marketing"
+   "Marketing",
+   "Behavioral Economics"
   ],
   "phd_institution": "The Ohio State University",
   "phd_year": 2021,
@@ -6055,7 +6000,7 @@
   "ma_institution": "The Ohio State University",
   "ma_year": 2017,
   "ma_field": "Psychology",
-  "ba_institution": "The University of Virginia",
+  "ba_institution": "University of Virginia",
   "ba_year": 2015,
   "ba_field": "Psychology",
   "education_raw": "Doctor Degree, Psychology, The Ohio State University, USA, 2015-08-01 —— 2021-05-01; Master Degree, Psychology, The Ohio State University, USA, 2015-08-01 —— 2017-08-01; Bachelor Degree, Psychology, The University of Virginia, USA, 2011-08-01 —— 2015-05-01",
@@ -6073,7 +6018,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "mengran-xu"
  },
  {
@@ -6084,7 +6029,7 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Internet Marketing, Customer Choice Dynamic, Pricing, B2B Marketing, Customer Relationship Management",
+  "fields_raw": "Internet marketing; customer choice dynamics; pricing; B2B marketing; customer relationship management",
   "fields_std": [
    "Marketing"
   ],
@@ -6109,10 +6054,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Visiting Scholar, MIT Sloan School of Management, 2019",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xing-zhang"
  },
  {
@@ -6123,9 +6068,8 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Service Marketing, Customer Satisfaction and Loyalty, IT in Service Delivery, Internet Marketing",
+  "fields_raw": "Service marketing; customer satisfaction and loyalty; IT in service delivery; internet marketing",
   "fields_std": [
-   "Behavioral Economics",
    "Marketing"
   ],
   "phd_institution": "City University of Hong Kong",
@@ -6152,7 +6096,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yanqun-he"
  },
  {
@@ -6163,9 +6107,8 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Consumer Behavior, Behavior Intervention, Consumer Welfare",
+  "fields_raw": "Consumer behavior; behavior intervention; consumer welfare",
   "fields_std": [
-   "Behavioral Economics",
    "Marketing"
   ],
   "phd_institution": "Peking University",
@@ -6192,7 +6135,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yiqi-yu"
  },
  {
@@ -6203,11 +6146,9 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Consumer Behavior, Digital Marketing, Visual Marketing, Decision Neuroscience",
+  "fields_raw": "Consumer behavior; digital marketing; visual marketing; decision neuroscience",
   "fields_std": [
-   "Behavioral Economics",
-   "Marketing",
-   "Information Systems"
+   "Marketing"
   ],
   "phd_institution": "The University of Hong Kong",
   "phd_year": 2020,
@@ -6233,7 +6174,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yunlu-yin"
  },
  {
@@ -6244,12 +6185,10 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "Quantitative Marketing and Consumer Behavior, Data-Driven Marketing, Marketing Strategy, Product and Service Innovation",
+  "fields_raw": "Quantitative marketing and consumer behavior; data-driven marketing; marketing strategy; product and service innovation",
   "fields_std": [
-   "Behavioral Economics",
    "Marketing",
-   "Strategy",
-   "Entrepreneurship & Innovation"
+   "Data Science & Analytics"
   ],
   "phd_institution": "Northeastern University",
   "phd_year": 2004,
@@ -6275,7 +6214,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhe-zhang"
  },
  {
@@ -6286,7 +6225,7 @@
   "unit_type": "business",
   "area": "Marketing",
   "other_units": null,
-  "fields_raw": "AI in Marketing, Network-Centric Marketing Analytics, Marketing Interaction & Dynamics, Deep Learning for Graphs, Deep Generative AI",
+  "fields_raw": "AI in marketing; network-centric marketing analytics; marketing interaction and dynamics; deep learning for graphs; deep generative AI",
   "fields_std": [
    "Marketing",
    "Data Science & Analytics"
@@ -6294,7 +6233,7 @@
   "phd_institution": "Georgia State University",
   "phd_year": 2026,
   "phd_field": "Business Administration",
-  "ma_institution": "Georgia State University; Georgia Institute of Technology",
+  "ma_institution": "Georgia State University | Georgia Institute of Technology",
   "ma_year": 2023,
   "ma_field": "Economics | Civil Engineering",
   "ba_institution": "Nanjing Agricultural University",
@@ -6315,7 +6254,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qianyin-xia"
  },
  {
@@ -6326,10 +6265,10 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Statistics of Extremes, Risk Management, Distributed Inference, Quantile Regression",
+  "fields_raw": "Statistics of extremes; risk management; distributed inference; quantile regression",
   "fields_std": [
    "Econometrics",
-   "Banking & Financial Intermediation"
+   "Financial Economics"
   ],
   "phd_institution": "Erasmus University Rotterdam",
   "phd_year": 2004,
@@ -6355,7 +6294,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "deyuan-li"
  },
  {
@@ -6366,7 +6305,7 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Survival analysis, Semi-parametric Analysis \n",
+  "fields_raw": "Survival analysis; semi-parametric analysis",
   "fields_std": [
    "Econometrics"
   ],
@@ -6394,7 +6333,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ming-zheng"
  },
  {
@@ -6405,7 +6344,7 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Semiparametric Models, Survival Analysis, Empirical Likelihood, Two-phase Sampling Designs, Order Restricted Inference",
+  "fields_raw": "Semiparametric models; survival analysis; empirical likelihood; two-phase sampling designs; order restricted inference",
   "fields_std": [
    "Econometrics"
   ],
@@ -6433,7 +6372,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wen-yu"
  },
  {
@@ -6457,7 +6396,7 @@
   "ma_field": null,
   "ba_institution": "Zhejiang University",
   "ba_year": 2008,
-  "ba_field": "Mathematics & Applied Mathematics",
+  "ba_field": "Mathematics",
   "education_raw": "Doctor Degree, Statistics, University of Pennsylvania, USA, 2008-09-01 —— 2013-05-01; Bachelor Degree, Mathematics & Applied Mathematics, Zhejiang University, 2004-09-01 —— 2008-06-01",
   "homepage_url": "https://sites.google.com/view/yinxia",
   "profile_url": "https://www.fdsm.fudan.edu.cn/en/faculty/list.htm?UID=012108",
@@ -6468,12 +6407,12 @@
   "source_url": "https://www.fdsm.fudan.edu.cn/en/fr_faculty/list.htm",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
+  "phd_advisors": "Tony Cai",
   "first_job_after_phd": null,
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yin-xia"
  },
  {
@@ -6484,7 +6423,7 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Causal Inference for Complex Data, Machine Learning and Causal Discovery, Econometrics and Business Statistics",
+  "fields_raw": "Causal inference for complex data; machine learning and causal discovery; econometrics and business statistics",
   "fields_std": [
    "Econometrics",
    "Data Science & Analytics"
@@ -6513,7 +6452,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhiguo-xiao"
  },
  {
@@ -6526,9 +6465,7 @@
   "other_units": null,
   "fields_raw": "Nonlinear Statistical Models, Regression Diagnostics, Differential Geometric Method in Statistical Inference, Repeated Measured Data Analysis, Longitudinal Data Analysis, Nonparametric and Semiparametric Models, Credibility Theory",
   "fields_std": [
-   "Econometrics",
-   "Banking & Financial Intermediation",
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "Southeast University",
   "phd_year": 1999,
@@ -6554,7 +6491,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhongyi-zhu"
  },
  {
@@ -6565,10 +6502,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "High Dimensional Data Analysis, Change Point Analysis, Data-Adaptive Test, Gaussian Approximation & Bootstrap, Robust Method",
+  "fields_raw": "High dimensional data analysis; change point analysis; data-adaptive test; Gaussian approximation and bootstrap; robust methods",
   "fields_std": [
-   "Econometrics",
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "Fudan University",
   "phd_year": 2019,
@@ -6594,7 +6530,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "bin-liu"
  },
  {
@@ -6645,9 +6581,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Mixture Model, Subgroup Analysis, Bayesian Variable Selection",
+  "fields_raw": "Mixture model; subgroup analysis; Bayesian variable selection",
   "fields_std": [
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "University of Michigan",
   "phd_year": 2014,
@@ -6673,7 +6609,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "juan-shen"
  },
  {
@@ -6684,9 +6620,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Functional Data Analysis, Non-Euclidean Data Analysis, Robust Analysis",
+  "fields_raw": "Functional data analysis; non-Euclidean data analysis; robust analysis",
   "fields_std": [
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "Peking University",
   "phd_year": 2022,
@@ -6712,7 +6648,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lingxuan-shao"
  },
  {
@@ -6723,11 +6659,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Bayesian Statistics, Nonparametric and Semiparametric Statistical Methods, Experiment Design, Medical Statistics",
+  "fields_raw": "Bayesian statistics; nonparametric and semiparametric statistical methods; experiment design; medical statistics",
   "fields_std": [
-   "Econometrics",
-   "Experimental Economics",
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "East China Normal University",
   "phd_year": 1999,
@@ -6753,7 +6687,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qinfeng-xu"
  },
  {
@@ -6766,9 +6700,7 @@
   "other_units": null,
   "fields_raw": "Latent Variable Models, Functional and Imaging Data Analysis, Big Data and Complex Data Analysis using Bayesian Methods, Statistical Modeling in Word of Mouth, Crowdfunding, and Mobile Marketing",
   "fields_std": [
-   "Econometrics",
-   "Marketing",
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "The Chinese University of Hong Kong",
   "phd_year": 2017,
@@ -6794,7 +6726,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiangnan-feng"
  },
  {
@@ -6805,8 +6737,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "Network Data Modelling, High Dimensional Data Modelling",
+  "fields_raw": "Network data modelling; high-dimensional data modelling",
   "fields_std": [
+   "Econometrics",
    "Data Science & Analytics"
   ],
   "phd_institution": "Peking University",
@@ -6833,7 +6766,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xuening-zhu"
  },
  {
@@ -6884,10 +6817,9 @@
   "unit_type": "business",
   "area": "Statistics and Data Science",
   "other_units": null,
-  "fields_raw": "High-dimensional Statistical Inference, Physics-Informed Models, Functional Data Analysis, Causal Inference & Policy Evaluation, Distributed Learning",
+  "fields_raw": "High-dimensional statistical inference; physics-informed models; functional data analysis; causal inference and policy evaluation; distributed learning",
   "fields_std": [
-   "Econometrics",
-   "Data Science & Analytics"
+   "Econometrics"
   ],
   "phd_institution": "Peking University",
   "phd_year": 2025,
@@ -6913,7 +6845,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wei-zhang"
  },
  {
@@ -6952,7 +6884,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yajie-bao"
  }
 ]

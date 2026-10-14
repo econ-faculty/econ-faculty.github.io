@@ -18,7 +18,7 @@ def _norm(s):
 
 
 norm = lambda s: list(_norm(s or ""))
-tkey = lambda t: "".join(_norm(t or ""))[:60]
+tkey = lambda t: "".join(_norm(t or ""))[:60] or "#" + re.sub(r"\W+", "", t or "")[:60]
 WORDS = lambda t: frozenset(w for w in _norm(t or "") if len(w) > 2)
 
 NICK = {"bill": "william", "will": "william", "bob": "robert", "rob": "robert", "jim": "james", "jimmy": "james", "mike": "michael",

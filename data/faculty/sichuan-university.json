@@ -38,7 +38,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "chaoran-hu"
  },
  {
@@ -49,10 +49,11 @@
   "unit_type": "economics",
   "area": "Department of Economics",
   "other_units": null,
-  "fields_raw": "环境经济学，农业经济学，消费者与家庭经济学",
+  "fields_raw": "Environmental economics; agricultural economics; consumer and family economics",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Agricultural & Resource Economics"
+   "Agricultural & Resource Economics",
+   "Other"
   ],
   "phd_institution": "Virginia Tech",
   "phd_year": 2019,
@@ -78,7 +79,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiang-cao"
  },
  {
@@ -118,7 +119,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "yanchi-zou"
  },
  {
@@ -157,7 +158,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "yunshen-long"
  },
  {
@@ -197,7 +198,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "yang-li"
  },
  {
@@ -238,7 +239,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "chen-chen"
  },
  {
@@ -279,7 +280,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "zhiming-fu"
  },
  {
@@ -290,9 +291,11 @@
   "unit_type": "business",
   "area": "Accounting and Finance",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Banking and financial institutions; household finance; financial economics; digital economy",
   "fields_std": [
-   "Accounting"
+   "Banking & Financial Intermediation",
+   "Financial Economics",
+   "Other"
   ],
   "phd_institution": "Texas A&M University",
   "phd_year": null,
@@ -300,9 +303,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Wuhan University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Mathematical Finance (double bachelor's in Mathematics and Economics)",
   "education_raw": "博士毕业于美国Texas A&M University经济学系，获哲学博士学位",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/kuaijixue/202110/7545.html",
@@ -318,7 +321,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "shuoxun-zhang"
  },
  {
@@ -357,7 +360,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhimin-yi"
  },
  {
@@ -368,19 +371,21 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "政府与社会资本合作模式（ PPP ）中的物有所值和风险问题、基础设施融资、国际工程建设与基础设施市场进入战略、大型复杂项",
+  "fields_raw": "PPP value for money and risk; infrastructure financing; international construction market entry strategy; large complex project management; infrastructure and public service operations management",
   "fields_std": [
-   "Strategy"
+   "Public Policy",
+   "Operations Management",
+   "Other"
   ],
   "phd_institution": "Pennsylvania State University",
   "phd_year": null,
   "phd_field": "Engineering Management",
-  "ma_institution": null,
+  "ma_institution": "National University of Singapore | University of Melbourne",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Infrastructure Systems and Management | Applied Finance",
+  "ba_institution": "Tsinghua University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Construction Engineering Management",
   "education_raw": "美国宾西法尼亚州立大学建筑工程系工程管理博士",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/gongye/201904/5201.html",
@@ -396,7 +401,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chuan-chen"
  },
  {
@@ -407,11 +412,11 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "复杂系统建模与管理（主要关注：可持续发展、城市物流）、大数据与人工智能算法",
+  "fields_raw": "Complex systems modeling and management (sustainable development, urban logistics); big data and artificial intelligence algorithms",
   "fields_std": [
-   "Strategy",
    "Operations Management",
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Other"
   ],
   "phd_institution": "The Hong Kong Polytechnic University",
   "phd_year": null,
@@ -437,7 +442,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhaoxia-guo"
  },
  {
@@ -448,9 +453,11 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "System simulation modeling and optimization; logistics and supply chain management; port and shipping logistics; causal machine learning",
   "fields_std": [
-   "Operations Management"
+   "Operations Management",
+   "Data Science & Analytics",
+   "Other"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": null,
@@ -476,7 +483,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "haitao-liu"
  },
  {
@@ -487,12 +494,12 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "平台经济：内容分享、社交网络、短视频和直播等平台的技术应用和用户行为问题 社交媒体：企业新闻和用户自媒体数据挖掘、舆论控",
+  "fields_raw": "Platform economy: technology applications and user behavior on content-sharing, social network, short-video and live-streaming platforms; social media: mining corporate news and user self-media data, public opinion control",
   "fields_std": [
    "Information Systems",
-   "Data Science & Analytics"
+   "Other"
   ],
-  "phd_institution": "The Hong Kong Polytechnic University",
+  "phd_institution": "Hong Kong Polytechnic University | Harbin Institute of Technology | University of Toronto (Rotman School of Management, joint PhD)",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -516,7 +523,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "peng-luo"
  },
  {
@@ -527,11 +534,13 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "AI 赋能下的电子商务（ JD 、携程、 Yelp 和 Amazon 等电商平台），电商直播； AI 赋能下的社交媒体（",
+  "fields_raw": "AI-empowered e-commerce (JD, Ctrip, Yelp, Amazon) and e-commerce live streaming; AI-empowered social media (Xiaohongshu, Weibo, Twitter, Instagram)",
   "fields_std": [
-   "Information Systems"
+   "Marketing",
+   "Information Systems",
+   "Other"
   ],
-  "phd_institution": "The Hong Kong Polytechnic University",
+  "phd_institution": "Harbin Institute of Technology | Hong Kong Polytechnic University",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -551,11 +560,11 @@
   "notes": "PhD in HK/Macau/Taiwan; Also holds a PhD from Harbin Institute of Technology",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Postdoc, Hong Kong Polytechnic University",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "pengkun-wu"
  },
  {
@@ -568,7 +577,8 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Operations Management"
+   "Operations Management",
+   "Other"
   ],
   "phd_institution": "Nanyang Technological University",
   "phd_year": null,
@@ -576,9 +586,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Tianjin University | Tianjin University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Engineering Mechanics | Engineering Management",
   "education_raw": "新加坡南洋理工大学系统工程与管理（硕博连读）哲学博士",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/gongye/201909/5760.html",
@@ -594,7 +604,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qingyi-wang"
  },
  {
@@ -607,17 +617,18 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Operations Management"
+   "Operations Management",
+   "Data Science & Analytics"
   ],
   "phd_institution": "City University of Hong Kong",
   "phd_year": null,
   "phd_field": "Systems Engineering and Engineering Management",
-  "ma_institution": null,
+  "ma_institution": "Southeast University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Industrial Engineering",
+  "ba_institution": "Southeast University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Industrial Engineering",
   "education_raw": "东南大学工业工程系学士、硕士，香港城市大学系统工程及工程管理学系博士",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/gongye/202209/8090.html",
@@ -630,10 +641,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Research Assistant Professor, Hong Kong Polytechnic University",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiaolin-wang"
  },
  {
@@ -644,15 +655,15 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "智能决策理论与方法、数智融合的运营管理 、应急资源配置优化。",
+  "fields_raw": "Intelligent decision-making theory and methods; digitally-intelligent integrated operations management; optimization of emergency resource allocation",
   "fields_std": [
-   "Strategy",
    "Operations Management",
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Other"
   ],
-  "phd_institution": "University of Granada",
+  "phd_institution": "Sichuan University | University of Granada",
   "phd_year": null,
-  "phd_field": "Data Science and Artificial Intelligence",
+  "phd_field": "Management | Data Science and Artificial Intelligence",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -670,11 +681,11 @@
   "notes": "Profile title is researcher (listed with professors/associate professors on school faculty list); Also holds a PhD (Management) from Sichuan University",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Postdoc, Sichuan University",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xunjie-gou"
  },
  {
@@ -685,13 +696,13 @@
   "unit_type": "business",
   "area": "Industrial Engineering and Management",
   "other_units": null,
-  "fields_raw": "供应链管理、企业运营管理、大数据优化、体育产业管理与经济学等。",
+  "fields_raw": "Supply chain management; enterprise operations management; big data optimization; sports industry management and economics",
   "fields_std": [
-   "Strategy",
    "Operations Management",
-   "Data Science & Analytics"
+   "Data Science & Analytics",
+   "Other"
   ],
-  "phd_institution": "The Hong Kong Polytechnic University",
+  "phd_institution": "Hong Kong Polytechnic University",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -715,7 +726,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhi-li"
  },
  {
@@ -726,12 +737,11 @@
   "unit_type": "business",
   "area": "Management Science and Data Science",
   "other_units": null,
-  "fields_raw": "人工智能算法与数据挖掘、复杂交通系统建模优化、金融风控与智能投顾、医疗数据管理等。 欢迎国内外获得计算机与信息工程、运筹",
+  "fields_raw": "AI algorithms and data mining; complex traffic system modeling and optimization; financial risk control and intelligent investment advisory; medical data management",
   "fields_std": [
-   "Corporate Finance",
-   "Strategy",
+   "Data Science & Analytics",
    "Operations Management",
-   "Data Science & Analytics"
+   "Financial Economics"
   ],
   "phd_institution": "The Hong Kong University of Science and Technology",
   "phd_year": null,
@@ -757,7 +767,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "feng-xiao"
  },
  {
@@ -768,19 +778,21 @@
   "unit_type": "business",
   "area": "Management Science and Data Science",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Optimization and equilibrium (nonlinear multi-objective optimization theory and algorithms; Bayesian persuasion and auction theory); network and platform economics (online retail platform operations and market regulation; data privacy and regulation); industrial organization (carbon trading market regulation and sustainability; carbon cost pass-through and endogenous market mechanisms for carbon allowance allocation)",
   "fields_std": [
-   "Operations Management"
+   "Industrial Organization",
+   "Environmental & Energy Economics",
+   "Microeconomic Theory"
   ],
-  "phd_institution": "The Hong Kong Polytechnic University",
+  "phd_institution": "Hong Kong Polytechnic University",
   "phd_year": null,
-  "phd_field": "Operations Research",
+  "phd_field": "Operational Research",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Sichuan University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Applied Mathematics",
   "education_raw": "香港理工大学运筹学专业哲学博士",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/guanlikexue/201904/5195.html",
@@ -796,7 +808,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhe-chen"
  },
  {
@@ -807,20 +819,21 @@
   "unit_type": "business",
   "area": "Management Science and Data Science",
   "other_units": null,
-  "fields_raw": "城市公共交通系统，低空经济，运筹优化， 信号控制，交通污染排放， 道路拥挤收费，数据科学与智能决策，机器学习与交通数据挖",
+  "fields_raw": "Urban public transit systems; low-altitude economy; operations optimization; signal control; traffic pollution emissions; road congestion pricing; data science and intelligent decision-making; machine learning and traffic data mining",
   "fields_std": [
+   "Urban & Regional Economics",
    "Operations Management",
    "Data Science & Analytics"
   ],
-  "phd_institution": "The Hong Kong University of Science and Technology",
+  "phd_institution": "Hong Kong University of Science and Technology",
   "phd_year": null,
   "phd_field": "Philosophy",
-  "ma_institution": null,
+  "ma_institution": "Sun Yat-sen University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Engineering",
+  "ba_institution": "Sun Yat-sen University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Engineering",
   "education_raw": "中山大学工学学士、硕士；香港科技大学哲学博士",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/guanlikexue/202104/7074.html",
@@ -832,11 +845,11 @@
   "notes": "Profile title is researcher (listed with professors/associate professors on school faculty list); PhD in HK/Macau/Taiwan",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Postdoc, University of California, Berkeley",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lu-li"
  },
  {
@@ -849,9 +862,9 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Operations Management"
+   "Data Science & Analytics"
   ],
-  "phd_institution": "City University of Hong Kong",
+  "phd_institution": "University of Science and Technology of China | City University of Hong Kong",
   "phd_year": null,
   "phd_field": null,
   "ma_institution": null,
@@ -871,11 +884,11 @@
   "notes": "Profile title is researcher (listed with professors/associate professors on school faculty list); PhD in HK/Macau/Taiwan; Also holds a PhD from University of Science and Technology of China",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Postdoctoral Fellow, City University of Hong Kong",
+  "prior_positions": "Research Assistant, City University of Hong Kong; Senior Research Assistant, City University of Hong Kong Shenzhen Research Institute (Advanced Intelligent Information Systems Research Centre)",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xian-cheng"
  },
  {
@@ -886,9 +899,10 @@
   "unit_type": "business",
   "area": "Management Science and Data Science",
   "other_units": null,
-  "fields_raw": "数字医疗、人机交互、平台治理",
+  "fields_raw": "Digital health; human-computer interaction; platform governance",
   "fields_std": [
-   "Information Systems"
+   "Information Systems",
+   "Other"
   ],
   "phd_institution": "University of Electronic Science and Technology of China",
   "phd_year": null,
@@ -914,7 +928,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "zhi-cao"
  },
  {
@@ -925,10 +939,10 @@
   "unit_type": "business",
   "area": "Strategy and Organization Management",
   "other_units": null,
-  "fields_raw": "国际管理，领导力，人力资源管理，组织行为学 International Management, Leadership,",
+  "fields_raw": "International management; leadership; human resource management; organizational behavior",
   "fields_std": [
-   "Strategy",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations"
   ],
   "phd_institution": "University of Otago",
   "phd_year": null,
@@ -951,10 +965,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "PhD Programme Director, Lancaster University",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "haina-zhang"
  },
  {
@@ -965,10 +979,10 @@
   "unit_type": "business",
   "area": "Strategy and Organization Management",
   "other_units": null,
-  "fields_raw": "企业组织中的人情和关系，领导成员交换，员工个性特征、组织行为、个体决策及其神经机制",
+  "fields_raw": "Interpersonal ties (renqing and guanxi) in organizations; leader-member exchange; employee personality traits, organizational behavior, individual decision-making and its neural mechanisms",
   "fields_std": [
    "Organizational Behavior",
-   "Operations Management"
+   "Management & Organizations"
   ],
   "phd_institution": "Sichuan University",
   "phd_year": 2018,
@@ -994,7 +1008,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "han-ren"
  },
  {
@@ -1011,13 +1025,13 @@
   ],
   "phd_institution": "Monash University",
   "phd_year": null,
-  "phd_field": "Human Resource Management (Performance Management)",
-  "ma_institution": null,
+  "phd_field": "Human Resource Management (performance management)",
+  "ma_institution": "Sichuan University | Leiden University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "World Economy: Financial Theory and Practice | Public Administration (European Management)",
+  "ba_institution": "Sichuan University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "International Economics and Trade (innovation class)",
   "education_raw": "澳大利亚蒙纳什大学商学院哲学博士（人力资源管理：绩效管理）",
   "homepage_url": null,
   "profile_url": "https://bs.scu.edu.cn/renliziyuan/201904/5123.html",
@@ -1033,7 +1047,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "meng-wang"
  },
  {
@@ -1044,13 +1058,14 @@
   "unit_type": "business",
   "area": "Strategy and Organization Management",
   "other_units": null,
-  "fields_raw": "认知心理学、心理测评研发及应用，人力资源管理",
+  "fields_raw": "Cognitive psychology; psychological assessment development and application; human resource management",
   "fields_std": [
-   "Strategy",
-   "Organizational Behavior"
+   "Organizational Behavior",
+   "Management & Organizations",
+   "Other"
   ],
   "phd_institution": "Loughborough University",
-  "phd_year": null,
+  "phd_year": 2012,
   "phd_field": "Psychology",
   "ma_institution": null,
   "ma_year": null,
@@ -1073,7 +1088,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xin-yang"
  }
 ]

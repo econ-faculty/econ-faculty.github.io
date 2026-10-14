@@ -1,0 +1,979 @@
+{
+"chaoran hu": {
+"name": "Chaoran Hu",
+"papers": []
+},
+"xiang cao": {
+"name": "Xiang Cao",
+"papers": []
+},
+"yanchi zou": {
+"name": "Yanchi Zou",
+"papers": []
+},
+"yunshen long": {
+"name": "Yunshen Long",
+"papers": []
+},
+"yang li": {
+"name": "Yang Li",
+"papers": []
+},
+"chen chen": {
+"name": "Chen Chen",
+"papers": []
+},
+"zhiming fu": {
+"name": "Zhiming Fu",
+"papers": []
+},
+"shuoxun zhang": {
+"name": "Shuoxun Zhang",
+"papers": [
+{
+"title": "Can Housing Booms Elevate Financing Costs of Financial Institutions?",
+"authors": [
+"Chao Ma",
+"Shuoxun Zhang"
+],
+"year": 2024,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Are export tax rebates patronage for Chinese firms? An analysis of productivity",
+"authors": [
+"Teng Zhang",
+"Shu Xu",
+"Shuoxun Zhang"
+],
+"year": 2022,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Strategic or Non-Strategic: The Role of Financial Benefit in Bankruptcy",
+"authors": [
+"Zhang Shuoxun",
+"Gan Li",
+"Tarun Sabarwal"
+],
+"year": 2015,
+"venue": "Economic Inquiry",
+"status": "published"
+}
+]
+},
+"zhimin yi": {
+"name": "Zhimin Yi",
+"papers": [
+{
+"title": "Personal liability and independent directors: Evidence from China",
+"authors": [
+"Liu Haiyue",
+"Wang Yile",
+"Yi Zhimin",
+"Liu Zihan"
+],
+"year": 2025,
+"venue": "Journal of Accounting and Public Policy",
+"status": "published"
+},
+{
+"title": "How does green finance policy affect firms' pro-environmental mergers and acquisitions?",
+"authors": [
+"Yi Zhimin",
+"Liu Haiyue",
+"Wang Yile",
+"Chen, J. Y."
+],
+"year": 2024,
+"venue": "Accounting and Finance",
+"status": "published"
+}
+]
+},
+"chuan chen": {
+"name": "Chuan Chen",
+"papers": [
+{
+"title": "Evaluation and Ranking of Risk Factors in Transnational Public–Private Partnerships Projects: Case Study Based on the Intuitionistic Fuzzy Analytic Hierarchy Process",
+"authors": [
+"Y Yu",
+"A Darko",
+"APC Chan",
+"C Chen",
+"F Bao"
+],
+"year": 2018,
+"venue": "Journal of Infrastructure Systems",
+"status": "published"
+},
+{
+"title": "Review of Public–Private Partnership Literature from a Project Lifecycle Perspective",
+"authors": [
+"F Bao",
+"APC Chan",
+"C Chen",
+"A Darko"
+],
+"year": 2018,
+"venue": "Journal of Infrastructure Systems",
+"status": "published"
+},
+{
+"title": "Implementation of innovative technologies in small-scale construction firms: Five Australian case studies",
+"authors": [
+"J Shelton",
+"I Martek",
+"C Chen"
+],
+"year": 2016,
+"venue": "Engineering, Construction and Architectural Management",
+"status": "published"
+}
+]
+},
+"zhaoxia guo": {
+"name": "Zhaoxia Guo",
+"papers": [
+{
+"title": "Vehicle routing with space- and time correlated stochastic travel times: Evaluating the objective function",
+"authors": [
+"Guo, Z.",
+"Wallace, S.",
+"Kaut, M."
+],
+"year": 2019,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Deep attention models with dimension-reduction and gate mechanisms for solving practical time-dependent vehicle routing problems",
+"authors": [
+"Guo, F.#",
+"Wei, Q.",
+"Wang, M.",
+"Guo, Z.",
+"Wallace, S."
+],
+"year": 2023,
+"venue": "Transportation Research Part E: Logistics and Transportation Review",
+"status": "published"
+}
+]
+},
+"haitao liu": {
+"name": "Haitao Liu",
+"papers": [
+{
+"title": "A convergent algorithm for ranking and selection with censored observations",
+"authors": [
+"Liu, H.",
+"Xiao, H.",
+"Lee, L. H.",
+"Chew, E. P."
+],
+"year": 2023,
+"venue": "IISE Transactions",
+"status": "published"
+}
+]
+},
+"peng luo": {
+"name": "Peng Luo",
+"papers": [
+{
+"title": "News-induced Dynamic Networks for Market Signaling: Understanding Impact of News on Firm Equity Value",
+"authors": [
+"Kun Chen",
+"Xin Li",
+"Peng Luo",
+"J. Leon Zhao"
+],
+"year": 2021,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Exploring the Dynamic Influence of Visit Behavior on Online Store Sales Performance: An Empirical Investigation",
+"authors": [
+"Peng Luo",
+"Eric W.T. NGAI",
+"Xin Tian"
+],
+"year": 2020,
+"venue": "Journal of the Association for Information Systems",
+"status": "published"
+},
+{
+"title": "The Role of Health Consciousness in Online Health Rumor Sharing: Insights from the Integrated MOA-SOR Framework",
+"authors": [
+"Xuedong Liang",
+"Yanda Huo",
+"Peng Luo"
+],
+"year": 2025,
+"venue": "Journal of Information Science",
+"status": "forthcoming"
+},
+{
+"title": "Tourism demand forecasting using graph neural network",
+"authors": [
+"Xuedong Liang",
+"Xiaoyan Li",
+"Xia Wang",
+"Lingli Shu",
+"Peng Luo"
+],
+"year": 2025,
+"venue": "Current Issues in Tourism",
+"status": "published"
+},
+{
+"title": "Supply Chain Network Structures and Firm Financial Performance: The Moderating Role of International Relations",
+"authors": [
+"Peng Luo",
+"Eric Ngai",
+"Edwin Cheng"
+],
+"year": 2024,
+"venue": "International Journal of Operations and Production Management",
+"status": "published"
+},
+{
+"title": "The Effect of Subscriptions on Customer Engagement",
+"authors": [
+"Banggang Wu",
+"Gengxuan Guo",
+"Peng Luo"
+],
+"year": 2024,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "Trust transfer in peer-to-peer accommodation: Does booking with one host transfer to other listings by the same host?",
+"authors": [
+"Yukuan Xu",
+"Xiaofang Chen",
+"Juan Luis Nicolau",
+"Peng Luo"
+],
+"year": 2023,
+"venue": "Annals of Tourism Research",
+"status": "published"
+},
+{
+"title": "Herding behavior in peer-to-peer trading economy: The moderating role of reviewer photo and name",
+"authors": [
+"Peng Luo",
+"Banggang Wu",
+"Rob LAW",
+"Yukuan Xu"
+],
+"year": 2023,
+"venue": "Tourism Management Perspectives",
+"status": "published"
+},
+{
+"title": "The role of social influence in green travel behavior in rural China",
+"authors": [
+"Peng Luo",
+"Gengxuan Guo",
+"Wei Zhang"
+],
+"year": 2022,
+"venue": "Transportation Research Part D: Transport and Environment",
+"status": "published"
+},
+{
+"title": "Effects of visit behavior on online store sales performance: personal computer (PC) versus mobile channels",
+"authors": [
+"Peng Luo",
+"Eric Ngai",
+"Yongli Li",
+"Xin Tian"
+],
+"year": 2022,
+"venue": "Internet Research",
+"status": "published"
+},
+{
+"title": "Travelers’ reactions toward recommendations from neighboring rooms: Spillover effect on room bookings",
+"authors": [
+"Yukuan Xu",
+"Juan Luis Nicolau",
+"Peng Luo"
+],
+"year": 2022,
+"venue": "Tourism Management",
+"status": "published"
+}
+]
+},
+"pengkun wu": {
+"name": "Pengkun Wu",
+"papers": [
+{
+"title": "Not all questions are equal: Unveiling the varied effects of question types on product popularity",
+"authors": [
+"Qingxian An",
+"Dan Li",
+"Pengkun Wu",
+"Zhixiang Zhou"
+],
+"year": 2026,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "Values of private traffic for community group-buying platform: A game-theoretical model of subsidy strategy choice",
+"authors": [
+"Lingli Shu",
+"Xuedong Liang",
+"Pengkun Wu"
+],
+"year": 2026,
+"venue": "Omega",
+"status": "published"
+}
+]
+},
+"qingyi wang": {
+"name": "Qingyi Wang",
+"papers": [
+{
+"title": "Self-sustained community emergency preparedness and initial response planning considering volunteer dispatching",
+"authors": [
+"Q Wang",
+"Y He",
+"X He"
+],
+"year": 2026,
+"venue": "IISE Transactions",
+"status": "forthcoming"
+},
+{
+"title": "Transit-based Evacuation Planning Considering Official Control of Stochastic Noncompliance Behavior",
+"authors": [
+"J Liu",
+"SW Wallace",
+"Q Wang"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "published"
+},
+{
+"title": "An Evacuation Planning Model Considering Stochastic Non-compliance behavior and Shelter-in-Place Strategy",
+"authors": [
+"A Xu",
+"SW Wallace",
+"Q Wang"
+],
+"year": 2026,
+"venue": "Journal of the Operational Research Society",
+"status": "forthcoming"
+},
+{
+"title": "Emergency Medical Supply Planning Considering Pre-positioning and Dynamic In-kind Donation Management in Healthcare Coalitions",
+"authors": [
+"Q Wang",
+"R Zhang",
+"L Luo"
+],
+"year": 2025,
+"venue": "Risk Analysis",
+"status": "published"
+},
+{
+"title": "Integrated planning of emergency supply pre-positioning and victim evacuation",
+"authors": [
+"W Yang",
+"AM Caunhye",
+"M Zhuo",
+"Q Wang"
+],
+"year": 2024,
+"venue": "Socio-Economic Planning Sciences",
+"status": "published"
+},
+{
+"title": "A Location-Inventory-Routing Model for Distributing Emergency Supplies",
+"authors": [
+"Q Wang",
+"X Nie"
+],
+"year": 2023,
+"venue": "Transportation Research Part E: Logistics and Transportation Review",
+"status": "published"
+},
+{
+"title": "Joint initial dispatching of official responders and registered volunteers during catastrophic mass-casualty incidents",
+"authors": [
+"Q Wang",
+"A Reed",
+"X Nie"
+],
+"year": 2022,
+"venue": "Transportation Research Part E: Logistics and Transportation Review",
+"status": "published"
+},
+{
+"title": "A stochastic programming model for emergency supply planning considering traffic congestion",
+"authors": [
+"Q Wang",
+"X Nie"
+],
+"year": 2019,
+"venue": "IISE Transactions",
+"status": "published"
+}
+]
+},
+"xiaolin wang": {
+"name": "Xiaolin Wang",
+"papers": [
+{
+"title": "Causally Aware Spatiotemporal Multigraph Convolutional Network for Accurate and Reliable Traffic Prediction",
+"authors": [
+"Pingping Dong",
+"Xiao-Lin Wang",
+"Indranil Bose",
+"Kam K. H. Ng",
+"Xiaoning Zhang",
+"Xiaoge Zhang"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "forthcoming"
+},
+{
+"title": "Causality-Informed Neural Networks for Regularized Learning in Regression Problems",
+"authors": [
+"Xiaoge Zhang",
+"Tao Wang",
+"Xiao-Lin Wang",
+"Feng-Lei Fan",
+"Yiu-Ming Cheung",
+"Indranil Bose"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+"status": "published"
+},
+{
+"title": "A Unified Uncertainty-Informed Approach for Risk Management of Deep Learning Models in the Open World",
+"authors": [
+"Long Xue",
+"Sai-Ho Chung",
+"Lechang Yang",
+"Xiao-Lin Wang",
+"Xiaoge Zhang"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+"status": "published"
+},
+{
+"title": "Online reinforcement learning for condition-based group maintenance using factored Markov decision processes",
+"authors": [
+"Jianyu Xu",
+"Bin Liu",
+"Xiujie Zhao",
+"Xiao-Lin Wang"
+],
+"year": 2024,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Joint Bundle Design and Pricing for Extended Warranty Providers Servicing Multi-Tier Products",
+"authors": [
+"Yajing Chen",
+"Yanrong Li",
+"Xiao-Lin Wang",
+"Zhi-Sheng Ye"
+],
+"year": 2026,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Design and Pricing of Extended Warranty Menus with Reference Effects",
+"authors": [
+"Xiao-Lin Wang",
+"Chenglong Li",
+"Junjie Wang"
+],
+"year": 2026,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Extended Warranty Pricing in a Competitive Aftermarket Under Logit Demand",
+"authors": [
+"Xiao-Lin Wang",
+"Shizhe Peng",
+"Xiaoge Zhang"
+],
+"year": 2025,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Simultaneous or sequential? Retail strategy of a durable product and an extended warranty",
+"authors": [
+"Xiao-Lin Wang",
+"Qiuzhuang Sun",
+"Jianyu Xu"
+],
+"year": 2024,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "published"
+},
+{
+"title": "Design and pricing of usage-driven customized two-dimensional extended warranty menus",
+"authors": [
+"Xiao-Lin Wang"
+],
+"year": 2023,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Warranty Reserve Management: Demand Learning and Funds Pooling",
+"authors": [
+"Xiao-Lin Wang",
+"Yuanguang Zhong",
+"Lishuai Li",
+"Wei Xie",
+"Zhi-Sheng Ye"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Design and pricing of extended warranty menus based on the multinomial logit choice model",
+"authors": [
+"Xiaolin Wang",
+"Xiujie Zhao",
+"Bin Liu"
+],
+"year": 2020,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Two adaptive approaches to monitoring dynamically accumulating warranty claims",
+"authors": [
+"Chenglong Li",
+"Junjie Wang",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "Journal of Quality Technology",
+"status": "forthcoming"
+},
+{
+"title": "Planning Bayesian Reliability Demonstration Tests via a Generalized Test Statistic",
+"authors": [
+"Zan Li",
+"Jianyu Xu",
+"Chengjie Wang",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Warranties of batteries: requirements, state-of-the-art, relevant analysis methods, and research perspectives",
+"authors": [
+"Yiliu Liu",
+"Xiao-Lin Wang"
+],
+"year": 2025,
+"venue": "Journal of Reliability Science and Engineering",
+"status": "published"
+},
+{
+"title": "Monitoring aggregate warranty claims with dynamically-designed CUSUM and EWMA charts",
+"authors": [
+"Chenglong Li",
+"Junjie Wang",
+"Xiao-Lin Wang"
+],
+"year": 2024,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Imperfect maintenance policies for warranted products under stochastic performance degradation",
+"authors": [
+"Xiujie Zhao",
+"Bin Liu",
+"Jianyu Xu",
+"Xiao-Lin Wang"
+],
+"year": 2023,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "A prognostic driven predictive maintenance framework based on Bayesian deep learning",
+"authors": [
+"Liangliang Zhuang",
+"Ancha Xu",
+"Xiao-Lin Wang"
+],
+"year": 2023,
+"venue": "Reliability Engineering & System Safety",
+"status": "published"
+},
+{
+"title": "A new cost-sharing preventive maintenance program under two-dimensional warranty",
+"authors": [
+"Shizhe Peng",
+"Wei Jiang",
+"Lai Wei",
+"Xiao-Lin Wang"
+],
+"year": 2022,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "A temporal-spatial cleaning optimization method for photovoltaic power plants",
+"authors": [
+"Zhonghao Wang",
+"Zhengguo Xu",
+"Xiaolin Wang",
+"Min Xie"
+],
+"year": 2022,
+"venue": "Sustainable Energy Technologies and Assessments",
+"status": "published"
+},
+{
+"title": "A finite-horizon condition-based maintenance for a two-unit system with dependent degradation processes",
+"authors": [
+"Bin Liu",
+"Mahesh D. Pandey",
+"Xiaolin Wang",
+"Xiujie Zhao"
+],
+"year": 2021,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Modeling multivariate degradation processes with time-variant covariates and imperfect maintenance effects",
+"authors": [
+"Xiaolin Wang",
+"Olivier Gaudoin",
+"Laurent Doyen",
+"Christophe Berenguer",
+"Min Xie"
+],
+"year": 2021,
+"venue": "Applied Stochastic Models in Business and Industry",
+"status": "published"
+},
+{
+"title": "A performance-based warranty for products subject to competing hard and soft failures",
+"authors": [
+"Xiaolin Wang",
+"Bin Liu",
+"Xiujie Zhao"
+],
+"year": 2021,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "Imperfect preventive maintenance models with unpunctual execution",
+"authors": [
+"Xiaolin Wang",
+"Hang Zhou",
+"Ajith K. Parlikad",
+"Min Xie"
+],
+"year": 2020,
+"venue": "IEEE Transactions on Reliability",
+"status": "published"
+},
+{
+"title": "An unpunctual preventive maintenance policy under two-dimensional warranty",
+"authors": [
+"Xiaolin Wang",
+"Lishuai Li",
+"Min Xie"
+],
+"year": 2020,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "On dynamically monitoring aggregate warranty claims for early detection of reliability problems",
+"authors": [
+"Chenglong Li",
+"Xiaolin Wang",
+"Lishuai Li",
+"Min Xie",
+"Xin Wang"
+],
+"year": 2020,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Cost analysis of a piece-wise renewing free replacement warranty policy",
+"authors": [
+"Xiaolin Wang",
+"Kangzhe He",
+"Zhen He",
+"Lishuai Li",
+"Min Xie"
+],
+"year": 2019,
+"venue": "Computers & Industrial Engineering",
+"status": "published"
+},
+{
+"title": "Optimal preventive maintenance strategy for leased equipment under successive usage-based contracts",
+"authors": [
+"Xiaolin Wang",
+"Lishuai Li",
+"Min Xie"
+],
+"year": 2019,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "On optimal upgrade strategy for second-hand multi-component systems sold with warranty",
+"authors": [
+"Xiaolin Wang",
+"Min Xie",
+"Lishuai Li"
+],
+"year": 2019,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Two-dimensional warranty: A literature review",
+"authors": [
+"Xiaolin Wang",
+"Wei Xie"
+],
+"year": 2018,
+"venue": "Journal of Risk and Reliability",
+"status": "published"
+},
+{
+"title": "A two-stage preventive maintenance optimization model incorporating two-dimensional extended warranty",
+"authors": [
+"Chun Su",
+"Xiaolin Wang"
+],
+"year": 2016,
+"venue": "Reliability Engineering & System Safety",
+"status": "published"
+},
+{
+"title": "A two-dimensional preventive maintenance strategy for items sold with warranty",
+"authors": [
+"Xiaolin Wang",
+"Chun Su"
+],
+"year": 2016,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Optimal upgrade policy for used products sold with two-dimensional warranty",
+"authors": [
+"Chun Su",
+"Xiaolin Wang"
+],
+"year": 2016,
+"venue": "Quality and Reliability Engineering International",
+"status": "published"
+},
+{
+"title": "Modeling flexible two-dimensional warranty contracts for used products considering reliability improvement actions",
+"authors": [
+"Chun Su",
+"Xiaolin Wang"
+],
+"year": 2016,
+"venue": "Journal of Risk and Reliability",
+"status": "published"
+},
+{
+"title": "Optimizing upgrade level and preventive maintenance policy for second-hand products sold with warranty",
+"authors": [
+"Chun Su",
+"Xiaolin Wang"
+],
+"year": 2014,
+"venue": "Journal of Risk and Reliability",
+"status": "published"
+},
+{
+"title": "An Online State-Dependent Successive Elimination Algorithm for Markovian Bandits",
+"authors": [
+"Jianyu Xu",
+"Miao Song",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "Data-Integrated Periodic Replacement with Operational Statistics",
+"authors": [
+"Qiuzhuang Sun",
+"Peng Liu",
+"Guanjun Wang",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "A general framework for modeling and monitoring large-scale weighted networks with communities",
+"authors": [
+"Junjie Wang",
+"Chenglong Li",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "IISE Transactions",
+"status": "revise_resubmit"
+},
+{
+"title": "Warranty and Pricing Policy under Logit Demand Considering Consumer Heterogeneity",
+"authors": [
+"Wanqing Cheng",
+"Xiujie Zhao",
+"Jianyu Xu",
+"Zhen He",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Extended Warranty Pricing in the Presence of Consumer Reliability Learning",
+"authors": [
+"Shizhe Peng",
+"Quanchen Liu",
+"Xiyang Hou",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "IISE Transactions",
+"status": "revise_resubmit"
+},
+{
+"title": "Predictive inspection/maintenance and production control for production systems: Structural properties and optimal policies",
+"authors": [
+"Yian Wei",
+"Yao Cheng",
+"Xiao-Lin Wang"
+],
+"year": 2026,
+"venue": "European Journal of Operational Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Maintenance Management for Autonomous Intelligent Systems: Characteristics, Research Framework, and Opportunities",
+"authors": [
+"Songhua Hao",
+"Changxi Wang",
+"Xiao-Lin Wang",
+"Min Xie"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "revise_resubmit"
+}
+]
+},
+"xunjie gou": {
+"name": "Xunjie Gou",
+"papers": []
+},
+"zhi li": {
+"name": "Zhi Li",
+"papers": []
+},
+"feng xiao": {
+"name": "Feng Xiao",
+"papers": []
+},
+"zhe chen": {
+"name": "Zhe Chen",
+"papers": []
+},
+"lu li": {
+"name": "Lu Li",
+"papers": []
+},
+"xian cheng": {
+"name": "Xian Cheng",
+"papers": []
+},
+"zhi cao": {
+"name": "Zhi Cao",
+"papers": [
+{
+"title": "Toward suppliers' corporate social responsibility performance: the role of relationship dependence",
+"authors": [
+"Cao, Z.",
+"Kim, D. Y.",
+"Mu, Y.",
+"Singhal, V."
+],
+"year": 2024,
+"venue": "International Journal of Operations & Production Management",
+"status": "published"
+},
+{
+"title": "AI in business research",
+"authors": [
+"Cao, Z.",
+"Li, M.",
+"Pavlou, P. A."
+],
+"year": 2024,
+"venue": "Decision Sciences",
+"status": "published"
+}
+]
+},
+"haina zhang": {
+"name": "Haina Zhang",
+"papers": []
+},
+"han ren": {
+"name": "Han Ren",
+"papers": []
+},
+"meng wang": {
+"name": "Meng Wang",
+"papers": []
+},
+"xin yang": {
+"name": "Xin Yang",
+"papers": []
+}
+}

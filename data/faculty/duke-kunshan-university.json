@@ -37,7 +37,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "paolo-epifani"
  },
  {
@@ -48,10 +48,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "experimental and behavioral economics, social networks, labor economics, applied microeconomics, agent-based modelling",
+  "fields_raw": "Experimental and behavioral economics; social network analysis; labor economics; applied microeconomics; agent-based modeling",
   "fields_std": [
-   "Behavioral Economics",
    "Experimental Economics",
+   "Behavioral Economics",
    "Labor Economics"
   ],
   "phd_institution": "University of Alicante",
@@ -78,7 +78,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "gergely-horvath"
  },
  {
@@ -89,9 +89,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Environment Research Center",
-  "fields_raw": "environmental economics, climate innovation, economics of climate change",
+  "fields_raw": "Energy economics; environmental economics; economics of innovation; international trade",
   "fields_std": [
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "International Trade",
+   "Entrepreneurship & Innovation"
   ],
   "phd_institution": "Iowa State University",
   "phd_year": null,
@@ -117,7 +119,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jingbo-cui"
  },
  {
@@ -158,7 +160,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "liuchun-deng"
  },
  {
@@ -178,10 +180,10 @@
   "phd_institution": "University of California, Davis",
   "phd_year": null,
   "phd_field": "Economics",
-  "ma_institution": "Universidad de Chile",
+  "ma_institution": "University of Chile",
   "ma_year": null,
   "ma_field": "Economics",
-  "ba_institution": "Universidad de Chile",
+  "ba_institution": "University of Chile",
   "ba_year": null,
   "ba_field": "Economics",
   "education_raw": "BA and MA in economics, Universidad de Chile; PhD, UC Davis",
@@ -199,7 +201,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "camila-saez-muller"
  },
  {
@@ -235,10 +237,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Research Associate, Duke University, since 2022",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "feifan-zhang"
  },
  {
@@ -249,9 +251,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "computational mechanism design, machine learning, human-AI interactions, blockchain",
+  "fields_raw": "Computational economics and social science (algorithmic game theory, mechanism design, causal inference); explainable and cooperative AI; crypto and token economics; behavioral and experimental economics; interdisciplinary big data",
   "fields_std": [
    "Microeconomic Theory",
+   "Behavioral Economics",
    "Data Science & Analytics"
   ],
   "phd_institution": "The Ohio State University",
@@ -278,7 +281,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "luyao-zhang"
  },
  {
@@ -315,10 +318,10 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": null,
-  "prior_positions": null,
+  "prior_positions": "Research Specialist, Princeton University (Industrial Relations Section); Intern, United Nations Department of Economic and Social Affairs",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "ming-gu"
  },
  {
@@ -331,9 +334,7 @@
   "other_units": null,
   "fields_raw": "economic history, political economy, development economics",
   "fields_std": [
-   "Economic History",
-   "Political Economy",
-   "Development Economics"
+   "Political Economy"
   ],
   "phd_institution": "University of Colorado Boulder",
   "phd_year": null,
@@ -359,7 +360,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "peiyuan-li"
  },
  {
@@ -399,7 +400,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "qian-wu"
  },
  {
@@ -439,7 +440,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "xiao-wang"
  },
  {
@@ -450,10 +451,10 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "urban and regional economics, health economics, causal inference",
+  "fields_raw": "Regional and urban economics; migration; population aging",
   "fields_std": [
    "Urban & Regional Economics",
-   "Health Economics"
+   "Labor Economics"
   ],
   "phd_institution": "The Ohio State University",
   "phd_year": 2018,
@@ -479,7 +480,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xiaochen-zhang"
  },
  {
@@ -518,7 +519,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "jaehee-choi"
  },
  {
@@ -558,7 +559,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "junjie-zhang"
  },
  {
@@ -569,9 +570,11 @@
   "unit_type": "environment",
   "area": null,
   "other_units": null,
-  "fields_raw": "environmental economics, forest ecological compensation, land use, policy evaluation",
+  "fields_raw": "Resource economics; environmental economics; conservation; program evaluation",
   "fields_std": [
-   "Environmental & Energy Economics"
+   "Agricultural & Resource Economics",
+   "Environmental & Energy Economics",
+   "Econometrics"
   ],
   "phd_institution": "Duke University",
   "phd_year": null,
@@ -597,7 +600,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wumeng-he"
  }
 ]
