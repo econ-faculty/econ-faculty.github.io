@@ -326,6 +326,7 @@ def do_import(raw_dir):
 
     roster_names = {uid: {norm(r.get("name")) for r in recs} for uid, recs in buckets.items()}
     enrich = defaultdict(dict)
+    enrich_pid = defaultdict(list)   # pid-tagged entries (same-name colleagues at one university), chosen by unit/PhD
     for f in sorted(glob.glob(os.path.join(raw_dir, "enrich", "*.json"))):
         if os.path.basename(f).startswith("_"):
             continue
@@ -335,6 +336,9 @@ def do_import(raw_dir):
             continue
         for e in json.load(open(f, encoding="utf-8")):
             k = norm(e.get("name"))
+            if e.get("pid") and len(us) == 1:
+                enrich_pid[us[0]].append(e)
+                continue
             if len(us) == 1:
                 enrich[us[0]][k] = e
                 continue
@@ -378,8 +382,16 @@ def do_import(raw_dir):
                         prev[k] = v
                 continue
             rec["id"] = slug(rec["name"])
-            e = enrich[uid].get(key) or enrich[uid].get(orig_key)
-            if e and norm(rec["name"]) in namesake | {k[:-3] for k in seen if k.endswith(" #2")} and not same_person(e, rec):
+            cands = [x for x in enrich_pid[uid] if norm(x.get("name")) == norm(rec["name"])]
+            if cands:   # namesakes: take the entry from this person's own page (same PhD, then same unit)
+                good = [x for x in cands if same_person(x, rec) and norm(x.get("phd_institution")) and norm(rec.get("phd_institution"))]
+                good = good or [x for x in cands if same_person(x, rec)]
+                if len(good) > 1:
+                    good = [x for x in good if norm(x.get("unit")) == norm(rec.get("unit"))]
+                e = good[0] if len(good) == 1 else None
+            else:
+                e = enrich[uid].get(key) or enrich[uid].get(orig_key)
+            if e and not cands and norm(rec["name"]) in namesake | {k[:-3] for k in seen if k.endswith(" #2")} and not same_person(e, rec):
                 e = None                       # enrichment is keyed by name; never copy it onto the wrong namesake
             if e:
                 for k in ENRICH_KEYS:
@@ -547,7 +559,7 @@ def build(check):
                 detail[pid]["papers_curated"] = cur.get("source_cv") or True
                 pending.append((pid, r["name"], len(people) - 1, ps, detail, True))
             else:
-                pv = upapers.get(norm(r["name"])) or {}
+                pv = upapers.get("pid:" + pid) or upapers.get(norm(r["name"])) or {}
                 ps = [paper_extracted(q) for q in pv.get("papers") or [] if q.get("title")]
                 pending.append((pid, r["name"], len(people) - 1, ps, detail, False))
             detail[pid]["fields"] = pf

@@ -1742,7 +1742,6 @@
   "other_units": null,
   "fields_raw": null,
   "fields_std": [
-   "Macroeconomics",
    "Financial Economics"
   ],
   "phd_institution": "University of Connecticut",
@@ -1766,7 +1765,7 @@
   "ba_country": null,
   "phd_advisors": null,
   "first_job_after_phd": "Lecturer, University of Connecticut (2010-2015)",
-  "prior_positions": "Lecturer, University of Connecticut, 2010-2015; Associate Professor, Southwestern University of Finance and Economics, 2015-2019",
+  "prior_positions": "Associate Professor, Southwestern University of Finance and Economics, 2015-2019; Lecturer, University of Connecticut, 2010-2015",
   "year_current_rank": null,
   "cv_date": null,
   "detail_source": "profile",
@@ -3329,10 +3328,10 @@
   "unit_type": "business",
   "area": "Management",
   "other_units": null,
-  "fields_raw": null,
+  "fields_raw": "Organizational behavior; e-commerce; business value of enterprise information systems; environmental performance of firms",
   "fields_std": [
-   "Organizational Behavior",
-   "Information Systems"
+   "Information Systems",
+   "Organizational Behavior"
   ],
   "phd_institution": "Hong Kong Polytechnic University",
   "phd_year": 2007,
@@ -3349,16 +3348,16 @@
   "cv_url": null,
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2010,
   "source_url": "https://ms.jnu.edu.cn/qb_13323/list.htm",
   "notes": "PhD in HK/Macau/Taiwan",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
+  "first_job_after_phd": "Research Associate, Hong Kong Polytechnic University (2007-2008)",
+  "prior_positions": "Professor, Shantou University Business School, 2008-2010; Visiting Scholar, Rotman School of Management, University of Toronto, 2009; Research Associate, Hong Kong Polytechnic University, 2007-2008; Associate Professor, Sun Yat-sen University, 2002-2003; Lecturer, Sun Yat-sen University, 1997-2002; Visiting Scholar, University of Illinois Urbana-Champaign, 1999-2001",
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "wei-wang"
  },
  {

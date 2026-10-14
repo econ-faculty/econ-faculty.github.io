@@ -8972,219 +8972,6 @@
 "name": "Zhiyong Dong",
 "papers": []
 },
-"bo li": {
-"name": "Bo Li",
-"papers": [
-{
-"title": "Assessing the distributional impacts of carbon pricing in China's agricultural sector",
-"authors": [
-"Bo Li",
-"Jing-Yu Liu"
-],
-"year": 2024,
-"venue": "Ecological Economics",
-"status": "published"
-},
-{
-"title": "Economic and Welfare Effects of Property Tax Reform: A Quantitative Study Based on Heterogeneous Agent Model",
-"authors": [
-"Bo Li",
-"Xiao Wang"
-],
-"year": 2023,
-"venue": "Journal of World Economy",
-"status": "published"
-},
-{
-"title": "A Quantitative Evaluation of Universal Basic Income",
-"authors": [
-"Bo Li",
-"Juan Carlos Conesa",
-"Qian Li"
-],
-"year": 2023,
-"venue": "Journal of Public Economics",
-"status": "published"
-},
-{
-"title": "Economic Policy Uncertainty, Investment Confidence and Level of Corporate Valuation",
-"authors": [
-"Bo Li",
-"Xiao Wang",
-"Yuxin Zhu"
-],
-"year": 2023,
-"venue": "Investment Research",
-"status": "published"
-},
-{
-"title": "Urban Intelligence, Residents Labor Supply, and Inclusive Employment - Evidence from a Quasi-natural Experiment",
-"authors": [
-"Bo Li",
-"Chengming Li",
-"Xiao Wang"
-],
-"year": 2023,
-"venue": "Research on Economics and Management",
-"status": "published"
-},
-{
-"title": "Optimally biased contests with draws",
-"authors": [
-"Bo Li",
-"Zenan Wu",
-"Zeyu Xing"
-],
-"year": 2023,
-"venue": "Economics Letters",
-"status": "published"
-},
-{
-"title": "Simulating Rise and Fall Cycles of Vietnam Empires",
-"authors": [
-"Bo Li",
-"Peng Lv"
-],
-"year": 2023,
-"venue": "Fundamental Research",
-"status": "published"
-},
-{
-"title": "Promote the Circulation of the National Economy and Promote the Balanced Development of Supply and Demand",
-"authors": [
-"Bo Li",
-"Han Shi"
-],
-"year": 2022,
-"venue": "Review of Financial & Technological Economics",
-"status": "published"
-},
-{
-"title": "Quantitative Analysis of Health Insurance Reform in China: Pure Consolidation or Universal Health Insurance?",
-"authors": [
-"Bo Li",
-"Hanyang Wang",
-"Kun Cui"
-],
-"year": 2021,
-"venue": "Economic Modelling",
-"status": "published"
-},
-{
-"title": "Impact of Property Tax Levy on Housing Price and Rent: Theoretical Models and Simulation with Insights on the Timing of China Adopting the Property Tax",
-"authors": [
-"Bo Li",
-"Ping Zhang",
-"Yilin Hou"
-],
-"year": 2020,
-"venue": "Finance & Trade Economics",
-"status": "published"
-},
-{
-"title": "Welfare Implications of Switching to Consumption Taxation",
-"authors": [
-"Bo Li",
-"Juan Carlos Conesa",
-"Qian Li"
-],
-"year": 2020,
-"venue": "Journal of Economic Dynamics and Control",
-"status": "published"
-},
-{
-"title": "Forward Guidance and Fiscal Policy Coordination: Solving Stimulus When Inequality Matters",
-"authors": [
-"Bo Li",
-"Xiao Wang",
-"Christian Payne Hennigan"
-],
-"year": null,
-"venue": null,
-"status": "revise_resubmit"
-},
-{
-"title": "From 'Home Ownership Scheme' to 'Meeting the Housing Needs': The Economic and Welfare Effects of Government-subsidized Rental Housing",
-"authors": [
-"Bo Li",
-"Xiao Wang",
-"Hui Zhang"
-],
-"year": null,
-"venue": null,
-"status": "revise_resubmit"
-},
-{
-"title": "How Government Expenditure Redistributes Household Wealth in China: The Diverse Effects of Public Expenditure on the Housing Asset Value",
-"authors": [
-"Bo Li",
-"Ping Zhang",
-"Xiao Wang"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Rational stock bubbles and policy analysis",
-"authors": [
-"Bo Li",
-"Ke Dong"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Changes in Housing Markets and Spatial Sorting in the United States",
-"authors": [
-"Bo Li",
-"Juan Carlos Conesa"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Worker Relocation, Housing Markets, and the Distribution of Economic Shocks Across Locations",
-"authors": [
-"Bo Li"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "The Cost of Rent and Purchase of Urban Housing and the Choice of New Citizens' Inflow",
-"authors": [
-"Bo Li",
-"Xiao Wang",
-"Daixin He"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "A Study on the Emotional Index of the Real Estate Market Based on Natural Language Processing Technology",
-"authors": [
-"Bo Li"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Economic Policy, Regional Development and Macroeconomics",
-"authors": [
-"Bo Li"
-],
-"year": 2023,
-"venue": "China Social Sciences Press",
-"status": "published"
-}
-]
-},
 "fanqi shi": {
 "name": "Fanqi Shi",
 "papers": [
@@ -13890,276 +13677,6 @@
 "Guoman She"
 ],
 "year": null,
-"venue": null,
-"status": "working_paper"
-}
-]
-},
-"hui wang": {
-"name": "Hui Wang",
-"papers": [
-{
-"title": "Education competition and fertility intention: Evidence from China's private tutoring ban",
-"authors": [
-"Hui Wang",
-"Juanjuan Meng",
-"Yu Yang",
-"Mingshan Zhang"
-],
-"year": 2025,
-"venue": "Economic Journal",
-"status": "forthcoming"
-},
-{
-"title": "The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Local Synergies and Competition",
-"authors": [
-"Hui Wang",
-"Victor Aguirregabiria",
-"Robert Clark"
-],
-"year": 2025,
-"venue": "American Economic Review",
-"status": "published"
-},
-{
-"title": "Is an Ounce of Prevention Worth a Pound of Cure? Evidence from a Large-Scale Vaccination Experiment in China",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"Eik Swee",
-"Qingqing Zong"
-],
-"year": 2025,
-"venue": "Journal of Comparative Economics",
-"status": "published"
-},
-{
-"title": "Worker Congresses in China: Do They Matter?",
-"authors": [
-"Hui Wang",
-"Morley Gunderson",
-"Byron Lee"
-],
-"year": 2024,
-"venue": "Industrial Relations",
-"status": "published"
-},
-{
-"title": "Little Emperors in the Workplace: Labor Market Consequence of China’s One-Child Policy",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"Eik Swee"
-],
-"year": 2023,
-"venue": "China Economic Review",
-"status": "published"
-},
-{
-"title": "The Long-Term Effects of Christian Activities in China",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"Se Yan"
-],
-"year": 2022,
-"venue": "Journal of Comparative Economics",
-"status": "published"
-},
-{
-"title": "Demographics and Entrepreneurship",
-"authors": [
-"Hui Wang",
-"James Liang",
-"Edward P. Lazear"
-],
-"year": 2018,
-"venue": "Journal of Political Economy",
-"status": "published"
-},
-{
-"title": "Diversification of Geographic Risk in Retail Bank Networks: Evidence from Bank Expansion after the Riegle-Neal Act",
-"authors": [
-"Hui Wang",
-"Victor Aguirregabiria",
-"Robert Clark"
-],
-"year": 2016,
-"venue": "RAND Journal of Economics",
-"status": "published"
-},
-{
-"title": "Union Pay Premium in China: an Individual-level Analysis",
-"authors": [
-"Hui Wang",
-"Morley Gunderson",
-"Byron Lee"
-],
-"year": 2016,
-"venue": "International Journal of Manpower",
-"status": "published"
-},
-{
-"title": "Quantifying the Impacts of Limited Supply: The Case of Nursing Homes",
-"authors": [
-"Hui Wang",
-"Andrew T. Ching",
-"Fumiko Hayashi"
-],
-"year": 2015,
-"venue": "International Economic Review",
-"status": "published"
-},
-{
-"title": "Compensating for Unequal Parental Investments in Schooling",
-"authors": [
-"Hui Wang",
-"Loren Brandt",
-"Aloysius Siow"
-],
-"year": 2015,
-"venue": "Journal of Population Economics",
-"status": "published"
-},
-{
-"title": "Family Education Expenditure and Physical/Mental Health --- The Effect of ‘Double Reduction’ Policy",
-"authors": [
-"Hui Wang",
-"Juanjuan Meng",
-"Yu Wang",
-"Mingshan Zhang"
-],
-"year": 2024,
-"venue": "Quarterly Journal of Economics and Management",
-"status": "published"
-},
-{
-"title": "The Impact of Family Planning Relaxation on Household Saving Rate: An Investigation on the ‘Conditional Two-child’ Policy",
-"authors": [
-"Hui Wang",
-"Chenglong Cao"
-],
-"year": 2022,
-"venue": "China Journal of Economics",
-"status": "published"
-},
-{
-"title": "Split-share Reform, State Ownership and Performance of Chinese Public Firms: An Empirical Investigation",
-"authors": [
-"Hui Wang",
-"Wanjuan Lin",
-"Tao Han"
-],
-"year": 2016,
-"venue": "Journal of Financial Research",
-"status": "published"
-},
-{
-"title": "The Abolition of Agricultural Taxes, Fiscal Centralization and Rural Public Goods",
-"authors": [
-"Hui Wang",
-"Boxiao Zhang"
-],
-"year": 2015,
-"venue": "China Journal of Economics",
-"status": "published"
-},
-{
-"title": "Care Selection of Older Adults in China: Informal or Formal Care – Empirical Study Based on the Data of CLHLS and CHARLS",
-"authors": [
-"Hui Wang",
-"Wanjuan Lin",
-"Zhenpeng Zhou"
-],
-"year": 2014,
-"venue": "Journal of Shanghai University of Finance and Economics",
-"status": "published"
-},
-{
-"title": "Impacts of Railroad Construction in Late Qing Dynasty and Early Republican China on Long-term Economic Development",
-"authors": [
-"Hui Wang",
-"Se Yan",
-"Chong Liu"
-],
-"year": 2014,
-"venue": "China Journal of Economics",
-"status": "published"
-},
-{
-"title": "Self-selection and comparative advantage in education decisions: evidence from China",
-"authors": [
-"Hui Wang",
-"Wanjuan Lin",
-"Xiaolu Zhou"
-],
-"year": 2014,
-"venue": "Economic Science",
-"status": "published"
-},
-{
-"title": "On the Inefficiency of Complete Outlawing of Tobacco Advertisements",
-"authors": [
-"Hui Wang"
-],
-"year": 2002,
-"venue": "China Economic Quarterly",
-"status": "published"
-},
-{
-"title": "Large-Firm Wage Premium in China’s Dual Labor Market",
-"authors": [
-"Hui Wang",
-"Hong Cheng",
-"Hongbin Li",
-"Li-an Zhou"
-],
-"year": 2025,
-"venue": "Economic Development and Cultural Change",
-"status": "revise_resubmit"
-},
-{
-"title": "Consumer Demand for Network Convenience: New Evidence Using Worker Flow Data",
-"authors": [
-"Hui Wang",
-"Andrew Ching",
-"Xinyu Zhao"
-],
-"year": 2024,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Setting the Bench Higher: The Impact of Judge Evaluation Reform on Judicial Performance in China",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"Yunfeng Song",
-"Qingxu Yang"
-],
-"year": 2024,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Are Preferences for Tax Policies Elastic to Tax Salience? Evidence from a Survey Experiment",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"Xuan Wang"
-],
-"year": 2020,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Salience of History and the Preference for Redistribution",
-"authors": [
-"Hui Wang",
-"Yuyu Chen",
-"David Yang"
-],
-"year": 2016,
 "venue": null,
 "status": "working_paper"
 }
@@ -36299,6 +35816,1168 @@
 ],
 "year": 2024,
 "venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+}
+]
+},
+"pid:bo-li--pku": {
+"name": "Bo Li",
+"papers": [
+{
+"title": "Assessing the distributional impacts of carbon pricing in China’s agricultural sector",
+"authors": [
+"Bo Li",
+"Jing-Yu Liu"
+],
+"year": 2024,
+"venue": "Ecological Economics",
+"status": "published"
+},
+{
+"title": "Economic and Welfare Effects of Property Tax Reform: A Quantitative Study Based on Heterogeneous Agent Model",
+"authors": [
+"Bo Li",
+"Xiao Wang"
+],
+"year": 2023,
+"venue": "The Journal of Word Economy",
+"status": "published"
+},
+{
+"title": "A Quantitative Evaluation of Universal Basic Income",
+"authors": [
+"Bo Li",
+"Juan Carlos Conesa",
+"Qian Li"
+],
+"year": 2023,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Economic Policy Uncertainty, Investment Confidence and Level of Corporate Valuation",
+"authors": [
+"Bo Li",
+"Xiao Wang",
+"Yuxin Zhu"
+],
+"year": 2023,
+"venue": "Investment Research",
+"status": "published"
+},
+{
+"title": "Urban Intelligence, Residents Labor Supply, and Inclusive Employment - Evidence from a Quasi-natural Experiment",
+"authors": [
+"Bo Li",
+"Chengming Li",
+"Xiao Wang"
+],
+"year": 2023,
+"venue": "Research on Economics and Management",
+"status": "published"
+},
+{
+"title": "Optimally biased contests with draws",
+"authors": [
+"Bo Li",
+"Zenan Wu",
+"Zeyu Xing"
+],
+"year": 2023,
+"venue": "Economic Letters",
+"status": "published"
+},
+{
+"title": "Simulating Rise and Fall Cycles of Vietnam Empires",
+"authors": [
+"Bo Li",
+"Peng Lv"
+],
+"year": 2023,
+"venue": "Fundamental Research",
+"status": "published"
+},
+{
+"title": "Promote the Circulation of the National Economy and Promote the Balanced Development of Supply and Demand",
+"authors": [
+"Bo Li",
+"Han Shi"
+],
+"year": 2022,
+"venue": "Review of Financial & Technological Economics",
+"status": "published"
+},
+{
+"title": "Quantitative Analysis of Health Insurance Reform in China: Pure Consolidation or Universal Health Insurance?",
+"authors": [
+"Bo Li",
+"Hanyang Wang",
+"Kun Cui"
+],
+"year": 2021,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Impact of Property Tax Levy on Housing Price and Rent: Theoretical Models and Simulation with Insights on the Timing of China Adopting the Property Tax",
+"authors": [
+"Bo Li",
+"Ping Zhang",
+"Yilin Hou"
+],
+"year": 2020,
+"venue": "Finance & Trade Economics",
+"status": "published"
+},
+{
+"title": "Welfare Implications of Switching to Consumption Taxation",
+"authors": [
+"Bo Li",
+"Juan Carlos Conesa",
+"Qian Li"
+],
+"year": 2020,
+"venue": "Journal of Economic and Dynamics Control",
+"status": "published"
+},
+{
+"title": "Forward Guidance and Fiscal Policy Coordination: Solving Stimulus When Inequality Matters",
+"authors": [
+"Bo Li",
+"Xiao Wang",
+"Christian Payne Hennigan"
+],
+"year": null,
+"venue": null,
+"status": "revise_resubmit"
+},
+{
+"title": "From “Home Ownership Scheme” to “Meeting the Housing Needs”: The Economic and Welfare Effects of Government-subsidized Rental Housing",
+"authors": [
+"Bo Li",
+"Xiao Wang",
+"Hui Zhang"
+],
+"year": null,
+"venue": null,
+"status": "revise_resubmit"
+},
+{
+"title": "How Government Expenditure Redistributes Household Wealth in China: The Diverse Effects of Public Expenditure on the Housing Asset Value",
+"authors": [
+"Bo Li",
+"Ping Zhang",
+"Xiao Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Rational stock bubbles and policy analysis",
+"authors": [
+"Bo Li",
+"Ke Dong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Changes in Housing Markets and Spatial Sorting in the United States",
+"authors": [
+"Bo Li",
+"Juan Carlos Conesa"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Worker Relocation, Housing Markets, and the Distribution of Economic Shocks Across Locations",
+"authors": [
+"Bo Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Cost of Rent and Purchase of Urban Housing and the Choice of New Citizens' Inflow",
+"authors": [
+"Bo Li",
+"Xiao Wang",
+"Daixin He"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Study on the Emotional Index of the Real Estate Market Based on Natural Language Processing Technology",
+"authors": [
+"Bo Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pid:hui-wang--pku": {
+"name": "Hui Wang",
+"papers": [
+{
+"title": "Education competition and fertility intention: Evidence from China's private tutoring ban",
+"authors": [
+"Hui Wang",
+"Juajuan Meng",
+"Yu Yang",
+"Mingshan Zhang"
+],
+"year": 2025,
+"venue": "Economic Journal",
+"status": "forthcoming"
+},
+{
+"title": "The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Local Synergies and Competition",
+"authors": [
+"Hui Wang",
+"Victor Aguirregabiria",
+"Robert Clark"
+],
+"year": 2025,
+"venue": "American Economic Review",
+"status": "published"
+},
+{
+"title": "Is an Ounce of Prevention Worth a Pound of Cure? Evidence from a Large-Scale Vaccination Experiment in China",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"Eik Swee",
+"Qingqing Zong"
+],
+"year": 2025,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Worker Congresses in China: Do They Matter?",
+"authors": [
+"Hui Wang",
+"Morley Gunderson",
+"Byron Lee"
+],
+"year": 2024,
+"venue": "Industrial Relations",
+"status": "published"
+},
+{
+"title": "Little Emperors in the Workplace: Labor Market Consequence of China’s One-Child Policy",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"Eik Swee"
+],
+"year": 2023,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "The Long-Term Effects of Christian Activities in China",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"Se Yan"
+],
+"year": 2022,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "Demographics and Entrepreneurship",
+"authors": [
+"Hui Wang",
+"James Liang",
+"Edward P. Lazear"
+],
+"year": 2018,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Diversification of Geographic Risk in Retail Bank Networks: Evidence from Bank Expansion after the Riegle-Neal Act",
+"authors": [
+"Hui Wang",
+"Victor Aguirregabiria",
+"Robert Clark"
+],
+"year": 2016,
+"venue": "RAND Journal of Economics",
+"status": "published"
+},
+{
+"title": "Union Pay Premium in China: an Individual-level Analysis",
+"authors": [
+"Hui Wang",
+"Morley Gunderson",
+"Byron Lee"
+],
+"year": 2016,
+"venue": "International Journal of Manpower",
+"status": "published"
+},
+{
+"title": "Quantifying the Impacts of Limited Supply: The Case of Nursing Homes",
+"authors": [
+"Hui Wang",
+"Andrew T. Ching",
+"Fumiko Hayashi"
+],
+"year": 2015,
+"venue": "International Economic Review",
+"status": "published"
+},
+{
+"title": "Compensating for Unequal Parental Investments in Schooling",
+"authors": [
+"Hui Wang",
+"Loren Brandt",
+"Aloysius Siow"
+],
+"year": 2015,
+"venue": "Journal of Population Economics",
+"status": "published"
+},
+{
+"title": "Family Education Expenditure and Physical/Mental Health --- The Effect of ‘Double Reduction’ Policy",
+"authors": [
+"Hui Wang",
+"Juanjuan Meng",
+"Yu Wang",
+"Mingshan Zhang"
+],
+"year": 2024,
+"venue": "Quarterly Journal of Economics and Management",
+"status": "published"
+},
+{
+"title": "The Impact of Family Planning Relaxation on Household Saving Rate: An Investigation on the ‘Conditional Two-child’ Policy",
+"authors": [
+"Hui Wang",
+"Chenglong Cao"
+],
+"year": 2022,
+"venue": "China Journal of Economics",
+"status": "published"
+},
+{
+"title": "Seventy Years of Population Dynamics and the Current Aging Challenge: A Literature Review and Policy Analysis",
+"authors": [
+"Hui Wang",
+"Qingxu Yang"
+],
+"year": 2019,
+"venue": "Journal of Macro-quality Research",
+"status": "published"
+},
+{
+"title": "Split-share Reform, State Ownership and Performance of Chinese Public Firms: An Empirical Investigation",
+"authors": [
+"Hui Wang",
+"Wanjuan Lin",
+"Tao Han"
+],
+"year": 2016,
+"venue": "Journal of Financial Research",
+"status": "published"
+},
+{
+"title": "The Abolition of Agricultural Taxes, Fiscal Centralization and Rural Public Goods",
+"authors": [
+"Hui Wang",
+"Boxiao Zhang"
+],
+"year": 2015,
+"venue": "China Journal of Economics",
+"status": "published"
+},
+{
+"title": "Care Selection of Older Adults in China: Informal or Formal Care – Empirical Study Based on the Data of CLHLS and CHARLS",
+"authors": [
+"Hui Wang",
+"Wanjuan Lin",
+"Zhenpeng Zhou"
+],
+"year": 2014,
+"venue": "Journal of Shanghai University of Finance and Economics",
+"status": "published"
+},
+{
+"title": "Impacts of Railroad Construction in Late Qing Dynasty and Early Republican China on Long-term Economic Development",
+"authors": [
+"Hui Wang",
+"Se Yan",
+"Chong Liu"
+],
+"year": 2014,
+"venue": "China Journal of Economics",
+"status": "published"
+},
+{
+"title": "Self-selection and comparative advantage in education decisions: evidence from China",
+"authors": [
+"Hui Wang",
+"Wanjuan Lin",
+"Xiaolu Zhou"
+],
+"year": 2014,
+"venue": "Economic Science",
+"status": "published"
+},
+{
+"title": "On the Inefficiency of Complete Outlawing of Tobacco Advertisements",
+"authors": [
+"Hui Wang"
+],
+"year": 2002,
+"venue": "China Economic Quarterly",
+"status": "published"
+},
+{
+"title": "Large-Firm Wage Premium in China’s Dual Labor Market",
+"authors": [
+"Hui Wang",
+"Hong Cheng",
+"Hongbin Li",
+"Li-an Zhou"
+],
+"year": 2025,
+"venue": "Economic Development and Cultural Change",
+"status": "revise_resubmit"
+},
+{
+"title": "Consumer Demand for Network Convenience: New Evidence Using Worker Flow Data",
+"authors": [
+"Hui Wang",
+"Andrew Ching",
+"Xinyu Zhao"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Setting the Bench Higher: The Impact of Judge Evaluation Reform on Judicial Performance in China",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"Yunfeng Song",
+"Qingxu Yang"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Are Preferences for Tax Policies Elastic to Tax Salience? Evidence from a Survey Experiment",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"Xuan Wang"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Salience of History and the Preference for Redistribution",
+"authors": [
+"Hui Wang",
+"Yuyu Chen",
+"David Yang"
+],
+"year": 2016,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pid:bo-li--pku-2": {
+"name": "Bo Li",
+"papers": [
+{
+"title": "Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance",
+"authors": [
+"Bo Li",
+"Michela Giorcelli"
+],
+"year": 2024,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "The Political Economy of Anti-Bribery Enforcement",
+"authors": [
+"Bo Li",
+"Lauren Cohen"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Borrowing from Friends of Friends: Indirect Social Networks and Bank Loans",
+"authors": [
+"Bo Li",
+"Sterling Huang",
+"Massimo Massa",
+"Hong Zhang",
+"Siyuan Yang"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Investing with the Government: A Field Experiment in China",
+"authors": [
+"Bo Li",
+"Emanuele Colonnelli",
+"Ernest Liu"
+],
+"year": 2024,
+"venue": "Journal of Political Economy",
+"status": "published"
+},
+{
+"title": "Bankruptcy Resolution in China",
+"authors": [
+"Bo Li",
+"Kose John",
+"Edith Hotchkiss",
+"Jacopo Ponticelli",
+"Wei Wang"
+],
+"year": 2023,
+"venue": "Annual Review of Financial Economics",
+"status": "published"
+},
+{
+"title": "Going Bankrupt in China",
+"authors": [
+"Bo Li",
+"Jacopo Ponticelli"
+],
+"year": 2022,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Senior Lender Control: Monitoring Spillover or Creditor Conflict?",
+"authors": [
+"Bo Li",
+"Wei Wang",
+"Lynnette Purda"
+],
+"year": 2018,
+"venue": "Journal of Law, Finance, and Accounting",
+"status": "published"
+},
+{
+"title": "Changing Seats Changes Minds: Randomized Seating and U.S. Legislative Outcomes",
+"authors": [
+"Bo Li",
+"Lauren Cohen"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pid:hui-wang--pku-2": {
+"name": "Hui Wang",
+"papers": [
+{
+"title": "Leader Humility and Team Creativity: The Role of Team Creative Efficacy and Task Interdependence",
+"authors": [
+"Li, R.",
+"Wang, S.",
+"Wang, H."
+],
+"year": null,
+"venue": "Journal of General Management",
+"status": "forthcoming"
+},
+{
+"title": "最大化收益还是最小化损失？CEO调节焦点的影响因素—基于中国上市公司面板数据的实证分析",
+"authors": [
+"朗艺",
+"王辉"
+],
+"year": null,
+"venue": "管理评论",
+"status": "forthcoming"
+},
+{
+"title": "Implicit Voice Delivery: Its Antecedents, Consequences, and Boundary Conditions",
+"authors": [
+"Ren, R.",
+"Ma, L.",
+"Chen, Z. X.",
+"Wang, H.",
+"Ju, D."
+],
+"year": 2021,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "服务型领导行为对员工建言的影响机制与边界研究",
+"authors": [
+"李晓萱",
+"王辉",
+"李野",
+"王颖"
+],
+"year": 2020,
+"venue": "财经理论与实践",
+"status": "published"
+},
+{
+"title": "CEO learning goal orientation and firm innovation: The mechanism and boundary conditions",
+"authors": [
+"Zhang, C.",
+"Wang, H."
+],
+"year": 2020,
+"venue": "Journal of Small Business Management",
+"status": "published"
+},
+{
+"title": "基于文化视角的中国领导学研究路径评述",
+"authors": [
+"孙秀丽",
+"王辉",
+"赵曙明"
+],
+"year": 2020,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "From Empowerment to Multilevel Creativity: The Role of Employee Self-Perceived Status and Feedback-Seeking Climate",
+"authors": [
+"Li, R.",
+"Wang, H.",
+"Huang, M."
+],
+"year": 2018,
+"venue": "Journal of Leadership & Organizational Studies",
+"status": "published"
+},
+{
+"title": "CEO Humility, Narcissism and Firm Innovation: A Paradox Perspective on CEO Traits",
+"authors": [
+"Zhang, H.",
+"Ou, A.Y.",
+"Tsui, A.S.",
+"Wang, H."
+],
+"year": 2017,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "高层管理者的辨证领导行为：一项探索性研究",
+"authors": [
+"黄鸣鹏",
+"王辉"
+],
+"year": 2017,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "谦卑型和自恋型领导:跨文化组织管理的视角",
+"authors": [
+"买热巴·买买提",
+"李野",
+"王辉"
+],
+"year": 2017,
+"venue": "心理科学进展",
+"status": "published"
+},
+{
+"title": "基于同事的视角领导-部属交换",
+"authors": [
+"郎艺",
+"王辉"
+],
+"year": 2017,
+"venue": "管理学报",
+"status": "published"
+},
+{
+"title": "Understanding the Curvilinear Relationships between LMX Differentiation and Team Coordination and Performance",
+"authors": [
+"Sui, Y.",
+"Wang, H.",
+"Kirkman, B. L.",
+"Li, N."
+],
+"year": 2016,
+"venue": "Personnel Psychology",
+"status": "published"
+},
+{
+"title": "领导权力分享对谁更有效——圈内人还是圈外 人",
+"authors": [
+"张好雨",
+"刘圣明",
+"王辉",
+"刘欣"
+],
+"year": 2016,
+"venue": "领导科学",
+"status": "published"
+},
+{
+"title": "领导权力分享、组织自尊和员工工作表现：内部人身份感知的调节作用",
+"authors": [
+"张好雨",
+"王辉",
+"郭理",
+"刘圣明"
+],
+"year": 2016,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "真诚型领导行为对团队创造力的影响",
+"authors": [
+"李燃",
+"王辉",
+"赵佳卉"
+],
+"year": 2016,
+"venue": "管理科学",
+"status": "published"
+},
+{
+"title": "领导与下属权力距离的一致性对下属工作绩效的影响及其机制",
+"authors": [
+"刘海洋",
+"刘圣明",
+"王辉",
+"徐敏亚"
+],
+"year": 2016,
+"venue": "南开管理评论",
+"status": "published"
+},
+{
+"title": "授权赋能领导行为与组织公民行为：员工的领导认同感和组织心理所有权的作用",
+"authors": [
+"郎艺",
+"王辉"
+],
+"year": 2016,
+"venue": "心理科学",
+"status": "published"
+},
+{
+"title": "Consideration for future consequences as an antecedent of transformational leadership behavior: The moderating effects of perceived dynamic work environment",
+"authors": [
+"Zhang, W.H.",
+"Wang, H.",
+"Pearce, C. L."
+],
+"year": 2014,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Organizational Inducements and Employee Citizenship Behavior: The Mediating Role of Perceived Insider Status and the Moderating Role of Collectivism",
+"authors": [
+"Hui, C.",
+"Lee, C.",
+"Wang, H."
+],
+"year": 2014,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "Relational Evaluation, Organization-Based Self-Esteem, and Performance: The Moderating Role of Allocentrism",
+"authors": [
+"Sui, Y.",
+"Wang, H."
+],
+"year": 2014,
+"venue": "Journal of Leadership & Organizational Studies",
+"status": "published"
+},
+{
+"title": "Impact of Authentic Leadership on Performance: Role of Followers’ Positive Psychological Capital and Relational Processes",
+"authors": [
+"Wang, H.",
+"Sui, Y.",
+"Luthans, F.",
+"Wang, D.",
+"Wu, Y.H."
+],
+"year": 2014,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Unraveling the Relationship Between Family-Supportive Supervisor and Employee Performance",
+"authors": [
+"Wang, P.",
+"Walumbwa, F. O.",
+"Wang, H.",
+"Aryee, S."
+],
+"year": 2013,
+"venue": "Group & Organization Management",
+"status": "published"
+},
+{
+"title": "中国企业战略型领导的三元模式",
+"authors": [
+"张文慧",
+"王辉"
+],
+"year": 2013,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "战略领导者成就动机, 冒险倾向与企业国际化",
+"authors": [
+"尹俊",
+"黄鸣鹏",
+"王辉",
+"裴学成"
+],
+"year": 2013,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "员工情感状态与工作满意度对工作绩效的影响: 领导-部属交换的调节作用",
+"authors": [
+"尹俊",
+"王辉",
+"刘斌"
+],
+"year": 2013,
+"venue": "商业研究",
+"status": "published"
+},
+{
+"title": "Strategic Leadership across Culture: Current Findings and Future research directions",
+"authors": [
+"Wang, H.",
+"Waldman, D.",
+"Zhang, H."
+],
+"year": 2012,
+"venue": "Journal of World Business",
+"status": "published"
+},
+{
+"title": "Psychological Ownership: How Having Control Matters",
+"authors": [
+"Liu, J.",
+"Wang, H.",
+"Hui, C.",
+"Lee, C."
+],
+"year": 2012,
+"venue": "Journal of Management Studies",
+"status": "published"
+},
+{
+"title": "Are the effects of conscientiousness on contextual and innovative performance context specific? Organizational culture as a moderator",
+"authors": [
+"Wang, H.",
+"Begley, T.",
+"Hui, C.",
+"Lee, C."
+],
+"year": 2012,
+"venue": "International Journal of Human Resource Management",
+"status": "published"
+},
+{
+"title": "Organizational antecedents of employee perceived organizational support in China: A grounded investigation",
+"authors": [
+"Zhang, Y.",
+"Farh, J.-L.",
+"Wang, H."
+],
+"year": 2012,
+"venue": "International Journal of Human Resource Management",
+"status": "published"
+},
+{
+"title": "中国企业环境下领导行为的研究述评：高管领导行为，领导授权赋能及领导-部属交换",
+"authors": [
+"王辉",
+"张翠莲"
+],
+"year": 2012,
+"venue": "心理科学进展",
+"status": "published"
+},
+{
+"title": "变革型领导对员工绩效和满意度的影响：心理资本的中介作用及程序公平的调节作用",
+"authors": [
+"隋杨",
+"王辉",
+"岳旖旎",
+"Fred Luthans"
+],
+"year": 2012,
+"venue": "心理学报",
+"status": "published"
+},
+{
+"title": "创新氛围、创新效能感与团队创新：团队领导的调节作用",
+"authors": [
+"隋杨",
+"陈云云",
+"王辉"
+],
+"year": 2012,
+"venue": "心理学报",
+"status": "published"
+},
+{
+"title": "授权赋能领导行为对员工内部人身份感知的影响：基于组织的自尊的调节作用",
+"authors": [
+"尹俊",
+"王辉",
+"黄鸣鹏"
+],
+"year": 2012,
+"venue": "心理学报",
+"status": "published"
+},
+{
+"title": "战略型领导行为于组织经营绩效: 组织文化的中介作用",
+"authors": [
+"王辉",
+"张文慧",
+"忻榕",
+"徐淑英"
+],
+"year": 2011,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "组织内交换关系, 心理授权与员工工作结果的研究",
+"authors": [
+"尹俊",
+"王辉"
+],
+"year": 2011,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "人力资源培训发展措施与员工组织承诺—组织公平的作用",
+"authors": [
+"张燕",
+"刘三锁",
+"章振",
+"王辉"
+],
+"year": 2011,
+"venue": "经济科学",
+"status": "published"
+},
+{
+"title": "Linking ethical leadership to employee performance: The roles of leader–member exchange, self-efficacy, and organizational identification",
+"authors": [
+"Walumbwa, F. O.",
+"Mayer, D. M.",
+"Wang, P.",
+"Wang, H.",
+"Workman, K.",
+"Christensen, A. L."
+],
+"year": 2011,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published"
+},
+{
+"title": "CEO Leadership Behaviors and Organizational Effectiveness: The Mediating Role of Employee Attitude",
+"authors": [
+"Wang, H.",
+"Tsui, A.S.",
+"Xin, K. R."
+],
+"year": 2011,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Psychological Processes Linking Authentic Leadership to Follower Behaviors",
+"authors": [
+"Walumbwa, F. O.",
+"Wang, P.",
+"Wang, H.",
+"Schaubroeck, J.",
+"Avolio, B."
+],
+"year": 2010,
+"venue": "Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "Currencies of Exchange and Global LMX: How They Affect Employee Task Performance and Extra-role Performance",
+"authors": [
+"Law, K. S.",
+"Wang, H.",
+"Hui, C."
+],
+"year": 2010,
+"venue": "Asia Pacific Journal of Management",
+"status": "published"
+},
+{
+"title": "Measuring Subjective Well-being: A Comparison of Chinese and American Cultures",
+"authors": [
+"Zhang, J.",
+"Yang, Y.",
+"Wang, H."
+],
+"year": 2009,
+"venue": "Asian Journal of Social Psychology",
+"status": "published"
+},
+{
+"title": "领导-部属交换对授权赋能领导行为的影响",
+"authors": [
+"王辉",
+"张文慧",
+"谢红"
+],
+"year": 2009,
+"venue": "经济管理",
+"status": "published"
+},
+{
+"title": "长期结果考量, 自我牺牲精神与领导授权赋能行为: 环境不确定性的调节作用",
+"authors": [
+"张文慧",
+"王辉"
+],
+"year": 2009,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "领导授权赋能行为的维度确认与测量",
+"authors": [
+"王辉",
+"武朝艳",
+"张燕",
+"陈昭全"
+],
+"year": 2008,
+"venue": "心理学报",
+"status": "published"
+},
+{
+"title": "Leader-member Exchange, Employee Performance, and Work Outcomes: An Empirical Study in the Chinese Context",
+"authors": [
+"Wang, H.",
+"Law, K. S.",
+"Chen, G."
+],
+"year": 2008,
+"venue": "International Journal of Human Resource Management",
+"status": "published"
+},
+{
+"title": "感知到的组织支持对人力资源管理措施和员工绩效的影响",
+"authors": [
+"张燕",
+"王辉",
+"樊景立"
+],
+"year": 2008,
+"venue": "管理科学学报",
+"status": "published"
+},
+{
+"title": "Task Interdependence and Culture: Moderating Effects on the Importance Attributed to Organizational Citizenship Behavior",
+"authors": [
+"Bachrach, D. G.",
+"Wang, H.",
+"Bendoly, E.",
+"Zhang, Z."
+],
+"year": 2007,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "Organizational Culture in the People’s Republic of China: An Analysis of Culture Dimensions and Culture Types",
+"authors": [
+"Tsui, A.S.",
+"Wang, H.",
+"Xin, K.R."
+],
+"year": 2006,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "Unpacking the Relationship between CEO Leadership Behavior and Organizational Culture",
+"authors": [
+"Tsui, A.S.",
+"Zhang, Z.",
+"Wang, H.",
+"Xin, K. R.",
+"Wu, J. B."
+],
+"year": 2006,
+"venue": "The Leadership Quarterly",
+"status": "published"
+},
+{
+"title": "ERP in the minds of supervisors: Joint roles of task interdependence and cultural norms",
+"authors": [
+"Bendoly, E.",
+"Bachrach, D.G.",
+"Wang, H.",
+"Zhang, S."
+],
+"year": 2006,
+"venue": "International Journal of Operations and Production Management",
+"status": "published"
+},
+{
+"title": "Leader-Member Exchange as a Mediator of the Relationship Between Transformational Leadership and Followers’ Performance and Organizational Citizenship Behavior",
+"authors": [
+"Wang, H.",
+"Law, S. K.",
+"Hackett, R.",
+"Wang, D.",
+"Chen, Z."
+],
+"year": 2005,
+"venue": "Academy of Management Journal",
 "status": "published"
 }
 ]

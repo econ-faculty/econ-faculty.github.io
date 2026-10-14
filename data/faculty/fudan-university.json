@@ -381,7 +381,7 @@
   "fields_raw": "Public economics; economic growth; Chinese economy",
   "fields_std": [
    "Public Economics",
-   "Development Economics"
+   "Macroeconomics"
   ],
   "phd_institution": "Peking University",
   "phd_year": 2004,
@@ -949,8 +949,7 @@
   "fields_raw": "Fiscal theory and policy; government performance research",
   "fields_std": [
    "Public Economics",
-   "Accounting",
-   "Corporate Finance"
+   "Public Policy"
   ],
   "phd_institution": "National University of Kyiv",
   "phd_year": 2002,
@@ -972,9 +971,9 @@
   "notes": "Source: English directory entry and CV; Chinese name 孙琳 (distinct from FISF faculty member 孙林)",
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": "Postdoctoral Researcher, School of Management, Fudan University (2002-2004)",
-  "prior_positions": "Distribution Accountant, Sino-France Joint Venture Ltd. Co., Jiamusi, 1993-1994; Assistant for Secretary, Department of Finance, Sino-France Joint Venture Ltd. Co., Jiamusi, 1997-1999; Postdoctoral Researcher, School of Management, Fudan University, 2002-2004; Lecturer, Department of Public Economics, School of Economics, Fudan University, 2004-2005",
-  "year_current_rank": 2005,
+  "first_job_after_phd": "Postdoc, Fudan University School of Management (2002-2004)",
+  "prior_positions": "Distribution Accountant, Sino-French Joint Venture Co., Ltd., 1993-1994; Assistant for Secretary, Sino-French Joint Venture Co., Ltd., 1997-1999",
+  "year_current_rank": null,
   "cv_date": null,
   "detail_source": "cv",
   "id": "lin-sun"
@@ -2087,11 +2086,10 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "实证资产定价、对冲基金、共同基金、ESG投资",
+  "fields_raw": "Empirical asset pricing; hedge funds; mutual funds",
   "fields_std": [
    "Asset Pricing",
-   "Financial Economics",
-   "Business Ethics & Society"
+   "Financial Economics"
   ],
   "phd_institution": "Singapore Management University",
   "phd_year": 2017,
@@ -2099,9 +2097,9 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": "National University of Singapore | 2011 | Quantitative Finance",
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "National University of Singapore",
+  "ba_year": 2011,
+  "ba_field": "Quantitative Finance",
   "education_raw": "学历信息： 新加坡管理大学金融学博士 研究方向： 实证资产定价、对冲基金、共同基金、ESG投资",
   "homepage_url": null,
   "profile_url": "https://fisf.fudan.edu.cn/show-65-70.html",
@@ -2117,7 +2115,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lin-sun"
  },
  {
@@ -2614,12 +2612,10 @@
   "unit_type": "business",
   "area": "Accounting",
   "other_units": null,
-  "fields_raw": "Financial Accounting, Auditing, Corporate Strategy & Risk Management, Corporate Governance & Internal Control",
+  "fields_raw": "Financial accounting; auditing; corporate strategy and risk management; corporate governance and internal control",
   "fields_std": [
-   "Corporate Finance",
-   "Banking & Financial Intermediation",
-   "Financial Economics",
-   "Accounting"
+   "Accounting",
+   "Corporate Finance"
   ],
   "phd_institution": "Nanjing University",
   "phd_year": 2006,
@@ -2645,7 +2641,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yan-zhang"
  },
  {

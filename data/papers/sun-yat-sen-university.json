@@ -4466,10 +4466,6 @@
 }
 ]
 },
-"yang yang": {
-"name": "Yang Yang",
-"papers": []
-},
 "erqi ge": {
 "name": "Erqi Ge",
 "papers": []
@@ -14991,5 +14987,469 @@
 "jingheng fan": {
 "name": "Jingheng Fan",
 "papers": []
+},
+"pid:yang-yang--sysu": {
+"name": "Yang Yang",
+"papers": []
+},
+"pid:yang-yang--sysu-2": {
+"name": "Yang Yang",
+"papers": [
+{
+"title": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
+"authors": [
+"Yu, Z.",
+"Yang, Y.",
+"Dong, J.",
+"Mukhopadhaya, P."
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "How does national green influence affect national environmental performance? Evidence from nations' practices in signing environmental provisions",
+"authors": [
+"Yang, Y.",
+"Chen, S.",
+"Shi, X.",
+"Yu, Z."
+],
+"year": 2026,
+"venue": "Economic Analysis and Policy",
+"status": "published"
+},
+{
+"title": "The digital mist under the green lighthouse: the crowding-out effect of local digital economy policies on corporate environmental performance",
+"authors": [
+"Yang, Y.",
+"Liang, R.",
+"Shi, X.",
+"Yu, Z.",
+"Hong, Y."
+],
+"year": 2026,
+"venue": "Journal of the Asia Pacific Economy",
+"status": "published"
+},
+{
+"title": "Outward market integration and the re-ranking of leading exporters in China",
+"authors": [
+"Yu, Z.",
+"Wang, T.",
+"Shi, X.",
+"Han, J.",
+"Yang, Y."
+],
+"year": 2026,
+"venue": "Structural Change and Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Does geographical proximity to supply chain networks enhance corporate environmental, social, and governance performance?",
+"authors": [
+"Yu, Z.",
+"Zhang, W.",
+"Shi, X.",
+"Yang, Y."
+],
+"year": 2026,
+"venue": "China & World Economy",
+"status": "published"
+},
+{
+"title": "Does Multimarket Participation Help Enterprises Survive Industry Distress? A Study Using Chinese Firm-Level Data",
+"authors": [
+"Mi, Y.",
+"Yu, Z.",
+"Mukhopadhaya, P.",
+"Yang, Y."
+],
+"year": 2025,
+"venue": "The World Economy",
+"status": "published"
+},
+{
+"title": "Rivalry signal transmission, technology spillover and corporate environmental performance",
+"authors": [
+"Yu, Z.",
+"Cheng, J.",
+"Shi, X.",
+"Yang, Y."
+],
+"year": 2025,
+"venue": "International Review of Economics and Finance",
+"status": "published"
+},
+{
+"title": "How does enterprise digitalization affect corporate carbon emission in China: A firm-level study",
+"authors": [
+"Yang, Y.",
+"Mukhopadhaya, P.",
+"Yu, Z."
+],
+"year": 2024,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Estimates of the trade and global value chain (GVC) effects of China's Pilot Free Trade Zones: a research based on the quantitative trade model",
+"authors": [
+"Yu, Z.",
+"Han, J.",
+"Shi, X.",
+"Yang, Y."
+],
+"year": 2024,
+"venue": "Journal of the Asia Pacific Economy",
+"status": "published"
+},
+{
+"title": "Firms' GVC positioning and corporate environmental performance: Micro evidence from China",
+"authors": [
+"Cheng, J.",
+"Yu, Z.",
+"Xue, Z.",
+"Yang, Y.",
+"Shi, X."
+],
+"year": 2024,
+"venue": "Structural Change and Economic Dynamics",
+"status": "published"
+},
+{
+"title": "Industrial Policy, Product Switching, and Export Performance",
+"authors": [
+"Dong, J.",
+"Yu, Z.",
+"Shi, X.",
+"Yang, Y."
+],
+"year": 2024,
+"venue": "China & World Economy",
+"status": "published"
+},
+{
+"title": "Local government debt and corporate digital transformation: Evidence from China",
+"authors": [
+"Yang, Y.",
+"Chen, W.",
+"Yu, Z."
+],
+"year": 2023,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "The Global Financial Crisis and China's Export in Belt and Road Countries: An Analysis Using Product-Level Data",
+"authors": [
+"Cheng, J.",
+"Yu, Z.",
+"Mukhopadhaya, P.",
+"Yang, Y."
+],
+"year": 2023,
+"venue": "Emerging Markets Finance and Trade",
+"status": "published"
+},
+{
+"title": "How does the go-with-the-flow export strategy affect corporate environmental performance?-Evidence from Chinese manufacturing firms",
+"authors": [
+"Yu, Z.",
+"Cheng, J.",
+"Shi, X.",
+"Yang, Y."
+],
+"year": 2022,
+"venue": "Business Strategy and the Environment",
+"status": "published"
+},
+{
+"title": "Relationship between city size and firm productivity - A new interpretation using the Chinese experience",
+"authors": [
+"Yang, Y.",
+"Mukhopadhaya, P.",
+"Yu, Z."
+],
+"year": 2020,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "重点产业政策与中国省际贸易隐含碳排放转移",
+"authors": [
+"杨扬",
+"韩佳容"
+],
+"year": 2024,
+"venue": "中山大学学报",
+"status": "published"
+},
+{
+"title": "城市产业多样化与劳动力流动",
+"authors": [
+"杨扬",
+"陈婉莹",
+"胡思衡"
+],
+"year": 2024,
+"venue": "产经评论",
+"status": "published"
+},
+{
+"title": "出生地规模、个体收入差距和城市规模分化",
+"authors": [
+"杨扬",
+"余壮雄",
+"冯柏睿"
+],
+"year": 2022,
+"venue": "南方经济",
+"status": "published"
+},
+{
+"title": "综合保税区政策推动出口企业转型升级了吗？",
+"authors": [
+"余壮雄",
+"张婕",
+"董洁妙",
+"杨扬"
+],
+"year": 2022,
+"venue": "统计研究",
+"status": "published"
+},
+{
+"title": "技术进步偏向对技能工资差距的影响——基于中国家庭收入调查微观数据的理论与实证研究",
+"authors": [
+"杨扬",
+"杨冉路"
+],
+"year": 2021,
+"venue": "产经评论",
+"status": "published"
+},
+{
+"title": "城市家庭住房不平等:户籍、禀赋还是城市特征",
+"authors": [
+"潘静",
+"杨扬"
+],
+"year": 2020,
+"venue": "贵州财经大学学报",
+"status": "published"
+},
+{
+"title": "营改增\"、税赋降低与企业生产率提升",
+"authors": [
+"杨扬",
+"李子越"
+],
+"year": 2020,
+"venue": "长安大学学报(社会科学版)",
+"status": "published"
+},
+{
+"title": "国家投资对区域经济发展的作用:实证评估与投资依赖",
+"authors": [
+"王曦",
+"李丽玲",
+"杨扬"
+],
+"year": 2020,
+"venue": "经济学报",
+"status": "published"
+},
+{
+"title": "企业信贷配置差异的货币成因",
+"authors": [
+"杨扬",
+"周健",
+"王曦"
+],
+"year": 2019,
+"venue": "金融经济学研究",
+"status": "published"
+},
+{
+"title": "人口老龄化、技术偏向是否加剧了中国劳动收入份额下降",
+"authors": [
+"杨扬",
+"张卫芳",
+"姜文辉"
+],
+"year": 2018,
+"venue": "经济问题",
+"status": "published"
+},
+{
+"title": "福建与东盟产业合作现状及推进路径分析",
+"authors": [
+"姜文辉",
+"杨扬"
+],
+"year": 2018,
+"venue": "集美大学学报(哲社版)",
+"status": "published"
+},
+{
+"title": "企业的\"国外关系\"与出口-内销定位",
+"authors": [
+"余壮雄",
+"闫苗苗",
+"杨扬"
+],
+"year": 2015,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "大城市的生产率优势：集聚与选择",
+"authors": [
+"余壮雄",
+"杨扬"
+],
+"year": 2014,
+"venue": "世界经济",
+"status": "published"
+},
+{
+"title": "市场向西、政治向东——中国国内资本流动方向的测算",
+"authors": [
+"余壮雄",
+"杨扬"
+],
+"year": 2014,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "中央投资对中国区域资本流动的影响",
+"authors": [
+"王曦",
+"杨扬",
+"余壮雄",
+"陈中飞"
+],
+"year": 2014,
+"venue": "中国工业经济",
+"status": "published"
+},
+{
+"title": "我国股市行业指数波动溢出的产业链逻辑——基于小波降噪和BEKK-GARCH模型的实证分析",
+"authors": [
+"杨扬",
+"林惜斌"
+],
+"year": 2013,
+"venue": "学术研究",
+"status": "published"
+},
+{
+"title": "城市产业调整速度、城市特征与区域发展模式",
+"authors": [
+"杨扬",
+"宋凌云",
+"舒元"
+],
+"year": 2013,
+"venue": "经济管理",
+"status": "published"
+},
+{
+"title": "我国股市行业收益率波动传导机制及其时变特征研究",
+"authors": [
+"杨扬",
+"林惜斌"
+],
+"year": 2013,
+"venue": "金融经济学研究",
+"status": "published"
+},
+{
+"title": "技术革新、产业层级分工与工资差异",
+"authors": [
+"杨扬",
+"冯睿",
+"舒元"
+],
+"year": 2011,
+"venue": "南方经济",
+"status": "published"
+},
+{
+"title": "农民社会价值与粮价调控",
+"authors": [
+"杨扬",
+"莫家伟"
+],
+"year": 2010,
+"venue": "经济学家",
+"status": "published"
+},
+{
+"title": "经济集聚与城市经济增长",
+"authors": [
+"杨扬",
+"余壮雄",
+"舒元"
+],
+"year": 2010,
+"venue": "当代经济科学",
+"status": "published"
+},
+{
+"title": "FDI的就业效应检验",
+"authors": [
+"杨扬",
+"余壮雄",
+"王美今"
+],
+"year": 2009,
+"venue": "经济学家",
+"status": "published"
+},
+{
+"title": "区域赶超与区域产业分工",
+"authors": [
+"舒元",
+"杨扬"
+],
+"year": 2009,
+"venue": "财贸经济",
+"status": "published"
+},
+{
+"title": "广东省内经济差距缩小及产业转移",
+"authors": [
+"杨扬",
+"徐现祥",
+"舒元"
+],
+"year": 2009,
+"venue": "经济管理",
+"status": "published"
+},
+{
+"title": "城市间产业集聚与产业分工演化——基于1998-2007广东省城市工业发展的实证分析",
+"authors": [
+"舒元",
+"杨扬"
+],
+"year": 2009,
+"venue": "国际经贸探索",
+"status": "published"
+},
+{
+"title": "房屋销售价格与租赁价格相互作用机制的实证研究",
+"authors": [
+"熊颖佳",
+"杨扬"
+],
+"year": 2006,
+"venue": "开放导报",
+"status": "published"
+}
+]
 }
 }

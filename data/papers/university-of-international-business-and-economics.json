@@ -645,124 +645,6 @@
 }
 ]
 },
-"xin zhao": {
-"name": "Xin Zhao",
-"papers": [
-{
-"title": "Acceptance Deadlines and Job Offer Design",
-"authors": [
-"Xin Zhao",
-"Changying Li"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Heterogeneity and Unanimity: Optimal Committees with Information Acquisition",
-"authors": [
-"Xin Zhao"
-],
-"year": null,
-"venue": "International Economic Review",
-"status": "revise_resubmit"
-},
-{
-"title": "Norms of Corruption in Politicians' Malfeasance",
-"authors": [
-"Xin Zhao",
-"Gustavo Bobonis",
-"Anke Kessler"
-],
-"year": null,
-"venue": "American Economic Journal: Microeconomics",
-"status": "revise_resubmit"
-},
-{
-"title": "How to Persuade a Group: Simultaneously or Sequentially?",
-"authors": [
-"Xin Zhao"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Non-Discriminatory Provisions in Credit Card Markets",
-"authors": [
-"Xin Zhao",
-"Ying Tung Chan",
-"Hongru Tan"
-],
-"year": null,
-"venue": null,
-"status": "working_paper"
-},
-{
-"title": "Voting to Persuade",
-"authors": [
-"Xin Zhao",
-"Tsz-Ning Wong",
-"Lily Ling Yang"
-],
-"year": 2024,
-"venue": "Games and Economic Behavior",
-"status": "published"
-},
-{
-"title": "Auction Design by an Informed Seller: A Foundation of Reserve Price Signalling",
-"authors": [
-"Xin Zhao"
-],
-"year": 2023,
-"venue": "Canadian Journal of Economics",
-"status": "published"
-},
-{
-"title": "Commitment and Cheap Talk in Search Deterrence",
-"authors": [
-"Xin Zhao",
-"S. Pan"
-],
-"year": 2023,
-"venue": "RAND Journal of Economics",
-"status": "published"
-},
-{
-"title": "FDI and Environmental Regulation: Pollution Haven or a Race to the Top?",
-"authors": [
-"Xin Zhao",
-"B. Dong",
-"J. Gong"
-],
-"year": 2012,
-"venue": "Journal of Regulatory Economics",
-"status": "published"
-},
-{
-"title": "International R&D Networks",
-"authors": [
-"Xin Zhao",
-"B. Dong",
-"J. Zhang",
-"L. Zu"
-],
-"year": 2011,
-"venue": "Review of International Economics",
-"status": "published"
-},
-{
-"title": "International Environmental Agreement Formation and Trade",
-"authors": [
-"Xin Zhao",
-"B. Dong"
-],
-"year": 2009,
-"venue": "Asia-Pacific Journal of Accounting and Economics",
-"status": "published"
-}
-]
-},
 "yulei peng": {
 "name": "Yulei Peng",
 "papers": []
@@ -1188,22 +1070,6 @@
 ],
 "year": 2015,
 "venue": "Defense and Peace Economics",
-"status": "published"
-}
-]
-},
-"yun wang": {
-"name": "Yun Wang",
-"papers": [
-{
-"title": "Factor Substitution and Labor Market Friction in the United States: 1954-2013",
-"authors": [
-"Yun Wang",
-"Mingming Jiang",
-"John Shideler"
-],
-"year": 2019,
-"venue": "Applied Economics",
 "status": "published"
 }
 ]
@@ -12084,6 +11950,227 @@
 ],
 "year": 2016,
 "venue": "Journal of Industrial Ecology",
+"status": "published"
+}
+]
+},
+"pid:xin-zhao--uibe": {
+"name": "Xin Zhao",
+"papers": [
+{
+"title": "Acceptance Deadlines and Job Offer Design",
+"authors": [
+"Xin Zhao",
+"Changying Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Heterogeneity and Unanimity: Optimal Committees with Information Acquisition",
+"authors": [
+"Xin Zhao"
+],
+"year": null,
+"venue": "International Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Norms of Corruption in Politicians' Malfeasance",
+"authors": [
+"Xin Zhao",
+"Gustavo Bobonis",
+"Anke Kessler"
+],
+"year": null,
+"venue": "American Economic Journal: Microeconomics",
+"status": "revise_resubmit"
+},
+{
+"title": "How to Persuade a Group: Simultaneously or Sequentially?",
+"authors": [
+"Xin Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Non-Discriminatory Provisions in Credit Card Markets",
+"authors": [
+"Xin Zhao",
+"Ying Tung Chan",
+"Hongru Tan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Voting to Persuade",
+"authors": [
+"Xin Zhao",
+"Tsz-Ning Wong",
+"Lily Ling Yang"
+],
+"year": 2024,
+"venue": "Games and Economic Behavior",
+"status": "published"
+},
+{
+"title": "Auction Design by an Informed Seller: A Foundation of Reserve Price Signalling",
+"authors": [
+"Xin Zhao"
+],
+"year": 2023,
+"venue": "Canadian Journal of Economics",
+"status": "published"
+},
+{
+"title": "Commitment and Cheap Talk in Search Deterrence",
+"authors": [
+"Xin Zhao",
+"S. Pan"
+],
+"year": 2023,
+"venue": "RAND Journal of Economics",
+"status": "published"
+},
+{
+"title": "FDI and Environmental Regulation: Pollution Haven or a Race to the Top?",
+"authors": [
+"Xin Zhao",
+"B. Dong",
+"J. Gong"
+],
+"year": 2012,
+"venue": "Journal of Regulatory Economics",
+"status": "published"
+},
+{
+"title": "International R&D Networks",
+"authors": [
+"Xin Zhao",
+"B. Dong",
+"J. Zhang",
+"L. Zu"
+],
+"year": 2011,
+"venue": "Review of International Economics",
+"status": "published"
+},
+{
+"title": "International Environmental Agreement Formation and Trade",
+"authors": [
+"Xin Zhao",
+"B. Dong"
+],
+"year": 2009,
+"venue": "Asia-Pacific Journal of Accounting and Economics",
+"status": "published"
+}
+]
+},
+"pid:xin-zhao--uibe-2": {
+"name": "Xin Zhao",
+"papers": []
+},
+"pid:yun-wang--uibe": {
+"name": "Yun Wang",
+"papers": [
+{
+"title": "Factor Substitution and Labor Market Friction in the United States: 1954-2013",
+"authors": [
+"Yun Wang",
+"Mingming Jiang",
+"John Shideler"
+],
+"year": 2019,
+"venue": "Applied Economics",
+"status": "published"
+}
+]
+},
+"pid:yun-wang--uibe-2": {
+"name": "Yun Wang",
+"papers": [
+{
+"title": "Static replication of impermanent loss for concentrated liquidity provision in decentralised markets",
+"authors": [
+"Jun Deng",
+"Hua Zong",
+"Yun Wang"
+],
+"year": 2023,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "The information advantage from existing bank- firm relationships -evidence from new clients' screening",
+"authors": [
+"Yun Wang",
+"Xiaoguang Yang"
+],
+"year": 2023,
+"venue": "Asia-Pacific Journal of Accounting & Economics",
+"status": "published"
+},
+{
+"title": "系统性金融风险再认知",
+"authors": [
+"杨晓光",
+"王云"
+],
+"year": 2022,
+"venue": "系统管理学报",
+"status": "published"
+},
+{
+"title": "Bank loan information and information asymmetry in the stock market: evidence from China",
+"authors": [
+"Yanyi Ye",
+"Yun Wang",
+"Xiaoguang Yang"
+],
+"year": 2022,
+"venue": "Financial Innovation",
+"status": "published"
+},
+{
+"title": "Social Proximity, Information, and Incentives in Local Bank Lending",
+"authors": [
+"Junbo Wang",
+"Yun Wang",
+"Chunchi Wu",
+"Xiaoguang Yang",
+"Lin Zhao"
+],
+"year": 2021,
+"venue": "Review of Corporate Finance Studies",
+"status": "published"
+},
+{
+"title": "机事不密:股灾年降息降准前的知情交易",
+"authors": [
+"叶彦艺",
+"王云",
+"万谍",
+"杨晓光"
+],
+"year": 2020,
+"venue": "管理科学学报",
+"status": "published"
+},
+{
+"title": "经济全球化背景下金融传染的特征与规律",
+"authors": [
+"程棵",
+"王云",
+"杨晓光"
+],
+"year": 2016,
+"venue": "广东财经大学学报",
 "status": "published"
 }
 ]

@@ -8196,53 +8196,6 @@
 }
 ]
 },
-"bo jiang": {
-"name": "Bo Jiang",
-"papers": [
-{
-"title": "The Effect of Demand Uncertainty on Channel Structure",
-"authors": [
-"Bo Jiang",
-"W. Cao",
-"D. Zhou"
-],
-"year": 2010,
-"venue": "European Journal of Operational Research",
-"status": "published"
-},
-{
-"title": "How Does a Retailer's Service Plan Affect a Manufacturer's Base Warranty?",
-"authors": [
-"Bo Jiang",
-"X. B. Zhang"
-],
-"year": 2011,
-"venue": "Management Science",
-"status": "published"
-},
-{
-"title": "Increasing Information Transparency: Implications of Consumer Price Posting for Consumers' Haggling Behavior and a Seller's Pricing Strategy",
-"authors": [
-"Bo Jiang",
-"X. B. Zhang"
-],
-"year": 2014,
-"venue": "Journal of Interactive Marketing",
-"status": "published"
-},
-{
-"title": "Competition in Multi-echelon Distributive Supply Chains with Linear Demand",
-"authors": [
-"Bo Jiang",
-"D. Zhou",
-"U. S. Karmarkar"
-],
-"year": 2015,
-"venue": "International Journal of Production Research",
-"status": "published"
-}
-]
-},
 "xuezhen tao": {
 "name": "Xuezhen Tao",
 "papers": []
@@ -8684,150 +8637,6 @@
 "xinbo wang": {
 "name": "Xinbo Wang",
 "papers": []
-},
-"qi sun": {
-"name": "Qi Sun",
-"papers": [
-{
-"title": "Consumer Boycotts, Country of Origin, and Product Competition: Evidence from China’s Automobile Market",
-"authors": [
-"Qi Sun",
-"Fang Wu",
-"Shanjun Li",
-"Rajdeep Grewal"
-],
-"year": 2021,
-"venue": "Management Science",
-"status": "published"
-},
-{
-"title": "Branding Cultural Products in International Markets: A Study of Hollywood Movies in China",
-"authors": [
-"Weihe Gao",
-"Li Ji",
-"Yong Liu",
-"Qi Sun"
-],
-"year": 2020,
-"venue": "Journal of Marketing",
-"status": "published"
-},
-{
-"title": "Brand Name Types and Consumer Demand: Evidence from China’s Automobile Market",
-"authors": [
-"Fang Wu",
-"Qi Sun",
-"Rajdeep Grewal",
-"Shanjun Li"
-],
-"year": 2019,
-"venue": "Journal of Marketing Research",
-"status": "published"
-},
-{
-"title": "Warranty Regulation and Consumer Demand: Evidence from China’s Automobile Market",
-"authors": [
-"Qi Sun",
-"Fang Wu"
-],
-"year": 2016,
-"venue": "Journal of Regulatory Economics",
-"status": "published"
-},
-{
-"title": "Energy Pricing Reform and Energy Efficiency in China: Evidence from the Automobile Market",
-"authors": [
-"Qi Sun",
-"Lin Xu",
-"Hua Yin"
-],
-"year": 2016,
-"venue": "Resource and Energy Economics",
-"status": "published"
-},
-{
-"title": "How Do Smokers Respond to Cigarette Taxes? Evidence from China's Cigarette Industry",
-"authors": [
-"Hong Liu",
-"John A. Rizzo",
-"Qi Sun",
-"Fang Wu"
-],
-"year": 2015,
-"venue": "Health Economics",
-"status": "published"
-},
-{
-"title": "Social Learning and Health Insurance Enrollment: Evidence from China's New Cooperative Medical Scheme",
-"authors": [
-"Hong Liu",
-"Qi Sun",
-"Zhong Zhao"
-],
-"year": 2014,
-"venue": "Journal of Economic Behavior & Organization",
-"status": "published"
-},
-{
-"title": "Content Creation Strategy Under Peer Influence on Social Media Platforms",
-"authors": [
-"Mengyang Sun",
-"Qi Sun",
-"Diandian Xiang",
-"Rajdeep Grewal"
-],
-"year": 2025,
-"venue": "Journal of Marketing Research",
-"status": "revise_resubmit"
-},
-{
-"title": "Peer Effects in Product Exit Strategy: Evidence from the Movie Industry",
-"authors": [
-"Mengyang Sun",
-"Qi Sun",
-"Xuezhen Tao"
-],
-"year": 2025,
-"venue": "Journal of the Academy of Marketing Science",
-"status": "revise_resubmit"
-},
-{
-"title": "The Impact of Air Pollution on Consumer Shopping Behavior and Store Performance in the Fashion Industry",
-"authors": [
-"Yanyu Li",
-"Qi Sun",
-"Fang Wu",
-"Yi Xiang"
-],
-"year": 2025,
-"venue": "Journal of Retailing",
-"status": "revise_resubmit"
-},
-{
-"title": "The Impact of Follower-Based Status Change on Influencer Content Creation: Evidence from a Regression Discontinuity Approach",
-"authors": [
-"Xiuli Zhong",
-"Wu Fang",
-"Qi Sun",
-"Junni Chen"
-],
-"year": 2025,
-"venue": "Journal of Interactive Marketing",
-"status": "revise_resubmit"
-},
-{
-"title": "Impacts of Product-line Breadth on the Effectiveness of Advertising and Consumer Word-of-Mouth: Evidence from China’s Automobile Market",
-"authors": [
-"Shuying Gong",
-"Chenxi Li",
-"Qi Sun",
-"Fang Wu"
-],
-"year": 2025,
-"venue": "Journal of Interactive Marketing",
-"status": "revise_resubmit"
-}
-]
 },
 "sangjo kim": {
 "name": "Sangjo Kim",
@@ -17724,6 +17533,357 @@
 "year": 2021,
 "venue": "Pattern Recognition",
 "status": "published"
+}
+]
+},
+"pid:bo-jiang--sufe": {
+"name": "Bo Jiang",
+"papers": [
+{
+"title": "The Effect of Demand Uncertainty on Channel Structure",
+"authors": [
+"Bo Jiang",
+"W. Cao",
+"D. Zhou"
+],
+"year": 2010,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "How Does a Retailer's Service Plan Affect a Manufacturer's Base Warranty?",
+"authors": [
+"Bo Jiang",
+"X. B. Zhang"
+],
+"year": 2011,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Increasing Information Transparency: Implications of Consumer Price Posting for Consumers’ Haggling Behavior and a Seller's Pricing Strategy",
+"authors": [
+"Bo Jiang",
+"X. B. Zhang"
+],
+"year": 2014,
+"venue": "Journal of Interactive Marketing",
+"status": "published"
+},
+{
+"title": "Competition in Multi-echelon Distributive Supply Chains with Linear Demand",
+"authors": [
+"Bo Jiang",
+"D. Zhou",
+"U. S. Karmarkar"
+],
+"year": 2015,
+"venue": "International Journal of Production Research",
+"status": "published"
+}
+]
+},
+"pid:qi-sun--sufe": {
+"name": "Qi Sun",
+"papers": [
+{
+"title": "Consumer Boycotts, Country of Origin, and Product Competition: Evidence from China’s Automobile Market",
+"authors": [
+"Sun, Qi",
+"Fang Wu",
+"Shanjun Li",
+"Rajdeep Grewal"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Branding Cultural Products in International Markets: A Study of Hollywood Movies in China",
+"authors": [
+"Gao, Weihe",
+"Li Ji",
+"Yong Liu",
+"Qi Sun"
+],
+"year": 2020,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "Brand Name Types and Consumer Demand: Evidence from China’s Automobile Market",
+"authors": [
+"Wu, Fang",
+"Qi Sun",
+"Rajdeep Grewal",
+"Shanjun Li"
+],
+"year": 2019,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Warranty Regulation and Consumer Demand: Evidence from China’s Automobile Market",
+"authors": [
+"Sun, Qi",
+"Fang Wu"
+],
+"year": 2016,
+"venue": "Journal of Regulatory Economics",
+"status": "published"
+},
+{
+"title": "Energy Pricing Reform and Energy Efficiency in China: Evidence from the Automobile Market",
+"authors": [
+"Sun, Qi",
+"Lin Xu",
+"Hua Yin"
+],
+"year": 2016,
+"venue": "Resource and Energy Economics",
+"status": "published"
+},
+{
+"title": "How Do Smokers Respond to Cigarette Taxes? Evidence from China's Cigarette Industry",
+"authors": [
+"Liu, Hong",
+"John A. Rizzo",
+"Qi Sun",
+"Fang Wu"
+],
+"year": 2015,
+"venue": "Health Economics",
+"status": "published"
+},
+{
+"title": "Social Learning and Health Insurance Enrollment: Evidence from China's New Cooperative Medical Scheme",
+"authors": [
+"Liu, Hong",
+"Qi Sun",
+"Zhong Zhao"
+],
+"year": 2014,
+"venue": "Journal of Economic Behavior & Organization",
+"status": "published"
+},
+{
+"title": "Content Creation Strategy Under Peer Influence on Social Media Platforms",
+"authors": [
+"Sun, Mengyang",
+"Qi Sun",
+"Diandian Xiang",
+"Rajdeep Grewal"
+],
+"year": 2025,
+"venue": "Journal of Marketing Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Peer Effects in Product Exit Strategy: Evidence from the Movie Industry",
+"authors": [
+"Sun, Mengyang",
+"Qi Sun",
+"Xuezhen Tao"
+],
+"year": 2025,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "revise_resubmit"
+},
+{
+"title": "The Impact of Air Pollution on Consumer Shopping Behavior and Store Performance in the Fashion Industry",
+"authors": [
+"Li, Yanyu",
+"Qi Sun",
+"Fang Wu",
+"Yi Xiang"
+],
+"year": 2025,
+"venue": "Journal of Retailing",
+"status": "revise_resubmit"
+},
+{
+"title": "The Impact of Follower-Based Status Change on Influencer Content Creation: Evidence from a Regression Discontinuity Approach",
+"authors": [
+"Zhong, Xiuli",
+"Wu Fang",
+"Qi Sun",
+"Junni Chen"
+],
+"year": 2025,
+"venue": "Journal of Interactive Marketing",
+"status": "revise_resubmit"
+},
+{
+"title": "Impacts of Product-line Breadth on the Effectiveness of Advertising and Consumer Word-of-Mouth: Evidence from China’s Automobile Market",
+"authors": [
+"Gong, Shuying",
+"Chenxi Li",
+"Qi Sun",
+"Fang Wu"
+],
+"year": 2025,
+"venue": "Journal of Interactive Marketing",
+"status": "revise_resubmit"
+}
+]
+},
+"pid:qi-sun--sufe-2": {
+"name": "Qi Sun",
+"papers": []
+},
+"pid:bo-jiang--sufe-2": {
+"name": "Bo Jiang",
+"papers": [
+{
+"title": "Assortment Optimization with α-Similar Substitutes: Insights from Customer Browsing Patterns",
+"authors": [
+"R. Chen",
+"B. Jiang",
+"C. Ryan",
+"N. Zhang"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Assortment Optimization in the Presence of Focal Effect: Operational Insights and Efficient Algorithms",
+"authors": [
+"B. Jiang",
+"Z. Wang",
+"C, Xue",
+"N. Zhang"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "An Enhanced Alternating Direction Method of Multipliers-Based Interior Point Method for Linear and Conic Optimization",
+"authors": [
+"Q. Deng",
+"Q. Feng",
+"W. Gao",
+"D. Ge",
+"B. Jiang*",
+"Y. Jiang",
+"J. Liu",
+"T. Liu",
+"C. Xue",
+"Y. Ye",
+"C. Zhang"
+],
+"year": 2025,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "ON SPECTRAL AND NUCLEAR NORMS OF ORDER THREE TENSORS WITH ONE FIXED DIMENSION",
+"authors": [
+"H. Hu",
+"B. Jiang*",
+"Z. Li*"
+],
+"year": 2025,
+"venue": "SIAM Journal on Matrix Analysis and Applications",
+"status": "published"
+},
+{
+"title": "Approximating tensor norms via sphere covering: Bridging the gap between primal and dual",
+"authors": [
+"S. He",
+"H. Hu",
+"B. Jiang",
+"Z. Li"
+],
+"year": 2023,
+"venue": "SIAM Journal on Optimization",
+"status": "published"
+},
+{
+"title": "On Cones of Nonnegative Quartic Forms",
+"authors": [
+"B. Jiang",
+"Z. Li",
+"S. Zhang"
+],
+"year": 2017,
+"venue": "Foundations of Computational Mathematics",
+"status": "published"
+},
+{
+"title": "The Second-Order Tâtonnement: Decentralized Interior-Point Methods for Market Equilibrium",
+"authors": [
+"C. Zhang",
+"C. He",
+"B. Jiang",
+"Y. Ye"
+],
+"year": 2026,
+"venue": "Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Accelerating Trust-Region Methods: An Attempt to Balance Global and Local Efficiency",
+"authors": [
+"Y. Jiang",
+"C. Zhang",
+"B. Jiang",
+"Y. Ye"
+],
+"year": 2026,
+"venue": "Mathematics of Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Two Sides of “Hidden City Ticketing”: Analysis of Choice-Based Network Revenue Management Model",
+"authors": [
+"J. Guo",
+"B. Jiang",
+"Z. Xiong",
+"N. Zhang"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Solving Generalized Moment Problems: a Primal-Dual Approach within a General Framework",
+"authors": [
+"J. Guo",
+"S. He",
+"B. Jiang",
+"Z. Wang"
+],
+"year": 2024,
+"venue": "Mathematics of Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "On Relatively Smooth Optimization over Riemannian Manifolds",
+"authors": [
+"C. He",
+"J. Li",
+"B. Jiang",
+"S. Ma",
+"S. Zhang"
+],
+"year": 2025,
+"venue": "Mathematics of Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Federated Learning on Riemannian Manifolds: A Gradient-Free Projection-Based Approach",
+"authors": [
+"H. Wang",
+"S. Pan",
+"C, He*",
+"J. Li",
+"B. Jiang*"
+],
+"year": 2025,
+"venue": "IEEE Transactions on Automatic Control",
+"status": "revise_resubmit"
 }
 ]
 }

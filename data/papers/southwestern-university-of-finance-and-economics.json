@@ -985,29 +985,6 @@
 }
 ]
 },
-"yu zhang": {
-"name": "Yu Zhang",
-"papers": [
-{
-"title": "制约我国运动鞋品牌发展的主要因素及对策研究",
-"authors": [
-"张煜"
-],
-"year": 2005,
-"venue": "成都体育学院学报",
-"status": "published"
-},
-{
-"title": "试论金融控股公司制度——中国金融业发展的合理选择",
-"authors": [
-"张煜"
-],
-"year": 2004,
-"venue": "西南金融",
-"status": "published"
-}
-]
-},
 "junqiao hong": {
 "name": "Junqiao Hong",
 "papers": [
@@ -3960,10 +3937,6 @@
 "name": "Junqiushi Ren",
 "papers": []
 },
-"lei lei": {
-"name": "Lei Lei",
-"papers": []
-},
 "ling zhong": {
 "name": "Ling Zhong",
 "papers": [
@@ -4298,10 +4271,6 @@
 "status": "working_paper"
 }
 ]
-},
-"yi liu": {
-"name": "Yi Liu",
-"papers": []
 },
 "yongzhi sun": {
 "name": "Yongzhi Sun",
@@ -5311,22 +5280,6 @@
 ],
 "year": 2015,
 "venue": "Applied Mathematics and Computation",
-"status": "published"
-}
-]
-},
-"jian huang": {
-"name": "Jian Huang",
-"papers": [
-{
-"title": "College Education and Social Trust: An Evidence-Based Study on the Causal Mechanisms",
-"authors": [
-"Huang, Jian",
-"Maassen van den Brink, Henriette",
-"Groot, Wim"
-],
-"year": 2011,
-"venue": "Social Indicators Research",
 "status": "published"
 }
 ]
@@ -7839,33 +7792,6 @@
 "yang liu": {
 "name": "Yang Liu",
 "papers": []
-},
-"yi zhang": {
-"name": "Yi Zhang",
-"papers": [
-{
-"title": "保荐人声誉的关联效应——来自中国证券市场的经验证据",
-"authors": [
-"应千伟",
-"张怡",
-"刘劲松"
-],
-"year": 2016,
-"venue": "《经济与管理研究》",
-"status": "published"
-},
-{
-"title": "Distributive inefficiency in horizontal mergers: Evidence from wealth transfers between merging firms and their customers",
-"authors": [
-"Gao, N.",
-"Peng, N.",
-"Zhang, Y."
-],
-"year": 2021,
-"venue": "International Review of Financial Analysis",
-"status": "published"
-}
-]
 },
 "yinan yang": {
 "name": "Yinan Yang",
@@ -12008,5 +11934,257 @@
 "chong zhong": {
 "name": "Chong Zhong",
 "papers": []
+},
+"pid:yu-zhang--swufe": {
+"name": "Yu Zhang",
+"papers": [
+{
+"title": "制约我国运动鞋品牌发展的主要因素及对策研究",
+"authors": [
+"张煜"
+],
+"year": 2005,
+"venue": "成都体育学院学报",
+"status": "published"
+},
+{
+"title": "试论金融控股公司制度——中国金融业发展的合理选择",
+"authors": [
+"张煜"
+],
+"year": 2004,
+"venue": "西南金融",
+"status": "published"
+}
+]
+},
+"pid:lei-lei--swufe": {
+"name": "Lei Lei",
+"papers": []
+},
+"pid:yi-liu--swufe": {
+"name": "Yi Liu",
+"papers": []
+},
+"pid:yu-zhang--swufe-2": {
+"name": "Yu Zhang",
+"papers": [
+{
+"title": "Picking Funds in China",
+"authors": [
+"Zhang, Yu",
+"Mengxiang Zhao"
+],
+"year": 2024,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Booms and Busts in Chinese Agricultural Markets: An Agent-Based Model",
+"authors": [
+"Zhang, Yu",
+"Xinyi Deng"
+],
+"year": 2022,
+"venue": "Complexity",
+"status": "published"
+},
+{
+"title": "Impact of Strategy Switching on Wealth Accumulation",
+"authors": [
+"Zhang, Yu",
+"Weihong Huang"
+],
+"year": 2018,
+"venue": "Journal of Evolutionary Economics",
+"status": "published"
+},
+{
+"title": "Endogenous Fundamental and Stock Cycles",
+"authors": [
+"Huang, Weihong",
+"Yu Zhang"
+],
+"year": 2017,
+"venue": "Computational Economics",
+"status": "published"
+},
+{
+"title": "Asymmetry Index of Stock Price Fluctuations",
+"authors": [
+"Huang, Weihong",
+"Yu Zhang"
+],
+"year": 2014,
+"venue": "Journal of Global Economics",
+"status": "published"
+},
+{
+"title": "Investors' Risk Attitudes and Stock Price Fluctuation Asymmetry",
+"authors": [
+"Zhang, Yu",
+"Honggang Li"
+],
+"year": 2011,
+"venue": "Physica A: Statistical Mechanics and its Applications",
+"status": "published"
+},
+{
+"title": "Patent Invalidation and Value Destruction: Evidence from Short - term Market Reactions",
+"authors": [
+"Zhao, Mengxiang",
+"Shi Chen",
+"Yu Zhang",
+"Dazhi Zheng"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Innovation Quality and Stock Returns: New Evidence from China",
+"authors": [
+"Zhao, Mengxiang",
+"Shi Chen",
+"Xueming Qin",
+"Yu Zhang"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "基于LSTM - Transformer的多期资产定价模型在A股市场的应用",
+"authors": [
+"赵梦翔",
+"张钰"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "以房养老：基于反向抵押贷款的无子女老人最优消费水平研究",
+"authors": [
+"张钰",
+"辜超妍",
+"刘婧雨"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pid:jian-huang--swufe": {
+"name": "Jian Huang",
+"papers": [
+{
+"title": "College Education and Social Trust: An Evidence-Based Study on the Causal Mechanisms",
+"authors": [
+"Huang, Jian",
+"Maassen van den Brink, Henriette",
+"Groot, Wim"
+],
+"year": 2011,
+"venue": "Social Indicators Research",
+"status": "published"
+}
+]
+},
+"pid:lei-lei--swufe-2": {
+"name": "Lei Lei",
+"papers": []
+},
+"pid:yi-zhang--swufe": {
+"name": "Yi Zhang",
+"papers": [
+{
+"title": "Distributive inefficiency in horizontal mergers: Evidence from wealth transfers between merging firms and their customers",
+"authors": [
+"Gao, N.",
+"Peng, N.",
+"Zhang, Y."
+],
+"year": 2021,
+"venue": "International Review of Financial Analysis",
+"status": "published"
+},
+{
+"title": "保荐人声誉的关联效应——来自中国证券市场的经验证据",
+"authors": [
+"应千伟",
+"张怡",
+"刘劲松"
+],
+"year": 2016,
+"venue": "经济与管理研究",
+"status": "published"
+}
+]
+},
+"pid:jian-huang--swufe-2": {
+"name": "Jian Huang",
+"papers": []
+},
+"pid:yi-liu--swufe-2": {
+"name": "Yi Liu",
+"papers": [
+{
+"title": "Many-to-one issue-issuer credit rating structure and identification of market reaction",
+"authors": [
+"Yi Liu",
+"Tim Chih-Ching Hung"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Does macroeconomic shock affect how firm characteristics are priced in corporate bonds?",
+"authors": [
+"Yi Liu"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Structural identification of pair trades",
+"authors": [
+"Yi Liu",
+"Liuren Wu"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"pid:yi-zhang--swufe-2": {
+"name": "Yi Zhang",
+"papers": [
+{
+"title": "Do Government R&D Subsidies Stimulate Corporate R&D Investment? Evidence from a Quasi-natural Experiment",
+"authors": [
+"Yi Zhang",
+"Ying Wu",
+"Lihui Tian"
+],
+"year": 2023,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Foreign Institutional Investors and China’s Financial Service Industry: the Intra-industry Effects of the Foreign Acquisition of Shenzhen Development Bank",
+"authors": [
+"Yi Zhang",
+"Yili Lian"
+],
+"year": 2012,
+"venue": "Banks and Bank Systems",
+"status": "published"
+}
+]
 }
 }
