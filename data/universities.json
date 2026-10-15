@@ -1610,8 +1610,7 @@
   "short": "Xiamen",
   "country": "China",
   "region": "Asia",
-  "city": "Xiamen",
-  "added": "top5-2026"
+  "city": "Xiamen"
  },
  {
   "id": "johannes-kepler-university-linz",
@@ -1763,8 +1762,7 @@
   "short": "Jinan",
   "country": "China",
   "region": "Asia",
-  "city": "",
-  "added": "top5-2026"
+  "city": "Guangzhou"
  },
  {
   "id": "university-of-luxembourg",
@@ -1981,5 +1979,189 @@
   "region": "North America",
   "city": "Salt Lake City",
   "added": "top5-2026"
+ },
+ {
+  "id": "central-university-of-finance-and-economics",
+  "name": "Central University of Finance and Economics",
+  "short": "CUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "shanghai-university-of-finance-and-economics",
+  "name": "Shanghai University of Finance and Economics",
+  "short": "SUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai"
+ },
+ {
+  "id": "university-of-international-business-and-economics",
+  "name": "University of International Business and Economics",
+  "short": "UIBE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "renmin-university-of-china",
+  "name": "Renmin University of China",
+  "short": "RUC",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "city-university-of-hong-kong",
+  "name": "City University of Hong Kong",
+  "short": "CityU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "hong-kong-polytechnic-university",
+  "name": "The Hong Kong Polytechnic University",
+  "short": "PolyU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "hong-kong-baptist-university",
+  "name": "Hong Kong Baptist University",
+  "short": "HKBU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hong Kong"
+ },
+ {
+  "id": "beijing-normal-university",
+  "name": "Beijing Normal University",
+  "short": "BNU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "southwestern-university-of-finance-and-economics",
+  "name": "Southwestern University of Finance and Economics",
+  "short": "SWUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Chengdu"
+ },
+ {
+  "id": "zhejiang-university",
+  "name": "Zhejiang University",
+  "short": "ZJU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Hangzhou"
+ },
+ {
+  "id": "wuhan-university",
+  "name": "Wuhan University",
+  "short": "WHU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Wuhan"
+ },
+ {
+  "id": "nanjing-university",
+  "name": "Nanjing University",
+  "short": "NJU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Nanjing"
+ },
+ {
+  "id": "nankai-university",
+  "name": "Nankai University",
+  "short": "Nankai",
+  "country": "China",
+  "region": "Asia",
+  "city": "Tianjin"
+ },
+ {
+  "id": "shandong-university",
+  "name": "Shandong University",
+  "short": "SDU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Jinan"
+ },
+ {
+  "id": "zhongnan-university-of-economics-and-law",
+  "name": "Zhongnan University of Economics and Law",
+  "short": "ZUEL",
+  "country": "China",
+  "region": "Asia",
+  "city": "Wuhan"
+ },
+ {
+  "id": "liaoning-university",
+  "name": "Liaoning University",
+  "short": "LNU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shenyang"
+ },
+ {
+  "id": "sichuan-university",
+  "name": "Sichuan University",
+  "short": "SCU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Chengdu"
+ },
+ {
+  "id": "cheung-kong-graduate-school-of-business",
+  "name": "Cheung Kong Graduate School of Business",
+  "short": "CKGSB",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing"
+ },
+ {
+  "id": "china-europe-international-business-school",
+  "name": "China Europe International Business School",
+  "short": "CEIBS",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai"
+ },
+ {
+  "id": "duke-kunshan-university",
+  "name": "Duke Kunshan University",
+  "short": "DKU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Kunshan"
+ },
+ {
+  "id": "nanjing-audit-university",
+  "name": "Nanjing Audit University",
+  "short": "NAU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Nanjing"
+ },
+ {
+  "id": "sun-yat-sen-university",
+  "name": "Sun Yat-sen University",
+  "short": "SYSU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Guangzhou"
+ },
+ {
+  "id": "southern-university-of-science-and-technology",
+  "name": "Southern University of Science and Technology",
+  "short": "SUSTech",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shenzhen"
  }
 ]

@@ -454,9 +454,9 @@
    "Microeconomic Theory",
    "Labor Economics"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Illinois Urbana-Champaign",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -478,7 +478,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "kwanghyun-kim"
  },
  {
@@ -1396,9 +1396,9 @@
    "Corporate Finance",
    "Entrepreneurship & Innovation"
   ],
-  "phd_institution": null,
-  "phd_year": null,
-  "phd_field": null,
+  "phd_institution": "New York University",
+  "phd_year": 2011,
+  "phd_field": "Economics",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -1416,11 +1416,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Senior Economist, Cornerstone Research (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "joan-farre-mensa"
  },
  {
@@ -1436,7 +1436,7 @@
    "Corporate Finance"
   ],
   "phd_institution": "University of Wisconsin-Madison",
-  "phd_year": null,
+  "phd_year": 2009,
   "phd_field": "Finance",
   "ma_institution": null,
   "ma_year": null,
@@ -1459,7 +1459,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "tor-erik-bakke"
  },
  {
@@ -1792,13 +1792,13 @@
   "fields_std": [
    "Information Systems"
   ],
-  "phd_institution": null,
+  "phd_institution": "Carnegie Mellon University",
   "phd_year": null,
-  "phd_field": null,
-  "ma_institution": null,
+  "phd_field": "Operations Research",
+  "ma_institution": "University of Waterloo",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
+  "ma_field": "Operations Research (MASc)",
+  "ba_institution": "Indian Institute of Technology Madras",
   "ba_year": null,
   "ba_field": null,
   "education_raw": null,
@@ -1816,7 +1816,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "selva-nadarajah"
  },
  {
@@ -3031,9 +3031,9 @@
    "Marketing",
    "Data Science & Analytics"
   ],
-  "phd_institution": null,
+  "phd_institution": "Kellogg School of Management",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Quantitative Marketing",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -3055,7 +3055,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "manuel-hermosilla"
  },
  {
@@ -3148,9 +3148,9 @@
   "fields_std": [
    "Marketing"
   ],
-  "phd_institution": null,
+  "phd_institution": "University of Michigan",
   "phd_year": null,
-  "phd_field": null,
+  "phd_field": "Business Administration (Marketing)",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -3168,11 +3168,11 @@
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Faculty, University of Southern California (years not stated)",
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "web",
   "id": "linda-hagen"
  },
  {

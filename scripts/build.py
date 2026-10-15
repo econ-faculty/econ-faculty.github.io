@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site")
 
-RANKS = ["Professor", "Associate Professor", "Assistant Professor"]
+RANKS = ["Professor", "Associate Professor", "Assistant Professor", "Faculty"]   # "Faculty" = tenure-line, rank not stated by the university
 UNIT_TYPES = ["economics", "business", "public_policy", "ag_resource_econ", "environment", "law", "public_health", "other"]
 FIELDS = [
     "Microeconomic Theory", "Macroeconomics", "Monetary Economics", "Econometrics", "Labor Economics", "Public Economics",
@@ -308,26 +308,44 @@ def do_import(raw_dir):
               "nus": "national-university-of-singapore", "ntu": "nanyang-technological-university",
               "smu": "singapore-management-university"}
 
-    def enrich_uni(fname):
-        stem = os.path.basename(fname)[:-5]
-        for uid in buckets:
-            fulls = [uid] + (["the-" + uid] if os.path.exists(os.path.join(raw_dir, f"the-{uid}.json")) else [])
-            for full in fulls:  # merge files are named from raw ids, which may keep "the-"
-                p = full.split("-")
-                if stem.startswith(p[0] + "_" + p[-1] + "_"):
-                    return uid
-        return legacy.get(stem.split("_")[0])
+    def fulls_of(uid):  # merge files are named from raw ids, which may keep "the-"
+        return [uid] + (["the-" + uid] if os.path.exists(os.path.join(raw_dir, f"the-{uid}.json")) else [])
 
+    def enrich_unis(fname):
+        """universities an enrich file may belong to: exact full-id tag first, else the short 'first_last' prefix
+        (several universities can share it, e.g. universite-de-montreal / universite-du-quebec-a-montreal)"""
+        stem = os.path.basename(fname)[:-5]
+        exact = [uid for uid in buckets for full in fulls_of(uid) if stem.startswith(full.replace("-", "_") + "_")]
+        if exact:
+            return exact[:1]
+        short = [uid for uid in buckets for full in fulls_of(uid)
+                 if stem.startswith(full.split("-")[0] + "_" + full.split("-")[-1] + "_")]
+        if short:
+            return list(dict.fromkeys(short))
+        return [legacy[stem.split("_")[0]]] if stem.split("_")[0] in legacy else []
+
+    roster_names = {uid: {norm(r.get("name")) for r in recs} for uid, recs in buckets.items()}
     enrich = defaultdict(dict)
+    enrich_pid = defaultdict(list)   # pid-tagged entries (same-name colleagues at one university), chosen by unit/PhD
     for f in sorted(glob.glob(os.path.join(raw_dir, "enrich", "*.json"))):
         if os.path.basename(f).startswith("_"):
             continue
-        u = enrich_uni(f)
-        if u is None:
+        us = enrich_unis(f)
+        if not us:
             warnings.append(f"enrich file {os.path.basename(f)}: cannot map to a university (skipped)")
             continue
         for e in json.load(open(f, encoding="utf-8")):
-            enrich[u][norm(e.get("name"))] = e
+            k = norm(e.get("name"))
+            if e.get("pid") and len(us) == 1:
+                enrich_pid[us[0]].append(e)
+                continue
+            if len(us) == 1:
+                enrich[us[0]][k] = e
+                continue
+            # ambiguous short prefix: assign each record to the one university whose roster has this name
+            hit = [u for u in us if k in roster_names[u]]
+            if len(hit) == 1:
+                enrich[hit[0]][k] = e
     os.makedirs(os.path.join(DATA, "faculty"), exist_ok=True)
     for uid, recs in buckets.items():
         if not recs:
@@ -338,6 +356,8 @@ def do_import(raw_dir):
             orig_key = norm(r.get("name"))
             rec["name"] = fix_name(r.get("name"))
             rec["rank_std"] = clean_rank(r.get("rank_std"), r.get("title"))
+            if rec["rank_std"] is None and r.get("rank_unknown"):
+                rec["rank_std"] = "Faculty"
             if rec["rank_std"] is None:
                 warnings.append(f"{uid}: {r.get('name')}: unrecognized rank '{r.get('title')}' (dropped)")
                 continue
@@ -362,8 +382,16 @@ def do_import(raw_dir):
                         prev[k] = v
                 continue
             rec["id"] = slug(rec["name"])
-            e = enrich[uid].get(key) or enrich[uid].get(orig_key)
-            if e and norm(rec["name"]) in namesake | {k[:-3] for k in seen if k.endswith(" #2")} and not same_person(e, rec):
+            cands = [x for x in enrich_pid[uid] if norm(x.get("name")) == norm(rec["name"])]
+            if cands:   # namesakes: take the entry from this person's own page (same PhD, then same unit)
+                good = [x for x in cands if same_person(x, rec) and norm(x.get("phd_institution")) and norm(rec.get("phd_institution"))]
+                good = good or [x for x in cands if same_person(x, rec)]
+                if len(good) > 1:
+                    good = [x for x in good if norm(x.get("unit")) == norm(rec.get("unit"))]
+                e = good[0] if len(good) == 1 else None
+            else:
+                e = enrich[uid].get(key) or enrich[uid].get(orig_key)
+            if e and not cands and norm(rec["name"]) in namesake | {k[:-3] for k in seen if k.endswith(" #2")} and not same_person(e, rec):
                 e = None                       # enrichment is keyed by name; never copy it onto the wrong namesake
             if e:
                 for k in ENRICH_KEYS:
@@ -488,6 +516,8 @@ def build(check):
     pf_list = []
     pindex, ptitle = {}, {}
     pending, udetails = [], []
+    lo = os.path.join(DATA, "link_overrides.json")   # {pid: {homepage_url|profile_url|cv_url: url or null}} (verified link fixes)
+    LINKS = json.load(open(lo, encoding="utf-8")) if os.path.exists(lo) else {}
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
     for f in glob.glob(os.path.join(SITE, "people", "*.json")):
         os.remove(f)
@@ -509,6 +539,9 @@ def build(check):
             if r.get("rank_std") not in RANKS:
                 warnings.append(f"{u['id']}: {r.get('name')}: bad rank")
                 continue
+            for k, v in (LINKS.get(pid) or {}).items():
+                if k in ("homepage_url", "profile_url", "cv_url"):
+                    r[k] = v
             fs = [FIELDS.index(x) for x in r.get("fields_std") or [] if x in FIELDS]
             pf = field_labels(r)
             for x in pf:
@@ -526,7 +559,7 @@ def build(check):
                 detail[pid]["papers_curated"] = cur.get("source_cv") or True
                 pending.append((pid, r["name"], len(people) - 1, ps, detail, True))
             else:
-                pv = upapers.get(norm(r["name"])) or {}
+                pv = upapers.get("pid:" + pid) or upapers.get(norm(r["name"])) or {}
                 ps = [paper_extracted(q) for q in pv.get("papers") or [] if q.get("title")]
                 pending.append((pid, r["name"], len(people) - 1, ps, detail, False))
             detail[pid]["fields"] = pf

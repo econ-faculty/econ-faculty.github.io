@@ -1,0 +1,9138 @@
+{
+"baohua zhu": {
+"name": "Baohua Zhu",
+"papers": [
+{
+"title": "Theory on Investment Function",
+"authors": [
+"Baohua Zhu"
+],
+"year": 1995,
+"venue": "Kyushu University Press",
+"status": "published"
+},
+{
+"title": "New Growth Theory",
+"authors": [
+"Baohua Zhu"
+],
+"year": 1999,
+"venue": "Shanghai University of Finance and Economics Press",
+"status": "published"
+},
+{
+"title": "Japanese Economic Thought",
+"authors": [
+"Baohua Zhu",
+"Chen Xuemei",
+"Peng Wenbing"
+],
+"year": 2002,
+"venue": "China Today Press",
+"status": "published"
+}
+]
+},
+"haitao yin": {
+"name": "Haitao Yin",
+"papers": [
+{
+"title": "Money Talks: The Environmental Impact of China’s Green Credit Policy",
+"authors": [
+"Junxiu Sun",
+"Feng Wang",
+"Haitao Yin",
+"Bing Zhang"
+],
+"year": 2019,
+"venue": "Journal of Policy Analysis and Management",
+"status": "published"
+},
+{
+"title": "Voluntary Cleanup Programs for Brownfield Sties: A Theoretical Analysis",
+"authors": [
+"Tom Lyon",
+"Haitao Yin",
+"Allen Blackman",
+"Kris Wernstedt"
+],
+"year": 2017,
+"venue": "Environmental and Resource Economics",
+"status": "published"
+},
+{
+"title": "Environmental Pressure and the Performance of Foreign Firms in an Emerging Economy",
+"authors": [
+"Nahyun Kim",
+"Jon J. Moon",
+"Haitao Yin"
+],
+"year": 2016,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Does International Economic Integration Lead to a Cleaner Production in China?",
+"authors": [
+"Lin, L.",
+"Moon, J.J.",
+"Haitao Yin"
+],
+"year": 2014,
+"venue": "Production and Operation Management",
+"status": "published"
+},
+{
+"title": "Risk-based Pricing and Risk-Reducing Effort: Does the Private Insurance Market Reduce Environmental Accidents?",
+"authors": [
+"Haitao Yin",
+"Howard Kunreuther",
+"Matthew White"
+],
+"year": 2011,
+"venue": "Journal of Law and Economics",
+"status": "published"
+},
+{
+"title": "Can Environmental Insurance Succeed Where Other Strategies Fail? The Case of Underground Storage Tanks",
+"authors": [
+"Haitao Yin",
+"Alexander Pfaff",
+"Howard Kunreuther"
+],
+"year": 2011,
+"venue": "Risk Analysis",
+"status": "published"
+},
+{
+"title": "Do State Renewable Portfolio Standards Promote In-state Renewable Generation",
+"authors": [
+"Haitao Yin",
+"Nicholas Powers"
+],
+"year": 2010,
+"venue": "Energy Policy",
+"status": "published"
+},
+{
+"title": "Why Do States Adopt Renewable Portfolio Standards?: An Empirical Investigation",
+"authors": [
+"Thomas Lyon",
+"Haitao Yin"
+],
+"year": 2010,
+"venue": "The Energy Journal",
+"status": "published"
+}
+]
+},
+"junhui qian": {
+"name": "Junhui Qian",
+"papers": [
+{
+"title": "Functional regression of continuous state distributions",
+"authors": [
+"Junhui Qian",
+"Joon Y. Park"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Estimating semiparametric panel data models by marginal integration",
+"authors": [
+"Junhui Qian",
+"Le Wang"
+],
+"year": 2012,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Structural change estimation in time series regressions with endogenous variables",
+"authors": [
+"Junhui Qian",
+"Liangjun Su"
+],
+"year": 2014,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The inequality-growth plateau",
+"authors": [
+"Junhui Qian",
+"Daniel J. Henderson",
+"Le Wang"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Shrinkage estimation of regression models with multiple structural changes",
+"authors": [
+"Junhui Qian",
+"Liangjun Su"
+],
+"year": 2016,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Shrinkage estimation of common breaks in panel data models via adaptive group fused Lasso",
+"authors": [
+"Junhui Qian",
+"Liangjun Su"
+],
+"year": 2016,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Panel data models with interactive fixed effects and multiple structural breaks",
+"authors": [
+"Junhui Qian",
+"Degui Li",
+"Liangjun Su"
+],
+"year": 2016,
+"venue": "Journal of the American Statistical Association",
+"status": "published"
+},
+{
+"title": "Forecasting the yield curve using a dynamic natural cubic spline model",
+"authors": [
+"Junhui Qian",
+"Pan Feng"
+],
+"year": 2018,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Analyzing and forecasting the Chinese term structure of interest rates using functional principal component analysis",
+"authors": [
+"Junhui Qian",
+"Pan Feng"
+],
+"year": 2018,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Structural Changes in the RMB Exchange Rate Mechanism",
+"authors": [
+"Junhui Qian",
+"SU Guanyu"
+],
+"year": 2021,
+"venue": "China & World Economy",
+"status": "published"
+},
+{
+"title": "Does the offshore market matter to China's exchange rate policy?",
+"authors": [
+"Junhui Qian",
+"SU Guanyu"
+],
+"year": 2022,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "On time-varying panel data models with time-varying interactive fixed effects",
+"authors": [
+"Junhui Qian",
+"Xia Wang",
+"Sainan Jin",
+"Yingxing Li",
+"Liangjun Su"
+],
+"year": null,
+"venue": "Journal of Econometrics",
+"status": "forthcoming"
+},
+{
+"title": "Monotonicity in Estimating Multiple Structural Breaks",
+"authors": [
+"Junhui Qian",
+"Siyuan Xia"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Analysis of Distributional Dynamics for Repeated Cross-Sectional and Intra-Period Observations",
+"authors": [
+"Junhui Qian",
+"Bo Hu",
+"Joon Y. Park"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"qingen gai": {
+"name": "Qingen Gai",
+"papers": []
+},
+"qinghua shi": {
+"name": "Qinghua Shi",
+"papers": [
+{
+"title": "The Application of Matter Elements Analysis Method in Property Plans for Agricultural Area Development",
+"authors": [
+"Shi Qinghua",
+"Xu Baogen"
+],
+"year": 1991,
+"venue": "Economic Problems",
+"status": "published"
+},
+{
+"title": "Evaluation and Selection of the Modes of Agricultural Risk Management",
+"authors": [
+"Shi Qinghua",
+"Yao Jianming"
+],
+"year": 1994,
+"venue": "Economic Problems",
+"status": "published"
+},
+{
+"title": "An Empirical Study on the Reasons of Shanxi Rural Households Income Imbalance",
+"authors": [
+"Shi Qinghua"
+],
+"year": 1998,
+"venue": "Journal of Agrotechnical Economics",
+"status": "published"
+},
+{
+"title": "An Analysis on Rural Households Economic Imbalances and its Reasons",
+"authors": [
+"Shi Qinghua"
+],
+"year": 2000,
+"venue": "Problem of China Economy",
+"status": "published"
+}
+]
+},
+"shaoqing huang": {
+"name": "Shaoqing Huang",
+"papers": [
+{
+"title": "Valuating AI breakthroughs for firms along the supply chain",
+"authors": [
+"Shaoqing Huang",
+"Yiming Xie",
+"Chun-Yu Ho"
+],
+"year": 2026,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Supply-induced Litigation and the Role of Informal Institutions",
+"authors": [
+"Shaoqing Huang",
+"Tingting Peng",
+"Chun-Yu Ho",
+"Mingda Zhang"
+],
+"year": 2026,
+"venue": "Economics of Transition and Institutional Change",
+"status": "published"
+},
+{
+"title": "The Effect of Broadband Infrastructure on Firm Patent Transactions: Evidence from the ‘Broadband China’ Strategy in China",
+"authors": [
+"Shaoqing Huang",
+"Hao Xu"
+],
+"year": 2025,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Traffic Violations and Economic Preferences: Evidence from Full-time Drivers of a Large Transportation Network Company in China",
+"authors": [
+"Shaoqing Huang",
+"Youxin Hu",
+"Ming Jiang",
+"Xiaoshu Xu"
+],
+"year": 2024,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "Bureaucracy-business Relationship, Corruption and the Implications for Marketization",
+"authors": [
+"Shaoqing Huang",
+"Weisi Xie",
+"Xiaoshu Xu"
+],
+"year": 2024,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "The Impact of Air Quality on Innovation Activities in China",
+"authors": [
+"Shaoqing Huang",
+"Jingbo Cui",
+"Chunhua Wang"
+],
+"year": 2023,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published"
+},
+{
+"title": "Digitalization and firm performance: channels and heterogeneities",
+"authors": [
+"Shaoqing Huang",
+"Ruonan Chen",
+"Chun-Yu Ho"
+],
+"year": 2023,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Disruptive Technology and Industrial Policy Paradigm Shifts: A Discussion Based on China",
+"authors": [
+"Shaoqing Huang"
+],
+"year": 2022,
+"venue": "Asian Review of Political Economy",
+"status": "published"
+},
+{
+"title": "Partners or Rivals? An Experimental Study of a Two-Stage Tournament",
+"authors": [
+"Shaoqing Huang",
+"Hong Chao",
+"Chun-Yu Ho",
+"Xiangdong Qin",
+"Jiajia Cong"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published"
+},
+{
+"title": "Financial Deepening and Innovation: The Role of Political Institutions",
+"authors": [
+"Shaoqing Huang",
+"Chun-Yu Ho",
+"Hao Shi",
+"Jun Wu"
+],
+"year": 2018,
+"venue": "World Development",
+"status": "published"
+},
+{
+"title": "The Asymmetric Effects of Local and Global Network Ties on Firms’ Innovation Performance",
+"authors": [
+"Shaoqing Huang",
+"Lei Wang",
+"Jun Li"
+],
+"year": 2018,
+"venue": "Journal of Business & Industrial Marketing",
+"status": "published"
+},
+{
+"title": "How Much Infrastructure Is Too Much? A New Approach and Evidence from China",
+"authors": [
+"Shaoqing Huang",
+"Hao Shi"
+],
+"year": 2014,
+"venue": "World Development",
+"status": "published"
+}
+]
+},
+"xi qu": {
+"name": "Xi Qu",
+"papers": [
+{
+"title": "Sums of exponentials of random walks with drift",
+"authors": [
+"Xi Qu",
+"Rober de Jong"
+],
+"year": 2012,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Spatial interactive effects on housing prices in Shanghai and Beijing",
+"authors": [
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2019,
+"venue": "Regional Science and Urban Economics",
+"status": "published"
+},
+{
+"title": "Impact of the InnoCom Program on Corporate Innovation Performance in China: Evidence from Shanghai",
+"authors": [
+"Chuanmin Zhao",
+"Xi Qu",
+"Shougui Luo"
+],
+"year": 2019,
+"venue": "Technological Forecasting and Social Change",
+"status": "published"
+},
+{
+"title": "Fixed effects spatial panel data model with time varying spatial dependence",
+"authors": [
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2020,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Stock Market Reaction to Corporate Philanthropic Response and Silence: Does Charity Style Matter?",
+"authors": [
+"Chuanmin Zhao",
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2021,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Peer effects in pension decision-making: evidence from China's new rural pension scheme",
+"authors": [
+"Chuanmin Zhao",
+"Xi Qu"
+],
+"year": 2021,
+"venue": "Labour Economics",
+"status": "published"
+},
+{
+"title": "Social networks and internal migration in China: a spatial autoregressive model",
+"authors": [
+"Chuanmin Zhao",
+"Xi Qu"
+],
+"year": 2022,
+"venue": "Review of Development Economics",
+"status": "published"
+},
+{
+"title": "Competition in household human capital investments: strength, motivations and consequences",
+"authors": [
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published"
+}
+]
+},
+"xi zhu": {
+"name": "Xi Zhu",
+"papers": [
+{
+"title": "Nonparametric estimation of structural labor supply and exact welfare change under nonconvex piecewise-linear budget sets",
+"authors": [
+"Gan Li",
+"Ju Gaosheng",
+"Zhu Xi"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "On the Impact of Agricultural Livestock Microinsurance on Death-Loss, Production and Vaccine Use: Observations from a Quasi-Natural Experiment in China",
+"authors": [
+"Zhang Y",
+"Xi Zhu",
+"Turvey C G"
+],
+"year": 2016,
+"venue": "The Geneva Papers on Risk and Insurance Issues and Practice",
+"status": "published"
+},
+{
+"title": "Intergenerational transfer, human capital and long-term growth in china under the one child policy",
+"authors": [
+"Xi Zhu",
+"John Whalley",
+"Zhao Xiliang"
+],
+"year": 2014,
+"venue": "Economic Modelling",
+"status": "published"
+},
+{
+"title": "Misallocation and TFP in Rural China",
+"authors": [
+"Zhu Xi",
+"Shi Qinghua",
+"Ge Qingen"
+],
+"year": 2011,
+"venue": "Economic Research",
+"status": "published"
+},
+{
+"title": "Econometric Analysis of Credit Constraints of Chinese Rural Households and Welfare Loss",
+"authors": [
+"Li Rui",
+"Zhu Xi"
+],
+"year": 2010,
+"venue": "Applied Economics",
+"status": "published"
+},
+{
+"title": "Transitional Farmer’s operational investment behavior",
+"authors": [
+"Zhu Xi",
+"Shi Qinghua",
+"Ma Xiaoqing"
+],
+"year": 2010,
+"venue": "China Economic Quarterly",
+"status": "published"
+},
+{
+"title": "Supply behaviors of different rural financial institutions",
+"authors": [
+"Zhu Xi",
+"Shi Qinghua",
+"Ma Xiaoqing"
+],
+"year": 2009,
+"venue": "Finance and Economic Research",
+"status": "published"
+},
+{
+"title": "The efficiency of Chinese formal rural credit after reform",
+"authors": [
+"Zhu Xi",
+"Li Zinai"
+],
+"year": 2006,
+"venue": "Management World",
+"status": "published"
+},
+{
+"title": "Kernel Estimation of Multivariate Conditional Distributions",
+"authors": [
+"Jeff Racine",
+"Qi Li",
+"Xi Zhu"
+],
+"year": 2004,
+"venue": "Annals of Economics and Finance",
+"status": "published"
+}
+]
+},
+"xiangdong qin": {
+"name": "Xiangdong Qin",
+"papers": [
+{
+"title": "The Effect of Religion on Muslims' Charitable Contributions to Members of a Non-Muslim Majority",
+"authors": [
+"Rebecca Morton",
+"Kai Ou",
+"Xiangdong Qin"
+],
+"year": 2020,
+"venue": "Journal of Public Economic Theory",
+"status": "published"
+},
+{
+"title": "Risk Taking after Absolute and Relative Wealth Changes: The Role of Reference Point Adaptation",
+"authors": [
+"Hong Chao",
+"Chun-Yu Ho",
+"Xiangdong Qin"
+],
+"year": 2017,
+"venue": "Journal of Risk and Uncertainty",
+"status": "published"
+},
+{
+"title": "Revisiting Gender Differences in Ultimatum Bargaining: Experimental Evidence from the US and China",
+"authors": [
+"Shuwen Li",
+"Xiangdong Qin",
+"Daniel Houser"
+],
+"year": 2018,
+"venue": "Journal of the Economic Science Association",
+"status": "published"
+}
+]
+},
+"yang yu": {
+"name": "Yang Yu",
+"papers": [
+{
+"title": "The \"Matthew effect\" and market concentration: Search complementarities and monopsony power",
+"authors": [
+"Yang Yu",
+"Jesus Fernandez-Villaverde",
+"Federico Mandelman",
+"Francesco Zanetti"
+],
+"year": 2021,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "How does Monetary Policy Affect the Asset Management Industry? Evidence from China's Fund Managers",
+"authors": [
+"Yang Yu",
+"John Ammer",
+"Gang Wang",
+"John Rogers"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Search Complementarities, Aggregate Fluctuations and Fiscal Policy",
+"authors": [
+"Yang Yu",
+"Jesus Fernandez-Villaverde",
+"Federico Mandelman",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Visible Hands: Professional Asset Managers' Expectations and the Stock Market in China",
+"authors": [
+"Yang Yu",
+"John Ammer",
+"Gang Wang",
+"John Rogers"
+],
+"year": null,
+"venue": "Journal of Finance and Quantitative Analysis",
+"status": "forthcoming"
+},
+{
+"title": "Acquisition and Dismissal of Suppliers Over the Business Cycle",
+"authors": [
+"Yang Yu",
+"Le Xu",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": "Journal of Monetary Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Technological Complementarity, Assortative Matching, and the Volatility of Idiosyncratic Shocks",
+"authors": [
+"Yang Yu",
+"Jesus Fernandez-Villaverde",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Offshoring, Immigration, and Labor Market Polarization",
+"authors": [
+"Yang Yu",
+"Federico S. Mandelman",
+"Andrei Zlate",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Extrapolation and Stock Market Expectations: Evidence from China",
+"authors": [
+"Yang Yu",
+"Antonio Guarino",
+"Gang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Firm Inter-connectivity and Labor Market Fluctuations",
+"authors": [
+"Yang Yu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yi wen": {
+"name": "Yi Wen",
+"papers": []
+},
+"le xu": {
+"name": "Le Xu",
+"papers": [
+{
+"title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+"authors": [
+"Le Xu",
+"Jesus Fernandez-Villaverde",
+"Yiliang Li",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": "Quarterly Journal of Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "The (Un)intended Consequences of Dark Shipping of Sanctioned Oil",
+"authors": [
+"Le Xu",
+"Xiwen Bai",
+"Jesus Fernandez-Villaverde",
+"Yiliang Li",
+"Francesco Zanetti"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Supply Chain Adjustments at Risks",
+"authors": [
+"Le Xu",
+"Ding Dong",
+"Zheng Liu",
+"Pengfei Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pro-Manufacturing Land Policies of Competing Local Governments: A Quantitative Analysis of China",
+"authors": [
+"Le Xu",
+"Ming Lu",
+"Yuta Suzuki",
+"Xican Xi",
+"Yuejun Zhong"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "No-Bailout Commitments and the Regional Reallocation of Subnational Debt: Evidence from China",
+"authors": [
+"Le Xu",
+"Xinyi Cai",
+"Ming Lu",
+"Huiyong Zhong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Innovation-Based Comparative Advantages of Firms",
+"authors": [
+"Le Xu",
+"Zhihao Ma",
+"Xi Qu",
+"Chao Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Supply Chain Management and Aggregate Fluctuations",
+"authors": [
+"Le Xu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Land Price, Export Shocks, and Investment in China: A Tale of Two Sectors",
+"authors": [
+"Le Xu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Adoption and Termination of Suppliers over the Business Cycle",
+"authors": [
+"Le Xu",
+"Yang Yu",
+"Francesco Zanetti"
+],
+"year": 2025,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Monetary Policy in Open Economies with Production Networks",
+"authors": [
+"Le Xu",
+"Zhesheng Qiu",
+"Yicheng Wang",
+"Francesco Zanetti"
+],
+"year": 2026,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Returns to Dialect: Identity Exposure Through Language in the Chinese Labor Market",
+"authors": [
+"Zhao Chen",
+"Ming Lu",
+"Le Xu"
+],
+"year": 2014,
+"venue": "China Economic Review",
+"status": "published"
+}
+]
+},
+"li zhao": {
+"name": "Li Zhao",
+"papers": [
+{
+"title": "Subsidy phase-out and consumer demand dynamics: Evidence from the battery electric vehicle market in China",
+"authors": [
+"Yunyi Hu",
+"Haitao Yin",
+"Li Zhao"
+],
+"year": 2023,
+"venue": "The Review of Economics and Statistics",
+"status": "published"
+},
+{
+"title": "How has Tesla's entry affected China's electric vehicle market?",
+"authors": [
+"Yunyi Hu",
+"Haitao Yin",
+"Li Zhao",
+"Xiaodi Luo"
+],
+"year": 2022,
+"venue": "Applied Economics Letters",
+"status": "published"
+},
+{
+"title": "Government-Business Relation and Environmental Information Disclosure of Chinese Firms",
+"authors": [
+"Li Zhao",
+"Yanyi Liu",
+"Shaoqing Huang"
+],
+"year": 2021,
+"venue": "Study and Exploration",
+"status": "published"
+},
+{
+"title": "Administrative Examination and Approval Reform, Rule of Law, and Enterprises' Innovation Performance",
+"authors": [
+"Shaoqing Huang",
+"Yi Wang",
+"Li Zhao"
+],
+"year": 2020,
+"venue": "Academic Monthly",
+"status": "published"
+},
+{
+"title": "Auctions with selective entry and risk averse bidders: theory and evidence",
+"authors": [
+"Tong Li",
+"Jingfeng Lu",
+"Li Zhao"
+],
+"year": 2015,
+"venue": "The RAND Journal of Economics",
+"status": "published"
+},
+{
+"title": "A partial identification subnetwork approach to discrete games in large networks: An application to quantifying peer effects",
+"authors": [
+"Li Zhao",
+"Tong Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "An empirical study of the mineral rights model: Application to U.S. OCS auctions",
+"authors": [
+"Li Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Can fixed effects models fix satellite data",
+"authors": [
+"Li Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Can informatization encourage Chinese farmers to go out of the local society? The role of the rule of law",
+"authors": [
+"Li Zhao",
+"Shaoqing Huang",
+"Chuanyong Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ming jiang": {
+"name": "Ming Jiang",
+"papers": [
+{
+"title": "When Do Stable Matching Mechanisms Fail? The Role of Standardized Tests in Chinese College Admissions",
+"authors": [
+"Ming Jiang",
+"J. Li"
+],
+"year": 2023,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "A meeting of the minds: informal agreements and social norms",
+"authors": [
+"E. L. Krupka",
+"S. Leider",
+"Ming Jiang"
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Promise-keeping Norms and Renegotiation Behavior",
+"authors": [
+"E. Krupka",
+"S. Leider",
+"Ming Jiang"
+],
+"year": 2022,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"shengliang ou": {
+"name": "Shengliang Ou",
+"papers": [
+{
+"title": "Information Frictions, Monetary Policy, and the Paradox of Price Flexibility",
+"authors": [
+"Shengliang Ou",
+"Donghai Zhang",
+"Renbin Zhang"
+],
+"year": 2021,
+"venue": "Journal of Monetary Economics",
+"status": "published"
+},
+{
+"title": "Quantifying the Federal Reserve's Objectives Using a Structural Vector Autoregressive Model",
+"authors": [
+"Shengliang Ou",
+"Donghai Zhang"
+],
+"year": 2025,
+"venue": "Economica",
+"status": "published"
+},
+{
+"title": "The Return of Greenspan: Mumbling with Great Incoherence",
+"authors": [
+"Shengliang Ou",
+"Donghai Zhang",
+"Renbin Zhang"
+],
+"year": 2025,
+"venue": "Journal of the European Economic Association",
+"status": "published"
+},
+{
+"title": "Nominal Rigidities, Rational Inattention, and the Optimal Monetary Policy",
+"authors": [
+"Shengliang Ou",
+"Penghui Yin",
+"Donghai Zhang",
+"Renbin Zhang"
+],
+"year": 2026,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Fiscal Cyclicality and Information Channel of Government Spending Shocks",
+"authors": [
+"Shengliang Ou",
+"Christopher Evans",
+"Siming Liu"
+],
+"year": null,
+"venue": "Journal of International Economics",
+"status": "forthcoming"
+},
+{
+"title": "Long-Term Debt and the Effect of a Money-financed Fiscal Stimulus",
+"authors": [
+"Shengliang Ou",
+"Chengcheng Cao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "House Prices, Land Finance, and the Coordination of Monetary and Fiscal Policy in China",
+"authors": [
+"Shengliang Ou",
+"Chengcheng Cao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Government Spending Multiplier at the Zero Lower Bound",
+"authors": [
+"Shengliang Ou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"shiqi guo": {
+"name": "Shiqi Guo",
+"papers": [
+{
+"title": "The Leverage of Terrorists on Democratic Regimes: Evidence from Natural Experiments in Sub-Saharan Africa",
+"authors": [
+"Jiafu An",
+"Shiqi Guo",
+"Ruoran Zhao"
+],
+"year": 2026,
+"venue": "Journal of Law and Economics",
+"status": "published"
+}
+]
+},
+"weicheng min": {
+"name": "Weicheng Min",
+"papers": [
+{
+"title": "Bad Reputation due to Incompetent Expert",
+"authors": [
+"Weicheng Min"
+],
+"year": 2025,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Bayesian Persuasion with Lie Detection",
+"authors": [
+"Weicheng Min",
+"Florian Ederer"
+],
+"year": null,
+"venue": "Journal of Law and Economics",
+"status": "forthcoming"
+},
+{
+"title": "Information Acquisition with Uncertain Signal Structure",
+"authors": [
+"Weicheng Min"
+],
+"year": null,
+"venue": "Review of Economic Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "Preference Aggregation under Social Pressure",
+"authors": [
+"Weicheng Min",
+"Jinzhe Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Contracts for Experimentation with Non-Common Prior",
+"authors": [
+"Weicheng Min"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Retain or Release: Relational Knowledge Transfer with Externalities",
+"authors": [
+"Weicheng Min",
+"Zhuoran Lu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"wenxin huang": {
+"name": "Wenxin Huang",
+"papers": [
+{
+"title": "Estimating multiple structural breaks in large panels with unobserved heterogeneity",
+"authors": [
+"Wenxin Huang",
+"Y. Sun",
+"Y. Wang"
+],
+"year": 2026,
+"venue": "Journal of the American Statistical Association",
+"status": "forthcoming"
+},
+{
+"title": "Unified Inference for panel autoregressive models with unobserved grouped heterogeneity",
+"authors": [
+"Wenxin Huang",
+"L. Su",
+"Y. Wang"
+],
+"year": 2026,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published"
+},
+{
+"title": "Detecting Unobserved Heterogeneity in Efficient Prices via Classifier-Lasso",
+"authors": [
+"Wenxin Huang",
+"L. Su",
+"Y. Zhuang"
+],
+"year": 2023,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published"
+}
+]
+},
+"xiaojun pan": {
+"name": "Xiaojun Pan",
+"papers": [
+{
+"title": "A study on switching costs and pricing strategies of bilateral platforms based on consumer salience preferences",
+"authors": [
+"Pan Xiaojun"
+],
+"year": 2021,
+"venue": "Chinese Journal of Management Science",
+"status": "published"
+},
+{
+"title": "Optimal control of a stochastic production-inventory system under deteriorating items and environmental constraints",
+"authors": [
+"Pan Xiaojun",
+"Li Shoude"
+],
+"year": 2015,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Research on the value-added service strategy of introducing advertisers to bilateral platforms",
+"authors": [
+"Chen Xiaoxiao",
+"Pan Xiaojun"
+],
+"year": 2019,
+"venue": "Journal of Tianjin University (Social Science Edition)",
+"status": "published"
+},
+{
+"title": "Research on the impact of network externalities on product innovation of oligopolistic firms",
+"authors": [
+"Du apparent Jun",
+"Pan Xiaojun"
+],
+"year": 2015,
+"venue": "Management Modernization",
+"status": "published"
+},
+{
+"title": "Analysis of technology licensing strategies of technology-based platform firms in monopolistic markets",
+"authors": [
+"Pan Xiaojun",
+"Zhong Genyuan",
+"Chen Zhihong"
+],
+"year": 2013,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "A study on technology licensing and market entry strategies of competitive firms",
+"authors": [
+"Pan Xiaojun",
+"Zhong Genyuan"
+],
+"year": 2010,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "Airline alliance pricing based on product differentiation",
+"authors": [
+"Liao Gang",
+"Chen Hongmin",
+"Pan Xiaojun"
+],
+"year": 2007,
+"venue": "Journal of Systems Management",
+"status": "published"
+},
+{
+"title": "Product differentiation and product sequential launch strategy selection",
+"authors": [
+"Pan Xiaojun",
+"Chen Hongmin"
+],
+"year": 2002,
+"venue": "Systems Engineering Theory and Practice",
+"status": "published"
+}
+]
+},
+"zhuoran lu": {
+"name": "Zhuoran Lu",
+"papers": [
+{
+"title": "Selling Signals",
+"authors": [
+"Zhuoran Lu"
+],
+"year": 2025,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Network-Based Peer Monitoring Design",
+"authors": [
+"Zhuoran Lu",
+"Yangbo Song"
+],
+"year": 2025,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "Leveraging Network Effects for Connected Products: Strategies and Implications for the Value Chain",
+"authors": [
+"Zhuoran Lu",
+"Yifan Dou",
+"D.J. Wu",
+"Jian Chen"
+],
+"year": 2026,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Competitive Nonlinear Pricing for Signals",
+"authors": [
+"Zhuoran Lu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Real-Time Monitoring and Relational Contracts in Usage-Based Insurance",
+"authors": [
+"Zhuoran Lu",
+"Jiajia Cong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Data-Driven Hold-Up and Relational Contracts",
+"authors": [
+"Zhuoran Lu",
+"Limei Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Retain or Release: Relational Knowledge Transfer with Externalities",
+"authors": [
+"Zhuoran Lu",
+"Weicheng Min"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"qinshu xue": {
+"name": "Qinshu Xue",
+"papers": [
+{
+"title": "Upstream Market Power and the Price of Production Flexibility",
+"authors": [
+"Qinshu Xue"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Exporting and Productivity Dynamics in the Chinese Footwear Industry",
+"authors": [
+"Qinshu Xue"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Zombies and the Effect on Innovation: Evidence from Development Zones in China",
+"authors": [
+"Qinshu Xue",
+"Jinyue Tang",
+"Shougui Luo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market",
+"authors": [
+"Qinshu Xue",
+"Qi Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"xi zhi lim": {
+"name": "Xi Zhi Lim",
+"papers": [
+{
+"title": "Choice and Attention Across Time",
+"authors": [
+"Xi Zhi Lim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Ordered Context Effects",
+"authors": [
+"Xi Zhi Lim"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Avoidable Risk: An Experiment on Context-Dependent Risk Aversion",
+"authors": [
+"Xi Zhi Lim",
+"Silvio Ravaioli"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yang wang": {
+"name": "Yang Wang",
+"papers": [
+{
+"title": "Railways and the Local Economy: Evidence from Qingzang Railway",
+"authors": [
+"Yang Wang",
+"Binzhen Wu"
+],
+"year": 2015,
+"venue": "Economic Development and Cultural Change",
+"status": "published"
+},
+{
+"title": "Can Transportation Investment Stimulate Local Economy? The Case of Qingzang Railway",
+"authors": [
+"Yang Wang",
+"Binzhen Wu"
+],
+"year": 2014,
+"venue": "Journal of Economics",
+"status": "published"
+},
+{
+"title": "Curriculum, Political Participation, and Career Choice",
+"authors": [
+"Yang Wang",
+"Hongbin Li",
+"Sai Luo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Skill Complementarity in Teams: Matching, Sorting, and Agglomeration",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Talents on the Move: Income Gains from Internal Migration in China",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What We Learn from a Failed Regression Discontinuity: Consequences of Retaking in High-Stakes Tests",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Skill Distribution and Income Inequality in Cities",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Maternal Stress and School Performances: Evidence from the 2003 SARS Outbreak",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Public Infrastructure, Commuting and Urban Sprawl: Evidence from Shanghai",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Parental Time and Student Score",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Avoiding the Air Pollution: Evidence from Big Data",
+"authors": [
+"Yang Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yige duan": {
+"name": "Yige Duan",
+"papers": [
+{
+"title": "The Last Mile Matters: Impact of Dockless Bike Sharing on Subway Housing Price Premium",
+"authors": [
+"Yige Duan",
+"Junhong Chu",
+"Xianling Yang",
+"Li Wang"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Beyond Lost Earnings: Job Displacement and the Cost of Commuting",
+"authors": [
+"Yige Duan",
+"Oskar Jost",
+"Ramona Jost",
+"Holger Seibert"
+],
+"year": 2026,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Impacts of Corporate Tax Cuts on Firms and Workers: Evidence from Small Businesses",
+"authors": [
+"Yige Duan",
+"Terry S. Moon"
+],
+"year": null,
+"venue": "American Economic Journal: Economic Policy",
+"status": "forthcoming"
+},
+{
+"title": "The Cost of Task Switching: Evidence from Emergency Departments",
+"authors": [
+"Yige Duan",
+"Jin Yiwen",
+"Yichuan Ding",
+"Mahesh Nagarajan",
+"Garth Hunte"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Manufacturing Investment and Employee Earnings: Evidence from Accelerated Depreciation",
+"authors": [
+"Yige Duan",
+"Terry S. Moon"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Affordable Housing Enables Productive Work: Evidence from Food Delivery Workers",
+"authors": [
+"Yige Duan",
+"Weichen Huang",
+"Ming Lu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yuxiao hu": {
+"name": "Yuxiao Hu",
+"papers": [
+{
+"title": "Government and Nature: Evidence from the Distribution of Flood Damages in China",
+"authors": [
+"Yuxiao Hu",
+"Runhong Ma",
+"Yifan Wang"
+],
+"year": null,
+"venue": "Review of Economics and Statistics",
+"status": "revise_resubmit"
+},
+{
+"title": "How do Robot Subsidies Affect Aggregate Productivity and Firm Dispersion? Theory and Evidence from China",
+"authors": [
+"Yuxiao Hu",
+"Runhong Ma"
+],
+"year": null,
+"venue": "International Economic Review",
+"status": "revise_resubmit"
+},
+{
+"title": "Floods, Collaborative Matching, and the Geography of Innovation",
+"authors": [
+"Yuxiao Hu",
+"Haoyu Gao",
+"Runhong Ma",
+"Peixuan Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "In the Shadow of Floods: Expected Risk and Agricultural Adaptation",
+"authors": [
+"Yuxiao Hu",
+"Qingen Gai",
+"Lianyi Hu",
+"Qinghua Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Early Career Flood Experience and Investment in Infrastructure",
+"authors": [
+"Yuxiao Hu",
+"Zhenhuan Lei",
+"Bohao Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"guifeng shi": {
+"name": "Guifeng Shi",
+"papers": [
+{
+"title": "Nexus Effect: Unraveling the Impact of Political Patronage Connections on Corporate Investment",
+"authors": [
+"Ping Guo",
+"Guifeng Shi",
+"Gary Gang Tian"
+],
+"year": 2025,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Ambiguity of tone in annual reports and bank risk taking",
+"authors": [
+"Kiridaran Kanagaretnam",
+"Wen Li",
+"Guifeng Shi",
+"Zejiang Zhou"
+],
+"year": 2025,
+"venue": "Accounting & Finance",
+"status": "published"
+},
+{
+"title": "Government-led resource allocation and firm productivity: Evidence from a quasi-natural experiment",
+"authors": [
+"Guifeng Shi",
+"Huijun Li"
+],
+"year": 2025,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "Politicians’ hometown favoritism and corporate investments: The role of social identity",
+"authors": [
+"Ping Guo",
+"Guifeng Shi",
+"Gary Gang Tian",
+"Siqi Duan"
+],
+"year": 2021,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Impact of social capital on tone ambiguity in banks’ 10-K filings",
+"authors": [
+"Kiridaran Kanagaretnam",
+"Amin Mawani",
+"Guifeng Shi",
+"Zejiang Zhou"
+],
+"year": 2020,
+"venue": "Journal of Behavioral and Experimental Finance",
+"status": "published"
+},
+{
+"title": "Do Religious Norms Influence Corporate Debt Financing?",
+"authors": [
+"Jay Cai",
+"Guifeng Shi"
+],
+"year": 2019,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Unemployment Insurance Benefits and Income Smoothing",
+"authors": [
+"Jeffrey Ng",
+"Tharindra Ranasinghe",
+"Guifeng Shi",
+"Holly Yang"
+],
+"year": 2019,
+"venue": "Journal of Accounting and Public Policy",
+"status": "published"
+},
+{
+"title": "Product market competition and earnings management: A firm-level analysis",
+"authors": [
+"Guifeng Shi",
+"Jianfei Sun",
+"Li Zhang"
+],
+"year": 2018,
+"venue": "Journal of Business Finance & Accounting",
+"status": "published"
+},
+{
+"title": "Corporate social responsibility and geographic dispersion",
+"authors": [
+"Guifeng Shi",
+"Jianfei Sun",
+"Li Zhang",
+"Yufang Jin"
+],
+"year": 2017,
+"venue": "Journal of Accounting and Public Policy",
+"status": "published"
+},
+{
+"title": "Geographic Dispersion and Earnings Management",
+"authors": [
+"Guifeng Shi",
+"Jianfei Sun",
+"Rui Luo"
+],
+"year": 2015,
+"venue": "Journal of Accounting and Public Policy",
+"status": "published"
+},
+{
+"title": "Corporate bond covenants and corporate social responsibility investment",
+"authors": [
+"Guifeng Shi",
+"Jianfei Sun"
+],
+"year": 2015,
+"venue": "Journal of Business Ethics",
+"status": "published"
+}
+]
+},
+"kuo zhang": {
+"name": "Kuo Zhang",
+"papers": [
+{
+"title": "Foreign Cash: Taxes, Internal Capital Markets and Agency Problems",
+"authors": [
+"Kuo Zhang",
+"Jarrad Harford",
+"Cong Wang"
+],
+"year": 2017,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Credit Default Swaps and Corporate Innovation",
+"authors": [
+"Xin Chang",
+"Yangyang Chen",
+"Qian Wang",
+"Wenrui Zhang",
+"Kuo Zhang"
+],
+"year": 2019,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Trust and Stock Price Synchronicity: Evidence from China",
+"authors": [
+"Kuo Zhang",
+"Baoyin Qiu",
+"Junli Yu"
+],
+"year": 2020,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Do Social Connections Mitigate Hold-Up and Facilitate Cooperation? Evidence from Supply Chain Relationships",
+"authors": [
+"Kuo Zhang",
+"Sudipto Dasgupta",
+"Chenqi Zhu"
+],
+"year": 2021,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Expert Advice: Industry Expertise of M&A Advisors and Acquirer Shareholder Returns",
+"authors": [
+"Kuo Zhang",
+"Cong Wang",
+"Fei Xie"
+],
+"year": 2022,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "Spillover Effects of Special Representative Litigation with Chinese Characteristics: An Event Study Based on Kangmei Pharmaceutical",
+"authors": [
+"Kuo Zhang",
+"Na Li",
+"Guifeng Shi"
+],
+"year": 2022,
+"venue": "财经研究 (Journal of Finance and Economics)",
+"status": "published"
+},
+{
+"title": "Labor Unemployment Risk and CEO Incentive Compensation",
+"authors": [
+"Kuo Zhang",
+"Andrew Ellul",
+"Cong Wang"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Corporate Diversification Strategies during Public Crises: Motivations and Consequences",
+"authors": [
+"Kuo Zhang",
+"Junli Yu",
+"Shangkun Liang",
+"Huan Lin"
+],
+"year": 2025,
+"venue": "管理评论 (Management Review)",
+"status": "published"
+},
+{
+"title": "Can Delisting Regulation Reform Improve Pricing Efficiency? A Perspective Based on Shell Companies",
+"authors": [
+"Kuo Zhang",
+"Jinsen Zhang",
+"Yuanyu Qu"
+],
+"year": 2025,
+"venue": "金融研究 (Journal of Financial Research)",
+"status": "published"
+},
+{
+"title": "Trust, Vertical Acquisitions, and Boundaries of the Firm",
+"authors": [
+"Kuo Zhang",
+"Cong Wang",
+"Fei Xie"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"xiaodong xu": {
+"name": "Xiaodong Xu",
+"papers": [
+{
+"title": "Investment-Internal Capital Sensitivity, Investment-Cash Flow Sensitivity and Dividend Payment",
+"authors": [
+"Xiaodong Xu",
+"H.F. Xu"
+],
+"year": 2018,
+"venue": "China Finance Review International",
+"status": "forthcoming"
+},
+{
+"title": "Signaling Good by Doing Good: How Does Environmental Corporate Social Responsibility Affect International Expansion?",
+"authors": [
+"Xiaodong Xu",
+"S. X. Zeng",
+"H.Q. Chen"
+],
+"year": 2018,
+"venue": "Business Strategy and the Environment",
+"status": "published"
+},
+{
+"title": "Free Cash Flow, Over-Investment and Corporate Governance in China",
+"authors": [
+"X. Chen",
+"Y. Sun",
+"Xiaodong Xu"
+],
+"year": 2016,
+"venue": "Pacific-Basin Finance Journal",
+"status": "published"
+},
+{
+"title": "The Impact of Corporate Environmental Violation on Shareholders’ Wealth: A Media Coverage Perspective",
+"authors": [
+"Xiaodong Xu",
+"S. X. Zeng",
+"H. L. Zou",
+"Jonathan J. Shi"
+],
+"year": 2016,
+"venue": "Business Strategy and the Environment",
+"status": "published"
+},
+{
+"title": "Whether Top Executives' Turnover Influences Environmental Responsibility: From the Perspective of Environmental Information Disclosure",
+"authors": [
+"X. H. Meng",
+"S. X. Zeng",
+"C. M. Tam",
+"Xiaodong Xu"
+],
+"year": 2013,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Factors that Drive Chinese Listed Companies in Voluntary Disclosure of Environmental Information",
+"authors": [
+"S.X. Zeng",
+"Xiaodong Xu",
+"H.T. Yin",
+"Vivian W.Y. Tam"
+],
+"year": 2012,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Accounting Conservatism, Ultimate Ownership and Investment Efficiency",
+"authors": [
+"Xiaodong Xu",
+"X. Wang",
+"N. Han"
+],
+"year": 2012,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Stock Market's Reaction to Disclosure of Environmental Violations: Evidence from China",
+"authors": [
+"Xiaodong Xu",
+"S. X. Zeng",
+"C. M. Tam"
+],
+"year": 2012,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Releasing of Restricted Shares, Firm Quality, and Market Trading Activity",
+"authors": [
+"Xiaodong Xu",
+"X. Wang",
+"Y. Jin"
+],
+"year": 2010,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Towards Corporate Environmental Information Disclosure: An Empirical Study in China",
+"authors": [
+"S.X. Zeng",
+"Xiaodong Xu",
+"Z.Y. Dong",
+"Vivian W.Y. Tam"
+],
+"year": 2010,
+"venue": "Journal of Cleaner Production",
+"status": "published"
+},
+{
+"title": "Firm Performance and the Ownership of the Largest Shareholder",
+"authors": [
+"Xiaoyue Chen",
+"Jeong-Bon Kim",
+"Steven Shuye Wang",
+"Xiaodong Xu"
+],
+"year": 2007,
+"venue": "Corporate Ownership and Control",
+"status": "published"
+},
+{
+"title": "Corporate Governance, Firm Performance and Ownership of the Largest Shareholders",
+"authors": [
+"Xiaodong Xu",
+"Xia Wang"
+],
+"year": 2006,
+"venue": "China Accounting and Finance Review",
+"status": "published"
+}
+]
+},
+"yiming hu": {
+"name": "Yiming Hu",
+"papers": [
+{
+"title": "The analysis for the culture in CPA firms in China",
+"authors": [
+"Yiming Hu"
+],
+"year": 2006,
+"venue": "Journal of CICPA",
+"status": "published"
+},
+{
+"title": "The study of the shareholders and core management in CPA firms",
+"authors": [
+"Yiming Hu"
+],
+"year": 2006,
+"venue": "Journal of CICPA",
+"status": "published"
+},
+{
+"title": "How to use the BSC efficiently?",
+"authors": [
+"Yiming Hu"
+],
+"year": 2002,
+"venue": "The Finance and Accounting",
+"status": "published"
+},
+{
+"title": "The information resources, concerned fields and the used analysis tools of CFAs",
+"authors": [
+"Yiming Hu"
+],
+"year": 2003,
+"venue": "Journal of Finance",
+"status": "published"
+},
+{
+"title": "The study of the enforcement bodies and behaviors in the security market",
+"authors": [
+"Yiming Hu"
+],
+"year": 2002,
+"venue": "Journal of Auditing Research",
+"status": "published"
+},
+{
+"title": "The difference of the information disclosure for the international active banks",
+"authors": [
+"Yiming Hu"
+],
+"year": 2002,
+"venue": "Journal of World Economy",
+"status": "published"
+}
+]
+},
+"hui ding": {
+"name": "Hui Ding",
+"papers": [
+{
+"title": "Understanding Analysts’ Use of Macroeconomic News",
+"authors": [
+"Hui Ding",
+"Ruiting Dai",
+"Frank X. Zhang"
+],
+"year": null,
+"venue": "Journal of Accounting, Auditing & Finance",
+"status": "published"
+},
+{
+"title": "Market Reaction to CEOs’ Dynamic Hemifacial Asymmetry",
+"authors": [
+"Hui Ding",
+"Rajiv Banker",
+"Rong Huang",
+"Xiaorong Li"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Why Firms Choose ESOPs? Evidence from Market Value Management",
+"authors": [
+"Hui Ding",
+"Chen Yunjia",
+"Lyu Changjiang",
+"Huang Haijie"
+],
+"year": 2020,
+"venue": "会计研究",
+"status": "published"
+},
+{
+"title": "Investor Sophistication, Opinion Disagreement, and Stock Price Risk: Evidence from Social Media",
+"authors": [
+"Hui Ding",
+"Lyu Changjiang",
+"Chen Yunjia"
+],
+"year": 2018,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "Social Media, Investor Sophistication, and Earnings Expectation: Evidence from SHSE E-Interaction",
+"authors": [
+"Hui Ding",
+"Lyu Changjiang",
+"Huang Haijie"
+],
+"year": 2018,
+"venue": "经济研究",
+"status": "published"
+},
+{
+"title": "The Reputation of Independent Director and Earnings Management: Perspective from Accounting Expertise",
+"authors": [
+"Hui Ding",
+"Huang Haijie",
+"Lyu Changjiang"
+],
+"year": 2016,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "Strategic Position and Operational Consequence of Cloud Computing",
+"authors": [
+"Hui Ding",
+"Rong Huang",
+"Xiaorong Li",
+"Min Zheng"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Impact of Nominal Price Illusion on Firm Disclosures",
+"authors": [
+"Hui Ding",
+"Yangyang Chen",
+"Qintan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"keyuan zhang": {
+"name": "Keyuan Zhang",
+"papers": [
+{
+"title": "The 2003 U.S. Dividend Tax Cut, Small Business Loan Supply, and the Real Economy",
+"authors": [
+"Keyuan Zhang",
+"Oliver Zhen Li",
+"Yupeng Lin"
+],
+"year": 2026,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Unveiling the Hidden Hazards: Exploring the Unintended Consequences of Legal Changes on Employee Injuries",
+"authors": [
+"Keyuan Zhang",
+"Ke Michael Mai",
+"Yupeng Lin",
+"Rengong (Alex) Zhang"
+],
+"year": 2026,
+"venue": "Journal of Applied Psychology",
+"status": "forthcoming"
+},
+{
+"title": "Short-Selling Pressure and Workplace Safety: Curbing Short-Termism Through Stakeholder Interdependencies",
+"authors": [
+"Keyuan Zhang",
+"Cuili Qian",
+"Donal Crilly",
+"Yupeng Lin",
+"Rengong Zhang"
+],
+"year": 2023,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "Do Philanthropic Auditors Provide High-Quality Audit Services? Evidence from China",
+"authors": [
+"Keyuan Zhang",
+"Dan Li",
+"Zhifeng Yang",
+"Min Zhang"
+],
+"year": 2022,
+"venue": "The International Journal of Accounting",
+"status": "published"
+},
+{
+"title": "Bank Ownership and Dynamic Capital Structure Adjustment of Firms: Evidence from China",
+"authors": [
+"Keyuan Zhang",
+"Sheng Zhang",
+"Min Zhang"
+],
+"year": 2016,
+"venue": "China Journal of Accounting Studies",
+"status": "published"
+}
+]
+},
+"shengquan hao": {
+"name": "Shengquan Hao",
+"papers": [
+{
+"title": "Relative Firm Profitability and Stock Return Sensitivity to Industry-level News",
+"authors": [
+"Shengquan Hao",
+"Qinglu Jin",
+"Guochang Zhang"
+],
+"year": 2011,
+"venue": "The Accounting Review",
+"status": "published"
+},
+{
+"title": "Investment Growth and the Relation between Equity Value, Earnings, and Equity Book Value",
+"authors": [
+"Shengquan Hao",
+"Qinglu Jin",
+"Guochang Zhang"
+],
+"year": 2011,
+"venue": "The Accounting Review",
+"status": "published"
+}
+]
+},
+"shubo zhang": {
+"name": "Shubo Zhang",
+"papers": [
+{
+"title": "Calling For Transparency: Evidence From A Field Experiment",
+"authors": [
+"Shubo Zhang",
+"TJ Wong",
+"Gwen Yu",
+"Tianyu Zhang"
+],
+"year": 2024,
+"venue": "Journal of Accounting and Economics",
+"status": "published"
+},
+{
+"title": "How does an intra-family succession effect strategic change and performance in China’s family firms?",
+"authors": [
+"Shubo Zhang",
+"Jing Zhao",
+"Michael Carney",
+"Limin Zhu"
+],
+"year": 2020,
+"venue": "Asia Pacific Journal of Management",
+"status": "published"
+}
+]
+},
+"kai guo": {
+"name": "Kai Guo",
+"papers": [
+{
+"title": "Private firms’ financial constraints and share pledging by controlling shareholders of publicly listed firms: Evidence from China",
+"authors": [
+"Kai Guo",
+"Bin Ke",
+"Song Tang"
+],
+"year": 2023,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "The Effect of Pre-trade Disclosure Regulation on Insider Trading and Stock Market Efficiency",
+"authors": [
+"Kai Guo",
+"Bin Ke"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"li huang": {
+"name": "Li Huang",
+"papers": [
+{
+"title": "Prosocial Cultural Heritage and Corporates Philanthropy",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Shan Wang",
+"Lijun Xia"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "The Effect of Corporate Tax Rates on Financial Leverage: Evidence From China's 2015 Deleverage Program",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Hang Liu",
+"Chenkai Ni"
+],
+"year": 2026,
+"venue": "Journal of Accounting, Auditing & Finance",
+"status": "published"
+},
+{
+"title": "Ancient notching or tokening as bookkeeping - Evidence from wood slips in China during 217-210BCE",
+"authors": [
+"Min Chen",
+"Oliver Zhen Li",
+"Chunlong Zhang",
+"Li Huang"
+],
+"year": 2025,
+"venue": "China Journal of Accounting Research",
+"status": "published"
+},
+{
+"title": "Reciprocity in Corporate Tax Compliance - Evidence from Ozone Pollution",
+"authors": [
+"Travis Chow",
+"Zhongwen Fan",
+"Oliver Zhen Li",
+"Siman Li",
+"Li Huang"
+],
+"year": 2023,
+"venue": "Journal of Accounting Research",
+"status": "published"
+},
+{
+"title": "Inferring China’s excess mortality during the COVID-19 pandemic using online mourning and funeral search volume",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Ximing Yin"
+],
+"year": 2023,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "Individualism and the Fight Against COVID-19",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Baiqiang Wang",
+"Zilong Zhang"
+],
+"year": 2022,
+"venue": "Humanities and Social Sciences Communications",
+"status": "published"
+},
+{
+"title": "Government Disclosure in Influencing People’s Behaviors during the COVID-19 Pandemic",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Yang Yi"
+],
+"year": 2021,
+"venue": "Humanities and Social Sciences Communications",
+"status": "published"
+},
+{
+"title": "Gender and Age Based Investor Affinities in A Ponzi Scheme",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Yupeng Lin",
+"Chao Xu",
+"Haoran Xu"
+],
+"year": 2021,
+"venue": "Humanities and Social Sciences Communications",
+"status": "published"
+}
+]
+},
+"shuo li": {
+"name": "Shuo Li",
+"papers": []
+},
+"dongdong ge": {
+"name": "Dongdong Ge",
+"papers": []
+},
+"simai he": {
+"name": "Simai He",
+"papers": [
+{
+"title": "Approximating tensor norms via sphere covering: bridging the gap between primal and dual",
+"authors": [
+"Simai He",
+"Haodong Hu",
+"Bo Jiang",
+"Zhening Li"
+],
+"year": 2023,
+"venue": "SIAM Journal on Optimization",
+"status": "published"
+},
+{
+"title": "Extreme ratio between spectral and Frobenius norms of nonnegative tensors",
+"authors": [
+"Shengyu Cao",
+"Simai He",
+"Zhening Li",
+"Zhen Wang"
+],
+"year": 2023,
+"venue": "SIAM Journal on Matrix Analysis and Applications",
+"status": "published"
+},
+{
+"title": "JD.com: Operations Research Algorithms Drive Intelligent Warehouse Robots to Work",
+"authors": [
+"Hengle Qin",
+"Jun Xiao",
+"Dongdong Ge",
+"Linwei Xin",
+"Jianjun Gao",
+"Simai He",
+"Haodong Hu",
+"John Gunnar Carlsson"
+],
+"year": 2022,
+"venue": "INFORMS Journal on Applied Analytics",
+"status": "published"
+},
+{
+"title": "Technical Note -- Preservation of Supermodularity in Parametric Optimization Problems with Nonlattice Structures",
+"authors": [
+"Xin Chen",
+"Peng Hu",
+"Simai He"
+],
+"year": 2013,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "Approximation Algorithms for Homogeneous Polynomial Optimization with Quadratic Constraints",
+"authors": [
+"Simai He",
+"Zhening Li",
+"Shuzhong Zhang"
+],
+"year": 2010,
+"venue": "Mathematical Programming",
+"status": "published"
+},
+{
+"title": "The Cost of Cache-Oblivious Searching",
+"authors": [
+"M.A. Bender",
+"G.S. Brodal",
+"R. Fagerberg",
+"D. Ge",
+"S. He",
+"H. Hu"
+],
+"year": 2011,
+"venue": "Algorithmica",
+"status": "published"
+}
+]
+},
+"tao yao": {
+"name": "Tao Yao",
+"papers": []
+},
+"huikang liu": {
+"name": "Huikang Liu",
+"papers": []
+},
+"kai wang": {
+"name": "Kai Wang",
+"papers": [
+{
+"title": "Agent-Kernel: A MicroKernel Multi-Agent System Framework for Adaptive Social Simulation Powered by LLM",
+"authors": [
+"Yuren Mao",
+"Peigen Liu",
+"Xinjian Wang",
+"Rui Ding",
+"Jing Miao",
+"Hui Zou",
+"Mingjie Qi",
+"Wanxiang Luo",
+"Longbin Lai",
+"Kai Wang",
+"Zhengping Qian",
+"Peilun Yang",
+"Yunjun Gao",
+"Ying Zhang"
+],
+"year": 2026,
+"venue": "arXiv preprint",
+"status": "working_paper"
+},
+{
+"title": "Are Large Language Models Suitable for Graph Computation? Progress and Prospects",
+"authors": [
+"Yuting Zhang",
+"Yi Han",
+"Kai Wang",
+"Wei Ni",
+"Angela Bonifati",
+"Wenjie Zhang"
+],
+"year": 2026,
+"venue": "arXiv preprint",
+"status": "working_paper"
+},
+{
+"title": "Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory",
+"authors": [
+"Rongjie Jiang",
+"Jianwei Wang",
+"Gengda Zhao",
+"Chengyang Luo",
+"Kai Wang",
+"Wenjie Zhang"
+],
+"year": 2026,
+"venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)",
+"status": "forthcoming"
+},
+{
+"title": "Structure-Aware Abstraction of Hierarchical Time Series",
+"authors": [
+"Yihan Wu",
+"Xuliang Zhu",
+"Guozhong Li",
+"Kai Wang",
+"Xuemin Lin"
+],
+"year": 2026,
+"venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)",
+"status": "forthcoming"
+},
+{
+"title": "Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction",
+"authors": [
+"Jingye Zhao",
+"Jianan Shen",
+"Jianwei Wang",
+"Tianyuan Zhou",
+"Ruijia Wu",
+"Kai Wang",
+"Xuemin Lin"
+],
+"year": 2026,
+"venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+"status": "published"
+},
+{
+"title": "TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration",
+"authors": [
+"Jiawei Zhou",
+"Ruicheng Zhu",
+"Mengshi Chen",
+"Jianwei Wang",
+"Kai Wang"
+],
+"year": 2026,
+"venue": "The Web Conference (Demo)",
+"status": "forthcoming"
+},
+{
+"title": "Approximate Butterfly Counting in Sublinear Time",
+"authors": [
+"Chi Luo",
+"Jiaxin Song",
+"Yuhao Zhang",
+"Kai Wang",
+"Zhixing He",
+"Kuan Yang"
+],
+"year": 2026,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Efficient Hyper-truss Decomposition over Hypergraphs",
+"authors": [
+"Haozhe Yin",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin"
+],
+"year": 2026,
+"venue": "VLDB",
+"status": "forthcoming"
+},
+{
+"title": "Efficient and Effective Biclique Counting with Local Differential Privacy",
+"authors": [
+"Yizhang He",
+"Wenjie Zhang",
+"Kai Wang",
+"Xuemin Lin",
+"Ying Zhang",
+"Wei Ni"
+],
+"year": 2026,
+"venue": "SIGMOD",
+"status": "forthcoming"
+},
+{
+"title": "TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning",
+"authors": [
+"Yitong Song",
+"Pengcheng Zhang",
+"Chao Gao",
+"Bin Yao",
+"Kai Wang",
+"Zongyuan Wu",
+"Lin Qu"
+],
+"year": 2026,
+"venue": "SIGMOD",
+"status": "forthcoming"
+},
+{
+"title": "Empowering Tabular Data Preparation with Language Models: Why and How?",
+"authors": [
+"Mengshi Chen",
+"Yuxiang Sun",
+"Tengchao Li",
+"Jianwei Wang",
+"Kai Wang",
+"Xuemin Lin",
+"Ying Zhang",
+"Wenjie Zhang"
+],
+"year": 2026,
+"venue": "ACL",
+"status": "forthcoming"
+},
+{
+"title": "Agent-based Substructure Counting under Local Differential Privacy",
+"authors": [
+"Yuting Zhang",
+"Kai Wang",
+"Wei Ni",
+"Ying Zhang",
+"Wenjie Zhang"
+],
+"year": 2026,
+"venue": "ACL",
+"status": "forthcoming"
+},
+{
+"title": "From Global to Query-Dependent: Summarization of Large Hierarchical DAGs",
+"authors": [
+"Xuliang Zhu",
+"Xin Huang",
+"Kai Wang",
+"Jianliang Xu",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "ACM Transactions on Database Systems (TODS)",
+"status": "published"
+},
+{
+"title": "Motif Counting in Complex Networks: A Comprehensive Survey",
+"authors": [
+"Haozhe Yin",
+"Kai Wang",
+"Wenjie Zhang",
+"Yizhang He",
+"Ying Zhang",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "arXiv preprint arXiv:2503.19573",
+"status": "working_paper"
+},
+{
+"title": "COMET: An Interactive Framework for Efficient and Effective Community Search via Active Learning",
+"authors": [
+"Jiawei Zhou",
+"Kai Wang",
+"Jianwei Wang",
+"Kunpeng Zhang",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "INFORMS Journal on Computing (IJOC)",
+"status": "published"
+},
+{
+"title": "On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing.",
+"authors": [
+"Jianwei Wang",
+"Kai Wang",
+"Ying Zhang",
+"Wenjie Zhang",
+"Xiwei Xu",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "VLDB",
+"status": "forthcoming"
+},
+{
+"title": "Efficient Bitruss Decomposition on GPU",
+"authors": [
+"Shunyang Li",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Yizhang He"
+],
+"year": 2025,
+"venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+"status": "published"
+},
+{
+"title": "Influence Minimization via Blocking Strategies",
+"authors": [
+"Jiadong Xie",
+"Fan Zhang",
+"Kai Wang",
+"Jialu Liu",
+"Xuemin Lin",
+"Wenjie Zhang"
+],
+"year": 2025,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy",
+"authors": [
+"Yizhang He",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Ying Zhang"
+],
+"year": 2025,
+"venue": "SIGMOD",
+"status": "forthcoming"
+},
+{
+"title": "Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy",
+"authors": [
+"Yizhang He",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Ying Zhang",
+"Wei Ni"
+],
+"year": 2025,
+"venue": "SIGMOD",
+"status": "forthcoming"
+},
+{
+"title": "Efficient Computation of Hyper-triangles on Hypergraphs",
+"authors": [
+"Haozhe Yin",
+"Kai Wang",
+"Wenjie Zhang",
+"Ying Zhang",
+"Ruijia Wu",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "VLDB",
+"status": "forthcoming"
+},
+{
+"title": "The k-Trine Cohesive Subgraph and Its Efficient Algorithms",
+"authors": [
+"Jinyu Duan",
+"Haicheng Guo",
+"Fan Zhang",
+"Kai Wang",
+"Zhengping Qian",
+"Zhihong Tian"
+],
+"year": 2025,
+"venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)",
+"status": "forthcoming"
+},
+{
+"title": "Efficient k-Truss Breaking and Minimization",
+"authors": [
+"Ruicheng Zhu",
+"Xintong Wang",
+"Kai Wang",
+"Fan Zhang",
+"Zhengping Qian",
+"Long Yuan"
+],
+"year": 2025,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Truss Decomposition Under Edge Local Differential Privacy",
+"authors": [
+"Yuting Zhang",
+"Wei Ni",
+"Kai Wang",
+"Yizhang He",
+"Conggai Li"
+],
+"year": 2025,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Preserving K-Connectivity in Dynamic Graphs",
+"authors": [
+"Gengda Zhao",
+"Dong Wen",
+"Xiaoyang Wang",
+"Kai Wang",
+"Xuemin Lin"
+],
+"year": 2025,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Neural Attributed Community Search at Billion Scale",
+"authors": [
+"Jianwei Wang",
+"Kai Wang",
+"Xuemin Lin",
+"Wenjie Zhang",
+"Ying Zhang"
+],
+"year": 2024,
+"venue": "SIGMOD",
+"status": "published"
+},
+{
+"title": "Missing Data Imputation with Uncertainty-Driven Network",
+"authors": [
+"Jianwei Wang",
+"Ying Zhang",
+"Kai Wang",
+"Xuemin Lin",
+"Wenjie Zhang"
+],
+"year": 2024,
+"venue": "SIGMOD",
+"status": "published"
+},
+{
+"title": "Efficient Unsupervised Community Search with Pre-trained Graph Transformer",
+"authors": [
+"Jianwei Wang",
+"Kai Wang",
+"Xuemin Lin",
+"Wenjie Zhang",
+"Ying Zhang"
+],
+"year": 2024,
+"venue": "Proceedings of the VLDB Endowment",
+"status": "published"
+},
+{
+"title": "Efficient algorithms for reachability and path queries on temporal bipartite graphs",
+"authors": [
+"Kai Wang",
+"Minghao Cai",
+"Xiaoshuang Chen",
+"Xuemin Lin",
+"Wenjie Zhang",
+"Lu Qin",
+"Ying Zhang"
+],
+"year": 2024,
+"venue": "The VLDB Journal (VLDBJ)",
+"status": "published"
+},
+{
+"title": "Discovering Critical Vertices for Reinforcement of Large-scale Bipartite Networks",
+"authors": [
+"Yizhang He",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Ying Zhang"
+],
+"year": 2024,
+"venue": "The VLDB Journal (VLDBJ)",
+"status": "published"
+},
+{
+"title": "Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments",
+"authors": [
+"Yuwen Qian",
+"Guodong Huang",
+"Chuan Ma",
+"Ming Ding",
+"Long Yuan",
+"Zi Chen",
+"Kai Wang"
+],
+"year": 2024,
+"venue": "IEEE Transactions on Information Forensics and Security (TIFS)",
+"status": "published"
+},
+{
+"title": "Butterfly Counting over Bipartite Graphs with Local Differential Privacy",
+"authors": [
+"Yizhang He",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Wei Ni",
+"Ying Zhang"
+],
+"year": 2024,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Querying Historical Cohesive Subgraphs over Temporal Bipartite Graphs",
+"authors": [
+"Shunyang Li",
+"Kai Wang",
+"Xuemin Lin",
+"Wenjie Zhang",
+"Yizhang He",
+"Long Yuan"
+],
+"year": 2024,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Efficient Reverse k Approximate Nearest Neighbor Search over High-Dimensional Vectors",
+"authors": [
+"Yitong Song",
+"Kai Wang",
+"Bin Yao",
+"Zhida Chen",
+"Jiong Xie",
+"Feifei Li"
+],
+"year": 2024,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Maximal Biclique Enumeration: A Prefix Tree Based Approach",
+"authors": [
+"Jiujian Chen",
+"Kai Wang",
+"Rong-Hua Li",
+"Hongchao Qin",
+"Xuemin Lin",
+"Guoren Wang"
+],
+"year": 2024,
+"venue": "ICDE",
+"status": "published"
+},
+{
+"title": "Scaling Up k-Clique Densest Subgraph Detection",
+"authors": [
+"Yizhang He",
+"Kai Wang",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Ying Zhang"
+],
+"year": 2023,
+"venue": "SIGMOD",
+"status": "published"
+},
+{
+"title": "Cohesive Subgraph Discovery over Uncertain Bipartite Graphs",
+"authors": [
+"Kai Wang",
+"Gengda Zhao",
+"Wenjie Zhang",
+"Xuemin Lin",
+"Ying Zhang",
+"Yizhang He",
+"Chunxiao Li"
+],
+"year": 2023,
+"venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+"status": "published"
+}
+]
+},
+"qi deng": {
+"name": "Qi Deng",
+"papers": [
+{
+"title": "Uniformly optimal and parameter-free first-order methods for convex and function-constrained optimization",
+"authors": [
+"Deng, Q.",
+"Lan, G.",
+"Lin, Z."
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "First-order methods for stochastic variational inequality problems with function constraints",
+"authors": [
+"Boob, D.",
+"Deng, Q.",
+"Khalafi, M."
+],
+"year": 2026,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Accelerated Distance-adaptive Methods for Hölder Smooth and Convex Optimization",
+"authors": [
+"Ren, Y.",
+"Xu, H.",
+"Deng, Q."
+],
+"year": 2025,
+"venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+"status": "published"
+},
+{
+"title": "A low-rank admm splitting approach for semidefinite programming",
+"authors": [
+"Han, Q.",
+"Li, C.",
+"Lin, Z.",
+"Chen, C.",
+"Deng, Q.",
+"Ge, D.",
+"Liu, H.",
+"Ye, Y."
+],
+"year": 2025,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "An Enhanced ADMM-based Interior Point Method for Linear and Conic Optimization",
+"authors": [
+"Deng, Q.",
+"Feng, Q.",
+"Gao, W.",
+"Ge, D.",
+"Jiang, B.",
+"Jiang, Y.",
+"Liu, J.",
+"Liu, T.",
+"Xue, C.",
+"Ye, Y."
+],
+"year": 2024,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Delayed Algorithms for Distributed Stochastic Weakly Convex Optimization",
+"authors": [
+"Gao, W.",
+"Deng, Q."
+],
+"year": 2024,
+"venue": "Advances in Neural Information Processing Systems",
+"status": "published"
+},
+{
+"title": "An accelerated primal‐dual method for semi‐definite programming relaxation of optimal power flow",
+"authors": [
+"Shi, Z.",
+"Wang, X.",
+"Yan, D.",
+"Chen, S.",
+"Lin, Z.",
+"Xia, J.",
+"Deng, Q."
+],
+"year": 2023,
+"venue": "IET Energy Systems Integration",
+"status": "published"
+},
+{
+"title": "Gbm-based bregman proximal algorithms for constrained learning",
+"authors": [
+"Lin, Z.",
+"Deng, Q."
+],
+"year": 2023,
+"venue": "arXiv preprint arXiv:2308.10767",
+"status": "working_paper"
+},
+{
+"title": "Minibatch and momentum model-based methods for stochastic weakly convex optimization",
+"authors": [
+"Deng, Q.",
+"Gao, W."
+],
+"year": 2021,
+"venue": "Advances in Neural Information Processing Systems",
+"status": "published"
+},
+{
+"title": "A feasible level proximal point method for nonconvex sparse constrained optimization",
+"authors": [
+"Boob, D.",
+"Deng, Q.",
+"Lan, G.",
+"Wang, Y."
+],
+"year": 2020,
+"venue": "Advances in Neural Information Processing Systems",
+"status": "published"
+}
+]
+},
+"jing xing": {
+"name": "Jing Xing",
+"papers": [
+{
+"title": "Investor tax breaks and financing for start-ups: Evidence from China",
+"authors": [
+"Jing Xing",
+"Irem Guceri",
+"Xipei Hou"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Taxpayer ratings and access to debt financing",
+"authors": [
+"Xipei Hou",
+"Victor Yinjie Shen",
+"Jing Xing"
+],
+"year": null,
+"venue": "Journal of American Tax Association",
+"status": "forthcoming"
+},
+{
+"title": "Corporate tax cuts for small firms: what do firms do?",
+"authors": [
+"Wei Cui",
+"Mengying Wei",
+"Weisi Xie",
+"Jing Xing"
+],
+"year": 2025,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "How distortive are turnover taxes? Evidence from China",
+"authors": [
+"Jing Xing",
+"Katarzyna Bilicka",
+"Xipei Hou",
+"Sepideh Raei"
+],
+"year": 2024,
+"venue": "Journal of Development Economics",
+"status": "published"
+},
+{
+"title": "Expessways and policy choices of local governments",
+"authors": [
+"Jing Xing",
+"Eddy Tam"
+],
+"year": 2024,
+"venue": "European Economic Review",
+"status": "published"
+},
+{
+"title": "Hastily announced: Mergers and acquisitions with pledging shareholders",
+"authors": [
+"Yinjie Victor Shen",
+"Xipei Hou",
+"Jing Xing",
+"Fuzhao Zhou"
+],
+"year": 2023,
+"venue": "Journal of Financial Stability",
+"status": "published"
+},
+{
+"title": "Cash on the table? Imperfect take-up of tax incentives and firm investment behavior",
+"authors": [
+"Wei Cui",
+"Jeffrey Hicks",
+"Jing Xing"
+],
+"year": 2022,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Real responses to anti-tax avoidance: Evidence from the UK worldwide debt cap",
+"authors": [
+"Katarzyna Bilicka",
+"Jing Xing",
+"Yaxuan Qi"
+],
+"year": 2022,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "What drives Chinese overseas M&A investment? Evidence from micro data",
+"authors": [
+"Clemens Fuest",
+"Felix Hugger",
+"Samina Sultan",
+"Jing Xing"
+],
+"year": 2022,
+"venue": "Review of International Economics",
+"status": "published"
+},
+{
+"title": "The impact of investment incentives: Evidence from UK corporation tax returns",
+"authors": [
+"Giorgia Maffini",
+"Jing Xing",
+"Michael P. Devereux"
+],
+"year": 2019,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published"
+},
+{
+"title": "Territorial tax system reform and multinationals' foreign cash Holdings: New evidence from Japan",
+"authors": [
+"Jing Xing"
+],
+"year": 2018,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Corporate tax incentives and capital structure: New evidence from UK firm-level tax returns",
+"authors": [
+"Michael P. Devereux",
+"Giorgia Maffini",
+"Jing Xing"
+],
+"year": 2018,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Central-local government fiscal relations and cyclicality of public spending: Evidence from China",
+"authors": [
+"Jing Xing",
+"Clemens Fuest"
+],
+"year": 2018,
+"venue": "International Tax and Public Finance",
+"status": "published"
+},
+{
+"title": "Corporate taxation and capital accumulation: Evidence from sectoral panel data for 14 OECD countries",
+"authors": [
+"Stephen Bond",
+"Jing Xing"
+],
+"year": 2015,
+"venue": "Journal of Public Economics",
+"status": "published"
+},
+{
+"title": "Tax structure and growth: How robust is the empirical evidence?",
+"authors": [
+"Jing Xing"
+],
+"year": 2012,
+"venue": "Economics Letters",
+"status": "published"
+}
+]
+},
+"jun tu": {
+"name": "Jun Tu",
+"papers": []
+},
+"xu zheng": {
+"name": "Xu Zheng",
+"papers": [
+{
+"title": "A Goodness-of-fit Test for Copulas Based on Martingale Transformation",
+"authors": [
+"Xu Zheng",
+"Xiaohui Lu"
+],
+"year": null,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "The Comparison of the Hedonic, Repeated Sales, and Hybrid Models: Evidence from the Chinese Paintings Market",
+"authors": [
+"Xu Zheng",
+"Fang Wang"
+],
+"year": 2018,
+"venue": "Cogent Economics and Finance",
+"status": "published"
+},
+{
+"title": "Performance analysis of investing in Chinese oil paintings based on a hedonic regression model of price index",
+"authors": [
+"Xu Zheng",
+"Fang Wang"
+],
+"year": 2017,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Contrarian Trading Strategy in Chinese Stock Market based on Cash Flow Factor",
+"authors": [
+"Xu Zheng",
+"Yinfei Zhu"
+],
+"year": 2017,
+"venue": "Review of Investment Studies",
+"status": "published"
+},
+{
+"title": "Long Memory in Asymmetric Dependence between LME and Chinese Aluminum Futures",
+"authors": [
+"Xu Zheng",
+"Yuting Gong"
+],
+"year": 2016,
+"venue": "The Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "Long Memory in Tail Dependence Based on Copula Models",
+"authors": [
+"Xu Zheng",
+"Yuting Gong"
+],
+"year": 2016,
+"venue": "Journal of Systems Science and Mathematical Sciences",
+"status": "published"
+},
+{
+"title": "A Model-free Test for Contagion between Energy Market and Stock Market",
+"authors": [
+"Xu Zheng",
+"Zhiyuan Pan",
+"Yuting Gong"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Asymptotically Distribution-free Tests for the Volatility Function of a Diffusion",
+"authors": [
+"Xu Zheng",
+"Qiang Chen",
+"Zhiyuan Pan"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Testing Asymmetric Correlations in Stock Returns via Empirical Likelihood Method",
+"authors": [
+"Xu Zheng",
+"Zhiyuan Pan",
+"Qiang Chen"
+],
+"year": 2014,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Specification Testing of Drift Function in Diffusion Models based on Khamaladze’s Martingale Transformation",
+"authors": [
+"Xu Zheng",
+"Qiang Chen",
+"Xiu Xu"
+],
+"year": 2014,
+"venue": "Journal of Management Sciences in China",
+"status": "published"
+},
+{
+"title": "Short-term Forecasting of CPI Based on MIDAS Models",
+"authors": [
+"Xu Zheng",
+"Yuting Gong",
+"Qiang Chen"
+],
+"year": 2014,
+"venue": "Statistical Research",
+"status": "published"
+},
+{
+"title": "Arbitrage Strategy in Chinese Bond Futures Market",
+"authors": [
+"Xu Zheng",
+"Yuxiang Fang"
+],
+"year": 2014,
+"venue": "Price Theory and Practice",
+"status": "published"
+},
+{
+"title": "Hedging Performance between Stock Market and Stock Index Future Market and the Market Imperfection in China",
+"authors": [
+"Xu Zheng",
+"Qiang Chen",
+"Xiaoqiang Lin"
+],
+"year": 2013,
+"venue": "Systems Engineering-Theory & Practice",
+"status": "published"
+},
+{
+"title": "Jumps in Chinese Stock Market and Pricing of Stock Index Futures",
+"authors": [
+"Xu Zheng",
+"Qiang Chen",
+"Zhiyuan Pan"
+],
+"year": 2013,
+"venue": "Review of Investment Studies",
+"status": "published"
+},
+{
+"title": "Testing Parametric Conditional Distributions Using the Nonparametric Smoothing Method",
+"authors": [
+"Xu Zheng"
+],
+"year": 2012,
+"venue": "Metrika",
+"status": "published"
+},
+{
+"title": "Mutual Fund Herding Behavior Analysis Based on Price Forecasting Power",
+"authors": [
+"Xu Zheng",
+"Peng Xie"
+],
+"year": 2011,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "Testing Heteroskedasticity in Nonlinear and Nonparametric Regressions",
+"authors": [
+"Xu Zheng"
+],
+"year": 2009,
+"venue": "Canadian Journal of Statistics",
+"status": "published"
+},
+{
+"title": "Testing for Discrete Choice Models",
+"authors": [
+"Xu Zheng"
+],
+"year": 2008,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Nonlinear Methods in Microeconometrics",
+"authors": [
+"Xu Zheng",
+"Chunrong Ai"
+],
+"year": 2008,
+"venue": "China Renmin University (Series on Western Research in the Humanities and Social Sciences)",
+"status": "published"
+},
+{
+"title": "A Consistent Test of Conditional Parametric Distributions",
+"authors": [
+"Xu Zheng"
+],
+"year": 2000,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Consistent Specification Testing for Conditional Symmetry",
+"authors": [
+"Xu Zheng"
+],
+"year": 1998,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "A Consistent Nonparametric Test of Parametric Regression Models under Conditional Quantile Restrictions",
+"authors": [
+"Xu Zheng"
+],
+"year": 1998,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "A Consistent Specification Test of Independence",
+"authors": [
+"Xu Zheng"
+],
+"year": 1997,
+"venue": "Journal of Nonparametric Statistics",
+"status": "published"
+},
+{
+"title": "A Strong Law of Large Numbers: Solution",
+"authors": [
+"Xu Zheng"
+],
+"year": 1996,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "A Consistent Test of Functional Form via Nonparametric Estimation Techniques",
+"authors": [
+"Xu Zheng"
+],
+"year": 1996,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "Semiparametric Efficiency Bounds for the Binary Choice and Sample Selection Models under Symmetry",
+"authors": [
+"Xu Zheng"
+],
+"year": 1995,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "Deriving Restricted Least Squares Estimator without a Lagrangean: Solution",
+"authors": [
+"Xu Zheng"
+],
+"year": 1994,
+"venue": "Econometric Theory",
+"status": "published"
+},
+{
+"title": "Efficiency as Correlation: Solution",
+"authors": [
+"Xu Zheng"
+],
+"year": 1994,
+"venue": "Econometric Theory",
+"status": "published"
+}
+]
+},
+"haibing shu": {
+"name": "Haibing Shu",
+"papers": [
+{
+"title": "The Dynamic Role of Subnational Regions in Firm Performance",
+"authors": [
+"Haibing Shu",
+"V. Brian Viard"
+],
+"year": 2025,
+"venue": "Journal of Management Studies",
+"status": "published"
+},
+{
+"title": "The Role of Government in Firm Outcomes",
+"authors": [
+"Ran Duchin",
+"Zhenyu Gao",
+"Haibing Shu"
+],
+"year": 2020,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "When a Sinner Does a Good Deed: The Path Dependence of Reputation Repair",
+"authors": [
+"Haibing Shu",
+"Sonia M.L. Wong"
+],
+"year": 2018,
+"venue": "Journal of Management Studies",
+"status": "published"
+},
+{
+"title": "The Impacts of Political Uncertainty on Asset Prices: Evidence from the Bo Scandal in China",
+"authors": [
+"Laura Xiaolei Liu",
+"Haibing Shu",
+"KC John Wei"
+],
+"year": 2017,
+"venue": "Journal of Financial Economics",
+"status": "published"
+}
+]
+},
+"qi zhang": {
+"name": "Qi Zhang",
+"papers": [
+{
+"title": "Market Development, Information Diffusion and the Global Anomaly Puzzle",
+"authors": [
+"C. X. Cai",
+"P. Li",
+"K. Keasey",
+"Qi Zhang"
+],
+"year": 2021,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "forthcoming"
+},
+{
+"title": "The Chinese Warrants Bubble: Evidence from Brokerage Account Records",
+"authors": [
+"N. Pearson",
+"Z. Yang",
+"Qi Zhang"
+],
+"year": 2021,
+"venue": "The Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Negative tone in lobbying the international accounting standards board",
+"authors": [
+"I. Clacher",
+"K. Shields",
+"Qi Zhang"
+],
+"year": 2019,
+"venue": "The International Journal of Accounting",
+"status": "published"
+},
+{
+"title": "FARVaR: Functional Autoregressive Value-at-Risk",
+"authors": [
+"C. X. Cai",
+"M. Kim",
+"Y. Shin",
+"Qi Zhang"
+],
+"year": 2019,
+"venue": "Journal of Financial Econometrics",
+"status": "published"
+},
+{
+"title": "In Search of Winning Mutual Funds in the Chinese Stock Market",
+"authors": [
+"D. Koutmos",
+"B. Wu",
+"Qi Zhang"
+],
+"year": 2019,
+"venue": "Review of Quantitative Finance and Accounting",
+"status": "published"
+},
+{
+"title": "Credit scores and the performance of newly-listed stocks: An exploration of the Chinese A-share market",
+"authors": [
+"C. X. Cai",
+"P. B. McGuinness",
+"Qi Zhang"
+],
+"year": 2018,
+"venue": "Review of Quantitative Finance and Accounting",
+"status": "published"
+},
+{
+"title": "Overreaction to growth opportunities: an explanation of the asset growth anomaly",
+"authors": [
+"C. X. Cai",
+"P. Li",
+"Qi Zhang"
+],
+"year": 2018,
+"venue": "European Financial Management",
+"status": "published"
+},
+{
+"title": "International Stock Market Leadership and its Determinants",
+"authors": [
+"C. X. Cai",
+"A. Mobarek",
+"Qi Zhang"
+],
+"year": 2017,
+"venue": "Journal of Financial Stability",
+"status": "published"
+},
+{
+"title": "Capital account reform and short- and long-run stock price leadership",
+"authors": [
+"C. X. Cai",
+"P. B. McGuinness",
+"Qi Zhang"
+],
+"year": 2017,
+"venue": "European Journal of Finance",
+"status": "published"
+},
+{
+"title": "Pension plan solvency and extreme market movements: A regime switching approach",
+"authors": [
+"N. Abouraschi",
+"I. Clacher",
+"M. Freeman",
+"D. Hillier",
+"M. Kemp",
+"Qi Zhang"
+],
+"year": 2016,
+"venue": "European Journal of Finance",
+"status": "published"
+},
+{
+"title": "Marks & Spencer and the Decline of the British Textile Industry, 1950-2000",
+"authors": [
+"S. Toms",
+"Qi Zhang"
+],
+"year": 2016,
+"venue": "Business History Review",
+"status": "published"
+},
+{
+"title": "High-Frequency Exchange Rate Forecasting",
+"authors": [
+"C. X. Cai",
+"Qi Zhang"
+],
+"year": 2016,
+"venue": "European Financial Management",
+"status": "published"
+},
+{
+"title": "Are Market-Based Measures of Global Systemic Importance of Financial Institutions Useful to Regulators and Supervisors?",
+"authors": [
+"Qi Zhang",
+"F. Vallascas",
+"K. Keasey",
+"C. X. Cai"
+],
+"year": 2015,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published"
+},
+{
+"title": "The profitability, costs and systematic risk of the post-earnings announcement drift trading strategy",
+"authors": [
+"Qi Zhang",
+"C. X. Cai",
+"K. Keasey"
+],
+"year": 2014,
+"venue": "Review of Quantitative Finance & Accounting",
+"status": "published"
+},
+{
+"title": "The role of venture capitalists in small and medium-sized enterprise initial public offerings: Evidence from China",
+"authors": [
+"P. Jiang",
+"C. X. Cai",
+"K. Keasey",
+"M. Wright",
+"Qi Zhang"
+],
+"year": 2014,
+"venue": "International Small Business Journal",
+"status": "published"
+},
+{
+"title": "Market reaction to earnings news: A unified test of information risk and transaction costs",
+"authors": [
+"Qi Zhang",
+"C.X. Cai",
+"K. Keasey"
+],
+"year": 2013,
+"venue": "Journal of Accounting and Economics",
+"status": "published"
+},
+{
+"title": "Stock index return forecast: The information of the constituents",
+"authors": [
+"C.X. Cai",
+"K. Kyaw",
+"Qi Zhang"
+],
+"year": 2012,
+"venue": "Economics Letters",
+"status": "published"
+},
+{
+"title": "The pricing dynamics of cross-listed securities: The case of Chinese A- and H-shares",
+"authors": [
+"C.X. Cai",
+"P.B. McGuinness",
+"Qi Zhang"
+],
+"year": 2011,
+"venue": "Journal of Banking and Finance",
+"status": "published"
+},
+{
+"title": "Forecasting using high-frequency data: A comparison of asymmetric financial duration models",
+"authors": [
+"Qi Zhang",
+"C.X. Cai",
+"K. Keasey"
+],
+"year": 2009,
+"venue": "Journal of Forecasting",
+"status": "published"
+}
+]
+},
+"wenjian xu": {
+"name": "Wenjian Xu",
+"papers": [
+{
+"title": "Caveat emptor as an obstacle to business transfers: Effect of product line liability exceptions on acquisitions, entry, and exit",
+"authors": [
+"Wenjian Xu",
+"Natarajan Balasubramanian",
+"Jagadeesh Sivadasan"
+],
+"year": null,
+"venue": "Strategic Management Journal",
+"status": "forthcoming"
+},
+{
+"title": "Employment Decline During the Great Recession: The Role of Firm Size Distribution",
+"authors": [
+"Wenjian Xu"
+],
+"year": 2023,
+"venue": "The Economic Journal",
+"status": "published"
+},
+{
+"title": "Social Insurance and Entrepreneurship: The Effect of Unemployment Benefits on New-Business Formation",
+"authors": [
+"Wenjian Xu"
+],
+"year": 2022,
+"venue": "Strategic Entrepreneurship Journal",
+"status": "published"
+},
+{
+"title": "Missing Women in India: Gender-Specific Effects of Early Life Rainfall Shocks",
+"authors": [
+"Wenjian Xu",
+"Jagadeesh Sivadasan"
+],
+"year": 2021,
+"venue": "World Development",
+"status": "published"
+}
+]
+},
+"xiangwei wan": {
+"name": "Xiangwei Wan",
+"papers": [
+{
+"title": "Enhancing Black-Scholes Delta Hedging via Deep Learning",
+"authors": [
+"Chunhui Qiao",
+"Xiangwei Wan"
+],
+"year": 2025,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Pi Portfolio Management: Reaching Goals While Avoiding Drawdowns",
+"authors": [
+"Jaksa Cvitanic",
+"Steven Kou",
+"Xiangwei Wan",
+"Karyn L. Williams"
+],
+"year": 2019,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Explicit Pathwise Expansion for Multivariate Diffusions with Applications",
+"authors": [
+"Nan Chen",
+"Xiangwei Wan",
+"Nian Yang"
+],
+"year": 2026,
+"venue": "Advances in Applied Probability",
+"status": "published"
+},
+{
+"title": "An Option Pricing Model with Double-Exponential Jumps in Returns and GARCH Diffusion in Volatilities",
+"authors": [
+"Chunhui Qiao",
+"Xiangwei Wan",
+"Nian Yang"
+],
+"year": 2025,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "Non-Concave Utility Maximization with Portfolio Bounds",
+"authors": [
+"Min Dai",
+"Steven Kou",
+"Shuaijie Qian",
+"Xiangwei Wan"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Hermite expansion of transition densities and European option prices for multivariate diffusions with jumps",
+"authors": [
+"Xiangwei Wan",
+"Nian Yang"
+],
+"year": 2021,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "A New Delta Expansion for Multivariate Diffusions via the Ito-Taylor Expansion",
+"authors": [
+"Nian Yang",
+"Nan Chen",
+"Xiangwei Wan"
+],
+"year": 2019,
+"venue": "Journal of Econometrics",
+"status": "published"
+},
+{
+"title": "The survival probability of the SABR model: Asymptotics and Application",
+"authors": [
+"Nian Yang",
+"Xiangwei Wan"
+],
+"year": 2018,
+"venue": "Quantitative Finance",
+"status": "published"
+},
+{
+"title": "Approximate arbitrage-free option pricing under the SABR model",
+"authors": [
+"Nian Yang",
+"Nan Chen",
+"Yanchu Liu",
+"Xiangwei Wan"
+],
+"year": 2017,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published"
+},
+{
+"title": "Sensitivity Analysis of Nonlinear Behavior with Distorted Probability",
+"authors": [
+"Xi-Ren Cao",
+"Xiangwei Wan"
+],
+"year": 2017,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Mono-Linearity-Based Axiomatic Approach to Non-Linear Expected Utility",
+"authors": [
+"Xi-Ren Cao",
+"Xiangwei Wan"
+],
+"year": 2013,
+"venue": "SSRN (unpublished manuscript)",
+"status": "working_paper"
+},
+{
+"title": "A Nonzero-Sum Game Approach to Convertible Bonds: Tax Benefit, Bankruptcy Cost, and Early/Late Calls",
+"authors": [
+"Nan Chen",
+"Min Dai",
+"Xiangwei Wan"
+],
+"year": 2013,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Occupation Times of Jump-Diffusion Processes with Double-Exponential Jumps and the Pricing of Options",
+"authors": [
+"Ning Cai",
+"Nan Chen",
+"Xiangwei Wan"
+],
+"year": 2010,
+"venue": "Mathematics of Operations Research",
+"status": "published"
+},
+{
+"title": "Pricing double-barrier options under a flexible jump diffusion model",
+"authors": [
+"Ning Cai",
+"Nan Chen",
+"Xiangwei Wan"
+],
+"year": 2009,
+"venue": "Operations Research Letters",
+"status": "published"
+}
+]
+},
+"yiwen fei": {
+"name": "Yiwen Fei",
+"papers": [
+{
+"title": "Double-sided moral hazard, information screening and the optimal",
+"authors": [
+"J. Xue",
+"Yiwen Fei"
+],
+"year": 2016,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Private Equity，Initial Public Offer & The Efficiency",
+"authors": [
+"Yiwen Fei",
+"X. Zhu",
+"Y. Xu"
+],
+"year": 2013,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "Design and Renegotiation on Valuation Adjustment Mechanism",
+"authors": [
+"Y. Zhao",
+"Yiwen Fei"
+],
+"year": 2013,
+"venue": "Shanghai Finance",
+"status": "published"
+},
+{
+"title": "Signaling Equilibrium and Counter-signaling Equilibrium Valuation Adjustment Mechanism",
+"authors": [
+"Y. Li",
+"Yiwen Fei"
+],
+"year": 2013,
+"venue": "Statistics & Decision",
+"status": "published"
+},
+{
+"title": "IPO Underpricingof PE/VC Backed Enterprises",
+"authors": [
+"N. Yu",
+"Yiwen Fei"
+],
+"year": 2013,
+"venue": "South China Journal of Economics",
+"status": "published"
+},
+{
+"title": "Sovereign wealth fund and financial crisis- a shifting paradigm",
+"authors": [
+"Yiwen Fei",
+"X. Xu",
+"R. Ding"
+],
+"year": 2013,
+"venue": "China Finance Review International",
+"status": "published"
+},
+{
+"title": "Does Private Equity Improve the Efficiency in the Firm?",
+"authors": [
+"Yiwen Fei",
+"X. Zhu",
+"Y. Zhang"
+],
+"year": 2012,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "Then analysis on the control mechanisms of private equity exit",
+"authors": [
+"J. Li",
+"Yiwen Fei"
+],
+"year": 2008,
+"venue": "China Finance Review",
+"status": "published"
+},
+{
+"title": "The Study of Cross-regional Acquisitions in China",
+"authors": [
+"Yiwen Fei",
+"M. Cai"
+],
+"year": 2006,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "From State to State: The effects of state-owned shares transfer in China",
+"authors": [
+"Yiwen Fei",
+"M. Cai"
+],
+"year": 2004,
+"venue": "Shanghai Management Science",
+"status": "published"
+},
+{
+"title": "The effects of stock acquisitions on Chinese corporations",
+"authors": [
+"Yiwen Fei"
+],
+"year": 2003,
+"venue": "China Soft Science",
+"status": "published"
+},
+{
+"title": "The effects of stock acquisitions in Shanghai Stock Exchange",
+"authors": [
+"Yiwen Fei",
+"M. Cai"
+],
+"year": 2003,
+"venue": "World Economy",
+"status": "published"
+},
+{
+"title": "The Institutional Approach to Mergers and Acquisitions",
+"authors": [
+"Yiwen Fei"
+],
+"year": 2009,
+"venue": "VDM Verlag Dr. Müller",
+"status": "published"
+}
+]
+},
+"zhongzhi song": {
+"name": "Zhongzhi Song",
+"papers": []
+},
+"biao yang": {
+"name": "Biao Yang",
+"papers": []
+},
+"chengyu zhang": {
+"name": "Chengyu Zhang",
+"papers": []
+},
+"dake zhang": {
+"name": "Dake Zhang",
+"papers": []
+},
+"xuejing guan": {
+"name": "Xuejing Guan",
+"papers": [
+{
+"title": "Relative Pricing of Private and Public Debt: The Role of Money Creation Channel",
+"authors": [
+"Xuejing Guan",
+"Isha Agarwal",
+"Jan Bena"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Economic Uncertainty and Going Private Transactions: The Corporate Governance Channel",
+"authors": [
+"Xuejing Guan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Earnouts: Managing Valuation Risks in Mergers and Acquisitions Under Uncertainty",
+"authors": [
+"Xuejing Guan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"zhaorui li": {
+"name": "Zhaorui Li",
+"papers": [
+{
+"title": "Reference-dependent Preferences and Sentiment-driven Asset Prices",
+"authors": [
+"Zhaorui Li",
+"Jess Benhabib",
+"Xuewen Liu",
+"Pengfei Wang"
+],
+"year": 2025,
+"venue": "Journal of Finance",
+"status": "forthcoming"
+},
+{
+"title": "Information Acquisition and the Finance-Uncertainty Trap",
+"authors": [
+"Zhaorui Li",
+"Ding Dong",
+"Allen Hu",
+"Zheng Liu"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Reference-Dependent Fiscal Theory of Self-Fulfilling Price Levels",
+"authors": [
+"Zhaorui Li",
+"Xuewen Liu",
+"Thomas J. Sargent",
+"Pengfei Wang"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Monetary Policy in a Data Economy",
+"authors": [
+"Zhaorui Li",
+"Zhiwei Xu",
+"Francesco Zanetti"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "数据、生产与宏观经济——一个具有企业数字化的一般均衡理论",
+"authors": [
+"李兆睿",
+"许志伟"
+],
+"year": 2024,
+"venue": "管理世界",
+"status": "published"
+}
+]
+},
+"jifeng luo": {
+"name": "Jifeng Luo",
+"papers": [
+{
+"title": "The Impact of Proximity on Physicians: Evidence from an Online Healthcare Community",
+"authors": [
+"Panpan Wang",
+"Liuyi He",
+"Jifeng Luo",
+"Zhiyan Wu",
+"Han Zhang"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Impacts of Congestion on Healthcare Outcomes：An Empirical Observation in China",
+"authors": [
+"Haiyue Yu",
+"Panpan Wang",
+"Jifeng Luo",
+"Huan Zheng",
+"Jun Liu"
+],
+"year": 2020,
+"venue": "Journal of Management Analytics",
+"status": "published"
+},
+{
+"title": "Pricing Strategies in Online Book Industry: A Comparative Study",
+"authors": [
+"Jifeng Luo",
+"Han Zhang",
+"Haizheng Li"
+],
+"year": 2018,
+"venue": "Information Systems and e-Business Management",
+"status": "published"
+},
+{
+"title": "Forms of Inconspicuous Consumption: What Drives Inconspicuous Luxury Consumption in China?",
+"authors": [
+"Zhiyan Wu",
+"Jifeng Luo",
+"Jonathan E. Schroeder",
+"Janet L. Borgerson"
+],
+"year": 2017,
+"venue": "Marketing Theory",
+"status": "published"
+},
+{
+"title": "Information Technology, Cross-Channel Capabilities, and Managerial Actions: Evidence from the Apparel Industry",
+"authors": [
+"Jifeng Luo",
+"Ming Fan",
+"Han Zhang"
+],
+"year": 2016,
+"venue": "Journal of the Association for Information Systems",
+"status": "published"
+},
+{
+"title": "Relational IT Governance, Its Antecedents and Outcomes: A Study on Chinese Firms",
+"authors": [
+"Jifeng Luo",
+"Zhiyan Wu",
+"Zheng Huang",
+"Liping Wang"
+],
+"year": 2016,
+"venue": "International Conference on Information Systems (ICIS)",
+"status": "published"
+},
+{
+"title": "Benchmarking scale of e-government stage in Chinese municipalities from government chief information officers' perspective",
+"authors": [
+"Fan Bo",
+"Jifeng Luo"
+],
+"year": 2014,
+"venue": "Information Systems and e-Business Management",
+"status": "published"
+},
+{
+"title": "The Effectiveness of Online Shopping Characteristics and Well-Designed Websites on Satisfaction",
+"authors": [
+"Jifeng Luo",
+"Sulin Ba",
+"Han Zhang"
+],
+"year": 2012,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Information Technology and Organizational Capabilities: A Longitudinal Study of the Apparel Industry",
+"authors": [
+"Jifeng Luo",
+"Ming Fan",
+"Han Zhang"
+],
+"year": 2012,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "Do Different Reputation Systems Provide Consistent Signals of Seller Quality? A Canonical Correlation Investigation of Chinese C2C Marketplaces",
+"authors": [
+"Xianfeng Zhang",
+"Jifeng Luo"
+],
+"year": 2012,
+"venue": "Electronic Markets",
+"status": "published"
+}
+]
+},
+"lai wei": {
+"name": "Lai Wei",
+"papers": [
+{
+"title": "Sponsored Data: Smarter Data Pricing with Incomplete Information",
+"authors": [
+"Xiaowei Mei",
+"Hsing Kenneth Cheng",
+"Subhajyoti Bandyopadhyay",
+"Liangfei Qiu",
+"Lai Wei"
+],
+"year": 2022,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "When to Play Your Advertisement? Optimal Insertion Policy of Behavioral Advertisement",
+"authors": [
+"Subodha Kumar",
+"Yinliang (Ricky) Tan",
+"Lai Wei"
+],
+"year": 2020,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "The Hidden Impact of Prosumers and Its Fair Mitigation",
+"authors": [
+"Junghee Lee",
+"Lai Wei",
+"Ming Hu",
+"Yinliang (Ricky) Tan"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "It’s Showtime: Live Streaming E-commerce and Optimal Promotion Insertion Policy",
+"authors": [
+"Wenpo Huang",
+"Wei Jiang",
+"Xinggang Luo",
+"Xiaowei Mei",
+"Lai Wei"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "published"
+}
+]
+},
+"liwen hou": {
+"name": "Liwen Hou",
+"papers": [
+{
+"title": "A Hierarchical Bayesian Network-Based Approach to keyword Auction",
+"authors": [
+"Liwen Hou"
+],
+"year": 2015,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "published"
+},
+{
+"title": "System sourcing and information processing capability in supply chains: a study of small suppliers",
+"authors": [
+"Liwen Hou",
+"Ling Xue",
+"Son Ngoc Bui",
+"William Kettinger"
+],
+"year": 2016,
+"venue": "Information Technology and Management",
+"status": "published"
+},
+{
+"title": "Ride-matching and routing optimisation: Models and a large neighbourhood search heuristic",
+"authors": [
+"Liwen Hou",
+"Dong Li",
+"Dali Zhang"
+],
+"year": 2018,
+"venue": "Transportation Research Part E",
+"status": "published"
+},
+{
+"title": "A Latent Class Regression Approach to IT Maintenance Outsourcing Service Management",
+"authors": [
+"Liwen Hou",
+"Weijun Zheng"
+],
+"year": 2020,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "published"
+},
+{
+"title": "A Vehicle Routing Problem with Distribution Uncertainty in Deadlines",
+"authors": [
+"Dali Zhang",
+"Dong Li",
+"Hailin Sun",
+"Liwen Hou"
+],
+"year": 2021,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Estimation of Preference Heterogeneity in Markets with Costly Search",
+"authors": [
+"Ilya Morozov",
+"Stephan Seiler",
+"Xiaojing Dong",
+"Liwen Hou"
+],
+"year": 2021,
+"venue": "Marketing Science",
+"status": "published"
+},
+{
+"title": "Does the Industrial Big Data Environment Matter? An Evaluation of its Effect on the Production Performance",
+"authors": [
+"Liwen Hou"
+],
+"year": 2025,
+"venue": "Information and Management",
+"status": "published"
+},
+{
+"title": "Strategizing Value-Added Services for Platform Firms",
+"authors": [
+"Liwen Hou",
+"Xinxue (Shawn) Qu",
+"Yixing Chen",
+"Ling Xue"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "When Consumer Evaluation Backfires: Cause Marketing, Promotion Strategies, and Welfare Implications",
+"authors": [
+"Jiawei Zhao",
+"Liwen Hou"
+],
+"year": null,
+"venue": "IEEE Transactions on Engineering Management",
+"status": "forthcoming"
+}
+]
+},
+"haifeng xu": {
+"name": "Haifeng Xu",
+"papers": [
+{
+"title": "Whispers in Your Mind: The Role of Voice Features in Customer Acquisition and Retention",
+"authors": [
+"Haifeng Xu",
+"Yi Ding",
+"Yu Ding",
+"Qi Zhang",
+"Cheng Zhang"
+],
+"year": 2026,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "A Natural Disaster Reshapes Prosocial Microlending",
+"authors": [
+"Yi Ding",
+"Haifeng Xu",
+"Bernard C. Y. Tan"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Ruckus in the Rentals, Seeking New Arrangements: Investigating and Mitigating the Impact of Home-Sharing Property Use on Urban Noise",
+"authors": [
+"Yi Ding",
+"Moksh Matta",
+"Ram Gopal",
+"Haifeng Xu"
+],
+"year": 2025,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Prosocial Motivation and Lending to the Poor: Evidence from an International Crowdfunding Platform",
+"authors": [
+"Luqun Xie",
+"Yi Ding",
+"Jiatao Li",
+"Haifeng Xu"
+],
+"year": 2025,
+"venue": "Journal of International Business Studies",
+"status": "published"
+},
+{
+"title": "Quality, Necessity, or Accessibility? Impact of Dockless Bike Sharing on Ineffective Use of Medical Resources",
+"authors": [
+"Haifeng Xu",
+"Yidan Xiang",
+"Yi Ding",
+"Pengzhu Zhang",
+"Bernard C. Y. Tan",
+"Ram Gopal"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Understanding Consumers' Online Browsing Patterns and Influence of Marketing Stimuli: A Two-Layer Sequence Analysis Approach",
+"authors": [
+"Yi Ding",
+"Haifeng Xu",
+"Chee Wei Phang",
+"Bernard C. Y. Tan"
+],
+"year": 2025,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "published"
+},
+{
+"title": "Too Official to Be Effective: An Empirical Examination of Unofficial Information Channel and Continued Use of Retracted Articles",
+"authors": [
+"Haifeng Xu",
+"Yi Ding",
+"Cheng Zhang",
+"Bernard C. Y. Tan"
+],
+"year": 2023,
+"venue": "Research Policy",
+"status": "published"
+},
+{
+"title": "Why are People Addicted to SNS? Understanding the Role of SNS Characteristics in the Formation of SNS Addiction",
+"authors": [
+"Haifeng Xu",
+"Tuan Q. Phan",
+"Bernard C. Y. Tan"
+],
+"year": 2022,
+"venue": "Journal of the Association for Information Systems",
+"status": "published"
+}
+]
+},
+"jialu liu": {
+"name": "Jialu Liu",
+"papers": [
+{
+"title": "Influence minimization via blocking strategies",
+"authors": [
+"Jiadong Xie",
+"Fan Zhang",
+"Kai Wang",
+"Jialu Liu",
+"Xuemin Lin",
+"Wenjie Zhang"
+],
+"year": 2025,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Indirect Value of Public Infrastructure Technology",
+"authors": [
+"Jialu Liu",
+"Siqi Pei",
+"Xiaoquan Zhang"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Online Food Delivery Platforms and Female Labor Force Participation",
+"authors": [
+"Jialu Liu",
+"Siqi Pei",
+"Xiaoquan Zhang"
+],
+"year": 2024,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Designing Contests for Data Science Competitions: Number of Stages and Prize Structures",
+"authors": [
+"Jialu Liu",
+"Keehyung Kim"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+}
+]
+},
+"luqun xie": {
+"name": "Luqun Xie",
+"papers": []
+},
+"xuan wei": {
+"name": "Xuan Wei",
+"papers": [
+{
+"title": "Sunk Cost Fallacy, Price Adjustment, and Subscription Services for Information Goods",
+"authors": [
+"Mingyue Zhang",
+"Jesse Bockstedt",
+"Tingting Song",
+"Xuan Wei"
+],
+"year": 2025,
+"venue": "Journal of the Association for Information Systems",
+"status": "published"
+},
+{
+"title": "Detecting Product Adoption Intention via Multiview Deep Learning",
+"authors": [
+"Zhu Zhang",
+"Xuan Wei",
+"Xiaolong Zheng",
+"Qiudan Li",
+"Daniel Dajun Zeng"
+],
+"year": 2022,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Toward Explainable Clinical Decision Support for Irregular and Incomplete ICU EHRs: An Observation-Aware Multi-Level Attention Model",
+"authors": [
+"Kaibo Zhu",
+"Xuan Wei",
+"Xiuxian Wang",
+"Na Geng"
+],
+"year": 2026,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "A Matter of Reevaluation: Incentivizing Users to Contribute Reviews in Online Platforms",
+"authors": [
+"Mingyue Zhang",
+"Xuan Wei",
+"Daniel Dajun Zeng"
+],
+"year": 2020,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "Identifying Complements and Substitutes of Products: A Neural Network Framework Based on Product Embedding",
+"authors": [
+"Mingyue Zhang",
+"Xuan Wei",
+"Xunhua Guo",
+"Guoqing Chen",
+"Qiang Wei"
+],
+"year": 2019,
+"venue": "ACM Transactions on Knowledge Discovery from Data (TKDD)",
+"status": "published"
+},
+{
+"title": "Maximizing the Influence in Social Networks via Holistic Probability Maximization",
+"authors": [
+"Mingyue Zhang",
+"Xuan Wei",
+"Guoqing Chen"
+],
+"year": 2018,
+"venue": "International Journal of Intelligent Systems",
+"status": "published"
+}
+]
+},
+"hongzhe zhang": {
+"name": "Hongzhe Zhang",
+"papers": [
+{
+"title": "A User Purchase Motivation-Aware Product Recommender System",
+"authors": [
+"Xu J.",
+"Wang J.",
+"Zhang H.",
+"Lu T."
+],
+"year": null,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "Latent Similarity-Enhanced Credit Risk Prediction",
+"authors": [
+"Zhang H.",
+"Qian W.",
+"Fang X."
+],
+"year": 2026,
+"venue": "MIS Quarterly",
+"status": "published"
+},
+{
+"title": "Proactive Resource Request for Disaster Response: A Deep Learning-based Optimization Model",
+"authors": [
+"Zhang H.",
+"Zhao X.",
+"Fang X.",
+"Chen B."
+],
+"year": 2024,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Bias of AI-generated Content: An Examination of News Produced by Large Language Models",
+"authors": [
+"Fang X.",
+"Che S.",
+"Mao M.",
+"Zhang H.",
+"Zhao M.",
+"Zhao X."
+],
+"year": 2024,
+"venue": "Scientific Reports",
+"status": "published"
+},
+{
+"title": "Cheaper Is Better: Exploring Price Competitiveness for Online Purchase Prediction",
+"authors": [
+"Wu H.",
+"Zhang H.",
+"Li L.",
+"Chen Z.",
+"Zhu F.",
+"Fang X."
+],
+"year": 2022,
+"venue": "IEEE International Conference on Data Engineering (ICDE 2022)",
+"status": "published"
+}
+]
+},
+"sihan fang": {
+"name": "Sihan Fang",
+"papers": [
+{
+"title": "Return of the Movie Night? Analyzing the Impact of Netflix Subscriptions on Offline Movie Spending",
+"authors": [
+"Sihan Fang",
+"Hyeokkoo Eric Kwon",
+"Anand Gopal",
+"Yongjin Park"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "How Do Brands Change Their Advertising Spending in Response to a Rival's Product Recall?",
+"authors": [
+"Sihan Fang",
+"Vivek Astansh",
+"Siliang (Jack) Tong",
+"Hsiao-Hui Lee",
+"Yue Guo"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Priming in Search: A Large-Scale Field Experiment on the Impact of Popular Search Genres in Mobile Shopping",
+"authors": [
+"Shuang Zheng",
+"Siliang Tong",
+"Sihan Fang",
+"Anand Gopal",
+"Xianneng Li",
+"Qiancheng Jiang"
+],
+"year": 2026,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+}
+]
+},
+"xuewen han": {
+"name": "Xuewen Han",
+"papers": [
+{
+"title": "Legal Shields, Hidden Costs: The Dual Effects of Patent Troll Laws on Information Technology Firm Innovation",
+"authors": [
+"Han, Xuewen",
+"Yin, Zhitao",
+"Rai, Arun"
+],
+"year": null,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "Interpretable Text Embedding via Generative AI Models",
+"authors": [
+"Han, Xuewen",
+"Cai, Yao",
+"Xu, Sean Xin",
+"Zhang, Kunpeng"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "revise_resubmit"
+},
+{
+"title": "Financial Sequence Data Modeling for Purchase Intention Prediction: A Transformer-based Approach",
+"authors": [
+"Han, Xuewen",
+"Song, Qingping",
+"Hu, Nan",
+"Xu, Sean Xin",
+"Zhang, Kunpeng"
+],
+"year": null,
+"venue": "MIS Quarterly",
+"status": "revise_resubmit"
+},
+{
+"title": "A Generative AI Framework for Marketing Experimentation: Redefining A/B Testing with Customer Simulation",
+"authors": [
+"Han, Xuewen",
+"Xu, Sean Xin",
+"Zhang, Kunpeng"
+],
+"year": null,
+"venue": "Marketing Science",
+"status": "revise_resubmit"
+},
+{
+"title": "When Crowdfunding Options Expand, Collective Judgement Becomes Less Informative in Early-Stage Capital Allocation",
+"authors": [
+"Han, Xuewen",
+"Xu, Sean Xin",
+"Yin, Zhitao",
+"Yuan, Yun"
+],
+"year": null,
+"venue": "Management Science",
+"status": "working_paper"
+},
+{
+"title": "How Augmented Reality (AR) Improves Workers’Task Performance: Airplane Maintenance With Field Evidence",
+"authors": [
+"Yang, Zherui",
+"Li, Ting",
+"Han, Xuewen",
+"Xu, Sean Xin",
+"Yin, Zhitao"
+],
+"year": null,
+"venue": "Management Science (planned submission)",
+"status": "working_paper"
+}
+]
+},
+"fangruo chen": {
+"name": "Fangruo Chen",
+"papers": []
+},
+"guohua wan": {
+"name": "Guohua Wan",
+"papers": [
+{
+"title": "Design of Patient Visit Itineraries in Tandem Systems",
+"authors": [
+"Guohua Wan",
+"N. Liu",
+"S. Wang"
+],
+"year": 2024,
+"venue": "Manufacturing and Service Operations Management",
+"status": "published"
+},
+{
+"title": "Treatment Planning of Victims with Heterogeneous Time-sensitivities in Mass Casualty Incidents",
+"authors": [
+"Guohua Wan",
+"Y. Shi",
+"N. Liu"
+],
+"year": 2024,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "A cluster-based context-tree model for multivariate data streams with applications to anomaly detection",
+"authors": [
+"Guohua Wan",
+"P. Brice",
+"W. Jiang"
+],
+"year": 2011,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+}
+]
+},
+"huan xu": {
+"name": "Huan Xu",
+"papers": []
+},
+"huan zheng": {
+"name": "Huan Zheng",
+"papers": [
+{
+"title": "On-Demand Meal Delivery Platforms: Operational Level Data and Research Opportunities",
+"authors": [
+"Wenzheng Mao",
+"Liu Ming",
+"Ying Rong",
+"Christopher S. Tang",
+"Huan Zheng"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "From Targeting to Transfer: Design of Allocation Rules in Cash Transfer Programs",
+"authors": [
+"Huan Zheng",
+"Guodong Lyu",
+"Jiannan Ke",
+"Chung-Piaw Teo"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Multi-Sourcing Supply Network Design: Two-Stage Chance-Constrained Model, Tractable Approximations, and Computational Results",
+"authors": [
+"Huan Zheng",
+"Y.Z. Li",
+"J. Shu",
+"M. Song",
+"J.W. Zhang"
+],
+"year": 2017,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "On the Performance of Sparse Process Structures in Partial Postponement Production Systems",
+"authors": [
+"Huan Zheng",
+"M. Chou",
+"G. Chua"
+],
+"year": 2014,
+"venue": "Operations Research",
+"status": "published"
+}
+]
+},
+"jun luo": {
+"name": "Jun Luo",
+"papers": [
+{
+"title": "Optimal Data Reduction under Information-Theoretic Criteria",
+"authors": [
+"T. He",
+"Jun Luo",
+"J. Zhao"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "revise_resubmit"
+},
+{
+"title": "Measuring Supply Chain Resilience: A Perspective Inspired by Material Mechanics",
+"authors": [
+"J. Li",
+"L. J. Hong",
+"Jun Luo"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Simultaneous Quantification of Input and Stochastic Uncertainty: A Percentile- and CLT-Based Interval Estimation Approach",
+"authors": [
+"K. Zhang",
+"Jun Luo",
+"G. Liang"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ming dong": {
+"name": "Ming Dong",
+"papers": [
+{
+"title": "Yield and allocation management in a continuous make-to-stock system with demand upgrade substitution",
+"authors": [
+"G.H. Han",
+"Ming Dong",
+"S.X. Liu"
+],
+"year": 2014,
+"venue": "International Journal of Production Economics",
+"status": "published"
+},
+{
+"title": "A Continuous Model for Multiple Re-entrant Manufacturing Systems",
+"authors": [
+"Ming Dong",
+"F.L. He"
+],
+"year": 2012,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Optimal Control of Continuum Model for Single-product Re-entrant Manufacturing Systems",
+"authors": [
+"Ming Dong",
+"F.L. He",
+"Z.G. Wu"
+],
+"year": 2011,
+"venue": "International Journal of Production Research",
+"status": "published"
+}
+]
+},
+"shaoxuan liu": {
+"name": "Shaoxuan Liu",
+"papers": [
+{
+"title": "Speeding Up Paulson's Procedure for Large-Scale Problems Using Parallel Computing",
+"authors": [
+"Zhong Y.",
+"S. Liu",
+"J. Luo",
+"J. Hong"
+],
+"year": 2022,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Dynamic Incentive Schemes for Managing Dockless Bike-Sharing Systems",
+"authors": [
+"Jin H.",
+"S. Liu",
+"R. So",
+"K. Wang"
+],
+"year": 2022,
+"venue": "Transportation Research Part C",
+"status": "published"
+},
+{
+"title": "Optimal Inventory Control and Design Refresh Selection for Managing Part Obsolescence",
+"authors": [
+"Z. Shi",
+"S. Liu"
+],
+"year": 2020,
+"venue": "European Journal of Operational Research",
+"status": "published"
+},
+{
+"title": "Trust Based Decisions in Supply Chains with An Agent",
+"authors": [
+"Fu X.",
+"M. Dong",
+"S. Liu",
+"G. Han"
+],
+"year": 2016,
+"venue": "Decision Support Systems",
+"status": "published"
+},
+{
+"title": "Yield and allocation management in a continuous make-to-stock system with demand upgrade substitution",
+"authors": [
+"Han G.",
+"M. Dong",
+"S. Liu"
+],
+"year": 2014,
+"venue": "International Journal of Production Economics",
+"status": "published"
+}
+]
+},
+"suguo du": {
+"name": "Suguo Du",
+"papers": [
+{
+"title": "A Probabilistic Misbehavior Detection Scheme towards Efficient Trust Establishment in Delay-tolerant Networks",
+"authors": [
+"H. Zhu",
+"S. Du（杜素果）",
+"Z. Gao",
+"M. Dong",
+"Z. Cao"
+],
+"year": 2014,
+"venue": "IEEE Transactions on Parallel and Distributed Systems",
+"status": "published"
+},
+{
+"title": "Fault detection observers for continuous non-linear polynomial systems of general degree",
+"authors": [
+"D. N. Shields",
+"S. Du（杜素果）"
+],
+"year": 2003,
+"venue": "International Journal of Control",
+"status": "published"
+}
+]
+},
+"wenhui zhao": {
+"name": "Wenhui Zhao",
+"papers": [
+{
+"title": "Direct Supply Base Reduction in a Decentralized Assembly System with Suppliers of Varying Market Power",
+"authors": [
+"S Liu",
+"KC So",
+"Wenhui Zhao"
+],
+"year": 2021,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "A Preventive Maintenance Policy with Usage-Dependent Failure Rate Thresholds Under Two-Dimensional Warranties",
+"authors": [
+"S. Peng",
+"W. Jiang",
+"Wenhui Zhao"
+],
+"year": 2020,
+"venue": "IISE Transactions",
+"status": "published"
+},
+{
+"title": "Project Evaluation and Selection with Task Failures",
+"authors": [
+"Wenhui Zhao",
+"N.G. Hall",
+"Z. Liu"
+],
+"year": 2019,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Who Should Finance the Supply Chain: Impact of Credit Ratings on Supply Chain Decisions",
+"authors": [
+"P. Kouvelis",
+"Wenhui Zhao"
+],
+"year": 2018,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Supply Chain Contracting in Environments with Volatile Input Prices and Frictions",
+"authors": [
+"P. Kouvelis",
+"D. Turcic",
+"Wenhui Zhao"
+],
+"year": 2018,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Supply Chain Contract Design under Financial Constraints and Bankruptcy Costs",
+"authors": [
+"P. Kouvelis",
+"Wenhui Zhao"
+],
+"year": 2016,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Real-Time Process Monitoring Using Kernel Distances",
+"authors": [
+"Q. Wei",
+"W. Huang",
+"W. Jiang",
+"Wenhui Zhao"
+],
+"year": 2016,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Admissions Optimisation and Premature Discharge Decisions in Intensive Care Units",
+"authors": [
+"J. Li",
+"M. Dong",
+"Wenhui Zhao"
+],
+"year": 2015,
+"venue": "International Journal of Production Research",
+"status": "published"
+},
+{
+"title": "Financing the Newsvendor: Supplier vs. Bank, and the Structure of Optimal Trade Credit Contracts",
+"authors": [
+"P. Kouvelis",
+"Wenhui Zhao"
+],
+"year": 2012,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "The Newsvendor Problem and Price-Only Contract When Bankruptcy Costs Exist",
+"authors": [
+"P. Kouvelis",
+"Wenhui Zhao"
+],
+"year": 2011,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "A Large Class of Facets for the K-Median Polytope",
+"authors": [
+"Wenhui Zhao",
+"M.E. Posner"
+],
+"year": 2011,
+"venue": "Mathematical Programming",
+"status": "published"
+}
+]
+},
+"ying rong": {
+"name": "Ying Rong",
+"papers": [
+{
+"title": "Feature-Based Inventory Control with Censored Demand",
+"authors": [
+"J. Ding",
+"T. Huh",
+"Ying Rong"
+],
+"year": 2024,
+"venue": "Manufacturing & Service Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Order Basket Contents and Consumer Returns",
+"authors": [
+"M. Wang",
+"G. Shang",
+"Ying Rong",
+"M. Galbreth"
+],
+"year": 2024,
+"venue": "Decision Sciences",
+"status": "forthcoming"
+},
+{
+"title": "When Persuasion Is Too Persuasive: An Empirical Analysis of Product Returns in Livestream E-Commerce",
+"authors": [
+"X. Feng",
+"Ying Rong",
+"X. Tian",
+"M. Wang",
+"Y. Yao"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Improving Convenience or Saving Face? An Empirical Analysis of the Use of Facial Recognition Payment Technology in Retail",
+"authors": [
+"J. Gao",
+"Ying Rong",
+"X. Tian",
+"Y. Yao"
+],
+"year": 2023,
+"venue": "Information Systems Research",
+"status": "forthcoming"
+},
+{
+"title": "Promoting Mobile Payment with Price Incentives",
+"authors": [
+"C.Y. Ho",
+"N. Kim",
+"Ying Rong",
+"X. Tian"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "On-Demand Meal Delivery Platforms: Operational Level Data and Research Opportunities",
+"authors": [
+"W. Mao",
+"L. Ming",
+"Ying Rong",
+"C.S. Tang",
+"H. Zheng"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Strategic Benefit of Request for Quotation",
+"authors": [
+"L. Chu",
+"Ying Rong",
+"H. Zheng"
+],
+"year": 2022,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "Pricing During Disruptions: Order Variability versus Profit",
+"authors": [
+"X. Feng",
+"Ying Rong",
+"Z.-J. M. Shen",
+"L. V. Snyder"
+],
+"year": 2022,
+"venue": "Decision Sciences",
+"status": "published"
+},
+{
+"title": "Flexibility in Matching",
+"authors": [
+"H. Zheng",
+"Ying Rong"
+],
+"year": 2021,
+"venue": "Fundamental Research",
+"status": "published"
+},
+{
+"title": "Got organic milk? Joint inventory model with supply uncertainties and partial substitution",
+"authors": [
+"D. Jeon",
+"M. K. Lim",
+"Z. Peng",
+"Ying Rong"
+],
+"year": 2021,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "The Behavioral Promise and Pitfalls in Compensating Store Managers",
+"authors": [
+"S. Li",
+"K. Chen",
+"Ying Rong"
+],
+"year": 2020,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Product Sourcing and Distribution Strategies under Supply Disruption and Recall Risks",
+"authors": [
+"L. He",
+"Ying Rong",
+"Z.-J. M. Shen"
+],
+"year": 2020,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Impacts of Logistics Information on Sales: Evidence from Alibaba",
+"authors": [
+"J. Luo",
+"Ying Rong",
+"H. Zheng"
+],
+"year": 2020,
+"venue": "Naval Research Logistics",
+"status": "published"
+},
+{
+"title": "Dynamic Pricing for Deteriorating Products with Menu Cost",
+"authors": [
+"J. Chen",
+"M. Dong",
+"Ying Rong",
+"L. Yang"
+],
+"year": 2018,
+"venue": "Omega",
+"status": "published"
+},
+{
+"title": "Heuristics for Base-Stock Levels in Multi-Echelon Distribution Networks",
+"authors": [
+"Ying Rong",
+"Z. Atan",
+"L. V. Snyder"
+],
+"year": 2017,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Bullwhip and reverse bullwhip effects under the rationing game",
+"authors": [
+"Ying Rong",
+"L. V. Snyder",
+"Z.-J. M. Shen"
+],
+"year": 2017,
+"venue": "Naval Research Logistics",
+"status": "published"
+},
+{
+"title": "Service Region Design for Urban Electric Vehicle Sharing Systems",
+"authors": [
+"L. He",
+"H.Y. Mak",
+"Ying Rong",
+"Z.-J. M. Shen"
+],
+"year": 2017,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "OR/MS Models for Supply Chain Disruptions: A Review",
+"authors": [
+"L. V. Snyder",
+"Z. Atan",
+"P. Peng",
+"Ying Rong",
+"A. Schmitt",
+"B. Sinsoysal"
+],
+"year": 2016,
+"venue": "IIE Transactions",
+"status": "published"
+},
+{
+"title": "The Impact of Demand Uncertainty on Product Line Design under Endogenous Substitution",
+"authors": [
+"Ying Rong",
+"Y. Chen",
+"Z.-J. M. Shen"
+],
+"year": 2015,
+"venue": "Naval Research Logistics",
+"status": "published"
+},
+{
+"title": "Flexible System Design: a Perspective from Service Levels",
+"authors": [
+"L. Sheng",
+"H. Zheng",
+"Ying Rong",
+"T. Huh"
+],
+"year": 2015,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "Appointment Scheduling with Limited Distributional Information",
+"authors": [
+"H.Y. Mak",
+"Ying Rong",
+"J. Zhang"
+],
+"year": 2015,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Toward Mass Adoption of Electric Vehicles: Impacts of the Range and Resale Anxieties",
+"authors": [
+"M. Lim",
+"H.Y. Mak",
+"Ying Rong"
+],
+"year": 2015,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Sequencing Appointments for Service Systems Using Inventory Approximations",
+"authors": [
+"H.Y. Mak",
+"Ying Rong",
+"J. Zhang"
+],
+"year": 2014,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Infrastructure Planning for Electric Vehicles with Battery Swapping",
+"authors": [
+"H.Y. Mak",
+"Ying Rong",
+"Z.-J. M. Shen"
+],
+"year": 2013,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Cheaper by the Pallet? Multi-Item Procurement with Standard Batch Sizes",
+"authors": [
+"Ying Rong",
+"Z.-J. M. Shen",
+"C.A. Yano"
+],
+"year": 2012,
+"venue": "IIE Transactions",
+"status": "published"
+},
+{
+"title": "Inventory Sharing under Decentralized Preventive Transshipments",
+"authors": [
+"Ying Rong",
+"L. V. Snyder",
+"Y. Sun"
+],
+"year": 2010,
+"venue": "Naval Research Logistics",
+"status": "published"
+},
+{
+"title": "The Impact of Ordering Behavior on Order-Quantity Variability: A Study of Forward and Reverse Bullwhip Effects",
+"authors": [
+"Ying Rong",
+"Z.-J. M. Shen",
+"L. V. Snyder"
+],
+"year": 2009,
+"venue": "Flexible Services and Manufacturing Journal",
+"status": "published"
+},
+{
+"title": "Supply Disruptions with Time-Dependent Parameters",
+"authors": [
+"A. M. Ross",
+"Ying Rong",
+"L. V. Snyder"
+],
+"year": 2008,
+"venue": "Computers and Operations Research",
+"status": "published"
+},
+{
+"title": "Save Time or Save Face? The Stage Fright Effect in the Adoption of Facial Recognition Payment Technology",
+"authors": [
+"Jia Gao",
+"Ying Rong",
+"Xin Tian",
+"Oliver Yao"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"zhibin jiang": {
+"name": "Zhibin Jiang",
+"papers": [
+{
+"title": "Petri Net and its Application in Modelling and Control of Manufacturing Systems",
+"authors": [
+"Zhibin Jiang"
+],
+"year": 2004,
+"venue": "China Machine Press",
+"status": "published"
+},
+{
+"title": "Abilevel hybriditerated search approach to soft-clustered capacitated arc routing problems",
+"authors": [
+"Yangming Zhou",
+"Chenhui Qu",
+"Qinghua Wu",
+"Yawen Kou",
+"Zhibin Jiang",
+"MengChu Zhou"
+],
+"year": 2024,
+"venue": "Transportation Research Part B",
+"status": "published"
+},
+{
+"title": "Frequent Itemset-Driven Search for Finding Minimal Node Separators and its Application to Air Transportation Network Analysis",
+"authors": [
+"Y. Zhou",
+"X. Zhang",
+"N. Geng",
+"Zhibin Jiang",
+"S. Wang",
+"M. Zhou"
+],
+"year": 2023,
+"venue": "IEEE Transactions on Intelligent Transportation Systems",
+"status": "published"
+},
+{
+"title": "Optimal differential subsidy policy design for a workload-imbalanced outpatient care network",
+"authors": [
+"Y Deng",
+"N Li",
+"Z Jiang",
+"X Xie",
+"N Kong"
+],
+"year": 2021,
+"venue": "Omega",
+"status": "published"
+},
+{
+"title": "A conjugate bayesian approach for calculating process capability indices",
+"authors": [
+"Rui Miao",
+"Xinyi Zhang",
+"Dong Yang",
+"Yanzheng Zhao",
+"Zhibin Jiang"
+],
+"year": 2011,
+"venue": "Expert Systems with Applications",
+"status": "published"
+},
+{
+"title": "Two-phase Heuristic Algorithms for Full Truckloads Multi-depot Capacitated Vehicle Routing Problem in Carrier Collaboration",
+"authors": [
+"Liu Ran",
+"Jiang Zhibin",
+"Chen Feng",
+"Richard Y. K. Fung"
+],
+"year": 2010,
+"venue": "Computers & Operations Research",
+"status": "published"
+},
+{
+"title": "Task selection and routing problems in collaborative truckload transportation",
+"authors": [
+"Ran Liu",
+"Zhibin Jiang",
+"Xiao Liu",
+"Feng Chen"
+],
+"year": 2010,
+"venue": "Transportation Research Part E: Logistics and Transportation Review",
+"status": "published"
+},
+{
+"title": "Performance modelling, real-time dispatching and simulation of wafer fabrication systems using timed extended object-oriented Petri nets",
+"authors": [
+"Huiran Liu",
+"Zhibin Jiang",
+"Richard Y.K. Fung"
+],
+"year": 2009,
+"venue": "Computers & Industrial Engineering",
+"status": "published"
+},
+{
+"title": "Simulated Hill Climbing Search for the Solutions of k-Vertex Cut Problems",
+"authors": [
+"Y Zhou",
+"Z Jiang",
+"MC Zhou"
+],
+"year": 2024,
+"venue": "2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)",
+"status": "published"
+},
+{
+"title": "Public Hospital Inpatient Rooms Configuration and Capacity Allocation Optimization Considering Equity",
+"authors": [
+"Liping Zhou",
+"Na Geng",
+"Zhibin Jiang",
+"Xiuxian Wang"
+],
+"year": 2017,
+"venue": "2017 13th IEEE Conference on Automation Science and Engineering (CASE)",
+"status": "published"
+},
+{
+"title": "Multi-objective optimization of chemotherapy in silico based on population PK-PD model",
+"authors": [
+"Jianxu Zhu",
+"Peilian Wang",
+"Ran Liu",
+"Zhibin Jiang"
+],
+"year": 2017,
+"venue": "Proceedings of the 2017 Industrial and Systems Engineering Conference",
+"status": "published"
+}
+]
+},
+"cheng hua": {
+"name": "Cheng Hua",
+"papers": [
+{
+"title": "Cross-Trained Fire-Medics Respond to Medical Calls and Fire Incidents: A Fast Algorithm for a Three-State Spatial Queuing Problem",
+"authors": [
+"Cheng Hua",
+"A.J. Swersey"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Reinforcement-Learning Portfolio Allocation with Dynamic Embedding of Market Information",
+"authors": [
+"J. He",
+"Cheng Hua",
+"C. Zhou",
+"Z. Zheng"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Collaborative Intelligence in Sequential Decision Making: A Human-in-the-Loop Framework for Drug Discovery",
+"authors": [
+"J. He",
+"Cheng Hua",
+"Z. Zheng",
+"Y. Wang"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published"
+},
+{
+"title": "Asymptotically Optimal Policies for Dynamic Ambulance Dispatch",
+"authors": [
+"Cheng Hua",
+"T. Wang",
+"J. Zhang",
+"Z. Zhou"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Multi-Priority Patient Transfer under Ambulance Offload Delay",
+"authors": [
+"W. Xing",
+"Cheng Hua"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "A Novel Birth and Death Chain Formulation and Solution to a Spatial Queuing Problem",
+"authors": [
+"Cheng Hua",
+"Jun Luo",
+"A.J. Swersey",
+"Y. Wen"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "forthcoming"
+},
+{
+"title": "Fast Filter Pruning Method for Neural Network Compression",
+"authors": [
+"D. Wang",
+"W. Chen",
+"Cheng Hua",
+"W. Zhou",
+"X. Lin"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "forthcoming"
+},
+{
+"title": "Interpreting Chemisorption Strength with AutoML-based Feature Deletion Experiments",
+"authors": [
+"Z. Li",
+"C. Zhao",
+"H. Wang",
+"Y. Ding",
+"Y. Chen",
+"P. Schwaller",
+"K. Yang",
+"Cheng Hua",
+"Y. He"
+],
+"year": 2024,
+"venue": "PNAS",
+"status": "published"
+},
+{
+"title": "A Multi-Modal Transformer for Predicting Global Minimum Adsorption Energy",
+"authors": [
+"J. Chen",
+"X. Huang",
+"Cheng Hua",
+"Y. He",
+"P. Schwaller"
+],
+"year": 2025,
+"venue": "Nature Communications",
+"status": "published"
+},
+{
+"title": "Dynamic Volunteer Firefighter Planning Under Stochastic Service Disruptions",
+"authors": [
+"H. Liu",
+"Cheng Hua",
+"C. Lei"
+],
+"year": 2021,
+"venue": "Transportation Research Part E",
+"status": "published"
+},
+{
+"title": "Stochastic Regret Minimization for Revenue Management Problems with Nonstationary Demands",
+"authors": [
+"H. Zhang",
+"C. Shi",
+"C. Qin",
+"Cheng Hua"
+],
+"year": 2017,
+"venue": "Naval Research Logistics",
+"status": "published"
+},
+{
+"title": "SPOT: Scalable Policy Optimization with Trees for Markov Decision Processes",
+"authors": [
+"X. Xiong",
+"P. Chumpitaz-Flores",
+"K. Hua",
+"Cheng Hua"
+],
+"year": 2025,
+"venue": "NeurIPS",
+"status": "published"
+},
+{
+"title": "ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization",
+"authors": [
+"W. Huang",
+"Cheng Hua"
+],
+"year": 2026,
+"venue": "ICML",
+"status": "published"
+},
+{
+"title": "AdsGT: Graph Transformer for Predicting Global Minimum Adsorption Energy",
+"authors": [
+"J. Chen",
+"X. Huang",
+"Cheng Hua",
+"Y. He",
+"P. Schwaller"
+],
+"year": 2023,
+"venue": "NeurIPS 2023 AI for Science Workshop",
+"status": "published"
+},
+{
+"title": "Neo-Classic: A Benchmark for Evaluating Linguistic-Aesthetic Reasoning in Classical Chinese Poetry",
+"authors": [
+"H. Zhang",
+"Z. Gu",
+"Z. Wang",
+"T. Ma",
+"J. Lu",
+"X. Zhang",
+"Y. Wei",
+"Cheng Hua"
+],
+"year": 2026,
+"venue": "ACL",
+"status": "published"
+},
+{
+"title": "Establishment of a Knowledge-and-Data-Driven Artificial Intelligence System with Robustness and Interpretability in Laboratory Medicine",
+"authors": [
+"B. Wang",
+"J. Jing",
+"X. Huang",
+"Cheng Hua",
+"Q. Qin",
+"Y. Jia",
+"L. Jiang",
+"B. Gao",
+"L. Wu",
+"X. Zeng",
+"F. Wang",
+"S. Liu",
+"C. Mao"
+],
+"year": 2022,
+"venue": "Advanced Intelligent Systems",
+"status": "published"
+},
+{
+"title": "Optimal Dispatch in Emergency Service System via Reinforcement Learning",
+"authors": [
+"Cheng Hua",
+"T. Zaman"
+],
+"year": 2020,
+"venue": "INFORMS International Conference on Service Science",
+"status": "published"
+},
+{
+"title": "Approximating the Performance of Three-State Emergency Service System",
+"authors": [
+"T. Ma",
+"Cheng Hua",
+"A.J. Swersey"
+],
+"year": null,
+"venue": "INFORMS Journal on Computing",
+"status": "revise_resubmit"
+},
+{
+"title": "A Bayesian Optimization Model for Locating Emergency Service Units",
+"authors": [
+"Cheng Hua",
+"A.J. Swersey",
+"W. Xing",
+"Y. Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Identifying All ε-Best Arms in (Misspecified) Linear Bandits",
+"authors": [
+"Z. Li",
+"T. Ma",
+"Cheng Hua",
+"R. Zhu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Optimal Dispatch in Emergency Service System",
+"authors": [
+"Cheng Hua",
+"J. He",
+"T. Zaman",
+"Y. Zhong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"chengzhang li": {
+"name": "Chengzhang Li",
+"papers": [
+{
+"title": "Mostly Beneficial Clustering: Aggregating Data for Decision Making",
+"authors": [
+"Chengzhang Li",
+"Zhenkang Peng",
+"Ying Rong"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "forthcoming"
+},
+{
+"title": "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits",
+"authors": [
+"Chengzhang Li",
+"Yuanchen Li"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing",
+"authors": [
+"Zhenkang Peng",
+"Chengzhang Li",
+"Ying Rong",
+"Zichao Luo",
+"Guangrui Ma",
+"Mingyong Zhao"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "forthcoming"
+},
+{
+"title": "Product Return Policies: The Impacts of Vertical Bargaining and Contracting with Retail Competition",
+"authors": [
+"Chengzhang Li",
+"Tingliang Huang",
+"Yufei Huang"
+],
+"year": 2025,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Joint Pricing and Inventory Management under Minimax Regret",
+"authors": [
+"Chengzhang Li",
+"Mengshi Lu"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Dynamic Substitution for Selling Multiple Products under Supply and Demand Uncertainties",
+"authors": [
+"Qi Feng",
+"Chengzhang Li",
+"Mengshi Lu",
+"J. George Shanthikumar"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Implementing Environmental and Social Responsibility Programs in Supply Networks through Multi-Unit Bilateral Negotiation",
+"authors": [
+"Qi Feng",
+"Chengzhang Li",
+"Mengshi Lu",
+"J. George Shanthikumar"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments",
+"authors": [
+"Zhenkang Peng",
+"Chengzhang Li",
+"Ying Rong",
+"Renyu Zhang"
+],
+"year": null,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "Bankrolling Voluntary Carbon Offsets",
+"authors": [
+"Jing Hou",
+"Puping Jiang",
+"Chengzhang Li",
+"Fasheng Xu"
+],
+"year": null,
+"venue": "Management Science",
+"status": "revise_resubmit"
+},
+{
+"title": "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility",
+"authors": [
+"Yuxiao Chen",
+"Tingliang Huang",
+"Chengzhang Li",
+"Qinghua Zhu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"hailong sun": {
+"name": "Hailong Sun",
+"papers": [
+{
+"title": "Balancing Cost and Service: Charging Rate Optimization for EV Battery Swapping",
+"authors": [
+"Bo Feng",
+"Hailong Sun"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Partition and Prosper: Design and Pricing of Single Bundle",
+"authors": [
+"Hailong Sun",
+"Xiaobo Li",
+"Chung-Piaw Teo"
+],
+"year": 2025,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "Convex Optimization for Bundle Size Pricing Problem",
+"authors": [
+"Xiaobo Li",
+"Hailong Sun",
+"Chung-Piaw Teo"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Pricing Analytics for Ancillary Products: Learning from Conversion Data to Optimize Revenue",
+"authors": [
+"Changchun Liu",
+"Hailong Sun",
+"Chung-Piaw Teo",
+"Xiao Jin"
+],
+"year": null,
+"venue": "Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Supply-Chain Disruptions: Penalty for Starting a Cascade, or Reward for Stopping One?",
+"authors": [
+"Hailong Sun",
+"Chung-Piaw Teo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Multi-Product Pricing under Rational Inattention: Evidence, Estimation, and Field Deployment from Airline Ancillaries",
+"authors": [
+"Xiao Jin",
+"Junjie Ren",
+"Hailong Sun",
+"Changchun Liu",
+"Chung-Piaw Teo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Learning Correlated Preferences via Inverse Optimization: Applications to Bundle Pricing",
+"authors": [
+"Hailong Sun"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Capacity Portfolio Optimization for EV Battery Swapping Stations: Coordinating Normal and Fast Charging",
+"authors": [
+"Bo Feng",
+"Zihao Chen",
+"Tianhu Deng",
+"Hailong Sun"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "When Barcodes Fail: Enhancing Product Recognition in Charitable Operations",
+"authors": [
+"Peng Liu",
+"Mabel C. Chou",
+"Hailong Sun",
+"Chung-Piaw Teo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Generalizing Bayesian Human-AI Collaboration: Theory and Application in Data-Scarce Environments",
+"authors": [
+"Peng Liu",
+"Hailong Sun",
+"Chung-Piaw Teo",
+"Mabel Chou"
+],
+"year": 2026,
+"venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+"status": "published"
+}
+]
+},
+"puping jiang": {
+"name": "Puping Jiang",
+"papers": [
+{
+"title": "Impact of Traceability Technology Adoption in Food Supply Chain Networks",
+"authors": [
+"Puping Jiang",
+"Lingxiu Dong",
+"Fasheng Xu"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "Display Optimization Under the Multinomial Logit Choice Model: Balancing Revenue and Customer Satisfaction",
+"authors": [
+"Puping Jiang",
+"Jake Feldman"
+],
+"year": 2024,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Data-Driven Asset Selling",
+"authors": [
+"Puping Jiang",
+"Lingxiu Dong"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published"
+},
+{
+"title": "Short-term Pain for Long-term Gain: Adaptive Experiment with Post-Commitment Reward Shift",
+"authors": [
+"Puping Jiang",
+"Wei Tang"
+],
+"year": 2026,
+"venue": "EC 2026: The 27th ACM Conference on Economics and Computation",
+"status": "published"
+},
+{
+"title": "Simple Delay-Oblivious Policies Are Robust: Overbooking with Delayed Purchases",
+"authors": [
+"Puping Jiang",
+"Yiding Feng",
+"Wei Tang"
+],
+"year": 2026,
+"venue": "WINE 2026: The 22nd Conference on Web and Internet Economics",
+"status": "published"
+},
+{
+"title": "Vertical Information Sharing in the Presence of Investment Shocks: When May It Happen?",
+"authors": [
+"Puping Jiang",
+"Panos Kouvelis"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Online Optimization in Asset Selling Platforms",
+"authors": [
+"Puping Jiang",
+"René Caldentey",
+"Lingxiu Dong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Human, AI, or Copilot: Experiment Design for Fast Deployment",
+"authors": [
+"Puping Jiang",
+"Ying Rong",
+"Shuji Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"taotao he": {
+"name": "Taotao He",
+"papers": []
+},
+"yingda song": {
+"name": "Yingda Song",
+"papers": [
+{
+"title": "Efficient Nested Estimation of CoVaR: A Decoupled Approach",
+"authors": [
+"N. Lin",
+"Y. Song",
+"L. J. Hong"
+],
+"year": 2026,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "Analysis of Credit ABS based on Markov Chain Approaches",
+"authors": [
+"F. Liu",
+"Y. Song"
+],
+"year": 2025,
+"venue": "Finance Research Letters",
+"status": "published"
+},
+{
+"title": "Risk-free Rate Caplets Pricing by CTMC Approximation",
+"authors": [
+"F. Liu",
+"Y. Song"
+],
+"year": 2024,
+"venue": "Quantitative Finance",
+"status": "published"
+},
+{
+"title": "A General Approximation Method for Optimal Stopping and Random Delay",
+"authors": [
+"P. Chen",
+"Y. Song"
+],
+"year": 2024,
+"venue": "Mathematical Finance",
+"status": "published"
+},
+{
+"title": "Irreversible Investment with Random Delay and Partial Prepayment",
+"authors": [
+"P. Chen",
+"Y. Song"
+],
+"year": 2022,
+"venue": "Operations Research Letters",
+"status": "published"
+},
+{
+"title": "Pricing and Calibration of the Futures Options Market: A Unified Approximation",
+"authors": [
+"X. Lian",
+"Y. Song"
+],
+"year": 2021,
+"venue": "Journal of Futures Markets",
+"status": "published"
+},
+{
+"title": "Computable Error Bounds of Laplace Inversion for Pricing Asian Options",
+"authors": [
+"Y. Song",
+"N. Cai",
+"S. Kou"
+],
+"year": 2018,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Exact Simulation of the SABR Model",
+"authors": [
+"N. Cai",
+"Y. Song",
+"N. Chen"
+],
+"year": 2017,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "A General Framework for Pricing Asian Options under Markov Processes",
+"authors": [
+"N. Cai",
+"Y. Song",
+"S. Kou"
+],
+"year": 2015,
+"venue": "Operations Research",
+"status": "published"
+},
+{
+"title": "A Unified Framework for Regime-Switching Models",
+"authors": [
+"N. Cai",
+"S. Kou",
+"Y. Song"
+],
+"year": null,
+"venue": "SSRN",
+"status": "working_paper"
+},
+{
+"title": "Fast Discrete-Event Simulation of Markovian Queueing Networks through Euler Approximation",
+"authors": [
+"L. J. Hong",
+"Y. Song",
+"T. Wang"
+],
+"year": null,
+"venue": "arXiv",
+"status": "working_paper"
+}
+]
+},
+"yufeng cao": {
+"name": "Yufeng Cao",
+"papers": [
+{
+"title": "Network revenue management under a spiked multinomial logit choice model",
+"authors": [
+"Yufeng Cao",
+"Anton J. Kleywegt",
+"He Wang"
+],
+"year": 2022,
+"venue": "Operations Research",
+"status": "forthcoming"
+},
+{
+"title": "Explaining point processes by learning interpretable temporal logic rules",
+"authors": [
+"Shuang Li",
+"Mingquan Feng",
+"Lu Wang",
+"Abdelmajid Essofi",
+"Yufeng Cao",
+"Junchi Yan",
+"Le Song"
+],
+"year": 2022,
+"venue": "International Conference on Learning Representations (ICLR)",
+"status": "published"
+},
+{
+"title": "Revenue management under a mixture of multinomial logit and independent demand models",
+"authors": [
+"Yufeng Cao",
+"Paat Rusmevichientong",
+"Huseyin Topaloglu"
+],
+"year": 2022,
+"venue": "Operations Research",
+"status": "forthcoming"
+},
+{
+"title": "Dynamic pricing for two-sided marketplaces with offer expiration",
+"authors": [
+"Yufeng Cao",
+"Anton J. Kleywegt",
+"He Wang"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "working_paper"
+}
+]
+},
+"xingyu wang": {
+"name": "Xingyu Wang",
+"papers": [
+{
+"title": "Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes",
+"authors": [
+"Jose Blanchet",
+"Roger J. A. Laeven",
+"Xingyu Wang",
+"Bert Zwart"
+],
+"year": null,
+"venue": "Bernoulli",
+"status": "forthcoming"
+},
+{
+"title": "Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities",
+"authors": [
+"Xingyu Wang",
+"Chang-Han Rhee"
+],
+"year": null,
+"venue": "Mathematics of Operations Research",
+"status": "forthcoming"
+},
+{
+"title": "Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control",
+"authors": [
+"Xingyu Wang",
+"Chang-Han Rhee"
+],
+"year": null,
+"venue": "Operations Research",
+"status": "revise_resubmit"
+},
+{
+"title": "Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes",
+"authors": [
+"Jose Blanchet",
+"Roger J. A. Laeven",
+"Xingyu Wang",
+"Bert Zwart"
+],
+"year": null,
+"venue": "Annals of Applied Probability",
+"status": "revise_resubmit"
+},
+{
+"title": "Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems",
+"authors": [
+"Xingyu Wang",
+"Chang-Han Rhee"
+],
+"year": null,
+"venue": "Annals of Applied Probability",
+"status": "revise_resubmit"
+},
+{
+"title": "Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics",
+"authors": [
+"Xingyu Wang",
+"Mengfan Xu"
+],
+"year": 2025,
+"venue": "Winter Simulation Conference",
+"status": "published"
+},
+{
+"title": "Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle",
+"authors": [
+"Xingyu Wang",
+"Chang-Han Rhee"
+],
+"year": 2023,
+"venue": "Winter Simulation Conference",
+"status": "published"
+},
+{
+"title": "Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises",
+"authors": [
+"Xingyu Wang",
+"Sewoong Oh",
+"Chang-Han Rhee"
+],
+"year": 2022,
+"venue": "International Conference on Learning Representations (ICLR)",
+"status": "published"
+},
+{
+"title": "Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities",
+"authors": [
+"Xingyu Wang",
+"Chang-Han Rhee"
+],
+"year": 2020,
+"venue": "Winter Simulation Conference",
+"status": "published"
+},
+{
+"title": "Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations",
+"authors": [
+"Xingyu Wang",
+"Diego Klabjan"
+],
+"year": 2018,
+"venue": "International Conference on Machine Learning (ICML)",
+"status": "published"
+}
+]
+},
+"zhuodong tang": {
+"name": "Zhuodong Tang",
+"papers": [
+{
+"title": "Estimating discrete choice models with random forests",
+"authors": [
+"Chen, N.",
+"Gallego, G.",
+"Tang, Z."
+],
+"year": 2021,
+"venue": "INFORMS International Conference on Service Science (Springer)",
+"status": "published"
+},
+{
+"title": "The Threshold Utility Model with Applications to Retailing and Choice Models",
+"authors": [
+"Guillermo Gallego",
+"Zhuodong Tang",
+"Ruxian Wang"
+],
+"year": null,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "The Use of Binary Choice Forest to Model and Estimate Discrete Choices",
+"authors": [
+"Ningyuan Chen",
+"Guillermo Gallego",
+"Zhuodong Tang"
+],
+"year": null,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "Pricing Multiple Products and Competition Analysis under the Threshold Utility Model",
+"authors": [
+"Guillermo Gallego",
+"Zhuodong Tang",
+"Ruxian Wang"
+],
+"year": null,
+"venue": "Manufacturing & Service Operations Management",
+"status": "revise_resubmit"
+},
+{
+"title": "On the Performance of Myopic and Revenue-Ordered Policies for a Multi-Period Assortment Optimization under an MNL Model with Popularity Bias",
+"authors": [
+"Zhuodong Tang",
+"Stefanus Jasin",
+"Izak Duenyas"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "FPTAS Algorithm for Multi-period Assortment Optimization under MNL Model with Popularity Bias",
+"authors": [
+"Izak Duenyas",
+"Stefanus Jasin",
+"Zhuodong Tang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Product Line Design and Pricing under Mixed Basic Attraction Model",
+"authors": [
+"Guillermo Gallego",
+"Anran Li",
+"Zhuodong Tang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Consumer Multiple Choices: A Forest-based Model and Estimation",
+"authors": [
+"Ningyuan Chen",
+"Guillermo Gallego",
+"Zhuodong Tang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Axiomatic Justiﬁcation and Additional Results for the α-MNL model",
+"authors": [
+"Guillermo Gallego",
+"Wentao Lu",
+"Zhuodong Tang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"fengyan cai": {
+"name": "Fengyan Cai",
+"papers": [
+{
+"title": "The Rank Length Effect",
+"authors": [
+"Vivian (Jieru) Xie",
+"Fengyan Cai",
+"Rajesh Bagchi"
+],
+"year": 2025,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Are People Less Generous After a Family Member Gives to Charity? The Interaction of Self-construal and Relationship Type",
+"authors": [
+"Xiaohong Zhao",
+"Fengyan Cai",
+"Zhiyong Yang"
+],
+"year": 2023,
+"venue": "International Journal of Research in Marketing",
+"status": "published"
+},
+{
+"title": "We Earned the Coupon Together\" The Missing Link of Experience Cocreation in Shared Coupon Conversion",
+"authors": [
+"Eric Fang",
+"Beibei Dong",
+"Mengzhou Zhuang",
+"Fengyan Cai"
+],
+"year": 2023,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "The Interaction Effect of Food Variety and Simulation of Eating on Consumers' Calorie Estimation",
+"authors": [
+"Liang Shen",
+"Fengyan Cai",
+"Robert S. Wyer Jr."
+],
+"year": 2022,
+"venue": "Journal of Business Research",
+"status": "published"
+},
+{
+"title": "The Boomerang Effect of Zero Pricing: When and Why a Zero Price Is Less Effective than a Low Price for Enhancing Consumer Demand",
+"authors": [
+"Xiaomeng Fan",
+"Fengyan Cai",
+"Galen V. Bodenhausen"
+],
+"year": 2022,
+"venue": "Journal of Academy and Marketing Science",
+"status": "published"
+},
+{
+"title": "Do Promotions Make Consumers More Generous? The Impact of Price Promotions on Consumers' Donation Behavior",
+"authors": [
+"Kuangjie Zhang",
+"Fengyan Cai",
+"Zhengyu Shi"
+],
+"year": 2021,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "The interactive effects of bitter flavor and mood on the decision to spend or save money",
+"authors": [
+"Fengyan Cai",
+"Zhiyong Yang",
+"Robert S. Wyer Jr.",
+"Alison Jing Xu"
+],
+"year": 2017,
+"venue": "Journal of Experimental Social Psychology",
+"status": "published"
+},
+{
+"title": "Boomerang Effects of Low Price Discounts: How Low Price Discounts Affect Purchase Propensity",
+"authors": [
+"Fengyan Cai",
+"Rajesh Bagchi",
+"Dinesh K Gauri"
+],
+"year": 2016,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "The Impact of Mortality Salience on the Relative Effectiveness of Donation Appeals",
+"authors": [
+"Fengyan Cai",
+"Robert S. Wyer Jr."
+],
+"year": 2015,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "Over-Earning",
+"authors": [
+"Christopher K. Hsee",
+"Jiao Zhang",
+"Fengyan Cai",
+"Shirley Zhang"
+],
+"year": 2013,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "The Effect of Location on Price Estimation: Understanding Number–Location and Number–Order Associations",
+"authors": [
+"Fengyan Cai",
+"Hao Shen",
+"Michael K. Hui"
+],
+"year": 2012,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "The Generalization of Deliberative and Automatic Behavior: The Role of Procedural Knowledge and Affective Reactions",
+"authors": [
+"Hao Shen",
+"Robert S. Wyer Jr.",
+"Fengyan Cai"
+],
+"year": 2012,
+"venue": "Journal of Experimental Social Psychology",
+"status": "published"
+},
+{
+"title": "Making Your Online Voice Loud: The Critical Role of WOM Information",
+"authors": [
+"Minxue Huang",
+"Fengyan Cai",
+"Alex Tsang",
+"Nan Zhou"
+],
+"year": 2011,
+"venue": "European Journal of Marketing",
+"status": "published"
+}
+]
+},
+"liangyan wang": {
+"name": "Liangyan Wang",
+"papers": [
+{
+"title": "Effects of Directly and Indirectly Competing Reference Group Messages and Persuasion Knowledge: Implications for Educational Placements",
+"authors": [
+"Liangyan Wang",
+"C. Pechmann"
+],
+"year": 2010,
+"venue": "Journal of Marketing Research",
+"status": "published"
+},
+{
+"title": "Idleness aversion and the need for justified busyness",
+"authors": [
+"Liangyan Wang",
+"C. K. Hsee",
+"X. Yang"
+],
+"year": 2010,
+"venue": "Psychological Science",
+"status": "published"
+},
+{
+"title": "Outcome, Time and Risk Differ Similarly Between Joint and Single Evaluations",
+"authors": [
+"Liangyan Wang",
+"C. K. Hsee",
+"J. Zhang",
+"S. Zhang"
+],
+"year": 2013,
+"venue": "Journal of Consumer Research",
+"status": "published"
+},
+{
+"title": "Discounting over Subjective Time: Subjective Time Perception Helps Explain Multiple Discounted Utility Anomalies",
+"authors": [
+"Liangyan Wang",
+"Y. Wang",
+"R. Keller"
+],
+"year": 2015,
+"venue": "International Journal of Research in Marketing",
+"status": "published"
+},
+{
+"title": "The Performance Effects of Creative Imitation on Original Products: Evidence from Lab and Field Experiments",
+"authors": [
+"Liangyan Wang",
+"B. Wu",
+"C. Pechmann",
+"Y. Wang"
+],
+"year": 2023,
+"venue": "Strategic Management Journal",
+"status": "published"
+},
+{
+"title": "When the \"Charm of Three\" Fades: The Impact of Number of Claims and Mental Imagery on Persuasion",
+"authors": [
+"Liangyan Wang",
+"E. Chan",
+"H. Chen",
+"H. Lin",
+"X. Shi"
+],
+"year": 2022,
+"venue": "Journal of Consumer Psychology",
+"status": "published"
+},
+{
+"title": "Are Concave Ads More Persuasive? The Role of Immersion",
+"authors": [
+"Liangyan Wang",
+"A. Gohary",
+"E. Chan"
+],
+"year": null,
+"venue": "Journal of Advertising",
+"status": "forthcoming"
+},
+{
+"title": "A Rose by Any Other Name Would Smell as Sweet? The Impact of Hierarchical Labeling on Consumers' Choices in Tiered Pricing Plans",
+"authors": [
+"Liangyan Wang",
+"X. Deng",
+"H. Chen"
+],
+"year": null,
+"venue": "Marketing Letters",
+"status": "forthcoming"
+},
+{
+"title": "Tool Anthropomorphism Reduces People's Reward for Tool Users",
+"authors": [
+"Liangyan Wang",
+"J. Huang",
+"E. Chan"
+],
+"year": 2023,
+"venue": "Journal of Business Research",
+"status": "published"
+}
+]
+},
+"qingsheng wu": {
+"name": "Qingsheng Wu",
+"papers": [
+{
+"title": "Artificial Intelligence, Emotional Labor, and Service Operations",
+"authors": [
+"Zheng Fang",
+"Yuqian Chang",
+"Xueming Luo",
+"Qingsheng Wu",
+"Jaakko Aspara"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "From Stopping to Shopping: A Field Experiment on Free Return and Free Shipping Retargeting Policies in Online Retail Operations",
+"authors": [
+"Xueming Luo",
+"Le Wang",
+"Qingsheng Wu",
+"Takeshi Moriguchi"
+],
+"year": 2025,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published"
+},
+{
+"title": "Nonlinear Effects of Social Connections and Interactions on Individual Goal Attainment and Spending: Evidences from Online Gaming Markets",
+"authors": [
+"Cheng Zhang",
+"Chee Wei Phang",
+"Qingsheng Wu",
+"Xueming Luo"
+],
+"year": 2017,
+"venue": "Journal of Marketing",
+"status": "published"
+},
+{
+"title": "Sleeping with competitors: the impact of NPD phases on stock market reactions to horizontal collaboration",
+"authors": [
+"Qingsheng Wu",
+"Xueming Luo",
+"Rebecca J. Slotegraaf",
+"Jaakko Aspara"
+],
+"year": 2015,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "published"
+},
+{
+"title": "Managerial ties, strategic initiatives, and firm performance in Central Asia and the Caucasus",
+"authors": [
+"Kiran M. Ismail",
+"David L. Ford",
+"Qingsheng Wu",
+"Mike W. Peng"
+],
+"year": 2013,
+"venue": "Asia Pacific Journal of Management",
+"status": "published"
+},
+{
+"title": "Overpredicting and Underprofiting in Pricing Decisions",
+"authors": [
+"Luxi Shen",
+"Christopher K. Hsee",
+"Qingsheng Wu",
+"Claire I. Tsai"
+],
+"year": 2012,
+"venue": "Journal of Behavioral Decision Making",
+"status": "published"
+}
+]
+},
+"shuo zhang": {
+"name": "Shuo Zhang",
+"papers": []
+},
+"si zuo": {
+"name": "Si Zuo",
+"papers": [
+{
+"title": "Personalization, Algorithmic Dependence, and Learning",
+"authors": [
+"Si Zuo",
+"Omid Rafieian"
+],
+"year": null,
+"venue": "Marketing Science",
+"status": "revise_resubmit"
+},
+{
+"title": "From Store Promotions to Mall-Wide Revenue: Spatial Spillovers and Promotion Allocation",
+"authors": [
+"Si Zuo",
+"Xiao Xin Chen",
+"Chenyang Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Price Signaling and Reputation Building: Evidence from a Service Platform",
+"authors": [
+"Si Zuo",
+"Yangguang Huang",
+"Chenyang Li",
+"Shuo Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Online Store Opening: Heterogeneous Effects and Implications for Shopping Malls",
+"authors": [
+"Si Zuo",
+"Yangguang Huang",
+"Chenyang Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Coarse Ratings on Online Platforms",
+"authors": [
+"Si Zuo"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"lin lu": {
+"name": "Lin Lu",
+"papers": [
+{
+"title": "When can culturally diverse teams be more creative? The role of leaders' benevolent paternalism",
+"authors": [
+"L. Lu",
+"F. Li",
+"K. Leung",
+"K. Savani",
+"M. W. Morris"
+],
+"year": 2018,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Microdivisionalization: Using Teams for Competitive Advantage",
+"authors": [
+"M. W. Meyer",
+"L. Lu",
+"J. Peng",
+"A. S. Tsui"
+],
+"year": 2017,
+"venue": "Academy of Management Discovery",
+"status": "published"
+},
+{
+"title": "Compensation disparity between locals and expatriates in China: A multilevel analysis of the influence of norms",
+"authors": [
+"K. Leung",
+"X. Lin",
+"L. Lu"
+],
+"year": 2014,
+"venue": "Management International Review",
+"status": "published"
+}
+]
+},
+"runtian jing": {
+"name": "Runtian Jing",
+"papers": [
+{
+"title": "Organizational Entrainment of Project Launch in the Research Context of Chinese Real Estate Firms",
+"authors": [
+"S.Q. Cheng",
+"R.T. Jing",
+"X. Sun"
+],
+"year": 2024,
+"venue": "Project Management Journal",
+"status": "published"
+},
+{
+"title": "Positivism vs. Interpretivism: Comparison of Two Classic Case Research Paradigms and Their Inspirations",
+"authors": [
+"R. Jing",
+"X. Sun"
+],
+"year": 2021,
+"venue": "Management World",
+"status": "published"
+},
+{
+"title": "Reflections on Scientific Misconduct in Management Unfortunate Incidents or a Normative Crisis",
+"authors": [
+"B. Honig",
+"J. Lampel",
+"J.A.C. Baum",
+"M.A. Glynn",
+"R. Jing"
+],
+"year": 2018,
+"venue": "Academy of Management Perspectives",
+"status": "published"
+},
+{
+"title": "Institutional Regimes and Path Dependence: Case Studies of the Conversion of Military Firms in China",
+"authors": [
+"Runtian Jing",
+"Mary Benner"
+],
+"year": 2016,
+"venue": "Journal of Management Studies",
+"status": "published"
+},
+{
+"title": "Study on FDI Spillover Effects inside Chinese Business Groups",
+"authors": [
+"Runtian Jing",
+"Hu Zhao",
+"Kevin Steensma"
+],
+"year": 2013,
+"venue": "Nankai Business Review",
+"status": "published"
+}
+]
+},
+"can ouyang": {
+"name": "Can Ouyang",
+"papers": [
+{
+"title": "Line managers as conduits of corporate standards: Evidence from human resource practices in fast food franchise chains",
+"authors": [
+"T. Lakhani",
+"C. Ouyang",
+"H. Chung",
+"R. Batt"
+],
+"year": 2026,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "From static fit to dynamic alignment: The emergence and evolution of HR ecosystems in fragmented workplaces",
+"authors": [
+"C. Ouyang",
+"X. Shi",
+"H. Zhang"
+],
+"year": 2026,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "Which firms offer better jobs for low-wage service workers? Evidence from fast-food franchising",
+"authors": [
+"C. Ouyang",
+"R. Batt"
+],
+"year": 2026,
+"venue": "ILR Review",
+"status": "published"
+},
+{
+"title": "Building micro‐foundations for positive workplace relationships: Validation of a strategic relational human resource management measure",
+"authors": [
+"Q. Zhang",
+"H. Gong",
+"C. Ouyang",
+"J. Han",
+"A. M. Saks"
+],
+"year": 2025,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "Mobilising the entrepreneurial self to manage the crisis: Community group‐buying during the Shanghai lockdown",
+"authors": [
+"Y. Wang",
+"T. Lu",
+"C. Ouyang",
+"F. Wu"
+],
+"year": 2025,
+"venue": "Antipode",
+"status": "published"
+},
+{
+"title": "Chain affiliation and human resource investments: Evidence from the restaurant industry",
+"authors": [
+"T. Lakhani",
+"C. Ouyang"
+],
+"year": 2022,
+"venue": "Organization Science",
+"status": "published"
+},
+{
+"title": "Overcoming liabilities of origin: Human resource management localization of Chinese multinational corporations in developed markets",
+"authors": [
+"C. Ouyang",
+"M. Liu",
+"Y. Chen",
+"Ji, Li",
+"Qing, W."
+],
+"year": 2019,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "Organizational and regional influences on the adoption of high-involvement human resource systems in China: Evidence from service establishments",
+"authors": [
+"C. Ouyang",
+"X. Liu",
+"Z. Zhang"
+],
+"year": 2016,
+"venue": "The International Journal of Human Resource Management",
+"status": "published"
+}
+]
+},
+"lisha liu": {
+"name": "Lisha Liu",
+"papers": [
+{
+"title": "Economic Crisis, Social Networks, and Political Preferences",
+"authors": [
+"Lisha Liu",
+"Alexander Kuo",
+"Jose Fernandez-Albertos"
+],
+"year": 2020,
+"venue": "Socio-Economic Review",
+"status": "published"
+},
+{
+"title": "The Entrepreneur’s Network and Firm Performance",
+"authors": [
+"Victor Nee",
+"Lisha Liu",
+"Daniel Dellaposta"
+],
+"year": 2017,
+"venue": "Sociological Science",
+"status": "published"
+},
+{
+"title": "Managing Ongoing Interorganizational Relationships: Power Asymmetry, Shared Third Party, and Reciprocity Between Loan Guarantee Partners",
+"authors": [
+"Lisha Liu"
+],
+"year": null,
+"venue": "Organization Science",
+"status": "working_paper"
+},
+{
+"title": "Regulatory Transparency, Organizational Change, and the Adoption of Pro-Environmental Practices: Evidence from the Chinese Banking Industry, 2007-2016",
+"authors": [
+"Cathy Xuege Lu",
+"Shipeng Yan",
+"Lisha Liu"
+],
+"year": null,
+"venue": "Academy of Management Journal",
+"status": "revise_resubmit"
+},
+{
+"title": "Legal Environment and Political Capital in China",
+"authors": [
+"Lisha Liu",
+"Victor Nee"
+],
+"year": null,
+"venue": "Administrative Science Quarterly",
+"status": "working_paper"
+}
+]
+},
+"xianwei shi": {
+"name": "Xianwei Shi",
+"papers": [
+{
+"title": "Scaling high and wide: How firms leverage AI and organizational design to overcome scale-scope trade-off",
+"authors": [
+"F. Wan",
+"T. Yang",
+"X. Shi",
+"K. Rong",
+"S. Ansari"
+],
+"year": 2026,
+"venue": "Strategic Management Journal",
+"status": "forthcoming"
+},
+{
+"title": "Ecosystem orchestration: Mechanisms, regimes and theories of the firm foundations",
+"authors": [
+"S. Mozheiko",
+"X. Shi",
+"T. W. Tong"
+],
+"year": 2026,
+"venue": "Academy of Management Annals",
+"status": "forthcoming"
+},
+{
+"title": "From static fit to dynamic alignment: The emergence and evolution of HR ecosystems in fragmented workplaces",
+"authors": [
+"C. Ouyang",
+"X. Shi",
+"H. Zhang"
+],
+"year": 2026,
+"venue": "Human Resource Management",
+"status": "forthcoming"
+},
+{
+"title": "A systematic literature review of entrepreneurial ecosystems in advanced and emerging economies",
+"authors": [
+"Z. Cao",
+"X. Shi"
+],
+"year": 2021,
+"venue": "Small Business Economics",
+"status": "published"
+}
+]
+},
+"xinxin li": {
+"name": "Xinxin Li",
+"papers": [
+{
+"title": "Schadenfreude: A counternormative observer response to workplace mistreatment",
+"authors": [
+"Xinxin Li",
+"D. J. McAllister",
+"R. Ilies",
+"J. L. Gloor"
+],
+"year": 2019,
+"venue": "Academy of Management Review",
+"status": "published"
+},
+{
+"title": "How identity impacts bystander responses to workplace mistreatment",
+"authors": [
+"J. L. Gloor",
+"T. G. Okimoto",
+"Xinxin Li",
+"B. A. Gazdag",
+"M. K. Ryan"
+],
+"year": null,
+"venue": "Journal of Management",
+"status": "forthcoming"
+},
+{
+"title": "Being busy, feeling poor: The scale development and validation of perceived time poverty",
+"authors": [
+"X. Zheng",
+"Q. Zhang",
+"Xinxin Li",
+"B. Wu"
+],
+"year": 2022,
+"venue": "International Journal of Selection and Assessment",
+"status": "published"
+},
+{
+"title": "Work-related helping and family functioning: A work–home resources perspective",
+"authors": [
+"S. S. Aw",
+"R. Ilies",
+"Xinxin Li",
+"A. B. Bakker",
+"X-Y. Liu"
+],
+"year": 2021,
+"venue": "Journal of Occupational and Organizational Psychology",
+"status": "published"
+},
+{
+"title": "Happy but uncivil? Examining when and why positive affect leads to incivility",
+"authors": [
+"R. Ilies",
+"C. Y. Guo",
+"S. Lim",
+"K. C. Yam",
+"Xinxin Li"
+],
+"year": 2020,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "An inconvenient truth? Interpersonal and career consequences of \"maybe baby\" expectations",
+"authors": [
+"J. L. Gloor",
+"Xinxin Li",
+"S. Lim",
+"A. Feierabend"
+],
+"year": 2018,
+"venue": "Journal of Vocational Behavior",
+"status": "published"
+},
+{
+"title": "Predictors of parental leave support: Bad news for (big) dads and a policy for equality",
+"authors": [
+"J. L. Gloor",
+"Xinxin Li",
+"R. M. Puhl"
+],
+"year": 2018,
+"venue": "Group Processes & Intergroup Relations",
+"status": "published"
+},
+{
+"title": "上下级联合偏离的概念化和量表开发",
+"authors": [
+"王茜",
+"王海江",
+"李欣欣",
+"耿利肖"
+],
+"year": null,
+"venue": "管理学报",
+"status": "published"
+}
+]
+},
+"longwang fu": {
+"name": "Longwang Fu",
+"papers": [
+{
+"title": "CEO Ideologically (In)congruent Activism and Investor Reactions: An Attribution of CEO Intentions Perspective",
+"authors": [
+"M. Yun",
+"L.W. Fu"
+],
+"year": 2026,
+"venue": "Journal of Management Studies",
+"status": "forthcoming"
+},
+{
+"title": "Bad News Has Wings: How Industry and Geographic Peers' Financial Misconduct Influence Stock Price Crash Risk",
+"authors": [
+"B. Wang",
+"F.W. Chen",
+"L.W. Fu",
+"W. Wang"
+],
+"year": 2025,
+"venue": "Journal of Accounting Literature",
+"status": "published"
+},
+{
+"title": "创业者个体学习、组织学习如何交互影响企业创新行为？—基于整合视角的纵向单案例研究",
+"authors": [
+"陈逢文",
+"付龙望",
+"张露",
+"于晓宇"
+],
+"year": 2020,
+"venue": "管理世界",
+"status": "published"
+},
+{
+"title": "创业网络演化过程如何发生？—基于‘结构—行为’互动机制的案例研究",
+"authors": [
+"陈逢文",
+"付龙望",
+"洪家瑶"
+],
+"year": 2019,
+"venue": "南开管理评论",
+"status": "published"
+}
+]
+},
+"shike li": {
+"name": "Shike Li",
+"papers": [
+{
+"title": "When Apology Hurts: Perceived Transgression and Reconciliation Outcomes",
+"authors": [
+"S. Li",
+"I. Radivojevic",
+"K. Jain",
+"C. Cloppenburg"
+],
+"year": 2023,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "Blinded by Guilt: Short-Term Relational Focus and Lying",
+"authors": [
+"S. Li",
+"K. Jain"
+],
+"year": 2021,
+"venue": "Journal of Experimental Social Psychology",
+"status": "published"
+},
+{
+"title": "When Supervisor Support Backfires: The Link Between Perceived Supervisor Support and Unethical Pro-supervisor Behavior",
+"authors": [
+"S. Li",
+"K. Jain",
+"K. Tzini"
+],
+"year": 2021,
+"venue": "Journal of Business Ethics",
+"status": "published"
+},
+{
+"title": "Employee Moral Evaluation of Supervisor Leniency for Coworkers' Misconduct: The Role of Attributed Altruistic and Instrumental Motives",
+"authors": [
+"S. Li",
+"B. Ma",
+"I. Radivojevic"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published"
+}
+]
+},
+"wei wang": {
+"name": "Wei Wang",
+"papers": []
+},
+"xueqing fan": {
+"name": "Xueqing Fan",
+"papers": [
+{
+"title": "When leaders are forced to stay: The indirect effects of leaders' reluctant staying on subordinates' performance",
+"authors": [
+"X. Fan",
+"D. Wang",
+"F. Wang",
+"M. L. Kraimer"
+],
+"year": 2024,
+"venue": "Journal of Organizational Behavior",
+"status": "published"
+},
+{
+"title": "The theoretical value of understanding HRM's financial value",
+"authors": [
+"M. C. Sturman",
+"X. Fan",
+"H. Shim"
+],
+"year": 2023,
+"venue": "The International Journal of Human Resource Management",
+"status": "published"
+},
+{
+"title": "How and when matter: Exploring the interaction effects of high‐performance work systems, employee participation, and human capital on organizational innovation",
+"authors": [
+"Y. Zhou",
+"X. Fan",
+"J. Son"
+],
+"year": 2019,
+"venue": "Human Resource Management",
+"status": "published"
+},
+{
+"title": "Going on or going home? The impact of new venture creation progress on work-to-family conflict: A mediated moderation model",
+"authors": [
+"Y. Zhou",
+"W. Zhao",
+"X. Fan"
+],
+"year": 2020,
+"venue": "Management Decision",
+"status": "published"
+}
+]
+},
+"feng li": {
+"name": "Feng Li",
+"papers": []
+},
+"shijun cheng": {
+"name": "Shijun Cheng",
+"papers": [
+{
+"title": "The Market for Corporate Control and CEO Compensation: Complements or Substitutes?",
+"authors": [
+"Shijun Cheng",
+"Raffi J. Indjejikian"
+],
+"year": 2009,
+"venue": "Contemporary Accounting Research",
+"status": "published"
+}
+]
+},
+"chun chang": {
+"name": "Chun Chang",
+"papers": [
+{
+"title": "Incentive contracting versus ownership reforms: Evidence from China's township and village enterprises",
+"authors": [
+"Chun Chang",
+"Brian P. McCall",
+"Yijiang Wang"
+],
+"year": 2003,
+"venue": "Journal of Comparative Economics",
+"status": "published"
+},
+{
+"title": "The Informational Requirement on Financial Systems at Different Stages of Economic Development: The Case of South Korea",
+"authors": [
+"Chun Chang"
+],
+"year": 2001,
+"venue": "China Economic Review",
+"status": "published"
+},
+{
+"title": "创新生产要素配置方式”与构建国家多要素配置体系",
+"authors": [
+"张春",
+"刘超",
+"董兵兵"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "个人数据产权的界定、分置与配置：基于银企协助场景的理论分析",
+"authors": [
+"张春",
+"董兵兵",
+"王一耀"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Collaboration of Banking and Commerce and Unbundling of Data Property Rights",
+"authors": [
+"Chun Chang",
+"Yiyao Wang"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "货币和财政政策动态关系演变及深层次原因 ——非常规政策的一个新理论框架",
+"authors": [
+"张春",
+"蒋一乐",
+"仲文娜",
+"董兵兵"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "中国数据资产的识别和规模测算",
+"authors": [
+"黄秋实",
+"董兵兵",
+"刘超",
+"王怡晨",
+"张溢恬",
+"张春"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Universal Banking and Optimal Financial Structure",
+"authors": [
+"Chun Chang",
+"Xiaoming Li"
+],
+"year": 2020,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Contract Coordination and Uninformative Transfer Prices as the Benefit and Cost of Vertical Integration",
+"authors": [
+"Chun Chang",
+"Sen Li"
+],
+"year": 2019,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "On the Popularity of and a Comparison of Convertible Preferred and Participating Preferred Equities in Venture Financing",
+"authors": [
+"Chun Chang",
+"Huiyan Qiu"
+],
+"year": 2019,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"hong yan": {
+"name": "Hong Yan",
+"papers": []
+},
+"jun pan": {
+"name": "Jun Pan",
+"papers": [
+{
+"title": "Fintech Platforms and Mutual Fund Distribution",
+"authors": [
+"Claire Yurong Hong",
+"Xiaomeng Lu",
+"Jun Pan"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Long and Short of U.S. Treasury",
+"authors": [
+"Jun Liu",
+"Qing Peng",
+"Jun Pan"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Pre-FOMC Drift in Long-Term Treasury Bonds",
+"authors": [
+"Qing Peng",
+"Jun Pan"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Model-Based Cross-Section Factors in Corporate Bonds",
+"authors": [
+"Zhe Geng",
+"Jun Pan"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Top Government Meetings in China",
+"authors": [
+"Jun Pan",
+"Qing Peng"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Option-Implied Crash Index",
+"authors": [
+"Junxiong Gao",
+"Jun Pan"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Stock-Bond Correlation: A Tale of Two Days in the U.S. Treasury Market",
+"authors": [
+"Grace Xing Hu",
+"Zhao Jin",
+"Jun Pan"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Can Cross-Sectional Stocks Tell Us About Core Inflation Shocks?",
+"authors": [
+"Claire Yurong Hong",
+"Jun Liu",
+"Jun Pan",
+"Shiwen Tian"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Government-Led Credit Cycle in China's LGFV Bonds and the Real Effects",
+"authors": [
+"Zhe Geng",
+"Ziqi Liu",
+"Jun Pan"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Pricing the Global Trade Vulnerability",
+"authors": [
+"Jiatao Liu",
+"Jun Pan"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"nengjiu ju": {
+"name": "Nengjiu Ju",
+"papers": [
+{
+"title": "Delegated Portfolio Management under Adverse Selection in a Continuous-Time Model",
+"authors": [
+"Nengjiu Ju",
+"Xuhu Wan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Asset Pricing under Portfolio Delegation and Differential Information",
+"authors": [
+"Nengjiu Ju",
+"Navneet Arora",
+"Hui Ou-Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Asset Substitution and Underinvestment: A Dynamic View",
+"authors": [
+"Nengjiu Ju",
+"Hui Ou-Yang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "A Model of Hedge Fund in Incomplete Market",
+"authors": [
+"Nengjiu Ju",
+"Bing-hua Huang",
+"Yu Huang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Portfolio Choice of a CEO with Output-based Compensation",
+"authors": [
+"Nengjiu Ju",
+"Bing-hua Huang",
+"Yu Huang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ning zhu": {
+"name": "Ning Zhu",
+"papers": [
+{
+"title": "The Local Bias of Individual Investors",
+"authors": [
+"Ning Zhu",
+"Mark Seasholes"
+],
+"year": 2010,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Why Individuals Favor Split Stocks",
+"authors": [
+"Ning Zhu",
+"Ravi Dhar",
+"Dan Ariely"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Impact of Clientele Change: Evidence from Stock Splits",
+"authors": [
+"Ning Zhu",
+"Ravi Dhar",
+"William Goetzmann",
+"Shane Shepherd"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Search Costs and Individual Choice between Direct and Delegated Portfolio Management",
+"authors": [
+"Ning Zhu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Portfolio Choice and Background Risk: New Evidence from Taiwan",
+"authors": [
+"Ning Zhu",
+"Mao-Wei Hung",
+"Yu-Jane Liu",
+"Chia-Fen Tsai"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Security Supply and Bubble: a Natural Experiment from the Chinese Warrants Market",
+"authors": [
+"Ning Zhu",
+"Li Liao",
+"Zhisheng Li",
+"Weiqiang Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Is There Information in Insider Trading? New Evidence from Taiwan",
+"authors": [
+"Ning Zhu",
+"Yu-Jane Liu",
+"Yi-Tsung Lee"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Momentum Profit, Contrarian Profit, and Short Sales around the World",
+"authors": [
+"Ning Zhu",
+"Arturo Bris"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Dynamics of Large and Small Chapter 11 Cases: An Empirical Study",
+"authors": [
+"Ning Zhu",
+"Arturo Bris",
+"Douglas Baird"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Mutual Fund Choices and Investor Demographics",
+"authors": [
+"Ning Zhu",
+"Christopher Malloy"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Buy-Side Analysts, Sell-Side Analysts, and Equity Trading Businesses",
+"authors": [
+"Ning Zhu",
+"Steven Strauss"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Unveiling investors' substitution behavior: Stock trading decisions in response to housing market dynamics",
+"authors": [
+"Yiqing Lü",
+"Bin Zhao",
+"Ning Zhu"
+],
+"year": 2024,
+"venue": "Journal of Corporate Finance",
+"status": "published"
+},
+{
+"title": "Prior consequences and subsequent risk taking: New field evidence from the Taiwan futures exchange",
+"authors": [
+"Yu Jane Liu",
+"Chih Ling Tsai",
+"Ming Chun Wang",
+"Ning Zhu"
+],
+"year": 2010,
+"venue": "Management Science",
+"status": "published"
+}
+]
+},
+"tan wang": {
+"name": "Tan Wang",
+"papers": [
+{
+"title": "Seasonally Varying Preferences: Theoretical Foundations for an Empirical Regularity",
+"authors": [
+"Mark J. Kamstra",
+"Lisa A. Kramer",
+"Maurice D. Levi",
+"Tan Wang"
+],
+"year": 2014,
+"venue": "Review of Asset Pricing Studies",
+"status": "published"
+},
+{
+"title": "Uncertainty, Risk-Neutral Measures and Security Price Booms and Crashes",
+"authors": [
+"Larry G. Epstein",
+"Tan Wang"
+],
+"year": 1995,
+"venue": "Journal of Economic Theory",
+"status": "published"
+},
+{
+"title": "The Becker-DeGroot-Marschak mechanism and generalized utility theories: Theoretical predictions and empirical observations",
+"authors": [
+"L. Robin Keller",
+"Uzi Segal",
+"Tan Wang"
+],
+"year": 1993,
+"venue": "Theory and Decision",
+"status": "published"
+}
+]
+},
+"xiaoyun yu": {
+"name": "Xiaoyun Yu",
+"papers": [
+{
+"title": "The Externalities of Corruption: Evidence from Entrepreneurial Firms in China",
+"authors": [
+"Mariassunta Giannetti",
+"Guanmin Liao",
+"Jiaxing You",
+"Xiaoyun Yu"
+],
+"year": 2021,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Disciplining delegated monitors: When venture capitalists fail to prevent fraud by their IPO firms",
+"authors": [
+"Xuan Tian",
+"Gregory F. Udell",
+"Xiaoyun Yu"
+],
+"year": 2016,
+"venue": "Journal of Accounting and Economics",
+"status": "published"
+},
+{
+"title": "The role of the media in the launch of internet IPOs",
+"authors": [
+"Utpal Bhattacharya",
+"Neal Galpin",
+"Rina Ray",
+"Xiaoyun Yu"
+],
+"year": 2006,
+"venue": "Betriebswirtschaftliche Forschung und Praxis",
+"status": "published"
+}
+]
+},
+"yongxiang wang": {
+"name": "Yongxiang Wang",
+"papers": [
+{
+"title": "Going (More) public: Institutional isomorphism and ownership reform among chinese firms",
+"authors": [
+"Heather A. Haveman",
+"Yongxiang Wang"
+],
+"year": 2013,
+"venue": "Management and Organization Review",
+"status": "published"
+},
+{
+"title": "Unregulated “profit-neutral” tunneling: The case of “dual-identity” subsidiaries in China",
+"authors": [
+"X. Cheng",
+"S. Gao",
+"Yongxiang Wang",
+"M. Zhang"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Personal Probity and Corporate Malfeasance: Evidence from China’s “Doctor-Leaders",
+"authors": [
+"R. Fisman",
+"Z. Li",
+"V. Mollica",
+"Yongxiang Wang",
+"N. Xu"
+],
+"year": 2025,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"dong yan": {
+"name": "Dong Yan",
+"papers": [
+{
+"title": "Inventory Behavior and Financial Constraints: Theory and Evidence",
+"authors": [
+"Dong Yan",
+"Sudipto Dasgupta",
+"Erica X.N. Li"
+],
+"year": 2019,
+"venue": "Review of Financial Studies",
+"status": "published"
+},
+{
+"title": "Credit Risk, Debt Overhang, and the Life Cycle of Callable Bonds",
+"authors": [
+"Dong Yan",
+"Bo Becker",
+"Murillo Campello",
+"Viktor Thell"
+],
+"year": 2024,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "Do Private Firms (Mis)Learn from the Stock Market?",
+"authors": [
+"Dong Yan"
+],
+"year": 2024,
+"venue": "Review of Finance",
+"status": "published"
+},
+{
+"title": "The Economics of Financial and Operational Hedging: Insights from U.S. Power Plants",
+"authors": [
+"Dong Yan",
+"Alvin Chin-Te Chen",
+"Ran Guo",
+"Haohang Wu"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Analyst Specialization and Internal Resource Allocation in Firms",
+"authors": [
+"Dong Yan",
+"Ling Cen",
+"Sudipto Dasgupta"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yurong hong": {
+"name": "Yurong Hong",
+"papers": [
+{
+"title": "What Can Macro-Active Bond Funds Tell Us About Monetary Policy Changes?",
+"authors": [
+"Claire Yurong Hong",
+"Jun Pan",
+"Shiwen Tian"
+],
+"year": null,
+"venue": "Journal of Financial Economics",
+"status": "forthcoming"
+},
+{
+"title": "Financial Inclusion via FinTech: From Digital Payments to Platform Investments",
+"authors": [
+"Claire Yurong Hong",
+"Xiaomeng Lu",
+"Jun Pan"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "FinTech Platforms and Mutual Fund Distribution",
+"authors": [
+"Claire Yurong Hong",
+"Xiaomeng Lu",
+"Jun Pan"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Effect of a Government Reference Bond on Corporate Borrowing Costs: Evidence from a Natural Experiment",
+"authors": [
+"Claire Yurong Hong",
+"Mark J. Flannery",
+"Baolian Wang"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published"
+},
+{
+"title": "The Information Content of Insider Sudden Silence",
+"authors": [
+"Claire Yurong Hong",
+"Weikai Li"
+],
+"year": 2019,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published"
+},
+{
+"title": "What Can Cross-Sectional Stocks Tell Us About Core Inflation Shocks?",
+"authors": [
+"Claire Yurong Hong",
+"Jun Liu",
+"Jun Pan",
+"Shiwen Tian"
+],
+"year": null,
+"venue": "Review of Financial Studies",
+"status": "revise_resubmit"
+},
+{
+"title": "Financial Intermediaries and Contagion in Market Efficiency: The Case of ETFs",
+"authors": [
+"Claire Yurong Hong",
+"Weikai Li",
+"Jiang Luo",
+"Avanidhar Subrahmanyam"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Debt Maturity Structure and Corporate Investment",
+"authors": [
+"Claire Yurong Hong",
+"Kewei Hou",
+"Thien Tung Nguyen"
+],
+"year": null,
+"venue": "Journal of Financial Economics",
+"status": "revise_resubmit"
+},
+{
+"title": "Uninsured Deposits, Run Risk, and Bank Stock Returns",
+"authors": [
+"Claire Yurong Hong",
+"Jack Bao",
+"Kewei Hou",
+"Thien T. Nguyen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Risk Substitution in Fixed-Income Funds: Duration Adjustment and Credit Conditions",
+"authors": [
+"Claire Yurong Hong",
+"Yafei Guo",
+"Qifei Zhu"
+],
+"year": 2026,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Freedom of Choice in Pension Plans: Evidence From a Quasi Natural Experiment",
+"authors": [
+"Claire Yurong Hong"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Do Foreign Institutional Investors Deter Insider Trading?",
+"authors": [
+"Claire Yurong Hong",
+"Weikai Li"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"chao zi": {
+"name": "Chao Zi",
+"papers": [
+{
+"title": "Geopolitical Risk in Financial Markets: Evidence from Mutual Fund Flows",
+"authors": [
+"Chao Zi",
+"Chenxi Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Is There A Shortfall in Public Sector Capital? An Asset Pricing Appraisal",
+"authors": [
+"Chao Zi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Under-Diversification and Idiosyncratic Risk Externalities",
+"authors": [
+"Chao Zi",
+"Felipe Iachan",
+"Dejanir Silva"
+],
+"year": 2022,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Designated Market Makers Still Matter: Evidence from Two Natural Experiments",
+"authors": [
+"Chao Zi",
+"Adam Clark-Joseph",
+"Mao Ye"
+],
+"year": 2017,
+"venue": "Journal of Financial Economics",
+"status": "published"
+},
+{
+"title": "Understanding the Evolution of Momentum Effects in China’s Stock Market",
+"authors": [
+"Chao Zi",
+"Chenxi Zhang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Predicting Mutual Fund Performance in China: A Machine Learning Approach",
+"authors": [
+"Chao Zi",
+"Zezhou Xu",
+"Hong Yan"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "On the Industry Allocation of Equity Mutual Funds in China",
+"authors": [
+"Chao Zi",
+"Weijie Ji"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Dissecting Subjective Macroeconomic Forecasts in China",
+"authors": [
+"Chao Zi",
+"Weijie Ji"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "What Drives the Stock Market Rally Amid COVID-19?",
+"authors": [
+"Chao Zi",
+"Tim Johnson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"chen chen": {
+"name": "Chen Chen",
+"papers": [
+{
+"title": "Network Factors for Idiosyncratic Volatility Spillovers",
+"authors": [
+"Chen Chen"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "From No-Tail Microeconomic Shocks to Heavy-Tail Macroeconomic Outcomes: A Network-Based Theory of Disaster Risk",
+"authors": [
+"Chen Chen",
+"Tim Johnson"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Network Foundations of Credit Counterparty Risk: Theory and Evidence",
+"authors": [
+"Chen Chen",
+"Jonathan Brogaard"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"junxiong gao": {
+"name": "Junxiong Gao",
+"papers": []
+},
+"ke shi": {
+"name": "Ke Shi",
+"papers": [
+{
+"title": "The Impact of Privacy Protection on Online Advertising Markets",
+"authors": [
+"Ke Shi",
+"Miguel Alcobendas",
+"Shunto Kobayashi",
+"Matthew Shum"
+],
+"year": 2023,
+"venue": "The Review of Economic Studies",
+"status": "forthcoming"
+},
+{
+"title": "Self-Control and Commitment in Consumer Credit Markets",
+"authors": [
+"Ke Shi",
+"Yi Xin"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Mergers and Mismatches in the Labor Market for Creativity",
+"authors": [
+"Ke Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Venture Capital: A Tale of Three Networks",
+"authors": [
+"Ke Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Weak State Trap: Disorder and Office Selling in Late Qing China",
+"authors": [
+"Ke Shi"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"qiushi huang": {
+"name": "Qiushi Huang",
+"papers": [
+{
+"title": "Financing Constraints and Risk Aversion: A Tax-based Theory of Rising Industrial Concentration",
+"authors": [
+"Qiushi Huang"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "External Finance, Technological Obsolescence and Economic Growth",
+"authors": [
+"Qiushi Huang"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Tech Dollars: Technological Innovation and Exchange Rates",
+"authors": [
+"Qiushi Huang",
+"Leonid Kogan",
+"Dimitris Papanikolaou"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Productivity Shocks and Inflation in Incomplete Markets",
+"authors": [
+"Qiushi Huang",
+"Leonid Kogan",
+"Dimitris Papanikolaou"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Data as a Networked Asset",
+"authors": [
+"Bo Bian",
+"Qiushi Huang",
+"Ye Li",
+"Huan Tang"
+],
+"year": 2024,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"ran guo": {
+"name": "Ran Guo",
+"papers": [
+{
+"title": "Relative Performance Evaluation and Strategic Competition",
+"authors": [
+"Ran Guo",
+"Li He",
+"Toni M Whited"
+],
+"year": null,
+"venue": "The Review of Financial Studies",
+"status": "forthcoming"
+},
+{
+"title": "Similarity Breeds Trust: Political Homophily and CEO-Board Communication",
+"authors": [
+"Ran Guo",
+"Sudipto DASGUPTA",
+"Xiao REN",
+"Tao SHU"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "The Economics of Financial and Operational Hedging: Insights from U.S. Power Plants",
+"authors": [
+"Ran Guo",
+"Alvin CHEN",
+"Haohang WU",
+"Dong YAN"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"xiao zhao": {
+"name": "Xiao Zhao",
+"papers": [
+{
+"title": "Collateral Values and Global Production Networks",
+"authors": [
+"Xiao Zhao"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Smokestacks and the Swamp",
+"authors": [
+"Xiao Zhao",
+"Emilio Bisetti",
+"Stefan Lewellen",
+"Arkodipta Sarkar"
+],
+"year": null,
+"venue": "Review of Financial Studies",
+"status": "forthcoming"
+}
+]
+},
+"yameng fan": {
+"name": "Yameng Fan",
+"papers": []
+},
+"yiyao wang": {
+"name": "Yiyao Wang",
+"papers": [
+{
+"title": "Counterparty Risk and Repo Runs",
+"authors": [
+"Yiyao Wang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Informational Role of Investment in Bankruptcy",
+"authors": [
+"Yiyao Wang",
+"Ben Charoenwong",
+"Hyunsoo Doh"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"yu li": {
+"name": "Yu Li",
+"papers": [
+{
+"title": "Intangible Capital around the World",
+"authors": [
+"Frederico Belo",
+"Yu Li",
+"Juliana Salomao",
+"Maria Ana Vitorino"
+],
+"year": 2023,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Risk for Price: Using Generalized Demand System for Asset Pricing",
+"authors": [
+"Yu Li"
+],
+"year": 2022,
+"venue": null,
+"status": "working_paper"
+}
+]
+},
+"william li": {
+"name": "William Li",
+"papers": [
+{
+"title": "Improving Sales Forecasting Accuracy: A Tensor Factorization Approach with Demand Awareness",
+"authors": [
+"Xuan Bi",
+"Gediminas Adomavicius",
+"William Li",
+"Annie Qu"
+],
+"year": 2022,
+"venue": "INFORMS Journal on Computing",
+"status": "published"
+},
+{
+"title": "Particle swarm exchange algorithms with applications in generating optimal model-discrimination designs",
+"authors": [
+"Chen, Ping Yang",
+"Ray Bing Chen",
+"Jui Pin Li",
+"William Li"
+],
+"year": 2022,
+"venue": "Quality Engineering",
+"status": "published"
+},
+{
+"title": "Columnwise-pairwise algorithms with applications to the construction of supersaturated designs",
+"authors": [
+"William W. Li",
+"C. F.Jeff Wu"
+],
+"year": 1997,
+"venue": "Technometrics",
+"status": "published"
+}
+]
+}
+}

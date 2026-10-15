@@ -333,12 +333,13 @@
 
   // ---------------------------------------------------------------- institutions
   function renderInstitutions() {
-    const regions = uniq(U.map((u) => u.region));
+    const tot = (rg) => U.filter((u) => u.region === rg).reduce((a, u) => a + (u.n || 0), 0);
+    const regions = uniq(U.map((u) => u.region)).sort((a, b) => tot(b) - tot(a));   // regions and institutions by faculty count
     app.innerHTML = `<p class="intro">Institutions currently covered. The directory is growing — more universities will be added over time.</p>` +
       regions.map((rg) => `<div class="group-h"><span class="nm">${esc(rg)}</span><span class="n">${U.filter((u) => u.region === rg).reduce((a, u) => a + u.n, 0).toLocaleString()} faculty</span></div>
         <section class="tbl-wrap"><table><thead><tr><th>Institution</th><th>Country</th><th class="num">Total</th>
           ${["economics", "business", "public_policy", "ag_resource_econ"].map((t) => `<th class="num">${UT_LABEL[t]}</th>`).join("")}<th class="num">Other</th></tr></thead><tbody>
-          ${U.filter((u) => u.region === rg).map((u) => {
+          ${U.filter((u) => u.region === rg).sort((a, b) => (b.n || 0) - (a.n || 0) || a.name.localeCompare(b.name)).map((u) => {
             const b = u.by_unit_type || {};
             const other = Object.entries(b).filter(([k]) => !["economics", "business", "public_policy", "ag_resource_econ"].includes(k)).reduce((a, [, v]) => a + v, 0);
             return `<tr class="clk" data-uni="${u.id}"><td><b>${esc(u.name)}</b> <span class="small">${esc(u.short)}</span></td><td>${esc(u.country)}</td><td class="num">${u.n || "—"}</td>

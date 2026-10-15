@@ -1,0 +1,107 @@
+{
+"paolo epifani": {
+"name": "Paolo Epifani",
+"papers": []
+},
+"gergely horvath": {
+"name": "Gergely Horvath",
+"papers": []
+},
+"jingbo cui": {
+"name": "Jingbo Cui",
+"papers": []
+},
+"liuchun deng": {
+"name": "Liuchun Deng",
+"papers": []
+},
+"camila saez muller": {
+"name": "Camila Saez Muller",
+"papers": []
+},
+"feifan zhang": {
+"name": "Feifan Zhang",
+"papers": [
+{
+"title": "Setbacks, Shutdowns and Overruns",
+"authors": [
+"Feifan Zhang"
+],
+"year": null,
+"venue": "Econometrica",
+"status": "published"
+}
+]
+},
+"luyao zhang": {
+"name": "Luyao Zhang",
+"papers": []
+},
+"ming gu": {
+"name": "Ming Gu",
+"papers": []
+},
+"peiyuan li": {
+"name": "Peiyuan Li",
+"papers": []
+},
+"qian wu": {
+"name": "Qian Wu",
+"papers": []
+},
+"xiao wang": {
+"name": "Xiao Wang",
+"papers": []
+},
+"xiaochen zhang": {
+"name": "Xiaochen Zhang",
+"papers": []
+},
+"jaehee choi": {
+"name": "Jaehee Choi",
+"papers": []
+},
+"junjie zhang": {
+"name": "Junjie Zhang",
+"papers": []
+},
+"wumeng he": {
+"name": "Wumeng He",
+"papers": [
+{
+"title": "Nutritional Impact of Payments for Ecosystem Services in China",
+"authors": [
+"He, Wumeng"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Correcting for Economic Heterogeneity When Outcomes Are Measured in Physical Terms: An Application to Forest Conservation in Thailand",
+"authors": [
+"He, Wumeng",
+"Jeffrey Vincent",
+"Orapan Nabangchang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+},
+{
+"title": "Incorporating Economics Increases the Estimated Impact of Protected Areas",
+"authors": [
+"He, Wumeng",
+"Jeffrey Vincent",
+"Brian Murray",
+"Chandra Giri",
+"Brian Silliman",
+"Ryan Huang"
+],
+"year": null,
+"venue": null,
+"status": "working_paper"
+}
+]
+}
+}
