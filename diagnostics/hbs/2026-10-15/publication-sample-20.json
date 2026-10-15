@@ -1,0 +1,460 @@
+{
+  "population": "Distinct new research-paper titles, deduplicated across HBS coauthors; no profile notes or personal-field changes.",
+  "population_size": 720,
+  "sample_size": 20,
+  "seed": 20261015,
+  "method": "Simple random sample without replacement.",
+  "items": [
+    {
+      "faculty": [
+        "Rafael M. Di Tella"
+      ],
+      "before": null,
+      "after": {
+        "title": "Does Social Media Cause Polarization? Evidence from Access to Twitter Echo Chambers during the 2019 Argentine Presidential Debate",
+        "authors": [
+          "Rafael Di Tella",
+          "Ramiro H. Gálvez",
+          "Ernesto Schargrodsky"
+        ],
+        "year": 2021,
+        "venue": "NBER Working Paper Series",
+        "status": "working_paper",
+        "link": "https://www.nber.org/papers/w29458?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg7"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=61509",
+      "source_citation": "Di Tella, Rafael, Ramiro H. Gálvez, and Ernesto Schargrodsky. \"Does Social Media Cause Polarization? Evidence from Access to Twitter Echo Chambers during the 2019 Argentine Presidential Debate.\" NBER Working Paper Series, No. 29458, November 2021. View Details",
+      "captured_at": "2026-10-12T00:46:05.150671+00:00"
+    },
+    {
+      "faculty": [
+        "Marco Sammon"
+      ],
+      "before": null,
+      "after": {
+        "title": "Do Active Funds Do Better in What They Trade?",
+        "authors": [
+          "Marco Sammon",
+          "John J. Shim"
+        ],
+        "year": 2023,
+        "venue": "Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=SSRN-id4624934.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=65039",
+      "source_citation": "Sammon, Marco, and John J. Shim. \"Do Active Funds Do Better in What They Trade?\" Working Paper, November 2023. View Details",
+      "captured_at": "2026-10-12T03:33:02.738081+00:00"
+    },
+    {
+      "faculty": [
+        "Tarun Khanna"
+      ],
+      "before": null,
+      "after": {
+        "title": "Policy Shocks, Market Intermediaries, and Corporate Strategy: Evidence from Chile and India",
+        "authors": [
+          "Tarun Khanna",
+          "Krishna G. Palepu"
+        ],
+        "year": 1999,
+        "venue": "Journal of Economics and Management Strategy",
+        "status": "published",
+        "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=3974"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=3974",
+      "source_citation": "Khanna, Tarun, and Krishna G. Palepu. \" Policy Shocks, Market Intermediaries, and Corporate Strategy: Evidence from Chile and India .\" Journal of Economics & Management Strategy 8, no. 2 (June 1999): 271–310. View Details",
+      "captured_at": "2026-10-12T03:34:38.113029+00:00"
+    },
+    {
+      "faculty": [
+        "Jonas Heese"
+      ],
+      "before": null,
+      "after": {
+        "title": "Regulators’ Press Releases and Employee Whistleblowing: Evidence from OSHA",
+        "authors": [
+          "Jonas Heese",
+          "Sinja Leonelli"
+        ],
+        "year": null,
+        "venue": "Journal of Accounting Research",
+        "status": "forthcoming",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7277798"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=69464",
+      "source_citation": "Heese, Jonas, and Sinja Leonelli. \"Regulators’ Press Releases and Employee Whistleblowing: Evidence from OSHA.\" Journal of Accounting Research (forthcoming). View Details",
+      "captured_at": "2026-10-12T00:14:23.807Z"
+    },
+    {
+      "faculty": [
+        "John Beshears"
+      ],
+      "before": null,
+      "after": {
+        "title": "A Megastudy of Text-Based Nudges Encouraging Patients to Get Vaccinated at an Upcoming Doctor's Appointment",
+        "authors": [
+          "Katherine L. Milkman",
+          "Mitesh S. Patel",
+          "Linnea Gandhi",
+          "Heather N. Graci",
+          "Dena M. Gromet",
+          "Hung Ho",
+          "Joseph S. Kay",
+          "Timothy W. Lee",
+          "Modupe Akinola",
+          "John Beshears",
+          "Jonathan E. Bogard",
+          "Alison Buttenheim",
+          "Christopher F. Chabris",
+          "Gretchen B. Chapman",
+          "James J. Choi",
+          "Hengchen Dai",
+          "Craig R. Fox",
+          "Amir Goren",
+          "Matthew D. Hilchey",
+          "Jillian Hmurovic",
+          "Leslie K. John",
+          "Dean Karlan",
+          "Melanie Kim",
+          "David Laibson",
+          "Cait Lamberton",
+          "Brigitte C. Madrian",
+          "Michelle N. Meyer",
+          "Maria Modanu",
+          "Jimin Nam",
+          "Todd Rogers",
+          "Renante Rondina",
+          "Silvia Saccardo",
+          "Maheen Shermohammed",
+          "Dilip Soman",
+          "Jehan Sparks",
+          "Caleb Warren",
+          "Megan Weber",
+          "Ron Berman",
+          "Chalanda N. Evans",
+          "Christopher K. Snider",
+          "Eli Tsukayama",
+          "Christophe Van den Bulte",
+          "Kevin G. Volpp",
+          "Angela L. Duckworth"
+        ],
+        "year": 2021,
+        "venue": "Proceedings of the National Academy of Sciences",
+        "status": "published",
+        "link": "https://www.pnas.org/content/118/20/e2101165118",
+        "doi": "10.1073/pnas.2101165118"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=60302",
+      "source_citation": "Milkman, Katherine L., Mitesh S. Patel, Linnea Gandhi, Heather N. Graci, Dena M. Gromet, Hung Ho, Joseph S. Kay, Timothy W. Lee, Modupe Akinola, John Beshears, Jonathan E. Bogard, Alison Buttenheim, Christopher F. Chabris, Gretchen B. Chapman, James J. Choi, Hengchen Dai, Craig R. Fox, Amir Goren, Matthew D. Hilchey, Jillian Hmurovic, Leslie K. John, Dean Karlan, Melanie Kim, David Laibson, Cait Lamberton, Brigitte C. Madrian, Michelle N. Meyer, Maria Modanu, Jimin Nam, Todd Rogers, Renante Rondina, Silvia Saccardo, Maheen Shermohammed, Dilip Soman, Jehan Sparks, Caleb Warren, Megan Weber, Ron Berman, Chalanda N. Evans, Christopher K. Snider, Eli Tsukayama, Christophe Van den Bulte, Kevin G. Volpp, and Angela L. Duckworth. \"A Megastudy of Text-Based Nudges Encouraging Patients to Get Vaccinated at an Upcoming Doctor's Appointment.\" e2101165118. Proceedings of the National Academy of Sciences 118, no. 20 (May 18, 2021). View Details",
+      "captured_at": "2026-10-12T03:33:52.541217+00:00"
+    },
+    {
+      "faculty": [
+        "Srikant M. Datar"
+      ],
+      "before": null,
+      "after": {
+        "title": "Aggregation, Specification and Measurement Errors in Product Costing",
+        "authors": [
+          "S. Datar",
+          "M. Gupta"
+        ],
+        "year": 1994,
+        "venue": "The Accounting Review",
+        "status": "published",
+        "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=4548"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=4548",
+      "source_citation": "Datar, S., and M. Gupta. \" Aggregation, Specification and Measurement Errors in Product Costing .\" Accounting Review 69, no. 4 (October 1994): 567–591. View Details",
+      "captured_at": "2026-10-12T00:13:00.747Z"
+    },
+    {
+      "faculty": [
+        "George Serafeim"
+      ],
+      "before": null,
+      "after": {
+        "title": "Accounting for Product Impact in the Pharmaceuticals Industry",
+        "authors": [
+          "Amanda Rischbieth",
+          "George Serafeim",
+          "Katie Trinh"
+        ],
+        "year": 2021,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=21-139.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=60445",
+      "source_citation": "Rischbieth, Amanda, George Serafeim, and Katie Trinh. \"Accounting for Product Impact in the Pharmaceuticals Industry.\" Harvard Business School Working Paper, No. 21-139, June 2021. View Details",
+      "captured_at": "2026-10-12T00:14:02.987Z"
+    },
+    {
+      "faculty": [
+        "David S. Scharfstein"
+      ],
+      "before": null,
+      "after": {
+        "title": "The Limits of Algorithmic Measures of Race in Studies of Outcome Disparities",
+        "authors": [
+          "David S. Scharfstein",
+          "Sergey Chernenko"
+        ],
+        "year": 2023,
+        "venue": "Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=The%20Limits%20of%20Algorithmic%20Measures%20of%20Race%20in%20Studies%20of%20Outcome%20Disparities.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=64895",
+      "source_citation": "Scharfstein, David S., and Sergey Chernenko. \"The Limits of Algorithmic Measures of Race in Studies of Outcome Disparities.\" Working Paper, April 2023. View Details",
+      "captured_at": "2026-10-12T03:32:38.585157+00:00"
+    },
+    {
+      "faculty": [
+        "Katherine B. Coffman"
+      ],
+      "before": null,
+      "after": {
+        "title": "Discrimination, Rejection, and Job Search",
+        "authors": [
+          "Anne Boring",
+          "Katherine Coffman",
+          "Dylan Glover",
+          "María José González-Fuentes"
+        ],
+        "year": 2025,
+        "venue": "Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=Coffman_DiscriminationRejectionLaborSupply_Feb2025.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=67080",
+      "source_citation": "Boring, Anne, Katherine Coffman, Dylan Glover, and María José González-Fuentes. \"Discrimination, Rejection, and Job Search.\" Working Paper, February 2025. View Details",
+      "captured_at": "2026-10-12T03:33:55.032796+00:00"
+    },
+    {
+      "faculty": [
+        "Andy Wu"
+      ],
+      "before": null,
+      "after": {
+        "title": "Skilled Immigration and Firm-Level Innovation: Evidence from H-1B Lottery",
+        "authors": [
+          "Andy Wu"
+        ],
+        "year": 2015,
+        "venue": "Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=51532"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=51532",
+      "source_citation": "Wu, Andy. \"Skilled Immigration and Firm-Level Innovation: Evidence from H-1B Lottery.\" Working Paper, January 2015. View Details",
+      "captured_at": "2026-10-12T03:34:39.222775+00:00"
+    },
+    {
+      "faculty": [
+        "Jeffrey T. Polzer"
+      ],
+      "before": null,
+      "after": {
+        "title": "Organization of Information and the Detection of Gender Discrimination",
+        "authors": [
+          "C. Rutte",
+          "T. Diekmann",
+          "J. Polzer",
+          "F. Crosby",
+          "D. Messick"
+        ],
+        "year": 1994,
+        "venue": "Psychological Science",
+        "status": "published",
+        "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=2624"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=2624",
+      "source_citation": "Rutte, C., T. Diekmann, J. Polzer, F. Crosby, and D. Messick. \"Organization of Information and the Detection of Gender Discrimination.\" Psychological Science 5, no. 4 (July 1994): 226–231. View Details",
+      "captured_at": "2026-10-12T03:34:11.554984+00:00"
+    },
+    {
+      "faculty": [
+        "Shane M. Greenstein"
+      ],
+      "before": null,
+      "after": {
+        "title": "Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations",
+        "authors": [
+          "Raviv Murciano-Goroff",
+          "Ran Zhuo",
+          "Shane Greenstein"
+        ],
+        "year": 2024,
+        "venue": "NBER Working Paper Series",
+        "status": "working_paper",
+        "link": "https://www.nber.org/papers/w32696"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=66241",
+      "source_citation": "Murciano-Goroff, Raviv, Ran Zhuo, and Shane Greenstein. \"Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations.\" NBER Working Paper Series, No. 32696, July 2024. View Details",
+      "captured_at": "2026-10-12T03:35:02.863089+00:00"
+    },
+    {
+      "faculty": [
+        "Marco Iansiti"
+      ],
+      "before": null,
+      "after": {
+        "title": "The Business of Free Software: Enterprise Incentives, Investment, and Motivation in the Open Source Community",
+        "authors": [
+          "Marco Iansiti",
+          "Gregory L. Richards"
+        ],
+        "year": 2006,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=07-028.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=22901",
+      "source_citation": "Iansiti, Marco, and Gregory L. Richards. \" The Business of Free Software: Enterprise Incentives, Investment, and Motivation in the Open Source Community. \" Harvard Business School Working Paper, No. 07-028, November 2006. View Details",
+      "captured_at": "2026-10-12T03:34:56.778284+00:00"
+    },
+    {
+      "faculty": [
+        "Laura Alfaro"
+      ],
+      "before": null,
+      "after": {
+        "title": "Trade and Industrial Policy in Supply Chains: Directed Technological Change in Rare Earths",
+        "authors": [
+          "Laura Alfaro",
+          "Harald Fadinger",
+          "Jay Schymik",
+          "Gede Virananda"
+        ],
+        "year": 2025,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=25-059.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=67405",
+      "source_citation": "Alfaro, Laura, Harald Fadinger, Jay Schymik, and Gede Virananda. \"Trade and Industrial Policy in Supply Chains: Directed Technological Change in Rare Earths.\" Harvard Business School Working Paper, No. 25-059, May 2025. View Details",
+      "captured_at": "2026-10-12T03:33:17.365222+00:00"
+    },
+    {
+      "faculty": [
+        "Benjamin N. Roth"
+      ],
+      "before": null,
+      "after": {
+        "title": "When Microenterprises Grow, Are Consumers Better Off? Evidence from Large Loans to Microenterprises in Chile",
+        "authors": [
+          "Dean Karlan",
+          "Natalia Rigol",
+          "Benjamin N. Roth"
+        ],
+        "year": 2026,
+        "venue": "NBER Working Paper Series",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=KRR%20Large%20Loans.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=69457",
+      "source_citation": "Karlan, Dean, Natalia Rigol, and Benjamin N. Roth. \"When Microenterprises Grow, Are Consumers Better Off? Evidence from Large Loans to Microenterprises in Chile.\" NBER Working Paper Series, No. 35729, September 2026. View Details",
+      "captured_at": "2026-10-12T03:32:14.009945+00:00"
+    },
+    {
+      "faculty": [
+        "Tarun Khanna"
+      ],
+      "before": null,
+      "after": {
+        "title": "The Scope of Alliances",
+        "authors": [
+          "T Khanna"
+        ],
+        "year": 1998,
+        "venue": "Organization Science",
+        "status": "published",
+        "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=3983"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=3983",
+      "source_citation": "Khanna, T. \"The Scope of Alliances.\" Organization Science 9, no. 3 (May–June 1998): 340–355. View Details",
+      "captured_at": "2026-10-12T03:34:38.113029+00:00"
+    },
+    {
+      "faculty": [
+        "Geoffrey G. Jones"
+      ],
+      "before": null,
+      "after": {
+        "title": "Multinational Strategies and Developing Countries in Historical Perspective",
+        "authors": [
+          "Geoffrey Jones"
+        ],
+        "year": 2010,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=10-076.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=37653",
+      "source_citation": "Jones, Geoffrey. \"Multinational Strategies and Developing Countries in Historical Perspective.\" Harvard Business School Working Paper, No. 10-076, March 2010. View Details",
+      "captured_at": "2026-10-12T03:33:14.574119+00:00"
+    },
+    {
+      "faculty": [
+        "Geoffrey G. Jones"
+      ],
+      "before": null,
+      "after": {
+        "title": "Entrepreneurs and the Co-Creation of Ecotourism in Costa Rica",
+        "authors": [
+          "Geoffrey Jones",
+          "Andrew Spadafora"
+        ],
+        "year": 2016,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=16-136.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=51197",
+      "source_citation": "Jones, Geoffrey, and Andrew Spadafora. \"Entrepreneurs and the Co-Creation of Ecotourism in Costa Rica.\" Harvard Business School Working Paper, No. 16-136, June 2016. View Details",
+      "captured_at": "2026-10-12T03:33:14.574119+00:00"
+    },
+    {
+      "faculty": [
+        "Alex Chan"
+      ],
+      "before": null,
+      "after": {
+        "title": "Risk Design: Prediction, Prevention, Selection, and Insurance",
+        "authors": [
+          "Alex Chan"
+        ],
+        "year": 2026,
+        "venue": "Harvard Business School Working Paper",
+        "status": "working_paper",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=27-001.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=69185",
+      "source_citation": "Chan, Alex. \"Risk Design: Prediction, Prevention, Selection, and Insurance.\" Harvard Business School Working Paper, No. 27-001, July 2026. (Revised August 2026.) View Details",
+      "captured_at": "2026-10-12T03:34:06.659944+00:00"
+    },
+    {
+      "faculty": [
+        "Ishita Sen"
+      ],
+      "before": null,
+      "after": {
+        "title": "When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets",
+        "authors": [
+          "Ishita Sen",
+          "Pari Sastry",
+          "Ana-Maria Tenekedjieva"
+        ],
+        "year": null,
+        "venue": "Quarterly Journal of Economics",
+        "status": "forthcoming",
+        "link": "https://www.hbs.edu/faculty/Pages/download.aspx?name=24-051.pdf"
+      },
+      "source_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=65216",
+      "source_citation": "Sen, Ishita, Pari Sastry, and Ana-Maria Tenekedjieva. \"When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets.\" Harvard Business School Working Paper, No. 24-051, February 2024. (Accepted, Quarterly Journal of Economics .) View Details",
+      "captured_at": "2026-10-12T03:33:04.146590+00:00"
+    }
+  ]
+}

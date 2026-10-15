@@ -453,6 +453,8 @@ def paper_extracted(q):
         out["n"] = "Forthcoming"
     if q.get("doi"):
         out["l"], out["lt"] = "https://doi.org/" + q["doi"], "pub"
+    elif q.get("link"):
+        out["l"], out["lt"] = q["link"], "wp" if c == "wp" else "pub"
     if q.get("abstract"):
         out["abs"] = q["abstract"]
     return {k: v for k, v in out.items() if v not in (None, "", [])}
