@@ -2514,5 +2514,320 @@
   "region": "North America",
   "city": "Baltimore",
   "added": "aej-2020"
+ },
+ {
+  "id": "sapienza-university-of-rome",
+  "name": "Sapienza University of Rome",
+  "short": "Sapienza",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-laval",
+  "name": "Université Laval",
+  "short": "Laval",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Quebec City",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kobe-university",
+  "name": "Kobe University",
+  "short": "Kobe",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Kobe",
+  "added": "aej-2020"
+ },
+ {
+  "id": "toyo-university",
+  "name": "Toyo University",
+  "short": "Toyo",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-tennessee-knoxville",
+  "name": "University of Tennessee, Knoxville",
+  "short": "Tennessee",
+  "country": "United States",
+  "region": "North America",
+  "city": "Knoxville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "reykjavik-university",
+  "name": "Reykjavik University",
+  "short": "Reykjavik",
+  "country": "Iceland",
+  "region": "Europe",
+  "city": "Reykjavik",
+  "added": "aej-2020"
+ },
+ {
+  "id": "american-university-in-cairo",
+  "name": "American University in Cairo",
+  "short": "AUC",
+  "country": "Egypt",
+  "region": "Africa",
+  "city": "Cairo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rhodes-college",
+  "name": "Rhodes College",
+  "short": "Rhodes College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Memphis",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-surrey",
+  "name": "University of Surrey",
+  "short": "Surrey",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-technology-kanpur",
+  "name": "Indian Institute of Technology Kanpur",
+  "short": "IIT Kanpur",
+  "country": "India",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ecole-normale-superieure-de-lyon",
+  "name": "École Normale Supérieure de Lyon",
+  "short": "ENS Lyon",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sabanc-university",
+  "name": "Sabancı University",
+  "short": "Sabancı",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "cerge-ei",
+  "name": "CERGE-EI",
+  "short": "CERGE-EI",
+  "country": "Czech Republic",
+  "region": "Europe",
+  "city": "Prague",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technische-universitat-braunschweig",
+  "name": "Technische Universität Braunschweig",
+  "short": "TU Braunschweig",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Braunschweig",
+  "added": "aej-2020"
+ },
+ {
+  "id": "college-of-william-mary",
+  "name": "College of William & Mary",
+  "short": "William & Mary",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "newcastle-university",
+  "name": "Newcastle University",
+  "short": "Newcastle",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "wellesley-college",
+  "name": "Wellesley College",
+  "short": "Wellesley College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-stirling",
+  "name": "University of Stirling",
+  "short": "Stirling",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "drexel-university",
+  "name": "Drexel University",
+  "short": "Drexel",
+  "country": "United States",
+  "region": "North America",
+  "city": "Philadelphia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-school-of-business",
+  "name": "Indian School of Business",
+  "short": "ISB",
+  "country": "India",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tongji-university",
+  "name": "Tongji University",
+  "short": "Tongji",
+  "country": "China",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-manchester",
+  "name": "University of Manchester",
+  "short": "Manchester",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "american-university-of-sharjah",
+  "name": "American University of Sharjah",
+  "short": "AUS",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "city": "Sharjah",
+  "added": "aej-2020"
+ },
+ {
+  "id": "politecnico-di-milano",
+  "name": "Politecnico di Milano",
+  "short": "PoliMi",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Milan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tilburg-university",
+  "name": "Tilburg University",
+  "short": "Tilburg",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Tilburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-stuttgart",
+  "name": "University of Stuttgart",
+  "short": "Stuttgart",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technische-universitat-dresden",
+  "name": "Technische Universität Dresden",
+  "short": "TU Dresden",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Dresden",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tampere-university",
+  "name": "Tampere University",
+  "short": "Tampere",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ensai",
+  "name": "ENSAI",
+  "short": "ENSAI",
+  "country": "France",
+  "region": "Europe",
+  "city": "Bruz",
+  "added": "aej-2020"
+ },
+ {
+  "id": "concordia-university",
+  "name": "Concordia University",
+  "short": "Concordia",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Montreal",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-grenoble-alpes",
+  "name": "Université Grenoble Alpes",
+  "short": "Grenoble Alpes",
+  "country": "France",
+  "region": "Europe",
+  "city": "Saint-Martin-d'Hères",
+  "added": "aej-2020"
+ },
+ {
+  "id": "occidental-college",
+  "name": "Occidental College",
+  "short": "Occidental College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Los Angeles",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-barcelona",
+  "name": "University of Barcelona",
+  "short": "Barcelona",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-management-ahmedabad",
+  "name": "Indian Institute of Management Ahmedabad",
+  "short": "IIM Ahmedabad",
+  "country": "India",
+  "region": "Asia",
+  "city": "Ahmedabad",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ashoka-university",
+  "name": "Ashoka University",
+  "short": "Ashoka",
+  "country": "India",
+  "region": "Asia",
+  "city": "Sonipat",
+  "added": "aej-2020"
  }
 ]
