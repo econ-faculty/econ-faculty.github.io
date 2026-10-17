@@ -2163,5 +2163,356 @@
   "country": "China",
   "region": "Asia",
   "city": "Shenzhen"
+ },
+ {
+  "id": "trinity-college-dublin",
+  "name": "Trinity College Dublin",
+  "short": "TCD",
+  "country": "Ireland",
+  "region": "Europe",
+  "city": "Dublin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "imperial-college-london",
+  "name": "Imperial College London",
+  "short": "Imperial",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-queensland",
+  "name": "University of Queensland",
+  "short": "Queensland",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hertie-school",
+  "name": "Hertie School",
+  "short": "Hertie School",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Berlin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-rome-tor-vergata",
+  "name": "University of Rome Tor Vergata",
+  "short": "Rome Tor Vergata",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "australian-national-university",
+  "name": "Australian National University",
+  "short": "ANU",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Canberra",
+  "added": "aej-2020"
+ },
+ {
+  "id": "corvinus-university-of-budapest",
+  "name": "Corvinus University of Budapest",
+  "short": "Corvinus",
+  "country": "Hungary",
+  "region": "Europe",
+  "city": "Budapest",
+  "added": "aej-2020"
+ },
+ {
+  "id": "vienna-university-of-economics-and-business",
+  "name": "Vienna University of Economics and Business",
+  "short": "WU Vienna",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Vienna",
+  "added": "aej-2020"
+ },
+ {
+  "id": "baylor-university",
+  "name": "Baylor University",
+  "short": "Baylor",
+  "country": "United States",
+  "region": "North America",
+  "city": "Waco",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ben-gurion-university-of-the-negev",
+  "name": "Ben-Gurion University of the Negev",
+  "short": "BGU",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "Beer-Sheva",
+  "added": "aej-2020"
+ },
+ {
+  "id": "clark-university",
+  "name": "Clark University",
+  "short": "Clark",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universita-cattolica-del-sacro-cuore",
+  "name": "Università Cattolica del Sacro Cuore",
+  "short": "Cattolica",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Milan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "case-western-reserve-university",
+  "name": "Case Western Reserve University",
+  "short": "Case Western Reserve",
+  "country": "United States",
+  "region": "North America",
+  "city": "Cleveland",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-namur",
+  "name": "University of Namur",
+  "short": "Namur",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "Namur",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-oslo",
+  "name": "University of Oslo",
+  "short": "Oslo",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "Oslo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-paris-1-pantheon-sorbonne",
+  "name": "Université Paris 1 Panthéon-Sorbonne",
+  "short": "Paris 1",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-alberta",
+  "name": "University of Alberta",
+  "short": "Alberta",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Edmonton",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bentley-university",
+  "name": "Bentley University",
+  "short": "Bentley",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "swarthmore-college",
+  "name": "Swarthmore College",
+  "short": "Swarthmore College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "vrije-universiteit-amsterdam",
+  "name": "Vrije Universiteit Amsterdam",
+  "short": "VU Amsterdam",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Amsterdam",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rmit-university",
+  "name": "RMIT University",
+  "short": "RMIT",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Melbourne",
+  "added": "aej-2020"
+ },
+ {
+  "id": "new-economic-school",
+  "name": "New Economic School",
+  "short": "New Economic School",
+  "country": "Russia",
+  "region": "Europe",
+  "city": "Moscow",
+  "added": "aej-2020"
+ },
+ {
+  "id": "montana-state-university",
+  "name": "Montana State University",
+  "short": "Montana State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Bozeman",
+  "added": "aej-2020"
+ },
+ {
+  "id": "seoul-national-university",
+  "name": "Seoul National University",
+  "short": "Seoul National",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "federal-university-of-rio-de-janeiro",
+  "name": "Federal University of Rio de Janeiro",
+  "short": "UFRJ",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "memorial-university-of-newfoundland",
+  "name": "Memorial University of Newfoundland",
+  "short": "Memorial",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-nottingham",
+  "name": "University of Nottingham",
+  "short": "Nottingham",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "grinnell-college",
+  "name": "Grinnell College",
+  "short": "Grinnell College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "philipps-university-of-marburg",
+  "name": "Philipps University of Marburg",
+  "short": "Marburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-nebraska-lincoln",
+  "name": "University of Nebraska-Lincoln",
+  "short": "Nebraska-Lincoln",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lincoln",
+  "added": "aej-2020"
+ },
+ {
+  "id": "brac-university",
+  "name": "BRAC University",
+  "short": "BRAC",
+  "country": "Bangladesh",
+  "region": "Asia",
+  "city": "Dhaka",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bowdoin-college",
+  "name": "Bowdoin College",
+  "short": "Bowdoin College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Brunswick, ME",
+  "added": "aej-2020"
+ },
+ {
+  "id": "central-european-university",
+  "name": "Central European University",
+  "short": "CEU",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Vienna",
+  "added": "aej-2020"
+ },
+ {
+  "id": "king-s-college-london",
+  "name": "King's College London",
+  "short": "KCL",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "florida-international-university",
+  "name": "Florida International University",
+  "short": "FIU",
+  "country": "United States",
+  "region": "North America",
+  "city": "Miami, FL",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-birmingham",
+  "name": "University of Birmingham",
+  "short": "Birmingham",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Birmingham",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ensae-paris",
+  "name": "ENSAE Paris",
+  "short": "ENSAE",
+  "country": "France",
+  "region": "Europe",
+  "city": "Palaiseau",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-milan",
+  "name": "University of Milan",
+  "short": "Milan",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Milan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-maryland-baltimore-county",
+  "name": "University of Maryland, Baltimore County",
+  "short": "UMBC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Baltimore",
+  "added": "aej-2020"
  }
 ]
