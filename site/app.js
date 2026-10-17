@@ -307,7 +307,7 @@
       (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || x.k.some(([, pi]) => P[pi].name.toLowerCase().includes(t))))
       .sort((a, b) => b.y - a.y || a.c - b.c);
     const size = 100, pages = Math.max(1, Math.ceil(list.length / size)); s.page = Math.min(Math.max(1, s.page), pages);
-    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: articles since 2000 in leading economics, business and general-interest journals, papers under revise &amp; resubmit, and working papers. By default all articles in these journals are included; tick the box to show only papers by faculty in the directory. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
+    app.innerHTML = `<p class="intro">Search papers by faculty in the directory: articles since 2000 in leading economics, business and general-interest journals, papers under revise &amp; resubmit, and working papers in official series (NBER, CEPR, IZA, central banks, IMF, World Bank, research institutes and similar). By default all articles in these journals are included; tick the box to show only papers by faculty in the directory. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
       <section class="controls"><div class="row">
         <input id="pq" type="search" placeholder="Search paper titles or author…" value="${esc(s.q)}" autocomplete="off">
         <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
@@ -380,7 +380,7 @@
       <h2>Papers</h2>
       <ul>
         <li><b>Publications:</b> journal articles since 2000 in ${nJr ? `${nJr}` : "about 150"} leading economics, business and general-interest journals, compiled from Crossref and matched to faculty by name, with checks against CVs and coauthors. Each article links to its DOI; badges show the journal's broad topic.</li>
-        <li><b>Revise &amp; resubmit and working papers</b> are extracted from faculty CVs and homepages.</li>
+        <li><b>Revise &amp; resubmit and working papers</b> are extracted from faculty CVs and homepages. Only working papers in an official or institutional series (e.g. NBER, CEPR, IZA, CESifo, central banks, IMF, World Bank) are listed; other drafts and preprints (SSRN, arXiv) are left out.</li>
         <li>The Papers tab searches all papers; authors who are in the directory link to their profiles.</li>
       </ul>
       <h2>Data sources &amp; caveats</h2>

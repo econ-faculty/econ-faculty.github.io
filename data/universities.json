@@ -3387,5 +3387,194 @@
   "region": "Europe",
   "city": "Lisbon",
   "added": "aej-2020"
+ },
+ {
+  "id": "fernuniversitat-in-hagen",
+  "name": "FernUniversität in Hagen",
+  "short": "FernUni Hagen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Hagen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hamilton-college",
+  "name": "Hamilton College",
+  "short": "Hamilton College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Clinton",
+  "added": "aej-2020"
+ },
+ {
+  "id": "cunef-universidad",
+  "name": "CUNEF Universidad",
+  "short": "CUNEF",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "escp-business-school",
+  "name": "ESCP Business School",
+  "short": "ESCP",
+  "country": "France",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
+ },
+ {
+  "id": "goethe-university-frankfurt",
+  "name": "Goethe University Frankfurt",
+  "short": "Goethe Frankfurt",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Frankfurt am Main",
+  "added": "aej-2020"
+ },
+ {
+  "id": "college-of-the-holy-cross",
+  "name": "College of the Holy Cross",
+  "short": "Holy Cross",
+  "country": "United States",
+  "region": "North America",
+  "city": "Worcester",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hellenic-open-university",
+  "name": "Hellenic Open University",
+  "short": "Hellenic Open",
+  "country": "Greece",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-de-montpellier",
+  "name": "Université de Montpellier",
+  "short": "Montpellier",
+  "country": "France",
+  "region": "Europe",
+  "city": "Montpellier",
+  "added": "aej-2020"
+ },
+ {
+  "id": "complutense-university-of-madrid",
+  "name": "Complutense University of Madrid",
+  "short": "Complutense",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
+ },
+ {
+  "id": "baruch-college-city-university-of-new-york",
+  "name": "Baruch College, City University of New York",
+  "short": "Baruch",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "added": "aej-2020"
+ },
+ {
+  "id": "st-john-s-university",
+  "name": "St. John's University",
+  "short": "St. John's",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-south-florida",
+  "name": "University of South Florida",
+  "short": "South Florida",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "esmt-berlin",
+  "name": "ESMT Berlin",
+  "short": "ESMT Berlin",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Berlin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-milano-bicocca",
+  "name": "University of Milano-Bicocca",
+  "short": "Milano-Bicocca",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "johannes-gutenberg-university-mainz",
+  "name": "Johannes Gutenberg University Mainz",
+  "short": "Mainz",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Mainz",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-st-andrews",
+  "name": "University of St Andrews",
+  "short": "St Andrews",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "St Andrews",
+  "added": "aej-2020"
+ },
+ {
+  "id": "marquette-university",
+  "name": "Marquette University",
+  "short": "Marquette",
+  "country": "United States",
+  "region": "North America",
+  "city": "Milwaukee",
+  "added": "aej-2020"
+ },
+ {
+  "id": "durham-university",
+  "name": "Durham University",
+  "short": "Durham",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Durham",
+  "added": "aej-2020"
+ },
+ {
+  "id": "howard-university",
+  "name": "Howard University",
+  "short": "Howard",
+  "country": "United States",
+  "region": "North America",
+  "city": "Washington, DC",
+  "added": "aej-2020"
+ },
+ {
+  "id": "western-kentucky-university",
+  "name": "Western Kentucky University",
+  "short": "Western Kentucky",
+  "country": "United States",
+  "region": "North America",
+  "city": "Bowling Green, KY",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ball-state-university",
+  "name": "Ball State University",
+  "short": "Ball State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Muncie, IN",
+  "added": "aej-2020"
  }
 ]

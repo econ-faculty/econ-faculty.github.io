@@ -472,6 +472,7 @@ def paper_curated(q):
 # ---- journal-article database (data/paperdb/corpus: Crossref 2000+ for every whitelist journal; matched to faculty at build time)
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import paper_match
+from wp_series import wp_official   # working papers: official/institutional series only (user rule 2026-10-17)
 CORPUS_DIR = os.path.join(DATA, "paperdb", "corpus")
 NATURAL = {"Science", "Nature", "Proceedings of the National Academy of Sciences", "Nature Communications", "Science Advances",
            "Nature Human Behaviour"}   # shown only when a directory member is an author
@@ -594,7 +595,7 @@ def build(check):
     for pid, nm, pidx, ps, detail, curated in pending:
         if not curated:
             ps = merge_db(pid, ps)
-        ps = paper_sort(ps)
+        ps = paper_sort([q for q in ps if q["c"] != "wp" or wp_official(q.get("j"))])
         np_ = [sum(q["c"] == c for q in ps) for c in ("pub", "rr", "wp")]
         np_.append(sum(q["c"] == "pub" and q.get("r") is not None and JOURNALS[q["r"]][1] == 0 for q in ps))
         np_.append(sum(q["c"] == "pub" and q.get("r") is not None and JOURNALS[q["r"]][1] < 4 for q in ps))
