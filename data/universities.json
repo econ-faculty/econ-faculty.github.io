@@ -2829,5 +2829,329 @@
   "region": "Asia",
   "city": "Sonipat",
   "added": "aej-2020"
+ },
+ {
+  "id": "hanken-school-of-economics",
+  "name": "Hanken School of Economics",
+  "short": "Hanken",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "Helsinki",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-groningen",
+  "name": "University of Groningen",
+  "short": "Groningen",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Groningen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-paris-pantheon-assas",
+  "name": "Université Paris-Panthéon-Assas",
+  "short": "Paris-Panthéon-Assas",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-edinburgh",
+  "name": "University of Edinburgh",
+  "short": "Edinburgh",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Edinburgh",
+  "added": "aej-2020"
+ },
+ {
+  "id": "national-chengchi-university",
+  "name": "National Chengchi University",
+  "short": "National Chengchi",
+  "country": "Taiwan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "queen-s-university-belfast",
+  "name": "Queen's University Belfast",
+  "short": "QUB",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Belfast",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ca-foscari-university-of-venice",
+  "name": "Ca' Foscari University of Venice",
+  "short": "Ca' Foscari",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Venice",
+  "added": "aej-2020"
+ },
+ {
+  "id": "colorado-state-university",
+  "name": "Colorado State University",
+  "short": "Colorado State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Fort Collins, CO",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-north-carolina-at-greensboro",
+  "name": "University of North Carolina at Greensboro",
+  "short": "UNC Greensboro",
+  "country": "United States",
+  "region": "North America",
+  "city": "Greensboro, NC",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-naples-federico-ii",
+  "name": "University of Naples Federico II",
+  "short": "Naples Federico II",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Naples",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-munster",
+  "name": "University of Münster",
+  "short": "Münster",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Münster",
+  "added": "aej-2020"
+ },
+ {
+  "id": "friedrich-alexander-universitat-erlangen-nurnberg",
+  "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+  "short": "FAU Erlangen-Nürnberg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Erlangen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universita-della-svizzera-italiana",
+  "name": "Università della Svizzera italiana",
+  "short": "USI",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Lugano",
+  "added": "aej-2020"
+ },
+ {
+  "id": "louisiana-state-university",
+  "name": "Louisiana State University",
+  "short": "Louisiana State",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "heidelberg-university",
+  "name": "Heidelberg University",
+  "short": "Heidelberg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-gottingen",
+  "name": "University of Göttingen",
+  "short": "Göttingen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Göttingen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "elon-university",
+  "name": "Elon University",
+  "short": "Elon",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-central-florida",
+  "name": "University of Central Florida",
+  "short": "Central Florida",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-duisburg-essen",
+  "name": "University of Duisburg-Essen",
+  "short": "Duisburg-Essen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Duisburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "centro-de-investigacion-y-docencia-economicas",
+  "name": "Centro de Investigación y Docencia Económicas",
+  "short": "CIDE",
+  "country": "Mexico",
+  "region": "Latin America",
+  "city": "Mexico City",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-missouri",
+  "name": "University of Missouri",
+  "short": "Missouri",
+  "country": "United States",
+  "region": "North America",
+  "city": "Columbia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "mcmaster-university",
+  "name": "McMaster University",
+  "short": "McMaster",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "teachers-college-columbia-university",
+  "name": "Teachers College, Columbia University",
+  "short": "Teachers College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "santa-clara-university",
+  "name": "Santa Clara University",
+  "short": "Santa Clara",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "middlebury-college",
+  "name": "Middlebury College",
+  "short": "Middlebury College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Middlebury",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-reading",
+  "name": "University of Reading",
+  "short": "Reading",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Reading",
+  "added": "aej-2020"
+ },
+ {
+  "id": "miami-university",
+  "name": "Miami University",
+  "short": "Miami U (Ohio)",
+  "country": "United States",
+  "region": "North America",
+  "city": "Oxford, OH",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-modena-and-reggio-emilia",
+  "name": "University of Modena and Reggio Emilia",
+  "short": "Modena and Reggio Emilia",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Modena",
+  "added": "aej-2020"
+ },
+ {
+  "id": "simon-fraser-university",
+  "name": "Simon Fraser University",
+  "short": "Simon Fraser",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Burnaby",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ecole-polytechnique",
+  "name": "École Polytechnique",
+  "short": "Polytechnique",
+  "country": "France",
+  "region": "Europe",
+  "city": "Palaiseau",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bucknell-university",
+  "name": "Bucknell University",
+  "short": "Bucknell",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lewisburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "academia-sinica",
+  "name": "Academia Sinica",
+  "short": "Academia Sinica",
+  "country": "Taiwan",
+  "region": "Asia",
+  "city": "Taipei",
+  "added": "aej-2020"
+ },
+ {
+  "id": "heinrich-heine-university-dusseldorf",
+  "name": "Heinrich Heine University Düsseldorf",
+  "short": "HHU Düsseldorf",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Düsseldorf",
+  "added": "aej-2020"
+ },
+ {
+  "id": "cired-cnrs-ecole-des-ponts",
+  "name": "CIRED (CNRS / École des Ponts)",
+  "short": "CIRED",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kansas-state-university",
+  "name": "Kansas State University",
+  "short": "Kansas State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Manhattan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "vassar-college",
+  "name": "Vassar College",
+  "short": "Vassar College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Poughkeepsie",
+  "added": "aej-2020"
  }
 ]
