@@ -3153,5 +3153,239 @@
   "region": "North America",
   "city": "Poughkeepsie",
   "added": "aej-2020"
+ },
+ {
+  "id": "insper",
+  "name": "Insper",
+  "short": "Insper",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "São Paulo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "freie-universitat-berlin",
+  "name": "Freie Universität Berlin",
+  "short": "Freie Universität Berlin",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Berlin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-potsdam",
+  "name": "University of Potsdam",
+  "short": "Potsdam",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Potsdam",
+  "added": "aej-2020"
+ },
+ {
+  "id": "claremont-mckenna-college",
+  "name": "Claremont McKenna College",
+  "short": "Claremont McKenna",
+  "country": "United States",
+  "region": "North America",
+  "city": "Claremont",
+  "added": "aej-2020"
+ },
+ {
+  "id": "queen-s-university",
+  "name": "Queen's University",
+  "short": "Queen's (Canada)",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Kingston",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-geneva",
+  "name": "University of Geneva",
+  "short": "Geneva",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Geneva",
+  "added": "aej-2020"
+ },
+ {
+  "id": "trinity-university",
+  "name": "Trinity University",
+  "short": "Trinity (Texas)",
+  "country": "United States",
+  "region": "North America",
+  "city": "San Antonio",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-rostock",
+  "name": "University of Rostock",
+  "short": "Rostock",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Rostock",
+  "added": "aej-2020"
+ },
+ {
+  "id": "smith-college",
+  "name": "Smith College",
+  "short": "Smith College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "catholic-university-of-eichstatt-ingolstadt",
+  "name": "Catholic University of Eichstätt-Ingolstadt",
+  "short": "KU Eichstätt-Ingolstadt",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Eichstätt",
+  "added": "aej-2020"
+ },
+ {
+  "id": "fgv-eesp-sao-paulo-school-of-economics",
+  "name": "FGV EESP São Paulo School of Economics",
+  "short": "FGV EESP",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "São Paulo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "wake-forest-university",
+  "name": "Wake Forest University",
+  "short": "Wake Forest",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "catholic-university-of-brasilia",
+  "name": "Catholic University of Brasília",
+  "short": "UCB Brasília",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "Brasília",
+  "added": "aej-2020"
+ },
+ {
+  "id": "leiden-university",
+  "name": "Leiden University",
+  "short": "Leiden",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Leiden",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-verona",
+  "name": "University of Verona",
+  "short": "Verona",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Verona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "aarhus-university",
+  "name": "Aarhus University",
+  "short": "Aarhus",
+  "country": "Denmark",
+  "region": "Europe",
+  "city": "Aarhus",
+  "added": "aej-2020"
+ },
+ {
+  "id": "el-colegio-de-mexico",
+  "name": "El Colegio de México",
+  "short": "El Colegio de México",
+  "country": "Mexico",
+  "region": "Latin America",
+  "city": "Mexico City",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-cagliari",
+  "name": "University of Cagliari",
+  "short": "Cagliari",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Cagliari",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-basel",
+  "name": "University of Basel",
+  "short": "Basel",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Basel",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tu-dortmund-university",
+  "name": "TU Dortmund University",
+  "short": "TU Dortmund",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Dortmund",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-de-la-republica",
+  "name": "Universidad de la República",
+  "short": "Udelar",
+  "country": "Uruguay",
+  "region": "Latin America",
+  "city": "Montevideo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-vienna",
+  "name": "University of Vienna",
+  "short": "Vienna",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Vienna",
+  "added": "aej-2020"
+ },
+ {
+  "id": "cemfi",
+  "name": "CEMFI",
+  "short": "CEMFI",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-sheffield",
+  "name": "University of Sheffield",
+  "short": "Sheffield",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Sheffield",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-cote-d-azur",
+  "name": "Université Côte d'Azur",
+  "short": "Côte d'Azur",
+  "country": "France",
+  "region": "Europe",
+  "city": "Nice",
+  "added": "aej-2020"
+ },
+ {
+  "id": "catolica-lisbon-school-of-business-and-economics",
+  "name": "Católica Lisbon School of Business and Economics",
+  "short": "Católica Lisbon",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Lisbon",
+  "added": "aej-2020"
  }
 ]
