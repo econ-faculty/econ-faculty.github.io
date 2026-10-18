@@ -4530,5 +4530,149 @@
   "region": "North America",
   "city": "Sherbrooke",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-konstanz",
+  "name": "University of Konstanz",
+  "short": "Konstanz",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Konstanz",
+  "added": "aej-2020"
+ },
+ {
+  "id": "deakin-university",
+  "name": "Deakin University",
+  "short": "Deakin",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Melbourne",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sant-anna-school-of-advanced-studies",
+  "name": "Sant'Anna School of Advanced Studies",
+  "short": "Sant'Anna Pisa",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Pisa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "depaul-university",
+  "name": "DePaul University",
+  "short": "DePaul",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chicago",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidade-catolica-portuguesa",
+  "name": "Universidade Católica Portuguesa",
+  "short": "Católica Portugal",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Lisbon",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-strathclyde",
+  "name": "University of Strathclyde",
+  "short": "Strathclyde",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Glasgow",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ruhr-university-bochum",
+  "name": "Ruhr University Bochum",
+  "short": "Ruhr University Bochum",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Bochum",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ieseg-school-of-management",
+  "name": "IÉSEG School of Management",
+  "short": "IÉSEG",
+  "country": "France",
+  "region": "Europe",
+  "city": "Lille",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technical-university-of-munich",
+  "name": "Technical University of Munich",
+  "short": "TU Munich",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Munich",
+  "added": "aej-2020"
+ },
+ {
+  "id": "institut-polytechnique-de-paris",
+  "name": "Institut Polytechnique de Paris",
+  "short": "IPP",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "naval-postgraduate-school",
+  "name": "Naval Postgraduate School",
+  "short": "NPS",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "leipzig-university",
+  "name": "Leipzig University",
+  "short": "Leipzig",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Leipzig",
+  "added": "aej-2020"
+ },
+ {
+  "id": "florida-gulf-coast-university",
+  "name": "Florida Gulf Coast University",
+  "short": "Florida Gulf Coast",
+  "country": "United States",
+  "region": "North America",
+  "city": "Fort Myers",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-neuchatel",
+  "name": "University of Neuchâtel",
+  "short": "Neuchâtel",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Neuchatel",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-fribourg",
+  "name": "University of Fribourg",
+  "short": "Fribourg",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Fribourg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-oldenburg",
+  "name": "University of Oldenburg",
+  "short": "Oldenburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Oldenburg",
+  "added": "aej-2020"
  }
 ]
