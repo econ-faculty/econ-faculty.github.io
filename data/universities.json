@@ -4674,5 +4674,131 @@
   "region": "Europe",
   "city": "Oldenburg",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-alicante",
+  "name": "University of Alicante",
+  "short": "Alicante",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "oklahoma-state-university",
+  "name": "Oklahoma State University",
+  "short": "Oklahoma State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Stillwater",
+  "added": "aej-2020"
+ },
+ {
+  "id": "monmouth-university",
+  "name": "Monmouth University",
+  "short": "Monmouth",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "federal-university-of-pernambuco",
+  "name": "Federal University of Pernambuco",
+  "short": "UFPE",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technische-universitat-darmstadt",
+  "name": "Technische Universität Darmstadt",
+  "short": "TU Darmstadt",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Darmstadt",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-del-rosario",
+  "name": "Universidad del Rosario",
+  "short": "Universidad del Rosario",
+  "country": "Colombia",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-technology-nuremberg",
+  "name": "University of Technology Nuremberg",
+  "short": "UTN",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Nuremberg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "national-university-of-tucuman",
+  "name": "National University of Tucumán",
+  "short": "UNT Tucumán",
+  "country": "Argentina",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "open-university-of-israel",
+  "name": "The Open University of Israel",
+  "short": "Open U Israel",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kristiania-university-of-applied-sciences",
+  "name": "Kristiania University of Applied Sciences",
+  "short": "Kristiania",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tohoku-university",
+  "name": "Tohoku University",
+  "short": "Tohoku",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Sendai",
+  "added": "aej-2020"
+ },
+ {
+  "id": "san-diego-state-university",
+  "name": "San Diego State University",
+  "short": "San Diego State",
+  "country": "United States",
+  "region": "North America",
+  "city": "San Diego",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitat-rovira-i-virgili",
+  "name": "Universitat Rovira i Virgili",
+  "short": "URV",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Tarragona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-passau",
+  "name": "University of Passau",
+  "short": "Passau",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Passau",
+  "added": "aej-2020"
  }
 ]
