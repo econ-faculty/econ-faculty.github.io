@@ -4305,5 +4305,230 @@
   "region": "Europe",
   "city": "Porto",
   "added": "aej-2020"
+ },
+ {
+  "id": "jacksonville-university",
+  "name": "Jacksonville University",
+  "short": "Jacksonville",
+  "country": "United States",
+  "region": "North America",
+  "city": "Jacksonville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "toronto-metropolitan-university",
+  "name": "Toronto Metropolitan University",
+  "short": "Toronto Metropolitan",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Toronto",
+  "added": "aej-2020"
+ },
+ {
+  "id": "geneva-graduate-institute",
+  "name": "Geneva Graduate Institute",
+  "short": "Geneva Graduate Institute",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Geneva",
+  "added": "aej-2020"
+ },
+ {
+  "id": "korea-university",
+  "name": "Korea University",
+  "short": "Korea",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-ottawa",
+  "name": "University of Ottawa",
+  "short": "Ottawa",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Ottawa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "charles-university",
+  "name": "Charles University",
+  "short": "Charles",
+  "country": "Czech Republic",
+  "region": "Europe",
+  "city": "Prague",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-clermont-auvergne",
+  "name": "Université Clermont Auvergne",
+  "short": "Clermont Auvergne",
+  "country": "France",
+  "region": "Europe",
+  "city": "Cairo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "oakland-university",
+  "name": "Oakland University",
+  "short": "Oakland",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-granada",
+  "name": "University of Granada",
+  "short": "Granada",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "european-university-viadrina",
+  "name": "European University Viadrina",
+  "short": "Viadrina",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Frankfurt (Oder)",
+  "added": "aej-2020"
+ },
+ {
+  "id": "auckland-university-of-technology",
+  "name": "Auckland University of Technology",
+  "short": "AUT",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-vermont",
+  "name": "University of Vermont",
+  "short": "Vermont",
+  "country": "United States",
+  "region": "North America",
+  "city": "Burlington",
+  "added": "aej-2020"
+ },
+ {
+  "id": "wilfrid-laurier-university",
+  "name": "Wilfrid Laurier University",
+  "short": "Wilfrid Laurier",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Waterloo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "victoria-university-of-wellington",
+  "name": "Victoria University of Wellington",
+  "short": "VUW",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "city": "Wellington",
+  "added": "aej-2020"
+ },
+ {
+  "id": "utrecht-university",
+  "name": "Utrecht University",
+  "short": "Utrecht",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Utrecht",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-hawaii-at-manoa",
+  "name": "University of Hawaii at Manoa",
+  "short": "Hawaii at Manoa",
+  "country": "United States",
+  "region": "North America",
+  "city": "Honolulu",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-north-carolina-wilmington",
+  "name": "University of North Carolina Wilmington",
+  "short": "UNCW",
+  "country": "United States",
+  "region": "North America",
+  "city": "Wilmington",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-kent",
+  "name": "University of Kent",
+  "short": "Kent",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Canterbury",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-the-bundeswehr-munich",
+  "name": "University of the Bundeswehr Munich",
+  "short": "UniBw Munich",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Neubiberg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "leibniz-university-hannover",
+  "name": "Leibniz University Hannover",
+  "short": "Hannover",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Hannover",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-innsbruck",
+  "name": "University of Innsbruck",
+  "short": "Innsbruck",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Innsbruck",
+  "added": "aej-2020"
+ },
+ {
+  "id": "wageningen-university-research",
+  "name": "Wageningen University & Research",
+  "short": "WUR",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Wageningen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-otago",
+  "name": "University of Otago",
+  "short": "Otago",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "city": "Dunedin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hanyang-university",
+  "name": "Hanyang University",
+  "short": "Hanyang",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-de-sherbrooke",
+  "name": "Université de Sherbrooke",
+  "short": "Sherbrooke",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Sherbrooke",
+  "added": "aej-2020"
  }
 ]
