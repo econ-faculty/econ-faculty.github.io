@@ -4800,5 +4800,194 @@
   "region": "Europe",
   "city": "Passau",
   "added": "aej-2020"
+ },
+ {
+  "id": "iscte-university-institute-of-lisbon",
+  "name": "ISCTE - University Institute of Lisbon",
+  "short": "ISCTE",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Lisbon",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-palermo",
+  "name": "University of Palermo",
+  "short": "Palermo",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Palermo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "washington-state-university",
+  "name": "Washington State University",
+  "short": "Washington State",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "american-university-in-bulgaria",
+  "name": "American University in Bulgaria",
+  "short": "AUBG",
+  "country": "Bulgaria",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-pavia",
+  "name": "University of Pavia",
+  "short": "Pavia",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Pavia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "towson-university",
+  "name": "Towson University",
+  "short": "Towson",
+  "country": "United States",
+  "region": "North America",
+  "city": "Towson",
+  "added": "aej-2020"
+ },
+ {
+  "id": "beihang-university",
+  "name": "Beihang University",
+  "short": "Beihang",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-colorado-denver",
+  "name": "University of Colorado Denver",
+  "short": "Colorado Denver",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "adolfo-ibanez-university",
+  "name": "Adolfo Ibáñez University",
+  "short": "Adolfo Ibáñez",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "Santiago",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technical-university-of-kosice",
+  "name": "Technical University of Košice",
+  "short": "TU Košice",
+  "country": "Slovakia",
+  "region": "Europe",
+  "city": "Košice",
+  "added": "aej-2020"
+ },
+ {
+  "id": "roma-tre-university",
+  "name": "Roma Tre University",
+  "short": "Roma Tre",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-paris-nanterre",
+  "name": "Université Paris Nanterre",
+  "short": "Paris Nanterre",
+  "country": "France",
+  "region": "Europe",
+  "city": "Nanterre",
+  "added": "aej-2020"
+ },
+ {
+  "id": "toulouse-business-school",
+  "name": "Toulouse Business School",
+  "short": "TBS",
+  "country": "France",
+  "region": "Europe",
+  "city": "Toulouse",
+  "added": "aej-2020"
+ },
+ {
+  "id": "middlesex-university-london",
+  "name": "Middlesex University London",
+  "short": "Middlesex",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-jyvaskyla",
+  "name": "University of Jyväskylä",
+  "short": "Jyväskylä",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "Jyväskylä",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-turku",
+  "name": "University of Turku",
+  "short": "Turku",
+  "country": "Finland",
+  "region": "Europe",
+  "city": "Turku",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-waterloo",
+  "name": "University of Waterloo",
+  "short": "Waterloo",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Waterloo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-paris-8-vincennes-saint-denis",
+  "name": "Université Paris 8 Vincennes-Saint-Denis",
+  "short": "Paris 8",
+  "country": "France",
+  "region": "Europe",
+  "city": "Saint-Denis",
+  "added": "aej-2020"
+ },
+ {
+  "id": "otto-von-guericke-university-magdeburg",
+  "name": "Otto von Guericke University Magdeburg",
+  "short": "Magdeburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Magdeburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-cyprus",
+  "name": "University of Cyprus",
+  "short": "Cyprus",
+  "country": "Cyprus",
+  "region": "Europe",
+  "city": "Nicosia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technische-universitat-berlin",
+  "name": "Technische Universität Berlin",
+  "short": "TU Berlin",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Berlin",
+  "added": "aej-2020"
  }
 ]
