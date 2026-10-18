@@ -1,5 +1,42 @@
 [
  {
+  "name": "Ana Figueiredo",
+  "rank_std": "Associate Professor",
+  "title": "Associate Professor",
+  "unit": null,
+  "unit_type": "economics",
+  "area": null,
+  "other_units": null,
+  "fields_raw": "Labor economics, wage cyclicality, labor market sorting",
+  "fields_std": [],
+  "phd_institution": null,
+  "phd_year": null,
+  "phd_field": null,
+  "ma_institution": null,
+  "ma_year": null,
+  "ma_field": null,
+  "ba_institution": null,
+  "ba_year": null,
+  "ba_field": null,
+  "education_raw": null,
+  "homepage_url": "https://sites.google.com/site/anafigueiredovds/home",
+  "profile_url": null,
+  "cv_url": null,
+  "google_scholar_url": null,
+  "orcid": null,
+  "year_joined": null,
+  "source_url": "https://sites.google.com/site/anafigueiredovds/home",
+  "notes": "Homepage gives title 'Associate Professor, Vrije Universiteit Amsterdam'. Older Tinbergen Institute news (search snippet only) describes her as Assistant Professor at Erasmus School of Economics, so the homepage was treated as more recent.",
+  "ba_country": null,
+  "phd_advisors": null,
+  "first_job_after_phd": null,
+  "prior_positions": null,
+  "year_current_rank": null,
+  "cv_date": null,
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
+  "id": "ana-figueiredo"
+ },
+ {
   "name": "Hans R.A. Koster",
   "rank_std": "Professor",
   "title": "Full Professor of Urban Economics and Real Estate",
@@ -33,7 +70,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "hans-r-a-koster"
  },
  {
@@ -70,7 +107,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "bas-van-der-klaauw"
  },
  {
@@ -107,7 +144,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "paul-muller"
  }
 ]

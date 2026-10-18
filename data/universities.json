@@ -3576,5 +3576,149 @@
   "region": "North America",
   "city": "Muncie, IN",
   "added": "aej-2020"
+ },
+ {
+  "id": "friedrich-schiller-university-jena",
+  "name": "Friedrich Schiller University Jena",
+  "short": "Jena",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Jena",
+  "added": "aej-2020"
+ },
+ {
+  "id": "macquarie-university",
+  "name": "Macquarie University",
+  "short": "Macquarie",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Sydney",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-waikato",
+  "name": "University of Waikato",
+  "short": "Waikato",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "city": "Hamilton",
+  "added": "aej-2020"
+ },
+ {
+  "id": "loyola-university-chicago",
+  "name": "Loyola University Chicago",
+  "short": "Loyola Chicago",
+  "country": "United States",
+  "region": "North America",
+  "city": "Chicago",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bilkent-university",
+  "name": "Bilkent University",
+  "short": "Bilkent",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-melbourne",
+  "name": "University of Melbourne",
+  "short": "Melbourne",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Melbourne",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rensselaer-polytechnic-institute",
+  "name": "Rensselaer Polytechnic Institute",
+  "short": "RPI",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-nevada-reno",
+  "name": "University of Nevada, Reno",
+  "short": "Nevada Reno",
+  "country": "United States",
+  "region": "North America",
+  "city": "Reno",
+  "added": "aej-2020"
+ },
+ {
+  "id": "doshisha-university",
+  "name": "Doshisha University",
+  "short": "Doshisha",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-san-francisco",
+  "name": "University of San Francisco",
+  "short": "San Francisco",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bern-university-of-applied-sciences",
+  "name": "Bern University of Applied Sciences",
+  "short": "BFH Bern",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Bern",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-texas-at-dallas",
+  "name": "University of Texas at Dallas",
+  "short": "UT Dallas",
+  "country": "United States",
+  "region": "North America",
+  "city": "Richardson",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technion-israel-institute-of-technology",
+  "name": "Technion - Israel Institute of Technology",
+  "short": "Technion",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "Haifa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-college-dublin",
+  "name": "University College Dublin",
+  "short": "UCD",
+  "country": "Ireland",
+  "region": "Europe",
+  "city": "Dublin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-st-gallen",
+  "name": "University of St. Gallen",
+  "short": "HSG St. Gallen",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "St. Gallen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "waseda-university",
+  "name": "Waseda University",
+  "short": "Waseda",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
  }
 ]

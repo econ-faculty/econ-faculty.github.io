@@ -1,5 +1,42 @@
 [
  {
+  "name": "Arthur Robson",
+  "rank_std": "Professor",
+  "title": "Professor",
+  "unit": "Department of Economics",
+  "unit_type": "economics",
+  "area": null,
+  "other_units": null,
+  "fields_raw": "economic theory; evolution; neuroeconomics",
+  "fields_std": [],
+  "phd_institution": "Massachusetts Institute of Technology",
+  "phd_year": 1974,
+  "phd_field": "Economics",
+  "ma_institution": null,
+  "ma_year": null,
+  "ma_field": null,
+  "ba_institution": null,
+  "ba_year": null,
+  "ba_field": null,
+  "education_raw": null,
+  "homepage_url": "https://sites.google.com/view/arthurrobson/home",
+  "profile_url": null,
+  "cv_url": "https://sfu.ca/~robson/cv.pdf",
+  "google_scholar_url": null,
+  "orcid": null,
+  "year_joined": null,
+  "source_url": "https://sites.google.com/view/arthurrobson/home",
+  "notes": "CV: Full Professor at SFU 2003-; homepage still lists him as Professor. A search snippet suggested retirement in 2025 but no fetched page confirms it.",
+  "ba_country": null,
+  "phd_advisors": null,
+  "first_job_after_phd": null,
+  "prior_positions": null,
+  "year_current_rank": null,
+  "cv_date": null,
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
+  "id": "arthur-robson"
+ },
+ {
   "name": "Fernando M. Aragón",
   "rank_std": "Professor",
   "title": "Professor of Economics",
@@ -33,7 +70,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "fernando-m-aragon"
  },
  {
@@ -70,7 +107,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "pierre-mouganie"
  },
  {
@@ -107,7 +144,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web (AEJ Applied/Policy 2020+ author check)",
+  "detail_source": "web (AEJ / AER:Insights 2020+ author check)",
   "id": "serena-canaan"
  }
 ]
