@@ -3720,5 +3720,302 @@
   "region": "Asia",
   "city": "Tokyo",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-victoria",
+  "name": "University of Victoria",
+  "short": "Victoria",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "dalhousie-university",
+  "name": "Dalhousie University",
+  "short": "Dalhousie",
+  "country": "Canada",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bar-ilan-university",
+  "name": "Bar-Ilan University",
+  "short": "Bar-Ilan",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "Ramat Gan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "fordham-university",
+  "name": "Fordham University",
+  "short": "Fordham",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-york",
+  "name": "University of York",
+  "short": "York (UK)",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "York",
+  "added": "aej-2020"
+ },
+ {
+  "id": "loughborough-university",
+  "name": "Loughborough University",
+  "short": "Loughborough",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Loughborough",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-texas-at-san-antonio",
+  "name": "University of Texas at San Antonio",
+  "short": "UT San Antonio",
+  "country": "United States",
+  "region": "North America",
+  "city": "San Antonio",
+  "added": "aej-2020"
+ },
+ {
+  "id": "oslo-metropolitan-university",
+  "name": "Oslo Metropolitan University",
+  "short": "Oslo Metropolitan",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "appalachian-state-university",
+  "name": "Appalachian State University",
+  "short": "Appalachian State",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-southern-denmark",
+  "name": "University of Southern Denmark",
+  "short": "Southern Denmark",
+  "country": "Denmark",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-polytechnique-hauts-de-france",
+  "name": "Université Polytechnique Hauts-de-France",
+  "short": "UPHF",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-freiburg",
+  "name": "University of Freiburg",
+  "short": "Freiburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-regensburg",
+  "name": "University of Regensburg",
+  "short": "Regensburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "maastricht-university",
+  "name": "Maastricht University",
+  "short": "Maastricht",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Maastricht",
+  "added": "aej-2020"
+ },
+ {
+  "id": "schmalkalden-university-of-applied-sciences",
+  "name": "Schmalkalden University of Applied Sciences",
+  "short": "HS Schmalkalden",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Schmalkalden",
+  "added": "aej-2020"
+ },
+ {
+  "id": "montpellier-business-school",
+  "name": "Montpellier Business School",
+  "short": "Montpellier BS",
+  "country": "France",
+  "region": "Europe",
+  "city": "Montpellier",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-liverpool",
+  "name": "University of Liverpool",
+  "short": "Liverpool",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Liverpool",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-florence",
+  "name": "University of Florence",
+  "short": "Florence",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Florence",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-sydney",
+  "name": "University of Sydney",
+  "short": "Sydney",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Sydney",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-haifa",
+  "name": "University of Haifa",
+  "short": "Haifa",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "lingnan-university",
+  "name": "Lingnan University",
+  "short": "Lingnan",
+  "country": "China",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "skema-business-school",
+  "name": "SKEMA Business School",
+  "short": "SKEMA",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tokyo-woman-s-christian-university",
+  "name": "Tokyo Woman's Christian University",
+  "short": "Tokyo Woman's Christian",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "queensland-university-of-technology",
+  "name": "Queensland University of Technology",
+  "short": "QUT",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Brisbane",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-antwerp",
+  "name": "University of Antwerp",
+  "short": "Antwerp",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-guelph",
+  "name": "University of Guelph",
+  "short": "Guelph",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Guelph",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-paris-saclay",
+  "name": "Université Paris-Saclay",
+  "short": "Paris-Saclay",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rptu-kaiserslautern-landau",
+  "name": "RPTU Kaiserslautern-Landau",
+  "short": "RPTU",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Kaiserslautern",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-catholique-de-louvain",
+  "name": "Université catholique de Louvain",
+  "short": "UCLouvain",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "Louvain-la-Neuve",
+  "added": "aej-2020"
+ },
+ {
+  "id": "virginia-commonwealth-university",
+  "name": "Virginia Commonwealth University",
+  "short": "Virginia Commonwealth",
+  "country": "United States",
+  "region": "North America",
+  "city": "Richmond",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-macau",
+  "name": "University of Macau",
+  "short": "Macau",
+  "country": "China",
+  "region": "Asia",
+  "city": "Macau",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitat-de-valencia",
+  "name": "Universitat de València",
+  "short": "Universitat de València",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Valencia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-siena",
+  "name": "University of Siena",
+  "short": "Siena",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Siena",
+  "added": "aej-2020"
  }
 ]
