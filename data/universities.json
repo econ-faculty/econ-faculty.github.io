@@ -4233,5 +4233,77 @@
   "region": "Europe",
   "city": "Istanbul",
   "added": "aej-2020"
+ },
+ {
+  "id": "aix-marseille-universite",
+  "name": "Aix-Marseille Université",
+  "short": "AMU",
+  "country": "France",
+  "region": "Europe",
+  "city": "Marseille",
+  "added": "aej-2020"
+ },
+ {
+  "id": "auburn-university",
+  "name": "Auburn University",
+  "short": "Auburn",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "free-university-of-bozen-bolzano",
+  "name": "Free University of Bozen-Bolzano",
+  "short": "Bozen-Bolzano",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Bolzano",
+  "added": "aej-2020"
+ },
+ {
+  "id": "athens-university-of-economics-and-business",
+  "name": "Athens University of Economics and Business",
+  "short": "AUEB",
+  "country": "Greece",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "martin-luther-university-halle-wittenberg",
+  "name": "Martin Luther University Halle-Wittenberg",
+  "short": "Halle-Wittenberg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "keio-university",
+  "name": "Keio University",
+  "short": "Keio",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-texas-at-el-paso",
+  "name": "University of Texas at El Paso",
+  "short": "UTEP",
+  "country": "United States",
+  "region": "North America",
+  "city": "El Paso",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-porto",
+  "name": "University of Porto",
+  "short": "Porto",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Porto",
+  "added": "aej-2020"
  }
 ]

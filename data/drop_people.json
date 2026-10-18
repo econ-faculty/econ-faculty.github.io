@@ -262,5 +262,12 @@
   "university": "peking-university",
   "name": "Harsh Kumar Jha",
   "reason": "moved (CV at IIM Udaipur 2024); user 2026-10-14"
+ },
+ {
+  "pid": "junjie-zhang--dku",
+  "university": "duke-kunshan-university",
+  "name": "Junjie Zhang",
+  "kept_as": "junjie-zhang--duke",
+  "reason": "same person listed twice (user, 2026-10-17)"
  }
 ]
