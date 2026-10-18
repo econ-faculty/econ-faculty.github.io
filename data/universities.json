@@ -4143,5 +4143,95 @@
   "region": "Europe",
   "city": "Leicester",
   "added": "aej-2020"
+ },
+ {
+  "id": "yonsei-university",
+  "name": "Yonsei University",
+  "short": "Yonsei",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "williams-college",
+  "name": "Williams College",
+  "short": "Williams College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-torcuato-di-tella",
+  "name": "Universidad Torcuato Di Tella",
+  "short": "UTDT",
+  "country": "Argentina",
+  "region": "Latin America",
+  "city": "Buenos Aires",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hitotsubashi-university",
+  "name": "Hitotsubashi University",
+  "short": "Hitotsubashi",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ghent-university",
+  "name": "Ghent University",
+  "short": "Ghent",
+  "country": "Belgium",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-de-chile",
+  "name": "Universidad de Chile",
+  "short": "Universidad de Chile",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "national-taiwan-university",
+  "name": "National Taiwan University",
+  "short": "National Taiwan",
+  "country": "Taiwan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "einaudi-institute-for-economics-and-finance",
+  "name": "Einaudi Institute for Economics and Finance",
+  "short": "EIEF",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-south-carolina",
+  "name": "University of South Carolina",
+  "short": "South Carolina",
+  "country": "United States",
+  "region": "North America",
+  "city": "Columbia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "koc-university",
+  "name": "Koç University",
+  "short": "Koç",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "Istanbul",
+  "added": "aej-2020"
  }
 ]
