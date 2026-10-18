@@ -4989,5 +4989,158 @@
   "region": "Europe",
   "city": "Berlin",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-navarra",
+  "name": "University of Navarra",
+  "short": "Navarra",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "norwegian-university-of-life-sciences",
+  "name": "Norwegian University of Life Sciences",
+  "short": "NMBU",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-trento",
+  "name": "University of Trento",
+  "short": "Trento",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Trento",
+  "added": "aej-2020"
+ },
+ {
+  "id": "brunel-university-london",
+  "name": "Brunel University London",
+  "short": "Brunel",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "nagoya-university",
+  "name": "Nagoya University",
+  "short": "Nagoya",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ehl-hospitality-business-school",
+  "name": "EHL Hospitality Business School",
+  "short": "EHL",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bayreuth",
+  "name": "University of Bayreuth",
+  "short": "Bayreuth",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Bayreuth",
+  "added": "aej-2020"
+ },
+ {
+  "id": "agricultural-university-of-athens",
+  "name": "Agricultural University of Athens",
+  "short": "AUA",
+  "country": "Greece",
+  "region": "Europe",
+  "city": "Athens",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-western-australia",
+  "name": "University of Western Australia",
+  "short": "Western Australia",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-urbino-carlo-bo",
+  "name": "University of Urbino Carlo Bo",
+  "short": "Urbino Carlo Bo",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-messina",
+  "name": "University of Messina",
+  "short": "Messina",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-wyoming",
+  "name": "University of Wyoming",
+  "short": "Wyoming",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bergamo",
+  "name": "University of Bergamo",
+  "short": "Bergamo",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Bergamo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "leuphana-university-luneburg",
+  "name": "Leuphana University Lüneburg",
+  "short": "Leuphana",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Lueneburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitat-autonoma-de-barcelona",
+  "name": "Universitat Autònoma de Barcelona",
+  "short": "UAB",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "georgetown-university-in-qatar",
+  "name": "Georgetown University in Qatar",
+  "short": "Georgetown Qatar",
+  "country": "Qatar",
+  "region": "Middle East",
+  "city": "Doha",
+  "added": "aej-2020"
+ },
+ {
+  "id": "europa-universitat-flensburg",
+  "name": "Europa-Universität Flensburg",
+  "short": "Flensburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Flensburg",
+  "added": "aej-2020"
  }
 ]
