@@ -4017,5 +4017,131 @@
   "region": "Europe",
   "city": "Siena",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-nottingham-ningbo-china",
+  "name": "University of Nottingham Ningbo China",
+  "short": "UNNC",
+  "country": "China",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-toulouse-capitole",
+  "name": "Université Toulouse Capitole",
+  "short": "Toulouse Capitole",
+  "country": "France",
+  "region": "Europe",
+  "city": "Toulouse",
+  "added": "aej-2020"
+ },
+ {
+  "id": "pomona-college",
+  "name": "Pomona College",
+  "short": "Pomona College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-europea-de-valencia",
+  "name": "Universidad Europea de Valencia",
+  "short": "UE Valencia",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Valencia",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-sao-paulo",
+  "name": "University of São Paulo",
+  "short": "São Paulo",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "São Paulo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bielefeld-university",
+  "name": "Bielefeld University",
+  "short": "Bielefeld",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Bielefeld",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-richmond",
+  "name": "University of Richmond",
+  "short": "Richmond",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-moratuwa",
+  "name": "University of Moratuwa",
+  "short": "Moratuwa",
+  "country": "Sri Lanka",
+  "region": "Asia",
+  "city": "Moratuwa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "telecom-paris",
+  "name": "Télécom Paris",
+  "short": "Télécom Paris",
+  "country": "France",
+  "region": "Europe",
+  "city": "Palaiseau",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bremen",
+  "name": "University of Bremen",
+  "short": "Bremen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Bremen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "iese-business-school",
+  "name": "IESE Business School",
+  "short": "IESE",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-malaga",
+  "name": "University of Málaga",
+  "short": "Málaga",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Málaga",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-nevada-las-vegas",
+  "name": "University of Nevada, Las Vegas",
+  "short": "UNLV",
+  "country": "United States",
+  "region": "North America",
+  "city": "Las Vegas",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-leicester",
+  "name": "University of Leicester",
+  "short": "Leicester",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Leicester",
+  "added": "aej-2020"
  }
 ]
