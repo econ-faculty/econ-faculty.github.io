@@ -5619,5 +5619,68 @@
   "region": "Asia",
   "city": "Kuala Lumpur",
   "added": "aej-2020"
+ },
+ {
+  "id": "new-york-university-abu-dhabi",
+  "name": "New York University Abu Dhabi",
+  "short": "NYU Abu Dhabi",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "city": "Abu Dhabi",
+  "added": "aej-2020"
+ },
+ {
+  "id": "reichman-university",
+  "name": "Reichman University",
+  "short": "Reichman",
+  "country": "Israel",
+  "region": "Middle East",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-iceland",
+  "name": "University of Iceland",
+  "short": "Iceland",
+  "country": "Iceland",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-east-anglia",
+  "name": "University of East Anglia",
+  "short": "East Anglia",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "centrale-mediterranee",
+  "name": "Centrale Méditerranée",
+  "short": "Centrale Méditerranée",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-lille",
+  "name": "University of Lille",
+  "short": "Lille",
+  "country": "France",
+  "region": "Europe",
+  "city": "Lille",
+  "added": "aej-2020"
+ },
+ {
+  "id": "federal-university-of-juiz-de-fora",
+  "name": "Federal University of Juiz de Fora",
+  "short": "UFJF",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "Juiz de Fora",
+  "added": "aej-2020"
  }
 ]
