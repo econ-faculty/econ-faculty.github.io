@@ -5745,5 +5745,113 @@
   "region": "North America",
   "city": "South Orange",
   "added": "aej-2020"
+ },
+ {
+  "id": "pablo-de-olavide-university",
+  "name": "Pablo de Olavide University",
+  "short": "Pablo de Olavide",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Seville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sciences-po-aix",
+  "name": "Sciences Po Aix",
+  "short": "Sciences Po Aix",
+  "country": "France",
+  "region": "Europe",
+  "city": "Aix-en-Provence",
+  "added": "aej-2020"
+ },
+ {
+  "id": "clarkson-university",
+  "name": "Clarkson University",
+  "short": "Clarkson",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-macedonia",
+  "name": "University of Macedonia",
+  "short": "Macedonia",
+  "country": "Greece",
+  "region": "Europe",
+  "city": "Thessaloniki",
+  "added": "aej-2020"
+ },
+ {
+  "id": "east-china-normal-university",
+  "name": "East China Normal University",
+  "short": "ECNU",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-rouen-normandy",
+  "name": "University of Rouen Normandy",
+  "short": "Rouen Normandy",
+  "country": "France",
+  "region": "Europe",
+  "city": "Rouen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kyiv-school-of-economics",
+  "name": "Kyiv School of Economics",
+  "short": "KSE",
+  "country": "Ukraine",
+  "region": "Europe",
+  "city": "Kyiv",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-minho",
+  "name": "University of Minho",
+  "short": "Minho",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "maynooth-university",
+  "name": "Maynooth University",
+  "short": "Maynooth",
+  "country": "Ireland",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-talca",
+  "name": "University of Talca",
+  "short": "Talca",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-del-pacifico",
+  "name": "Universidad del Pacífico",
+  "short": "Universidad del Pacífico",
+  "country": "Peru",
+  "region": "Latin America",
+  "city": "Lima",
+  "added": "aej-2020"
+ },
+ {
+  "id": "nazarbayev-university",
+  "name": "Nazarbayev University",
+  "short": "Nazarbayev",
+  "country": "Kazakhstan",
+  "region": "Asia",
+  "city": "Astana",
+  "added": "aej-2020"
  }
 ]
