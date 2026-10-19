@@ -5853,5 +5853,59 @@
   "region": "Asia",
   "city": "Astana",
   "added": "aej-2020"
+ },
+ {
+  "id": "georgia-college-state-university",
+  "name": "Georgia College & State University",
+  "short": "Georgia College & State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Milledgeville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indiana-university-south-bend",
+  "name": "Indiana University South Bend",
+  "short": "IUSB",
+  "country": "United States",
+  "region": "North America",
+  "city": "South Bend",
+  "added": "aej-2020"
+ },
+ {
+  "id": "oregon-state-university",
+  "name": "Oregon State University",
+  "short": "Oregon State",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ahmedabad-university",
+  "name": "Ahmedabad University",
+  "short": "Ahmedabad",
+  "country": "India",
+  "region": "Asia",
+  "city": "Ahmedabad",
+  "added": "aej-2020"
+ },
+ {
+  "id": "umea-university",
+  "name": "Umeå University",
+  "short": "Umeå",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Umeå",
+  "added": "aej-2020"
+ },
+ {
+  "id": "saint-louis-university",
+  "name": "Saint Louis University",
+  "short": "Saint Louis",
+  "country": "United States",
+  "region": "North America",
+  "city": "St. Louis",
+  "added": "aej-2020"
  }
 ]
