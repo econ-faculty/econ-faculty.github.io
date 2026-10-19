@@ -5682,5 +5682,68 @@
   "region": "Latin America",
   "city": "Juiz de Fora",
   "added": "aej-2020"
+ },
+ {
+  "id": "ulm-university",
+  "name": "Ulm University",
+  "short": "Ulm",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Ulm",
+  "added": "aej-2020"
+ },
+ {
+  "id": "korea-advanced-institute-of-science-and-technology",
+  "name": "Korea Advanced Institute of Science and Technology",
+  "short": "KAIST",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-vechta",
+  "name": "University of Vechta",
+  "short": "Vechta",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Vechta",
+  "added": "aej-2020"
+ },
+ {
+  "id": "barcelona-supercomputing-center",
+  "name": "Barcelona Supercomputing Center",
+  "short": "BSC",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Barcelona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kazakh-british-technical-university",
+  "name": "Kazakh-British Technical University",
+  "short": "KBTU",
+  "country": "Kazakhstan",
+  "region": "Asia",
+  "city": "Almaty",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-graz",
+  "name": "University of Graz",
+  "short": "Graz",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Graz",
+  "added": "aej-2020"
+ },
+ {
+  "id": "seton-hall-university",
+  "name": "Seton Hall University",
+  "short": "Seton Hall",
+  "country": "United States",
+  "region": "North America",
+  "city": "South Orange",
+  "added": "aej-2020"
  }
 ]
