@@ -5142,5 +5142,239 @@
   "region": "Europe",
   "city": "Flensburg",
   "added": "aej-2020"
+ },
+ {
+  "id": "jonkoping-university",
+  "name": "Jönköping University",
+  "short": "Jönköping",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Jönköping",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bath",
+  "name": "University of Bath",
+  "short": "Bath",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Bath",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ecole-polytechnique-federale-de-lausanne",
+  "name": "École Polytechnique Fédérale de Lausanne",
+  "short": "EPFL",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Lausanne",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-nacional-de-educacion-a-distancia",
+  "name": "Universidad Nacional de Educación a Distancia",
+  "short": "UNED",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-lisbon",
+  "name": "University of Lisbon",
+  "short": "Lisbon",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Lisbon",
+  "added": "aej-2020"
+ },
+ {
+  "id": "randolph-college",
+  "name": "Randolph College",
+  "short": "Randolph College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lynchburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-aberdeen",
+  "name": "University of Aberdeen",
+  "short": "Aberdeen",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "utah-state-university",
+  "name": "Utah State University",
+  "short": "Utah State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Logan",
+  "added": "aej-2020"
+ },
+ {
+  "id": "paderborn-university",
+  "name": "Paderborn University",
+  "short": "Paderborn",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-ljubljana",
+  "name": "University of Ljubljana",
+  "short": "Ljubljana",
+  "country": "Slovenia",
+  "region": "Europe",
+  "city": "Ljubljana",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-calabria",
+  "name": "University of Calabria",
+  "short": "Calabria",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rende",
+  "added": "aej-2020"
+ },
+ {
+  "id": "temple-university",
+  "name": "Temple University",
+  "short": "Temple",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "whu-otto-beisheim-school-of-management",
+  "name": "WHU – Otto Beisheim School of Management",
+  "short": "WHU",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Vallendar",
+  "added": "aej-2020"
+ },
+ {
+  "id": "london-school-of-hygiene-and-tropical-medicine",
+  "name": "London School of Hygiene and Tropical Medicine",
+  "short": "LSHTM",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "emlyon-business-school",
+  "name": "emlyon business school",
+  "short": "emlyon",
+  "country": "France",
+  "region": "Europe",
+  "city": "Ecully",
+  "added": "aej-2020"
+ },
+ {
+  "id": "centenary-college-of-louisiana",
+  "name": "Centenary College of Louisiana",
+  "short": "Centenary",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-maine",
+  "name": "University of Maine",
+  "short": "Maine",
+  "country": "United States",
+  "region": "North America",
+  "city": "Orono",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-portsmouth",
+  "name": "University of Portsmouth",
+  "short": "Portsmouth",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Portsmouth",
+  "added": "aej-2020"
+ },
+ {
+  "id": "cardiff-university",
+  "name": "Cardiff University",
+  "short": "Cardiff",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Cardiff",
+  "added": "aej-2020"
+ },
+ {
+  "id": "brock-university",
+  "name": "Brock University",
+  "short": "Brock",
+  "country": "Canada",
+  "region": "North America",
+  "city": "St. Catharines",
+  "added": "aej-2020"
+ },
+ {
+  "id": "national-university-of-la-plata",
+  "name": "National University of La Plata",
+  "short": "UNLP",
+  "country": "Argentina",
+  "region": "Latin America",
+  "city": "La Plata",
+  "added": "aej-2020"
+ },
+ {
+  "id": "it-u-interdisciplinary-transformation-university-austria",
+  "name": "IT:U Interdisciplinary Transformation University Austria",
+  "short": "IT:U",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Linz",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-sussex",
+  "name": "University of Sussex",
+  "short": "Sussex",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Brighton",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-bourgogne-europe",
+  "name": "Université Bourgogne Europe",
+  "short": "Bourgogne",
+  "country": "France",
+  "region": "Europe",
+  "city": "Dijon",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technical-university-of-denmark",
+  "name": "Technical University of Denmark",
+  "short": "DTU",
+  "country": "Denmark",
+  "region": "Europe",
+  "city": "Kongens Lyngby",
+  "added": "aej-2020"
+ },
+ {
+  "id": "flinders-university",
+  "name": "Flinders University",
+  "short": "Flinders",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Adelaide",
+  "added": "aej-2020"
  }
 ]
