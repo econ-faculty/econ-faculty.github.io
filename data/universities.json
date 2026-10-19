@@ -5907,5 +5907,113 @@
   "region": "North America",
   "city": "St. Louis",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-ulsan",
+  "name": "University of Ulsan",
+  "short": "Ulsan",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidade-federal-da-bahia",
+  "name": "Universidade Federal da Bahia",
+  "short": "UFB",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-manitoba",
+  "name": "University of Manitoba",
+  "short": "Manitoba",
+  "country": "Canada",
+  "region": "North America",
+  "city": "Winnipeg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "colgate-university",
+  "name": "Colgate University",
+  "short": "Colgate",
+  "country": "United States",
+  "region": "North America",
+  "city": "Hamilton, NY",
+  "added": "aej-2020"
+ },
+ {
+  "id": "radboud-university",
+  "name": "Radboud University",
+  "short": "Radboud",
+  "country": "Netherlands",
+  "region": "Europe",
+  "city": "Nijmegen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "swansea-university",
+  "name": "Swansea University",
+  "short": "Swansea",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Swansea",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-kassel",
+  "name": "University of Kassel",
+  "short": "Kassel",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Kassel",
+  "added": "aej-2020"
+ },
+ {
+  "id": "boise-state-university",
+  "name": "Boise State University",
+  "short": "Boise State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Boise",
+  "added": "aej-2020"
+ },
+ {
+  "id": "mohammed-vi-polytechnic-university",
+  "name": "Mohammed VI Polytechnic University",
+  "short": "Mohammed VI Polytechnic",
+  "country": "Morocco",
+  "region": "Africa",
+  "city": "Rabat",
+  "added": "aej-2020"
+ },
+ {
+  "id": "austin-peay-state-university",
+  "name": "Austin Peay State University",
+  "short": "Austin Peay State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Clarksville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "pontificia-universidad-javeriana",
+  "name": "Pontificia Universidad Javeriana",
+  "short": "PUJ",
+  "country": "Colombia",
+  "region": "Latin America",
+  "city": "Bogotá",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hofstra-university",
+  "name": "Hofstra University",
+  "short": "Hofstra",
+  "country": "United States",
+  "region": "North America",
+  "city": "Hempstead",
+  "added": "aej-2020"
  }
 ]
