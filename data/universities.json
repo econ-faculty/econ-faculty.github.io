@@ -5376,5 +5376,140 @@
   "region": "Oceania",
   "city": "Adelaide",
   "added": "aej-2020"
+ },
+ {
+  "id": "budapest-university-of-technology-and-economics",
+  "name": "Budapest University of Technology and Economics",
+  "short": "BME",
+  "country": "Hungary",
+  "region": "Europe",
+  "city": "Budapest",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitat-oberta-de-catalunya",
+  "name": "Universitat Oberta de Catalunya",
+  "short": "UOC",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-hamburg",
+  "name": "University of Hamburg",
+  "short": "Hamburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Hamburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "yeungnam-university",
+  "name": "Yeungnam University",
+  "short": "Yeungnam",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "karlstad-university",
+  "name": "Karlstad University",
+  "short": "Karlstad",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rowan-university",
+  "name": "Rowan University",
+  "short": "Rowan",
+  "country": "United States",
+  "region": "North America",
+  "city": "Glassboro",
+  "added": "aej-2020"
+ },
+ {
+  "id": "loyola-marymount-university",
+  "name": "Loyola Marymount University",
+  "short": "Loyola Marymount",
+  "country": "United States",
+  "region": "North America",
+  "city": "Los Angeles",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-zaragoza",
+  "name": "University of Zaragoza",
+  "short": "Zaragoza",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Zaragoza",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-catania",
+  "name": "University of Catania",
+  "short": "Catania",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Catania",
+  "added": "aej-2020"
+ },
+ {
+  "id": "colby-college",
+  "name": "Colby College",
+  "short": "Colby College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Waterville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-the-balearic-islands",
+  "name": "University of the Balearic Islands",
+  "short": "UIB",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Palma",
+  "added": "aej-2020"
+ },
+ {
+  "id": "institut-mines-telecom-business-school",
+  "name": "Institut Mines-Télécom Business School",
+  "short": "IMT-BS",
+  "country": "France",
+  "region": "Europe",
+  "city": "Évry-Courcouronnes",
+  "added": "aej-2020"
+ },
+ {
+  "id": "umit-tirol",
+  "name": "UMIT TIROL",
+  "short": "UMIT TIROL",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Hall in Tirol",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kristianstad-university",
+  "name": "Kristianstad University",
+  "short": "Kristianstad",
+  "country": "Sweden",
+  "region": "Europe",
+  "city": "Kristianstad",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-wuppertal",
+  "name": "University of Wuppertal",
+  "short": "Wuppertal",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Wuppertal",
+  "added": "aej-2020"
  }
 ]
