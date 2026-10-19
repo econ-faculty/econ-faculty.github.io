@@ -5511,5 +5511,113 @@
   "region": "Europe",
   "city": "Wuppertal",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-oklahoma",
+  "name": "University of Oklahoma",
+  "short": "Oklahoma",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-texas-at-arlington",
+  "name": "University of Texas at Arlington",
+  "short": "UT Arlington",
+  "country": "United States",
+  "region": "North America",
+  "city": "Arlington",
+  "added": "aej-2020"
+ },
+ {
+  "id": "unidistance-suisse",
+  "name": "UniDistance Suisse",
+  "short": "UniDistance Suisse",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kwansei-gakuin-university",
+  "name": "Kwansei Gakuin University",
+  "short": "Kwansei Gakuin",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-statistical-institute",
+  "name": "Indian Statistical Institute",
+  "short": "ISI",
+  "country": "India",
+  "region": "Asia",
+  "city": "Kolkata",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-the-basque-country-upv-ehu",
+  "name": "University of the Basque Country (UPV/EHU)",
+  "short": "UPV/EHU",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-andres-bello",
+  "name": "Universidad Andrés Bello",
+  "short": "Universidad Andrés Bello",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-science-and-technology-beijing",
+  "name": "University of Science and Technology Beijing",
+  "short": "USTB",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sungkyunkwan-university",
+  "name": "Sungkyunkwan University",
+  "short": "Sungkyunkwan",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-peradeniya",
+  "name": "University of Peradeniya",
+  "short": "Peradeniya",
+  "country": "Sri Lanka",
+  "region": "Asia",
+  "city": "Peradeniya",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-eafit",
+  "name": "Universidad EAFIT",
+  "short": "Universidad EAFIT",
+  "country": "Colombia",
+  "region": "Latin America",
+  "city": "Medellin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "asia-school-of-business",
+  "name": "Asia School of Business",
+  "short": "ASB",
+  "country": "Malaysia",
+  "region": "Asia",
+  "city": "Kuala Lumpur",
+  "added": "aej-2020"
  }
 ]
