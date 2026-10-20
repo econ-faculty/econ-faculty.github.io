@@ -6699,5 +6699,140 @@
   "region": "North America",
   "city": "Harrisonburg",
   "added": "aej-2020"
+ },
+ {
+  "id": "city-college-of-new-york-city-university-of-new-york",
+  "name": "City College of New York, City University of New York",
+  "short": "City College",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-greenwich",
+  "name": "University of Greenwich",
+  "short": "Greenwich",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "texas-tech-university",
+  "name": "Texas Tech University",
+  "short": "Texas Tech",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lubbock",
+  "added": "aej-2020"
+ },
+ {
+  "id": "radford-university",
+  "name": "Radford University",
+  "short": "Radford",
+  "country": "United States",
+  "region": "North America",
+  "city": "Radford",
+  "added": "aej-2020"
+ },
+ {
+  "id": "stellenbosch-university",
+  "name": "Stellenbosch University",
+  "short": "Stellenbosch",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Stellenbosch",
+  "added": "aej-2020"
+ },
+ {
+  "id": "covenant-college",
+  "name": "Covenant College",
+  "short": "Covenant College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lookout Mountain",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bari-aldo-moro",
+  "name": "University of Bari Aldo Moro",
+  "short": "Bari Aldo Moro",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Bari",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-de-cantabria",
+  "name": "Universidad de Cantabria",
+  "short": "Universidad de Cantabria",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Santander",
+  "added": "aej-2020"
+ },
+ {
+  "id": "mississippi-state-university",
+  "name": "Mississippi State University",
+  "short": "Mississippi State",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "technical-university-of-applied-sciences-wurzburg-schweinfurt",
+  "name": "Technical University of Applied Sciences Würzburg-Schweinfurt",
+  "short": "TUASW",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Würzburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "illinois-state-university",
+  "name": "Illinois State University",
+  "short": "Illinois State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Normal",
+  "added": "aej-2020"
+ },
+ {
+  "id": "national-graduate-institute-for-policy-studies",
+  "name": "National Graduate Institute for Policy Studies",
+  "short": "GRIPS",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "west-virginia-university",
+  "name": "West Virginia University",
+  "short": "West Virginia",
+  "country": "United States",
+  "region": "North America",
+  "city": "Morgantown",
+  "added": "aej-2020"
+ },
+ {
+  "id": "griffith-university",
+  "name": "Griffith University",
+  "short": "Griffith",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Brisbane",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ie-university",
+  "name": "IE University",
+  "short": "IE",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
  }
 ]
