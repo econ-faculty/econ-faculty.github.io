@@ -5621,15 +5621,6 @@
   "added": "aej-2020"
  },
  {
-  "id": "new-york-university-abu-dhabi",
-  "name": "New York University Abu Dhabi",
-  "short": "NYU Abu Dhabi",
-  "country": "United Arab Emirates",
-  "region": "Middle East",
-  "city": "Abu Dhabi",
-  "added": "aej-2020"
- },
- {
   "id": "reichman-university",
   "name": "Reichman University",
   "short": "Reichman",
@@ -6590,6 +6581,123 @@
   "country": "United States",
   "region": "North America",
   "city": "Cincinnati",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitas-gadjah-mada",
+  "name": "Universitas Gadjah Mada",
+  "short": "Universitas Gadjah Mada",
+  "country": "Indonesia",
+  "region": "Asia",
+  "city": "Yogyakarta",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidade-presbiteriana-mackenzie",
+  "name": "Universidade Presbiteriana Mackenzie",
+  "short": "Mackenzie",
+  "country": "Brazil",
+  "region": "Latin America",
+  "city": "São Paulo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "lumsa-university",
+  "name": "LUMSA University",
+  "short": "LUMSA",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "comillas-pontifical-university",
+  "name": "Comillas Pontifical University",
+  "short": "Comillas Pontifical",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-new-hampshire",
+  "name": "University of New Hampshire",
+  "short": "New Hampshire",
+  "country": "United States",
+  "region": "North America",
+  "city": "Durham",
+  "added": "aej-2020"
+ },
+ {
+  "id": "institute-of-economic-growth",
+  "name": "Institute of Economic Growth",
+  "short": "IEG",
+  "country": "India",
+  "region": "Asia",
+  "city": "Delhi",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-management-calcutta",
+  "name": "Indian Institute of Management Calcutta",
+  "short": "IIMC",
+  "country": "India",
+  "region": "Asia",
+  "city": "Kolkata",
+  "added": "aej-2020"
+ },
+ {
+  "id": "denison-university",
+  "name": "Denison University",
+  "short": "Denison",
+  "country": "United States",
+  "region": "North America",
+  "city": "Granville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "texas-christian-university",
+  "name": "Texas Christian University",
+  "short": "Texas Christian",
+  "country": "United States",
+  "region": "North America",
+  "city": "Fort Worth",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-indonesia",
+  "name": "University of Indonesia",
+  "short": "Indonesia",
+  "country": "Indonesia",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-strasbourg",
+  "name": "University of Strasbourg",
+  "short": "Strasbourg",
+  "country": "France",
+  "region": "Europe",
+  "city": "Strasbourg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "queens-college-city-university-of-new-york",
+  "name": "Queens College, City University of New York",
+  "short": "Queens College",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "added": "aej-2020"
+ },
+ {
+  "id": "james-madison-university",
+  "name": "James Madison University",
+  "short": "James Madison",
+  "country": "United States",
+  "region": "North America",
+  "city": "Harrisonburg",
   "added": "aej-2020"
  }
 ]
