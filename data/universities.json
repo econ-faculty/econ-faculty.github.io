@@ -6015,5 +6015,140 @@
   "region": "North America",
   "city": "Hempstead",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-genoa",
+  "name": "University of Genoa",
+  "short": "Genoa",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Genoa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rikkyo-university",
+  "name": "Rikkyo University",
+  "short": "Rikkyo",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "mercatorum-university",
+  "name": "Mercatorum University",
+  "short": "Mercatorum",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Rome",
+  "added": "aej-2020"
+ },
+ {
+  "id": "gran-sasso-science-institute",
+  "name": "Gran Sasso Science Institute",
+  "short": "GSSI",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "L'Aquila",
+  "added": "aej-2020"
+ },
+ {
+  "id": "wesleyan-university",
+  "name": "Wesleyan University",
+  "short": "Wesleyan",
+  "country": "United States",
+  "region": "North America",
+  "city": "Middletown",
+  "added": "aej-2020"
+ },
+ {
+  "id": "lahore-school-of-economics",
+  "name": "Lahore School of Economics",
+  "short": "Lahore",
+  "country": "Pakistan",
+  "region": "Asia",
+  "city": "Lahore",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-salzburg",
+  "name": "University of Salzburg",
+  "short": "Salzburg",
+  "country": "Austria",
+  "region": "Europe",
+  "city": "Salzburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-eastern-piedmont",
+  "name": "University of Eastern Piedmont",
+  "short": "Eastern Piedmont",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Novara",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-central-oklahoma",
+  "name": "University of Central Oklahoma",
+  "short": "Central Oklahoma",
+  "country": "United States",
+  "region": "North America",
+  "city": "Edmond",
+  "added": "aej-2020"
+ },
+ {
+  "id": "chiba-university",
+  "name": "Chiba University",
+  "short": "Chiba",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Chiba",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-southern-mississippi",
+  "name": "University of Southern Mississippi",
+  "short": "Southern Mississippi",
+  "country": "United States",
+  "region": "North America",
+  "city": "Hattiesburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "mount-holyoke-college",
+  "name": "Mount Holyoke College",
+  "short": "Mount Holyoke College",
+  "country": "United States",
+  "region": "North America",
+  "city": "South Hadley",
+  "added": "aej-2020"
+ },
+ {
+  "id": "stephen-f-austin-state-university",
+  "name": "Stephen F. Austin State University",
+  "short": "Stephen F. Austin State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Nacogdoches",
+  "added": "aej-2020"
+ },
+ {
+  "id": "myongji-university",
+  "name": "Myongji University",
+  "short": "Myongji",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-memphis",
+  "name": "University of Memphis",
+  "short": "Memphis",
+  "country": "United States",
+  "region": "North America",
+  "city": "Memphis",
+  "added": "aej-2020"
  }
 ]
