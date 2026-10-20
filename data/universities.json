@@ -6438,5 +6438,158 @@
   "region": "Europe",
   "city": "Aachen",
   "added": "aej-2020"
+ },
+ {
+  "id": "united-states-air-force-academy",
+  "name": "United States Air Force Academy",
+  "short": "USAFA",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "nanjing-university-of-posts-and-telecommunications",
+  "name": "Nanjing University of Posts and Telecommunications",
+  "short": "NUPT",
+  "country": "China",
+  "region": "Asia",
+  "city": "Nanjing",
+  "added": "aej-2020"
+ },
+ {
+  "id": "istanbul-technical-university",
+  "name": "Istanbul Technical University",
+  "short": "Istanbul Technical",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "Istanbul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "california-polytechnic-state-university",
+  "name": "California Polytechnic State University",
+  "short": "Cal Poly",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "eduardo-mondlane-university",
+  "name": "Eduardo Mondlane University",
+  "short": "Eduardo Mondlane",
+  "country": "Mozambique",
+  "region": "Africa",
+  "city": "Maputo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-ilorin",
+  "name": "University of Ilorin",
+  "short": "Ilorin",
+  "country": "Nigeria",
+  "region": "Africa",
+  "city": "Ilorin",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-dar-es-salaam",
+  "name": "University of Dar es Salaam",
+  "short": "Dar es Salaam",
+  "country": "Tanzania",
+  "region": "Africa",
+  "city": "Dar es Salaam",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-dundee",
+  "name": "University of Dundee",
+  "short": "Dundee",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universita-politecnica-delle-marche",
+  "name": "Università Politecnica delle Marche",
+  "short": "UPM",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Ancona",
+  "added": "aej-2020"
+ },
+ {
+  "id": "osaka-university-of-economics",
+  "name": "Osaka University of Economics",
+  "short": "OUE",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Osaka",
+  "added": "aej-2020"
+ },
+ {
+  "id": "osaka-metropolitan-university",
+  "name": "Osaka Metropolitan University",
+  "short": "Osaka Metropolitan",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Osaka",
+  "added": "aej-2020"
+ },
+ {
+  "id": "harbin-institute-of-technology-shenzhen",
+  "name": "Harbin Institute of Technology, Shenzhen",
+  "short": "HITS",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shenzhen",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-rhode-island",
+  "name": "University of Rhode Island",
+  "short": "Rhode Island",
+  "country": "United States",
+  "region": "North America",
+  "city": "Kingston",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-technology-indian-school-of-mines-dhanbad",
+  "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+  "short": "IITSMD",
+  "country": "India",
+  "region": "Asia",
+  "city": "Dhanbad",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-north-texas",
+  "name": "University of North Texas",
+  "short": "North Texas",
+  "country": "United States",
+  "region": "North America",
+  "city": "Denton",
+  "added": "aej-2020"
+ },
+ {
+  "id": "macalester-college",
+  "name": "Macalester College",
+  "short": "Macalester College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Saint Paul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "xavier-university",
+  "name": "Xavier University",
+  "short": "Xavier",
+  "country": "United States",
+  "region": "North America",
+  "city": "Cincinnati",
+  "added": "aej-2020"
  }
 ]
