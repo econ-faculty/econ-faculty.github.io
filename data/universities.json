@@ -6150,5 +6150,167 @@
   "region": "North America",
   "city": "Memphis",
   "added": "aej-2020"
+ },
+ {
+  "id": "yokohama-national-university",
+  "name": "Yokohama National University",
+  "short": "Yokohama National",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Yokohama",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kindai-university",
+  "name": "Kindai University",
+  "short": "Kindai",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Higashi-Osaka",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-augsburg",
+  "name": "University of Augsburg",
+  "short": "Augsburg",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Augsburg",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kennesaw-state-university",
+  "name": "Kennesaw State University",
+  "short": "Kennesaw State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Kennesaw",
+  "added": "aej-2020"
+ },
+ {
+  "id": "tehran-institute-for-advanced-studies",
+  "name": "Tehran Institute for Advanced Studies",
+  "short": "TIAS",
+  "country": "Iran",
+  "region": "Middle East",
+  "city": "Tehran",
+  "added": "aej-2020"
+ },
+ {
+  "id": "minzu-university-of-china",
+  "name": "Minzu University of China",
+  "short": "MUC",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-tours",
+  "name": "University of Tours",
+  "short": "Tours",
+  "country": "France",
+  "region": "Europe",
+  "city": "Tours",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bahcesehir-university",
+  "name": "Bahçeşehir University",
+  "short": "Bahçeşehir",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sogang-university",
+  "name": "Sogang University",
+  "short": "Sogang",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "hunter-college-city-university-of-new-york",
+  "name": "Hunter College, City University of New York",
+  "short": "Hunter",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "azim-premji-university",
+  "name": "Azim Premji University",
+  "short": "Azim Premji",
+  "country": "India",
+  "region": "Asia",
+  "city": "Bengaluru",
+  "added": "aej-2020"
+ },
+ {
+  "id": "de-montfort-university",
+  "name": "De Montfort University",
+  "short": "De Montfort",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "Leicester",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-delhi",
+  "name": "University of Delhi",
+  "short": "Delhi",
+  "country": "India",
+  "region": "Asia",
+  "city": "Delhi",
+  "added": "aej-2020"
+ },
+ {
+  "id": "plaksha-university",
+  "name": "Plaksha University",
+  "short": "Plaksha",
+  "country": "India",
+  "region": "Asia",
+  "city": "Mohali",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-pisa",
+  "name": "University of Pisa",
+  "short": "Pisa",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Pisa",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bryn-mawr-college",
+  "name": "Bryn Mawr College",
+  "short": "Bryn Mawr College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Bryn Mawr",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-technology-bombay",
+  "name": "Indian Institute of Technology Bombay",
+  "short": "IITB",
+  "country": "India",
+  "region": "Asia",
+  "city": "Mumbai",
+  "added": "aej-2020"
+ },
+ {
+  "id": "haverford-college",
+  "name": "Haverford College",
+  "short": "Haverford College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Haverford",
+  "added": "aej-2020"
  }
 ]
