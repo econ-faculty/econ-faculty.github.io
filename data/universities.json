@@ -6312,5 +6312,131 @@
   "region": "North America",
   "city": "Haverford",
   "added": "aej-2020"
+ },
+ {
+  "id": "sokoine-university-of-agriculture",
+  "name": "Sokoine University of Agriculture",
+  "short": "SUA",
+  "country": "Tanzania",
+  "region": "Africa",
+  "city": "Morogoro",
+  "added": "aej-2020"
+ },
+ {
+  "id": "monash-university-malaysia",
+  "name": "Monash University Malaysia",
+  "short": "MUM",
+  "country": "Malaysia",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bates-college",
+  "name": "Bates College",
+  "short": "Bates College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lewiston",
+  "added": "aej-2020"
+ },
+ {
+  "id": "southern-illinois-university-carbondale",
+  "name": "Southern Illinois University Carbondale",
+  "short": "SIUC",
+  "country": "United States",
+  "region": "North America",
+  "city": "Carbondale",
+  "added": "aej-2020"
+ },
+ {
+  "id": "drake-university",
+  "name": "Drake University",
+  "short": "Drake",
+  "country": "United States",
+  "region": "North America",
+  "city": "Des Moines",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-concepcion",
+  "name": "University of Concepcion",
+  "short": "Concepcion",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-bio-bio",
+  "name": "University of Bio-Bio",
+  "short": "Bio-Bio",
+  "country": "Chile",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-alabama-in-huntsville",
+  "name": "University of Alabama in Huntsville",
+  "short": "Alabama in Huntsville",
+  "country": "United States",
+  "region": "North America",
+  "city": "Huntsville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "john-carroll-university",
+  "name": "John Carroll University",
+  "short": "John Carroll",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-naples-parthenope",
+  "name": "University of Naples Parthenope",
+  "short": "Naples Parthenope",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Naples",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-buenos-aires",
+  "name": "University of Buenos Aires",
+  "short": "Buenos Aires",
+  "country": "Argentina",
+  "region": "Latin America",
+  "city": "Buenos Aires",
+  "added": "aej-2020"
+ },
+ {
+  "id": "american-university-of-beirut",
+  "name": "American University of Beirut",
+  "short": "AUB",
+  "country": "Lebanon",
+  "region": "Middle East",
+  "city": "Beirut",
+  "added": "aej-2020"
+ },
+ {
+  "id": "doha-institute-for-graduate-studies",
+  "name": "Doha Institute for Graduate Studies",
+  "short": "DIGS",
+  "country": "Qatar",
+  "region": "Middle East",
+  "city": "Doha",
+  "added": "aej-2020"
+ },
+ {
+  "id": "rwth-aachen-university",
+  "name": "RWTH Aachen University",
+  "short": "RWTH Aachen",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "Aachen",
+  "added": "aej-2020"
  }
 ]
