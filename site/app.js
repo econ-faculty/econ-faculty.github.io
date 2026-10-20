@@ -387,6 +387,12 @@
       <p>Information is collected from public university directories, personal homepages and CVs, and is processed partly automatically. It may contain errors or be incomplete, and matching papers by name can misattribute articles to faculty with common names. We do not collect emails, phone numbers or photos.</p>
       <h2>Corrections &amp; removal</h2>
       <p>Each institution's data lives in <code>data/faculty/&lt;institution&gt;.json</code> in the <a href="${CONFIG.repoUrl}" target="_blank" rel="noopener">GitHub repository</a>. Use “Suggest a correction” on any profile, or open an issue. Faculty who wish to be removed can open an issue and we will remove the entry.</p>
+      <h2>Developers &amp; maintainers</h2>
+      <ul>
+        <li><b>Zhiren Hu</b>, PhD student in Applied Economics, Cornell University</li>
+        <li><b>Dingding Li</b>, PhD student, Department of Agricultural and Resource Economics, University of California, Berkeley</li>
+        <li><b>Jiannan Jiang</b>, PhD student in Economics, The University of Texas at Austin</li>
+      </ul>
     </article>`;
   }
 
