@@ -6834,5 +6834,68 @@
   "region": "Europe",
   "city": "Madrid",
   "added": "aej-2020"
+ },
+ {
+  "id": "stockholm-school-of-economics-in-riga",
+  "name": "Stockholm School of Economics in Riga",
+  "short": "SSE Riga",
+  "country": "Latvia",
+  "region": "Europe",
+  "city": "Riga",
+  "added": "aej-2020"
+ },
+ {
+  "id": "senshu-university",
+  "name": "Senshu University",
+  "short": "Senshu",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "icahn-school-of-medicine-at-mount-sinai",
+  "name": "Icahn School of Medicine at Mount Sinai",
+  "short": "Mount Sinai",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-zagreb",
+  "name": "University of Zagreb",
+  "short": "Zagreb",
+  "country": "Croatia",
+  "region": "Europe",
+  "city": "Zagreb",
+  "added": "aej-2020"
+ },
+ {
+  "id": "connecticut-college",
+  "name": "Connecticut College",
+  "short": "Connecticut College",
+  "country": "United States",
+  "region": "North America",
+  "city": "New London",
+  "added": "aej-2020"
+ },
+ {
+  "id": "sam-houston-state-university",
+  "name": "Sam Houston State University",
+  "short": "Sam Houston State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Huntsville",
+  "added": "aej-2020"
+ },
+ {
+  "id": "thammasat-university",
+  "name": "Thammasat University",
+  "short": "Thammasat",
+  "country": "Thailand",
+  "region": "Asia",
+  "city": "Bangkok",
+  "added": "aej-2020"
  }
 ]
