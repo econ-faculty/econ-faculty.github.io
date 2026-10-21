@@ -7176,5 +7176,32 @@
   "region": "Europe",
   "city": "Istanbul",
   "added": "aej-2020"
+ },
+ {
+  "id": "kent-state-university",
+  "name": "Kent State University",
+  "short": "Kent State",
+  "country": "United States",
+  "region": "North America",
+  "city": "Kent, Ohio",
+  "added": "aej-2020"
+ },
+ {
+  "id": "vilnius-university",
+  "name": "Vilnius University",
+  "short": "Vilnius",
+  "country": "Lithuania",
+  "region": "Europe",
+  "city": "Vilnius",
+  "added": "aej-2020"
+ },
+ {
+  "id": "kenyon-college",
+  "name": "Kenyon College",
+  "short": "Kenyon College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Gambier",
+  "added": "aej-2020"
  }
 ]
