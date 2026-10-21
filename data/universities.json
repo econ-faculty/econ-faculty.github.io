@@ -7095,5 +7095,86 @@
   "region": "Latin America",
   "city": "Guayaquil",
   "added": "aej-2020"
+ },
+ {
+  "id": "dongbei-university-of-finance-and-economics",
+  "name": "Dongbei University of Finance and Economics",
+  "short": "DUFE",
+  "country": "China",
+  "region": "Asia",
+  "city": "Dalian",
+  "added": "aej-2020"
+ },
+ {
+  "id": "shanghaitech-university",
+  "name": "ShanghaiTech University",
+  "short": "ShanghaiTech",
+  "country": "China",
+  "region": "Asia",
+  "city": "Shanghai",
+  "added": "aej-2020"
+ },
+ {
+  "id": "lisbon-polytechnic-institute",
+  "name": "Lisbon Polytechnic Institute",
+  "short": "LPI",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Lisbon",
+  "added": "aej-2020"
+ },
+ {
+  "id": "saarland-university",
+  "name": "Saarland University",
+  "short": "Saarland",
+  "country": "Germany",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "aoyama-gakuin-university",
+  "name": "Aoyama Gakuin University",
+  "short": "Aoyama Gakuin",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "added": "aej-2020"
+ },
+ {
+  "id": "ozyegin-university",
+  "name": "Özyeğin University",
+  "short": "Özyeğin",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "loyola-university-maryland",
+  "name": "Loyola University Maryland",
+  "short": "Loyola Maryland",
+  "country": "United States",
+  "region": "North America",
+  "city": "Baltimore",
+  "added": "aej-2020"
+ },
+ {
+  "id": "chung-ang-university",
+  "name": "Chung-Ang University",
+  "short": "Chung-Ang",
+  "country": "South Korea",
+  "region": "Asia",
+  "city": "Seoul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "marmara-university",
+  "name": "Marmara University",
+  "short": "Marmara",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "Istanbul",
+  "added": "aej-2020"
  }
 ]
