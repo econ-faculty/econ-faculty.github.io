@@ -7,36 +7,36 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Innovation, Policy and Entrepreneurship Thrust, Society Hub",
-  "fields_raw": "Environmental and Agricultural Economics; Climate Adaptation; Biodiversity Conservation Policy and Finance; Causal Inference & Data-driven methods",
+  "fields_raw": "Climate adaptation strategies and technological innovation in agriculture; biodiversity conservation policy and finance",
   "fields_std": [
-   "Environmental & Energy Economics",
-   "Agricultural & Resource Economics"
+   "Agricultural & Resource Economics",
+   "Environmental & Energy Economics"
   ],
   "phd_institution": "University of Illinois at Urbana-Champaign",
-  "phd_year": null,
-  "phd_field": "Agricultural and Applied Economics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_year": 2022,
+  "phd_field": "Applied Economics",
+  "ma_institution": "Peking University",
+  "ma_year": 2016,
+  "ma_field": "Economics",
+  "ba_institution": "Peking University",
+  "ba_year": 2014,
+  "ba_field": "Management; Economics (minor)",
   "education_raw": "PhD Agricultural and Applied Economics, University of Illinois at Urbana-Champaign",
   "homepage_url": "https://luoyec.github.io/",
   "profile_url": null,
   "cv_url": "https://oss.hkust-gz.edu.cn/itc-center/prod/SOCIHUB/FACULTY_PROFILES/2023-03-27/1679889020001/CV_LuoyeChen_Mar2023.pdf",
   "google_scholar_url": "https://scholar.google.com/citations?user=-90ExfcAAAAJ",
   "orcid": "https://orcid.org/0000-0002-2514-8162",
-  "year_joined": null,
+  "year_joined": 2022,
   "source_url": "https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
+  "first_job_after_phd": "Affiliate Assistant Professor, Hong Kong University of Science and Technology (Guangzhou) (2022-)",
   "prior_positions": null,
-  "year_current_rank": null,
+  "year_current_rank": 2023,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "luoye-chen"
  },
  {
@@ -50,7 +50,8 @@
   "fields_raw": "Energy and Environmental Economics; Empirical Industrial Organization; Sustainable Finance",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Industrial Organization"
+   "Corporate Finance",
+   "International Trade"
   ],
   "phd_institution": "University of Maryland, College Park",
   "phd_year": null,
@@ -62,7 +63,7 @@
   "ba_year": null,
   "ba_field": null,
   "education_raw": "PhD Agricultural and Resource Economics, University of Maryland, College Park; MA: Renmin University of China (field not stated); BA: Renmin University of China",
-  "homepage_url": "https://wenjunwang-econ.github.io/",
+  "homepage_url": null,
   "profile_url": null,
   "cv_url": null,
   "google_scholar_url": null,
@@ -76,7 +77,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "profile",
   "id": "wenjun-wang"
  },
  {
@@ -115,7 +116,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "yuqi-song"
  },
  {
@@ -126,7 +127,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "FinTech; Financial Econometrics; Machine Learning; Empirical Finance",
+  "fields_raw": "FinTech, financial econometrics and empirical finance",
   "fields_std": [
    "Financial Economics",
    "Econometrics"
@@ -155,7 +156,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "guang-zhang"
  },
  {
@@ -166,24 +167,25 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Fintech; Digital Economies; Social Media; Industrial Organization; Applied Theory",
+  "fields_raw": "AI in finance, blockchain economics and DeFi, financial economics, influencer economy, industrial organization, games and mechanism design",
   "fields_std": [
+   "Financial Economics",
    "Industrial Organization",
-   "Financial Economics"
+   "Microeconomic Theory"
   ],
-  "phd_institution": "Cornell University",
-  "phd_year": null,
+  "phd_institution": "Peking University",
+  "phd_year": 2013,
   "phd_field": "Economics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Cornell University",
+  "ma_year": 2020,
+  "ma_field": "Economics",
+  "ba_institution": "Southwest Jiaotong University",
+  "ba_year": 2007,
+  "ba_field": "Forest Science",
   "education_raw": "PhD Economics, Cornell University",
   "homepage_url": "https://www.siguangli.com/about-me.html",
   "profile_url": null,
-  "cv_url": "https://www.siguangli.com/cv.html",
+  "cv_url": null,
   "google_scholar_url": null,
   "orcid": "https://orcid.org/0000-0003-1371-7257",
   "year_joined": null,
@@ -195,7 +197,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "cv",
   "id": "siguang-li"
  },
  {
@@ -206,7 +208,7 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Economic growth and Development; Macroeconomics; Chinese Economy; Digital Economy; Innovation and Entrepreneurship; Money and Banking",
+  "fields_raw": "Economic growth and development, macroeconomics, digital economy, innovation and entrepreneurship, money and banking",
   "fields_std": [
    "Macroeconomics",
    "Development Economics",
@@ -218,25 +220,25 @@
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ba_institution": "Wuhan University",
+  "ba_year": 1983,
+  "ba_field": "Mathematics",
   "education_raw": "PhD Economics, University of Chicago, 1992",
   "homepage_url": "https://personal.hkust-gz.edu.cn/dxie/personaldanyangxie.html",
   "profile_url": null,
-  "cv_url": "http://personal.hkust-gz.edu.cn/dxie/vita_xie.pdf",
+  "cv_url": null,
   "google_scholar_url": "https://scholar.google.com/citations?user=ZhjULlYAAAAJ",
   "orcid": "https://orcid.org/0000-0003-0305-4031",
-  "year_joined": null,
+  "year_joined": 2019,
   "source_url": "https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Paul M. Romer (chair); Robert Lucas Jr. and Nancy Stokey (committee)",
+  "first_job_after_phd": "Assistant Professor, University of Montreal (1991-1994)",
+  "prior_positions": "Dean, Economics and Management School, Wuhan University, 2014-2017; Director, Shui On Center for China Business and Management, Hong Kong University of Science and Technology, 2011-2013; Professor and Head, Department of Economics, Hong Kong University of Science and Technology, 2007-2010; Professor and Senior Wei Lun Fellow, Hong Kong University of Science and Technology, 2006-2007; Associate Professor and Senior Wei Lun Fellow, Hong Kong University of Science and Technology, 2004-2005; Senior Economist, African Department, International Monetary Fund, 2003-2004; Senior Economist, IMF Institute, International Monetary Fund, 2001-2003; Economist, IMF Institute, International Monetary Fund, 2000-2001; Associate Professor of Economics, Hong Kong University of Science and Technology, 1998-2002; Assistant Professor of Economics, Hong Kong University of Science and Technology, 1993-1998; Assistant Professor of Economics, University of Montreal, 1991-1994; Chair Professor of Economics, Hong Kong University of Science and Technology, 2020-2024",
+  "year_current_rank": 2020,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "cv",
   "id": "danyang-xie"
  },
  {
@@ -249,7 +251,7 @@
   "other_units": null,
   "fields_raw": "Industrial Organization; Platform; Digital Economics; Game Theory; Network Theory; Business Economics; Behaviour Economics",
   "fields_std": [
-   "Microeconomic Theory",
+   "Marketing",
    "Industrial Organization"
   ],
   "phd_institution": "Cornell University",
@@ -276,7 +278,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "chenyang-li"
  },
  {
@@ -287,10 +289,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "- The Personnel Economics of the State; - Technological Innovation and State Capacity; - Culture and Socioeconomic Development; - Education, Inequality and Mobility; - Chinese Economy",
+  "fields_raw": "Public economics, political economy, development",
   "fields_std": [
    "Public Economics",
-   "Political Economy"
+   "Political Economy",
+   "Development Economics"
   ],
   "phd_institution": "Boston University",
   "phd_year": 2025,
@@ -316,7 +319,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "justin-jihao-hong"
  },
  {
@@ -327,12 +330,12 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Healthcare Innovation; Health Economics; Applied Microeconomics",
+  "fields_raw": "Healthcare innovation, health economics, applied microeconomics",
   "fields_std": [
    "Health Economics",
-   "Industrial Organization"
+   "Data Science & Analytics"
   ],
-  "phd_institution": "Indiana University Bloomington",
+  "phd_institution": "Indiana University",
   "phd_year": 2024,
   "phd_field": "Business Economics and Public Policy",
   "ma_institution": null,
@@ -356,7 +359,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "moyan-li"
  },
  {
@@ -367,10 +370,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Carbon Neutrality and Climate Change Thrust, Society Hub",
-  "fields_raw": "Environmental and Energy Economics; Public Economics; Business Economics; Corporate Sustainability and Governance",
+  "fields_raw": "Environmental and energy economics, public economics, business economics",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Public Economics"
+   "Public Economics",
+   "Business Economics"
   ],
   "phd_institution": "University of California, Santa Cruz",
   "phd_year": 2025,
@@ -382,9 +386,9 @@
   "ba_year": null,
   "ba_field": null,
   "education_raw": "PhD Economics, University of California, Santa Cruz, 2025; BA: Peking University (details not stated)",
-  "homepage_url": "https://www.qianping-ren.com/",
+  "homepage_url": null,
   "profile_url": null,
-  "cv_url": "https://www.qianping-ren.com/cv",
+  "cv_url": null,
   "google_scholar_url": "https://scholar.google.com/citations?user=DQf5raUAAAAJ",
   "orcid": "https://orcid.org/0000-0003-2551-0771",
   "year_joined": null,
@@ -396,7 +400,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "profile",
   "id": "qianping-ren"
  },
  {
@@ -407,11 +411,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": null,
-  "fields_raw": "Microeconomic Theory; Behavioral Economics; Experimental Economics; Behavioral Public Policy; Human-Computer Interaction",
+  "fields_raw": "Information design and strategic communication; trust, cooperation and sustainable behavior; societal impact of disruptive technologies; evidence-based public policy and governance",
   "fields_std": [
+   "Experimental Economics",
    "Microeconomic Theory",
-   "Behavioral Economics",
-   "Experimental Economics"
+   "Behavioral Economics"
   ],
   "phd_institution": "Brown University",
   "phd_year": 2020,
@@ -437,7 +441,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "xu-zhang"
  },
  {
@@ -476,7 +480,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "binzhe-wang"
  },
  {
@@ -487,11 +491,11 @@
   "unit_type": "economics",
   "area": null,
   "other_units": "Dept of Economics",
-  "fields_raw": "Macroeconomics; Labor Economics; Entrepreneurship",
+  "fields_raw": "Labor market macroeconomics: education, artificial intelligence, unemployment, skill mismatch",
   "fields_std": [
    "Macroeconomics",
    "Labor Economics",
-   "Entrepreneurship & Innovation"
+   "Economics of Education"
   ],
   "phd_institution": "Washington University in St. Louis",
   "phd_year": 2021,
@@ -517,7 +521,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "cheuk-yi-kelvin-yuen"
  },
  {
@@ -531,11 +535,11 @@
   "fields_raw": "Applied Microeconomics; Environmental, Resource, and Energy Economics; Urban and Transportation Economics",
   "fields_std": [
    "Environmental & Energy Economics",
-   "Urban & Regional Economics"
+   "Public Policy"
   ],
   "phd_institution": "Cornell University",
   "phd_year": 2021,
-  "phd_field": "Applied Economics",
+  "phd_field": "Applied Economics and Management",
   "ma_institution": null,
   "ma_year": null,
   "ma_field": null,
@@ -557,7 +561,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "lin-yang"
  },
  {
@@ -568,36 +572,36 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "International Finance; Decentralized Finance; Foreign Exchange; Fixed Income",
+  "fields_raw": "International finance, decentralized finance, foreign exchange, fixed income",
   "fields_std": [
-   "Financial Economics",
-   "Econometrics"
+   "International Finance",
+   "Financial Economics"
   ],
-  "phd_institution": "University of Warwick (Warwick Business School)",
-  "phd_year": null,
-  "phd_field": "Finance and Econometrics",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "phd_institution": "University of Warwick",
+  "phd_year": 2023,
+  "phd_field": "Finance & Econometrics",
+  "ma_institution": "University of Warwick",
+  "ma_year": 2018,
+  "ma_field": "Finance",
+  "ba_institution": "University of East Anglia",
+  "ba_year": 2017,
+  "ba_field": "Business Finance & Economics",
   "education_raw": "PhD Finance and Econometrics, University of Warwick (Warwick Business School)",
-  "homepage_url": "https://sites.google.com/view/junxuanwang",
+  "homepage_url": null,
   "profile_url": null,
-  "cv_url": "https://www.dropbox.com/scl/fi/hrnolsqlf2lk9hbbdulqj/Junxuan_CV.pdf?rlkey=w2kixy87554tskriatuga5bka&st=x4g6yhmo&dl=0",
+  "cv_url": null,
   "google_scholar_url": "https://scholar.google.com/citations?user=QqfA96gAAAAJ",
   "orcid": "https://orcid.org/0009-0001-9005-9692",
-  "year_joined": null,
+  "year_joined": 2025,
   "source_url": "https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties",
   "notes": null,
   "ba_country": null,
   "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "first_job_after_phd": "Postdoctoral Research Associate, University of Cambridge (2023-2025)",
+  "prior_positions": "Postdoctoral Research Associate, University of Cambridge, 2023-2025",
+  "year_current_rank": 2025,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "cv",
   "id": "junxuan-wang"
  },
  {
@@ -611,6 +615,7 @@
   "fields_raw": "FinTech ; Information Economics in Financial Markets; Adversarial/Strategic ML/AI & Its Applications; Decentralized Finance (DeFi)",
   "fields_std": [
    "Financial Economics",
+   "Microeconomic Theory",
    "Data Science & Analytics"
   ],
   "phd_institution": "Washington University in St. Louis",
@@ -637,7 +642,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "leifu-zhang"
  },
  {
@@ -648,36 +653,37 @@
   "unit_type": "business",
   "area": "Finance",
   "other_units": null,
-  "fields_raw": "Theoretical and Empirical Climate Asset Pricing; Climate Finance; Macro Finance; ESG; Text Mining; China Economy; Applied Machine Learning",
+  "fields_raw": "Theoretical and empirical climate asset pricing, climate finance, macro finance, ESG, text mining, China economy, applied machine learning",
   "fields_std": [
    "Asset Pricing",
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "Data Science & Analytics"
   ],
   "phd_institution": "Imperial College London",
-  "phd_year": null,
+  "phd_year": 2023,
   "phd_field": "Finance",
-  "ma_institution": null,
-  "ma_year": null,
-  "ma_field": null,
-  "ba_institution": null,
-  "ba_year": null,
-  "ba_field": null,
+  "ma_institution": "Imperial College London | University of Chicago",
+  "ma_year": "2018 | 2016",
+  "ma_field": "Management (Finance) | Statistics",
+  "ba_institution": "Wuhan University",
+  "ba_year": 2014,
+  "ba_field": "Finance; Applied Mathematics",
   "education_raw": "PhD Finance, Imperial College London",
   "homepage_url": "https://www.yzhang.one/",
   "profile_url": null,
   "cv_url": "https://oss.hkust-gz.edu.cn/itc-center/prod/SOCIHUB/FACULTY_PROFILES/2024-01-05/1704424053079/CV_Yi_Zhang.pdf",
   "google_scholar_url": null,
   "orcid": null,
-  "year_joined": null,
+  "year_joined": 2023,
   "source_url": "https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties",
   "notes": null,
   "ba_country": null,
-  "phd_advisors": null,
-  "first_job_after_phd": null,
-  "prior_positions": null,
-  "year_current_rank": null,
+  "phd_advisors": "Alexander Michaelides",
+  "first_job_after_phd": "Assistant Professor, Hong Kong University of Science and Technology (Guangzhou) (2023-)",
+  "prior_positions": "Graduate Teaching Assistant, Imperial College London, 2018-2023",
+  "year_current_rank": 2023,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "cv",
   "id": "yi-zhang"
  },
  {
@@ -690,8 +696,7 @@
   "other_units": null,
   "fields_raw": "Principal-Agent Problems; Statistical Contract Theory; Agent Economics and Mechanism Design; Blockchain and Decentralized Finance",
   "fields_std": [
-   "Information Systems",
-   "Microeconomic Theory"
+   "Information Systems"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2026,
@@ -717,7 +722,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "hang-jiang"
  },
  {
@@ -730,8 +735,7 @@
   "other_units": null,
   "fields_raw": "Finance-Operations Interface; E-commerce and marketplace analytics; Operations-Marketing Interface; Game theory; Optimal control; Data-driven decision making",
   "fields_std": [
-   "Operations Management",
-   "Microeconomic Theory"
+   "Operations Management"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": null,
@@ -757,7 +761,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "ruiting-zuo"
  },
  {
@@ -770,8 +774,7 @@
   "other_units": null,
   "fields_raw": "Operations Management & Finance Interface; Blockchain; AI Application in Business; Sustainability",
   "fields_std": [
-   "Operations Management",
-   "Data Science & Analytics"
+   "Operations Management"
   ],
   "phd_institution": "University of Illinois at Urbana-Champaign",
   "phd_year": 2025,
@@ -783,9 +786,9 @@
   "ba_year": null,
   "ba_field": null,
   "education_raw": "PhD Operations Management, University of Illinois at Urbana-Champaign, 2025; MA: M.S. Transportation Engineering, University of Illinois at Urbana-Champaign, 2019; BA: Tsinghua University, 2017, Civil Engineering and Economics",
-  "homepage_url": "https://www.shi-qiu.com/home",
+  "homepage_url": null,
   "profile_url": null,
-  "cv_url": "https://www.shi-qiu.com/curriculum-vitae",
+  "cv_url": null,
   "google_scholar_url": "https://scholar.google.com/citations?user=RrEq298AAAAJ",
   "orcid": "https://orcid.org/0009-0002-0378-3074",
   "year_joined": null,
@@ -797,7 +800,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": "web",
+  "detail_source": "profile",
   "id": "shi-qiu"
  },
  {
@@ -810,8 +813,7 @@
   "other_units": null,
   "fields_raw": "Global Strategy; Governance Choices ; Geopolitical Risks; International Entrepreneurship; Digital Platforms",
   "fields_std": [
-   "Strategy",
-   "Management & Organizations"
+   "Strategy"
   ],
   "phd_institution": "University of Illinois at Urbana-Champaign",
   "phd_year": 2025,
@@ -837,7 +839,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "xin-wang"
  },
  {
@@ -850,8 +852,7 @@
   "other_units": null,
   "fields_raw": "Causal Inference; Digital Experimentation Methods (A/B testing); The Application of AI in Marketing Decision-Making",
   "fields_std": [
-   "Marketing",
-   "Data Science & Analytics"
+   "Marketing"
   ],
   "phd_institution": "University of Hong Kong",
   "phd_year": null,
@@ -877,7 +878,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "chen-wang"
  },
  {
@@ -890,9 +891,7 @@
   "other_units": null,
   "fields_raw": "Corporate Governance; Corporate Social Responsibility and Sustainability; Firm Knowledge Assets and Innovation",
   "fields_std": [
-   "Strategy",
-   "Management & Organizations",
-   "Business Ethics & Society"
+   "Strategy"
   ],
   "phd_institution": "University of Illinois at Urbana-Champaign",
   "phd_year": null,
@@ -918,7 +917,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "jinyu-he"
  },
  {
@@ -931,8 +930,7 @@
   "other_units": null,
   "fields_raw": "Corporate nonmarket strategy; Stakeholder theory and corporate social responsibility; Sustainability and business ethics; Corporate social impact",
   "fields_std": [
-   "Strategy",
-   "Business Ethics & Society"
+   "Strategy"
   ],
   "phd_institution": "Singapore Management University",
   "phd_year": 2026,
@@ -958,7 +956,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "eva-lingling-xie"
  },
  {
@@ -971,8 +969,7 @@
   "other_units": null,
   "fields_raw": "The new space economy: competition, coopetition, and coevolution; Emergence and dynamics of nascent industries and ecosystems; Corporate innovation and technology strategy; Environmental and climate policy; International relations, geopolitics, and global governance",
   "fields_std": [
-   "Strategy",
-   "Entrepreneurship & Innovation"
+   "Strategy"
   ],
   "phd_institution": "University of South Carolina",
   "phd_year": null,
@@ -998,7 +995,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "gianni-francois-g-de-bruyn"
  },
  {
@@ -1011,16 +1008,16 @@
   "other_units": null,
   "fields_raw": "Innovation and Technology Management; Entrepreneurship; Causal Inference and Experimental Methods",
   "fields_std": [
-   "Entrepreneurship & Innovation",
-   "Strategy"
+   "Strategy",
+   "Entrepreneurship & Innovation"
   ],
   "phd_institution": "National University of Singapore",
   "phd_year": 2021,
   "phd_field": "Management (Strategy and Policy)",
-  "ma_institution": null,
+  "ma_institution": "Peking University",
   "ma_year": null,
   "ma_field": null,
-  "ba_institution": null,
+  "ba_institution": "Peking University",
   "ba_year": null,
   "ba_field": null,
   "education_raw": "PhD Management (Strategy and Policy), National University of Singapore, 2021",
@@ -1038,7 +1035,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yun-hou"
  },
  {
@@ -1051,17 +1048,18 @@
   "other_units": "Innovation, Policy and Entrepreneurship Thrust, Society Hub",
   "fields_raw": "Energy Transition; Clean Technology Investment; Fossil Fuel Stranded assets; Climate Risks; Environmental Economics; Energy Policy",
   "fields_std": [
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "Climate Finance"
   ],
   "phd_institution": "University of Oxford",
   "phd_year": null,
   "phd_field": "Environmental Economics",
-  "ma_institution": "M.E. Energy and Environment, IMT Mines Albi (France) | M.E. Environmental Science and Engineering, Shanghai Jiao Tong University",
+  "ma_institution": "Shanghai Jiao Tong University",
   "ma_year": null,
-  "ma_field": null,
-  "ba_institution": "B.E. Environmental Science and Engineering, Shanghai Jiao Tong University",
+  "ma_field": "Environmental Management",
+  "ba_institution": "Shanghai Jiao Tong University",
   "ba_year": null,
-  "ba_field": null,
+  "ba_field": "Environmental Science and Engineering",
   "education_raw": "PhD Environmental Economics, University of Oxford; MA: M.E. Energy and Environment, IMT Mines Albi (France) | M.E. Environmental Science and Engineering, Shanghai Jiao Tong University; BA: B.E. Environmental Science and Engineering, Shanghai Jiao Tong University",
   "homepage_url": "https://www.yangsiyulu.com/",
   "profile_url": null,
@@ -1077,7 +1075,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "profile",
   "id": "yangsiyu-lu"
  },
  {
@@ -1090,8 +1088,8 @@
   "other_units": "Innovation, Policy and Entrepreneurship Thrust, Society Hub",
   "fields_raw": "Climate finance & policy; Low-carbon infrastructure/asset finance; Energy, transport, urban infrastructure; Technology innovation and finance; Banking and institutional investors",
   "fields_std": [
-   "Corporate Finance",
-   "Environmental & Energy Economics"
+   "Environmental & Energy Economics",
+   "Financial Economics"
   ],
   "phd_institution": "ETH Zurich",
   "phd_year": null,
@@ -1117,7 +1115,7 @@
   "prior_positions": null,
   "year_current_rank": null,
   "cv_date": null,
-  "detail_source": null,
+  "detail_source": "none",
   "id": "anurag-gumber"
  }
 ]

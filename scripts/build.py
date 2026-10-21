@@ -315,9 +315,9 @@ def do_import(raw_dir):
         """universities an enrich file may belong to: exact full-id tag first, else the short 'first_last' prefix
         (several universities can share it, e.g. universite-de-montreal / universite-du-quebec-a-montreal)"""
         stem = os.path.basename(fname)[:-5]
-        exact = [uid for uid in buckets for full in fulls_of(uid) if stem.startswith(full.replace("-", "_") + "_")]
-        if exact:
-            return exact[:1]
+        exact = [(len(full), uid) for uid in buckets for full in fulls_of(uid) if stem.startswith(full.replace("-", "_") + "_")]
+        if exact:   # longest id wins: chinese_university_of_hong_kong_shenzhen_x must not go to CUHK
+            return [max(exact)[1]]
         short = [uid for uid in buckets for full in fulls_of(uid)
                  if stem.startswith(full.split("-")[0] + "_" + full.split("-")[-1] + "_")]
         if short:

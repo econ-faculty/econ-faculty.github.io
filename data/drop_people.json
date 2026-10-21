@@ -269,5 +269,12 @@
   "name": "Junjie Zhang",
   "kept_as": "junjie-zhang--duke",
   "reason": "same person listed twice (user, 2026-10-17)"
+ },
+ {
+  "pid": "wei-lin--cuhk-shenzhen",
+  "university": "chinese-university-of-hong-kong-shenzhen",
+  "name": "Wei Lin",
+  "kept_as": "wei-lin--cuhk",
+  "reason": "moved to CUHK (Department of Economics) in 2026; CUHK record kept"
  }
 ]

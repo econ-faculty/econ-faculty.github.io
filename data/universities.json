@@ -6897,5 +6897,86 @@
   "region": "Asia",
   "city": "Bangkok",
   "added": "aej-2020"
+ },
+ {
+  "id": "rochester-institute-of-technology",
+  "name": "Rochester Institute of Technology",
+  "short": "RIT",
+  "country": "United States",
+  "region": "North America",
+  "city": "Rochester",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-wisconsin-whitewater",
+  "name": "University of Wisconsin-Whitewater",
+  "short": "Wisconsin-Whitewater",
+  "country": "United States",
+  "region": "North America",
+  "city": "Whitewater",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universidad-de-san-andres",
+  "name": "Universidad de San Andrés",
+  "short": "UdeSA",
+  "country": "Argentina",
+  "region": "Latin America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "miyazaki-international-university",
+  "name": "Miyazaki International University",
+  "short": "Miyazaki International",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Miyazaki",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universitat-jaume-i",
+  "name": "Universitat Jaume I",
+  "short": "Universitat Jaume I",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Castellón de la Plana",
+  "added": "aej-2020"
+ },
+ {
+  "id": "spelman-college",
+  "name": "Spelman College",
+  "short": "Spelman College",
+  "country": "United States",
+  "region": "North America",
+  "city": "Atlanta",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-versailles-saint-quentin-en-yvelines",
+  "name": "University of Versailles Saint-Quentin-en-Yvelines",
+  "short": "UVSQ",
+  "country": "France",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-tsukuba",
+  "name": "University of Tsukuba",
+  "short": "Tsukuba",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tsukuba",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indian-institute-of-technology-delhi",
+  "name": "Indian Institute of Technology Delhi",
+  "short": "IIT Delhi",
+  "country": "India",
+  "region": "Asia",
+  "city": "New Delhi",
+  "added": "aej-2020"
  }
 ]
