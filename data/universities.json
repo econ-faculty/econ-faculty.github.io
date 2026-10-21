@@ -7032,5 +7032,68 @@
   "region": "Europe",
   "city": "Rennes",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-ghana",
+  "name": "University of Ghana",
+  "short": "Ghana",
+  "country": "Ghana",
+  "region": "Africa",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "masters-union-university",
+  "name": "Masters' Union University",
+  "short": "Masters Union",
+  "country": "India",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "shiv-nadar-institution-of-eminence",
+  "name": "Shiv Nadar Institution of Eminence",
+  "short": "Shiv Nadar",
+  "country": "India",
+  "region": "Asia",
+  "city": "Gautam Buddh Nagar",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-evry-val-d-essonne",
+  "name": "University of Evry Val d'Essonne",
+  "short": "Evry Val d'Essonne",
+  "country": "France",
+  "region": "Europe",
+  "city": "Evry",
+  "added": "aej-2020"
+ },
+ {
+  "id": "bogazici-university",
+  "name": "Boğaziçi University",
+  "short": "Boğaziçi",
+  "country": "Turkey",
+  "region": "Europe",
+  "city": "Istanbul",
+  "added": "aej-2020"
+ },
+ {
+  "id": "babson-college",
+  "name": "Babson College",
+  "short": "Babson College",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "espol-university",
+  "name": "ESPOL University",
+  "short": "ESPOL",
+  "country": "Ecuador",
+  "region": "Latin America",
+  "city": "Guayaquil",
+  "added": "aej-2020"
  }
 ]
