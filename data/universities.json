@@ -6978,5 +6978,59 @@
   "region": "Asia",
   "city": "New Delhi",
   "added": "aej-2020"
+ },
+ {
+  "id": "university-of-new-mexico",
+  "name": "University of New Mexico",
+  "short": "New Mexico",
+  "country": "United States",
+  "region": "North America",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "western-norway-university-of-applied-sciences",
+  "name": "Western Norway University of Applied Sciences",
+  "short": "HVL",
+  "country": "Norway",
+  "region": "Europe",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "beijing-jiaotong-university",
+  "name": "Beijing Jiaotong University",
+  "short": "Beijing Jiaotong",
+  "country": "China",
+  "region": "Asia",
+  "city": "Beijing",
+  "added": "aej-2020"
+ },
+ {
+  "id": "indira-gandhi-institute-of-development-research",
+  "name": "Indira Gandhi Institute of Development Research",
+  "short": "IGIDR",
+  "country": "India",
+  "region": "Asia",
+  "city": "",
+  "added": "aej-2020"
+ },
+ {
+  "id": "university-of-zambia",
+  "name": "University of Zambia",
+  "short": "Zambia",
+  "country": "Zambia",
+  "region": "Africa",
+  "city": "Lusaka",
+  "added": "aej-2020"
+ },
+ {
+  "id": "universite-de-rennes",
+  "name": "Université de Rennes",
+  "short": "Rennes",
+  "country": "France",
+  "region": "Europe",
+  "city": "Rennes",
+  "added": "aej-2020"
  }
 ]
