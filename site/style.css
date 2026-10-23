@@ -204,3 +204,8 @@ td.num { text-align: right; white-space: nowrap; }
 
 .paper .pa { font-size: 14px; margin-top: 2px; }
 .paper .pa a { font-weight: 600; }
+
+.ptags { margin-top: 4px; }
+.tag.ptopic { background: var(--accent-soft); color: var(--accent); font-size: 11.5px; }
+.paper a.src { font-size: 12.5px; }
+.paper a.src.srch { color: var(--muted); }

@@ -271,7 +271,10 @@
   // ---------------------------------------------------------------- paper search
   let PIDX = null;
   const ALLY = new Map();
-  const mkRow = (r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], l: r[4], a: r[5], k: r[6], lt: (r[0] + " " + r[5].join(" ")).toLowerCase() });
+  const mkRow = (r) => ({ t: r[0], y: r[1], c: r[2], r: r[3], l: r[4], a: r[5], k: r[6], tp: r[7] || [], lt: (r[0] + " " + r[5].join(" ")).toLowerCase() });
+  const srcLink = (x) => x.l ? `<a class="src" href="${esc(x.l)}" target="_blank" rel="noopener">${/doi\.org/.test(x.l) ? "DOI" : x.c === 2 ? "Working paper" : "Source"} ↗</a>`
+    : `<a class="src srch" href="${scholar(x.t)}" target="_blank" rel="noopener" title="No direct link yet — search Google Scholar">Scholar search ↗</a>`;
+  const topicTags = (x) => x.tp.map((i) => `<a class="tag ptopic" href="#/papers?tp=${i}">${esc(D.jtopics[i])}</a>`).join("");
   // all authors in order; directory faculty link to their profiles (unplaced directory owners appended)
   const pLink = (pi, label) => `<a href="#/p/${encodeURIComponent(P[pi].id)}" title="${esc(P[pi].name)} (${esc(U[P[pi].uni].short)})">${esc(label)}</a>`;
   function authorLinks(x) {
@@ -281,7 +284,7 @@
     return names.length <= 2 ? names.join(" and ") : names.slice(0, -1).join(", ") + ", and " + names[names.length - 1];
   }
   function renderPapers(q) {
-    const s = { q: q.get("q") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", all: q.get("all") !== "0", page: +(q.get("p") || 1) };
+    const s = { q: q.get("q") || "", tp: q.get("tp") || "", cat: q.get("c") || "", jr: q.get("jr") || "", uni: q.get("uni") || "", y0: q.get("y0") || "", y1: q.get("y1") || "", all: q.get("all") !== "0", page: +(q.get("p") || 1) };
     if (!PIDX) {
       app.innerHTML = `<p class="small">Loading paper index (${(D.n_pindex || 0).toLocaleString()} papers)…</p>`;
       getJSON("papers.json").then((rows) => {
@@ -303,13 +306,14 @@
     const src = s.all ? PIDX.concat(...years.map((y) => ALLY.get(y))) : PIDX;
     const toks = s.q.toLowerCase().split(/\s+/).filter(Boolean);
     const jrOk = (x) => s.jr === "" || (x.r >= 0 && (s.jr.startsWith("t:") ? D.journals[x.r][1] === +s.jr.slice(2) : x.r === +s.jr));
-    const list = src.filter((x) => (s.cat === "" || x.c === +s.cat) && jrOk(x) && (!s.uni || x.k.some(([, pi]) => U[P[pi].uni].id === s.uni)) &&
+    const list = src.filter((x) => (s.tp === "" || x.tp.includes(+s.tp)) && (s.cat === "" || x.c === +s.cat) && jrOk(x) && (!s.uni || x.k.some(([, pi]) => U[P[pi].uni].id === s.uni)) &&
       (!s.y0 || x.y >= +s.y0) && (!s.y1 || (x.y && x.y <= +s.y1)) && toks.every((t) => x.lt.includes(t) || x.k.some(([, pi]) => P[pi].name.toLowerCase().includes(t))))
       .sort((a, b) => b.y - a.y || a.c - b.c);
     const size = 100, pages = Math.max(1, Math.ceil(list.length / size)); s.page = Math.min(Math.max(1, s.page), pages);
     app.innerHTML = `<p class="intro">Search papers by faculty in the directory: articles since 2000 in leading economics, business and general-interest journals, papers under revise &amp; resubmit, and working papers in official series (NBER, CEPR, IZA, central banks, IMF, World Bank, research institutes and similar). By default all articles in these journals are included; tick the box to show only papers by faculty in the directory. Words match the paper title or any author; names of faculty in the directory link to their profiles.</p>
       <section class="controls"><div class="row">
         <input id="pq" type="search" placeholder="Search paper titles or author…" value="${esc(s.q)}" autocomplete="off">
+        <select id="ptp"><option value="">All topics</option>${D.jtopics.map((n, i) => [n, i]).sort((a, b) => a[0].localeCompare(b[0])).map(([n, i]) => opt(i, n, s.tp)).join("")}</select>
         <select id="pc"><option value="">All types</option>${CAT.map(([, lab], i) => opt(i, lab, s.cat)).join("")}</select>
         <select id="pj"><option value="">Any journal</option>${journalOpts(s.jr)}</select>
       </div><div class="row">
@@ -321,11 +325,12 @@
       <section>${list.slice((s.page - 1) * size, s.page * size).map((x) => { const j = x.r >= 0 ? D.journals[x.r] : null;
         return `<article class="paper"><div class="pt">${titleLink(x.t, x.l)}${tierBadge(x.r, x.c)}</div>
           <div class="pa">${authorLinks(x)}</div>
-          <div class="pm">${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
+          <div class="pm">${x.y || "n.d."} · ${x.c === 1 ? "R&amp;R" + (j ? ", " : "") : x.c === 2 ? "Working paper" : ""}${j ? `<i>${esc(j[0])}</i>` : ""} · ${srcLink(x)}</div>
+          <div class="ptags">${topicTags(x)}</div></article>`; }).join("") || `<p class="empty">No matches.</p>`}</section>
       ${pages > 1 ? `<div class="pager">${s.page > 1 ? `<button class="btn" data-pg="${s.page - 1}">← Prev</button>` : ""}<span class="small">Page ${s.page} / ${pages}</span>${s.page < pages ? `<button class="btn" data-pg="${s.page + 1}">Next →</button>` : ""}</div>` : ""}`;
-    const go = (page = 1) => { setQuery("/papers", { q: s.q, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, all: s.all ? "" : "0", p: page > 1 ? page : "" }); renderPapers(route().q); };
+    const go = (page = 1) => { setQuery("/papers", { q: s.q, tp: s.tp, c: s.cat, jr: s.jr, uni: s.uni, y0: s.y0, y1: s.y1, all: s.all ? "" : "0", p: page > 1 ? page : "" }); renderPapers(route().q); };
     bindSearch("pq", (v) => { s.q = v; go(); });
-    for (const [id, k] of [["pc", "cat"], ["pj", "jr"], ["pu", "uni"], ["py0", "y0"], ["py1", "y1"]]) document.getElementById(id).onchange = (e) => { s[k] = e.target.value; go(); };
+    for (const [id, k] of [["ptp", "tp"], ["pc", "cat"], ["pj", "jr"], ["pu", "uni"], ["py0", "y0"], ["py1", "y1"]]) document.getElementById(id).onchange = (e) => { s[k] = e.target.value; go(); };
     document.getElementById("pall").onchange = (e) => { s.all = !e.target.checked; go(); };
     document.getElementById("preset").onclick = () => { history.replaceState(null, "", "#/papers"); renderPapers(new URLSearchParams()); };
     app.querySelectorAll("[data-pg]").forEach((b) => b.onclick = () => { go(+b.dataset.pg); window.scrollTo(0, 0); });

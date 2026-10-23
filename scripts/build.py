@@ -472,6 +472,7 @@ def paper_curated(q):
 # ---- journal-article database (data/paperdb/corpus: Crossref 2000+ for every whitelist journal; matched to faculty at build time)
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import paper_match
+from paper_topics import compile_rules, classify  # paper-level topic tags
 from wp_series import wp_official   # working papers: official/institutional series only (user rule 2026-10-17)
 CORPUS_DIR = os.path.join(DATA, "paperdb", "corpus")
 NATURAL = {"Science", "Nature", "Proceedings of the National Academy of Sciences", "Nature Communications", "Science Advances",
@@ -632,6 +633,11 @@ def build(check):
     os.makedirs(adir, exist_ok=True)
     for f in glob.glob(os.path.join(adir, "*.json")):
         os.remove(f)
+    TRULES = compile_rules(JTOPICS)
+    jtop = lambda r: JOURNALS[r][2] if r is not None and 0 <= r < len(JOURNALS) else None
+    for rows in shard.values():
+        for row in rows:
+            row.append(classify(row[0], jtop(row[3]), TRULES))
     for y, rows in shard.items():
         with open(os.path.join(adir, f"{y}.json"), "w", encoding="utf-8") as g:
             json.dump(rows, g, ensure_ascii=False, separators=(",", ":"))
@@ -649,6 +655,19 @@ def build(check):
            "people": people}
     with open(os.path.join(SITE, "data.js"), "w", encoding="utf-8") as g:
         g.write("window.EF = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    # source links: fill missing ones from Crossref-resolved DOIs (scripts/resolve_dois.py -> data/doi_fill.json)
+    dfp = os.path.join(DATA, "doi_fill.json")
+    dfill = json.load(open(dfp, encoding="utf-8")) if os.path.exists(dfp) else {}
+    nfill = 0
+    for row in pindex.values():
+        if not row[4]:
+            d = dfill.get(re.sub(r"[^a-z0-9]", "", (row[0] or "").lower())[:80])
+            if d:
+                row[4] = "https://doi.org/" + d
+                nfill += 1
+        row.append(classify(row[0], jtop(row[3]), TRULES))
+    print(f"paper topics tagged; {nfill} missing links filled from doi_fill.json; "
+          f"{sum(1 for r in pindex.values() if not r[4])} index papers still link to a Scholar search")
     with open(os.path.join(SITE, "papers.json"), "w", encoding="utf-8") as g:
         json.dump(list(pindex.values()), g, ensure_ascii=False, separators=(",", ":"))
     # version-tag static assets so browsers never mix an old app.js with new data after a deploy
