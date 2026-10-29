@@ -276,5 +276,12 @@
   "name": "Wei Lin",
   "kept_as": "wei-lin--cuhk",
   "reason": "moved to CUHK (Department of Economics) in 2026; CUHK record kept"
+ },
+ {
+  "pid": "ruiqi-sun--hku",
+  "university": "university-of-hong-kong",
+  "name": "Ruiqi Sun",
+  "kept_as": "rachel-ruiqi-sun--hku",
+  "reason": "same person listed twice (same homepage ruiqisun.com; 2026-10-28)"
  }
 ]
