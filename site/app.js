@@ -1,4 +1,4 @@
-/* Econ Faculty — client-side rendering. Data: data.js (index) + people/<university>.json (details). */
+/* Econ Atlas — client-side rendering. Data: data.js (index) + people/<university>.json (details). */
 (function () {
   "use strict";
   const CONFIG = { repoUrl: "https://github.com/econ-faculty/econ-faculty.github.io", pageSize: 100 };
@@ -373,7 +373,7 @@
     const nJr = Array.isArray(D.journals) ? D.journals.length : Object.keys(D.journals || {}).length;
     app.innerHTML = `<article class="prose">
       <h2>About</h2>
-      <p><b>Econ Faculty</b> is an open directory of tenure-line faculty who do research in economics and business at leading universities. It currently covers <b>${P.length.toLocaleString()}</b> faculty at <b>${nUni}</b> universities, with their education, careers, research fields and papers. Faculty can be searched in the <a href="#/">People</a> tab and their papers in the <a href="#/papers">Papers</a> tab.</p>
+      <p><b>Econ Atlas</b> is an open directory of tenure-line faculty who do research in economics and business at leading universities. It currently covers <b>${P.length.toLocaleString()}</b> faculty at <b>${nUni}</b> universities, with their education, careers, research fields and papers. Faculty can be searched in the <a href="#/">People</a> tab and their papers in the <a href="#/papers">Papers</a> tab.</p>
       <h2>Coverage</h2>
       <ul>
         <li><b>Institutions:</b> in the United States, universities in the US News 2025 economics ranking (roughly the top 60) plus additional schools; in the UK, Hong Kong and Singapore, the leading research universities and business schools.</li>

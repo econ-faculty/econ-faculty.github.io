@@ -1,4 +1,4 @@
-"""Build the Econ Faculty site.
+"""Build the Econ Atlas site.
 
   python scripts/build.py --import ../raw   # normalize scraper output into data/faculty/<university>.json
   python scripts/build.py                   # build site/data.js (compact index) + site/people/<university>.json

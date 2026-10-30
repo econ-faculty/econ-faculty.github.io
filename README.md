@@ -1,4 +1,4 @@
-# Econ Faculty
+# Econ Atlas
 
 **https://econ-faculty.github.io/** — an open, community-maintained directory of tenure-line faculty doing research in economics and business at leading universities worldwide.
 
