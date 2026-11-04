@@ -1,0 +1,1256 @@
+{
+"pid:dongchul-kim--tongji": {
+"name": "Dongchul Kim",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/27408.html",
+"papers": []
+},
+"pid:kenneth-a-kim--tongji": {
+"name": "Kenneth A. Kim",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/16088.html",
+"papers": []
+},
+"pid:scott-thiebes--tongji": {
+"name": "Scott THIEBES",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/27383.html",
+"papers": []
+},
+"pid:qiwen-yu--tongji": {
+"name": "Qiwen Yu",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/24654.html",
+"papers": []
+},
+"pid:yu-xinmiao--tongji": {
+"name": "YU Xinmiao",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/21638.html",
+"papers": []
+},
+"pid:feng-xiao--tongji": {
+"name": "FENG Xiao",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12392.html",
+"papers": []
+},
+"pid:liu-ming--tongji": {
+"name": "LIU Ming",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/15012.html",
+"papers": []
+},
+"pid:liu-hu-chen--tongji": {
+"name": "Liu, Hu-Chen",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/20833.html",
+"papers": []
+},
+"pid:wu-jianwei--tongji": {
+"name": "WU Jianwei",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12007.html",
+"papers": []
+},
+"pid:wenxin-wu--tongji": {
+"name": "Wenxin Wu",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/6f/61/c17222a356193/page.htm",
+"papers": [
+{
+"title": "Tailored adaptation: Aligning social issue engagement with types of legitimacy challenges",
+"authors": [
+"Wenxin Wu",
+"Heli Wang",
+"Li Tong",
+"Yanlong Zhang"
+],
+"year": 2025,
+"venue": "Strategic Management Journal",
+"status": "published",
+"doi": "10.1002/smj.3716",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://aib.tongji.edu.cn/6f/61/c17222a356193/page.htm",
+"https://sms.onlinelibrary.wiley.com/doi/full/10.1002/smj.3716",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/strategic-management-journal.jsonl.gz"
+],
+"author_index": 0,
+"volume": "46",
+"issue": "8",
+"pages": "1947-1972",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_7a4b4a9ab2569fd55de4--tongji": {
+"name": "周中允",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/category/faculty-cv/anxisuo/glkxygcx/page/4",
+"papers": []
+},
+"pid:cn-p_c61b4cd84084d79748d6--tongji": {
+"name": "周志中",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/category/faculty-cv/anxisuo/glkxygcx/page/2",
+"papers": []
+},
+"pid:cn-p_53b1cb1a6dfca611cf5d--tongji": {
+"name": "孙丽华",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/15051.html",
+"papers": []
+},
+"pid:y-charles-zhang--tongji": {
+"name": "Y. Charles Zhang",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/b6/17/c17222a308759/page.htm",
+"papers": []
+},
+"pid:zhang-xiaoning--tongji": {
+"name": "Zhang Xiaoning",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12287.html",
+"papers": []
+},
+"pid:zhang-jiantong--tongji": {
+"name": "ZHANG Jiantong",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12005.html",
+"papers": []
+},
+"pid:zhang-sidong--tongji": {
+"name": "ZHANG Sidong",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/20777.html",
+"papers": []
+},
+"pid:cn-p_f68ac3d31c327b39e3e0--tongji": {
+"name": "张真真",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/41389.html",
+"papers": []
+},
+"pid:chao-zhang--tongji": {
+"name": "Chao Zhang",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/15375.html",
+"papers": []
+},
+"pid:jie-peng--tongji": {
+"name": "Jie Peng",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/25031.html",
+"papers": []
+},
+"pid:cungen-zhu--tongji": {
+"name": "Cungen Zhu",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/25022.html",
+"papers": []
+},
+"pid:li-yunke--tongji": {
+"name": "LI Yunke",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/25035.html",
+"papers": []
+},
+"pid:li-yuanchen--tongji": {
+"name": "LI Yuanchen",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/22037.html",
+"papers": []
+},
+"pid:wenchao-li--tongji": {
+"name": "Wenchao Li",
+"papers": [
+{
+"title": "Alphabetical Author Order, Intellectual Collaboration and High-Skilled Migration",
+"authors": [
+"Wenchao Li",
+"Junjian Yi"
+],
+"year": 2021,
+"venue": "Economic Journal",
+"status": "published",
+"doi": "10.1093/ej/ueaa049",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1093/ej/ueaa049",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economic-journal.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "131",
+"issue": "635",
+"pages": "1250-1268",
+"tier": "econ_field"
+},
+{
+"title": "How Nurture Activates Nature in Determining Savings Behavior: Evidence from China’s Send-Down Movement and Twins Data",
+"authors": [
+"Wenchao Li",
+"Junjian Yi",
+"Junsen Zhang"
+],
+"year": 2026,
+"venue": "Economic Journal",
+"status": "published",
+"doi": "10.1093/ej/ueag071",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1093/ej/ueag071",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economic-journal.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"tier": "econ_field"
+},
+{
+"title": "Time barrier to export for OECD countries",
+"authors": [
+"Wenchao Li"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2018.10.019",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.econlet.2018.10.019",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economics-letters.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "175",
+"pages": "106-112",
+"tier": "econ_field"
+},
+{
+"title": "Strategic parental investments in a competitive marriage market",
+"authors": [
+"V. Bhaskar",
+"Wenchao Li",
+"Junjian Yi"
+],
+"year": 2025,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2025.104958",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.euroecorev.2025.104958",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/european-economic-review.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "173",
+"pages": "104958",
+"tier": "econ_field"
+},
+{
+"title": "Retreating from risks: Household stock market participation in a protectionist era",
+"authors": [
+"Jie Li",
+"Wenchao Li"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107392",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2025.107392",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-banking-and-finance.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "172",
+"pages": "107392",
+"tier": "econ_field"
+},
+{
+"title": "The benefits of having an entrepreneur-mother: Influence of mother's entrepreneurial status on human capital formation among children",
+"authors": [
+"Wenchao Li",
+"Di Tong"
+],
+"year": 2023,
+"venue": "Journal of Business Venturing",
+"status": "published",
+"doi": "10.1016/j.jbusvent.2023.106329",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.jbusvent.2023.106329",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-venturing.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "38",
+"issue": "6",
+"pages": "106329",
+"tier": "business"
+},
+{
+"title": "The “miseries” of sex imbalance: Evidence using subjective well-being data",
+"authors": [
+"Wenchao Li"
+],
+"year": 2021,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2021.102634",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2021.102634",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-development-economics.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "151",
+"pages": "102634",
+"tier": "econ_field"
+},
+{
+"title": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+"authors": [
+"Wenchao Li",
+"Yifan Lin",
+"Junjian Yi",
+"Haochen Zhang"
+],
+"year": 2027,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103899",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103899",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-development-economics.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://sem.tongji.edu.cn/semen/28045.html"
+],
+"author_index": 0,
+"volume": "184",
+"pages": "103899",
+"tier": "econ_field"
+},
+{
+"title": "Highways to prosperity: Unlocking their potential through anti-poverty interventions",
+"authors": [
+"Wenchao Li",
+"Fangzhou Lian",
+"Ninghua Zhong"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.107261",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.jebo.2025.107261",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "239",
+"pages": "107261",
+"tier": "econ_field"
+},
+{
+"title": "High Sex Ratios and Household Portfolio Choice in China",
+"authors": [
+"Wenchao Li",
+"Changcheng Song",
+"Shu Xu",
+"Junjian Yi"
+],
+"year": 2022,
+"venue": "Journal of Human Resources",
+"status": "published",
+"doi": "10.3368/jhr.57.2.1217-9245r2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.3368/jhr.57.2.1217-9245r2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-human-resources.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "57",
+"issue": "2",
+"pages": "465-490",
+"tier": "econ_field"
+},
+{
+"title": "Unobserved Endowments and Gender Differences in Marriage Matching",
+"authors": [
+"Wenchao Li",
+"Xuyan Lou",
+"Junjian Yi",
+"Junsen Zhang"
+],
+"year": 2023,
+"venue": "Journal of Labor Economics",
+"status": "published",
+"doi": "10.1086/720762",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1086/720762",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-labor-economics.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "41",
+"issue": "4",
+"pages": "859-886",
+"tier": "econ_field"
+},
+{
+"title": "Multidimensional Premarital Investments with Imperfect Commitment",
+"authors": [
+"V. Bhaskar",
+"Wenchao Li",
+"Junjian Yi"
+],
+"year": 2023,
+"venue": "Journal of Political Economy",
+"status": "published",
+"doi": "10.1086/724574",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1086/724574",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-political-economy.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "131",
+"issue": "10",
+"pages": "2893-2919",
+"tier": "econ_top5"
+},
+{
+"title": "Do surging house prices discourage fertility? Global evidence, 1870–2012",
+"authors": [
+"Wenchao Li"
+],
+"year": 2024,
+"venue": "Labour Economics",
+"status": "published",
+"doi": "10.1016/j.labeco.2024.102572",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23469.html",
+"https://api.crossref.org/works/10.1016/j.labeco.2024.102572",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/labour-economics.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "90",
+"pages": "102572",
+"tier": "econ_field"
+}
+],
+"source_url": "https://sem.tongji.edu.cn/semen/23469.html"
+},
+"pid:li-xiangyong--tongji": {
+"name": "LI Xiangyong",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12268.html",
+"papers": []
+},
+"pid:yang-jie--tongji": {
+"name": "YANG Jie",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/23644.html",
+"papers": [
+{
+"title": "Dynamic Pricing and Service Fulfillment of Mobile Charging Systems With Stochastic Demands",
+"authors": [
+"Jie Yang",
+"Fang He",
+"Zuo-Jun Max Shen",
+"Xi Lin"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478241310212",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23644.html",
+"https://api.crossref.org/works/10.1177/10591478241310212"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "7",
+"pages": "2032-2049",
+"tier": "business"
+},
+{
+"title": "Mechanism Design for Stochastic Dynamic Parking Resource Allocation",
+"authors": [
+"Jie Yang",
+"Fang He",
+"Xi Lin",
+"Max Zuo‐Jun Shen"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13453",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/23644.html",
+"https://api.crossref.org/works/10.1111/poms.13453"
+],
+"author_index": 0,
+"volume": "30",
+"issue": "10",
+"pages": "3615-3634",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_d3d1e8e3773b58c7a8e5--tongji": {
+"name": "杨锐",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/44185.html",
+"papers": []
+},
+"pid:liang-zhe--tongji": {
+"name": "LIANG Zhe",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12411.html",
+"papers": []
+},
+"pid:cn-p_[redacted]e5f711916--tongji": {
+"name": "梁建",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/29853.html",
+"papers": []
+},
+"pid:duan-yongrui--tongji": {
+"name": "DUAN Yongrui",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12052.html",
+"papers": [
+{
+"title": "On empirically estimating bullwhip effects: Measurement, aggregation, and impact",
+"authors": [
+"Yuliang Yao",
+"Yongrui Duan",
+"Jiazhen Huo"
+],
+"year": 2021,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1002/joom.1090",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12052.html",
+"https://api.crossref.org/works/10.1002/joom.1090"
+],
+"author_index": 1,
+"volume": "67",
+"issue": "1",
+"pages": "5-30",
+"tier": "business"
+},
+{
+"title": "Ration Gaming and the Bullwhip Effect",
+"authors": [
+"Robert L. Bray",
+"Yuliang Yao",
+"Yongrui Duan",
+"Jiazhen Huo"
+],
+"year": 2019,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2018.1774",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12052.html",
+"https://api.crossref.org/works/10.1287/opre.2018.1774"
+],
+"author_index": 2,
+"tier": "business"
+},
+{
+"title": "Bullwhip effect under substitute products",
+"authors": [
+"Yongrui Duan",
+"Yuliang Yao",
+"Jiazhen Huo"
+],
+"year": 2015,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1016/j.jom.2015.03.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12052.html",
+"https://api.crossref.org/works/10.1016/j.jom.2015.03.002"
+],
+"author_index": 0,
+"volume": "36",
+"issue": "1",
+"pages": "75-89",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_78044587365082738031--tongji": {
+"name": "毛文峥",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/41582.html",
+"papers": []
+},
+"pid:wang-shujing--tongji": {
+"name": "WANG Shujing",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/35253.html",
+"papers": []
+},
+"pid:wang-xiaolei--tongji": {
+"name": "WANG Xiaolei",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/19466.html",
+"papers": []
+},
+"pid:quanmeng-wang--tongji": {
+"name": "Quanmeng Wang",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/27608.html",
+"papers": []
+},
+"pid:ruitong-wang--tongji": {
+"name": "Ruitong Wang",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/96/6a/c17222a169578/page.htm",
+"papers": []
+},
+"pid:mengmeng-wang--tongji": {
+"name": "Mengmeng Wang",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/1e/d3/c17222a335571/page.htm",
+"papers": [
+{
+"title": "When Persuasion Is Too Persuasive: An Empirical Analysis of Product Returns in Livestream e-Commerce",
+"authors": [
+"Xiaojing Feng",
+"Ying Rong",
+"Xin Tian",
+"Mengmeng Wang",
+"Yuliang Yao"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478231224949",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://aib.tongji.edu.cn/1e/d3/c17222a335571/page.htm",
+"https://journals.sagepub.com/doi/10.1177/10591478231224949",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 3,
+"volume": "34",
+"issue": "12",
+"pages": "3978-3997",
+"tier": "business"
+},
+{
+"title": "Order basket contents and consumer returns",
+"authors": [
+"Mengmeng Wang",
+"Guangzhi Shang",
+"Ying Rong",
+"Michael R. Galbreth"
+],
+"year": 2025,
+"venue": "Decision Sciences",
+"status": "published",
+"doi": "10.1111/deci.12625",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://aib.tongji.edu.cn/1e/d3/c17222a335571/page.htm",
+"https://onlinelibrary.wiley.com/doi/full/10.1111/deci.12625",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/decision-sciences.jsonl.gz"
+],
+"author_index": 0,
+"volume": "56",
+"issue": "2",
+"pages": "144-170",
+"tier": "business"
+}
+]
+},
+"pid:wang-yijie--tongji": {
+"name": "WANG Yijie",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/25412.html",
+"papers": []
+},
+"pid:longwei-tian--tongji": {
+"name": "Longwei Tian",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/f1/9a/c17222a192922/page.htm",
+"papers": [
+{
+"title": "Social movements and international business activities of firms",
+"authors": [
+"Longwei Tian",
+"Caleb H. Tse",
+"Xunyong Xiang",
+"Yuan Li",
+"Yigang Pan"
+],
+"year": 2021,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-021-00424-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://aib.tongji.edu.cn/f1/9a/c17222a192922/page.htm",
+"https://link.springer.com/article/10.1057/s41267-021-00424-3",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-international-business-studies.jsonl.gz"
+],
+"author_index": 0,
+"volume": "52",
+"issue": "6",
+"pages": "1200-1214",
+"tier": "business"
+}
+]
+},
+"pid:xiao-shuaiyong--tongji": {
+"name": "XIAO Shuaiyong",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/26215.html",
+"papers": [
+{
+"title": "Deep Chain-of-Preference: A Novel Deep Learning Method for Mixed-Grained Recommendation",
+"authors": [
+"Gang Chen",
+"Tan Cheng",
+"Jianxiong Wang",
+"Shuaiyong Xiao",
+"Huimin Zhao"
+],
+"year": 2026,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2025/19311",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/26215.html",
+"https://sem.tongji.edu.cn/semch/53609.html",
+"https://aisel.aisnet.org/misq/vol50/iss3/15/",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/mis-quarterly.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "50",
+"issue": "3",
+"pages": "1117-1156",
+"tier": "business"
+},
+{
+"title": "When Multimodal Interactions Impair Prediction: A Novel Regularized Deep Learning Strategy",
+"authors": [
+"Gang Chen",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "published",
+"doi": "10.1287/ijoc.2024.0794",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/26215.html",
+"https://sem.tongji.edu.cn/semch/53609.html",
+"https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0794",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "0",
+"issue": "0",
+"tier": "business"
+},
+{
+"title": "Attending to Customer Attention: A Novel Deep Learning Method for Leveraging Multimodal Online Reviews to Enhance Sales Prediction",
+"authors": [
+"Gang Chen",
+"Lihua Huang",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2024,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2021.0292",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/26215.html",
+"https://pubsonline.informs.org/doi/10.1287/isre.2021.0292",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/information-systems-research.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "35",
+"issue": "2",
+"pages": "829-849",
+"tier": "business"
+},
+{
+"title": "A Theory-Driven Deep Learning Method for Voice Chat-Based Customer Response Prediction",
+"authors": [
+"Gang Chen",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2023,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2022.1196",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/26215.html",
+"https://pubsonline.informs.org/doi/10.1287/isre.2022.1196",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/information-systems-research.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "34",
+"issue": "4",
+"pages": "1513-1532",
+"tier": "business"
+}
+]
+},
+"pid:yichuan-hu--tongji": {
+"name": "Yichuan Hu",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/46211.html",
+"papers": []
+},
+"pid:hu-yihong--tongji": {
+"name": "HU Yihong",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12071.html",
+"papers": [
+{
+"title": "Information Sharing and Personalized Pricing in Online Platforms",
+"authors": [
+"Yihong Hu",
+"Guo Li",
+"Mengqi Liu",
+"Shengnan Qu"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478231225178",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12071.html",
+"https://api.crossref.org/works/10.1177/10591478231225178"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "12",
+"pages": "3958-3977",
+"tier": "business"
+}
+]
+},
+"pid:hu-honggang--tongji": {
+"name": "HU Honggang",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/23571.html",
+"papers": []
+},
+"pid:hu-zhaolin--tongji": {
+"name": "HU Zhaolin",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12378.html",
+"papers": []
+},
+"pid:hu-wei--tongji": {
+"name": "HU Wei",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/23649.html",
+"papers": []
+},
+"pid:su-qiang--tongji": {
+"name": "SU Qiang",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12073.html",
+"papers": []
+},
+"pid:weiwei-fan--tongji": {
+"name": "Weiwei Fan",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/20650.html",
+"papers": []
+},
+"pid:cn-p_74a7f4b57a85ca42aaec--tongji": {
+"name": "蔡三发",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/15319.html",
+"papers": []
+},
+"pid:en-xie--tongji": {
+"name": "En Xie",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/96/74/c18707a169588/page.htm",
+"papers": [
+{
+"title": "What makes online content viral? The contingent effects of hub users versus non–hub users on social media platforms",
+"authors": [
+"Qingliang Wang",
+"Fred Miao",
+"Giri Kumar Tayi",
+"En Xie"
+],
+"year": 2019,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "published",
+"doi": "10.1007/s11747-019-00678-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://aib.tongji.edu.cn/96/74/c18707a169588/page.htm",
+"https://link.springer.com/article/10.1007/s11747-019-00678-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-the-academy-of-marketing-science.jsonl.gz"
+],
+"author_index": 3,
+"volume": "47",
+"issue": "6",
+"pages": "1005-1026",
+"tier": "business"
+}
+]
+},
+"pid:ye-qiu--tongji": {
+"name": "Ye Qiu",
+"verified_only": true,
+"source_url": "https://aib.tongji.edu.cn/96/66/c18705a169574/page.htm",
+"papers": []
+},
+"pid:shuai-shao--tongji": {
+"name": "Shuai Shao",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/52874.html",
+"papers": [
+{
+"title": "Environmental protection experience of secretaries and effectiveness of environmental governance: Evidence from COD discharge in China",
+"authors": [
+"Shuai Shao",
+"Zhenbing Yang",
+"Le Xu",
+"Lili Yang"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.02.026",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semch/52874.html",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.02.026",
+"https://ideas.repec.org/f/psh958.html",
+"https://person.zju.edu.cn/shuaishao"
+],
+"author_index": 0,
+"volume": "220",
+"pages": "237-253",
+"tier": "econ_field"
+},
+{
+"title": "Environmental Performance and Regulation Effect of China’s Atmospheric Pollutant Emissions: Evidence from “Three Regions and Ten Urban Agglomerations”",
+"authors": [
+"Zhuang Miao",
+"Tomas Baležentis",
+"Zhihua Tian",
+"Shuai Shao",
+"Yong Geng",
+"Rui Wu"
+],
+"year": 2019,
+"venue": "Environmental and Resource Economics",
+"status": "published",
+"doi": "10.1007/s10640-018-00315-6",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semch/52874.html",
+"https://api.crossref.org/works/10.1007/s10640-018-00315-6",
+"https://ideas.repec.org/f/psh958.html",
+"https://person.zju.edu.cn/shuaishao"
+],
+"author_index": 3,
+"volume": "74",
+"issue": "1",
+"pages": "211-242",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-xiaojin--tongji": {
+"name": "ZHENG Xiaojin",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12387.html",
+"papers": []
+},
+"pid:guo-siqi--tongji": {
+"name": "GUO Siqi",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/55374.html",
+"papers": [
+{
+"title": "Nested Set-Covering/Packing Problem: Degeneracy Alleviation and Dual Stabilization",
+"authors": [
+"Siqi Guo",
+"Fan Xiao",
+"Zhe Liang"
+],
+"year": 2025,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2024.0720",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semch/55374.html",
+"https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.0720",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "73",
+"issue": "6",
+"pages": "2886-2913",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_20fbb88c6fa26d13f146--tongji": {
+"name": "钟宁桦",
+"verified_only": true,
+"source_url": "https://news.tongji.edu.cn/info/1003/44317.htm",
+"papers": []
+},
+"pid:bingjie-qian--tongji": {
+"name": "Bingjie Qian",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/25991.html",
+"papers": []
+},
+"pid:yan-zhenbin--tongji": {
+"name": "YAN Zhenbin",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/23046.html",
+"papers": []
+},
+"pid:yang-lu--tongji": {
+"name": "Yang Lu",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/27799.html",
+"papers": [
+{
+"title": "Product Information Display Optimization with Quality Uncertainty and Returns",
+"authors": [
+"Yang Lu",
+"Ruxian Wang",
+"Xiaoming Yan",
+"Yugang Yu"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2024.1147",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/27799.html",
+"https://pubsonline.informs.org/doi/10.1287/msom.2024.1147",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/manufacturing-service-operations-management.jsonl.gz"
+],
+"author_index": 0,
+"volume": "28",
+"issue": "4",
+"pages": "1227-1247",
+"tier": "business"
+},
+{
+"title": "Multiproduct Dynamic Pricing With Popularity Bias",
+"authors": [
+"Yang Lu",
+"Xiaoming Yan",
+"Yugang Yu"
+],
+"year": 2026,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478261424035",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/27799.html",
+"https://journals.sagepub.com/doi/10.1177/10591478261424035",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 0,
+"volume": "35",
+"issue": "8",
+"pages": "3139-3159",
+"tier": "business"
+}
+]
+},
+"pid:chen-du--tongji": {
+"name": "CHEN Du",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/28017.html",
+"papers": []
+},
+"pid:huo-jiazhen--tongji": {
+"name": "HUO Jiazhen",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/12093.html",
+"papers": [
+{
+"title": "On empirically estimating bullwhip effects: Measurement, aggregation, and impact",
+"authors": [
+"Yuliang Yao",
+"Yongrui Duan",
+"Jiazhen Huo"
+],
+"year": 2021,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1002/joom.1090",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12093.html",
+"https://api.crossref.org/works/10.1002/joom.1090"
+],
+"author_index": 2,
+"volume": "67",
+"issue": "1",
+"pages": "5-30",
+"tier": "business"
+},
+{
+"title": "Ration Gaming and the Bullwhip Effect",
+"authors": [
+"Robert L. Bray",
+"Yuliang Yao",
+"Yongrui Duan",
+"Jiazhen Huo"
+],
+"year": 2019,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2018.1774",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12093.html",
+"https://api.crossref.org/works/10.1287/opre.2018.1774"
+],
+"author_index": 3,
+"tier": "business"
+},
+{
+"title": "Bullwhip effect under substitute products",
+"authors": [
+"Yongrui Duan",
+"Yuliang Yao",
+"Jiazhen Huo"
+],
+"year": 2015,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1016/j.jom.2015.03.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sem.tongji.edu.cn/semen/12093.html",
+"https://api.crossref.org/works/10.1016/j.jom.2015.03.002"
+],
+"author_index": 2,
+"volume": "36",
+"issue": "1",
+"pages": "75-89",
+"tier": "business"
+}
+]
+},
+"pid:han-zheng--tongji": {
+"name": "HAN Zheng",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semch/15365.html",
+"papers": []
+},
+"pid:keji-wei--tongji": {
+"name": "Keji Wei",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/26245.html",
+"papers": []
+},
+"pid:huang-guanwei--tongji": {
+"name": "HUANG Guanwei",
+"verified_only": true,
+"source_url": "https://sem.tongji.edu.cn/semen/20786.html",
+"papers": []
+}
+}

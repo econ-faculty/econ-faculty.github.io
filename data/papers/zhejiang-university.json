@@ -1,0 +1,1929 @@
+{
+"pid:binlei-gong--zju": {
+"name": "Binlei Gong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/gbl",
+"papers": []
+},
+"pid:fulan-wu--zju": {
+"name": "Fulan Wu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0013201",
+"papers": []
+},
+"pid:huihua-xie--zju": {
+"name": "Huihua Xie",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/huihuaxie",
+"papers": []
+},
+"pid:jomel-ng--zju": {
+"name": "Jomel NG",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0625/c81819a2939259/page.htm",
+"papers": []
+},
+"pid:rachel-q-zhang--zju": {
+"name": "Rachel Q. Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/rachelqzhang",
+"papers": []
+},
+"pid:sheikh-fayaz-ahmad--zju": {
+"name": "Sheikh Fayaz Ahmad",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0625/c81819a2939198/page.htm",
+"papers": []
+},
+"pid:simon-charles-collinson--zju": {
+"name": "Simon Charles Collinson",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0024105",
+"papers": []
+},
+"pid:steven-james-day--zju": {
+"name": "Steven James Day",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/0621323#0",
+"papers": []
+},
+"pid:jin-yan--zju": {
+"name": "Jin Yan",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yanjin",
+"papers": [
+{
+"title": "How virtue, competence, and dominance conjointly shape status attainment at work: Integrating person-centered and variable-centered approaches.",
+"authors": [
+"Feng Bai",
+"Katrina Jia Lin",
+"Jin Yan",
+"Huisi (Jessica) Li"
+],
+"year": 2024,
+"venue": "Journal of Personality and Social Psychology",
+"status": "published",
+"doi": "10.1037/pspa0000403",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/yanjin",
+"https://api.crossref.org/works/10.1037/pspa0000403",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "127",
+"issue": "6",
+"pages": "1172-1188",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_fb887edc3240367abc5c--zju": {
+"name": "乐君杰",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/lejunjie",
+"papers": []
+},
+"pid:linhui-yu--zju": {
+"name": "Linhui Yu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/lhyu",
+"papers": []
+},
+"pid:yu-lu--zju": {
+"name": "Yu Lu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/luyu2019",
+"papers": []
+},
+"pid:cn-p_588ebc4dade3e02cbdfe--zju": {
+"name": "俞彬",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0015103",
+"papers": []
+},
+"pid:siwei-fu--zju": {
+"name": "Siwei Fu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/siwei",
+"papers": []
+},
+"pid:cn-p_242acfcde98f52f85236--zju": {
+"name": "刘丝雨",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0626/c81819a3065058/page.htm",
+"papers": []
+},
+"pid:ziheng-liu--zju": {
+"name": "Ziheng Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0025134",
+"papers": []
+},
+"pid:ziming-liu--zju": {
+"name": "Ziming Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/liuziming",
+"papers": []
+},
+"pid:jingjiang-liu--zju": {
+"name": "Jingjiang Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0004479",
+"papers": [
+{
+"title": "Out of the shadow? The effect of high‐status employee departure on the performance of staying coworkers in financial brokerage firms",
+"authors": [
+"Pengfei Wang",
+"Jianhao Hu",
+"Jingjiang Liu"
+],
+"year": 2024,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.22201",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/0004479",
+"https://api.crossref.org/works/10.1002/hrm.22201",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "63",
+"issue": "2",
+"pages": "293-312",
+"tier": "business"
+}
+]
+},
+"pid:kevin-zhengcheng-liu--zju": {
+"name": "Kevin Zhengcheng Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhengchengliu",
+"papers": []
+},
+"pid:yang-liu--zju": {
+"name": "Yang Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yangliusom",
+"papers": [
+{
+"title": "Signaling Effects of CSR Performance on Cross-border Alliance Formation",
+"authors": [
+"Ding Wang",
+"Jiang Wei",
+"Niels Noorderhaven",
+"Yang Liu"
+],
+"year": 2023,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-023-05432-x",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/yangliusom",
+"https://pub.orcid.org/v3.0/0000-0002-3232-8524/record",
+"https://person.zju.edu.cn/yangliusom/897789.html",
+"https://api.crossref.org/works/10.1007%2Fs10551-023-05432-x"
+],
+"author_index": 3,
+"volume": "186",
+"issue": "4",
+"pages": "831-850",
+"tier": "business"
+}
+]
+},
+"pid:tao-liu--zju": {
+"name": "Tao Liu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/liut1975",
+"papers": []
+},
+"pid:cn-p_ffd59acbf458d66b1cb9--zju": {
+"name": "刘璐",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/liulu",
+"papers": []
+},
+"pid:zhongsheng-hua--zju": {
+"name": "Zhongsheng Hua",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zshua",
+"papers": [
+{
+"title": "The configuration between supply chain integration and information technology competency: A resource orchestration perspective",
+"authors": [
+"Hefu Liu",
+"Shaobo Wei",
+"Weiling Ke",
+"Kwok Kee Wei",
+"Zhongsheng Hua"
+],
+"year": 2016,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1016/j.jom.2016.03.009",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/zshua",
+"https://api.crossref.org/works/10.1016/j.jom.2016.03.009",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "44",
+"issue": "1",
+"pages": "13-29",
+"tier": "business"
+}
+]
+},
+"pid:shenghua-lu--zju": {
+"name": "Shenghua Lu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/lushenghua",
+"papers": []
+},
+"pid:xinjie-shi--zju": {
+"name": "Xinjie Shi",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/xjshi",
+"papers": []
+},
+"pid:cn-p_d16a52f9f9198111e28c--zju": {
+"name": "叶兵",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yebing",
+"papers": []
+},
+"pid:zhiqiang-ye--zju": {
+"name": "Zhiqiang Ye",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0024091",
+"papers": []
+},
+"pid:cn-p_8f9139cba4be622b80e7--zju": {
+"name": "叶顺",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shunye",
+"papers": []
+},
+"pid:ruichao-si--zju": {
+"name": "Ruichao Si",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0025198",
+"papers": []
+},
+"pid:cn-p_50e9070e59ed104d55dd--zju": {
+"name": "吕文晶",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wjlyu",
+"papers": []
+},
+"pid:cn-p_f8b66d4cd527d23a4b8b--zju": {
+"name": "吴东",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wudong",
+"papers": []
+},
+"pid:cn-p_a8a41d3f1eae87971b23--zju": {
+"name": "吴依",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/avayiwu",
+"papers": []
+},
+"pid:xuekang-wu--zju": {
+"name": "Xuekang Wu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0026076",
+"papers": []
+},
+"pid:yz-wu--zju": {
+"name": "YZ Wu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wuyuzhe",
+"papers": []
+},
+"pid:zhiyan-wu--zju": {
+"name": "Zhiyan Wu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0025360#0",
+"papers": []
+},
+"pid:cn-p_a2a7ec703b83558a1500--zju": {
+"name": "吴晓波",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/xbwu",
+"papers": []
+},
+"pid:cn-p_c6dfc1f0bccf89565daf--zju": {
+"name": "吴苏青",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wu_suqing",
+"papers": []
+},
+"pid:cn-p_e77905e71f3181ddb342--zju": {
+"name": "吴茂英",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/maoyingwu",
+"papers": []
+},
+"pid:cn-p_9ef9bd925f7e825f8a58--zju": {
+"name": "吴薇",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0025107",
+"papers": []
+},
+"pid:cn-p_ffefd0d0a7b232861ccb--zju": {
+"name": "周伟华",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/whzhou",
+"papers": []
+},
+"pid:cn-p_a92e31e289aff8cef956--zju": {
+"name": "周宏庚",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0012111",
+"papers": []
+},
+"pid:cn-p_0b80ccb741e2189d12e1--zju": {
+"name": "周戈",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/flzhou",
+"papers": []
+},
+"pid:jiehong-zhou--zju": {
+"name": "Jiehong Zhou",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zjh",
+"papers": [
+{
+"title": "Testing at the Source: Analytics-Enabled Risk-Based Sampling of Food Supply Chains in China",
+"authors": [
+"Cangyu Jin",
+"Retsef Levi",
+"Qiao Liang",
+"Nicholas Renegar",
+"Stacy Springs",
+"Jiehong Zhou",
+"Weihua Zhou"
+],
+"year": 2021,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2020.3839",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/zjh",
+"https://idam.zju.edu.cn/newsinfo.php?cid=30&id=280",
+"https://idam.zju.edu.cn/newsinfo.php?cid=30&id=248",
+"https://api.crossref.org/works/10.1287/mnsc.2020.3839",
+"https://www.zjujournals.com/soc/article/2020/1008-942X-50-3-29.html"
+],
+"author_index": 5,
+"volume": "67",
+"issue": "5",
+"pages": "2985-2996",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_3242bdae495adf342e76--zju": {
+"name": "周舟",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhouzhou2026",
+"papers": []
+},
+"pid:zhouzhou--zju": {
+"name": "ZHOUZHOU",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0025076",
+"papers": []
+},
+"pid:mohan-zhou--zju": {
+"name": "Mohan Zhou",
+"verified_only": true,
+"source_url": "http://person.zju.edu.cn/mohanzhou",
+"papers": []
+},
+"pid:cn-p_eaddf1694bd171e64138--zju": {
+"name": "孙怡夏",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0016031",
+"papers": []
+},
+"pid:cn-p_9386bddfec40bd0d51d4--zju": {
+"name": "孙文光",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wgsun",
+"papers": []
+},
+"pid:chen-ji--zju": {
+"name": "Chen Ji",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zjujichen",
+"papers": []
+},
+"pid:cn-p_e00d038bfc33e0658894--zju": {
+"name": "宋华盛",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/huashengsong",
+"papers": []
+},
+"pid:haotian-song--zju": {
+"name": "Haotian Song",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/hasong",
+"papers": []
+},
+"pid:cn-p_d8e1d85c232f8a3ebfb1--zju": {
+"name": "寿涌毅",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yshou",
+"papers": []
+},
+"pid:cn-p_d02746d712fae3c23bd7--zju": {
+"name": "崔政",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/cuizheng",
+"papers": []
+},
+"pid:yifan-cui--zju": {
+"name": "Yifan Cui",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/cuiyf",
+"papers": []
+},
+"pid:cn-p_6eeab55bb89b409e4491--zju": {
+"name": "左红",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zuohong",
+"papers": []
+},
+"pid:cn-p_f4e427c685a555b8271f--zju": {
+"name": "康笛",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/kangdi",
+"papers": []
+},
+"pid:cn-p_cf85ec76a485763a656f--zju": {
+"name": "张伟",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0023153#0",
+"papers": []
+},
+"pid:hongliang-zhang--zju": {
+"name": "Hongliang Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/hongliangzhang",
+"papers": []
+},
+"pid:xiaoqian-zhang--zju": {
+"name": "Xiaoqian Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zxq",
+"papers": []
+},
+"pid:cn-p_8f5979429c22603e5756--zju": {
+"name": "张川川",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhangchuanchuan",
+"papers": [
+{
+"title": "The Power of Social Pensions: Evidence from China's New Rural Pension Scheme",
+"authors": [
+"Wei Huang",
+"Chuanchuan Zhang"
+],
+"year": 2021,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published",
+"doi": "10.1257/app.20170789",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/zhangchuanchuan",
+"http://www.cec.zju.edu.cn/fjs/list2.htm",
+"https://www.aeaweb.org/articles?id=10.1257/app.20170789"
+],
+"volume": "13",
+"issue": "2",
+"pages": "179-205",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-zhang--zju": {
+"name": "Zheng Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhengzhang",
+"papers": []
+},
+"pid:cn-p_0941ab9101dc68956340--zju": {
+"name": "张文章",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wzhang",
+"papers": []
+},
+"pid:haifeng-zhang--zju": {
+"name": "Haifeng Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/hfzhang",
+"papers": [
+{
+"title": "Do tournament incentives matter in academics? Evidence from personnel data in a top-tier university in China",
+"authors": [
+"Haifeng Zhang",
+"Junsen Zhang",
+"Yanfeng Zhang"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2019.08.018",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/hfzhang",
+"https://research.cuhk.edu.hk/en/publications/do-tournament-incentives-matter-in-academics-evidence-from-person-2/",
+"https://api.crossref.org/works/10.1016/j.jebo.2019.08.018",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "166",
+"pages": "84-106",
+"tier": "econ_field"
+}
+]
+},
+"pid:haochen-zhang--zju": {
+"name": "Haochen Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhanghaochen",
+"papers": [
+{
+"title": "Number one girl: Female top scorers and peer academic performance in junior high schools",
+"authors": [
+"Xuezheng Qin",
+"Yingfei Wang",
+"Haochen Zhang"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103801",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://haochenzhang.weebly.com/research.html",
+"https://person.zju.edu.cn/zhanghaochen",
+"https://haochenzhang.weebly.com/cv.html",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103801",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "182",
+"pages": "103801",
+"tier": "econ_field"
+}
+]
+},
+"pid:lei-zhang--zju": {
+"name": "Lei Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0023326",
+"papers": []
+},
+"pid:zibin-zhang--zju": {
+"name": "Zibin Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/ZhangZibin",
+"papers": []
+},
+"pid:cn-p_d024364ce88df98bf6c2--zju": {
+"name": "张荃",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0026002",
+"papers": []
+},
+"pid:xianchun-zhang--zju": {
+"name": "Xianchun Zhang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0020178",
+"papers": []
+},
+"pid:cn-p_2615801891edff23239b--zju": {
+"name": "彭希羡",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/pengxx",
+"papers": []
+},
+"pid:kai-xu--zju": {
+"name": "Kai Xu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/kaixu",
+"papers": []
+},
+"pid:weidong-xu--zju": {
+"name": "Weidong Xu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/xuweidong",
+"papers": [
+{
+"title": "Investor–firm interactions and corporate investment efficiency: Evidence from China",
+"authors": [
+"Weidong Xu",
+"Zijun Luo",
+"Donghui Li"
+],
+"year": 2024,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2024.102539",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/xuweidong",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2024.102539"
+],
+"author_index": 0,
+"volume": "84",
+"pages": "102539",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_1ee7aa2f89e04044318b--zju": {
+"name": "房俨然",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0021128#0",
+"papers": []
+},
+"pid:cn-p_624dda4d0daeba8e4fb9--zju": {
+"name": "文武",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0624/c81819a2938880/page.htm",
+"papers": []
+},
+"pid:kai-fang--zju": {
+"name": "Kai Fang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/fangkai",
+"papers": []
+},
+"pid:junqi-shi--zju": {
+"name": "Junqi Shi",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0020044",
+"papers": [
+{
+"title": "The Voice Link: A Moderated Mediation Model of How Ethical Leadership Affects Individual Task Performance",
+"authors": [
+"Shenjiang Mo",
+"Junqi Shi"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3332-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/0020044",
+"https://api.crossref.org/works/10.1007/s10551-016-3332-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "152",
+"issue": "1",
+"pages": "91-101",
+"tier": "business"
+}
+]
+},
+"pid:fujin-yi--zju": {
+"name": "Fujin Yi",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yifujin",
+"papers": []
+},
+"pid:yanping-yi--zju": {
+"name": "Yanping Yi",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yanping_yi",
+"papers": []
+},
+"pid:cn-p_7d8c16846e1e5e388f74--zju": {
+"name": "曹仔科",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/caozike",
+"papers": []
+},
+"pid:albert-tsang--zju": {
+"name": "Albert Tsang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0026001#0",
+"papers": []
+},
+"pid:tao-zeng--zju": {
+"name": "Tao Zeng",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/tzeng/",
+"papers": []
+},
+"pid:xiwei-zhu--zju": {
+"name": "Xiwei Zhu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0005124",
+"papers": [
+{
+"title": "DOES TECHNOLOGICAL PROGRESS MAGNIFY REGIONAL DISPARITIES?",
+"authors": [
+"Takatoshi Tabuchi",
+"Jacques-François Thisse",
+"Xiwei Zhu"
+],
+"year": 2018,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.12283",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/0005124",
+"https://onlinelibrary.wiley.com/doi/10.1111/iere.12283",
+"https://rwsk.zju.edu.cn/_upload/article/files/9d/10/75b421074e04b84280b644c26427/c12f18b6-237a-4193-a67f-3c5e3a2b6695.pdf",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "59",
+"issue": "2",
+"pages": "647-663",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhitao-zhu--zju": {
+"name": "Zhitao Zhu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhitaozhu",
+"papers": []
+},
+"pid:cn-p_958932c2bac04ad9348e--zju": {
+"name": "朱正航",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0023006",
+"papers": []
+},
+"pid:yanjian-zhu--zju": {
+"name": "Yanjian Zhu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhuyanjian",
+"papers": []
+},
+"pid:cn-p_0ccd759680e885947ad0--zju": {
+"name": "朱禹衡",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0025132#0",
+"papers": []
+},
+"pid:pei-li--zju": {
+"name": "Pei Li",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/lp",
+"papers": [
+{
+"title": "Water Pollution Progress at Borders: The Role of Changes in China's Political Promotion Incentives",
+"authors": [
+"Matthew E. Kahn",
+"Pei Li",
+"Daxuan Zhao"
+],
+"year": 2015,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published",
+"doi": "10.1257/pol.20130367",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/lp",
+"https://api.crossref.org/works/10.1257/pol.20130367",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "7",
+"issue": "4",
+"pages": "223-242",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_4c67b5c9c0f5438379d9--zju": {
+"name": "李源",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0025018",
+"papers": []
+},
+"pid:yingzhu-li--zju": {
+"name": "Yingzhu Li",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/li_yingzhu",
+"papers": []
+},
+"pid:limin-du--zju": {
+"name": "Limin Du",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/du_limin",
+"papers": [
+{
+"title": "Marginal Abatement Costs of Carbon Dioxide Emissions in China: A Parametric Analysis",
+"authors": [
+"Limin Du",
+"Aoife Hanley",
+"Chu Wei"
+],
+"year": 2015,
+"venue": "Environmental and Resource Economics",
+"status": "published",
+"doi": "10.1007/s10640-014-9789-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/du_limin",
+"https://link.springer.com/article/10.1007/s10640-014-9789-5",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "61",
+"issue": "2",
+"pages": "191-216",
+"tier": "econ_field"
+}
+]
+},
+"pid:yixin-yang--zju": {
+"name": "Yixin Yang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yxyang",
+"papers": []
+},
+"pid:siqiang-yang--zju": {
+"name": "Siqiang Yang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/siqiangyang",
+"papers": []
+},
+"pid:chen-yang--zju": {
+"name": "Chen Yang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0025019",
+"papers": []
+},
+"pid:cn-p_4f5edc09d3f6d4855728--zju": {
+"name": "杨浙帅",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yangzheshuai",
+"papers": []
+},
+"pid:cn-p_7f4d04733f6f0efb2e2e--zju": {
+"name": "杨翼",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yangyich",
+"papers": []
+},
+"pid:cn-p_3f008f8ac7d2be5d9baa--zju": {
+"name": "林珊珊",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shanshanlin",
+"papers": []
+},
+"pid:wen-lin--zju": {
+"name": "Wen Lin",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wenlin",
+"papers": []
+},
+"pid:rongzhu-ke--zju": {
+"name": "Rongzhu Ke",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/rzke455?fulltext=柯荣住",
+"papers": []
+},
+"pid:yousha-liang--zju": {
+"name": "Yousha Liang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/ysliang",
+"papers": []
+},
+"pid:qiao-liang--zju": {
+"name": "Qiao Liang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/liangqiao",
+"papers": []
+},
+"pid:jijian-fan--zju": {
+"name": "Jijian Fan",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/jfan",
+"papers": []
+},
+"pid:miaojun-wang--zju": {
+"name": "Miaojun Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/mervijun",
+"papers": []
+},
+"pid:xiaoxi-wang--zju": {
+"name": "Xiaoxi Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/xiaoxi_wang",
+"papers": []
+},
+"pid:lei-wang--zju": {
+"name": "Lei Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wanglei",
+"papers": [
+{
+"title": "Uppercase Premium Effect: The Role of Brand Letter Case in Brand Premiumness",
+"authors": [
+"Yining Yu",
+"Xinyue Zhou",
+"Lei Wang",
+"Qiuzhen Wang"
+],
+"year": 2022,
+"venue": "Journal of Retailing",
+"status": "published",
+"doi": "10.1016/j.jretai.2021.03.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/wanglei",
+"https://api.crossref.org/works/10.1016/j.jretai.2021.03.002",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "98",
+"issue": "2",
+"pages": "335-355",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_0a70a6c9adae75c985e5--zju": {
+"name": "汪韬",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/taowang",
+"papers": []
+},
+"pid:wei-shen--zju": {
+"name": "Wei Shen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/erikshen",
+"papers": []
+},
+"pid:rui-shen--zju": {
+"name": "Rui Shen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shenrui",
+"papers": [
+{
+"title": "Distinctiveness from whom? Evaluation of startups' distinctiveness from multiple referents in angel investment platforms",
+"authors": [
+"Rui Shen",
+"Hong Zhang",
+"Weiguo Zhong",
+"Jiangyong Lu"
+],
+"year": 2025,
+"venue": "Strategic Entrepreneurship Journal",
+"status": "published",
+"doi": "10.1002/sej.1521",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/shenrui",
+"https://api.crossref.org/works/10.1002/sej.1521",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "19",
+"issue": "1",
+"pages": "171-195",
+"tier": "business"
+}
+]
+},
+"pid:zhouxiang-shen--zju": {
+"name": "Zhouxiang Shen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/shenzhouxiang",
+"papers": []
+},
+"pid:mingzhou-shen--zju": {
+"name": "Mingzhou Shen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/mingzhoushen",
+"papers": [
+{
+"title": "Impacts of Water-Related Building Moratoria on California’s Housing Crisis",
+"authors": [
+"Mingzhou Shen",
+"Karen Fisher-Vanden",
+"Douglas H. Wrenn"
+],
+"year": 2025,
+"venue": "Land Economics",
+"status": "published",
+"doi": "10.3368/le.101.1.112023-0122r",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://mingzhoushen.github.io/Research/",
+"https://mingzhoushen.github.io/CV.pdf",
+"https://person.zju.edu.cn/mingzhoushen"
+],
+"author_index": 0,
+"volume": "101",
+"issue": "1",
+"pages": "53-70",
+"tier": "econ_field"
+}
+]
+},
+"pid:xin-hong--zju": {
+"name": "Xin Hong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/hongxin",
+"papers": []
+},
+"pid:shiyuan-pan--zju": {
+"name": "Shiyuan Pan",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/pan",
+"papers": [
+{
+"title": "PATENTABILITY, R&D DIRECTION, AND CUMULATIVE INNOVATION",
+"authors": [
+"Yongmin Chen",
+"Shiyuan Pan",
+"Tianle Zhang"
+],
+"year": 2018,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.12326",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/pan",
+"https://onlinelibrary.wiley.com/doi/10.1111/iere.12326",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "59",
+"issue": "4",
+"pages": "1969-1993",
+"tier": "econ_field"
+}
+]
+},
+"pid:yanyan-xiong--zju": {
+"name": "Yanyan Xiong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yxiong",
+"papers": []
+},
+"pid:cn-p_8de9e3320a964de176d8--zju": {
+"name": "王一苇",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0624/c81819a2938898/page.htm",
+"papers": []
+},
+"pid:cn-p_7fdfbe1bea70db3979cc--zju": {
+"name": "王丽丽",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0012015",
+"papers": []
+},
+"pid:yizhong-wang--zju": {
+"name": "Yizhong Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wyz",
+"papers": [
+{
+"title": "The real effect of monetary policy under uncertainty: Evidence from the change in corporate financing purposes",
+"authors": [
+"Jiajun Lu",
+"Linying Lv",
+"Yizhong Wang",
+"Yueteng Zhu"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107381",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/wyz",
+"https://xyh.zjgsu.edu.cn/cnt/detail.jsp?id=673",
+"https://www.zjucce.zju.edu.cn/zh-cn/shizililiang/132466.html",
+"https://person.zju.edu.cn/en/0008282",
+"https://ideas.repec.org/a/eee/jbfina/v172y2025ics0378426625000020.html",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2025.107381",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "172",
+"pages": "107381",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_aa57e5ccc9e81d83f3e8--zju": {
+"name": "王化",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0624/c81819a2938952/page.htm",
+"papers": []
+},
+"pid:xiaoyi-wang--zju": {
+"name": "Xiaoyi Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wangxiaoyi",
+"papers": []
+},
+"pid:cn-p_b740afc7b504446c2703--zju": {
+"name": "王政",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wangzheng211",
+"papers": []
+},
+"pid:cn-p_a6065e269ac2273f7bc7--zju": {
+"name": "王文明",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wmwang",
+"papers": []
+},
+"pid:mingzheng-wang--zju": {
+"name": "Mingzheng Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wangmingzheng",
+"papers": [
+{
+"title": "Analyzing Consumer Footprints on E-Commerce Platforms: A Multichannel Sequential Search Model with Reference Price",
+"authors": [
+"Hao Zhang",
+"Zhiling Guo",
+"Junming Liu",
+"Mingzheng Wang"
+],
+"year": 2026,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2024.0991",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/wangmingzheng",
+"https://api.crossref.org/works/10.1287/isre.2024.0991"
+],
+"author_index": 3,
+"volume": "37",
+"issue": "3",
+"pages": "1706-1724",
+"tier": "business"
+},
+{
+"title": "Impacts of Distributive Comparison Behavior on Corporate Social Responsibility in Supply Chains: The Role of Small Firms",
+"authors": [
+"Mingzheng Wang",
+"Xin Fang",
+"Zizhuo Wang",
+"Ying-ju Chen"
+],
+"year": 2023,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2022.1172",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/wangmingzheng",
+"https://api.crossref.org/works/10.1287/msom.2022.1172"
+],
+"author_index": 0,
+"volume": "25",
+"issue": "2",
+"pages": "686-703",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_8809def515b97ba288cc--zju": {
+"name": "王琤",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0624/c81819a2938953/page.htm",
+"papers": []
+},
+"pid:song-wang--zju": {
+"name": "Song Wang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/wasofei",
+"papers": [
+{
+"title": "Bridge Supervision: Correlates of a Boss on the Far Side of a Structural Hole",
+"authors": [
+"Ronald S. Burt",
+"Song Wang"
+],
+"year": 2022,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2021.0676",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/wasofei",
+"https://api.crossref.org/works/10.5465/amj.2021.0676"
+],
+"author_index": 1,
+"volume": "65",
+"issue": "6",
+"pages": "1835-1863",
+"tier": "business"
+}
+]
+},
+"pid:yan-bai--zju": {
+"name": "Yan Bai",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yanbai",
+"papers": []
+},
+"pid:cn-p_94efd67af59836f86807--zju": {
+"name": "盛峰",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/fengsheng",
+"papers": []
+},
+"pid:cn-p_d620a159587c5e89dfd2--zju": {
+"name": "瞿文光",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/quwg",
+"papers": []
+},
+"pid:minjun-shi--zju": {
+"name": "Minjun Shi",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/mjshi",
+"papers": []
+},
+"pid:jin-seung-wook--zju": {
+"name": "Jin Seung Wook",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/swjin#0",
+"papers": []
+},
+"pid:junsheng-dou--zju": {
+"name": "Junsheng Dou",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/jason",
+"papers": [
+{
+"title": "When Does Family Ownership Promote Proactive Environmental Strategy? The Role of the Firm’s Long-Term Orientation",
+"authors": [
+"Junsheng Dou",
+"Emma Su",
+"Song Wang"
+],
+"year": 2019,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-017-3642-z",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/jason",
+"https://api.crossref.org/works/10.1007/s10551-017-3642-z",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "158",
+"issue": "1",
+"pages": "81-95",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_452b702dcab4fa17faa6--zju": {
+"name": "章重远",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0010021",
+"papers": []
+},
+"pid:yu-tong--zju": {
+"name": "Yu Tong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/tongyu",
+"papers": []
+},
+"pid:cn-p_51ddb7fbdbd42262df96--zju": {
+"name": "罗怡宁",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yluo",
+"papers": []
+},
+"pid:cn-p_845e40f1ed929df2fe6b--zju": {
+"name": "罗玲利",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0625/c81819a3008337/page.htm",
+"papers": []
+},
+"pid:cn-p_37b7b2f109fe6c596d49--zju": {
+"name": "耿新",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0529/c81819a2924734/page.htm",
+"papers": []
+},
+"pid:qiongjing-hu--zju": {
+"name": "Qiongjing Hu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/qjhu",
+"papers": [
+{
+"title": "The Short-lived Benefits of Abusive Supervisory Behavior for Actors: An Investigation of Recovery and Work Engagement",
+"authors": [
+"Xin Qin",
+"Mingpeng Huang",
+"Russell E. Johnson",
+"Qiongjing Hu",
+"Dong Ju"
+],
+"year": 2018,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2016.1325",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/qjhu",
+"https://api.crossref.org/works/10.5465/amj.2016.1325",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "61",
+"issue": "5",
+"pages": "1951-1975",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_8b53cb77a567b2221b43--zju": {
+"name": "苏夏韧",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0625/c81819a2939191/page.htm",
+"papers": []
+},
+"pid:shenjiang-mo--zju": {
+"name": "Shenjiang Mo",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/moshenjiang",
+"papers": [
+{
+"title": "The Voice Link: A Moderated Mediation Model of How Ethical Leadership Affects Individual Task Performance",
+"authors": [
+"Shenjiang Mo",
+"Junqi Shi"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3332-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/moshenjiang",
+"https://api.crossref.org/works/10.1007/s10551-016-3332-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "152",
+"issue": "1",
+"pages": "91-101",
+"tier": "business"
+}
+]
+},
+"pid:ying-ge--zju": {
+"name": "Ying Ge",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/yingge",
+"papers": []
+},
+"pid:cn-p_bba325590eb013bf7962--zju": {
+"name": "董望",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/dongwang",
+"papers": [
+{
+"title": "Social Trust and Corporate Misconduct: Evidence from China",
+"authors": [
+"Wang Dong",
+"Hongling Han",
+"Yun Ke",
+"Kam C. Chan"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3234-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/dongwang",
+"https://api.crossref.org/works/10.1007%2Fs10551-016-3234-3",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "151",
+"issue": "2",
+"pages": "539-562",
+"tier": "business"
+}
+]
+},
+"pid:zhaoyingzi-dong--zju": {
+"name": "Zhaoyingzi Dong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0619677",
+"papers": [
+{
+"title": "The impact of foreign competition on domestic firms' product quality: Evidence from a quasi-natural experiment in the United States",
+"authors": [
+"Hugo K. S. Lam",
+"Li Ding",
+"Zhaoyingzi Dong"
+],
+"year": 2022,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1002/joom.1169",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/0619677",
+"https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1169",
+"https://api.crossref.org/works/10.1002/joom.1169",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "68",
+"issue": "8",
+"pages": "881-902",
+"tier": "business"
+}
+]
+},
+"pid:yuexiang-jiang--zju": {
+"name": "Yuexiang Jiang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0087038",
+"papers": []
+},
+"pid:cn-p_6b1c185c3a0231975d50--zju": {
+"name": "袁泉",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/quanyuan",
+"papers": []
+},
+"pid:cn-p_a863abe36b68662dcf33--zju": {
+"name": "裘泱",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/person/0024045#0",
+"papers": []
+},
+"pid:qi-xu--zju": {
+"name": "Qi Xu",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/qixu",
+"papers": []
+},
+"pid:dongan-tan--zju": {
+"name": "Dongan Tan",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/dongantan",
+"papers": []
+},
+"pid:cn-p_28064ea255807fb9614e--zju": {
+"name": "贲圣林",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0626/c81819a2939837/page.htm",
+"papers": []
+},
+"pid:cn-p_60f49264fc1ff0416def--zju": {
+"name": "邬介然",
+"verified_only": true,
+"source_url": "http://person.zju.edu.cn/jieranwu",
+"papers": []
+},
+"pid:shuai-shao--zju": {
+"name": "Shuai Shao",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shuaishao",
+"papers": [
+{
+"title": "The power of firm fundamental information in explaining stock returns",
+"authors": [
+"Shuai Shao",
+"Robert Stoumbos",
+"X. Frank Zhang"
+],
+"year": 2021,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-020-09572-7",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/shuaishao",
+"https://api.crossref.org/works/10.1007/s11142-020-09572-7",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "26",
+"issue": "4",
+"pages": "1249-1289",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_14149353bc792fc34634--zju": {
+"name": "邹腾剑",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zou",
+"papers": []
+},
+"pid:shaosheng-jin--zju": {
+"name": "Shaosheng Jin",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/ssjin",
+"papers": []
+},
+"pid:qingwei-jin--zju": {
+"name": "Qingwei Jin",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/qingweijin",
+"papers": []
+},
+"pid:xin-jin--zju": {
+"name": "Xin Jin",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/jinxin",
+"papers": []
+},
+"pid:yue-qian--zju": {
+"name": "Yue Qian",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/Qian_Yue",
+"papers": [
+{
+"title": "Incentivizing inequality: how platform rewards exacerbate review disparities",
+"authors": [
+"Yue Qian",
+"Xinyue Zhou",
+"Yacheng Sun"
+],
+"year": 2026,
+"venue": "International Journal of Research in Marketing",
+"status": "published",
+"doi": "10.1016/j.ijresmar.2026.07.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/Qian_Yue",
+"https://api.crossref.org/works/10.1016%2Fj.ijresmar.2026.07.004",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"tier": "business"
+}
+]
+},
+"pid:cn-p_f3b31c93d5b2fbe5df76--zju": {
+"name": "钱美芬",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0015165",
+"papers": []
+},
+"pid:jianqing-ruan--zju": {
+"name": "Jianqing Ruan",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/ruanjq",
+"papers": [
+{
+"title": "Impact of COVID-19 and Nationwide Lockdowns on Vegetable Prices: Evidence from Wholesale Markets in China",
+"authors": [
+"Jianqing Ruan",
+"Qingwen Cai",
+"Songqing Jin"
+],
+"year": 2021,
+"venue": "American Journal of Agricultural Economics",
+"status": "published",
+"doi": "10.1111/ajae.12211",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/ruanjq",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12211"
+],
+"author_index": 0,
+"volume": "103",
+"issue": "5",
+"pages": "1574-1594",
+"tier": "econ_field"
+},
+{
+"title": "Crisis-Induced Innovation: Quality Upgrading in Chinese Industrial Clusters",
+"authors": [
+"Xiangting Hu",
+"Jianqing Ruan",
+"Xiaobo Zhang"
+],
+"year": 2021,
+"venue": "Journal of Law, Economics, and Organization",
+"status": "published",
+"doi": "10.1093/jleo/ewab008",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/ruanjq",
+"https://academic.oup.com/jleo/article-abstract/37/3/571/6327073"
+],
+"author_index": 1,
+"volume": "37",
+"issue": "3",
+"pages": "571-606",
+"tier": "econ_field"
+}
+]
+},
+"pid:liang-charles-chen--zju": {
+"name": "Liang (Charles) Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/en/liangchen",
+"papers": []
+},
+"pid:jun-chen--zju": {
+"name": "Jun Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/junchen",
+"papers": [
+{
+"title": "Equity financing incentive and corporate disclosure: new causal evidence from SEO deregulation",
+"authors": [
+"Jun Chen",
+"Ningzhong Li",
+"Xiaolu Zhou"
+],
+"year": 2023,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-021-09662-0",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/junchen",
+"https://api.crossref.org/works/10.1007%2Fs11142-021-09662-0",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "28",
+"issue": "2",
+"pages": "1003-1034",
+"tier": "business"
+}
+]
+},
+"pid:chen-ling--zju": {
+"name": "Chen Ling",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0096017",
+"papers": []
+},
+"pid:fadong-chen--zju": {
+"name": "Fadong Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/fadongchen",
+"papers": []
+},
+"pid:shuai-chen--zju": {
+"name": "Shuai Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shuaichen",
+"papers": [
+{
+"title": "Response and adaptation of agriculture to climate change: Evidence from China",
+"authors": [
+"Shuai Chen",
+"Binlei Gong"
+],
+"year": 2021,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2020.102557",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/shuaichen",
+"https://kyc.cqnu.edu.cn/info/1048/4602.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2020.102557"
+],
+"author_index": 0,
+"volume": "148",
+"pages": "102557",
+"tier": "econ_field"
+}
+]
+},
+"pid:kevin-zhigang-chen--zju": {
+"name": "Kevin Zhigang Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/zhigangchen",
+"papers": []
+},
+"pid:songnian-chen--zju": {
+"name": "Songnian Chen",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/snchen",
+"papers": []
+},
+"pid:cn-p_bce5e86b70976cd7efef--zju": {
+"name": "陈熹",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/chenxi",
+"papers": []
+},
+"pid:cn-p_ceff62455214e9217ba4--zju": {
+"name": "陈骁骅",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0626/c81819a2939826/page.htm",
+"papers": []
+},
+"pid:baofeng-huo--zju": {
+"name": "Baofeng Huo",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/baofeng",
+"papers": []
+},
+"pid:hongling-han--zju": {
+"name": "Hongling Han",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/hhl",
+"papers": [
+{
+"title": "Social Trust and Corporate Misconduct: Evidence from China",
+"authors": [
+"Wang Dong",
+"Hongling Han",
+"Yun Ke",
+"Kam C. Chan"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3234-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/hhl",
+"https://api.crossref.org/works/10.1007/s10551-016-3234-3",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "151",
+"issue": "2",
+"pages": "539-562",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_ace1d095b6b0082969c8--zju": {
+"name": "马世罕",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/mashihan",
+"papers": []
+},
+"pid:shuzhong-ma--zju": {
+"name": "Shuzhong Ma",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/msz",
+"papers": [
+{
+"title": "Taxing the online haven: Impacts of the EU VAT reform on cross-border e-commerce",
+"authors": [
+"Chao Fang",
+"Shuzhong Ma"
+],
+"year": 2024,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2024.105244",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://mypage.zjgsu.edu.cn/econet/fc1_en/main.htm",
+"https://person.zju.edu.cn/msz",
+"https://onlinelibrary.wiley.com/doi/10.1111/twec.70068",
+"https://api.crossref.org/works/10.1016/j.jpubeco.2024.105244",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "239",
+"pages": "105244",
+"tier": "econ_field"
+}
+]
+},
+"pid:xingguo-luo--zju": {
+"name": "Xingguo Luo",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/xingguo",
+"papers": []
+},
+"pid:cn-p_333a84efd26e3f214d41--zju": {
+"name": "魏彬如",
+"verified_only": true,
+"source_url": "https://zibs.zju.edu.cn/2024/0624/c81819a2938884/page.htm",
+"papers": []
+},
+"pid:cn-p_04610d2e687a3053ddf3--zju": {
+"name": "鲍丽娜",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0617649",
+"papers": []
+},
+"pid:cn-p_13a9470606ee536d7cbe--zju": {
+"name": "黄灿",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/0013002",
+"papers": []
+},
+"pid:cn-p_bf8e9b5e75f6cee14ea3--zju": {
+"name": "黄英",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/sophie",
+"papers": []
+},
+"pid:liqiang-huang--zju": {
+"name": "Liqiang Huang",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/liqianghuang",
+"papers": []
+},
+"pid:grace-xun-gong--zju": {
+"name": "Grace Xun Gong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/grace_xun_gong",
+"papers": []
+},
+"pid:qihui-gong--zju": {
+"name": "Qihui Gong",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/gongqihui",
+"papers": [
+{
+"title": "On the Benefits of Audit Market Consolidation: Evidence from Merged Audit Firms",
+"authors": [
+"Qihui Gong",
+"Oliver Zhen Li",
+"Yupeng Lin",
+"Liansheng Wu"
+],
+"year": 2016,
+"venue": "The Accounting Review",
+"status": "published",
+"doi": "10.2308/accr-51236",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://person.zju.edu.cn/gongqihui",
+"https://api.crossref.org/works/10.2308/accr-51236",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "91",
+"issue": "2",
+"pages": "463-488",
+"tier": "business"
+}
+]
+}
+}

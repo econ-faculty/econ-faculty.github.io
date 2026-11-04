@@ -4176,5 +4176,1449 @@
 "status": "working_paper"
 }
 ]
+},
+"pid:shouhan-dai--zuel": {
+"name": "Shouhan Dai",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2026/0722/c5307a436393/page.htm",
+"papers": [
+{
+"title": "Rural pension, factor reallocation and agricultural productivity: Evidence from China",
+"authors": [
+"Shouhan Dai",
+"Binlei Gong",
+"Peinan Hu",
+"Xiaoyun Wei"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2025.103653",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2026/0722/c5307a436393/page.htm",
+"https://gsxy.zuel.edu.cn/5300/list.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/1b/93/51b8e54d43bf8e649db9134bea73/3721b55a-0838-41d9-a5e2-337d6b6c3ac1.pdf",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2025.103653"
+],
+"author_index": 0,
+"volume": "179",
+"pages": "103653",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_020df3188e9dfcc29680--zuel": {
+"name": "任宇",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2018/0926/c3776a200153/page.htm",
+"papers": []
+},
+"pid:cn-p_bed002c5faf213286050--zuel": {
+"name": "任洁",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2023/0911/c5309a342553/page.htm",
+"papers": []
+},
+"pid:zeyi-he--zuel": {
+"name": "Zeyi He",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2026/1009/c3776a440616/page.htm",
+"papers": [
+{
+"title": "Tourism growth, education decline: Evidence from China’s 5A attraction expansion",
+"authors": [
+"Zeyi He",
+"Zhi-An Hu",
+"Wei Huang",
+"Yankun Kang"
+],
+"year": 2025,
+"venue": "Journal of Urban Economics",
+"status": "published",
+"doi": "10.1016/j.jue.2025.103811",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://wls.zuel.edu.cn/2026/1009/c3776a440616/page.htm",
+"https://doi.org/10.1016/j.jue.2025.103811",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "150",
+"pages": "103811",
+"tier": "econ_field"
+}
+]
+},
+"pid:quan-yi--zuel": {
+"name": "Quan Yi",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/qy/main.htm",
+"papers": [
+{
+"title": "Geographic distance and board monitoring: Evidence from the relocation of independent directors",
+"authors": [
+"Yi Quan",
+"Wenlan Zhang"
+],
+"year": 2021,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2020.101802",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/qy/main.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2020.101802",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "66",
+"pages": "101802",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_5f1af49bd102619ceb85--zuel": {
+"name": "刘惠中",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2019/1023/c3776a226144/page.htm",
+"papers": []
+},
+"pid:cn-p_eff9211ae55a78691ccc--zuel": {
+"name": "刘文通",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2020/0830/c5295a248748/page.htm",
+"papers": []
+},
+"pid:cn-p_db6c6ee48b6b31db56b5--zuel": {
+"name": "刘继红",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/ljh/main.htm",
+"papers": [
+{
+"title": "The Effect of Guanxi on Audit Quality in China",
+"authors": [
+"Jihong Liu",
+"Yaping Wang",
+"Liansheng Wu"
+],
+"year": 2011,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-011-0884-z",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/ljh/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1007%2Fs10551-011-0884-z",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "103",
+"issue": "4",
+"pages": "621-638",
+"tier": "business"
+}
+]
+},
+"pid:xuemei-liu--zuel": {
+"name": "Xuemei Liu",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2013/0508/c5316a154480/page.htm",
+"papers": [
+{
+"title": "The u-shaped relationship between locus of control and prohibitive voice via perceived risk of prohibitive voice: The moderating role of team voice climate.",
+"authors": [
+"Xuemei Liu",
+"Ying Wang",
+"Mingpeng Huang",
+"Minya Xu",
+"Dong Liu",
+"Yujing He"
+],
+"year": 2026,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0001316",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2013/0508/c5316a154480/page.htm",
+"https://gsxy.zuel.edu.cn/5304/list.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/9d/24/37d304044ff99d1ad29a88aa62bc/4142e30c-3b90-4ee2-87a4-137102706f3a.pdf",
+"https://api.crossref.org/works/10.1037/apl0001316"
+],
+"author_index": 0,
+"volume": "111",
+"issue": "3",
+"pages": "388-407",
+"tier": "business"
+},
+{
+"title": "When the Punisher is Both Potential Victim and (Intended) Beneficiary: Investigating Observers’ Attitudinal and Behavioral Reactions Toward Organizational Punishment Severity for Unethical Pro-Organizational Behaviors",
+"authors": [
+"Xuemei Liu",
+"Ying Wang",
+"Fan Yang",
+"Qianyao Huang"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05642-x",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2013/0508/c5316a154480/page.htm",
+"https://gsxy.zuel.edu.cn/5304/list.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/9d/24/37d304044ff99d1ad29a88aa62bc/4142e30c-3b90-4ee2-87a4-137102706f3a.pdf",
+"https://api.crossref.org/works/10.1007/s10551-024-05642-x"
+],
+"author_index": 0,
+"volume": "195",
+"issue": "4",
+"pages": "859-877",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_a4aedb60f949e154488e--zuel": {
+"name": "向新",
+"verified_only": true,
+"source_url": "https://jjxy.zuel.edu.cn/2016/1201/c4509a122939/page.htm",
+"papers": []
+},
+"pid:cn-p_6d231ed712ab9e5d680d--zuel": {
+"name": "向远",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2026/0722/c5316a436392/page.htm",
+"papers": [
+{
+"title": "Judging in the Dark: How Delivery Riders Form Fairness Perceptions Under Algorithmic Management",
+"authors": [
+"Yuan Xiang",
+"Jing Du",
+"Xue Ni Zheng",
+"Li Rong Long",
+"Huan Yan Xie"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05883-w",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2026/0722/c5316a436392/page.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/f2/c2/afcf8e214c389341d5eff221be68/9722f364-843d-483c-94d3-04e7c38c1008.pdf",
+"https://api.crossref.org/works/10.1007/s10551-024-05883-w"
+],
+"author_index": 0,
+"volume": "199",
+"issue": "3",
+"pages": "653-670",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_6c52c980605c3b62fbca--zuel": {
+"name": "周凌旭",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2013/0508/c5309a154438/page.htm",
+"papers": []
+},
+"pid:cn-p_58ab34c12b8a1bc61d5c--zuel": {
+"name": "周彦",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2025/1011/c3776a407354/page.htm",
+"papers": []
+},
+"pid:cn-p_1d09575bb89be4023fe9--zuel": {
+"name": "周梦环",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2026/0722/c5314a436394/page.htm",
+"papers": []
+},
+"pid:cn-p_256667d9f7eba47bd980--zuel": {
+"name": "周炜伦",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/1004/c3776a307880/page.htm",
+"papers": []
+},
+"pid:cn-p_2e830e546874a42d5470--zuel": {
+"name": "唐世宇",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2026/1009/c3776a440628/page.htm",
+"papers": []
+},
+"pid:yao-tang--zuel": {
+"name": "Yao Tang",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2017/0901/c11490a171453/page.htm",
+"papers": [
+{
+"title": "Seller Organization and Percentage Fee Design in the Daily Deal Market",
+"authors": [
+"Yao Tang",
+"Xu Guan"
+],
+"year": 2022,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2021.1070",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2017/0901/c11490a171453/page.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/c9/d3/06ecf68f4334bddc21874c6b2909/f094f957-90fc-4174-b7b6-0d5a611ef7e3.pdf",
+"https://api.crossref.org/works/10.1287/isre.2021.1070"
+],
+"author_index": 0,
+"volume": "33",
+"issue": "4",
+"pages": "1287-1302",
+"tier": "business"
+}
+]
+},
+"pid:dongmin-kong--zuel": {
+"name": "Dongmin Kong",
+"verified_only": true,
+"source_url": "https://finance.zuel.edu.cn/2024/1226/c15497a382762/page.htm",
+"papers": [
+{
+"title": "Being Good When Being International in an Emerging Economy: The Case of China",
+"authors": [
+"Yan-Leung Cheung",
+"Dongmin Kong",
+"Weiqiang Tan",
+"Wenming Wang"
+],
+"year": 2015,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-014-2268-7",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382762/page.htm",
+"https://api.crossref.org/works/10.1007/s10551-014-2268-7",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 1,
+"volume": "130",
+"issue": "4",
+"pages": "805-817",
+"tier": "business"
+},
+{
+"title": "Corporate Social Responsibility, Investor Behaviors, and Stock Market Returns: Evidence from a Natural Experiment in China",
+"authors": [
+"Maobin Wang",
+"Chun Qiu",
+"Dongmin Kong"
+],
+"year": 2011,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-010-0713-9",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382762/page.htm",
+"https://api.crossref.org/works/10.1007/s10551-010-0713-9",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 2,
+"volume": "101",
+"issue": "1",
+"pages": "127-141",
+"tier": "business"
+}
+]
+},
+"pid:xianming-sun--zuel": {
+"name": "Xianming Sun",
+"verified_only": true,
+"source_url": "https://finance.zuel.edu.cn/2024/1226/c15497a382801/page.htm",
+"papers": [
+{
+"title": "Optional disclosure and observational learning",
+"authors": [
+"Diefeng Peng",
+"Yulei Rao",
+"Xianming Sun",
+"Erte Xiao"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.106817",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382801/page.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.106817",
+"https://dtf.zuel.edu.cn/szjsyxdjr-szjs_kytd/szjsyxdjr_cont_person/details-23276.html",
+"https://biblio.ugent.be/publication/7180346",
+"https://xianmingsunqf.weebly.com/",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 2,
+"volume": "229",
+"pages": "106817",
+"tier": "econ_field"
+},
+{
+"title": "Robust investment strategies with two risky assets",
+"authors": [
+"Qian Lin",
+"Yulei Luo",
+"Xianming Sun"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2021.104275",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382801/page.htm",
+"https://api.crossref.org/works/10.1016/j.jedc.2021.104275",
+"https://dtf.zuel.edu.cn/szjsyxdjr-szjs_kytd/szjsyxdjr_cont_person/details-23276.html",
+"https://biblio.ugent.be/publication/7180346",
+"https://xianmingsunqf.weebly.com/",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 2,
+"volume": "134",
+"pages": "104275",
+"tier": "econ_field"
+},
+{
+"title": "Horizon-unbiased investment with ambiguity",
+"authors": [
+"Qian Lin",
+"Xianming Sun",
+"Chao Zhou"
+],
+"year": 2020,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2020.103896",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382801/page.htm",
+"https://api.crossref.org/works/10.1016/j.jedc.2020.103896",
+"https://dtf.zuel.edu.cn/szjsyxdjr-szjs_kytd/szjsyxdjr_cont_person/details-23276.html",
+"https://biblio.ugent.be/publication/7180346",
+"https://xianmingsunqf.weebly.com/",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 1,
+"volume": "114",
+"pages": "103896",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_735876b704386a07ae17--zuel": {
+"name": "孙扬帆",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/0517/c3776a299060/page.htm",
+"papers": []
+},
+"pid:cn-p_a78b0c8715bcc5bc7999--zuel": {
+"name": "孙洪庆",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2013/0508/c5305a154387/page.htm",
+"papers": []
+},
+"pid:cn-p_20083b204c68f1c7d3db--zuel": {
+"name": "孙绘淳",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2018/0925/c5307a200035/page.htm",
+"papers": []
+},
+"pid:cn-p_373311c92d2f206c0d63--zuel": {
+"name": "宋天乐",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/1004/c3776a307887/page.htm",
+"papers": []
+},
+"pid:cn-p_ed13ca7e92e7b74c356c--zuel": {
+"name": "帅杰",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2015/0606/c3776a83868/page.htm",
+"papers": []
+},
+"pid:cn-p_4c8af843812679ff636b--zuel": {
+"name": "廖俊敏",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2024/0929/c3776a373481/page.htm",
+"papers": []
+},
+"pid:cn-p_c76b0a3ee3b7c0199aac--zuel": {
+"name": "张天洋",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2020/0929/c3776a250976/page.htm",
+"papers": []
+},
+"pid:qi-zhang--zuel": {
+"name": "Qi Zhang",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/zq2/main.htm",
+"papers": [
+{
+"title": "The real effect of legal institutions: Environmental courts and firm environmental protection expenditure",
+"authors": [
+"Qi Zhang",
+"Zhi Yu",
+"Dongmin Kong"
+],
+"year": 2019,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2019.102254",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/zq2/main.htm",
+"https://api.crossref.org/works/10.1016/j.jeem.2019.102254",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "98",
+"pages": "102254",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_4e16655023cc54c07f16--zuel": {
+"name": "慈兆雪",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2020/0321/c3776a239836/page.htm",
+"papers": []
+},
+"pid:cn-p_c9d656c5bb0e23fa1668--zuel": {
+"name": "方晶",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2020/0720/c3776a247801/page.htm",
+"papers": []
+},
+"pid:cn-p_a5a779d85bf846ba464f--zuel": {
+"name": "曾辰航",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2018/0108/c3776a184582/page.htm",
+"papers": []
+},
+"pid:cn-p_db084e0108322d0184a2--zuel": {
+"name": "李伊",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2015/0607/c3776a83869/page.htm",
+"papers": []
+},
+"pid:cn-p_74480de3b96cc9cf8f45--zuel": {
+"name": "李四海",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/lsh/main.htm",
+"papers": [
+{
+"title": "Political Connection, Ownership Structure, and Corporate Philanthropy in China: A Strategic-Political Perspective",
+"authors": [
+"Sihai Li",
+"Xianzhong Song",
+"Huiying Wu"
+],
+"year": 2015,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-014-2167-y",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/lsh/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1007%2Fs10551-014-2167-y",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "129",
+"issue": "2",
+"pages": "399-411",
+"tier": "business"
+},
+{
+"title": "Principal–Principal Conflicts and Corporate Philanthropy: Evidence from Chinese Private Firms",
+"authors": [
+"Sihai Li",
+"Huiying Wu",
+"Xianzhong Song"
+],
+"year": 2017,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-015-2720-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/lsh/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1007%2Fs10551-015-2720-3",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "141",
+"issue": "3",
+"pages": "605-620",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_b849bad5d9fe49d58489--zuel": {
+"name": "李程",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/0425/c3776a296916/page.htm",
+"papers": []
+},
+"pid:te-du--zuel": {
+"name": "Te Du",
+"verified_only": true,
+"source_url": "https://jmxy.zuel.edu.cn/2026/0330/c17783a440326/page.htm",
+"papers": [
+{
+"title": "Besides tit for tat: The effect of US 301 tariffs on Chinese local government spending",
+"authors": [
+"Jiafeng Pan",
+"Te Du",
+"Chao Fang"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2024.112030",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jmxy.zuel.edu.cn/2026/0330/c17783a440326/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2024.112030",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "244",
+"pages": "112030",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_a5287f4243e0d41ef5bc--zuel": {
+"name": "杨子超",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/0517/c3776a299057/page.htm",
+"papers": []
+},
+"pid:mengjun-yang--zuel": {
+"name": "Mengjun Yang",
+"verified_only": true,
+"source_url": "https://jjxy.zuel.edu.cn/2023/0904/c4509a341764/page.htm",
+"papers": [
+{
+"title": "A helping hand for the regulator: The role of industry associations in firm water pollution abatement in China",
+"authors": [
+"Jinyong Zhan",
+"Dingyan He",
+"Mengjun Yang"
+],
+"year": 2026,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2026.103306",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jjxy.zuel.edu.cn/2023/0904/c4509a341764/page.htm",
+"https://iidpf.zuel.edu.cn/srfpxdcz_cn_kycg/srfpxscz_cont_news/details-42689.html",
+"https://api.crossref.org/works/10.1016%2Fj.jeem.2026.103306",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://chow.xmu.edu.cn/info/1079/43042.htm"
+],
+"author_index": 2,
+"volume": "137",
+"pages": "103306",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_344a71f7c77f5bfcac01--zuel": {
+"name": "杨洋",
+"verified_only": true,
+"source_url": "http://finance.zuel.edu.cn/2018/0117/c2017a249939/page.htm",
+"papers": [
+{
+"title": "Revisiting the effects of monetary policy shocks: Evidence from SVAR with narrative sign restrictions",
+"authors": [
+"Kai Cheng",
+"Yang Yang"
+],
+"year": 2020,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2020.109598",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://finance.zuel.edu.cn/2018/0117/c2017a249939/page.htm",
+"https://finance.zuel.edu.cn/zrjs/list.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2020.109598"
+],
+"author_index": 1,
+"volume": "196",
+"pages": "109598",
+"tier": "econ_field"
+},
+{
+"title": "Two simple tests of the trend hypothesis under time-varying variance",
+"authors": [
+"Yang Yang",
+"Shaoping Wang"
+],
+"year": 2017,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2017.04.030",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://finance.zuel.edu.cn/2018/0117/c2017a249939/page.htm",
+"https://finance.zuel.edu.cn/zrjs/list.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2017.04.030"
+],
+"author_index": 0,
+"volume": "156",
+"pages": "123-128",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_5f7cdff0fd6530f7f128--zuel": {
+"name": "栗洋",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2017/0901/c5295a171502/page.htm",
+"papers": []
+},
+"pid:cn-p_a25ef06618b7a4284b1b--zuel": {
+"name": "段珅",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2023/0906/c5305a342173/page.htm",
+"papers": [
+{
+"title": "Let Me Show You What Your Tips Can Do! Materially Referenced Tip Recommendations Prompt Tipping",
+"authors": [
+"Ce Liang",
+"Lu (Monroe) Meng",
+"Shen Duan",
+"Dai Yao",
+"Yuwei Jiang"
+],
+"year": 2026,
+"venue": "Journal of Consumer Research",
+"status": "published",
+"doi": "10.1093/jcr/ucaf059",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2023/0906/c5305a342173/page.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/be/f3/732899564b15be23ce5fd8712cb1/a34d9a41-6606-4a2a-83c0-16d0ee0e58d9.pdf",
+"https://api.crossref.org/works/10.1093/jcr/ucaf059"
+],
+"author_index": 2,
+"volume": "53",
+"issue": "1",
+"pages": "162-181",
+"tier": "business"
+}
+]
+},
+"pid:jianghua-mao--zuel": {
+"name": "Jianghua Mao",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2017/0901/c5295a171505/page.htm",
+"papers": [
+{
+"title": "Growing Followers: Exploring the Effects of Leader Humility on Follower Self-Expansion, Self-Efficacy, and Performance",
+"authors": [
+"Jianghua Mao",
+"Chia‐Yen (Chad) Chiu",
+"Bradley P. Owens",
+"Jacob A. Brown",
+"Jianqiao Liao"
+],
+"year": 2019,
+"venue": "Journal of Management Studies",
+"status": "published",
+"doi": "10.1111/joms.12395",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2017/0901/c5295a171505/page.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/e6/8b/fd5c984a425bb86c786684377c38/2a474350-3ea2-4ce0-9a81-c3329070eb29.pdf",
+"https://api.crossref.org/works/10.1111/joms.12395"
+],
+"author_index": 0,
+"volume": "56",
+"issue": "2",
+"pages": "343-371",
+"tier": "business"
+},
+{
+"title": "Team job-related anxiety and creativity: Investigating team-level and cross-level moderated curvilinear relationships",
+"authors": [
+"Jianghua Mao",
+"Song Chang",
+"Yaping Gong",
+"Jia Lin Xie"
+],
+"year": 2021,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2489",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2017/0901/c5295a171505/page.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/e6/8b/fd5c984a425bb86c786684377c38/2a474350-3ea2-4ce0-9a81-c3329070eb29.pdf",
+"https://api.crossref.org/works/10.1002/job.2489"
+],
+"author_index": 0,
+"volume": "42",
+"issue": "1",
+"pages": "34-47",
+"tier": "business"
+}
+]
+},
+"pid:yanan-wang--zuel": {
+"name": "Yanan Wang",
+"verified_only": true,
+"source_url": "https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"papers": [
+{
+"title": "Court enforcement and corporate innovation: Evidence from China",
+"authors": [
+"Dongmin Kong",
+"Yanan Wang",
+"Naide Ye"
+],
+"year": 2026,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2026.107738",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2026.107738",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 1,
+"volume": "189",
+"pages": "107738",
+"tier": "econ_field"
+},
+{
+"title": "Employee Stock Ownership Plans and Corporate Environmental Engagement",
+"authors": [
+"Dongmin Kong",
+"Jia Liu",
+"Yanan Wang",
+"Ling Zhu"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-023-05334-y",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"https://api.crossref.org/works/10.1007/s10551-023-05334-y",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 2,
+"volume": "189",
+"issue": "1",
+"pages": "177-199",
+"tier": "business"
+},
+{
+"title": "Deregulating the input market by central inspection: Lessons from China's primary land market",
+"authors": [
+"Dongmin Kong",
+"Yanan Wang",
+"Naide Ye"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.02.039",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.02.039",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 1,
+"volume": "220",
+"pages": "732-755",
+"tier": "econ_field"
+},
+{
+"title": "Natural disasters and analysts' earnings forecasts",
+"authors": [
+"Dongmin Kong",
+"Zhiyang Lin",
+"Yanan Wang",
+"Junyi Xiang"
+],
+"year": 2021,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2020.101860",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2020.101860",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 2,
+"volume": "66",
+"pages": "101860",
+"tier": "econ_field"
+},
+{
+"title": "Efficiency wages as gift exchange: Evidence from corporate innovation in China",
+"authors": [
+"Dongmin Kong",
+"Yanan Wang",
+"Jian Zhang"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2020.101725",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382797/page.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2020.101725",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 1,
+"volume": "65",
+"pages": "101725",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_917714f[redacted]c9--zuel": {
+"name": "王俊杰",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2019/0225/c11490a210671/page.htm",
+"papers": []
+},
+"pid:xinyu-wang--zuel": {
+"name": "Xinyu Wang",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/0517/c3776a299072/page.htm",
+"papers": []
+},
+"pid:cn-p_6394b57bf95a8f9afcfc--zuel": {
+"name": "王砾",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/wl/main.htm",
+"papers": [
+{
+"title": "Air pollution and employee treatment",
+"authors": [
+"Li Wang",
+"Yunhao Dai",
+"Dongmin Kong"
+],
+"year": 2021,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2021.102067",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/wl/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2021.102067",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "70",
+"pages": "102067",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_d71e2a18f967c42a4eea--zuel": {
+"name": "王雄元",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/wxy/main.htm",
+"papers": [
+{
+"title": "Valuation uncertainty and analysts’ use of DCF models",
+"authors": [
+"Shengzhong Huang",
+"Hongping Tan",
+"Xiongyuan Wang",
+"Changqiu Yu"
+],
+"year": 2023,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-021-09658-w",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/wxy/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1007%2Fs11142-021-09658-w",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "28",
+"issue": "2",
+"pages": "827-861",
+"tier": "business"
+},
+{
+"title": "Stock market liberalization and earnings management: Evidence from a quasi‐natural experiment in China",
+"authors": [
+"Kaijuan Gao",
+"Jeffrey Pittman",
+"Xiongyuan Wang",
+"Zi‐Tian Wang"
+],
+"year": 2023,
+"venue": "Contemporary Accounting Research",
+"status": "published",
+"doi": "10.1111/1911-3846.12899",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/wxy/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1111%2F1911-3846.12899",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "40",
+"issue": "4",
+"pages": "2547-2576",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_73dc9762cd2cb5601d0a--zuel": {
+"name": "石智雷",
+"verified_only": true,
+"source_url": "https://jjxy.zuel.edu.cn/2024/0624/c4509a368737/page.htm",
+"papers": []
+},
+"pid:xin-cheng--zuel": {
+"name": "Xin Cheng",
+"verified_only": true,
+"source_url": "https://ggglxy.zuel.edu.cn/2026/0903/c18764a437755/page.htm",
+"papers": [
+{
+"title": "Labor-Replacing Automation and Finance",
+"authors": [
+"Xin Cheng",
+"Evgeny Lyandres",
+"Kaiguo Zhou",
+"Tong Zhou"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2022.02658",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ggglxy.zuel.edu.cn/2026/0903/c18764a437755/page.htm",
+"https://ggglxy.zuel.edu.cn/18757/list.htm",
+"https://www.zuel.edu.cn/academic/list3.htm",
+"https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.02658",
+"https://hudong.moe.gov.cn/s78/A13/tongzhi/202310/W020231019389469500678.pdf",
+"https://api.crossref.org/works/10.1287/mnsc.2022.02658",
+"https://onlinelibrary.wiley.com/doi/10.1155/2022/2914936"
+],
+"author_index": 0,
+"volume": "71",
+"issue": "8",
+"pages": "6997-7028",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_9e3a558ebf9ec1e9e7ba--zuel": {
+"name": "章润豪",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2022/0926/c5314a307061/page.htm",
+"papers": []
+},
+"pid:cn-p_de8b1c9511e86e7778dd--zuel": {
+"name": "莫婷婷",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2016/0930/c3776a128300/page.htm",
+"papers": []
+},
+"pid:xindong-xue--zuel": {
+"name": "Xindong Xue",
+"verified_only": true,
+"source_url": "https://ggglxy.zuel.edu.cn/2026/0904/c18764a437877/page.htm",
+"papers": [
+{
+"title": "Social capital and health: a meta-analysis",
+"authors": [
+"Xindong Xue",
+"W. Robert Reed",
+"Andrea Menclova"
+],
+"year": 2020,
+"venue": "Journal of Health Economics",
+"status": "published",
+"doi": "10.1016/j.jhealeco.2020.102317",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ggglxy.zuel.edu.cn/2026/0904/c18764a437877/page.htm",
+"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32497954&retmode=xml",
+"https://api.crossref.org/works/10.1016/j.jhealeco.2020.102317",
+"https://repec.canterbury.ac.nz/cbt/econwp/1918.pdf",
+"https://ch.shmu.edu.cn/upload/20150402/20150402094538_263.pdf",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://yzb.zuel.edu.cn/_upload/article/files/c6/4d/af993e99485db078c906fcb875c4/d1a90baa-715d-4c89-9111-204d78052b7e.pdf"
+],
+"author_index": 0,
+"volume": "72",
+"pages": "102317",
+"tier": "econ_field"
+},
+{
+"title": "How Much Does Social Status Matter to Longevity?—Evidence from China's Academician Election",
+"authors": [
+"Gordon G. Liu",
+"Ohyun Kwon",
+"Xindong Xue",
+"Belton M Fleisher"
+],
+"year": 2017,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.3300",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ggglxy.zuel.edu.cn/2026/0904/c18764a437877/page.htm",
+"https://pubmed.ncbi.nlm.nih.gov/26676999/",
+"https://api.crossref.org/works/10.1002/hec.3300",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "26",
+"issue": "3",
+"pages": "292-304",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_c96b84cfbc6128dcd7c9--zuel": {
+"name": "褚印",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2015/0608/c3776a83872/page.htm",
+"papers": []
+},
+"pid:yonghao-xu--zuel": {
+"name": "Yonghao Xu",
+"verified_only": true,
+"source_url": "https://finance.zuel.edu.cn/2024/1226/c15497a382802/page.htm",
+"papers": [
+{
+"title": "How household consumption responds to credit card refunds",
+"authors": [
+"Yonghao Xu",
+"Juanjuan Meng",
+"Yu Zhang",
+"Jeffrey Koo"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2020.109683",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1226/c15497a382802/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2020.109683",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 0,
+"volume": "198",
+"pages": "109683",
+"tier": "econ_field"
+}
+]
+},
+"pid:xianzheng-fei--zuel": {
+"name": "Xianzheng Fei",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2013/0508/c5305a154389/page.htm",
+"papers": [
+{
+"title": "From Functional Efficiency to Temporal Efficiency: Multifunctional Products Increase Consumer Impatience",
+"authors": [
+"Yanfen You",
+"Jingjing Pan",
+"Xiaojing Yang",
+"Xianzheng Fei"
+],
+"year": 2022,
+"venue": "Journal of Consumer Psychology",
+"status": "published",
+"doi": "10.1002/jcpy.1254",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2013/0508/c5305a154389/page.htm",
+"https://gsxy.zuel.edu.cn/5299/list.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/e5/3d/bc408c2e446eb5afce3334aac9fa/dd96620b-4278-44bb-bfca-9e10f19cfa0e.pdf",
+"https://api.crossref.org/works/10.1002/jcpy.1254"
+],
+"author_index": 3,
+"volume": "32",
+"issue": "3",
+"pages": "509-516",
+"tier": "business"
+}
+]
+},
+"pid:sanwei-he--zuel": {
+"name": "Sanwei He",
+"verified_only": true,
+"source_url": "https://db.hbskw.com/pcms/index.php?a=show&c=index&catid=6&id=6479&m=content",
+"papers": []
+},
+"pid:cn-p_2cef0173daf348855e29--zuel": {
+"name": "赵君",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2025/0512/c5295a391338/page.htm",
+"papers": []
+},
+"pid:cn-p_10b0d7e6a0dbe5cfc422--zuel": {
+"name": "赵子辰",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2026/1009/c3776a440634/page.htm",
+"papers": []
+},
+"pid:cn-p_39375e5f0b374fee176b--zuel": {
+"name": "赵琳",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2022/0517/c3776a299062/page.htm",
+"papers": []
+},
+"pid:cn-p_42e5079efe493b2dce07--zuel": {
+"name": "邹甘娜",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/zgn/main.htm",
+"papers": [
+{
+"title": "Political connection, CEO gender, and firm performance",
+"authors": [
+"Rui Sun",
+"Ganna Zou"
+],
+"year": 2021,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2021.101918",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/zgn/main.htm",
+"https://kjxy.zuel.edu.cn/zgzg/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2021.101918",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "71",
+"pages": "101918",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_50cfa56c327715f96f45--zuel": {
+"name": "陈彦琳",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2025/0915/c3776a405543/page.htm",
+"papers": []
+},
+"pid:cn-p_9bd947880e8fca814a70--zuel": {
+"name": "陈铭",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2026/1009/c3776a440623/page.htm",
+"papers": []
+},
+"pid:jiaojie-han--zuel": {
+"name": "Jiaojie Han",
+"verified_only": true,
+"source_url": "https://finance.zuel.edu.cn/2024/1224/c15495a382585/page.htm",
+"papers": [
+{
+"title": "Purchasing scarce products under dynamic pricing: An experimental investigation",
+"authors": [
+"Vincent Mak",
+"Amnon Rapoport",
+"Eyran J. Gisches",
+"Jiaojie Han"
+],
+"year": 2014,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2014.0480",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.zuel.edu.cn/2024/1224/c15495a382585/page.htm",
+"https://api.crossref.org/works/10.1287/msom.2014.0480",
+"https://finance.zuel.edu.cn/zrjs/list.htm"
+],
+"author_index": 3,
+"volume": "16",
+"issue": "3",
+"pages": "425-438",
+"tier": "business"
+}
+]
+},
+"pid:diandian-xiang--zuel": {
+"name": "Diandian Xiang",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2020/0830/c5305a248749/page.htm",
+"papers": [
+{
+"title": "Sharing economy: International marketing strategies",
+"authors": [
+"Irina V. Kozlenkova",
+"Ju-Yeon Lee",
+"Diandian Xiang",
+"Robert W. Palmatier"
+],
+"year": 2021,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-020-00393-z",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gsxy.zuel.edu.cn/2020/0830/c5305a248749/page.htm",
+"https://gsxy.zuel.edu.cn/5299/list.htm",
+"https://gsxy.zuel.edu.cn/_upload/article/files/3a/49/67ab8e0b4a4fbb690c5c575847e8/892ef430-6db8-45fc-998d-bcf3ce511c3b.pdf",
+"https://api.crossref.org/works/10.1057/s41267-020-00393-z"
+],
+"author_index": 2,
+"volume": "52",
+"issue": "8",
+"pages": "1445-1473",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_525ef3a15e1e810cf9fa--zuel": {
+"name": "顾露露",
+"verified_only": true,
+"source_url": "https://webplus.zuel.edu.cn/2016/0420/c2004a35679/page.psp",
+"papers": []
+},
+"pid:cn-p_bd1bae026508dfb6713c--zuel": {
+"name": "马守宇",
+"verified_only": true,
+"source_url": "https://gsxy.zuel.edu.cn/2017/0901/c11490a171457/page.htm",
+"papers": []
+},
+"pid:nan-gao--zuel": {
+"name": "Nan Gao",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2015/0608/c3776a83870/page.htm",
+"papers": [
+{
+"title": "Winter is Coming: Early-life Experiences and Politicians’ Decisions",
+"authors": [
+"Shiqi Guo",
+"Nan Gao",
+"Pinghan Liang"
+],
+"year": 2023,
+"venue": "Economic Journal",
+"status": "published",
+"doi": "10.1093/ej/uead061",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://wls.zuel.edu.cn/2015/0608/c3776a83870/page.htm",
+"https://doi.org/10.1093/ej/uead061",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "134",
+"issue": "657",
+"pages": "295-321",
+"tier": "econ_field"
+},
+{
+"title": "Social capital, finance, and consumption: Evidence from a representative sample of Chinese households",
+"authors": [
+"Robert Cull",
+"Li Gan",
+"Nan Gao",
+"Lixin Colin Xu"
+],
+"year": 2022,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2022.106637",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://wls.zuel.edu.cn/2015/0608/c3776a83870/page.htm",
+"https://doi.org/10.1016/j.jbankfin.2022.106637",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "145",
+"pages": "106637",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_b44984e1d8ba8f7774af--zuel": {
+"name": "黄湘黔",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/hxq/main.htm",
+"papers": []
+},
+"pid:cn-p_f31fd4f1812d4bd8092a--zuel": {
+"name": "龚强",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2016/0405/c3776a83877/page.htm",
+"papers": []
+},
+"pid:cn-p_11d12169826ba9eeaa5a--zuel": {
+"name": "龚玉晶",
+"verified_only": true,
+"source_url": "https://wls.zuel.edu.cn/2016/0407/c3776a83878/page.htm",
+"papers": []
 }
 }

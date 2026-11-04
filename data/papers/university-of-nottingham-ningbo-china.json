@@ -1,0 +1,964 @@
+{
+"pid:alain-yee-loong-chong--unnc": {
+"name": "Alain Yee Loong Chong",
+"verified_only": true,
+"source_url": "https://unnc.globalimpact.cn/en/persons/alain-chong/",
+"papers": []
+},
+"pid:bo-huang--unnc": {
+"name": "Bo Huang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=bcf11246-f05d-49a3-b5c8-98ad8686e78a&language=en-GB",
+"papers": []
+},
+"pid:bruno-deschamps--unnc": {
+"name": "Bruno Deschamps",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=3e42ed8e-e474-43cf-875c-93e0198b4510&language=en-GB",
+"papers": []
+},
+"pid:chandra-ade-irawan--unnc": {
+"name": "Chandra Ade Irawan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=43ce8af9-1b8e-4ea3-9a22-b1b689429d3f&language=en-GB",
+"papers": []
+},
+"pid:charles-yichu-wang--unnc": {
+"name": "Charles Yichu Wang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=488e48fb-337d-4b50-8721-0f2a6299664f&language=en-GB",
+"papers": [
+{
+"title": "The Real Effects of Shadow Banking: Evidence from China",
+"authors": [
+"Xuan Tian",
+"Guoqian Tu",
+"Yichu Wang"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2022.00953",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/charles-yichu-wang/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=488e48fb-337d-4b50-8721-0f2a6299664f&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "70",
+"issue": "12",
+"pages": "8556-8582",
+"tier": "business"
+},
+{
+"title": "How Does Policy Uncertainty Affect Venture Capital?",
+"authors": [
+"Xuan Tian",
+"Yichu Wang",
+"Kailei Ye"
+],
+"year": 2025,
+"venue": "Review of Corporate Finance Studies",
+"status": "published",
+"doi": "10.1093/rcfs/cfad023",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sites.google.com/view/charlesyichuwang/research",
+"https://unnc.globalimpact.cn/en/persons/charles-yichu-wang/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=488e48fb-337d-4b50-8721-0f2a6299664f&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "14",
+"issue": "2",
+"pages": "439-481",
+"tier": "econ_field"
+},
+{
+"title": "Housing speculation and entrepreneurship",
+"authors": [
+"Xuan Tian",
+"Yichu Wang"
+],
+"year": 2026,
+"venue": "Review of Finance",
+"status": "published",
+"doi": "10.1093/rof/rfaf056",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/charles-yichu-wang/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=488e48fb-337d-4b50-8721-0f2a6299664f&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "30",
+"issue": "2",
+"pages": "757-794",
+"tier": "business"
+}
+]
+},
+"pid:chen-bu--unnc": {
+"name": "Chen Bu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=086b677d-e387-466b-aaca-d61a6b37fb36&language=en-GB",
+"papers": []
+},
+"pid:cherry-yi-zhang--unnc": {
+"name": "Cherry Yi Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=493e3774-a37a-46f5-822f-5a19442e1332&language=en-GB",
+"papers": []
+},
+"pid:chuan-lin--unnc": {
+"name": "Chuan Lin",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=0a194097-8ae7-4c0a-91e9-095ff1b4f44e&language=en-GB",
+"papers": []
+},
+"pid:di-tong--unnc": {
+"name": "Di Tong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=af46da6c-d06f-4001-a564-37fbbcfb360d&language=en-GB",
+"papers": []
+},
+"pid:eric-asante--unnc": {
+"name": "Eric Asante",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=1199ed79-d69e-417c-8c97-f7765060e2e3&language=en-GB",
+"papers": []
+},
+"pid:eric-evans-osei-opoku--unnc": {
+"name": "Eric Evans Osei Opoku",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c2e93e34-551f-48c1-94e5-846341d5ee96&language=en-GB",
+"papers": []
+},
+"pid:fei-zhu--unnc": {
+"name": "Fei Zhu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4fc5f8b8-2d55-4d81-b90b-1ca920fb33ea&language=en-GB",
+"papers": []
+},
+"pid:fengfeng-xie--unnc": {
+"name": "Fengfeng Xie",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=afef970e-edcd-4be0-8444-20dae9c586fd&language=en-GB",
+"papers": []
+},
+"pid:feranita-feranita--unnc": {
+"name": "Feranita Feranita",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=5be6b330-aff2-4774-8401-f4827ba7e291&language=en-GB",
+"papers": []
+},
+"pid:haibo-zhou--unnc": {
+"name": "Haibo Zhou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=6cc2a285-f19a-4d78-9422-3d85355f9bda&language=en-GB",
+"papers": []
+},
+"pid:hong-deng--unnc": {
+"name": "Hong Deng",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=bffb02cf-cf73-4cd3-9448-5b1acb4fb01f&language=en-GB",
+"papers": []
+},
+"pid:james-farrell--unnc": {
+"name": "James Farrell",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c7f2c58b-0a9f-4314-9d52-7c4b2c5899ea&language=en-GB",
+"papers": []
+},
+"pid:jenny-pu--unnc": {
+"name": "Jenny Pu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=15364545-39e4-4133-a629-73ee58c9e606&language=en-GB",
+"papers": []
+},
+"pid:jiarui-zhang--unnc": {
+"name": "Jiarui Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c7b7caf9-d049-4e5c-952b-1a0e7e865743&language=en-GB",
+"papers": []
+},
+"pid:jie-fang--unnc": {
+"name": "Jie Fang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7000c648-3f0e-44a4-8fb4-9da8be729936&language=en-GB",
+"papers": []
+},
+"pid:jie-sheng--unnc": {
+"name": "Jie Sheng",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=df7f04ac-d071-433f-98bb-2cc425341be1&language=en-GB",
+"papers": []
+},
+"pid:jie-wang--unnc": {
+"name": "Jie Wang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=b54fb80b-168a-4c94-b8f6-f4f669cee79c&language=en-GB",
+"papers": []
+},
+"pid:jie-yu--unnc": {
+"name": "Jie Yu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=1e3b3cd5-3736-4271-8a2d-2af66e33884c&language=en-GB",
+"papers": []
+},
+"pid:jin-chen--unnc": {
+"name": "Jin Chen",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=b0b4ae63-27c9-458d-8d6e-6cc5663af3b1&language=en-GB",
+"papers": []
+},
+"pid:jin-han--unnc": {
+"name": "Jin Han",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7305d21c-0a5a-4e8a-9a24-98c6640d80bd&language=en-GB",
+"papers": []
+},
+"pid:jinan-shao--unnc": {
+"name": "Jinan Shao",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4059aab4-99fe-4d4e-8d74-51189906b061&language=en-GB",
+"papers": []
+},
+"pid:jing-dai--unnc": {
+"name": "Jing Dai",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=014cda9e-9382-41a9-bb61-7d31f8e274eb&language=en-GB",
+"papers": []
+},
+"pid:jing-zhou--unnc": {
+"name": "Jing Zhou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=723447a9-cc5a-4b58-9214-446cee769a80&language=en-GB",
+"papers": []
+},
+"pid:jingong-huang--unnc": {
+"name": "Jingong Huang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=e71eb944-97e6-43ce-9112-4767dc4f4286&language=en-GB",
+"papers": []
+},
+"pid:kamel-mellahi--unnc": {
+"name": "Kamel Mellahi",
+"verified_only": true,
+"source_url": "https://unnc.globalimpact.cn/en/persons/kamel-mellahi/",
+"papers": [
+{
+"title": "A Review of the Nonmarket Strategy Literature: Toward a Multi-Theoretical Integration",
+"authors": [
+"Kamel Mellahi",
+"Jędrzej George Frynas",
+"Pei Sun",
+"Donald Siegel"
+],
+"year": 2016,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/0149206315617241",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/kamel-mellahi/",
+"https://www.nottingham.edu.cn/en/business/people/academic.aspx",
+"https://unnc.globalimpact.cn/en/persons/kamel-mellahi/publications/",
+"https://api.crossref.org/works/10.1177/0149206315617241",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "42",
+"issue": "1",
+"pages": "143-173",
+"tier": "business"
+}
+]
+},
+"pid:ken-kyid-yeoh--unnc": {
+"name": "Ken Kyid Yeoh",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=d9d8c023-a3a6-4ab5-a45a-3fa012dd3d36&language=en-GB",
+"papers": []
+},
+"pid:kian-howe-ong--unnc": {
+"name": "Kian Howe Ong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7d688d35-7b88-4250-88cd-d[redacted]&language=en-GB",
+"papers": []
+},
+"pid:kingsley-dogah--unnc": {
+"name": "Kingsley Dogah",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/info-hub/staff-profile.aspx?id=cf9437f8-f2ff-40e8-ab76-a8d920d0caba&language=zh",
+"papers": []
+},
+"pid:lei-li--unnc": {
+"name": "Lei Li",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=5fa7ea3d-9615-499c-ae6f-c6750804c305&language=en-GB",
+"papers": []
+},
+"pid:lei-liu--unnc": {
+"name": "Lei Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=5e80fae3-90d0-472a-b529-5ae844171480&language=en-GB",
+"papers": []
+},
+"pid:lirong-shi--unnc": {
+"name": "Lirong Shi",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=54c5a86c-8c82-43a4-b7d7-f356f83147e9&language=en-GB",
+"papers": []
+},
+"pid:luke-young-hoon-chang--unnc": {
+"name": "Luke Young Hoon Chang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=cf11e04c-2031-4bb8-9e13-b22408feb112&language=en-GB",
+"papers": []
+},
+"pid:marina-glushenkova--unnc": {
+"name": "Marina Glushenkova",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=536370ec-0e59-4df0-8916-b52e4a9034eb&language=en-GB",
+"papers": []
+},
+"pid:martin-j-liu--unnc": {
+"name": "Martin J. Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=3548bc5e-af7c-45e3-8acd-8e525f83eb29&language=en-GB",
+"papers": []
+},
+"pid:martin-lockett--unnc": {
+"name": "Martin Lockett",
+"verified_only": true,
+"source_url": "https://unnc.globalimpact.cn/en/persons/martin-lockett/",
+"papers": []
+},
+"pid:meng-zhong--unnc": {
+"name": "Meng Zhong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c543e472-bd4f-4119-af42-2d40f81ad064&language=en-GB",
+"papers": []
+},
+"pid:michael-mcnamara--unnc": {
+"name": "Michael McNamara",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=ea51b4c8-d9de-4506-aa12-1cc13636ab82&language=en-GB",
+"papers": []
+},
+"pid:minqi-liu--unnc": {
+"name": "Minqi Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=427712ed-ceb3-4085-8c82-f98e986e4792&language=en-GB",
+"papers": []
+},
+"pid:ngat-chin-lim--unnc": {
+"name": "Ngat-Chin Lim",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7393a1e8-0e50-411a-8e1a-e990648a95f9&language=en-GB",
+"papers": []
+},
+"pid:paolo-bianchi--unnc": {
+"name": "Paolo Bianchi",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=51e17996-4284-482b-b780-d5b0aa38e19d&language=en-GB",
+"papers": []
+},
+"pid:paolo-di-giannatale--unnc": {
+"name": "Paolo Di Giannatale",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=47100253-034a-4fbc-b049-95c2332985e2&language=en-GB",
+"papers": []
+},
+"pid:pingping-fu--unnc": {
+"name": "Pingping Fu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=71217479-7999-4508-ae57-49fc4b98fc60&language=en-GB",
+"papers": []
+},
+"pid:qianshu-zhang--unnc": {
+"name": "Qianshu Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=54b5947d-5724-427d-bc02-ff38e94ca2c6&language=en-GB",
+"papers": []
+},
+"pid:qing-ping-ma--unnc": {
+"name": "Qing-Ping Ma",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=e62c903e-fdf3-4e84-8359-d3848b52c9af&language=en-GB",
+"papers": []
+},
+"pid:qingfeng-wang--unnc": {
+"name": "Qingfeng Wang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=78beb4e1-8bb5-41e3-b7f0-554f1e032e38&language=en-GB",
+"papers": []
+},
+"pid:qingxin-meng--unnc": {
+"name": "Qingxin Meng",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=ff639404-65f0-4565-ade0-55ceb6cc15f0&language=en-GB",
+"papers": []
+},
+"pid:ruolan-chen--unnc": {
+"name": "Ruolan Chen",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=49ec37c4-9664-4c52-a171-2e91e790d7d2&language=en-GB",
+"papers": []
+},
+"pid:saileshsingh-gunessee--unnc": {
+"name": "Saileshsingh Gunessee",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=51f34b69-577b-4597-b0db-8907b14fc6c5&language=en-GB",
+"papers": []
+},
+"pid:sarah-cook--unnc": {
+"name": "Sarah Cook",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=b6197614-123e-455c-8367-bae4fbd47765&language=en-GB",
+"papers": []
+},
+"pid:shabnam-seyedmehdi--unnc": {
+"name": "Shabnam Seyedmehdi",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=ff7bd902-6dae-4c86-8ce7-105eb02965f6&language=en-GB",
+"papers": []
+},
+"pid:shravan-luckraz--unnc": {
+"name": "Shravan Luckraz",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=b46ceac3-5ff1-4217-90eb-144b912ed4c3&language=en-GB",
+"papers": []
+},
+"pid:shuai-yuan--unnc": {
+"name": "Shuai Yuan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c7613e78-e1e3-492d-9176-d77c0782a10d&language=en-GB",
+"papers": []
+},
+"pid:stuart-mcdonald--unnc": {
+"name": "Stuart McDonald",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=f6a70132-e131-4cfe-9c64-7e6dab469d28&language=en-GB",
+"papers": []
+},
+"pid:sunghan-ryu--unnc": {
+"name": "Sunghan Ryu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4bc83f94-a09b-484d-89bc-e0a4e08e987e&language=en-GB",
+"papers": []
+},
+"pid:tiantian-zhang--unnc": {
+"name": "Tiantian Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=ce62680d-b4f5-4560-9f76-0cdae229f038&language=en-GB",
+"papers": []
+},
+"pid:wei-cai--unnc": {
+"name": "Wei Cai",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=a2f6b0ba-df9d-4b03-b210-7f16b5813abf&language=en-GB",
+"papers": []
+},
+"pid:wei-huang--unnc": {
+"name": "Wei Huang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=d1e92710-ba61-41d4-a0eb-79f4342d34ae&language=en-GB",
+"papers": []
+},
+"pid:xiaogang-bi--unnc": {
+"name": "Xiaogang Bi",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=dbbb1453-7d1d-4c9f-b1ad-69e9c37d4342&language=en-GB",
+"papers": []
+},
+"pid:xiaolan-zheng--unnc": {
+"name": "Xiaolan Zheng",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=3b764ee5-5173-469a-82bc-8b391303049a&language=en-GB",
+"papers": []
+},
+"pid:xiaomeng-fan--unnc": {
+"name": "Xiaomeng Fan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=b908fbc9-fd98-494f-b4c5-28670d7a7797&language=en-GB",
+"papers": []
+},
+"pid:xiaotian-li--unnc": {
+"name": "Xiaotian Li",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7833868e-3390-4be2-bdfd-f74b5858f2e8&language=en-GB",
+"papers": []
+},
+"pid:xiuping-hua--unnc": {
+"name": "Xiuping Hua",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=5ed184e6-72ed-45d6-9b19-705b51a639bb&language=en-GB",
+"papers": []
+},
+"pid:xuan-feng--unnc": {
+"name": "Xuan Feng",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=1e204bfa-1f32-48db-a65d-fe0c11d872bb&language=en-GB",
+"papers": []
+},
+"pid:xuan-huang--unnc": {
+"name": "Xuan Huang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=501b2495-6e47-43ba-bb04-36497c7a6c58&language=en-GB",
+"papers": []
+},
+"pid:xuedan-tao--unnc": {
+"name": "Xuedan Tao",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=81e676bd-3e94-4cc3-bc25-9d25995e3929&language=en-GB",
+"papers": []
+},
+"pid:xuyan-lou--unnc": {
+"name": "Xuyan Lou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=978a7554-28cb-4f0e-acba-1995ea405b94&language=en-GB",
+"papers": []
+},
+"pid:yang-li--unnc": {
+"name": "Yang Li",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=21a0ac34-3707-44fe-9d46-68407f1442ec&language=en-GB",
+"papers": []
+},
+"pid:yangyang-jiang--unnc": {
+"name": "Yangyang Jiang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=faefdfbc-68f9-4327-aaa8-e0a42f2bb930&language=en-GB",
+"papers": []
+},
+"pid:yanjun-guan--unnc": {
+"name": "Yanjun Guan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=71cfe7bd-b35e-424a-9c8e-e91c65c59b5f&language=en-GB",
+"papers": []
+},
+"pid:yanze-liang--unnc": {
+"name": "Yanze Liang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=44f9c97f-5a68-4d15-9a74-b1fb55ea70ad&language=en-GB",
+"papers": []
+},
+"pid:yeyanran-ge--unnc": {
+"name": "Yeyanran Ge",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=aa9df9e0-ede7-4da9-98da-b49e51ea4e4e&language=en-GB",
+"papers": []
+},
+"pid:yi-wang--unnc": {
+"name": "Yi Wang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=d4b3924f-3f07-481f-adad-59c5a89fed6d&language=en-GB",
+"papers": []
+},
+"pid:ying-jiang--unnc": {
+"name": "Ying Jiang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=c36a0997-6b2d-47ff-bab6-827fd36171f1&language=en-GB",
+"papers": []
+},
+"pid:yingying-shi--unnc": {
+"name": "Yingying Shi",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=aba25aea-6d47-4b33-b2ad-f1589d5e70e0&language=en-GB",
+"papers": []
+},
+"pid:youzong-xu--unnc": {
+"name": "Youzong Xu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=20e8d1d5-fe09-433a-be84-11f91f766815&language=en-GB",
+"papers": []
+},
+"pid:yueyue-zhang--unnc": {
+"name": "Yueyue Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=9c8e523c-434d-4756-942c-8ae935911146&language=en-GB",
+"papers": [
+{
+"title": "Response of Service Employees to New Organizational Goals Without Specified Rewards: A Quasi-Experiment",
+"authors": [
+"Yongmin Zhu",
+"Yueyue Zhang",
+"Cheng Zhang"
+],
+"year": 2026,
+"venue": "Journal of Service Research",
+"status": "published",
+"doi": "10.1177/10946705261425728",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/yueyue-zhang/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=9c8e523c-434d-4756-942c-8ae935911146&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "29",
+"issue": "4",
+"pages": "655-676",
+"tier": "business"
+}
+]
+},
+"pid:yuxiao-ye--unnc": {
+"name": "Yuxiao Ye",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4e7b27e9-62a5-41fd-8861-79a39c3d9590&language=en-GB",
+"papers": []
+},
+"pid:yuxin-zhang--unnc": {
+"name": "Yuxin Zhang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=82c42a5b-6391-460d-b0e7-d6e7ef21380d&language=en-GB",
+"papers": []
+},
+"pid:yvette-liu--unnc": {
+"name": "Yvette Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=0803886d-8b5a-494a-8527-4edb778dae89&language=en-GB",
+"papers": []
+},
+"pid:zhangfan-cao--unnc": {
+"name": "Zhangfan Cao",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=244eb5b6-6e5c-406d-98ec-0db4aea0f7c7&language=en-GB",
+"papers": []
+},
+"pid:zhao-cai--unnc": {
+"name": "Zhao Cai",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=e3d7ce40-930b-4884-9cca-a2a4bbfcc427&language=en-GB",
+"papers": [
+{
+"title": "Turning the wheels of engagement: Evidence from entertainment live streaming",
+"authors": [
+"Xiaofei Song",
+"Mengyao Fu",
+"Jie Fang",
+"Zhao Cai",
+"Chee-Wee Tan",
+"Eric Tze Kuan Lim",
+"Alain Yee Loong Chong"
+],
+"year": 2025,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "published",
+"doi": "10.1007/s11747-024-01020-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/zhao-cai/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=e3d7ce40-930b-4884-9cca-a2a4bbfcc427&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "53",
+"issue": "4",
+"pages": "1055-1080",
+"tier": "business"
+},
+{
+"title": "How Trust Leads to Commitment on Microsourcing Platforms: Unraveling the Effects of Governance and Third-Party Mechanisms on Triadic Microsourcing Relationships",
+"authors": [
+"Wenbo Guo",
+"Detmar Straub",
+"Pengzhu Zhang",
+"Zhao Cai"
+],
+"year": 2021,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2021/14349",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/zhao-cai/",
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=e3d7ce40-930b-4884-9cca-a2a4bbfcc427&language=en-GB",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "45",
+"issue": "3",
+"pages": "1309-1348",
+"tier": "business"
+}
+]
+},
+"pid:zhen-tan--unnc": {
+"name": "Zhen Tan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4c314abb-3ed9-41f6-8919-d322ccd59d8a&language=en-GB",
+"papers": []
+},
+"pid:zhenjiang-lin--unnc": {
+"name": "Zhenjiang Lin",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=427c3e1e-7c09-42d1-bb04-4f3e8317f174&language=en-GB",
+"papers": []
+},
+"pid:zhijing-zhu--unnc": {
+"name": "Zhijing Zhu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=06fa6f91-082d-465a-b408-9a3b38c9a78c&language=en-GB",
+"papers": []
+},
+"pid:zhixian-yu--unnc": {
+"name": "Zhixian Yu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=cc53cfc4-6d39-4fb1-9297-d5e7117d8103&language=en-GB",
+"papers": []
+},
+"pid:xiaodan-yu--unnc": {
+"name": "Xiaodan Yu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=918607bd-190c-4aa6-a32d-45ddc0c2185e&language=en-GB",
+"papers": []
+},
+"pid:weiping-liu--unnc": {
+"name": "Weiping Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=39e43ee7-bd2d-4cf4-9440-bac597babd1b&language=zh",
+"papers": []
+},
+"pid:xiaoquan-liu--unnc": {
+"name": "Xiaoquan Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=2bb5e391-37f2-4ef2-a05f-ae3e9038187c&language=zh",
+"papers": []
+},
+"pid:chang-liu--unnc": {
+"name": "Chang Liu",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Humanities-and-Social-Sciences/People/Profile.aspx?id=a879742f-71ce-4bb3-bfc9-1a949fa7e40a&language=zh",
+"papers": []
+},
+"pid:steven-zhou--unnc": {
+"name": "Steven Zhou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Info-Hub/Staff-Profile.aspx?id=6fa5da28-3143-4de1-9e35-8713ef027c37&language=zh",
+"papers": []
+},
+"pid:hang-zhou--unnc": {
+"name": "Hang Zhou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Info-Hub/Staff-Profile.aspx?id=cd58c5d9-2765-409b-b85e-0c33ca98925b&language=zh",
+"papers": []
+},
+"pid:abby-zhou--unnc": {
+"name": "Abby Zhou",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Info-Hub/Staff-Profile.aspx?id=cd0c452c-15a1-41f7-adec-f58db3086a8b&language=zh",
+"papers": []
+},
+"pid:qing-xia--unnc": {
+"name": "Qing Xia",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=1cc229fd-9643-4763-a85a-7015eccc90d9&language=en-GB",
+"papers": []
+},
+"pid:fui-theng-leow--unnc": {
+"name": "Fui Theng Leow",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=8a814279-0ea5-46c2-bbe5-e3629ee98107&language=zh",
+"papers": []
+},
+"pid:zu-yao-hong--unnc": {
+"name": "Zu Yao Hong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=7cae8279-a0b2-4128-be27-092f1be52e16&language=en-GB",
+"papers": []
+},
+"pid:cong-cao--unnc": {
+"name": "Cong Cao",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/people/profile.aspx?id=8c89596b-c301-4475-9412-09fbad47b547&language=zh",
+"papers": []
+},
+"pid:kenuo-li--unnc": {
+"name": "Kenuo Li",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=1188edd9-1b2d-4720-8b99-097906d9cbfc&language=en-GB",
+"papers": []
+},
+"pid:jim-mao--unnc": {
+"name": "Jim Mao",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=96433d8d-1d3d-4054-9958-b4960d68f29d&language=en-GB",
+"papers": [
+{
+"title": "Not the Time to be Humble! When and Why Leader Humility Enhances and Deteriorates Evaluations on Leader Effectiveness and Satisfaction with Leader",
+"authors": [
+"Shengming Liu",
+"Jih-Yu Mao",
+"Ning Li",
+"Zhang Yue"
+],
+"year": 2025,
+"venue": "Journal of Management Studies",
+"status": "published",
+"doi": "10.1111/joms.13137",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=96433d8d-1d3d-4054-9958-b4960d68f29d&language=en-GB",
+"https://unnc.globalimpact.cn/en/persons/jim-mao/",
+"https://www.nottingham.edu.cn/en/business/documents/nubs-china-masters-programme-%EF%BC%88english-version-%E7%BD%91%E9%A1%B5%E7%89%8820230710.pdf",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/joms.13137",
+"https://api.crossref.org/works/10.1111/joms.13137",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "62",
+"issue": "7",
+"pages": "2707-2733",
+"tier": "business"
+}
+]
+},
+"pid:miao-wang--unnc": {
+"name": "Miao Wang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=583c4817-54c4-41d5-940d-8a974979e2c1&language=en-GB",
+"papers": [
+{
+"title": "The impacts of U.S. Section 337 investigations on Chinese technology firms",
+"authors": [
+"Jiani Fan",
+"Xiuping Hua",
+"Miao Wang",
+"Yong Wang",
+"Huayi Zhang"
+],
+"year": 2025,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2025.105210",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=583c4817-54c4-41d5-940d-8a974979e2c1&language=en-GB",
+"https://unnc.globalimpact.cn/en/publications/the-impacts-of-us-section-337-investigations-on-chinese-technolog/",
+"https://api.crossref.org/works/10.1016/j.respol.2025.105210",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "54",
+"issue": "5",
+"pages": "105210",
+"tier": "business"
+}
+]
+},
+"pid:rui-luo--unnc": {
+"name": "Rui Luo",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=f3be6c46-99a7-459c-8195-a0ed69a27709&language=en-GB",
+"papers": []
+},
+"pid:li-dong--unnc": {
+"name": "Li Dong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=be6becad-8c34-46ab-b1fa-fceb93acdd5a&language=en-GB",
+"papers": []
+},
+"pid:chew-lian-chua-michael--unnc": {
+"name": "Chew Lian Chua (Michael)",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Humanities-and-Social-Sciences/People/Profile.aspx?id=2f605c6a-7f51-43c9-ba54-5762939ebd26&language=en-GB",
+"papers": []
+},
+"pid:russa-yuan--unnc": {
+"name": "Russa Yuan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=zh",
+"papers": [
+{
+"title": "Testing the effects of augmented and virtual reality attributes on the customer journey in online retailing: A meta-analysis",
+"authors": [
+"Minghao Li",
+"Ruolan Chen",
+"Markus Blut",
+"Ruizhi Yuan",
+"Bo Huang"
+],
+"year": 2026,
+"venue": "Journal of Retailing",
+"status": "published",
+"doi": "10.1016/j.jretai.2026.08.003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://unnc.globalimpact.cn/en/persons/russa-yuan/",
+"https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=zh",
+"https://www.nottingham.edu.cn/en/business/people/academic.aspx",
+"https://api.crossref.org/works/10.1016/j.jretai.2026.08.003",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"tier": "business"
+}
+]
+},
+"pid:tianlun-fei--unnc": {
+"name": "Tianlun Fei",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4f82e450-e06f-4520-b12e-e8477041f0c2&language=en-GB",
+"papers": [
+{
+"title": "Uncertainty and cross-sectional stock returns: Evidence from China",
+"authors": [
+"Bruno Deschamps",
+"Tianlun Fei",
+"Ying Jiang",
+"Xiaoquan Liu"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2024.107374",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=4f82e450-e06f-4520-b12e-e8477041f0c2&language=en-GB",
+"https://unnc.globalimpact.cn/en/persons/tianlun-fei/",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2024.107374",
+"https://pub.orcid.org/v3.0/0000-0002-1844-8773/works",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "171",
+"pages": "107374",
+"tier": "econ_field"
+}
+]
+},
+"pid:kok-wei-khong--unnc": {
+"name": "Kok Wei Khong",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=ad2ac3dc-1fc3-474f-86f4-cc51fa3e4459&language=en-GB",
+"papers": []
+},
+"pid:yi-ruan--unnc": {
+"name": "Yi Ruan",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=2c0b71ac-faaf-43a9-8110-b0da4fb08129&language=zh",
+"papers": []
+},
+"pid:lin-huang--unnc": {
+"name": "Lin Huang",
+"verified_only": true,
+"source_url": "https://www.nottingham.edu.cn/cn/Business/People/Profile.aspx?id=aa0e5bf1-dd72-4512-82bb-4216f1398c51&language=zh",
+"papers": []
+}
+}
