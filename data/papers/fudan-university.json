@@ -34191,5 +34191,1147 @@
 "pid:yan-zhang--fudan-2": {
 "name": "Yan Zhang",
 "papers": []
+},
+"pid:liu-zaijia--fudan": {
+"name": "Liu Zaijia",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012571",
+"papers": []
+},
+"pid:liu-zibo--fudan": {
+"name": "Liu Zibo",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012559",
+"papers": []
+},
+"pid:xueyue-liu--fudan": {
+"name": "Xueyue Liu",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=17978",
+"papers": [
+{
+"title": "Import Competition and Energy Efficiency: Firms' Responses to the WTO Accession in China",
+"authors": [
+"Xueyue Liu",
+"Yu Liu",
+"Ruili Zhao"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2023.08.010",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=17978",
+"https://allenxyliu.github.io/papers/",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/papers/fudan-university.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://api.crossref.org/works/10.1016/j.jebo.2023.08.010"
+],
+"author_index": 0,
+"volume": "214",
+"pages": "670-690",
+"tier": "econ_field"
+}
+]
+},
+"pid:qingfu-liu--fudan": {
+"name": "Qingfu Liu",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14278.htm",
+"papers": [
+{
+"title": "Information transmission in informationally linked markets: Evidence from US and Chinese commodity futures markets",
+"authors": [
+"Qingfu Liu",
+"Yunbi An"
+],
+"year": 2011,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2011.05.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14278.htm",
+"https://econ.fudan.edu.cn/info/1236/6780.htm",
+"https://econ.fudan.edu.cn/info/1034/4927.htm",
+"https://econ.fudan.edu.cn/info/1183/4518.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2011.05.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "30",
+"issue": "5",
+"pages": "778-795",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhikuo-liu--fudan": {
+"name": "Zhikuo Liu",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/22266.htm",
+"papers": [
+{
+"title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+"authors": [
+"Qiaoyi Chen",
+"Zhao Chen",
+"Zhikuo Liu",
+"Juan Carlos Suárez Serrato",
+"Daniel Yi Xu"
+],
+"year": 2025,
+"venue": "American Economic Review",
+"status": "published",
+"doi": "10.1257/aer.20211455",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/22266.htm",
+"https://sites.google.com/view/zhikuoliu/homepage",
+"https://www.aeaweb.org/articles?id=10.1257/aer.20211455",
+"https://api.crossref.org/works/10.1257/aer.20211455",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/american-economic-review.jsonl.gz",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/matched.json"
+],
+"author_index": 2,
+"volume": "115",
+"issue": "2",
+"pages": "408-447",
+"tier": "econ_top5"
+}
+]
+},
+"pid:liu-ye--fudan": {
+"name": "Liu Ye",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012607",
+"papers": [
+{
+"title": "Winning is not enough: Changing landscapes of earnings surprises and the market reaction",
+"authors": [
+"John C. Heater",
+"Ye Liu",
+"Qin Tan",
+"Frank Zhang"
+],
+"year": 2025,
+"venue": "Contemporary Accounting Research",
+"status": "published",
+"doi": "10.1111/1911-3846.13034",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012607",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012607&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012607&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1111/1911-3846.13034",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "42",
+"issue": "2",
+"pages": "1212-1242",
+"tier": "business"
+}
+]
+},
+"pid:wu-lezhen--fudan": {
+"name": "Wu Lezhen",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012112",
+"papers": []
+},
+"pid:wu-shang--fudan": {
+"name": "Wu Shang",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012126",
+"papers": []
+},
+"pid:jing-yao--fudan": {
+"name": "Jing Yao",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14270",
+"papers": []
+},
+"pid:ning-zhong--fudan": {
+"name": "Ning Zhong",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012090",
+"papers": []
+},
+"pid:jin-feng--fudan": {
+"name": "Jin Feng",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14426.htm",
+"papers": [
+{
+"title": "The elderly's response to a patient cost-sharing policy in health insurance: Evidence from China",
+"authors": [
+"Jin Feng",
+"Hong Song",
+"Zhen Wang"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2019.11.009",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14426.htm",
+"https://econ.fudan.edu.cn/__local/1/3C/9D/604572593EB11C6D1F438F11E83_7D5FD26C_271B3.pdf",
+"https://faculty.fudan.edu.cn/fengjin/zh_CN/zdylm/644137/list/",
+"https://api.crossref.org/works/10.1016/j.jebo.2019.11.009",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "169",
+"pages": "189-207",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhuang-lei--fudan": {
+"name": "Zhuang Lei",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012541",
+"papers": []
+},
+"pid:cn-p_cb081d6680c9543fc7cf--fudan": {
+"name": "张军",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=17569",
+"papers": []
+},
+"pid:cn-p_7977e862e5ab7d5d8971--fudan": {
+"name": "张罡",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-190.html",
+"papers": []
+},
+"pid:zhang-jinping--fudan": {
+"name": "Zhang Jinping",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012417",
+"papers": []
+},
+"pid:dai-guorong--fudan": {
+"name": "Dai Guorong",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012421",
+"papers": []
+},
+"pid:fang-zhen--fudan": {
+"name": "Fang Zhen",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012560",
+"papers": []
+},
+"pid:fang-guanhua--fudan": {
+"name": "Fang Guanhua",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012544",
+"papers": []
+},
+"pid:donghui-shi--fudan": {
+"name": "Donghui Shi",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-109.html",
+"papers": [
+{
+"title": "Wealth redistribution in bubbles and crashes",
+"authors": [
+"Li An",
+"Dong Lou",
+"Donghui Shi"
+],
+"year": 2022,
+"venue": "Journal of Monetary Economics",
+"status": "published",
+"doi": "10.1016/j.jmoneco.2022.01.001",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fisf.fudan.edu.cn/show-65-109.html",
+"https://fisf.fudan.edu.cn/en_show-112-106.html",
+"https://api.crossref.org/works/10.1016/j.jmoneco.2022.01.001"
+],
+"author_index": 2,
+"volume": "126",
+"pages": "134-153",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_385c3a4c8105e746c753--fudan": {
+"name": "施文韵",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-178.html",
+"papers": []
+},
+"pid:ting-li--fudan": {
+"name": "Ting Li",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14253.htm",
+"papers": []
+},
+"pid:rui-li--fudan": {
+"name": "Rui Li",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/36037.htm",
+"papers": [
+{
+"title": "The Effects of a Multifaceted Poverty Alleviation Program on Rural Income and Household Behavior in China",
+"authors": [
+"Rui Li",
+"Hong Song",
+"Jun Zhang",
+"Junsen Zhang"
+],
+"year": 2025,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published",
+"doi": "10.1257/pol.20210485",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/36037.htm",
+"https://econ.fudan.edu.cn/__local/3/A7/6F/2CA683546DEF71269D7D27ED910_160DA696_3FF2D.pdf",
+"https://sites.google.com/view/rui-li/research",
+"https://econ.fudan.edu.cn/info/1024/25617.htm",
+"https://www.aeaweb.org/articles?id=10.1257/pol.20210485",
+"https://api.crossref.org/works/10.1257/pol.20210485",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "17",
+"issue": "2",
+"pages": "319-357",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_66c39a5fd73ea51d9d87--fudan": {
+"name": "杜莉",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=46718",
+"papers": []
+},
+"pid:cn-p_bc50ba306cad68919149--fudan": {
+"name": "杨春柳",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-86.html",
+"papers": []
+},
+"pid:cn-p_66622c8f3b4cc06512f9--fudan": {
+"name": "杨青",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14271",
+"papers": []
+},
+"pid:lin-chen--fudan": {
+"name": "Lin Chen",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012456",
+"papers": []
+},
+"pid:haichao-fan--fudan": {
+"name": "Haichao Fan",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14245",
+"papers": []
+},
+"pid:lingwei-wu--fudan": {
+"name": "Lingwei Wu",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/19159.htm",
+"papers": []
+},
+"pid:jiajun-jiang--fudan": {
+"name": "Jiajun Jiang",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/17979.htm",
+"papers": [
+{
+"title": "Investor Sentiment, Managerial Manipulation, and Stock Returns",
+"authors": [
+"JIAJUN JIANG",
+"QI LIU",
+"BO SUN"
+],
+"year": 2025,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published",
+"doi": "10.1111/jmcb.13223",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/17979.htm",
+"https://www.jiangjj.fun/publications/",
+"https://econ.fudan.edu.cn/info/1034/35997.htm",
+"https://api.crossref.org/works/10.1111/jmcb.13223",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "57",
+"issue": "8",
+"pages": "2189-2209",
+"tier": "econ_field"
+}
+]
+},
+"pid:guobing-shen--fudan": {
+"name": "Guobing Shen",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14239",
+"papers": [
+{
+"title": "Internetization, supplier search, and diversification of global supply chains",
+"authors": [
+"Guobing Shen",
+"Binchao Shen",
+"Ruochen Wu"
+],
+"year": 2025,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2025.104951",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14239",
+"https://econ.fudan.edu.cn/info/1028/14239.htm",
+"https://econ.fudan.edu.cn/en/Faculty/All/6.htm",
+"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728051",
+"https://api.crossref.org/works/10.1016/j.euroecorev.2025.104951",
+"https://www.sciencedirect.com/science/article/pii/S0014292125000029"
+],
+"author_index": 0,
+"volume": "172",
+"pages": "104951",
+"tier": "econ_field"
+}
+]
+},
+"pid:pan-wenqiang--fudan": {
+"name": "Pan Wenqiang",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012617",
+"papers": []
+},
+"pid:cn-p_e00e13b34c7225dc71a6--fudan": {
+"name": "王弟海",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14151",
+"papers": []
+},
+"pid:cn-p_2dd87c806186dbd301a6--fudan": {
+"name": "王永钦",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14256",
+"papers": []
+},
+"pid:xilin-wang--fudan": {
+"name": "Xilin Wang",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=20470",
+"papers": [
+{
+"title": "Agricultural revolution and industrialization",
+"authors": [
+"Angus C. Chu",
+"Pietro F. Peretto",
+"Xilin Wang"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2022.102887",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=20470",
+"https://econ.fudan.edu.cn/info/1028/20470.htm",
+"https://authors.repec.org/pro/pwa852/",
+"https://sites.google.com/site/angusccc/home/student",
+"https://www.tup.tsinghua.edu.cn/booksCenter/bookauthorbrief?id=09274301",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2022.102887"
+],
+"author_index": 2,
+"volume": "158",
+"pages": "102887",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhen-wang--fudan": {
+"name": "Zhen Wang",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=19162",
+"papers": [
+{
+"title": "The elderly's response to a patient cost-sharing policy in health insurance: Evidence from China",
+"authors": [
+"Jin Feng",
+"Hong Song",
+"Zhen Wang"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2019.11.009",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=19162",
+"https://econ.fudan.edu.cn/info/1028/19162.htm",
+"https://econ.fudan.edu.cn/info/1026/18978.htm",
+"https://aging.fudan.edu.cn/contents/24/263.html",
+"https://faculty.fudan.edu.cn/fengjin/zh_CN/zdylm/644137/list/",
+"https://api.crossref.org/works/10.1016/j.jebo.2019.11.009"
+],
+"author_index": 2,
+"volume": "169",
+"pages": "189-207",
+"tier": "econ_field"
+}
+]
+},
+"pid:suhua-tian--fudan": {
+"name": "Suhua Tian",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14190.htm",
+"papers": [
+{
+"title": "Bank capital, interbank contagion, and bailout policy",
+"authors": [
+"Suhua Tian",
+"Yunhong Yang",
+"Gaiyan Zhang"
+],
+"year": 2013,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2013.03.024",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14190.htm",
+"https://econ.fudan.edu.cn/__local/1/33/50/E96AEE10EA48F7B5E5008FC50CC_B16D931E_F6E51.pdf?e=.pdf",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2013.03.024"
+],
+"author_index": 0,
+"volume": "37",
+"issue": "8",
+"pages": "2765-2778",
+"tier": "econ_field"
+}
+]
+},
+"pid:shi-yansong--fudan": {
+"name": "Shi Yansong",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012909",
+"papers": [
+{
+"title": "Probing Digital Footprints and Reaching for Inherent Preferences: A Cause-Disentanglement Approach to Personalized Recommendations",
+"authors": [
+"Cong Wang",
+"Yansong Shi",
+"Xunhua Guo",
+"Guoqing Chen"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2023.0181",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012909",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012909&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012909&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/isre.2023.0181",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "36",
+"issue": "3",
+"pages": "1314-1332",
+"tier": "business"
+}
+]
+},
+"pid:zhang-yuan--fudan": {
+"name": "Zhang Yuan",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14263",
+"papers": []
+},
+"pid:cn-p_f732c70197d2ec383555--fudan": {
+"name": "童国士",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-164.html",
+"papers": []
+},
+"pid:changyuan-luo--fudan": {
+"name": "Changyuan Luo",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14240.htm",
+"papers": [
+{
+"title": "Destination trade credit and exports: Evidence from cross-country panel data",
+"authors": [
+"Shuai Zeng",
+"Changyuan Luo",
+"Laixun Zhao"
+],
+"year": 2023,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2023.102900",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14240.htm",
+"https://flcds.fudan.edu.cn/info/1115/2002.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2023.102900"
+],
+"author_index": 1,
+"volume": "137",
+"pages": "102900",
+"tier": "econ_field"
+},
+{
+"title": "U.S.-China trade frictions and supply chain reconstruction: Perspective from indirect links",
+"authors": [
+"Changyuan Luo",
+"Ning Wang"
+],
+"year": 2025,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2024.103256",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14240.htm",
+"https://flcds.fudan.edu.cn/info/1115/2646.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2024.103256"
+],
+"author_index": 0,
+"volume": "151",
+"pages": "103256",
+"tier": "econ_field"
+}
+]
+},
+"pid:hu-jinjin--fudan": {
+"name": "Hu Jinjin",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012015",
+"papers": [
+{
+"title": "Robust minimum variance portfolio with L-infinity constraints",
+"authors": [
+"Xin Xing",
+"Jinjin Hu",
+"Yaning Yang"
+],
+"year": 2014,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2014.05.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012015",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012015&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012015&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2014.05.004",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "46",
+"pages": "107-117",
+"tier": "econ_field"
+}
+]
+},
+"pid:xu-zhengchuan--fudan": {
+"name": "Xu Zhengchuan",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012011",
+"papers": []
+},
+"pid:xue-mengying--fudan": {
+"name": "Xue Mengying",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012998",
+"papers": [
+{
+"title": "Rational Choice Models: The Temporal Tree Representation",
+"authors": [
+"Qi Feng",
+"J. George Shanthikumar",
+"Mengying Xue"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.03967",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012998",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/mnsc.2023.03967",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.fdsm.fudan.edu.cn/en/2021/1214/c1894a30583/page.htm",
+"https://bs.ustc.edu.cn/english/profile-1876.html"
+],
+"author_index": 2,
+"volume": "72",
+"issue": "8",
+"pages": "7073-7090",
+"tier": "business"
+},
+{
+"title": "Consumer Choice Models and Estimation: A Review and Extension",
+"authors": [
+"Qi Feng",
+"J. George Shanthikumar",
+"Mengying Xue"
+],
+"year": 2022,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13499",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012998",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1111/poms.13499",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.fdsm.fudan.edu.cn/en/2021/1214/c1894a30583/page.htm",
+"https://bs.ustc.edu.cn/english/profile-1876.html"
+],
+"author_index": 2,
+"volume": "31",
+"issue": "2",
+"pages": "847-867",
+"tier": "business"
+},
+{
+"title": "Data-Driven Reliable Facility Location Design",
+"authors": [
+"Hao Shen",
+"Mengying Xue",
+"Zuo-Jun Max Shen"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2021.02115",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012998",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/mnsc.2021.02115",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.fdsm.fudan.edu.cn/en/2021/1214/c1894a30583/page.htm",
+"https://bs.ustc.edu.cn/english/profile-1876.html"
+],
+"author_index": 1,
+"volume": "71",
+"issue": "8",
+"pages": "7182-7199",
+"tier": "business"
+},
+{
+"title": "Offline-Channel Planning in Smart Omnichannel Retailing",
+"authors": [
+"Jian Chen",
+"Yong Liang",
+"Hao Shen",
+"Zuo-Jun Max Shen",
+"Mengying Xue"
+],
+"year": 2022,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2021.1036",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012998",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012998&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/msom.2021.1036",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.fdsm.fudan.edu.cn/en/2021/1214/c1894a30583/page.htm",
+"https://bs.ustc.edu.cn/english/profile-1876.html"
+],
+"author_index": 4,
+"volume": "24",
+"issue": "5",
+"pages": "2444-2462",
+"tier": "business"
+}
+]
+},
+"pid:tangjun-yuan--fudan": {
+"name": "Tangjun Yuan",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14197",
+"papers": []
+},
+"pid:siqi-zhao--fudan": {
+"name": "Siqi Zhao",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=25747",
+"papers": [
+{
+"title": "Consumption dynamics with law of small numbers",
+"authors": [
+"Yingjie Niu",
+"Yaoyao Wu",
+"Siqi Zhao",
+"Zhentao Zou"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.06.021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=25747",
+"https://sites.google.com/view/siqi-zhao0411/首页",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.06.021",
+"https://rsj.sh.gov.cn/tgsgg_17341/20221202/t0035_1412057.html"
+],
+"author_index": 2,
+"volume": "224",
+"pages": "915-923",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_5f14337b8a3fe4b2ba7f--fudan": {
+"name": "赵腾宇",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=25427",
+"papers": []
+},
+"pid:deng-chaowen--fudan": {
+"name": "Deng Chaowen",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=013007",
+"papers": []
+},
+"pid:li-guo--fudan": {
+"name": "Li Guo",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14399.htm",
+"papers": []
+},
+"pid:jin-chao--fudan": {
+"name": "Jin Chao",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012619",
+"papers": []
+},
+"pid:qiaoyi-chen--fudan": {
+"name": "Qiaoyi Chen",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/20552.htm",
+"papers": []
+},
+"pid:cn-p_08a514144950c1175b40--fudan": {
+"name": "陈冬梅",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14215",
+"papers": []
+},
+"pid:chen-gang--fudan": {
+"name": "Chen Gang",
+"verified_only": true,
+"source_url": "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"papers": [
+{
+"title": "Deep Chain-of-Preference: A Novel Deep Learning Method for Mixed-Grained Recommendation",
+"authors": [
+"Gang Chen",
+"Tan Cheng",
+"Jianxiong Wang",
+"Shuaiyong Xiao",
+"Huimin Zhao"
+],
+"year": 2026,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2025/19311",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.25300/misq/2025/19311",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "50",
+"issue": "3",
+"pages": "1117-1156",
+"tier": "business"
+},
+{
+"title": "When Multimodal Interactions Impair Prediction: A Novel Regularized Deep Learning Strategy",
+"authors": [
+"Gang Chen",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2026,
+"venue": "INFORMS Journal on Computing",
+"status": "published",
+"doi": "10.1287/ijoc.2024.0794",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/ijoc.2024.0794",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"tier": "business"
+},
+{
+"title": "Attending to Customer Attention: A Novel Deep Learning Method for Leveraging Multimodal Online Reviews to Enhance Sales Prediction",
+"authors": [
+"Gang Chen",
+"Lihua Huang",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2024,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2021.0292",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/isre.2021.0292",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "35",
+"issue": "2",
+"pages": "829-849",
+"tier": "business"
+},
+{
+"title": "A Theory-Driven Deep Learning Method for Voice Chat–Based Customer Response Prediction",
+"authors": [
+"Gang Chen",
+"Shuaiyong Xiao",
+"Chenghong Zhang",
+"Huimin Zhao"
+],
+"year": 2023,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2022.1196",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/isre.2022.1196",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "4",
+"pages": "1513-1532",
+"tier": "business"
+},
+{
+"title": "Beyond Complements and Substitutes: A Graph Neural Network Approach for Collaborative Retail Sales Forecasting",
+"authors": [
+"Jing Liu",
+"Gang Wang",
+"Huimin Zhao",
+"Mingfeng Lu",
+"Lihua Huang",
+"Gang Chen"
+],
+"year": 2025,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2023.0773",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.1287/isre.2023.0773",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 5,
+"volume": "36",
+"issue": "4",
+"pages": "1993-2016",
+"tier": "business"
+},
+{
+"title": "Leveraging Multisource Heterogeneous Data for Financial Risk Prediction: A Novel Hybrid-Strategy-Based Self-Adaptive Method",
+"authors": [
+"Gang Wang",
+"Gang Chen",
+"Huimin Zhao",
+"Feng Zhang",
+"Shanlin Yang",
+"Tian Lu"
+],
+"year": 2021,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2021/16118",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012922",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=educationalBackground&typeStr=",
+"https://app.fdsm.fudan.edu.cn/NewTeacherService/api/Professor/GetSingleTeacherOtherInfo?personId=012922&language=cn&labelName=journalPapers&typeStr=",
+"https://api.crossref.org/works/10.25300/misq/2021/16118",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "45",
+"issue": "4",
+"pages": "1949-1998",
+"tier": "business"
+}
+]
+},
+"pid:shuo-chen--fudan": {
+"name": "Shuo Chen",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14134",
+"papers": []
+},
+"pid:zhao-chen--fudan": {
+"name": "Zhao Chen",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1028/14249.htm",
+"papers": [
+{
+"title": "Notching R&D Investment with Corporate Income Tax Cuts in China",
+"authors": [
+"Zhao Chen",
+"Zhikuo Liu",
+"Juan Carlos Suárez Serrato",
+"Daniel Yi Xu"
+],
+"year": 2021,
+"venue": "American Economic Review",
+"status": "published",
+"doi": "10.1257/aer.20191758",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14249.htm",
+"https://econ.fudan.edu.cn/__local/D/A7/0D/DE6F00923BA579CA38269BDECEF_D7F320DF_191EE.pdf",
+"https://api.crossref.org/works/10.1257/aer.20191758",
+"https://www.aeaweb.org/articles?id=10.1257/aer.20191758"
+],
+"author_index": 0,
+"volume": "111",
+"issue": "7",
+"pages": "2065-2100",
+"tier": "econ_top5"
+},
+{
+"title": "Tax Policy and Lumpy Investment Behaviour: Evidence from China’s VAT Reform",
+"authors": [
+"Zhao Chen",
+"Xian Jiang",
+"Zhikuo Liu",
+"Juan Carlos Suárez Serrato",
+"Daniel Yi Xu"
+],
+"year": 2023,
+"venue": "Review of Economic Studies",
+"status": "published",
+"doi": "10.1093/restud/rdac027",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14249.htm",
+"https://econ.fudan.edu.cn/__local/D/A7/0D/DE6F00923BA579CA38269BDECEF_D7F320DF_191EE.pdf",
+"https://api.crossref.org/works/10.1093/restud/rdac027"
+],
+"author_index": 0,
+"volume": "90",
+"issue": "2",
+"pages": "634-674",
+"tier": "econ_top5"
+},
+{
+"title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+"authors": [
+"Qiaoyi Chen",
+"Zhao Chen",
+"Zhikuo Liu",
+"Juan Carlos Suárez Serrato",
+"Daniel Yi Xu"
+],
+"year": 2025,
+"venue": "American Economic Review",
+"status": "published",
+"doi": "10.1257/aer.20211455",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/info/1028/14249.htm",
+"https://econ.fudan.edu.cn/__local/D/A7/0D/DE6F00923BA579CA38269BDECEF_D7F320DF_191EE.pdf",
+"https://api.crossref.org/works/10.1257/aer.20211455",
+"https://ftp.aeaweb.org/articles?id=10.1257/aer.20211455"
+],
+"author_index": 1,
+"volume": "115",
+"issue": "2",
+"pages": "408-447",
+"tier": "econ_top5"
+}
+]
+},
+"pid:cn-p_6b115076ec3c61cea412--fudan": {
+"name": "马晓崟",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/show-65-186.html",
+"papers": []
 }
 }

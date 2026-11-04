@@ -103,5 +103,173 @@
 "status": "working_paper"
 }
 ]
+},
+"pid:andrew-cheon--dku": {
+"name": "Andrew Cheon",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/andrew-cheon",
+"papers": []
+},
+"pid:andrew-macdonald--dku": {
+"name": "Andrew MacDonald",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/andrew-macdonald",
+"papers": []
+},
+"pid:annemieke-van-den-dool--dku": {
+"name": "Annemieke Van Den Dool",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/annemieke-van-den-dool/",
+"papers": []
+},
+"pid:chen-zhang--dku": {
+"name": "Chen Zhang",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/chen-zhang/",
+"papers": []
+},
+"pid:claudia-nisa--dku": {
+"name": "Claudia Nisa",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/claudia-nisa",
+"papers": []
+},
+"pid:david-landry--dku": {
+"name": "David Landry",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/david-landry/",
+"papers": []
+},
+"pid:ira-soboleva--dku": {
+"name": "Ira Soboleva",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/ira-soboleva/",
+"papers": []
+},
+"pid:jason-douglas-todd--dku": {
+"name": "Jason Douglas Todd",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/jason-douglas-todd",
+"papers": []
+},
+"pid:jiahua-yue--dku": {
+"name": "Jiahua Yue",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/jiahua-yue",
+"papers": []
+},
+"pid:liqi-ren--dku": {
+"name": "Liqi Ren",
+"verified_only": true,
+"source_url": "https://gsi.dukekunshan.edu.cn/faculty/liqi-ren/",
+"papers": []
+},
+"pid:meifang-chen--dku": {
+"name": "Meifang Chen",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/meifang-chen",
+"papers": []
+},
+"pid:mengqi-wang--dku": {
+"name": "Mengqi Wang",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/mengqi-wang",
+"papers": []
+},
+"pid:nellie-chu--dku": {
+"name": "Nellie Chu",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/nellie-chu",
+"papers": []
+},
+"pid:paula-ganga--dku": {
+"name": "Paula Ganga",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/paula-ganga/",
+"papers": []
+},
+"pid:quinlan-bowman--dku": {
+"name": "Quinlan Bowman",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/quinlan-bowman",
+"papers": []
+},
+"pid:seongkyung-cho--dku": {
+"name": "Seongkyung Cho",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/seongkyung-cho",
+"papers": []
+},
+"pid:truls-stbye--dku": {
+"name": "Truls Østbye",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/truls-ostbye",
+"papers": []
+},
+"pid:yanran-yang--dku": {
+"name": "Yanran Yang",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang",
+"papers": []
+},
+"pid:yisu-zhou--dku": {
+"name": "Yisu Zhou",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/yisu-zhou/",
+"papers": []
+},
+"pid:yujia-zhang--dku": {
+"name": "Yujia Zhang",
+"verified_only": true,
+"source_url": "https://social-science.dukekunshan.edu.cn/people/yujia-zhang/",
+"papers": []
+},
+"pid:haoran-wan--dku": {
+"name": "Haoran Wan",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/haoran-wan",
+"papers": []
+},
+"pid:xinyu-zhang--dku": {
+"name": "Xinyu Zhang",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/xinyu-zhang",
+"papers": []
+},
+"pid:fujie-xu--dku": {
+"name": "Fujie Xu",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/fujie-xu",
+"papers": []
+},
+"pid:fangsheng-zhu--dku": {
+"name": "Fangsheng Zhu",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/fangsheng-zhu",
+"papers": []
+},
+"pid:shenglan-tang--dku": {
+"name": "Shenglan Tang",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/shenglan-tang",
+"papers": []
+},
+"pid:lijing-yan--dku": {
+"name": "Lijing Yan",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/lijing-yan",
+"papers": []
+},
+"pid:coraline-goron--dku": {
+"name": "Coraline Goron",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/coraline-goron",
+"papers": []
+},
+"pid:qian-long--dku": {
+"name": "Qian Long",
+"verified_only": true,
+"source_url": "https://faculty.dukekunshan.edu.cn/faculty_profiles/qian-long",
+"papers": []
 }
 }

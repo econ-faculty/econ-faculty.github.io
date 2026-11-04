@@ -2788,5 +2788,183 @@
 "shijin zhang": {
 "name": "Shijin Zhang",
 "papers": []
+},
+"pid:cn-p_566296061724ad88838e--lnu": {
+"name": "仇焕广",
+"verified_only": true,
+"source_url": "https://econ.lnu.edu.cn/info/1018/2680.htm",
+"papers": []
+},
+"pid:wenqiang-lv--lnu": {
+"name": "Wenqiang Lv",
+"verified_only": true,
+"source_url": "https://jmxy.lnu.edu.cn/info/1094/2404.htm",
+"papers": [
+{
+"title": "China’s GDP-at-Risk: Real-Time Monitoring, Risk Tracing, and Macroeconomic Policy Effects",
+"authors": [
+"Jianli Sui",
+"Wenqiang Lv",
+"Xiang Gao",
+"Kees G. Koedijk"
+],
+"year": 2024,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2024.103150",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jmxy.lnu.edu.cn/info/1094/2404.htm",
+"https://jlucqe.jlu.edu.cn/info/1004/11451.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2024.103150"
+],
+"author_index": 1,
+"volume": "147",
+"pages": "103150",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_50032585549962952f8c--lnu": {
+"name": "杨丽冬",
+"verified_only": true,
+"source_url": "https://ceri.lnu.edu.cn/info/1016/2986.htm",
+"papers": []
+},
+"pid:da-yang--lnu": {
+"name": "Da Yang",
+"verified_only": true,
+"source_url": "https://gjgx.lnu.edu.cn/info/13499/71423.htm",
+"papers": [
+{
+"title": "Covid-19 vaccine approvals and stock market returns: The case of Chinese stocks",
+"authors": [
+"Ken C. Ho",
+"Yibo Gao",
+"Qiying Gu",
+"Da Yang"
+],
+"year": 2022,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2022.110466",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gjgx.lnu.edu.cn/info/13499/71423.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2022.110466"
+],
+"author_index": 3,
+"volume": "215",
+"pages": "110466",
+"tier": "econ_field"
+}
+]
+},
+"pid:shulin-wang--lnu": {
+"name": "Shulin Wang",
+"verified_only": true,
+"source_url": "https://swibs.lnu.edu.cn/info/1314/2414.htm",
+"papers": [
+{
+"title": "Exploring Confucian Culture’s Impact on Corporate Debt Default Risk: An Ethical Decision-Making Approach",
+"authors": [
+"Ning Zhang",
+"Lan Bo",
+"Shulin Wang",
+"Xuanqiao Wang"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05765-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://swibs.lnu.edu.cn/info/1314/2414.htm",
+"https://api.crossref.org/works/10.1007/s10551-024-05765-1",
+"https://link.springer.com/article/10.1007/s10551-024-05765-1",
+"https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2268268"
+],
+"author_index": 2,
+"volume": "198",
+"issue": "2",
+"pages": "467-484",
+"tier": "business"
+}
+]
+},
+"pid:wang-xuanqiao--lnu": {
+"name": "Wang Xuanqiao",
+"verified_only": true,
+"source_url": "https://jjxb.lnu.edu.cn/info/1002/3918.htm",
+"papers": [
+{
+"title": "Exploring Confucian Culture’s Impact on Corporate Debt Default Risk: An Ethical Decision-Making Approach",
+"authors": [
+"Ning Zhang",
+"Lan Bo",
+"Shulin Wang",
+"Xuanqiao Wang"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05765-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jjxb.lnu.edu.cn/info/1002/3918.htm",
+"https://www.kjjb.org/CN/10.6049/kjjbydc.2020110186",
+"https://link.springer.com/article/10.1007/s10551-024-05765-1",
+"https://www.tandfonline.com/doi/abs/10.1080/00036846.2024.2364942",
+"https://www.tandfonline.com/doi/full/10.1080/00036846.2024.2311760"
+],
+"author_index": 3,
+"volume": "198",
+"issue": "2",
+"pages": "467-484",
+"tier": "business"
+}
+]
+},
+"pid:bo-lan--lnu": {
+"name": "Bo Lan",
+"verified_only": true,
+"source_url": "https://swibs.lnu.edu.cn/info/1312/2396.htm",
+"papers": [
+{
+"title": "Exploring Confucian Culture’s Impact on Corporate Debt Default Risk: An Ethical Decision-Making Approach",
+"authors": [
+"Ning Zhang",
+"Lan Bo",
+"Shulin Wang",
+"Xuanqiao Wang"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05765-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://swibs.lnu.edu.cn/info/1312/2396.htm",
+"https://enweb.lnu.edu.cn/info/15090/1457.htm",
+"https://api.crossref.org/works/10.1007/s10551-024-05765-1"
+],
+"author_index": 1,
+"volume": "198",
+"issue": "2",
+"pages": "467-484",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_b00335a7c0b060dfb6fa--lnu": {
+"name": "邢源源",
+"verified_only": true,
+"source_url": "https://jmxy.lnu.edu.cn/info/1096/1463.htm",
+"papers": []
 }
 }

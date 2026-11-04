@@ -8429,5 +8429,289 @@
 "zhixing xu": {
 "name": "Zhixing Xu",
 "papers": []
+},
+"pid:cn-p_f79ac78d1851a5e9196e--bnu": {
+"name": "刘世勇",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/zg/96746360deb3459cb531371eda05d85b.htm",
+"papers": []
+},
+"pid:hongyu-xiang--bnu": {
+"name": "Hongyu Xiang",
+"verified_only": true,
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/1060.html",
+"papers": [
+{
+"title": "Venture capital certification and customer response: Evidence from P2P lending platforms",
+"authors": [
+"Emma Li",
+"Li Liao",
+"Zhengwei Wang",
+"Hongyu Xiang"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2019.101533",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bshr.bnu.edu.cn/Public/htm/news/5/1060.html",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2019.101533"
+],
+"author_index": 3,
+"volume": "60",
+"pages": "101533",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_d838ce892af9632d6193--bnu": {
+"name": "吴义熔",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/zg/1ab28891ec4b4db187f5c4810078e1ba.htm",
+"papers": []
+},
+"pid:cn-p_1dc0ce1bc0bf7adeb0f0--bnu": {
+"name": "张宗卿",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/102db833da5d4c1e84b2d53b7c85de8b.htm",
+"papers": []
+},
+"pid:mi-dai--bnu": {
+"name": "Mi Dai",
+"papers": [
+{
+"title": "How did China's WTO entry affect U.S. prices?",
+"authors": [
+"Mary Amiti",
+"Mi Dai",
+"Robert C. Feenstra",
+"John Romalis"
+],
+"year": 2020,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2020.103339",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bshr.bnu.edu.cn/Public/htm/news/5/20.html",
+"https://api.crossref.org/works/10.1016/j.jinteco.2020.103339"
+],
+"author_index": 1,
+"volume": "126",
+"pages": "103339",
+"tier": "econ_field"
+}
+],
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/20.html"
+},
+"pid:sheng-fang--bnu": {
+"name": "Sheng Fang",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/757f4793ab354913beb3db05136beec9.htm",
+"papers": [
+{
+"title": "Does FDI have a social demonstration effect in developing economies? Evidence based on the presence of women-led local firms",
+"authors": [
+"Sheng Fang",
+"Dean Xu",
+"Lixin Colin Xu",
+"Heba Shams"
+],
+"year": 2023,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-023-00604-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bibs.bnu.edu.cn/teachers/qzjs/fg/757f4793ab354913beb3db05136beec9.htm",
+"https://api.crossref.org/works/10.1057/s41267-023-00604-3"
+],
+"author_index": 0,
+"volume": "54",
+"issue": "7",
+"pages": "1332-1350",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_fa88c873301a2b177548--bnu": {
+"name": "杜彤云",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/1b4fa0031252404b95aa696938ffccee.htm",
+"papers": []
+},
+"pid:cn-p_5221f6ae4a98d5753fbd--bnu": {
+"name": "涂勤",
+"verified_only": true,
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/1199.html",
+"papers": []
+},
+"pid:cn-p_ed269696428b7d714687--bnu": {
+"name": "牛子晗",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/c5b74aba06194d238eade6fd5b72d7e3.htm",
+"papers": []
+},
+"pid:cn-p_ae905860339b53305b9c--bnu": {
+"name": "蒋安丽",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/c6bcb139da754f649e1a241bab677a2f.htm",
+"papers": []
+},
+"pid:cn-p_9c5dca8f73ace4f3bf31--bnu": {
+"name": "蔡子君",
+"verified_only": true,
+"source_url": "http://bshr.bnu.edu.cn/Public/htm/news/5/1040.html",
+"papers": []
+},
+"pid:cn-p_d2442514d9cf4633402d--bnu": {
+"name": "袁治杰",
+"verified_only": true,
+"source_url": "https://bnulaw.bnu.edu.cn/teacher/83/index.html",
+"papers": []
+},
+"pid:zhijie-zheng--bnu": {
+"name": "Zhijie Zheng",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/cf7f86d8a02b48e4b441195d43b46d78.htm",
+"papers": [
+{
+"title": "Monetary Policy in a Schumpeterian Growth Model with Vertical R&D Sectors",
+"authors": [
+"CHIEN‐YU HUANG",
+"YOUCHANG WU",
+"YIBAI YANG",
+"ZHIJIE ZHENG"
+],
+"year": 2023,
+"venue": "Journal of Money, Credit and Banking",
+"status": "published",
+"doi": "10.1111/jmcb.12929",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bibs.bnu.edu.cn/teachers/qzjs/fg/cf7f86d8a02b48e4b441195d43b46d78.htm",
+"https://api.crossref.org/works/10.1111/jmcb.12929"
+],
+"author_index": 3,
+"volume": "55",
+"issue": "6",
+"pages": "1569-1607",
+"tier": "econ_field"
+}
+]
+},
+"pid:ying-hao--bnu": {
+"name": "Ying Hao",
+"verified_only": true,
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/71.html",
+"papers": [
+{
+"title": "GDP growth incentives and earnings management: evidence from China",
+"authors": [
+"Xia Chen",
+"Qiang Cheng",
+"Ying Hao",
+"Qiang Liu"
+],
+"year": 2020,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-020-09547-8",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bshr.bnu.edu.cn/Public/htm/news/5/71.html",
+"https://api.crossref.org/works/10.1007/s11142-020-09547-8"
+],
+"author_index": 2,
+"volume": "25",
+"issue": "3",
+"pages": "1002-1039",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_26229cfe6571557ec0bd--bnu": {
+"name": "钱婧",
+"verified_only": true,
+"source_url": "http://bshr.bnu.edu.cn/Public/htm/news/5/48.html",
+"papers": []
+},
+"pid:cn-p_abd02681f8d645d6cb93--bnu": {
+"name": "陈儒",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/00e5472df6f645429535c488812d5187.htm",
+"papers": []
+},
+"pid:han-zheng--bnu": {
+"name": "Han Zheng",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/zj/9798a669bd614662b2de91eab22890a1.htm",
+"papers": []
+},
+"pid:hao-wei--bnu": {
+"name": "Hao Wei",
+"verified_only": true,
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/23.html",
+"papers": [
+{
+"title": "New international flight routes and MNCs' investment",
+"authors": [
+"Hao Wei",
+"Yuan Liu"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2025.102893",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bshr.bnu.edu.cn/Public/htm/news/5/23.html",
+"https://bs.bnu.edu.cn/xzcg/f81fdf35d26643f9918b56f8b7fac79d.html",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2025.102893"
+],
+"author_index": 0,
+"volume": "96",
+"pages": "102893",
+"tier": "econ_field"
+}
+]
+},
+"pid:shiyang-gong--bnu": {
+"name": "Shiyang Gong",
+"verified_only": true,
+"source_url": "https://bshr.bnu.edu.cn/Public/htm/news/5/1129.html",
+"papers": [
+{
+"title": "Genes and Sales",
+"authors": [
+"Shiyang Gong",
+"Qian Li",
+"Song Su",
+"Juanjuan Zhang"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.4879",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bshr.bnu.edu.cn/Public/htm/news/5/1129.html",
+"https://api.crossref.org/works/10.1287/mnsc.2023.4879"
+],
+"author_index": 0,
+"volume": "70",
+"issue": "6",
+"pages": "3902-3922",
+"tier": "business"
+}
+]
 }
 }

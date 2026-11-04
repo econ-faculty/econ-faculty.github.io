@@ -6525,5 +6525,916 @@
 "status": "published"
 }
 ]
+},
+"pid:jiayan-yan--nju": {
+"name": "Jiayan Yan",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/yjy/list.htm",
+"papers": [
+{
+"title": "The convention on tax mutual administrative assistance and divestment: Evidence from China",
+"authors": [
+"Xiaoning Song",
+"Jiayan Yan",
+"Guilong Cai",
+"Huimin (Amy) Chen"
+],
+"year": 2025,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-024-00747-x",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/yjy/list.htm",
+"https://api.crossref.org/works/10.1057/s41267-024-00747-x"
+],
+"author_index": 1,
+"volume": "56",
+"issue": "3",
+"pages": "336-349",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_f3f4dfaf50c16dce38fc--nju": {
+"name": "冯帆",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/ff/listm.htm",
+"papers": [
+{
+"title": "Customer Complaint Avoidance: A Randomized Field Experiment of Platform Governance Based on Value Co-Creation and Appropriation",
+"authors": [
+"Xia Zhao",
+"Peijian Song",
+"Lanfei Shi",
+"Ling Xue",
+"Fan Feng"
+],
+"year": 2023,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2022/17000",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/ff/listm.htm",
+"https://api.crossref.org/works/10.25300/misq/2022/17000"
+],
+"author_index": 4,
+"volume": "47",
+"issue": "3",
+"pages": "955-982",
+"tier": "business"
+}
+]
+},
+"pid:yue-feng--nju": {
+"name": "Yue Feng",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/fy2/list.htm",
+"papers": []
+},
+"pid:qing-ye--nju": {
+"name": "Qing Ye",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/yq/listm.htm",
+"papers": [
+{
+"title": "Public Attention and Auditor Behavior: The Case of Hurun Rich List in China",
+"authors": [
+"DONGHUI WU",
+"QING YE"
+],
+"year": 2020,
+"venue": "Journal of Accounting Research",
+"status": "published",
+"doi": "10.1111/1475-679x.12309",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/yq/listm.htm",
+"https://api.crossref.org/works/10.1111/1475-679x.12309"
+],
+"author_index": 1,
+"volume": "58",
+"issue": "3",
+"pages": "777-825",
+"tier": "business"
+}
+]
+},
+"pid:zhenhua-wu--nju": {
+"name": "Zhenhua Wu",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/%20wzh/listm.htm",
+"papers": []
+},
+"pid:yang-jiang--nju": {
+"name": "Yang Jiang",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/jy1/listm.htm",
+"papers": [
+{
+"title": "What’s in a “Username”? The Effect of Perceived Anonymity on Herding in Crowdfunding",
+"authors": [
+"Yang Jiang",
+"Yi-Chun (Chad) Ho",
+"Xiangbin Yan",
+"Yong Tan"
+],
+"year": 2022,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2021.1049",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/jy1/listm.htm",
+"https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1049",
+"https://api.crossref.org/works/10.1287/isre.2021.1049"
+],
+"author_index": 0,
+"volume": "33",
+"issue": "1",
+"pages": "1-17",
+"tier": "business"
+}
+]
+},
+"pid:xiangnian-kong--nju": {
+"name": "Xiangnian Kong",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/kxn/list.htm",
+"papers": []
+},
+"pid:peijian-song--nju": {
+"name": "Peijian Song",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/spj/listm.htm",
+"papers": [
+{
+"title": "Customer Complaint Avoidance: A Randomized Field Experiment of Platform Governance Based on Value Co-Creation and Appropriation",
+"authors": [
+"Xia Zhao",
+"Peijian Song",
+"Lanfei Shi",
+"Ling Xue",
+"Fan Feng"
+],
+"year": 2023,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2022/17000",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/spj/listm.htm",
+"https://nubs.nju.edu.cn/d6/57/c8928a185943/pagem10.htm",
+"https://aisel.aisnet.org/misq/vol47/iss3/4/",
+"https://api.crossref.org/works/10.25300/MISQ/2022/17000"
+],
+"author_index": 1,
+"volume": "47",
+"issue": "3",
+"pages": "955-982",
+"tier": "business"
+}
+]
+},
+"pid:xuebin-cui--nju": {
+"name": "Xuebin Cui",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/bf/4b/c52366a638795/page.htm",
+"papers": [
+{
+"title": "Where you live matters: The impact of offline retail density on mobile shopping app usage",
+"authors": [
+"Xuebin Cui",
+"Ting Zhu",
+"Yubo Chen"
+],
+"year": 2024,
+"venue": "Journal of Retailing",
+"status": "published",
+"doi": "10.1016/j.jretai.2023.10.001",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://njusz.nju.edu.cn/bf/4b/c52366a638795/page.htm",
+"https://sdem.nju.edu.cn/98/9f/c59502a694431/pagem14.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://doi.org/10.1016/j.jretai.2023.10.001"
+],
+"author_index": 0,
+"volume": "100",
+"issue": "1",
+"pages": "41-55",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_9a12aedf2b25b44978b3--nju": {
+"name": "张兵",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/zb/listm.htm",
+"papers": [
+{
+"title": "Commodity price changes and the predictability of economic policy uncertainty",
+"authors": [
+"Yudong Wang",
+"Bing Zhang",
+"Xundi Diao",
+"Chongfeng Wu"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2014.12.030",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zb/listm.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2014.12.030"
+],
+"author_index": 1,
+"volume": "127",
+"pages": "39-42",
+"tier": "econ_field"
+},
+{
+"title": "Economic policy uncertainty shocks and stock–bond correlations: Evidence from the US market",
+"authors": [
+"Xiao-Ming Li",
+"Bing Zhang",
+"Ruzhao Gao"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2015.04.013",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zb/listm.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2015.04.013"
+],
+"author_index": 1,
+"volume": "132",
+"pages": "91-96",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_53be29ecce27cdd4e36f--nju": {
+"name": "张晔",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/zy_9564/listm.htm",
+"papers": [
+{
+"title": "The Impact of Health Insurance on Health Outcomes and Spending of the Elderly: Evidence from China's New Cooperative Medical Scheme",
+"authors": [
+"Lingguo Cheng",
+"Hong Liu",
+"Ye Zhang",
+"Ke Shen",
+"Yi Zeng"
+],
+"year": 2015,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.3053",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zy_9564/listm.htm",
+"https://api.crossref.org/works/10.1002/hec.3053"
+],
+"author_index": 2,
+"volume": "24",
+"issue": "6",
+"pages": "672-691",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhengtang-zhang--nju": {
+"name": "Zhengtang Zhang",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/zzt/list.htm",
+"papers": [
+{
+"title": "The Effects of Between-Group Pay Dispersion",
+"authors": [
+"Zhengtang Zhang",
+"Wei He",
+"Tae-Youn Park",
+"Zhijie Xing",
+"Xiaoyue Wu"
+],
+"year": 2023,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2021.0799",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zzt/list.htm",
+"https://api.crossref.org/works/10.5465/amj.2021.0799"
+],
+"author_index": 0,
+"volume": "66",
+"issue": "6",
+"pages": "1860-1895",
+"tier": "business"
+}
+]
+},
+"pid:zhang-ke--nju": {
+"name": "Zhang Ke",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/37/0f/c52366a669455/page.htm",
+"papers": [
+{
+"title": "Learning, Fast or Slow",
+"authors": [
+"Brad M Barber",
+"Yi-Tsung Lee",
+"Yu-Jane Liu",
+"Terrance Odean",
+"Ke Zhang"
+],
+"year": 2020,
+"venue": "Review of Asset Pricing Studies",
+"status": "published",
+"doi": "10.1093/rapstu/raz006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://njusz.nju.edu.cn/37/0f/c52366a669455/page.htm",
+"https://sdem.nju.edu.cn/98/a5/c59502a694437/pagem14.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://doi.org/10.1093/rapstu/raz006"
+],
+"author_index": 4,
+"volume": "10",
+"issue": "1",
+"pages": "61-93",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiao-zhang--nju": {
+"name": "Xiao Zhang",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/zx/listm.htm",
+"papers": [
+{
+"title": "Emotion regulation as a boundary condition of the relationship between team conflict and performance: A multi‐level examination",
+"authors": [
+"Jane Yan Jiang",
+"Xiao Zhang",
+"Dean Tjosvold"
+],
+"year": 2013,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.1834",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zx/listm.htm",
+"https://api.crossref.org/works/10.1002/job.1834"
+],
+"author_index": 1,
+"volume": "34",
+"issue": "5",
+"pages": "714-734",
+"tier": "business"
+},
+{
+"title": "Customer involvement and service firm internationalization performance: An integrative framework",
+"authors": [
+"Xiao Zhang",
+"Weiguo Zhong",
+"Shige Makino"
+],
+"year": 2015,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/jibs.2014.57",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zx/listm.htm",
+"https://api.crossref.org/works/10.1057/jibs.2014.57"
+],
+"author_index": 0,
+"volume": "46",
+"issue": "3",
+"pages": "355-380",
+"tier": "business"
+}
+]
+},
+"pid:hong-zhu--nju": {
+"name": "Hong Zhu",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/zh/listm.htm",
+"papers": [
+{
+"title": "The Color of Status: Color Saturation, Brand Heritage, and Perceived Status of Luxury Brands",
+"authors": [
+"Xinyue Zhou",
+"Chunqu Xiao",
+"Sunyee Yoon",
+"Hong Zhu"
+],
+"year": 2025,
+"venue": "Journal of Consumer Research",
+"status": "published",
+"doi": "10.1093/jcr/ucaf029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/zh/listm.htm",
+"https://api.crossref.org/works/10.1093/jcr/ucaf029",
+"https://academic.oup.com/jcr/article/52/6/1232/8120421?login=false"
+],
+"author_index": 3,
+"volume": "52",
+"issue": "6",
+"pages": "1232-1252",
+"tier": "business"
+}
+]
+},
+"pid:chen-li--nju": {
+"name": "Chen Li",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/lc/list.htm",
+"papers": []
+},
+"pid:hu-li--nju": {
+"name": "Hu Li",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/lh_9294/listm.htm",
+"papers": [
+{
+"title": "Middle power plays: How and when Mach middle managers use downward abuse and upward guanxi to gain and maintain power",
+"authors": [
+"Fong Keng-Highberger",
+"Zhiyu Feng",
+"Kai Chi Yam",
+"Xiao-Ping Chen",
+"Hu Li"
+],
+"year": 2024,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2794",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/lh_9294/listm.htm",
+"https://nubs.nju.edu.cn/8954/listm.htm",
+"https://api.crossref.org/works/10.1002/job.2794",
+"https://onlinelibrary.wiley.com/doi/10.1002/job.2794"
+],
+"author_index": 4,
+"volume": "45",
+"issue": "7",
+"pages": "1088-1116",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_aeb9534393c18c90f01c--nju": {
+"name": "林树",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/ls/listm.htm",
+"papers": [
+{
+"title": "Friend or foe: On a common shareholder relationship between mutual funds and public companies",
+"authors": [
+"Shu Lin",
+"Shu Tian",
+"Lu Zheng"
+],
+"year": 2022,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2021.100673",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/ls/listm.htm",
+"https://api.crossref.org/works/10.1016/j.finmar.2021.100673"
+],
+"author_index": 0,
+"volume": "58",
+"pages": "100673",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_eba63af730a138b9197c--nju": {
+"name": "林辉",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/lh/listm.htm",
+"papers": [
+{
+"title": "SOEs and Soft Incentive Constraints in State Bank Lending",
+"authors": [
+"Yiming Cao",
+"Raymond Fisman",
+"Hui Lin",
+"Yongxiang Wang"
+],
+"year": 2023,
+"venue": "American Economic Journal: Economic Policy",
+"status": "published",
+"doi": "10.1257/pol.20200873",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/lh/listm.htm",
+"https://api.crossref.org/works/10.1257/pol.20200873"
+],
+"author_index": 2,
+"volume": "15",
+"issue": "1",
+"pages": "174-195",
+"tier": "econ_field"
+}
+]
+},
+"pid:haopeng-shen--nju": {
+"name": "Haopeng Shen",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/shp%C2%A0/list.htm",
+"papers": []
+},
+"pid:cn-p_41f81d456df206a56d49--nju": {
+"name": "王全胜",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/wqs/listm.htm",
+"papers": [
+{
+"title": "The Value of Buy‐Online‐and‐Pickup‐in‐Store in Omni‐Channel: Evidence from Customer Usage Data",
+"authors": [
+"Peijian Song",
+"Quansheng Wang",
+"Hefu Liu",
+"Qi Li"
+],
+"year": 2020,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13146",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/wqs/listm.htm",
+"https://api.crossref.org/works/10.1111/poms.13146"
+],
+"author_index": 1,
+"volume": "29",
+"issue": "4",
+"pages": "995-1010",
+"tier": "business"
+}
+]
+},
+"pid:wang-da-zhong--nju": {
+"name": "Wang Da-Zhong",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/3d/47/c52366a605511/page.htm",
+"papers": [
+{
+"title": "Comparisons of standard royalty auctions with seller post-auction effort",
+"authors": [
+"Dazhong Wang",
+"Xinyi Xu",
+"Xianjie Zeng"
+],
+"year": 2023,
+"venue": "Journal of Mathematical Economics",
+"status": "published",
+"doi": "10.1016/j.jmateco.2023.102864",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://njusz.nju.edu.cn/3d/47/c52366a605511/page.htm",
+"https://sdem.nju.edu.cn/a0/d8/c59502a696536/pagem14.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://doi.org/10.1016/j.jmateco.2023.102864"
+],
+"author_index": 0,
+"volume": "107",
+"pages": "102864",
+"tier": "econ_field"
+}
+]
+},
+"pid:mei-sheng--nju": {
+"name": "Mei Sheng",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/sm/list.htm",
+"papers": []
+},
+"pid:jianxin-rong--nju": {
+"name": "Jianxin Rong",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/b2/f2/c52366a635634/page.htm",
+"papers": [
+{
+"title": "Contracting in hierarchical platforms",
+"authors": [
+"Jianxin Rong",
+"Dazhong Wang"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111079",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://njusz.nju.edu.cn/b2/f2/c52366a635634/page.htm",
+"https://sdem.nju.edu.cn/98/a1/c59502a694433/pagem14.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://doi.org/10.1016/j.econlet.2023.111079"
+],
+"author_index": 0,
+"volume": "226",
+"pages": "111079",
+"tier": "econ_field"
+}
+]
+},
+"pid:chunyan-jiang--nju": {
+"name": "Chunyan Jiang",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/jcy/listm.htm",
+"papers": []
+},
+"pid:yang-cai--nju": {
+"name": "Yang Cai",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/cy2_63389/listm.htm",
+"papers": [
+{
+"title": "Cooperative culture and the birth of modern enterprises in China: Evidence from the signing of the Treaty of Shimonoseki",
+"authors": [
+"Yang Cai",
+"Jiong Zhu"
+],
+"year": 2024,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2024.104697",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cy2_63389/listm.htm",
+"https://api.crossref.org/works/10.1016/j.euroecorev.2024.104697"
+],
+"author_index": 0,
+"volume": "163",
+"pages": "104697",
+"tier": "econ_field"
+},
+{
+"title": "The Long-term effect of social disasters on stock market participation",
+"authors": [
+"Yang Cai",
+"Shuo Chen",
+"Dongxu Li"
+],
+"year": 2025,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2025.102799",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cy2_63389/listm.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2025.102799"
+],
+"author_index": 0,
+"volume": "93",
+"pages": "102799",
+"tier": "econ_field"
+},
+{
+"title": "Economic shocks and the selection of bureaucrats in a meritocracy: evidence from a trade regulation in China",
+"authors": [
+"Yang Cai",
+"Shengmin Sun"
+],
+"year": 2026,
+"venue": "Journal of Law, Economics, and Organization",
+"status": "published",
+"doi": "10.1093/jleo/ewag016",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cy2_63389/listm.htm",
+"https://api.crossref.org/works/10.1093/jleo/ewag016"
+],
+"author_index": 0,
+"tier": "econ_field"
+}
+]
+},
+"pid:tao-yuan--nju": {
+"name": "Tao Yuan",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/yt1/listm.htm",
+"papers": []
+},
+"pid:yuanyuan-chen--nju": {
+"name": "Yuanyuan Chen",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/cyy1/listm.htm",
+"papers": [
+{
+"title": "Optimal order execution using hidden orders",
+"authors": [
+"Yuanyuan Chen",
+"Xuefeng Gao",
+"Duan Li"
+],
+"year": 2018,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2018.07.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cyy1/listm.htm",
+"https://scholars.cityu.edu.hk/en/publications/optimal-order-execution-using-hidden-orders/",
+"https://api.crossref.org/works/10.1016/j.jedc.2018.07.006"
+],
+"author_index": 0,
+"volume": "94",
+"pages": "89-116",
+"tier": "econ_field"
+}
+]
+},
+"pid:ziyang-chen--nju": {
+"name": "Ziyang Chen",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/czy/list.htm",
+"papers": []
+},
+"pid:yang-chen--nju": {
+"name": "Yang Chen",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/cy2_63726/list.htm",
+"papers": []
+},
+"pid:cn-p_9180fda5b8ba0da45a5d--nju": {
+"name": "陈钦源",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/cqy1/listm.htm",
+"papers": [
+{
+"title": "Political uncertainty and cash holdings: Evidence from China",
+"authors": [
+"Nianhang Xu",
+"Qinyuan Chen",
+"Yan Xu",
+"Kam C. Chan"
+],
+"year": 2016,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2016.08.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cqy1/listm.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2016.08.007"
+],
+"author_index": 1,
+"volume": "40",
+"pages": "276-295",
+"tier": "econ_field"
+},
+{
+"title": "The Impact of Family-Based Human Capital on Corporate Innovation: Evidence from Sibling-Chairpersons in China",
+"authors": [
+"Nianhang Xu",
+"Kam C. Chan",
+"Rongrong Xie",
+"Qinyuan Chen",
+"Sumit Agarwal"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.4965",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/cqy1/listm.htm",
+"https://api.crossref.org/works/10.1287/mnsc.2023.4965"
+],
+"author_index": 3,
+"volume": "70",
+"issue": "10",
+"pages": "7062-7089",
+"tier": "business"
+}
+]
+},
+"pid:jian-han--nju": {
+"name": "Jian Han",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/hj/listm.htm",
+"papers": [
+{
+"title": "Environmental provisions in trade agreements and outward foreign direct investment: Evidence from China",
+"authors": [
+"Shixiong Liu",
+"Jian Han"
+],
+"year": 2026,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2026.103590",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/hj/listm.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2026.103590",
+"https://ideas.repec.org/a/eee/jimfin/v165y2026ics0261560626000756.html"
+],
+"author_index": 1,
+"volume": "165",
+"pages": "103590",
+"tier": "econ_field"
+}
+]
+},
+"pid:han-shunping--nju": {
+"name": "Han, Shunping",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/hsp/listm.htm",
+"papers": [
+{
+"title": "If It Takes a Village to Foster Innovation, Success Depends on the Neighbors: The Effects of Global and Ego Networks on New Product Launches",
+"authors": [
+"Eric (Er) Fang",
+"Jongkuk Lee",
+"Robert Palmatier",
+"Shunping Han"
+],
+"year": 2016,
+"venue": "Journal of Marketing Research",
+"status": "published",
+"doi": "10.1509/jmr.13.0226",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nubs.nju.edu.cn/hsp/listm.htm",
+"https://api.crossref.org/works/10.1509/jmr.13.0226",
+"https://qccdata.qichacha.com/ReportData/PDF/5d6b2baccbae65f89cdeaeef1d5df6ed.pdf",
+"https://nubs.nju.edu.cn/nubs_en/90/01/c17371a299009/page.htm"
+],
+"author_index": 3,
+"volume": "53",
+"issue": "3",
+"pages": "319-337",
+"tier": "business"
+}
+]
+},
+"pid:wenjia-yan--nju": {
+"name": "Wenjia Yan",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/ywj1/list.htm",
+"papers": []
+},
+"pid:xing-wei--nju": {
+"name": "Xing Wei",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/wx2/list.htm",
+"papers": []
+},
+"pid:haitao-huang--nju": {
+"name": "Haitao Huang",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/38/cb/c52366a669899/page.htm",
+"papers": []
+},
+"pid:jing-long--nju": {
+"name": "Jing Long",
+"verified_only": true,
+"source_url": "https://nubs.nju.edu.cn/lj/list.htm",
+"papers": []
 }
 }

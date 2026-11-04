@@ -7267,5 +7267,879 @@
 "pid:wei-wang--jinan-2": {
 "name": "Wei Wang",
 "papers": []
+},
+"pid:zhuangxiong-yu--jinan": {
+"name": "Zhuangxiong Yu",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2021/0420/c10549a611635/page.htm",
+"papers": [
+{
+"title": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
+"authors": [
+"Zhuangxiong Yu",
+"Yang Yang",
+"Jiemiao Dong",
+"Pundarik Mukhopadhaya"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103794",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2021/0420/c10549a611635/page.htm",
+"https://pub.orcid.org/v3.0/0000-0003-1557-0930/record",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103794"
+],
+"author_index": 0,
+"volume": "182",
+"pages": "103794",
+"tier": "econ_field"
+}
+]
+},
+"pid:dan-liu--jinan": {
+"name": "Dan Liu",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2026/0916/c13310a863236/page.htm",
+"papers": [
+{
+"title": "Naturalness against environment‐friendliness: The impact of shelf life on food perceptions and purchase decisions",
+"authors": [
+"Dan Liu",
+"Yann Cornil",
+"Xiaobing Xu"
+],
+"year": 2026,
+"venue": "Journal of Consumer Psychology",
+"status": "published",
+"doi": "10.1002/jcpy.70034",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2026/0916/c13310a863236/page.htm",
+"https://api.crossref.org/works/10.1002/jcpy.70034",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-consumer-psychology.jsonl.gz"
+],
+"author_index": 0,
+"volume": "36",
+"issue": "4",
+"pages": "431-450",
+"tier": "business"
+}
+]
+},
+"pid:xiumei-liu--jinan": {
+"name": "Xiumei Liu",
+"verified_only": true,
+"source_url": "https://gjsxy.jnu.edu.cn/_t1002/2023/0323/c11686a740501/page.htm",
+"papers": [
+{
+"title": "Population ageing, labour market rigidity and corporate innovation: Evidence from China",
+"authors": [
+"Youchao Tan",
+"Xiumei Liu",
+"Hanwen Sun",
+"Cheng(Colin) Zeng"
+],
+"year": 2022,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2021.104428",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gjsxy.jnu.edu.cn/_t1002/2023/0323/c11686a740501/page.htm",
+"https://mpacc.jnu.edu.cn/2024/0926/c14352a821604/page.htm",
+"https://api.crossref.org/works/10.1016/j.respol.2021.104428",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/research-policy.jsonl.gz"
+],
+"author_index": 1,
+"volume": "51",
+"issue": "2",
+"pages": "104428",
+"tier": "business"
+}
+]
+},
+"pid:wenping-ye--jinan": {
+"name": "Wenping Ye",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/1020/c13310a844537/page.htm",
+"papers": [
+{
+"title": "The gendered effect of populism on innovation",
+"authors": [
+"Jintong Tang",
+"Wenping Ye",
+"Mingzhi Hu",
+"Stephen X. Zhang",
+"Shaji A. Khan"
+],
+"year": 2024,
+"venue": "Journal of Business Venturing",
+"status": "published",
+"doi": "10.1016/j.jbusvent.2024.106393",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/1020/c13310a844537/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbusvent.2024.106393",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-venturing.jsonl.gz"
+],
+"author_index": 1,
+"volume": "39",
+"issue": "4",
+"pages": "106393",
+"tier": "business"
+}
+]
+},
+"pid:maolin-ye--jinan": {
+"name": "Maolin Ye",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/1231/c13310a464189/page.htm",
+"papers": [
+{
+"title": "Perceived social support reduces the pain of spending money",
+"authors": [
+"Qian Xu",
+"Yuanji Zhou",
+"Maolin Ye",
+"Xinyue Zhou"
+],
+"year": 2015,
+"venue": "Journal of Consumer Psychology",
+"status": "published",
+"doi": "10.1016/j.jcps.2014.11.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2019/1231/c13310a464189/page.htm",
+"https://api.crossref.org/works/10.1016/j.jcps.2014.11.004",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-consumer-psychology.jsonl.gz"
+],
+"author_index": 2,
+"volume": "25",
+"issue": "2",
+"pages": "219-230",
+"tier": "business"
+}
+]
+},
+"pid:xunyong-xiang--jinan": {
+"name": "Xunyong Xiang",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2017/0926/c10549a270162/page.htm",
+"papers": [
+{
+"title": "Social movements and international business activities of firms",
+"authors": [
+"Longwei Tian",
+"Caleb H. Tse",
+"Xunyong Xiang",
+"Yuan Li",
+"Yigang Pan"
+],
+"year": 2021,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-021-00424-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2017/0926/c10549a270162/page.htm",
+"https://api.crossref.org/works/10.1057/s41267-021-00424-3"
+],
+"author_index": 2,
+"volume": "52",
+"issue": "6",
+"pages": "1200-1214",
+"tier": "business"
+}
+]
+},
+"pid:xianzhong-song--jinan": {
+"name": "Xianzhong Song",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/0612/c13310a337780/page.htm",
+"papers": [
+{
+"title": "Political Connection, Ownership Structure, and Corporate Philanthropy in China: A Strategic-Political Perspective",
+"authors": [
+"Sihai Li",
+"Xianzhong Song",
+"Huiying Wu"
+],
+"year": 2015,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-014-2167-y",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2019/0612/c13310a337780/page.htm",
+"https://lcerc.jnu.edu.cn/2016/0308/c14929a357976/page.psp",
+"https://link.springer.com/article/10.1007/s10551-014-2167-y",
+"https://api.crossref.org/works/10.1007/s10551-014-2167-y",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-ethics.jsonl.gz"
+],
+"author_index": 1,
+"volume": "129",
+"issue": "2",
+"pages": "399-411",
+"tier": "business"
+}
+]
+},
+"pid:fan-zhang--jinan": {
+"name": "Fan Zhang",
+"verified_only": true,
+"source_url": "https://faculty.jnu.edu.cn/jjxy/zf1/list.htm",
+"papers": []
+},
+"pid:hong-zhang--jinan": {
+"name": "Hong Zhang",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2020/1023/c10550a524413/page.htm",
+"papers": [
+{
+"title": "The role of social ties in spreading innovation: Evidence from alien merchant guilds in China",
+"authors": [
+"Xiaoquan Wang",
+"Qi Wu",
+"Hong Zhang"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.107295",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2020/1023/c10550a524413/page.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2025.107295"
+],
+"author_index": 2,
+"volume": "240",
+"pages": "107295",
+"tier": "econ_field"
+}
+]
+},
+"pid:yichuan-zhang--jinan": {
+"name": "Yichuan Zhang",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2026/0907/c10551a862675/page.htm",
+"papers": [
+{
+"title": "Offline vs. Online interactions: The effects on scientific research",
+"authors": [
+"Yichuan Zhang",
+"Xuan Leng",
+"Tianyun Zhu"
+],
+"year": 2025,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2025.105254",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2026/0907/c10551a862675/page.htm",
+"https://api.crossref.org/works/10.1016/j.respol.2025.105254"
+],
+"author_index": 0,
+"volume": "54",
+"issue": "6",
+"pages": "105254",
+"tier": "business"
+}
+]
+},
+"pid:guohua-peng--jinan": {
+"name": "Guohua Peng",
+"verified_only": true,
+"source_url": "https://faculty.jnu.edu.cn/jjxy/pgh/list.htm",
+"papers": [
+{
+"title": "Entry costs and regional productivity disparity in an open economy",
+"authors": [
+"Guohua Peng"
+],
+"year": 2017,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2017.09.033",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.jnu.edu.cn/jjxy/pgh/list.htm",
+"https://ec.jnu.edu.cn/24951/list.htm",
+"https://faculty.jnu.edu.cn/jjxy/pgh_en/list.htm",
+"https://sites.google.com/site/pengguohua",
+"https://api.crossref.org/works/10.1016%2Fj.econlet.2017.09.033",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "161",
+"pages": "138-140",
+"tier": "econ_field"
+}
+]
+},
+"pid:xian-fang--jinan": {
+"name": "Xian Fang",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2020/1020/c10551a522441/page.htm",
+"papers": [
+{
+"title": "Valuing primary schools in urban China",
+"authors": [
+"Jimmy Chan",
+"Xian Fang",
+"Zhi Wang",
+"Xianhua Zai",
+"Qinghua Zhang"
+],
+"year": 2020,
+"venue": "Journal of Urban Economics",
+"status": "published",
+"doi": "10.1016/j.jue.2019.103183",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2020/1020/c10551a522441/page.htm",
+"https://api.crossref.org/works/10.1016/j.jue.2019.103183"
+],
+"author_index": 1,
+"volume": "115",
+"pages": "103183",
+"tier": "econ_field"
+}
+]
+},
+"pid:bin-cao--jinan": {
+"name": "Bin Cao",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0709/c13310a840196/page.htm",
+"papers": [
+{
+"title": "Inventory and financial strategies of capital‐constrained firms under limited joint liability financing",
+"authors": [
+"Bin Cao",
+"Xin Chen",
+"T. C. Edwin Cheng",
+"Yuanguang Zhong",
+"Yong‐Wu Zhou"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.14042",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0709/c13310a840196/page.htm",
+"https://api.crossref.org/works/10.1111/poms.14042",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 0,
+"volume": "32",
+"issue": "11",
+"pages": "3413-3432",
+"tier": "business"
+}
+]
+},
+"pid:yamin-zeng--jinan": {
+"name": "Yamin Zeng",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/1231/c13310a463987/page.htm",
+"papers": [
+{
+"title": "Blurred stars: Mutual fund ratings in the shadow of conflicts of interest",
+"authors": [
+"Yamin Zeng",
+"Qingbo Yuan",
+"Junsheng Zhang"
+],
+"year": 2015,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2015.08.029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2019/1231/c13310a463987/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2015.08.029",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-banking-and-finance.jsonl.gz"
+],
+"author_index": 0,
+"volume": "60",
+"pages": "284-295",
+"tier": "econ_field"
+}
+]
+},
+"pid:tao-zhu--jinan": {
+"name": "Tao Zhu",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/1231/c13310a464049/page.htm",
+"papers": [
+{
+"title": "Foreign institutional investors and corporate governance in emerging markets: Evidence of a split-share structure reform in China",
+"authors": [
+"Wei Huang",
+"Tao Zhu"
+],
+"year": 2015,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2014.10.013",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2019/1231/c13310a464049/page.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2014.10.013",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-corporate-finance.jsonl.gz"
+],
+"author_index": 1,
+"volume": "32",
+"pages": "312-326",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_72baf5f795eb3b61c329--jinan": {
+"name": "朱瑜",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/0613/c13310a338043/page.htm",
+"papers": []
+},
+"pid:chengzheng-li--jinan": {
+"name": "Chengzheng Li",
+"verified_only": true,
+"source_url": "https://iesr.jnu.edu.cn/2019/0813/c17118a400469/page.htm",
+"papers": [
+{
+"title": "Climate shocks and international trade: Evidence from China",
+"authors": [
+"Chengzheng Li",
+"Xunyong Xiang",
+"Haiying Gu"
+],
+"year": 2015,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2015.07.032",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iesr.jnu.edu.cn/2019/0813/c17118a400469/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2015.07.032"
+],
+"author_index": 0,
+"volume": "135",
+"pages": "55-57",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiaoxi-li--jinan": {
+"name": "Xiaoxi Li",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0613/c13310a838226/page.htm",
+"papers": [
+{
+"title": "Public enforcement through independent directors",
+"authors": [
+"Xiaoxi Li",
+"Pingui Rao",
+"Yong George Yang",
+"Heng Yue"
+],
+"year": 2024,
+"venue": "Contemporary Accounting Research",
+"status": "published",
+"doi": "10.1111/1911-3846.12989",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0613/c13310a838226/page.htm",
+"https://api.crossref.org/works/10.1111/1911-3846.12989",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/contemporary-accounting-research.jsonl.gz"
+],
+"author_index": 0,
+"tier": "business"
+}
+]
+},
+"pid:jie-li--jinan": {
+"name": "Jie Li",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2020/1105/c10549a528317/page.htm",
+"papers": [
+{
+"title": "Understanding bilateral exchange rate risks",
+"authors": [
+"Guangzhong Li",
+"Jiaqing Zhu",
+"Jie Li"
+],
+"year": 2016,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2016.07.008",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iie.jnu.edu.cn/2020/1105/c10549a528317/page.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2016.07.008"
+],
+"author_index": 2,
+"volume": "68",
+"pages": "103-129",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_41b8050097c82e9fd5d7--jinan": {
+"name": "李禹燊",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2025/0715/c10551a840589/page.htm",
+"papers": []
+},
+"pid:zhouyu-lin--jinan": {
+"name": "Zhouyu Lin",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0612/c13310a838192/page.htm",
+"papers": [
+{
+"title": "Cross‐border acquisitions by state‐owned firms: How do legitimacy concerns affect the completion and duration of their acquisitions?",
+"authors": [
+"Jing Li",
+"Jun Xia",
+"Zhouyu Lin"
+],
+"year": 2017,
+"venue": "Strategic Management Journal",
+"status": "published",
+"doi": "10.1002/smj.2609",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0612/c13310a838192/page.htm",
+"https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.2609",
+"https://api.crossref.org/works/10.1002/smj.2609",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/strategic-management-journal.jsonl.gz"
+],
+"author_index": 2,
+"volume": "38",
+"issue": "9",
+"pages": "1915-1934",
+"tier": "business"
+}
+]
+},
+"pid:yuying-lin--jinan": {
+"name": "Yuying Lin",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0612/c13310a838191/page.htm",
+"papers": [
+{
+"title": "Is the bottom line reached? An exploration of supervisor bottom-line mentality, team performance avoidance goal orientation and team performance",
+"authors": [
+"Yuying Lin",
+"Mengxi Yang",
+"Matthew J Quade",
+"Wansi Chen"
+],
+"year": 2022,
+"venue": "Human Relations",
+"status": "published",
+"doi": "10.1177/00187267211002917",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0612/c13310a838191/page.htm",
+"https://api.crossref.org/works/10.1177/00187267211002917",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/human-relations.jsonl.gz"
+],
+"author_index": 0,
+"volume": "75",
+"issue": "2",
+"pages": "349-372",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_25631bac2b853ffba505--jinan": {
+"name": "池勤伟",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2022/0614/c13310a705509/page.htm",
+"papers": []
+},
+"pid:cn-p_bc8de3e582016aab03ae--jinan": {
+"name": "王国庆",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/0613/c13310a337969/page.htm",
+"papers": []
+},
+"pid:guochang-wang--jinan": {
+"name": "Guochang Wang",
+"verified_only": true,
+"source_url": "https://faculty.jnu.edu.cn/jjxy/wgz/list.htm",
+"papers": [
+{
+"title": "Testing for the Martingale Difference Hypothesis in Multivariate Time Series Models",
+"authors": [
+"Guochang Wang",
+"Ke Zhu",
+"Xiaofeng Shao"
+],
+"year": 2022,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2021.1889568",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.jnu.edu.cn/jjxy/wgz/list.htm",
+"https://ec.jnu.edu.cn/2021/0327/c42164a605689/page.htm",
+"https://api.crossref.org/works/10.1080/07350015.2021.1889568"
+],
+"author_index": 0,
+"volume": "40",
+"issue": "3",
+"pages": "980-994",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_9fc72113db78ec84c3d0--jinan": {
+"name": "王术",
+"verified_only": true,
+"source_url": "https://birmingham.jnu.edu.cn/2023/1211/c37979a796725/page.htm",
+"papers": []
+},
+"pid:rui-wang--jinan": {
+"name": "Rui Wang",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0613/c13310a838270/page.htm",
+"papers": [
+{
+"title": "Consumer Responses to Corporate Social Responsibility (CSR) in China",
+"authors": [
+"Zhilong Tian",
+"Rui Wang",
+"Wen Yang"
+],
+"year": 2011,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-010-0716-6",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0613/c13310a838270/page.htm",
+"https://api.crossref.org/works/10.1007/s10551-010-0716-6",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-ethics.jsonl.gz"
+],
+"author_index": 1,
+"volume": "101",
+"issue": "2",
+"pages": "197-212",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_33d69bba5bd0484cc64e--jinan": {
+"name": "谭有超",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0922/c13310a843158/page.htm",
+"papers": []
+},
+"pid:cn-p_45a700fcbf16a4dad570--jinan": {
+"name": "谭跃",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/0613/c13310a337844/page.htm",
+"papers": []
+},
+"pid:guomin-xing--jinan": {
+"name": "Guomin Xing",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2024/0318/c13312a808704/page.htm",
+"papers": [
+{
+"title": "Mitigating Supply Risk with Limited Information: Emergency Supply and Responsive Pricing",
+"authors": [
+"Guomin Xing",
+"Zhi Chen",
+"Yuanguang Zhong",
+"Yong‐Wu Zhou"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13840",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2024/0318/c13312a808704/page.htm",
+"https://api.crossref.org/works/10.1111/poms.13840",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "5",
+"pages": "1134-1155",
+"tier": "business"
+}
+]
+},
+"pid:fanghao-chen--jinan": {
+"name": "Fanghao Chen",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2026/0722/c13310a860987/page.htm",
+"papers": [
+{
+"title": "Familiar strangers: The role of diaspora networks in foreign investment and long-run development",
+"authors": [
+"Fanghao Chen",
+"Ruichi Xiong",
+"Xiaobo Zhang"
+],
+"year": 2026,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2026.104293",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2026/0722/c13310a860987/page.htm",
+"https://api.crossref.org/works/10.1016/j.jinteco.2026.104293",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-international-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "162",
+"pages": "104293",
+"tier": "econ_field"
+}
+]
+},
+"pid:lei-chen--jinan": {
+"name": "Lei Chen",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2025/0612/c13310a838183/page.htm",
+"papers": [
+{
+"title": "Strategic Waiting for Disruption Forecasts in Cross‐Border E‐Commerce Operations",
+"authors": [
+"Baozhuang Niu",
+"Kanglin Chen",
+"Lei Chen",
+"Chao Ding",
+"Xiaohang Yue"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13371",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0612/c13310a838183/page.htm",
+"https://api.crossref.org/works/10.1111/poms.13371",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 2,
+"volume": "30",
+"issue": "9",
+"pages": "2840-2857",
+"tier": "business"
+},
+{
+"title": "Restaurants’ Platform Partnership for Social Promotion and Resilient Revenue: Is Reward-Based Traffic Really Rewardful?",
+"authors": [
+"Baozhuang Niu",
+"Lei Chen",
+"Qiyang Li",
+"Fanzhuo Zeng"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478231224919",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2025/0612/c13310a838183/page.htm",
+"https://api.crossref.org/works/10.1177/10591478231224919",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/production-and-operations-management.jsonl.gz"
+],
+"author_index": 1,
+"volume": "34",
+"issue": "12",
+"pages": "3920-3936",
+"tier": "business"
+}
+]
+},
+"pid:chaocheng-gu--jinan": {
+"name": "Chaocheng Gu",
+"verified_only": true,
+"source_url": "https://ms.jnu.edu.cn/2019/1231/c13310a464065/page.htm",
+"papers": [
+{
+"title": "Financing Multiple Heterogeneous Suppliers in Assembly Systems: Buyer Finance vs. Bank Finance",
+"authors": [
+"Shiming Deng",
+"Chaocheng Gu",
+"Gangshu (George) Cai",
+"Yanhai Li"
+],
+"year": 2018,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2017.0677",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ms.jnu.edu.cn/2019/1231/c13310a464065/page.htm",
+"https://api.crossref.org/works/10.1287/msom.2017.0677",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/manufacturing-service-operations-management.jsonl.gz"
+],
+"author_index": 1,
+"volume": "20",
+"issue": "1",
+"pages": "53-69",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_e04dd5bf5dac0be3ad77--jinan": {
+"name": "龚雅婷",
+"verified_only": true,
+"source_url": "https://birmingham.jnu.edu.cn/2025/0811/c37979a841272/page.htm",
+"papers": []
 }
 }
