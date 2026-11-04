@@ -9134,5 +9134,833 @@
 "status": "published"
 }
 ]
+},
+"pid:renhui-fu--sjtu": {
+"name": "Renhui Fu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/furenhui.html",
+"papers": []
+},
+"pid:xundi-diao--sjtu": {
+"name": "Xundi Diao",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/diaoxundi.html",
+"papers": [
+{
+"title": "Bounded rationality, asymmetric information and mispricing in financial markets",
+"authors": [
+"Qingbin Gong",
+"Xundi Diao"
+],
+"year": 2022,
+"venue": "Economic Theory",
+"status": "published",
+"doi": "10.1007/s00199-021-01366-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/diaoxundi.html",
+"https://acem.sjtu.edu.cn/faculty/gongqb.html",
+"https://api.crossref.org/works/10.1007/s00199-021-01366-5"
+],
+"author_index": 1,
+"volume": "74",
+"issue": "1",
+"pages": "235-264",
+"tier": "econ_field"
+}
+]
+},
+"pid:yi-liu--sjtu": {
+"name": "Yi Liu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/liuyi.html",
+"papers": [
+{
+"title": "Transformational offshore outsourcing: Empirical evidence from alliances in China",
+"authors": [
+"Yuan Li",
+"Yi Liu",
+"Mingfang Li",
+"Haibin Wu"
+],
+"year": 2008,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1016/j.jom.2007.02.011",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/liuyi.html",
+"https://api.crossref.org/works/10.1016/j.jom.2007.02.011",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "26",
+"issue": "2",
+"pages": "257-274",
+"tier": "business"
+}
+]
+},
+"pid:zhengyu-shi--sjtu": {
+"name": "Zhengyu Shi",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/shizhengyu.html",
+"papers": []
+},
+"pid:chongfeng-wu--sjtu": {
+"name": "Chongfeng Wu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/wuchongfeng.html",
+"papers": [
+{
+"title": "Time-Varying Risk Aversion and Dynamic Portfolio Allocation",
+"authors": [
+"Haitao Li",
+"Chongfeng Wu",
+"Chunyang Zhou"
+],
+"year": 2022,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2020.2095",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/wuchongfeng.html",
+"https://www.acem.sjtu.edu.cn/faculty/70649.html",
+"https://api.crossref.org/works/10.1287/opre.2020.2095"
+],
+"author_index": 1,
+"volume": "70",
+"issue": "1",
+"pages": "23-37",
+"tier": "business"
+}
+]
+},
+"pid:wenfeng-wu--sjtu": {
+"name": "Wenfeng Wu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/wuwenfeng.html",
+"papers": [
+{
+"title": "Trust and the provision of trade credit",
+"authors": [
+"Wenfeng Wu",
+"Michael Firth",
+"Oliver M. Rui"
+],
+"year": 2014,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2013.11.019",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/wuwenfeng.html",
+"https://wk.sjtu.edu.cn/wkfc_dbcg_lnhj/1864.html",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2013.11.019"
+],
+"author_index": 0,
+"volume": "39",
+"pages": "146-159",
+"tier": "econ_field"
+}
+]
+},
+"pid:fei-wu--sjtu": {
+"name": "Fei Wu",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/wu-fei",
+"papers": []
+},
+"pid:weimin-zhou--sjtu": {
+"name": "Weimin Zhou",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zhouweimin.html",
+"papers": []
+},
+"pid:chunyang-zhou--sjtu": {
+"name": "Chunyang Zhou",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zhouchunyang.html",
+"papers": [
+{
+"title": "Time-Varying Risk Aversion and Dynamic Portfolio Allocation",
+"authors": [
+"Haitao Li",
+"Chongfeng Wu",
+"Chunyang Zhou"
+],
+"year": 2022,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2020.2095",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zhouchunyang.html",
+"https://pubsonline.informs.org/doi/10.1287/opre.2020.2095",
+"https://api.crossref.org/works/10.1287/opre.2020.2095"
+],
+"author_index": 2,
+"volume": "70",
+"issue": "1",
+"pages": "23-37",
+"tier": "business"
+}
+]
+},
+"pid:zucheng-zhou--sjtu": {
+"name": "Zucheng Zhou",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zhouzucheng.html",
+"papers": [
+{
+"title": "The Influence of Corporate Social Responsibility on Incumbent Employees: A Meta-Analytic Investigation of the Mediating and Moderating Mechanisms",
+"authors": [
+"Xiaoping Zhao",
+"Chuang Wu",
+"Chao C. Chen",
+"Zucheng Zhou"
+],
+"year": 2022,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/0149206320946108",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zhouzucheng.html",
+"https://api.crossref.org/works/10.1177/0149206320946108",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "48",
+"issue": "1",
+"pages": "114-146",
+"tier": "business"
+}
+]
+},
+"pid:lijun-xia--sjtu": {
+"name": "Lijun Xia",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/xialijun.html",
+"papers": []
+},
+"pid:jianfei-sun--sjtu": {
+"name": "Jianfei Sun",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/sun-jianfei",
+"papers": []
+},
+"pid:tingting-song--sjtu": {
+"name": "Tingting Song",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/songtingting.html",
+"papers": [
+{
+"title": "Using User- and Marketer-Generated Content for Box Office Revenue Prediction: Differences Between Microblogging and Third-Party Platforms",
+"authors": [
+"Tingting Song",
+"Jinghua Huang",
+"Yong Tan",
+"Yifan Yu"
+],
+"year": 2019,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2018.0797",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/songtingting.html",
+"https://api.crossref.org/works/10.1287/isre.2018.0797",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "30",
+"issue": "1",
+"pages": "191-203",
+"tier": "business"
+}
+]
+},
+"pid:zhigang-song--sjtu": {
+"name": "Zhigang Song",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zgsong.html",
+"papers": [
+{
+"title": "The effects of high‐involvement work systems and shared leadership on team creativity: A multilevel investigation",
+"authors": [
+"Zhigang Song",
+"Qinxuan Gu",
+"Fang Lee Cooke"
+],
+"year": 2020,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.21988",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zgsong.html",
+"https://api.crossref.org/works/10.1002/hrm.21988",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "59",
+"issue": "2",
+"pages": "201-213",
+"tier": "business"
+}
+]
+},
+"pid:qingbin-gong--sjtu": {
+"name": "Qingbin Gong",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/gongqb.html",
+"papers": [
+{
+"title": "Bounded rationality, asymmetric information and mispricing in financial markets",
+"authors": [
+"Qingbin Gong",
+"Xundi Diao"
+],
+"year": 2022,
+"venue": "Economic Theory",
+"status": "published",
+"doi": "10.1007/s00199-021-01366-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/gongqb.html",
+"https://api.crossref.org/works/10.1007/s00199-021-01366-5"
+],
+"author_index": 0,
+"volume": "74",
+"issue": "1",
+"pages": "235-264",
+"tier": "econ_field"
+}
+]
+},
+"pid:eric-chieh-chang--sjtu": {
+"name": "Eric Chieh Chang",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/chang-eric-chieh",
+"papers": []
+},
+"pid:xin-an-zhang--sjtu": {
+"name": "Xin'an Zhang",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zhangxinan.html",
+"papers": [
+{
+"title": "Family Demands Diversity, Team Work–Family Conflict, and Team Effort: A Moderated Mediation Model",
+"authors": [
+"Andrew Li",
+"Jason L. Huang",
+"Sherry M. B. Thatcher",
+"Ping Shao",
+"Xiaoling Sun",
+"Baoguo Xie",
+"Xin'an Zhang"
+],
+"year": 2025,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.22320",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zhangxinan.html",
+"https://www.saif.sjtu.edu.cn/faculty-research/faculty/zhang-xinan",
+"https://api.crossref.org/works/10.1002/hrm.22320"
+],
+"author_index": 6,
+"volume": "64",
+"issue": "6",
+"pages": "1525-1538",
+"tier": "business"
+},
+{
+"title": "Informational advantages in social networks: The core-periphery divide in peer performance ratings.",
+"authors": [
+"Helen H. Zhao",
+"Ning Li",
+"T. Brad Harris",
+"Christopher C. Rosen",
+"Xinan Zhang"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000822",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zhangxinan.html",
+"https://www.saif.sjtu.edu.cn/faculty-research/faculty/zhang-xinan",
+"https://api.crossref.org/works/10.1037/apl0000822"
+],
+"author_index": 4,
+"volume": "106",
+"issue": "7",
+"pages": "1093-1102",
+"tier": "business"
+},
+{
+"title": "Playing It Safe for My Family: Exploring the Dual Effects of Family Motivation on Employee Productivity and Creativity",
+"authors": [
+"Xin-an Zhang",
+"Huiyao Liao",
+"Ning Li",
+"Amy E. Colbert"
+],
+"year": 2020,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2018.0680",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/zhangxinan.html",
+"https://www.saif.sjtu.edu.cn/faculty-research/faculty/zhang-xinan",
+"https://api.crossref.org/works/10.5465/amj.2018.0680"
+],
+"author_index": 0,
+"volume": "63",
+"issue": "6",
+"pages": "1923-1950",
+"tier": "business"
+}
+]
+},
+"pid:wensheng-peng--sjtu": {
+"name": "Wensheng Peng",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/peng-wensheng",
+"papers": []
+},
+"pid:zhiyu-zeng--sjtu": {
+"name": "Zhiyu Zeng",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zengzhiyu.html",
+"papers": []
+},
+"pid:xiaorong-li--sjtu": {
+"name": "Xiaorong Li",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/lixiaorong.html",
+"papers": [
+{
+"title": "Market Reaction to CEOs’ Dynamic Hemifacial Asymmetry of Expressions",
+"authors": [
+"Rajiv D. Banker",
+"Hui Ding",
+"Rong Huang",
+"Xiaorong Li"
+],
+"year": 2024,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.4922",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/lixiaorong.html",
+"https://www.acem.sjtu.edu.cn/faculty/86779.html",
+"https://api.crossref.org/works/10.1287/mnsc.2023.4922",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "70",
+"issue": "7",
+"pages": "4847-4874",
+"tier": "business"
+}
+]
+},
+"pid:nan-li--sjtu": {
+"name": "Nan Li",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/li-nan",
+"papers": []
+},
+"pid:david-x-li--sjtu": {
+"name": "David X. Li",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/li-david-x",
+"papers": []
+},
+"pid:zhihao-yin--sjtu": {
+"name": "Zhihao Yin",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/yin-zhihao",
+"papers": []
+},
+"pid:liang-shen--sjtu": {
+"name": "Liang Shen",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/shenliang.html",
+"papers": []
+},
+"pid:xuliang-zhu--sjtu": {
+"name": "Xuliang Zhu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/zhuxuliang.html",
+"papers": []
+},
+"pid:shougui-luo--sjtu": {
+"name": "Shougui Luo",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/luoshougui.html",
+"papers": [
+{
+"title": "Agglomeration economies in creative industries",
+"authors": [
+"Jin Tao",
+"Chun-Yu Ho",
+"Shougui Luo",
+"Yue Sheng"
+],
+"year": 2019,
+"venue": "Regional Science and Urban Economics",
+"status": "published",
+"doi": "10.1016/j.regsciurbeco.2019.04.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/luoshougui.html",
+"https://api.crossref.org/works/10.1016/j.regsciurbeco.2019.04.002",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "77",
+"pages": "141-154",
+"tier": "econ_field"
+}
+]
+},
+"pid:jie-hu--sjtu": {
+"name": "Jie Hu",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/hu-jie",
+"papers": []
+},
+"pid:li-xu--sjtu": {
+"name": "Li Xu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/xuli.html",
+"papers": [
+{
+"title": "Vertical Integration and Market Foreclosure in Media Markets: Evidence from the Chinese Motion Picture Industry",
+"authors": [
+"Ricard Gil",
+"Chun-Yu Ho",
+"Li Xu",
+"Yaying Zhou"
+],
+"year": 2024,
+"venue": "Journal of Law and Economics",
+"status": "published",
+"doi": "10.1086/727103",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/xuli.html",
+"https://www.journals.uchicago.edu/doi/10.1086/727103"
+],
+"author_index": 2,
+"volume": "67",
+"issue": "1",
+"pages": "143-193",
+"tier": "econ_field"
+}
+]
+},
+"pid:bingbing-dong--sjtu": {
+"name": "Bingbing Dong",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/dong-bingbing",
+"papers": []
+},
+"pid:zhan-jiang--sjtu": {
+"name": "Zhan Jiang",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/jiang-zhan",
+"papers": []
+},
+"pid:wei-jiang--sjtu": {
+"name": "Wei Jiang",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/jiangwei.html",
+"papers": []
+},
+"pid:xiao-qin--sjtu": {
+"name": "Xiao Qin",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/qinxiao.html",
+"papers": [
+{
+"title": "Systemic risk allocation using the asymptotic marginal expected shortfall",
+"authors": [
+"Xiao Qin",
+"Chen Zhou"
+],
+"year": 2021,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2021.106099",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/qinxiao.html",
+"https://www.acem.sjtu.edu.cn/news/80169.html",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2021.106099"
+],
+"author_index": 0,
+"volume": "126",
+"pages": "106099",
+"tier": "econ_field"
+}
+]
+},
+"pid:juncong-guo--sjtu": {
+"name": "Juncong Guo",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/guojc.html",
+"papers": [
+{
+"title": "Competition in household human capital investments: Strength, motivations and consequences",
+"authors": [
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2022.102937",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/guojc.html",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2022.102937",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "158",
+"pages": "102937",
+"tier": "econ_field"
+},
+{
+"title": "Spatial interactive effects on housing prices in Shanghai and Beijing",
+"authors": [
+"Juncong Guo",
+"Xi Qu"
+],
+"year": 2019,
+"venue": "Regional Science and Urban Economics",
+"status": "published",
+"doi": "10.1016/j.regsciurbeco.2018.07.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/guojc.html",
+"https://api.crossref.org/works/10.1016/j.regsciurbeco.2018.07.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "76",
+"pages": "147-160",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhipeng-yan--sjtu": {
+"name": "Zhipeng Yan",
+"verified_only": true,
+"source_url": "https://www.saif.sjtu.edu.cn/faculty-research/faculty/yan-zhipeng",
+"papers": []
+},
+"pid:ming-lu--sjtu": {
+"name": "Ming Lu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/luming.html",
+"papers": [
+{
+"title": "Place‐Based Land Policy and Spatial Misallocation: Theory and Evidence From China",
+"authors": [
+"Min Fang",
+"Libin Han",
+"Zibin Huang",
+"Ming Lu",
+"Li Zhang"
+],
+"year": 2026,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.70072",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/luming.html",
+"https://flcds.fudan.edu.cn/luming-zhongwenjianli.pdf",
+"https://www.acem.sjtu.edu.cn/shine/papers/96114.html",
+"https://www.aeaweb.org/conference/2023/program/paper/NKkkesiD",
+"https://api.crossref.org/works/10.1111/iere.70072"
+],
+"author_index": 3,
+"volume": "67",
+"issue": "4",
+"pages": "1159-1182",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_63602724ee856c050353--sjtu": {
+"name": "陈宏民",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/chenhongmin.html",
+"papers": []
+},
+"pid:jessie-chen--sjtu": {
+"name": "Jessie Chen",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/chenxiaorong.html",
+"papers": []
+},
+"pid:jingqiu-chen--sjtu": {
+"name": "Jingqiu Chen",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/chenjingqiu.html",
+"papers": [
+{
+"title": "Half the sky: The moderating role of cultural collectivism in job turnover among Chinese female workers",
+"authors": [
+"Jingqiu Chen",
+"Lei Wang",
+"Ningyu Tang"
+],
+"year": 2016,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-014-2395-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/chenjingqiu.html",
+"https://api.crossref.org/works/10.1007/s10551-014-2395-1",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "133",
+"issue": "3",
+"pages": "487-498",
+"tier": "business"
+}
+]
+},
+"pid:jieteng-chen--sjtu": {
+"name": "Jieteng Chen",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/chenjieteng.html",
+"papers": [
+{
+"title": "From Canvas to Blockchain: Impact of Royalties on Art Market Efficiency",
+"authors": [
+"Xinyu Cao",
+"Jieteng Chen",
+"T. Tony Ke"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.03810",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/chenjieteng.html",
+"https://jietengchen.github.io/",
+"https://research.cuhk.edu.hk/en/publications/from-canvas-to-blockchain-impact-of-royalties-on-art-market-effic/",
+"https://api.crossref.org/works/10.1287/mnsc.2023.03810"
+],
+"author_index": 1,
+"tier": "business"
+}
+]
+},
+"pid:jie-chen--sjtu": {
+"name": "Jie Chen",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/chenjie.html",
+"papers": [
+{
+"title": "Specification Seeking: How Product Specifications Influence Consumer Preference",
+"authors": [
+"Christopher K. Hsee",
+"Yang Yang",
+"Yangjie Gu",
+"Jie Chen"
+],
+"year": 2009,
+"venue": "Journal of Consumer Research",
+"status": "published",
+"doi": "10.1086/593947",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/chenjie.html",
+"https://ciug.sjtu.edu.cn/Cn/FacultyDetail/151?p=58&w=59",
+"https://api.crossref.org/works/10.1086/593947"
+],
+"author_index": 3,
+"volume": "35",
+"issue": "6",
+"pages": "952-966",
+"tier": "business"
+}
+]
+},
+"pid:qinxuan-gu--sjtu": {
+"name": "Qinxuan Gu",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/guqinxuan.html",
+"papers": [
+{
+"title": "Do Victims of Supervisor Bullying Suffer from Poor Creativity? Social Cognitive and Social Comparison Perspectives",
+"authors": [
+"Wan Jiang",
+"Qinxuan Gu",
+"Thomas Li-Ping Tang"
+],
+"year": 2019,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-017-3660-x",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://acem.sjtu.edu.cn/faculty/guqinxuan.html",
+"https://api.crossref.org/works/10.1007/s10551-017-3660-x"
+],
+"author_index": 1,
+"volume": "157",
+"issue": "3",
+"pages": "865-884",
+"tier": "business"
+}
+]
+},
+"pid:tieju-ma--sjtu": {
+"name": "TieJu Ma",
+"verified_only": true,
+"source_url": "https://acem.sjtu.edu.cn/faculty/matieju.html",
+"papers": []
 }
 }

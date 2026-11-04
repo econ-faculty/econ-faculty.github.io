@@ -15451,5 +15451,732 @@
 "status": "published"
 }
 ]
+},
+"pid:yuan-han--sysu": {
+"name": "Yuan Han",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/YuanHan",
+"papers": []
+},
+"pid:liu-yili--sysu": {
+"name": "Liu Yili",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/LiuYili",
+"papers": [
+{
+"title": "The role of registering trademarks on firms' innovation: Evidence from Chinese firms",
+"authors": [
+"Yili Liu",
+"Puyang Sun",
+"Yong Zhao"
+],
+"year": 2024,
+"venue": "Journal of Economics and Management Strategy",
+"status": "published",
+"doi": "10.1111/jems.12562",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/LiuYili",
+"https://bus.sysu.edu.cn/en/bus-faculty",
+"https://bus.sysu.edu.cn/teacher/LiuYili",
+"https://onlinelibrary.wiley.com/doi/10.1111/jems.12562",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "33(4)",
+"issue": "4",
+"pages": "845-876",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_6451bd45b1b8ff7df200--sysu": {
+"name": "刘晓玲",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/LiuXiaoling",
+"papers": [
+{
+"title": "Collateral-based monetary policy and corporate employment: Evidence from Medium-term Lending Facility in China",
+"authors": [
+"Xiaoling Liu",
+"Yuhui Wu",
+"Huan Zhang"
+],
+"year": 2023,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2022.102333",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/LiuXiaoling",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2022.102333"
+],
+"author_index": 0,
+"volume": "78",
+"pages": "102333",
+"tier": "econ_field"
+}
+]
+},
+"pid:liu-heng--sysu": {
+"name": "LIU Heng",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/LiuHeng",
+"papers": [
+{
+"title": "Co-opetition, distributor's entrepreneurial orientation and manufacturer's knowledge acquisition: Evidence from China",
+"authors": [
+"Yuan Li",
+"Yi Liu",
+"Heng Liu"
+],
+"year": 2011,
+"venue": "Journal of Operations Management",
+"status": "published",
+"doi": "10.1016/j.jom.2010.07.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/LiuHeng",
+"https://bus.sysu.edu.cn/en/bus-faculty",
+"https://bus.sysu.edu.cn/teacher/LiuHeng",
+"https://onlinelibrary.wiley.com/doi/10.1016/j.jom.2010.07.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.researchgate.net/profile/Heng_Liu2"
+],
+"author_index": 2,
+"volume": "29(1-2)",
+"issue": "1-2",
+"pages": "128-142",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_cf5752c63ad21c17c6de--sysu": {
+"name": "刘贯春",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/LiuGuanchun",
+"papers": [
+{
+"title": "Macroprudential assessment framework and firms' access to bank credit: Evidence from China",
+"authors": [
+"Guanchun Liu",
+"Hangjuan Liu",
+"Jiaqi Wu",
+"Linqing You"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.107111",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/LiuGuanchun",
+"https://api.crossref.org/works/10.1016/j.jebo.2025.107111"
+],
+"author_index": 0,
+"volume": "236",
+"pages": "107111",
+"tier": "econ_field"
+}
+]
+},
+"pid:lu-rui--sysu": {
+"name": "Lu Rui",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/8960",
+"papers": [
+{
+"title": "The Integrity of Financial Analysts: Evidence from Asymmetric Responses to Earnings Surprises",
+"authors": [
+"Rui Lu",
+"Wenxuan Hou",
+"Henry Oppenheimer",
+"Ting Zhang"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3244-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/8960",
+"https://bus.sysu.edu.cn/teacher/LuRui",
+"https://link.springer.com/article/10.1007/s10551-016-3244-1",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.research.ed.ac.uk/en/publications/the-integrity-of-financial-analysts-evidence-from-asymmetric-resp/"
+],
+"author_index": 0,
+"volume": "151",
+"issue": "3",
+"pages": "761-783",
+"tier": "business"
+}
+]
+},
+"pid:xiaoyi-lyu--sysu": {
+"name": "Xiaoyi Lyu",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/LyuXiaoyi",
+"papers": [
+{
+"title": "Does Traditional Debt Financing Hurt the Environment? Evidence from Toxic Releases",
+"authors": [
+"Xiaoyi Lyu",
+"Chenyu Shan",
+"Dragon Yongjun Tang"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05907-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/LyuXiaoyi",
+"https://api.crossref.org/works/10.1007%2Fs10551-024-05907-5",
+"https://raw.githubusercontent.com/econ-faculty/econ-faculty.github.io/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "200",
+"issue": "4",
+"pages": "957-985",
+"tier": "business"
+},
+{
+"title": "Do Carbon Emissions Affect Stock Returns? Causal Evidence from a Supreme Court Ruling",
+"authors": [
+"Xiaoyi Lyu",
+"Chenyu Shan",
+"Dragon Yongjun Tang"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2024.06732",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/LyuXiaoyi",
+"https://api.crossref.org/works/10.1287%2Fmnsc.2024.06732",
+"https://raw.githubusercontent.com/econ-faculty/econ-faculty.github.io/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"tier": "business"
+}
+]
+},
+"pid:cn-p_bc876d90a7d59c3d7526--sysu": {
+"name": "吴贾",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/WuJia",
+"papers": []
+},
+"pid:sun-haifa--sysu": {
+"name": "Sun Haifa",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/SunHaifa",
+"papers": []
+},
+"pid:zhang-shujun--sysu": {
+"name": "Zhang Shujun",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/6052",
+"papers": []
+},
+"pid:cn-p_2f25b343b5289a8c1628--sysu": {
+"name": "张晨",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/ZhangChen",
+"papers": []
+},
+"pid:cn-p_28219a302ba6e7cbd23c--sysu": {
+"name": "张莉",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/ZhangLi",
+"papers": [
+{
+"title": "Place-Based Land Policy and Spatial Misallocation: Theory and Evidence From China",
+"authors": [
+"Min Fang",
+"Libin Han",
+"Zibin Huang",
+"Ming Lu",
+"Li Zhang"
+],
+"year": 2026,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.70072",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/ZhangLi",
+"https://lingnan.sysu.edu.cn/article/3700",
+"https://api.crossref.org/works/10.1111/iere.70072"
+],
+"author_index": 4,
+"volume": "67",
+"issue": "4",
+"pages": "1159-1182",
+"tier": "econ_field"
+}
+]
+},
+"pid:xu-yanping--sysu": {
+"name": "Xu Yanping",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/XuYanping",
+"papers": [
+{
+"title": "The impact of revealing auditor partner quality: evidence from a long panel",
+"authors": [
+"C. S. Agnes Cheng",
+"Kun Wang",
+"Yanping Xu",
+"Ning Zhang"
+],
+"year": 2020,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-020-09537-w",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/XuYanping",
+"https://bus.sysu.edu.cn/teacher/XuYanping",
+"https://doi.org/10.1007/s11142-020-09537-w",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://research.polyu.edu.hk/en/publications/the-impact-of-revealing-auditor-partner-quality-evidence-from-a-l-2/"
+],
+"author_index": 2,
+"volume": "25",
+"issue": "4",
+"pages": "1475-1506",
+"tier": "business"
+}
+]
+},
+"pid:shi-zhuomin--sysu": {
+"name": "Shi Zhuomin",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/ShiZhuomin",
+"papers": []
+},
+"pid:haisheng-yang--sysu": {
+"name": "Haisheng Yang",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/YangHaisheng",
+"papers": [
+{
+"title": "Incentives matter: Domestic funds and price informativeness improvement",
+"authors": [
+"Shaoling Chen",
+"Xi Wu",
+"Haisheng Yang",
+"Jiaying Zhong"
+],
+"year": 2025,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2025.101027",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/YangHaisheng",
+"https://api.openalex.org/works/https://doi.org/10.1016%2Fj.finmar.2025.101027",
+"https://raw.githubusercontent.com/econ-faculty/econ-faculty.github.io/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "78",
+"pages": "101027",
+"tier": "econ_field"
+}
+]
+},
+"pid:wang-lin--sysu": {
+"name": "WANG Lin",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/8962",
+"papers": [
+{
+"title": "Exploring the affective impact, boundary conditions, and antecedents of leader humility.",
+"authors": [
+"Lin Wang",
+"Bradley P. Owens",
+"Junchao (Jason) Li",
+"Lihua Shi"
+],
+"year": 2018,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000314",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/8962",
+"https://api.crossref.org/works/10.1037%2Fapl0000314",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "103",
+"issue": "9",
+"pages": "1019-1038",
+"tier": "business"
+},
+{
+"title": "It’s mine! Psychological ownership of one’s job explains positive and negative workplace outcomes of job engagement.",
+"authors": [
+"Lin Wang",
+"Kenneth S. Law",
+"Melody Jun Zhang",
+"Yolanda Na Li",
+"Yongyi Liang"
+],
+"year": 2019,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000337",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/8962",
+"https://api.crossref.org/works/10.1037%2Fapl0000337",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "104",
+"issue": "2",
+"pages": "229-246",
+"tier": "business"
+},
+{
+"title": "Do not like it when you need it the most: Examining the effect of manager ego depletion on managerial voice endorsement",
+"authors": [
+"Junchao (Jason) Li",
+"Christopher M. Barnes",
+"Kai Chi Yam",
+"Cristiano L. Guarana",
+"Lin Wang"
+],
+"year": 2019,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2370",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/8962",
+"https://api.crossref.org/works/10.1002%2Fjob.2370",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "40",
+"issue": "8",
+"pages": "869-882",
+"tier": "business"
+},
+{
+"title": "Making daily decisions to work from home or to work in the office: The impacts of daily work- and COVID-related stressors on next-day work location.",
+"authors": [
+"Yiduo Shao",
+"Yanran Fang",
+"Mo Wang",
+"Chu-Hsiang (Daisy) Chang",
+"Lin Wang"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000929",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/8962",
+"https://api.crossref.org/works/10.1037%2Fapl0000929",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "106",
+"issue": "6",
+"pages": "825-838",
+"tier": "business"
+}
+]
+},
+"pid:wang-shan--sysu": {
+"name": "Wang Shan",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/WangShan",
+"papers": [
+{
+"title": "Managing Outpatient Service with Strategic Walk-ins",
+"authors": [
+"Nan Liu",
+"Willem L. van Jaarsveld",
+"Shan Wang",
+"Guanlian Xiao"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.4676",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/WangShan",
+"https://bus.sysu.edu.cn/teacher/WangShan",
+"https://www.wangshan.top/research.html",
+"https://research.tue.nl/en/publications/managing-outpatient-service-with-strategic-walk-ins/",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "69(10)",
+"issue": "10",
+"pages": "5904-5922",
+"tier": "business"
+}
+]
+},
+"pid:wang-yongli--sysu": {
+"name": "Wang Yongli",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/WangYongli",
+"papers": [
+{
+"title": "Good marriage at home, creativity at work: Family–work enrichment effect on workplace creativity",
+"authors": [
+"Yipeng Tang",
+"Xu Huang",
+"Yongli Wang"
+],
+"year": 2017,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2175",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/WangYongli",
+"https://api.crossref.org/works/10.1002%2Fjob.2175",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "38",
+"issue": "5",
+"pages": "749-766",
+"tier": "business"
+}
+]
+},
+"pid:wang-yujie--sysu": {
+"name": "WANG Yujie",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/10980",
+"papers": [
+{
+"title": "The rise of ESG rating agencies and management of corporate ESG violations",
+"authors": [
+"Albert Tsang",
+"Yujie Wang",
+"Yi Xiang",
+"Li Yu"
+],
+"year": 2024,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2024.107312",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/10980",
+"https://bus.sysu.edu.cn/teacher/WangYujie",
+"https://www.sciencedirect.com/science/article/pii/S0378426624002267",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://research.polyu.edu.hk/en/publications/the-rise-of-esg-rating-agencies-and-management-of-corporate-esg-v/"
+],
+"author_index": 1,
+"volume": "169",
+"pages": "107312",
+"tier": "econ_field"
+}
+]
+},
+"pid:cheng-li--sysu": {
+"name": "Cheng Li",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/Chengli",
+"papers": [
+{
+"title": "Outside in: Global demand heterogeneity and dynamic capabilities of multinational enterprises",
+"authors": [
+"Xiao Zhang",
+"Luqun Xie",
+"Jiatao Li",
+"Li Cheng"
+],
+"year": 2022,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-019-00252-6",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/Chengli",
+"https://bus.sysu.edu.cn/en/bus-faculty",
+"https://bus.sysu.edu.cn/teacher/Chengli",
+"https://link.springer.com/article/10.1057/s41267-019-00252-6",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"volume": "53",
+"issue": "4",
+"pages": "709-722",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_7961a8577fbc0058e352--sysu": {
+"name": "罗党论",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/LuoDanglun",
+"papers": [
+{
+"title": "Judging a book by its Cover: The influence of physical attractiveness on the promotion of regional leaders",
+"authors": [
+"Leng Ling",
+"Danglun Luo",
+"Guoman SHE"
+],
+"year": 2019,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2019.01.005",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/LuoDanglun",
+"https://api.crossref.org/works/10.1016/j.jebo.2019.01.005"
+],
+"author_index": 1,
+"volume": "158",
+"pages": "1-14",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhan-yaosong--sysu": {
+"name": "Zhan Yaosong",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/12375",
+"papers": [
+{
+"title": "Over-the-counter versus double auction in asset markets with near-zero-intelligence traders",
+"authors": [
+"Dong Lu",
+"Yaosong Zhan"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2022.104510",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/12375",
+"https://bus.sysu.edu.cn/en/bus-faculty",
+"https://bus.sysu.edu.cn/teacher/12375",
+"https://www.sciencedirect.com/science/article/pii/S0165188922002147",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2118127"
+],
+"volume": "143",
+"pages": "104510",
+"tier": "econ_field"
+}
+]
+},
+"pid:deng-jingsong--sysu": {
+"name": "Deng Jingsong",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/DengJingsong",
+"papers": []
+},
+"pid:zheng-guojian--sysu": {
+"name": "Zheng Guojian",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/ZhengGuojian",
+"papers": []
+},
+"pid:chen-honghui--sysu": {
+"name": "CHEN Honghui",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/chenhonghui",
+"papers": [
+{
+"title": "The motivational antecedents and performance consequences of corporate volunteering: When do employees volunteer and when does volunteering help versus harm work performance?",
+"authors": [
+"Jia Hu",
+"Kaifeng Jiang",
+"Shenjiang Mo",
+"Honghui Chen",
+"Junqi Shi"
+],
+"year": 2016,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published",
+"doi": "10.1016/j.obhdp.2016.08.005",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/chenhonghui",
+"https://bus.sysu.edu.cn/teacher/chenhonghui",
+"https://www.sciencedirect.com/science/article/pii/S0749597815302260",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "137",
+"pages": "99-111",
+"tier": "business"
+}
+]
+},
+"pid:wei-lijian--sysu": {
+"name": "Wei Lijian",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/WeiLijian",
+"papers": []
+},
+"pid:han-xiaoyun--sysu": {
+"name": "Han Xiaoyun",
+"verified_only": true,
+"source_url": "https://bus.sysu.edu.cn/en/teacher/HanXiaoyun",
+"papers": [
+{
+"title": "Service Loyalty: An Integrative Model and Examination across Service Contexts",
+"authors": [
+"Xiaoyun Han",
+"Robert J. Kwortnik",
+"Chunxiao Wang"
+],
+"year": 2008,
+"venue": "Journal of Service Research",
+"status": "published",
+"doi": "10.1177/1094670508319094",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bus.sysu.edu.cn/en/teacher/HanXiaoyun",
+"https://api.crossref.org/works/10.1177%2F1094670508319094",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://ecommons.cornell.edu/entities/publication/c57c663e-81e0-4ed6-a2bc-2b34b3eff1d6"
+],
+"volume": "11",
+"issue": "1",
+"pages": "22-42",
+"tier": "business"
+}
+]
 }
 }

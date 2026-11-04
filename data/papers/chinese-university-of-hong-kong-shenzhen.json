@@ -8105,5 +8105,326 @@
 "status": "working_paper"
 }
 ]
+},
+"pid:andre-milzarek--cuhk-shenzhen": {
+"name": "Andre Milzarek",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/64",
+"papers": []
+},
+"pid:barick-chung--cuhk-shenzhen": {
+"name": "Barick Chung",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/barickchung",
+"papers": []
+},
+"pid:chen-xinyun--cuhk-shenzhen": {
+"name": "CHEN, Xinyun",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/63",
+"papers": []
+},
+"pid:chen-yilun--cuhk-shenzhen": {
+"name": "CHEN, Yilun",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/447",
+"papers": []
+},
+"pid:chen-yuang--cuhk-shenzhen": {
+"name": "CHEN, Yuang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2078",
+"papers": []
+},
+"pid:courcoubetis-konstantinos--cuhk-shenzhen": {
+"name": "COURCOUBETIS, Konstantinos",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/473",
+"papers": []
+},
+"pid:cong-sun--cuhk-shenzhen": {
+"name": "Cong Sun",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/congsun",
+"papers": []
+},
+"pid:gallego-guillermo--cuhk-shenzhen": {
+"name": "GALLEGO, Guillermo",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/568",
+"papers": []
+},
+"pid:george-c-polyzos--cuhk-shenzhen": {
+"name": "George C. Polyzos",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1825",
+"papers": []
+},
+"pid:jieshuang-he--cuhk-shenzhen": {
+"name": "Jieshuang He",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/jieshuanghe",
+"papers": []
+},
+"pid:lin-tao--cuhk-shenzhen": {
+"name": "LIN, Tao",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2240",
+"papers": []
+},
+"pid:lingjing-zhan--cuhk-shenzhen": {
+"name": "Lingjing Zhan",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/lingjingzhan",
+"papers": []
+},
+"pid:linlin-ye--cuhk-shenzhen": {
+"name": "Linlin Ye",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/linlinye",
+"papers": []
+},
+"pid:mao-jianfeng--cuhk-shenzhen": {
+"name": "MAO, Jianfeng",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/268",
+"papers": []
+},
+"pid:miha-bresar--cuhk-shenzhen": {
+"name": "Miha Brešar",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2238",
+"papers": []
+},
+"pid:shi-chuan--cuhk-shenzhen": {
+"name": "SHI, Chuan",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1777",
+"papers": []
+},
+"pid:wang-zicheng--cuhk-shenzhen": {
+"name": "WANG, Zicheng",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/985",
+"papers": []
+},
+"pid:wei-linchuan--cuhk-shenzhen": {
+"name": "WEI, Linchuan",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1744",
+"papers": []
+},
+"pid:yang-haoxiang--cuhk-shenzhen": {
+"name": "YANG, Haoxiang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/468",
+"papers": []
+},
+"pid:yu-lun--cuhk-shenzhen": {
+"name": "YU, Lun",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/826",
+"papers": []
+},
+"pid:yanlin-qu--cuhk-shenzhen": {
+"name": "Yanlin Qu",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2451",
+"papers": []
+},
+"pid:yifei-lu--cuhk-shenzhen": {
+"name": "Yifei Lu",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/luyifei",
+"papers": []
+},
+"pid:yiying-zheng--cuhk-shenzhen": {
+"name": "Yiying Zheng",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/emilyzheng",
+"papers": []
+},
+"pid:yurii-nesterov--cuhk-shenzhen": {
+"name": "Yurii Nesterov",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1634",
+"papers": []
+},
+"pid:zhang-jingwei--cuhk-shenzhen": {
+"name": "ZHANG, Jingwei",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/627",
+"papers": []
+},
+"pid:zhuolan-bao--cuhk-shenzhen": {
+"name": "Zhuolan Bao",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/baozhuolan",
+"papers": []
+},
+"pid:ming-yan--cuhk-shenzhen": {
+"name": "Ming Yan",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/642",
+"papers": []
+},
+"pid:tianshu-yu--cuhk-shenzhen": {
+"name": "Tianshu Yu",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/448",
+"papers": []
+},
+"pid:zhongxiang-dai--cuhk-shenzhen": {
+"name": "Zhongxiang Dai",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1746",
+"papers": []
+},
+"pid:jianfeng-yao--cuhk-shenzhen": {
+"name": "Jianfeng Yao",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/506",
+"papers": []
+},
+"pid:ruoyu-sun--cuhk-shenzhen": {
+"name": "Ruoyu Sun",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/628",
+"papers": []
+},
+"pid:yongtao-guan--cuhk-shenzhen": {
+"name": "Yongtao Guan",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1038",
+"papers": []
+},
+"pid:yin-zhang--cuhk-shenzhen": {
+"name": "Yin Zhang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/57",
+"papers": []
+},
+"pid:chunyang-zhang--cuhk-shenzhen": {
+"name": "Chunyang Zhang",
+"verified_only": true,
+"source_url": "https://sme.cuhk.edu.cn/en/teacher/3554",
+"papers": []
+},
+"pid:yi-zhang--cuhk-shenzhen": {
+"name": "Yi Zhang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2431",
+"papers": []
+},
+"pid:ka-wai-tsang--cuhk-shenzhen": {
+"name": "Ka Wai Tsang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/266",
+"papers": []
+},
+"pid:zhaoyuan-li--cuhk-shenzhen": {
+"name": "Zhaoyuan Li",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/267",
+"papers": []
+},
+"pid:tongxin-li--cuhk-shenzhen": {
+"name": "Tongxin Li",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/632",
+"papers": []
+},
+"pid:yongchun-li--cuhk-shenzhen": {
+"name": "Yongchun Li",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2149",
+"papers": []
+},
+"pid:xiao-li--cuhk-shenzhen": {
+"name": "Xiao Li",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/378",
+"papers": []
+},
+"pid:junchi-yang--cuhk-shenzhen": {
+"name": "Junchi Yang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2056",
+"papers": []
+},
+"pid:shi-pu--cuhk-shenzhen": {
+"name": "Shi Pu",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/67",
+"papers": []
+},
+"pid:jie-wang--cuhk-shenzhen": {
+"name": "Jie Wang",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2182",
+"papers": []
+},
+"pid:wen-zhang--cuhk-shenzhen": {
+"name": "Wen Zhang",
+"verified_only": true,
+"source_url": "https://myweb.cuhk.edu.cn/zhangwen/Home/Research",
+"papers": []
+},
+"pid:zhi-quan-tom-luo--cuhk-shenzhen": {
+"name": "Zhi-Quan (Tom) Luo",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/214",
+"papers": []
+},
+"pid:nachuan-xiao--cuhk-shenzhen": {
+"name": "Nachuan Xiao",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2108",
+"papers": [
+{
+"title": "Dissolving Constraints for Riemannian Optimization",
+"authors": [
+"Nachuan Xiao",
+"Xin Liu",
+"Kim-Chuan Toh"
+],
+"year": 2024,
+"venue": "Mathematics of Operations Research",
+"status": "published",
+"doi": "10.1287/moor.2023.1360",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sds.cuhk.edu.cn/en/teacher/2108",
+"https://xnchxy.github.io/files/CV_NachuanXiao.pdf",
+"https://pubsonline.informs.org/doi/10.1287/moor.2023.1360",
+"https://api.crossref.org/works/10.1287/moor.2023.1360",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "49",
+"issue": "1",
+"pages": "366-397",
+"tier": "business"
+}
+]
+},
+"pid:jakwang-kim--cuhk-shenzhen": {
+"name": "Jakwang Kim",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2199",
+"papers": []
+},
+"pid:minghua-chen--cuhk-shenzhen": {
+"name": "Minghua Chen",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/2234",
+"papers": []
+},
+"pid:rui-chen-75d9598f68--cuhk-shenzhen": {
+"name": "Rui Chen",
+"verified_only": true,
+"source_url": "https://sds.cuhk.edu.cn/en/teacher/1629",
+"papers": []
 }
 }

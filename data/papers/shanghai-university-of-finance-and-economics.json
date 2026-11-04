@@ -17886,5 +17886,1465 @@
 "status": "revise_resubmit"
 }
 ]
+},
+"pid:jingyi-zhang--sufe": {
+"name": "Jingyi Zhang",
+"papers": [
+{
+"title": "Optimal capital account liberalization in China",
+"authors": [
+"Zheng Liu",
+"Mark M. Spiegel",
+"Jingyi Zhang"
+],
+"year": 2021,
+"venue": "Journal of Monetary Economics",
+"status": "published",
+"doi": "10.1016/j.jmoneco.2020.08.003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/99/af/c6876a104879/page.htm",
+"https://econen.sufe.edu.cn/6617/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jmoneco.2020.08.003"
+],
+"author_index": 2,
+"volume": "117",
+"pages": "1041-1061",
+"tier": "econ_field"
+}
+],
+"source_url": "https://econen.sufe.edu.cn/99/af/c6876a104879/page.htm"
+},
+"pid:seokjong-ryu--sufe": {
+"name": "Seokjong Ryu",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/1d/c6876a92445/page.htm",
+"papers": []
+},
+"pid:xian-li--sufe": {
+"name": "Xian Li",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/c0/e5/c6876a114917/page.htm",
+"papers": []
+},
+"pid:yaohua-li--sufe": {
+"name": "Yaohua Li",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/58/c6877a92504/page.htm",
+"papers": [
+{
+"title": "Price discovery and long-distance market integration: Evidence from the Republican Chinese Cotton Goods Exchange",
+"authors": [
+"Yaohua Li",
+"Yuhan Xiao"
+],
+"year": 2026,
+"venue": "Explorations in Economic History",
+"status": "published",
+"doi": "10.1016/j.eeh.2026.101754",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/69/58/c6877a92504/page.htm",
+"https://econen.sufe.edu.cn/28/a0/c6588a272544/page.htm",
+"https://api.crossref.org/works/10.1016/j.eeh.2026.101754",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "101",
+"pages": "101754",
+"tier": "econ_field"
+}
+]
+},
+"pid:haoyuan-ding--sufe": {
+"name": "Haoyuan Ding",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/62",
+"papers": []
+},
+"pid:liu-zhiyang--sufe": {
+"name": "Liu Zhiyang",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/32",
+"papers": [
+{
+"title": "Buddhist Entrepreneurs, Managerial Attention Allocation, and New Ventures' Access to External Resources",
+"authors": [
+"Zuhui Xu",
+"Yi Tang",
+"Zhiyang Liu"
+],
+"year": 2023,
+"venue": "Journal of Management Studies",
+"status": "published",
+"doi": "10.1111/joms.12850",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/32",
+"https://saaa.sufe.edu.cn/ca/7b/c19159a248443/page.htm",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/joms.12850",
+"https://api.crossref.org/works/10.1111/joms.12850",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "60",
+"issue": "2",
+"pages": "454-494",
+"tier": "business"
+}
+]
+},
+"pid:ruhan-liu--sufe": {
+"name": "Ruhan Liu",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/246",
+"papers": [
+{
+"title": "Customers' Review Content and Their Referral and (Re)Purchase Behaviors",
+"authors": [
+"Ruhan Liu",
+"Wanqing Zhang",
+"Pradeep K. Chintagunta"
+],
+"year": 2026,
+"venue": "Journal of Marketing",
+"status": "published",
+"doi": "10.1177/00222429251352842",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/246",
+"https://journals.sagepub.com/doi/10.1177/00222429251352842",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "90",
+"issue": "3",
+"pages": "127-147",
+"tier": "business"
+}
+]
+},
+"pid:xiaohui-lu--sufe": {
+"name": "Xiaohui Lu",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/28/81/c6877a141441/page.htm",
+"papers": [
+{
+"title": "A goodness-of-fit test for copulas based on martingale transformation",
+"authors": [
+"Xiaohui Lu",
+"Xu Zheng"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2019.08.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/28/81/c6877a141441/page.htm",
+"https://econen.sufe.edu.cn/6617/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jeconom.2019.08.007"
+],
+"author_index": 0,
+"volume": "215",
+"issue": "1",
+"pages": "84-117",
+"tier": "econ_field"
+}
+]
+},
+"pid:naide-ye--sufe": {
+"name": "Naide Ye",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/yenaide",
+"papers": [
+{
+"title": "Court enforcement and corporate innovation: Evidence from China",
+"authors": [
+"Dongmin Kong",
+"Yanan Wang",
+"Naide Ye"
+],
+"year": 2026,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2026.107738",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/yenaide",
+"https://www.sciencedirect.com/science/article/pii/S0378426626001123",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2026.107738",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "189",
+"pages": "107738",
+"tier": "econ_field"
+},
+{
+"title": "Banking Integration and Capital Misallocation: Evidence from China",
+"authors": [
+"Naide Ye",
+"Dongmin Kong"
+],
+"year": 2025,
+"venue": "Review of Corporate Finance Studies",
+"status": "published",
+"doi": "10.1093/rcfs/cfad020",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/yenaide",
+"https://academic.oup.com/rcfs/article/14/2/564/7241700",
+"https://api.crossref.org/works/10.1093/rcfs/cfad020",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://sites.google.com/view/naideye/home/"
+],
+"author_index": 0,
+"volume": "14",
+"issue": "2",
+"pages": "564-607",
+"tier": "econ_field"
+},
+{
+"title": "Deregulating the input market by central inspection: Lessons from China's primary land market",
+"authors": [
+"Dongmin Kong",
+"Yanan Wang",
+"Naide Ye"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.02.039",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/yenaide",
+"https://www.sciencedirect.com/science/article/pii/S0167268124000933",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.02.039",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://sites.google.com/view/naideye/home/"
+],
+"author_index": 2,
+"volume": "220",
+"pages": "732-755",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhengyi-zhou--sufe": {
+"name": "Zhengyi Zhou",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/zhouzhengyi",
+"papers": [
+{
+"title": "Housing market and entrepreneurship: Micro evidence from China",
+"authors": [
+"Bing Han",
+"Lu Han",
+"Zhengyi Zhou"
+],
+"year": 2026,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2026.107789",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/zhouzhengyi",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2026.107789",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "191",
+"pages": "107789",
+"tier": "econ_field"
+},
+{
+"title": "Down payment requirements and house prices: Quasi-experiment evidence from Shanghai",
+"authors": [
+"Haopeng Shen",
+"Hang Zhou",
+"Zhengyi Zhou"
+],
+"year": 2024,
+"venue": "Real Estate Economics",
+"status": "published",
+"doi": "10.1111/1540-6229.12465",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/zhouzhengyi",
+"https://api.crossref.org/works/10.1111/1540-6229.12465",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "52(6)",
+"issue": "6",
+"pages": "1414-1445",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-sun--sufe": {
+"name": "Zheng Sun",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/89",
+"papers": [
+{
+"title": "Government intervention and investment efficiency: Evidence from China",
+"authors": [
+"Shimin Chen",
+"Zheng Sun",
+"Song Tang",
+"Donghui Wu"
+],
+"year": 2011,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2010.08.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/89",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2010.08.004",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://gr.xjtu.edu.cn/zheng.sun/?_cn_edu_xjtu_news_NewsPortlet_mvcRenderCommandName=%2Fnews%2Fview_news&_cn_edu_xjtu_news_NewsPortlet_newsId=13560166&_cn_edu_xjtu_news_NewsPortlet_redirect=%2Fweb%2Fzheng.sun&p_p_id=cn_edu_xjtu_news_NewsPortlet&p_p_lifecycle=0&p_p_mode=view&p_p_state=maximized"
+],
+"author_index": 1,
+"volume": "17",
+"issue": "2",
+"pages": "259-271",
+"tier": "econ_field"
+},
+{
+"title": "Rent-seeking incentives, corporate political connections, and the control structure of private firms: Chinese evidence",
+"authors": [
+"Charles J.P. Chen",
+"Zengquan Li",
+"Xijia Su",
+"Zheng Sun"
+],
+"year": 2011,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2010.09.009",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/89",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2010.09.009",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://gr.xjtu.edu.cn/zheng.sun/?_cn_edu_xjtu_news_NewsPortlet_mvcRenderCommandName=%2Fnews%2Fview_news&_cn_edu_xjtu_news_NewsPortlet_newsId=13560166&_cn_edu_xjtu_news_NewsPortlet_redirect=%2Fweb%2Fzheng.sun&p_p_id=cn_edu_xjtu_news_NewsPortlet&p_p_lifecycle=0&p_p_mode=view&p_p_state=maximized"
+],
+"author_index": 3,
+"volume": "17",
+"issue": "2",
+"pages": "229-243",
+"tier": "econ_field"
+}
+]
+},
+"pid:dawen-meng--sufe": {
+"name": "Dawen Meng",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/52/c6877a92498/page.htm",
+"papers": [
+{
+"title": "Dynamic mechanism design on social networks",
+"authors": [
+"Dawen Meng",
+"Lei Sun",
+"Guoqiang Tian"
+],
+"year": 2022,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2021.10.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/69/52/c6877a92498/page.htm",
+"https://econen.sufe.edu.cn/6617/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.geb.2021.10.007"
+],
+"author_index": 0,
+"volume": "131",
+"pages": "84-120",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhengyu-zhang--sufe": {
+"name": "Zhengyu Zhang",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/40/c6877a92480/page.htm",
+"papers": [
+{
+"title": "LOCAL PARTITIONED QUANTILE REGRESSION",
+"authors": [
+"Zhengyu Zhang"
+],
+"year": 2017,
+"venue": "Econometric Theory",
+"status": "published",
+"doi": "10.1017/s0266466616000293",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/69/40/c6877a92480/page.htm",
+"https://econen.sufe.edu.cn/6617/list.htm",
+"https://api.crossref.org/works/10.1017%2FS0266466616000293"
+],
+"author_index": 0,
+"volume": "33",
+"issue": "5",
+"pages": "1081-1120",
+"tier": "econ_field"
+}
+]
+},
+"pid:cheng-zhang--sufe": {
+"name": "Cheng Zhang",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/zc_17169/main.htm",
+"papers": [
+{
+"title": "Value-Based CEO Equity Grants",
+"authors": [
+"Jin Xu",
+"Pengfei Ye",
+"Cheng Zhang"
+],
+"year": 2025,
+"venue": "Journal of Financial and Quantitative Analysis",
+"status": "published",
+"doi": "10.1017/s0022109025000018",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/zc_17169/main.htm",
+"https://sa.shufe.edu.cn/zc_17169/list.htm",
+"https://api.crossref.org/works/10.1017/s0022109025000018"
+],
+"author_index": 2,
+"volume": "60",
+"issue": "7",
+"pages": "3514-3550",
+"tier": "business"
+}
+]
+},
+"pid:nan-xu--sufe": {
+"name": "Nan Xu",
+"verified_only": true,
+"source_url": "https://dafi.sufe.edu.cn/ce/75/c12600a249461/page.htm",
+"papers": [
+{
+"title": "Do Mutual Funds Walk the Talk? Evidence from Fund Risk Disclosure",
+"authors": [
+"Jinfei Sheng",
+"Nan Xu",
+"Lu Zheng"
+],
+"year": 2026,
+"venue": "Review of Financial Studies",
+"status": "published",
+"doi": "10.1093/rfs/hhag020",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://dafi.sufe.edu.cn/ce/75/c12600a249461/page.htm",
+"https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhag020/8688482",
+"https://sites.google.com/view/nan-xu"
+],
+"author_index": 1,
+"tier": "business"
+}
+]
+},
+"pid:wei-xu--sufe": {
+"name": "Wei Xu",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/xuwei",
+"papers": []
+},
+"pid:zhiguang-cao--sufe": {
+"name": "Zhiguang Cao",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/caozhiguang",
+"papers": [
+{
+"title": "Asset allocation strategies, data snooping, and the 1 / N rule",
+"authors": [
+"Po-Hsuan Hsu",
+"Qiheng Han",
+"Wensheng Wu",
+"Zhiguang Cao"
+],
+"year": 2018,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2018.09.021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/caozhiguang",
+"https://siifc.sufe.edu.cn/7d/91/c8069a228753/page.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426618302152",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2018.09.021",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "97",
+"pages": "257-269",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhou-zhu--sufe": {
+"name": "Zhou Zhu",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/84",
+"papers": [
+{
+"title": "Work–Family Effects of Servant Leadership: The Roles of Emotional Exhaustion and Personal Learning",
+"authors": [
+"Guiyao Tang",
+"Ho Kwong Kwan",
+"Deyuan Zhang",
+"Zhou Zhu"
+],
+"year": 2016,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-015-2559-7",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/84",
+"https://api.crossref.org/works/10.1007/s10551-015-2559-7",
+"https://www.sdxc.gov.cn/waplm/wapxw/202009/t20200924_11621589.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/matched.json"
+],
+"author_index": 3,
+"volume": "137",
+"issue": "2",
+"pages": "285-297",
+"tier": "business"
+}
+]
+},
+"pid:chuanjia-li--sufe": {
+"name": "Chuanjia Li",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/199",
+"papers": [
+{
+"title": "The Boon and Bane of Creative Stars: A Social Network Exploration of How and When Team Creativity Is (and Is Not) Driven by a Star Teammate",
+"authors": [
+"Yuan Li",
+"Ning Li",
+"Chuanjia Li",
+"Jingyu Li"
+],
+"year": 2020,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2018.0283",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/199",
+"https://cob.sufe.edu.cn/Home/Detail/17153",
+"https://journals.aom.org/doi/abs/10.5465/amj.2018.0283",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "63",
+"issue": "2",
+"pages": "613-635",
+"tier": "business"
+}
+]
+},
+"pid:li-jingsong--sufe": {
+"name": "Li Jingsong",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/40",
+"papers": [
+{
+"title": "Toward Understanding Employees 'Responses to Leaders' Unethical Pro-organizational Behavior: An Outcome Favorability Perspective",
+"authors": [
+"Yahua Cai",
+"Haoding Wang",
+"Sebastian C. Schuh",
+"Jinsong Li",
+"Weili Zheng"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-023-05535-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/40",
+"https://api.crossref.org/works/10.1007/s10551-023-05535-5",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://m.mston-dg.com/faculty/lijingsong/en/index.htm"
+],
+"author_index": 3,
+"volume": "192",
+"issue": "1",
+"pages": "79-95",
+"tier": "business"
+}
+]
+},
+"pid:ting-li--sufe": {
+"name": "Ting Li",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/lt_17160/main.htm",
+"papers": [
+{
+"title": "It's a Small World: The Importance of Social Connections with Auditors to Mutual Fund Managers’ Portfolio Decisions",
+"authors": [
+"YANGYANG CHEN",
+"JUN HUANG",
+"TING LI",
+"JEFFREY PITTMAN"
+],
+"year": 2022,
+"venue": "Journal of Accounting Research",
+"status": "published",
+"doi": "10.1111/1475-679x.12395",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/lt_17160/main.htm",
+"https://sa.shufe.edu.cn/lt_17160/list.htm",
+"https://api.crossref.org/works/10.1111/1475-679x.12395"
+],
+"author_index": 2,
+"volume": "60",
+"issue": "3",
+"pages": "901-963",
+"tier": "business"
+}
+]
+},
+"pid:jiangyuan-li--sufe": {
+"name": "Jiangyuan Li",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/lijiangyuan",
+"papers": []
+},
+"pid:zihui-yang--sufe": {
+"name": "Zihui Yang",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/yangzihui",
+"papers": [
+{
+"title": "Quantitative Easing and Volatility Spillovers Across Countries and Asset Classes",
+"authors": [
+"Zihui Yang",
+"Yinggang Zhou"
+],
+"year": 2017,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2015.2305",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/yangzihui",
+"https://www.yangzihuiwebsite.com/",
+"https://lingnan.sysu.edu.cn/article/2240",
+"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12062848&stockid=920892",
+"https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2305",
+"https://api.crossref.org/works/10.1287%2Fmnsc.2015.2305"
+],
+"author_index": 0,
+"volume": "63",
+"issue": "2",
+"pages": "333-354",
+"tier": "business"
+}
+]
+},
+"pid:chenxu-ke--sufe": {
+"name": "Chenxu Ke",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/233",
+"papers": [
+{
+"title": "Discrete Choice Models with Piecewise Linear Utility: Modeling, Estimation, and Pricing",
+"authors": [
+"Chenxu Ke",
+"Ruxian Wang",
+"Zifeng Zhao"
+],
+"year": 2026,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2023.0169",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/233",
+"https://api.crossref.org/works/10.1287/msom.2023.0169",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://rfly.buaa.edu.cn/people.html"
+],
+"author_index": 0,
+"volume": "28",
+"issue": "4",
+"pages": "1266-1285",
+"tier": "business"
+}
+]
+},
+"pid:kaiwen-wu--sufe": {
+"name": "Kaiwen Wu",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/wkw_17166/main.htm",
+"papers": [
+{
+"title": "Competence vs. Independence: Auditors' connections with members of their clients’ business community",
+"authors": [
+"Mark DeFond",
+"Zengquan Li",
+"T.J. Wong",
+"Kaiwen Wu"
+],
+"year": 2024,
+"venue": "Journal of Accounting and Economics",
+"status": "published",
+"doi": "10.1016/j.jacceco.2024.101702",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/wkw_17166/main.htm",
+"https://sa.shufe.edu.cn/wkw_17166/list.htm",
+"https://api.crossref.org/works/10.1016/j.jacceco.2024.101702"
+],
+"author_index": 3,
+"volume": "78",
+"issue": "1",
+"pages": "101702",
+"tier": "business"
+}
+]
+},
+"pid:jiatong-niu--sufe": {
+"name": "Jiatong Niu",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/274",
+"papers": [
+{
+"title": "A two-pronged approach to currency internationalization",
+"authors": [
+"Qing Liu",
+"Wenlan Luo",
+"Jiatong Niu"
+],
+"year": 2026,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2026.104309",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/274",
+"https://sites.google.com/view/jiatongniu",
+"https://api.crossref.org/works/10.1016/j.jinteco.2026.104309",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "162",
+"pages": "104309",
+"tier": "econ_field"
+}
+]
+},
+"pid:yingjie-niu--sufe": {
+"name": "Yingjie Niu",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/niuyingjie",
+"papers": [
+{
+"title": "Disaster learning and aggregate investment",
+"authors": [
+"Yingjie Niu",
+"Jinqiang Yang",
+"Zhentao Zou"
+],
+"year": 2024,
+"venue": "Journal of Economic Theory",
+"status": "published",
+"doi": "10.1016/j.jet.2024.105872",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/niuyingjie",
+"https://api.crossref.org/works/10.1016/j.jet.2024.105872",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "220",
+"pages": "105872",
+"tier": "econ_field"
+},
+{
+"title": "Consumption dynamics with law of small numbers",
+"authors": [
+"Yingjie Niu",
+"Yaoyao Wu",
+"Siqi Zhao",
+"Zhentao Zou"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.06.021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/niuyingjie",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.06.021",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "224",
+"pages": "915-923",
+"tier": "econ_field"
+}
+]
+},
+"pid:siying-wang--sufe": {
+"name": "Siying Wang",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/259",
+"papers": [
+{
+"title": "Environmental regulations and international trade: A quantitative economic analysis of world pollution emissions",
+"authors": [
+"Yuwan Duan",
+"Ting Ji",
+"Yi Lu",
+"Siying Wang"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2021.104521",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/259",
+"https://siying-w.github.io/",
+"https://api.crossref.org/works/10.1016/j.jpubeco.2021.104521",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "203",
+"pages": "104521",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiaohan-wang--sufe": {
+"name": "Xiaohan Wang",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/wangxiaohan",
+"papers": []
+},
+"pid:xiaoyu-wang--sufe": {
+"name": "Xiaoyu Wang",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/53",
+"papers": [
+{
+"title": "Powering Sustainable Consumption: The Roles of Green Consumption Values and Power Distance Belief",
+"authors": [
+"Li Yan",
+"Hean Tat Keh",
+"Xiaoyu Wang"
+],
+"year": 2021,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-019-04295-5",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/53",
+"https://api.crossref.org/works/10.1007/s10551-019-04295-5",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://faculty.cau.edu.cn/wxy_11780/"
+],
+"author_index": 2,
+"volume": "169",
+"issue": "3",
+"pages": "499-516",
+"tier": "business"
+}
+]
+},
+"pid:shiyuan-wang--sufe": {
+"name": "Shiyuan Wang",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/261",
+"papers": [
+{
+"title": "Dynamic Contract Design with Learning",
+"authors": [
+"Shiyuan Wang",
+"Yong Liang",
+"Peng Sun"
+],
+"year": 2026,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2024.0944",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/261",
+"https://pubsonline.informs.org/doi/10.1287/opre.2024.0944",
+"https://api.crossref.org/works/10.1287/opre.2024.0944",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/matched.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/extra_links.json"
+],
+"author_index": 0,
+"tier": "business"
+},
+{
+"title": "Online Joint Assortment-Inventory Optimization Under MNL Choices",
+"authors": [
+"Yong Liang",
+"Xiaojie Mao",
+"Shiyuan Wang"
+],
+"year": 2026,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2023.0167",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/261",
+"https://pubsonline.informs.org/doi/10.1287/opre.2023.0167",
+"https://api.crossref.org/works/10.1287/opre.2023.0167",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/matched.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/extra_links.json"
+],
+"author_index": 2,
+"volume": "74",
+"issue": "4",
+"pages": "1909-1931",
+"tier": "business"
+}
+]
+},
+"pid:shixiang-wang--sufe": {
+"name": "Shixiang Wang",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/185",
+"papers": [
+{
+"title": "Location choice in global patent litigation: Does the landscape matter?",
+"authors": [
+"Charlie B. An",
+"Shixiang Wang",
+"Minyuan Zhao"
+],
+"year": 2026,
+"venue": "Strategic Management Journal",
+"status": "published",
+"doi": "10.1002/smj.70037",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/185",
+"https://api.crossref.org/works/10.1002/smj.70037",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://shixiangwang.github.io/cv-shixiang/"
+],
+"author_index": 1,
+"volume": "47",
+"issue": "4",
+"pages": "1066-1092",
+"tier": "business"
+}
+]
+},
+"pid:cong-qin--sufe": {
+"name": "Cong Qin",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/qincong",
+"papers": [
+{
+"title": "Dynamic Trading with Realization Utility",
+"authors": [
+"MIN DAI",
+"CONG QIN",
+"NENG WANG"
+],
+"year": 2026,
+"venue": "Journal of Finance",
+"status": "published",
+"doi": "10.1111/jofi.13472",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/qincong",
+"https://api.crossref.org/works/10.1111/jofi.13472",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://onlinelibrary.wiley.com/doi/10.1111/jofi.13472"
+],
+"author_index": 1,
+"volume": "81(1)",
+"issue": "1",
+"pages": "189-238",
+"tier": "business"
+}
+]
+},
+"pid:yan-cheng--sufe": {
+"name": "Yan Cheng",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/245",
+"papers": [
+{
+"title": "From Social to Purchase: Customer Selection in Social Group Buying",
+"authors": [
+"Yan Cheng",
+"Shaochong Lin",
+"Zuo-Jun Max Shen"
+],
+"year": 2025,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1177/10591478241302761",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/245",
+"https://api.crossref.org/works/10.1177/10591478241302761",
+"https://journals.sagepub.com/doi/10.1177/10591478241302761",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "6",
+"pages": "1512-1530",
+"tier": "business"
+}
+]
+},
+"pid:fang-su--sufe": {
+"name": "Fang Su",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/sufang",
+"papers": [
+{
+"title": "Social face for innovation in strategic alliances in China: the mediating roles of resource exchange and reflexivity",
+"authors": [
+"Alfred Wong",
+"Dean Tjosvold",
+"Fang Su"
+],
+"year": 2007,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.468",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/sufang",
+"https://onlinelibrary.wiley.com/toc/10991379/2007/28/8",
+"https://api.crossref.org/works/10.1002/job.468",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://apria2022shanghai.sufe.edu.cn/file/Schedule%20APRIA%202022.pdf"
+],
+"author_index": 2,
+"volume": "28",
+"issue": "8",
+"pages": "961-978",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_459a659880b28e8aa539--sufe": {
+"name": "罗道康",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/283",
+"papers": []
+},
+"pid:yuanyuan-xiao--sufe": {
+"name": "Yuanyuan Xiao",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/xiaoyuanyuan",
+"papers": []
+},
+"pid:kirill-e-novoselov--sufe": {
+"name": "Kirill E. Novoselov",
+"verified_only": true,
+"source_url": "https://sa.sufe.edu.cn/Kirill%20Novoselov/main.psp",
+"papers": []
+},
+"pid:qingyue-fan--sufe": {
+"name": "Qingyue Fan",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/254",
+"papers": [
+{
+"title": "The relative effects of design thinking versus after-action review on team performance: An experiential/episodic team learning perspective.",
+"authors": [
+"Jingqiu Chen",
+"Dana R. Vashdi",
+"Qingyue Fan",
+"Peter A. Bamberger",
+"Gilad Chen"
+],
+"year": 2025,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0001277",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/254",
+"https://api.crossref.org/works/10.1037/apl0001277",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "110",
+"issue": "10",
+"pages": "1412-1425",
+"tier": "business"
+}
+]
+},
+"pid:jing-dong--sufe": {
+"name": "Jing Dong",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/54",
+"papers": [
+{
+"title": "Managing Complexity and Unforeseeable Uncertainty in Startup Companies: An Empirical Study",
+"authors": [
+"Svenja C. Sommer",
+"Christoph H. Loch",
+"Jing Dong"
+],
+"year": 2009,
+"venue": "Organization Science",
+"status": "published",
+"doi": "10.1287/orsc.1080.0369",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/54",
+"https://api.crossref.org/works/10.1287/orsc.1080.0369",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://sites.google.com/site/njdongjing"
+],
+"author_index": 2,
+"volume": "20",
+"issue": "1",
+"pages": "118-133",
+"tier": "business"
+}
+]
+},
+"pid:xin-xu--sufe": {
+"name": "Xin Xu",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/xx/main.htm",
+"papers": [
+{
+"title": "Using Machine Learning to Predict Corporate Fraud: Evidence Based on the GONE Framework",
+"authors": [
+"Xin Xu",
+"Feng Xiong",
+"Zhe An"
+],
+"year": 2023,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-022-05120-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/xx/main.htm",
+"https://sa.shufe.edu.cn/xx/list.htm",
+"https://api.crossref.org/works/10.1007/s10551-022-05120-2"
+],
+"author_index": 0,
+"volume": "186",
+"issue": "1",
+"pages": "137-158",
+"tier": "business"
+}
+]
+},
+"pid:na-zhao--sufe": {
+"name": "Na Zhao",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/257",
+"papers": []
+},
+"pid:guiqin-zhao--sufe": {
+"name": "Guiqin Zhao",
+"verified_only": true,
+"source_url": "https://fin.sufe.edu.cn/Faculty/Resume/zhaoguiqin",
+"papers": [
+{
+"title": "Cash holdings between public and private insurers – a partial adjustment approach",
+"authors": [
+"Xiaoying Xie",
+"Yuling Wang",
+"Guiqin Zhao",
+"Weili Lu"
+],
+"year": 2017,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2017.05.008",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://fin.sufe.edu.cn/Faculty/Resume/zhaoguiqin",
+"https://econen.sufe.edu.cn/db/13/c6617a187155/page.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426617301103",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2017.05.008",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.aria.org/assets/Annual-Meeting/Past_Events/WRIEC_2015.PDF"
+],
+"author_index": 2,
+"volume": "82",
+"pages": "80-97",
+"tier": "econ_field"
+}
+]
+},
+"pid:qiang-chen--sufe": {
+"name": "Qiang Chen",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/63/c6877a92515/page.htm",
+"papers": [
+{
+"title": "Asymptotically distribution-free tests for the volatility function of a diffusion",
+"authors": [
+"Qiang Chen",
+"Xu Zheng",
+"Zhiyuan Pan"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2014.06.020",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econen.sufe.edu.cn/69/63/c6877a92515/page.htm",
+"https://econen.sufe.edu.cn/6617/list.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jeconom.2014.06.020"
+],
+"author_index": 0,
+"volume": "184",
+"issue": "1",
+"pages": "124-144",
+"tier": "econ_field"
+}
+]
+},
+"pid:ji-tao--sufe": {
+"name": "Ji Tao",
+"verified_only": true,
+"source_url": "https://econen.sufe.edu.cn/69/4c/c6877a92492/page.htm",
+"papers": []
+},
+"pid:hanchi-gu--sufe": {
+"name": "Hanchi Gu",
+"verified_only": true,
+"source_url": "https://sa.sufe.edu.cn/ghc_17043/main.htm",
+"papers": []
+},
+"pid:hui-ma--sufe": {
+"name": "Hui Ma",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/mh_17163/main.htm",
+"papers": [
+{
+"title": "Employee Board Representation and Capital Investment",
+"authors": [
+"Qinglu Jin",
+"Hui Ma",
+"Thomas Schmid",
+"Guochang Zhang"
+],
+"year": 2025,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2023.03495",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/mh_17163/main.htm",
+"https://sa.shufe.edu.cn/mh_17163/list.htm",
+"https://api.crossref.org/works/10.1287/mnsc.2023.03495"
+],
+"author_index": 1,
+"volume": "71",
+"issue": "8",
+"pages": "6707-6728",
+"tier": "business"
+}
+]
+},
+"pid:weihe-gao--sufe": {
+"name": "Weihe Gao",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/7",
+"papers": [
+{
+"title": "Branding Cultural Products in International Markets: A Study of Hollywood Movies in China",
+"authors": [
+"Weihe Gao",
+"Li Ji",
+"Yong Liu",
+"Qi Sun"
+],
+"year": 2020,
+"venue": "Journal of Marketing",
+"status": "published",
+"doi": "10.1177/0022242920912704",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/7",
+"https://api.crossref.org/works/10.1177/0022242920912704",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "84",
+"issue": "3",
+"pages": "86-105",
+"tier": "business"
+}
+]
+},
+"pid:chunyan-wei--sufe": {
+"name": "Chunyan Wei",
+"verified_only": true,
+"source_url": "http://sa.shufe.edu.cn/wcy_17079/main.htm",
+"papers": [
+{
+"title": "State Ownership and Target Setting: Evidence from Publicly Listed Companies in China*",
+"authors": [
+"Chunyan Wei"
+],
+"year": 2021,
+"venue": "Contemporary Accounting Research",
+"status": "published",
+"doi": "10.1111/1911-3846.12665",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sa.shufe.edu.cn/wcy_17079/main.htm",
+"https://sa.shufe.edu.cn/wcy_17079/list.htm",
+"https://api.crossref.org/works/10.1111/1911-3846.12665"
+],
+"author_index": 0,
+"volume": "38",
+"issue": "3",
+"pages": "1925-1960",
+"tier": "business"
+}
+]
+},
+"pid:hang-wei--sufe": {
+"name": "Hang Wei",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/18",
+"papers": [
+{
+"title": "The optimal product-line selling mode in online platforms",
+"authors": [
+"Jian Huang",
+"Xuelian Qin",
+"Lin Tian",
+"Hang Wei"
+],
+"year": 2024,
+"venue": "Journal of Retailing",
+"status": "published",
+"doi": "10.1016/j.jretai.2024.07.003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/18",
+"https://api.crossref.org/works/10.1016/j.jretai.2024.07.003",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "100",
+"issue": "3",
+"pages": "486-505",
+"tier": "business"
+}
+]
+},
+"pid:xiaohua-bao--sufe": {
+"name": "Xiaohua Bao",
+"verified_only": true,
+"source_url": "https://cob.sufe.edu.cn/Faculty/Resume/6",
+"papers": [
+{
+"title": "Trade policy uncertainty and foreign direct investment: Evidence from China’s WTO accession",
+"authors": [
+"Xiaohua Bao",
+"Jianpeng Deng",
+"Haoyu Sun",
+"Jin Sun"
+],
+"year": 2022,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2022.102642",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://cob.sufe.edu.cn/Faculty/Resume/6",
+"https://www.sciencedirect.com/science/article/pii/S0261560622000456",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://igfe.sufe.edu.cn/english/66/97/c7182a157335/page.htm"
+],
+"author_index": 0,
+"volume": "125",
+"pages": "102642",
+"tier": "econ_field"
+}
+]
+},
+"pid:huang-jun--sufe": {
+"name": "Huang Jun",
+"verified_only": true,
+"source_url": "https://sa.sufe.edu.cn/hj_16938/main.htm",
+"papers": []
 }
 }

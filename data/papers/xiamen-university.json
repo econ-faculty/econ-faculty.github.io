@@ -8381,5 +8381,444 @@
 "status": "published"
 }
 ]
+},
+"pid:junru-lyu--xiamen": {
+"name": "Junru Lyu",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/lvjunru/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_91a3645249706b8401a2--xiamen": {
+"name": "吴朦",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/WM12345678/zh_CN/index.htm",
+"papers": []
+},
+"pid:huan-wu--xiamen": {
+"name": "Huan Wu",
+"verified_only": true,
+"source_url": "https://soe.xmu.edu.cn/jsfc_jxkyry.jsp?collegeid=1250&faggregatequeryid=1022&language=zh_CN&postdutyid=1022&urltype=tp.TpCollegeZWTeachers&wbtreeid=6431",
+"papers": []
+},
+"pid:jin-zhou--xiamen": {
+"name": "Jin Zhou",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/zhoujin/zh_CN/index.htm",
+"papers": [
+{
+"title": "A modified Diebold–Mariano test for equal forecast accuracy with clustered dependence",
+"authors": [
+"Jin Zhou",
+"Haiqi Li",
+"Wanling Zhong"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2021.110029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/lwcg/1134725/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2021.110029",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "207",
+"pages": "110029",
+"tier": "econ_field"
+},
+{
+"title": "A new self-normalized forecast comparison test",
+"authors": [
+"Haiqi Li",
+"Ni Zhang",
+"Jin Zhou"
+],
+"year": 2025,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2025.112646",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/lwcg/1134725/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2025.112646",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "256",
+"pages": "112646",
+"tier": "econ_field"
+},
+{
+"title": "Estimating and testing for smooth structural changes in moment condition models",
+"authors": [
+"Haiqi Li",
+"Jin Zhou",
+"Yongmiao Hong"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2024.105896",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://faculty.xmu.edu.cn/zhoujin/zh_CN/lwcg/1134725/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2024.105896",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "246",
+"issue": "1-2",
+"pages": "105896",
+"tier": "econ_field"
+}
+]
+},
+"pid:fuwei-jiang--xiamen": {
+"name": "Fuwei Jiang",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/jiangfw/en/index.htm",
+"papers": []
+},
+"pid:zhe-zhang--xiamen": {
+"name": "Zhe Zhang",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/zhangzhe/zh_CN/index.htm",
+"papers": []
+},
+"pid:zhoufan-zhu--xiamen": {
+"name": "Zhoufan Zhu",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/tylerzzf/zh_CN/index.htm",
+"papers": [
+{
+"title": "Asset Pricing via the Conditional Quantile Variational Autoencoder",
+"authors": [
+"Xuanling Yang",
+"Zhoufan Zhu",
+"Dong Li",
+"Ke Zhu"
+],
+"year": 2024,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2023.2223683",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/tylerzzf/zh_CN/index.htm",
+"https://zhuzhoufan.github.io/publications/",
+"https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2223683",
+"https://hub.hku.hk/handle/10722/343867",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://zhuzhoufan.github.io/"
+],
+"author_index": 1,
+"volume": "42",
+"issue": "2",
+"pages": "681-694",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_29b902c50b68966c56c4--xiamen": {
+"name": "李茂良",
+"verified_only": true,
+"source_url": "https://ifas.xmu.edu.cn/info/1092/4603.htm",
+"papers": []
+},
+"pid:youhong-lin--xiamen": {
+"name": "Youhong Lin",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/linyouhong/zh_CN/index.htm",
+"papers": [
+{
+"title": "The Fractured-Land Hypothesis",
+"authors": [
+"Jesús Fernández-Villaverde",
+"Mark Koyama",
+"Youhong Lin",
+"Tuan-Hwee Sng"
+],
+"year": 2023,
+"venue": "Quarterly Journal of Economics",
+"status": "published",
+"doi": "10.1093/qje/qjad003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/linyouhong/zh_CN/index.htm",
+"https://scholar.xmu.edu.cn/Authors/Index?Year=2023&id=LinYouHong",
+"https://econ.xmu.edu.cn/info/1014/59150.htm",
+"https://api.crossref.org/works/10.1093/qje/qjad003"
+],
+"author_index": 2,
+"volume": "138",
+"issue": "2",
+"pages": "1173-1231",
+"tier": "econ_top5"
+}
+]
+},
+"pid:cn-p_10af5c93a308009ed790--xiamen": {
+"name": "梁若冰",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/LRB/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_3ac1f556137917104b36--xiamen": {
+"name": "江硕",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/JS12/zh_CN/index.htm",
+"papers": []
+},
+"pid:yu-pan--xiamen": {
+"name": "Yu Pan",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/panyu/zh_CN/index.htm",
+"papers": [
+{
+"title": "The Criminogenic Consequence of Export Slowdown: Evidence from Millions of Court Judgement Documents in China",
+"authors": [
+"Hong Ma",
+"Yu Pan",
+"Mingzhi (Jimmy) Xu"
+],
+"year": 2025,
+"venue": "Economic Journal",
+"status": "published",
+"doi": "10.1093/ej/ueaf024",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/panyu/zh_CN/index.htm",
+"https://sites.google.com/view/panyu-py/research",
+"https://soe.xmu.edu.cn/info/6411/899775.htm",
+"https://api.crossref.org/works/10.1093/ej/ueaf024"
+],
+"author_index": 1,
+"volume": "135",
+"issue": "671",
+"pages": "2242-2275",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_2256ba13e8186f72bfde--xiamen": {
+"name": "茅家铭",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/MJM/zh_CN/index.htm",
+"papers": []
+},
+"pid:xu-jiang--xiamen": {
+"name": "Xu Jiang",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/jiangxu/zh_CN/index.htm",
+"papers": [
+{
+"title": "Fertility and delayed migration: How son preference protects young girls against mother-child separation",
+"authors": [
+"Zibin Huang",
+"Xu Jiang",
+"Ang Sun"
+],
+"year": 2024,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2023.103191",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/jiangxu/zh_CN/index.htm",
+"https://faculty.xmu.edu.cn/jiangxu/zh_CN/lwcg/1097485/content/278562.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2023.103191",
+"https://faculty.xmu.edu.cn/jiangxu/en/index.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "166",
+"pages": "103191",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_6933192cf6bfe3d3fe40--xiamen": {
+"name": "蔡伟贤",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/wxcai/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_52f008e10b81a6bf896e--xiamen": {
+"name": "蔡宇超",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/caiyuchao/zh_CN/index.htm",
+"papers": []
+},
+"pid:wenbin-xu--xiamen": {
+"name": "Wenbin Xu",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/XWB/en/index.htm",
+"papers": []
+},
+"pid:cn-p_d62579a55b594008e9fb--xiamen": {
+"name": "赵华",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/zhaohua/zh_CN/index.htm",
+"papers": []
+},
+"pid:zhengtang-zhao--xiamen": {
+"name": "Zhengtang Zhao",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/ZZT/en/index.htm",
+"papers": []
+},
+"pid:cn-p_57d8d43eae5271c3611d--xiamen": {
+"name": "陈国进",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/CGJ/zh_CN/index.htm",
+"papers": []
+},
+"pid:shang-gao--xiamen": {
+"name": "Shang Gao",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/gaoshang1/zh_CN/index.htm",
+"papers": [
+{
+"title": "TESTING FOR STRICT STATIONARITY VIA THE DISCRETE FOURIER TRANSFORM",
+"authors": [
+"Zhonghao Fu",
+"Shang Gao",
+"Liangjun Su",
+"Xia Wang"
+],
+"year": 2024,
+"venue": "Econometric Theory",
+"status": "published",
+"doi": "10.1017/s0266466622000494",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/gaoshang1/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://shanggao-lab.github.io/shanggao/",
+"https://api.crossref.org/works/10.1017/s0266466622000494",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "40",
+"issue": "3",
+"pages": "511-557",
+"tier": "econ_field"
+},
+{
+"title": "High-dimensional conditional factor model",
+"authors": [
+"Zhonghao Fu",
+"Shang Gao",
+"Liangjun Su",
+"Xia Wang"
+],
+"year": 2026,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2026.106203",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/gaoshang1/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://shanggao-lab.github.io/shanggao/",
+"https://api.crossref.org/works/10.1016/j.jeconom.2026.106203",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "254",
+"pages": "106203",
+"tier": "econ_field"
+}
+]
+},
+"pid:juanjuan-huang--xiamen": {
+"name": "Juanjuan Huang",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/HJJ1/zh_CN/index.htm",
+"papers": [
+{
+"title": "Nonnegotiable shares, controlling shareholders, and dividend payments in China",
+"authors": [
+"Juan Juan Huang",
+"Yifeng Shen",
+"Qian Sun"
+],
+"year": 2011,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2010.09.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/HJJ1/zh_CN/index.htm",
+"https://wise.xmu.edu.cn/js_zmgj.jsp?urltype=tp.TpCollegeZWTeachers&wbtreeid=3571&collegeid=1266&postdutyid=1072&language=zh_CN&faggregatequeryid=&checkaggregatequeryid=1072",
+"https://faculty.xmu.edu.cn/HJJ1/zh_CN/zdylm/1024008/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2010.09.007",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "17",
+"issue": "1",
+"pages": "122-133",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_7e6833c7cb5ed320584d--xiamen": {
+"name": "黄寿峰",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/HSF12/zh_CN/index.htm",
+"papers": [
+{
+"title": "Transmission effects of foreign exchange reserves on price level: Evidence from China",
+"authors": [
+"Langnan Chen",
+"Shoufeng Huang"
+],
+"year": 2012,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2012.06.037",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.xmu.edu.cn/HSF12/zh_CN/index.htm",
+"https://faculty.xmu.edu.cn/HSF12/zh_CN/zdylm/1024080/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2012.06.037"
+],
+"volume": "117",
+"issue": "3",
+"pages": "870-873",
+"tier": "econ_field"
+}
+]
+},
+"pid:yaling-qi--xiamen": {
+"name": "Yaling Qi",
+"verified_only": true,
+"source_url": "https://soe.xmu.edu.cn/info/6411/1067135.htm",
+"papers": []
+},
+"pid:cn-p_89123a2634c3bda5fa44--xiamen": {
+"name": "龚敏",
+"verified_only": true,
+"source_url": "https://faculty.xmu.edu.cn/GM/zh_CN/index.htm",
+"papers": []
 }
 }

@@ -9390,5 +9390,858 @@
 "status": "published"
 }
 ]
+},
+"pid:cn-p_0a7cd46e581d0b9f80ef--nankai": {
+"name": "丁思华",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0422/c16878a540663/page.htm",
+"papers": []
+},
+"pid:jing-he--nankai": {
+"name": "Jing He",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2026/0903/c34557a601784/page.htm",
+"papers": [
+{
+"title": "Trade war and trade credit",
+"authors": [
+"Omrane Guedhami",
+"Jing He",
+"Xinming Li",
+"Daxuan Zhao"
+],
+"year": 2026,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2026.103643",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nankai.edu.cn/2026/0903/c34557a601784/page.htm",
+"https://sites.google.com/view/jinghejade/research",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2026.103643",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "168",
+"pages": "103643",
+"tier": "econ_field"
+}
+]
+},
+"pid:kai-feng--nankai": {
+"name": "Kai Feng",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0522/c16878a543562/page.htm",
+"papers": [
+{
+"title": "From rents to results: China’s anti-corruption reforms and the effectiveness of aid to Africa",
+"authors": [
+"Yiran Du",
+"Kai Feng",
+"Gang Xu"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103841",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0522/c16878a543562/page.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103841",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "183",
+"pages": "103841",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiao-feng--nankai": {
+"name": "Xiao Feng",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0523/c16878a579340/page.htm",
+"papers": [
+{
+"title": "Export capacity constraints and distortions",
+"authors": [
+"Xiao Feng",
+"Yongjin Wang",
+"Laixun Zhao"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2022.102889",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0523/c16878a579340/page.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2022.102889",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "157",
+"pages": "102889",
+"tier": "econ_field"
+}
+]
+},
+"pid:fengqi-liu--nankai": {
+"name": "Fengqi Liu",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0522/c16878a577741/page.htm",
+"papers": [
+{
+"title": "Habit formation and news-driven business cycles",
+"authors": [
+"Fengqi Liu",
+"Keqing Liu",
+"Jianpo Xue"
+],
+"year": 2025,
+"venue": "Review of Economic Dynamics",
+"status": "published",
+"doi": "10.1016/j.red.2025.101273",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0522/c16878a577741/page.htm",
+"https://api.crossref.org/works/10.1016/j.red.2025.101273",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "56",
+"pages": "101273",
+"tier": "econ_field"
+},
+{
+"title": "Keeping up with the Joneses and the consumption response to government spending",
+"authors": [
+"Kevin X.D. Huang",
+"Fengqi Liu",
+"Qinglai Meng",
+"Jianpo Xue"
+],
+"year": 2022,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2022.110869",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0522/c16878a577741/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2022.110869",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "220",
+"pages": "110869",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_a8b1430a7ddaaaabde48--nankai": {
+"name": "原新",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208356/page.htm",
+"papers": []
+},
+"pid:youji-lyu--nankai": {
+"name": "Youji Lyu",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2022/0328/c34553a526665/page.htm",
+"papers": [
+{
+"title": "Expectations-based loss aversion in contests",
+"authors": [
+"Qiang Fu",
+"Youji Lyu",
+"Zenan Wu",
+"Yuanjie Zhang"
+],
+"year": 2022,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2022.01.018",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nankai.edu.cn/2022/0328/c34553a526665/page.htm",
+"https://finance.nankai.edu.cn/fjs/list1.htm",
+"https://youjilyu.netlify.app/",
+"https://api.crossref.org/works/10.1016/j.geb.2022.01.018"
+],
+"author_index": 1,
+"volume": "133",
+"pages": "1-27",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiaofan-wu--nankai": {
+"name": "Xiaofan Wu",
+"verified_only": true,
+"source_url": "https://esd.nankai.edu.cn/info/1220/2746.htm",
+"papers": []
+},
+"pid:cn-p_03731c85ff625cf14be9--nankai": {
+"name": "姚万军",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208354/page.htm",
+"papers": []
+},
+"pid:chengjiu-sun--nankai": {
+"name": "Chengjiu Sun",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0422/c16878a540740/page.htm",
+"papers": [
+{
+"title": "Collateral damage: The environmental consequences of US sanctions",
+"authors": [
+"Chengjiu Sun",
+"Shanshan Wang"
+],
+"year": 2025,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2024.103103",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0422/c16878a540740/page.htm",
+"https://economics.nankai.edu.cn/2025/0325/c15998a565071/page.htm",
+"https://doi.org/10.1016/j.jeem.2024.103103"
+],
+"author_index": 0,
+"volume": "130",
+"pages": "103103",
+"publication_type": "journal article",
+"tier": "econ_field"
+}
+]
+},
+"pid:xin-cui--nankai": {
+"name": "Xin Cui",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2026/1026/c34553a605064/page.htm",
+"papers": [
+{
+"title": "Positive information shocks, investor behavior and stock price crash risk",
+"authors": [
+"Xin Cui",
+"Ahmet Sensoy",
+"Duc Khuong Nguyen",
+"Shouyu Yao",
+"Yiyao Wu"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2022.03.016",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nankai.edu.cn/2026/1026/c34553a605064/page.htm",
+"https://finance.nankai.edu.cn/fjs/list1.htm",
+"https://teacher.hebut.edu.cn/publish/2023ac3b45ef67e74e219d28c2fb05ac13f8081/lwcg/科研论文.html"
+],
+"author_index": 0,
+"volume": "197",
+"pages": "493-518",
+"tier": "econ_field"
+}
+]
+},
+"pid:ruizhi-pang--nankai": {
+"name": "Ruizhi Pang",
+"verified_only": true,
+"source_url": "https://esd.nankai.edu.cn/info/1208/2750.htm",
+"papers": [
+{
+"title": "The equilibrium effects of environmental regulation on heterogeneous competing firms: Theory and evidence from Chinese manufacturing",
+"authors": [
+"Ruizhi Pang",
+"Xuping Zhang",
+"Matthew Leisten",
+"Zhongqi Deng"
+],
+"year": 2025,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2025.103161",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://esd.nankai.edu.cn/info/1208/2750.htm",
+"https://api.crossref.org/works/10.1016%2Fj.ijindorg.2025.103161",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "100",
+"pages": "103161",
+"tier": "econ_field"
+}
+]
+},
+"pid:huayue-zhang--nankai": {
+"name": "Huayue Zhang",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2020/0714/c34553a537422/page.htm",
+"papers": []
+},
+"pid:senhui-fang--nankai": {
+"name": "Senhui Fang",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0104/c16878a534789/page.htm",
+"papers": [
+{
+"title": "Climate actions and corporate carbon emissions along the supply chain",
+"authors": [
+"Lulu Chang",
+"Senhui Fang"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111503",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/0104/c16878a534789/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2023.111503",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "235",
+"pages": "111503",
+"tier": "econ_field"
+}
+]
+},
+"pid:jiyun-cao--nankai": {
+"name": "Jiyun Cao",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/0928/c16878a207514/page.htm",
+"papers": [
+{
+"title": "Foreign Direct Investment and Technology Licensing in a Polluting Industry",
+"authors": [
+"Jiyun Cao",
+"Arijit Mukherjee"
+],
+"year": 2024,
+"venue": "Environmental and Resource Economics",
+"status": "published",
+"doi": "10.1007/s10640-024-00886-7",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/0928/c16878a207514/page.htm",
+"https://api.crossref.org/works/10.1007/s10640-024-00886-7",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "87",
+"issue": "9",
+"pages": "2361-2399",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_bd8f900e5f341ed757a8--nankai": {
+"name": "李世杰",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0422/c16878a540672/page.htm",
+"papers": []
+},
+"pid:li-li--nankai": {
+"name": "Li Li",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2024/0306/c34553a537103/page.htm",
+"papers": []
+},
+"pid:xiang-li--nankai": {
+"name": "Xiang Li",
+"verified_only": true,
+"source_url": "https://esd.nankai.edu.cn/info/1209/2751.htm",
+"papers": [
+{
+"title": "Service Channel Choice for Supply Chain: Who is Better Off by Undertaking the Service?",
+"authors": [
+"Xiang Li",
+"Yongjian Li",
+"Xiaoqiang Cai",
+"Jun Shan"
+],
+"year": 2016,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.12392",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://esd.nankai.edu.cn/info/1209/2751.htm",
+"https://api.crossref.org/works/10.1111%2Fpoms.12392",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "25",
+"issue": "3",
+"pages": "516-534",
+"tier": "business"
+},
+{
+"title": "On Core Sorting in RMTS and RMTO Systems: A Newsvendor Framework",
+"authors": [
+"Xiang Li",
+"Yongjian Li",
+"Xiaoqiang Cai"
+],
+"year": 2015,
+"venue": "Decision Sciences",
+"status": "published",
+"doi": "10.1111/deci.12152",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://esd.nankai.edu.cn/info/1209/2751.htm",
+"https://api.crossref.org/works/10.1111%2Fdeci.12152",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "47",
+"issue": "1",
+"pages": "60-93",
+"tier": "business"
+}
+]
+},
+"pid:na-li--nankai": {
+"name": "Na Li",
+"verified_only": true,
+"source_url": "https://esd.nankai.edu.cn/info/1406/4178.htm",
+"papers": [
+{
+"title": "Does CSR Reduce Idiosyncratic Risk? Roles of Operational Efficiency and AI Innovation",
+"authors": [
+"Guo Li",
+"Na Li",
+"Suresh P. Sethi"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13483",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://esd.nankai.edu.cn/info/1406/4178.htm",
+"https://api.crossref.org/works/10.1111%2Fpoms.13483",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "30",
+"issue": "7",
+"pages": "2027-2045",
+"tier": "business"
+}
+]
+},
+"pid:haoran-li--nankai": {
+"name": "Haoran Li",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2025/0401/c34557a565867/page.htm",
+"papers": [
+{
+"title": "Bank systemic risk around COVID-19: A cross-country analysis",
+"authors": [
+"Yuejiao Duan",
+"Sadok El Ghoul",
+"Omrane Guedhami",
+"Haoran Li",
+"Xinming Li"
+],
+"year": 2021,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2021.106299",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nankai.edu.cn/2025/0401/c34557a565867/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2021.106299",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "133",
+"pages": "106299",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiangliang-li--nankai": {
+"name": "Xiangliang Li",
+"verified_only": true,
+"source_url": "https://finance.nankai.edu.cn/2021/1015/c34557a536898/page.htm",
+"papers": [
+{
+"title": "On the Equilibrium Properties of Spatial Models",
+"authors": [
+"Treb Allen",
+"Costas Arkolakis",
+"Xiangliang Li"
+],
+"year": 2024,
+"venue": "AER: Insights",
+"status": "published",
+"doi": "10.1257/aeri.20230495",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nankai.edu.cn/2021/1015/c34557a536898/page.htm",
+"https://api.crossref.org/works/10.1257/aeri.20230495",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "6",
+"issue": "4",
+"pages": "472-489",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_d71516fb6a49f8b74b4a--nankai": {
+"name": "梁琪",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208283/page.htm",
+"papers": [
+{
+"title": "Board characteristics and Chinese bank performance",
+"authors": [
+"Qi Liang",
+"Pisun Xu",
+"Pornsit Jiraporn"
+],
+"year": 2013,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2013.04.018",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208283/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2013.04.018",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "37",
+"issue": "8",
+"pages": "2953-2968",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_44cb00f32da8fd822a62--nankai": {
+"name": "段文斌",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1004/c16878a208226/page.htm",
+"papers": []
+},
+"pid:yongjin-wang--nankai": {
+"name": "Yongjin Wang",
+"papers": [
+{
+"title": "Export capacity constraints and distortions",
+"authors": [
+"Xiao Feng",
+"Yongjin Wang",
+"Laixun Zhao"
+],
+"year": 2022,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2022.102889",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2022.102889",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://nkiet.nankai.edu.cn/2021/0912/c11817a394124/page.htm"
+],
+"author_index": 1,
+"volume": "157",
+"pages": "102889",
+"tier": "econ_field"
+},
+{
+"title": "Saving good jobs from global competition by rewarding quality and efforts",
+"authors": [
+"Yongjin Wang",
+"Laixun Zhao"
+],
+"year": 2015,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2015.03.005",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm",
+"https://api.crossref.org/works/10.1016/j.jinteco.2015.03.005",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://nkiet.nankai.edu.cn/2021/0912/c11817a394124/page.htm"
+],
+"author_index": 0,
+"volume": "96",
+"issue": "2",
+"pages": "426-434",
+"tier": "econ_field"
+},
+{
+"title": "Comparative advantage and optimal trade policy with strategic interactions",
+"authors": [
+"Mengmeng Dai",
+"Wen-Tai Hsu",
+"Wei Jin",
+"Yongjin Wang",
+"Siqiang Yang"
+],
+"year": 2026,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2025.103236",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm",
+"https://api.crossref.org/works/10.1016/j.ijindorg.2025.103236",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://nkiet.nankai.edu.cn/2021/0912/c11817a394124/page.htm"
+],
+"author_index": 3,
+"volume": "104",
+"pages": "103236",
+"tier": "econ_field"
+},
+{
+"title": "Competition among large and heterogeneous small firms",
+"authors": [
+"Lijun Pan",
+"Yongjin Wang"
+],
+"year": 2020,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2020.109604",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2020.109604",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://nkiet.nankai.edu.cn/2021/0912/c11817a394124/page.htm"
+],
+"author_index": 1,
+"volume": "196",
+"pages": "109604",
+"tier": "econ_field"
+},
+{
+"title": "Estimating resource misallocation: Distinguishing factor market distortions from variable markups",
+"authors": [
+"Ningning Li",
+"Yongjin Wang"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2021.110027",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2021.110027",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://nkiet.nankai.edu.cn/2021/0912/c11817a394124/page.htm"
+],
+"author_index": 1,
+"volume": "207",
+"pages": "110027",
+"tier": "econ_field"
+}
+],
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208332/page.htm"
+},
+"pid:cn-p_d642bcdbbad69f9e400a--nankai": {
+"name": "王苒",
+"verified_only": true,
+"source_url": "https://esd.nankai.edu.cn/info/1221/2745.htm",
+"papers": []
+},
+"pid:cn-p_5794c77d81c327820c97--nankai": {
+"name": "胡华",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208267/page.htm",
+"papers": []
+},
+"pid:cn-p_77f3da428e1747df8c27--nankai": {
+"name": "蒋殿春",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208274/page.htm",
+"papers": []
+},
+"pid:minhee-chae--nankai": {
+"name": "Minhee Chae",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/0104/c16878a534787/page.htm",
+"papers": []
+},
+"pid:cn-p_1b60e3d51476e6bd0bf3--nankai": {
+"name": "邹文博",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2024/1214/c16878a559118/page.htm",
+"papers": [
+{
+"title": "Ingroup bias in a social learning experiment",
+"authors": [
+"Wenbo Zou",
+"Xue Xu"
+],
+"year": 2023,
+"venue": "Experimental Economics",
+"status": "published",
+"doi": "10.1007/s10683-022-09788-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/1214/c16878a559118/page.htm",
+"https://api.crossref.org/works/10.1007/s10683-022-09788-1",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://economics.nankai.edu.cn/qzjs/list12.htm"
+],
+"author_index": 0,
+"volume": "26",
+"issue": "1",
+"pages": "27-54",
+"tier": "econ_field"
+},
+{
+"title": "Measuring the welfare and spillover effects of rank information",
+"authors": [
+"Wenbo Zou",
+"Wenzheng Gao"
+],
+"year": 2023,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2023.09.030",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/1214/c16878a559118/page.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2023.09.030",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://economics.nankai.edu.cn/qzjs/list12.htm"
+],
+"author_index": 0,
+"volume": "216",
+"pages": "187-220",
+"tier": "econ_field"
+},
+{
+"title": "Generative AI adoption in human creative tasks: Experimental evidence",
+"authors": [
+"Feng Zhu",
+"Wenbo Zou"
+],
+"year": 2026,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2026.107414",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2024/1214/c16878a559118/page.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2026.107414",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://economics.nankai.edu.cn/qzjs/list12.htm"
+],
+"author_index": 1,
+"volume": "242",
+"pages": "107414",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiangchao-hao--nankai": {
+"name": "Xiangchao Hao",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1006/c16878a208263/page.htm",
+"papers": [
+{
+"title": "Labor cost, government intervention, and corporate innovation: Evidence from China",
+"authors": [
+"Jianqiang Li",
+"Yaowen Shan",
+"Gary Tian",
+"Xiangchao Hao"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2020.101668",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2019/1006/c16878a208263/page.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2020.101668",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "64",
+"pages": "101668",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_8637ee8c9f59440b4f97--nankai": {
+"name": "陈卫民",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2019/1004/c16878a208218/page.htm",
+"papers": []
+},
+"pid:xing-gao--nankai": {
+"name": "Xing Gao",
+"verified_only": true,
+"source_url": "https://economics.nankai.edu.cn/2025/1028/c16878a582403/page.htm",
+"papers": [
+{
+"title": "Statistical arbitrage and risk contagion",
+"authors": [
+"Xing Gao",
+"Daniel Ladley"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2022.104528",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://economics.nankai.edu.cn/2025/1028/c16878a582403/page.htm",
+"https://api.crossref.org/works/10.1016/j.jedc.2022.104528",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://economics.nankai.edu.cn/qzjs/list3.htm"
+],
+"author_index": 0,
+"volume": "144",
+"pages": "104528",
+"tier": "econ_field"
+}
+]
 }
 }

@@ -2038,5 +2038,276 @@
 "anurag gumber": {
 "name": "Anurag Gumber",
 "papers": []
+},
+"pid:seona-park--hkust-gz": {
+"name": "Seona PARK",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/430",
+"papers": []
+},
+"pid:kok-sin-woon--hkust-gz": {
+"name": "KOK SIN WOON",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/521",
+"papers": []
+},
+"pid:yang-yue--hkust-gz": {
+"name": "Yang YUE",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/525",
+"papers": []
+},
+"pid:si-qiao--hkust-gz": {
+"name": "Si QIAO",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/661",
+"papers": []
+},
+"pid:lingbo-liu--hkust-gz": {
+"name": "Lingbo LIU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/740",
+"papers": []
+},
+"pid:xiaofeng-liu--hkust-gz": {
+"name": "Xiaofeng LIU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/494",
+"papers": []
+},
+"pid:xun-wu--hkust-gz": {
+"name": "Xun Wu",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WU-Xun/wuxun",
+"papers": []
+},
+"pid:muzhi-zhou--hkust-gz": {
+"name": "Muzhi ZHOU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/96",
+"papers": []
+},
+"pid:kejun-jiang--hkust-gz": {
+"name": "Kejun Jiang",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/541",
+"papers": []
+},
+"pid:tong-jiang--hkust-gz": {
+"name": "Tong JIANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/728",
+"papers": []
+},
+"pid:xiaotong-sun--hkust-gz": {
+"name": "Xiaotong SUN",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/38",
+"papers": []
+},
+"pid:shuo-sun--hkust-gz": {
+"name": "Shuo SUN",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/582",
+"papers": []
+},
+"pid:liang-zhang--hkust-gz": {
+"name": "Liang ZHANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/583",
+"papers": []
+},
+"pid:zhuoni-zhang--hkust-gz": {
+"name": "Zhuoni ZHANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/24",
+"papers": []
+},
+"pid:ying-zhang--hkust-gz": {
+"name": "Ying Zhang",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/304",
+"papers": [
+{
+"title": "Langevin Dynamics Based Algorithm e-THεO POULA for Stochastic Optimization Problems with Discontinuous Stochastic Gradient",
+"authors": [
+"Dong-Young Lim",
+"Ariel Neufeld",
+"Sotirios Sabanis",
+"Ying Zhang"
+],
+"year": 2025,
+"venue": "Mathematics of Operations Research",
+"status": "published",
+"doi": "10.1287/moor.2022.0307",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/304",
+"https://api.crossref.org/works/10.1287/moor.2022.0307"
+],
+"author_index": 3,
+"volume": "50",
+"issue": "3",
+"pages": "2333-2374",
+"tier": "business"
+}
+]
+},
+"pid:chao-zhang--hkust-gz": {
+"name": "Chao ZHANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/442",
+"papers": []
+},
+"pid:ziteng-cheng--hkust-gz": {
+"name": "Ziteng Cheng",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHENG-Ziteng/zitengcheng",
+"papers": []
+},
+"pid:rui-cao--hkust-gz": {
+"name": "Rui CAO",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/374",
+"papers": []
+},
+"pid:zimu-zhu--hkust-gz": {
+"name": "Zimu ZHU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/466",
+"papers": []
+},
+"pid:robin-guohuibin-li--hkust-gz": {
+"name": "Robin Guohuibin LI",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/622",
+"papers": []
+},
+"pid:qiumeng-li--hkust-gz": {
+"name": "Qiumeng LI",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/441",
+"papers": []
+},
+"pid:chaosu-li--hkust-gz": {
+"name": "Chaosu LI",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/30",
+"papers": []
+},
+"pid:coco-dijia-du--hkust-gz": {
+"name": "Coco Dijia DU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/7",
+"papers": []
+},
+"pid:sukie-xiuqi-yang--hkust-gz": {
+"name": "Sukie Xiuqi YANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/695",
+"papers": []
+},
+"pid:wanru-xiong--hkust-gz": {
+"name": "Wanru XIONG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/99",
+"papers": []
+},
+"pid:hui-xiong--hkust-gz": {
+"name": "Hui XIONG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/31",
+"papers": []
+},
+"pid:xiaoyu-wang--hkust-gz": {
+"name": "Xiaoyu WANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/302",
+"papers": []
+},
+"pid:xuechao-wang--hkust-gz": {
+"name": "Xuechao WANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/307",
+"papers": []
+},
+"pid:jiaqi-lu--hkust-gz": {
+"name": "Jiaqi LU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/632",
+"papers": []
+},
+"pid:lili-miao--hkust-gz": {
+"name": "Lili MIAO",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/611",
+"papers": []
+},
+"pid:pingyu-fan--hkust-gz": {
+"name": "Pingyu FAN",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/671",
+"papers": []
+},
+"pid:na-jiang--hkust-gz": {
+"name": "Na JIANG",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/532",
+"papers": []
+},
+"pid:ning-cai--hkust-gz": {
+"name": "Ning Cai",
+"verified_only": true,
+"source_url": "https://mbaplus.hkust-gz.edu.cn/zh/2026/10/09/ning-cai/",
+"papers": []
+},
+"pid:zixuan-yuan--hkust-gz": {
+"name": "Zixuan YUAN",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/315",
+"papers": []
+},
+"pid:corey-kewei-xu--hkust-gz": {
+"name": "Corey Kewei XU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/27",
+"papers": []
+},
+"pid:zishuo-zhao--hkust-gz": {
+"name": "Zishuo ZHAO",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/743",
+"papers": []
+},
+"pid:huilian-qiu--hkust-gz": {
+"name": "Huilian QIU",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/746",
+"papers": []
+},
+"pid:yue-kuen-kwok--hkust-gz": {
+"name": "Yue Kuen Kwok",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/298",
+"papers": []
+},
+"pid:sijia-chen--hkust-gz": {
+"name": "Sijia CHEN",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/566",
+"papers": []
+},
+"pid:bingyan-han--hkust-gz": {
+"name": "Bingyan Han",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/api/itdcms-rpc/profile/primary/375",
+"papers": []
+},
+"pid:ye-qi--hkust-gz": {
+"name": "Ye Qi",
+"verified_only": true,
+"source_url": "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/QI-Ye/yeqi",
+"papers": []
 }
 }

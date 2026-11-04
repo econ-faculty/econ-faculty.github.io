@@ -440,7 +440,7 @@ def journal_idx(venue):
     return JKEY.get(jkey(v))
 
 
-def paper_extracted(q):
+def paper_extracted(q, verified_only=False):
     st = q.get("status") or ""
     c = "rr" if st == "revise_resubmit" else "wp" if st == "working_paper" else "pub"
     venue = (q.get("venue") or "").strip()
@@ -455,6 +455,19 @@ def paper_extracted(q):
         out["l"], out["lt"] = "https://doi.org/" + q["doi"], "pub"
     if q.get("abstract"):
         out["abs"] = q["abstract"]
+    if verified_only or q.get("verification_status") == "verified":
+        out["_verified"] = True
+        doi = re.sub(r"^https?://(?:dx\.)?doi\.org/", "", str(q.get("doi") or ""), flags=re.I).strip().lower()
+        if doi:
+            out.update(doi=doi, l="https://doi.org/" + doi, lt="pub")
+        ai = q.get("author_index")
+        if ai is not None:
+            if type(ai) is not int or not 0 <= ai < len(out["a"]):
+                raise ValueError(f"Invalid verified author_index for {q.get('title')!r}")
+            out["_author_index"] = ai
+        publication_type = (q.get("publication_type") or "").strip()
+        if publication_type.lower() in ("letter", "correspondence"):
+            out["n"] = publication_type.title()
     return {k: v for k, v in out.items() if v not in (None, "", [])}
 
 
@@ -511,6 +524,22 @@ def paper_sort(ps):
     return sorted(ps, key=lambda q: (order[q["c"]], -(q.get("y") or 0)))
 
 
+def verified_author_index(q, name, authors):
+    """Map a verified author to a shared index row without guessing from surname alone."""
+    source = q.get("a") or []
+    author_key = lambda author: norm(author) or author.strip().casefold()
+    ai = q.get("_author_index")
+    if ai is None:
+        hits = [i for i, author in enumerate(source) if author_key(author) == author_key(name)]
+        ai = hits[0] if len(hits) == 1 else None
+    if ai is None:
+        return -1
+    if [author_key(a) for a in source] == [author_key(a) for a in authors]:
+        return ai
+    hits = [i for i, author in enumerate(authors) if author_key(author) == author_key(source[ai])]
+    return hits[0] if len(hits) == 1 else -1
+
+
 def build(check):
     unis, _ = load_unis()
     uidx = {u["id"]: i for i, u in enumerate(unis)}
@@ -518,6 +547,7 @@ def build(check):
     pf_list = []
     pindex, ptitle = {}, {}
     pending, udetails = [], []
+    verified_pids = set()
     lo = os.path.join(DATA, "link_overrides.json")   # {pid: {homepage_url|profile_url|cv_url: url or null}} (verified link fixes)
     LINKS = json.load(open(lo, encoding="utf-8")) if os.path.exists(lo) else {}
     os.makedirs(os.path.join(SITE, "people"), exist_ok=True)
@@ -562,18 +592,23 @@ def build(check):
                 pending.append((pid, r["name"], len(people) - 1, ps, detail, True))
             else:
                 pv = upapers.get("pid:" + pid) or upapers.get(norm(r["name"])) or {}
-                ps = [paper_extracted(q) for q in pv.get("papers") or [] if q.get("title")]
-                pending.append((pid, r["name"], len(people) - 1, ps, detail, False))
+                verified_only = pv.get("verified_only") is True
+                if verified_only:
+                    verified_pids.add(pid)
+                    detail[pid]["papers_curated"] = pv.get("source_url") or True
+                ps = [paper_extracted(q, verified_only) for q in pv.get("papers") or [] if q.get("title")]
+                pending.append((pid, r["name"], len(people) - 1, ps, detail, verified_only))
             detail[pid]["fields"] = pf
             cnt[r.get("unit_type")] += 1
         u["n"] = len(detail)
         u["by_unit_type"] = dict(cnt)
         udetails.append((u, detail))
-    # ---- match the journal corpus to all faculty (new faculty get linked automatically)
+    # Verified-only entries neither receive automatic matches nor seed matches for namesakes.
     corpus = paper_match.load_corpus(CORPUS_DIR)
     PDB.update((p["doi"], p) for p in corpus)
     tier_of = {j[0]: TIERS[j[1]] for j in JOURNALS}
-    PMATCH.update(paper_match.match([{"pid": pid, "name": nm, "phd": people[ri][9], "cv": ps} for pid, nm, ri, ps, _, _ in pending],
+    PMATCH.update(paper_match.match([{"pid": pid, "name": nm, "phd": people[ri][9], "cv": [q for q in ps if not q.get("_verified")]} for pid, nm, ri, ps, _, _ in pending
+                                    if pid not in verified_pids],
                                     corpus, tier_of, NATURAL))
     # links verified by OpenAlex affiliations for faculty the name matcher could not link (pipeline/zerolink/verify.py)
     xp = os.path.join(DATA, "paperdb", "extra_links.json")
@@ -593,7 +628,8 @@ def build(check):
     with open(os.path.join(DATA, "paperdb", "matched.json"), "w") as g:
         json.dump(PMATCH, g, separators=(",", ":"), sort_keys=True)
     print(f"{sum(map(len, PMATCH.values()))} paper-author links for {len(PMATCH)} faculty from {len(corpus)} journal articles")
-    for pid, nm, pidx, ps, detail, curated in pending:
+    # Keep existing shared paper rows/author order; append verified additions afterward.
+    for pid, nm, pidx, ps, detail, curated in sorted(pending, key=lambda x: x[0] in verified_pids):
         if not curated:
             ps = merge_db(pid, ps)
         ps = paper_sort([q for q in ps if q["c"] != "wp" or wp_official(q.get("j"))])
@@ -605,18 +641,34 @@ def build(check):
             continue
         detail[pid]["n_papers"] = len(ps)
         with open(os.path.join(SITE, "pubs", pid + ".json"), "w", encoding="utf-8") as g:
-            json.dump(ps, g, ensure_ascii=False, separators=(",", ":"))
+            json.dump([{k: v for k, v in q.items() if k not in ("_author_index", "_verified")} for q in ps], g, ensure_ascii=False, separators=(",", ":"))
         fam = norm(nm).split()[-1] if norm(nm) else ""
         for q in ps:
             if q["c"] == "pub" and q.get("r") is None:
                 continue
             tk = (q["c"], re.sub(r"[^a-z0-9]", "", (q["t"] or "").lower())[:60])
             key = ("doi", q["doi"]) if q.get("doi") else ptitle.get(tk, tk)
+            if pid in verified_pids or q.get("_verified"):
+                prior = ptitle.get(tk, tk)
+                old = pindex.get(prior)
+                same_title = old is not None and (old[0] == q["t"] or bool(norm(q["t"])) and norm(old[0]) == norm(q["t"]))
+                if q.get("doi") and key not in pindex and same_title and prior[0] != "doi":
+                    old_doi = re.match(r"https?://(?:dx\.)?doi\.org/(.+)", old[4], flags=re.I)
+                    if not old_doi or old_doi[1].lower() == q["doi"]:
+                        pindex[key] = pindex.pop(prior)
+                        ptitle[tk] = key
+                elif not q.get("doi") and old is not None and not same_title:
+                    key = ("verified-title", q["c"], q["t"])
             ptitle.setdefault(tk, key)
             row = pindex.get(key)
             if row is None:
                 row = pindex[key] = [q["t"], q.get("y") or 0, "pub rr wp".split().index(q["c"]), q.get("r", -1), q.get("l") or "", list(q.get("a") or []), []]
-            ai = PMATCH[pid][q["doi"]] if q.get("doi") else next((k for k, x in enumerate(row[5]) if norm(x).split()[-1:] == [fam]), -1)
+            if pid in verified_pids or q.get("_verified"):
+                if q.get("doi"):
+                    row[4] = q["l"]
+                ai = verified_author_index(q, nm, row[5])
+            else:
+                ai = PMATCH[pid][q["doi"]] if q.get("doi") else next((k for k, x in enumerate(row[5]) if norm(x).split()[-1:] == [fam]), -1)
             if [ai, pidx] not in row[6]:
                 row[6].append([ai, pidx])
     for u, detail in udetails:

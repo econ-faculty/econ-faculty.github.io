@@ -12186,5 +12186,1212 @@
 "status": "published"
 }
 ]
+},
+"pid:jing-he--swufe": {
+"name": "Jing He",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14201.htm",
+"papers": [
+{
+"title": "Testing super-diagonal structure in high dimensional covariance matrices",
+"authors": [
+"Jing He",
+"Song Xi Chen"
+],
+"year": 2016,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2016.05.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/14201.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2016.05.007",
+"https://www.sciencedirect.com/science/article/abs/pii/S0304407616300975",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://dsbi.swufe.edu.cn/info/1161/4341.htm"
+],
+"author_index": 0,
+"volume": "194",
+"issue": "2",
+"pages": "283-297",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_0ccdd5fc88951464df47--swufe": {
+"name": "佘睿",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13841.htm",
+"papers": []
+},
+"pid:wei-lan--swufe": {
+"name": "Wei Lan",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13761.htm",
+"papers": [
+{
+"title": "Inward and Outward Network Influence Analysis",
+"authors": [
+"Yujia Wu",
+"Wei Lan",
+"Tao Zou",
+"Chih-Ling Tsai"
+],
+"year": 2022,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2021.1953509",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/13761.htm",
+"https://api.crossref.org/works/10.1080/07350015.2021.1953509",
+"https://www.tandfonline.com/doi/abs/10.1080/07350015.2021.1953509",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "40",
+"issue": "4",
+"pages": "1617-1628",
+"tier": "econ_field"
+},
+{
+"title": "Imputations for High Missing Rate Data in Covariates Via Semi-supervised Learning Approach",
+"authors": [
+"Wei Lan",
+"Xuerong Chen",
+"Tao Zou",
+"Chih-Ling Tsai"
+],
+"year": 2022,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2021.1922120",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/13761.htm",
+"https://api.crossref.org/works/10.1080/07350015.2021.1922120",
+"https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1922120",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "40",
+"issue": "3",
+"pages": "1282-1290",
+"tier": "econ_field"
+}
+]
+},
+"pid:yahui-liu--swufe": {
+"name": "Yahui Liu",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2019/23107.htm",
+"papers": [
+{
+"title": "From chain waves to market moves: Untangling price efficiency in the supply chain network",
+"authors": [
+"Yahui Liu",
+"Wenxuan Zhao",
+"Di Gao",
+"Zhaohui Chen"
+],
+"year": 2026,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2026.107639",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/2019/23107.htm",
+"https://soif.swufe.edu.cn/style/liu-yahui.html",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2026.107639",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "185",
+"pages": "107639",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_98073d5902bfef5f7482--swufe": {
+"name": "刘沙",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/22367.htm",
+"papers": []
+},
+"pid:lu-liu-12c2d6c84f--swufe": {
+"name": "Lu Liu",
+"verified_only": true,
+"source_url": "https://econ.swufe.edu.cn/info/1041/1763.htm",
+"papers": []
+},
+"pid:cn-p_20eed4fcb6e339c95ff5--swufe": {
+"name": "刘耀午",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14041.htm",
+"papers": []
+},
+"pid:cn-p_14a68ab9184b61c544bd--swufe": {
+"name": "卓志",
+"verified_only": true,
+"source_url": "https://icfs.swufe.edu.cn/info/1087/2757.htm",
+"papers": []
+},
+"pid:cn-p_d1e2f708690b786a38c8--swufe": {
+"name": "周凡吟",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13931.htm",
+"papers": []
+},
+"pid:cn-p_d8bc150db51b340974b8--swufe": {
+"name": "周岭",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14031.htm",
+"papers": []
+},
+"pid:wei-zhou-e526ff11dc--swufe": {
+"name": "Wei Zhou",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14261.htm",
+"papers": []
+},
+"pid:cn-p_0cf50161cc933baf9b2e--swufe": {
+"name": "周铭山",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/33157.htm",
+"papers": [
+{
+"title": "Government debt, government ownership, and corporate cash dividends",
+"authors": [
+"Jing Lin",
+"Yuetong Lu",
+"Mingshan Zhou",
+"Yunbi An"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2026.102994",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/33157.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2026.102994"
+],
+"author_index": 2,
+"volume": "99",
+"pages": "102994",
+"tier": "econ_field"
+},
+{
+"title": "Ease-of-processing heuristics and asset prices: Evidence from the exchange-traded repo market in China",
+"authors": [
+"Xuyun Fang",
+"Zhiqian Jiang",
+"Baixiao Liu",
+"John J. McConnell",
+"Mingshan Zhou"
+],
+"year": 2022,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2021.100656",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/33157.htm",
+"https://api.crossref.org/works/10.1016%2Fj.finmar.2021.100656"
+],
+"author_index": 4,
+"volume": "59",
+"pages": "100656",
+"tier": "econ_field"
+},
+{
+"title": "Minority shareholder voting and dividend policy",
+"authors": [
+"Jing Lin",
+"Fang Li",
+"Steven Xiaofan Zheng",
+"Mingshan Zhou"
+],
+"year": 2023,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2022.106748",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/33157.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jbankfin.2022.106748"
+],
+"author_index": 3,
+"volume": "148",
+"pages": "106748",
+"tier": "econ_field"
+}
+]
+},
+"pid:yisong-tang--swufe": {
+"name": "Yisong Tang",
+"verified_only": true,
+"source_url": "https://gs.swufe.edu.cn/info/1024/21061.htm",
+"papers": [
+{
+"title": "Motivating User-Generated Content: The Unintended Consequences of Incentive Thresholds",
+"authors": [
+"Liuyi He",
+"Jifeng Luo",
+"Yisong Tang",
+"Zhiyan Wu",
+"Han Zhang"
+],
+"year": 2023,
+"venue": "MIS Quarterly",
+"status": "published",
+"doi": "10.25300/misq/2022/17369",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gs.swufe.edu.cn/info/1024/21061.htm",
+"https://api.crossref.org/works/10.25300/misq/2022/17369"
+],
+"author_index": 2,
+"volume": "47",
+"issue": "3",
+"pages": "1015-1044",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_a8821d5cb93173b78bf1--swufe": {
+"name": "姚凯",
+"verified_only": true,
+"source_url": "https://econ.swufe.edu.cn/info/1041/1760.htm",
+"papers": []
+},
+"pid:cn-p_e6e61f9e6cd586726c97--swufe": {
+"name": "孙正捷",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1029/37701.htm",
+"papers": []
+},
+"pid:cn-p_8c5d29c277c52f4e9e77--swufe": {
+"name": "孙秀丽",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13921.htm",
+"papers": []
+},
+"pid:qi-song--swufe": {
+"name": "Qi Song",
+"verified_only": true,
+"source_url": "https://gs.swufe.edu.cn/info/1024/19231.htm",
+"papers": [
+{
+"title": "Does human resource system strength help employees act proactively? The roles of crisis strength and work engagement",
+"authors": [
+"Qi Song",
+"Peiqi Guo",
+"Rong Fu",
+"Fang Lee Cooke",
+"Yang Chen"
+],
+"year": 2023,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.22145",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gs.swufe.edu.cn/info/1024/19231.htm",
+"https://api.crossref.org/works/10.1002/hrm.22145"
+],
+"author_index": 0,
+"volume": "62",
+"issue": "2",
+"pages": "213-228",
+"tier": "business"
+}
+]
+},
+"pid:jinyuan-chang--swufe": {
+"name": "Jinyuan Chang",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13781.htm",
+"papers": []
+},
+"pid:cn-p_afa962a26d6bd74e3fea--swufe": {
+"name": "张佛德",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14221.htm",
+"papers": []
+},
+"pid:jia-zhang--swufe": {
+"name": "Jia Zhang",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13871.htm",
+"papers": [
+{
+"title": "High-Dimensional Elliptical Sliced Inverse Regression in Non-Gaussian Distributions",
+"authors": [
+"Xin Chen",
+"Jia Zhang",
+"Wang Zhou"
+],
+"year": 2022,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2021.1910041",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/13871.htm",
+"https://api.crossref.org/works/10.1080/07350015.2021.1910041",
+"https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1910041",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "40",
+"issue": "3",
+"pages": "1204-1215",
+"tier": "econ_field"
+}
+]
+},
+"pid:shulin-zhang--swufe": {
+"name": "Shulin Zhang",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14271.htm",
+"papers": [
+{
+"title": "Goodness-of-Fit Test in Multivariate Jump Diffusion Models",
+"authors": [
+"Shulin Zhang",
+"Qian M. Zhou",
+"Dongming Zhu",
+"Peter X.-K. Song"
+],
+"year": 2019,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2017.1321547",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/14271.htm",
+"https://www.tandfonline.com/doi/abs/10.1080/07350015.2017.1321547",
+"https://api.crossref.org/works/10.1080/07350015.2017.1321547",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "37",
+"issue": "2",
+"pages": "275-287",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_579bf866efdaea40bf95--swufe": {
+"name": "徐华",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2009/22987.htm",
+"papers": []
+},
+"pid:tong-xu--swufe": {
+"name": "Tong Xu",
+"verified_only": true,
+"source_url": "https://icfs.swufe.edu.cn/info/1085/2680.htm",
+"papers": []
+},
+"pid:cn-p_8ab80926a88b838a6b8c--swufe": {
+"name": "徐雅静",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2009/22887.htm",
+"papers": []
+},
+"pid:cn-p_62c4c2fff263cf2665a4--swufe": {
+"name": "成青",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14301.htm",
+"papers": []
+},
+"pid:cn-p_7ad79e16cdfa50374c90--swufe": {
+"name": "戴琳琳",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14051.htm",
+"papers": []
+},
+"pid:shuguang-zhang--swufe": {
+"name": "Shuguang Zhang",
+"verified_only": true,
+"source_url": "https://gs.swufe.edu.cn/info/1024/33691.htm",
+"papers": []
+},
+"pid:zheliang-zhu--swufe": {
+"name": "Zheliang Zhu",
+"verified_only": true,
+"source_url": "https://icfs.swufe.edu.cn/info/1085/14826.htm",
+"papers": []
+},
+"pid:cn-p_7c4179ed2b25ca7339a5--swufe": {
+"name": "李可",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14001.htm",
+"papers": []
+},
+"pid:haonan-li--swufe": {
+"name": "Haonan Li",
+"verified_only": true,
+"source_url": "https://spft.swufe.edu.cn/info/1071/18503.htm",
+"papers": [
+{
+"title": "Firm Responses to Tax Audits: Regression Discontinuity Evidence from a Threshold-Based Audit Program",
+"authors": [
+"Haonan Li",
+"Xuan Wang"
+],
+"year": 2026,
+"venue": "Economic Journal",
+"status": "published",
+"doi": "10.1093/ej/ueaf060",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://spft.swufe.edu.cn/info/1071/18503.htm",
+"https://spft.swufe.edu.cn/info/1038/29303.htm",
+"https://api.crossref.org/works/10.1093/ej/ueaf060",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "136(674)",
+"issue": "674",
+"pages": "560-601",
+"tier": "econ_field"
+}
+]
+},
+"pid:fanghui-li--swufe": {
+"name": "Fanghui Li",
+"verified_only": true,
+"source_url": "https://spft.swufe.edu.cn/info/1071/21683.htm",
+"papers": [
+{
+"title": "The spirit of capitalism and optimal capital taxation",
+"authors": [
+"Fanghui Li",
+"Gaowang Wang",
+"Heng-fu Zou"
+],
+"year": 2020,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2020.109243",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://spft.swufe.edu.cn/info/1071/21683.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2020.109243",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "192",
+"pages": "109243",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_b67dbd96550b28afb837--swufe": {
+"name": "李蔓",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/23021.htm",
+"papers": []
+},
+"pid:yuedong-li--swufe": {
+"name": "Yuedong Li",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1028/37621.htm",
+"papers": [
+{
+"title": "Confucian Culture, Climate Risk, and Corporate Environmental Information Disclosure Quality: Evidence from China",
+"authors": [
+"Yuedong Li",
+"Xiaoyue Yao"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05845-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1028/37621.htm",
+"https://api.crossref.org/works/10.1007/s10551-024-05845-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "199",
+"issue": "3",
+"pages": "603-625",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_05cc0bae632ce4a3f056--swufe": {
+"name": "林华珍",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13751.htm",
+"papers": []
+},
+"pid:cn-p_9eeca34f3d1b2c6dda7a--swufe": {
+"name": "林熙",
+"verified_only": true,
+"source_url": "https://econ.swufe.edu.cn/info/1045/18691.htm",
+"papers": []
+},
+"pid:cn-p_2a4866e41095b0b73317--swufe": {
+"name": "梁鑫",
+"verified_only": true,
+"source_url": "https://econ.swufe.edu.cn/info/1041/1758.htm",
+"papers": []
+},
+"pid:guoqian-tu--swufe": {
+"name": "Guoqian Tu",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1028/37381.htm",
+"papers": [
+{
+"title": "Entrusted loans: A close look at China's shadow banking system",
+"authors": [
+"Franklin Allen",
+"Yiming Qian",
+"Guoqian Tu",
+"Frank Yu"
+],
+"year": 2019,
+"venue": "Journal of Financial Economics",
+"status": "published",
+"doi": "10.1016/j.jfineco.2019.01.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1028/37381.htm",
+"https://api.crossref.org/works/10.1016/j.jfineco.2019.01.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "133",
+"issue": "1",
+"pages": "18-41",
+"tier": "business"
+}
+]
+},
+"pid:zhuo-wang--swufe": {
+"name": "Zhuo Wang",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2029/26437.htm",
+"papers": [
+{
+"title": "Identifying factors via automatic debiased machine learning",
+"authors": [
+"Esfandiar Maasoumi",
+"Jianqiu Wang",
+"Zhuo Wang",
+"Ke Wu"
+],
+"year": 2024,
+"venue": "Journal of Applied Econometrics",
+"status": "published",
+"doi": "10.1002/jae.3031",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/2029/26437.htm",
+"https://onlinelibrary.wiley.com/doi/10.1002/jae.3031",
+"https://api.crossref.org/works/10.1002%2Fjae.3031",
+"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632395",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "39",
+"issue": "3",
+"pages": "438-461",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_0921a50329ff0dd850da--swufe": {
+"name": "王吟之",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2009/22867.htm",
+"papers": []
+},
+"pid:yanjie-wang--swufe": {
+"name": "Yanjie Wang",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2029/23307.htm",
+"papers": [
+{
+"title": "Investing under ambiguity and relative performance concerns",
+"authors": [
+"Yanjie Wang",
+"Jing Xu"
+],
+"year": 2025,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2025.101044",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/2029/23307.htm",
+"https://api.crossref.org/works/10.1016%2Fj.finmar.2025.101044",
+"https://www.sciencedirect.com/science/article/pii/S1386418125000849",
+"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825947",
+"https://sf.ruc.edu.cn/jszy/xj/"
+],
+"author_index": 0,
+"pages": "101044",
+"publication_type": "journal-article",
+"tier": "econ_field"
+}
+]
+},
+"pid:yumei-wang--swufe": {
+"name": "Yumei Wang",
+"verified_only": true,
+"source_url": "https://gs.swufe.edu.cn/info/1024/2475.htm",
+"papers": [
+{
+"title": "Values of Chinese generation cohorts: Do they matter in the workplace?",
+"authors": [
+"Ningyu Tang",
+"Yumei Wang",
+"Kaili Zhang"
+],
+"year": 2017,
+"venue": "Organizational Behavior and Human Decision Processes",
+"status": "published",
+"doi": "10.1016/j.obhdp.2017.07.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gs.swufe.edu.cn/info/1024/2475.htm",
+"https://api.crossref.org/works/10.1016/j.obhdp.2017.07.007",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "143",
+"pages": "8-22",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_6c0d669c16b1f4c67807--swufe": {
+"name": "王籼入",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/23571.htm",
+"papers": []
+},
+"pid:cn-p_bdbf52c98012f9babc58--swufe": {
+"name": "申宇",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/22597.htm",
+"papers": [
+{
+"title": "What do leveraged traders seek and gain from social media tone?",
+"authors": [
+"Sha Liu",
+"Yu Shen",
+"Lu Qin"
+],
+"year": 2026,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2026.101057",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/22597.htm",
+"https://api.crossref.org/works/10.1016%2Fj.finmar.2026.101057"
+],
+"author_index": 1,
+"pages": "101057",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_01c4a04a6954134f18c2--swufe": {
+"name": "程瑶",
+"verified_only": true,
+"source_url": "https://econ.swufe.edu.cn/info/1041/1757.htm",
+"papers": []
+},
+"pid:yu-zhang-722957eef5--swufe": {
+"name": "Yu Zhang",
+"verified_only": true,
+"source_url": "https://gs.swufe.edu.cn/info/1092/20541.htm",
+"papers": [
+{
+"title": "Feature-driven robust surgery scheduling",
+"authors": [
+"Yu Wang",
+"Yu Zhang",
+"Minglong Zhou",
+"Jiafu Tang"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13949",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://gs.swufe.edu.cn/info/1092/20541.htm",
+"https://journals.sagepub.com/doi/10.1111/poms.13949",
+"https://api.crossref.org/works/10.1111%2Fpoms.13949"
+],
+"author_index": 1,
+"volume": "32",
+"issue": "6",
+"pages": "1921-1938",
+"tier": "business"
+}
+]
+},
+"pid:hong-luo--swufe": {
+"name": "Hong Luo",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1028/37471.htm",
+"papers": [
+{
+"title": "Customer identity concealing and insider selling profitability: Evidence from China",
+"authors": [
+"Wan Huang",
+"Yufan Bai",
+"Hong Luo"
+],
+"year": 2024,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2024.102566",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1028/37471.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2024.102566",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "85",
+"pages": "102566",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_45683f448ee49c651b20--swufe": {
+"name": "耿华彦",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14061.htm",
+"papers": []
+},
+"pid:cn-p_27f90c0cb96afe85f8e6--swufe": {
+"name": "蒲明",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2009/22997.htm",
+"papers": []
+},
+"pid:cn-p_4f4baae87cfd6300eeaa--swufe": {
+"name": "袁凯彬",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/22277.htm",
+"papers": [
+{
+"title": "Changes in corporate employment under climate risk",
+"authors": [
+"Wanli Li",
+"Junrui Chen",
+"Kaibin Yuan"
+],
+"year": 2025,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2025.103368",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/22277.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jimonfin.2025.103368"
+],
+"author_index": 2,
+"volume": "157",
+"pages": "103368",
+"tier": "econ_field"
+},
+{
+"title": "Your next bank is not necessarily a bank: FinTech expansion and bank branch closures",
+"authors": [
+"Kaibin Yuan",
+"Wanli Li",
+"Weijun Zhang"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2022.110948",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/22277.htm",
+"https://api.crossref.org/works/10.1016%2Fj.econlet.2022.110948"
+],
+"author_index": 0,
+"volume": "222",
+"pages": "110948",
+"tier": "econ_field"
+}
+]
+},
+"pid:xinling-xie--swufe": {
+"name": "Xinling Xie",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/23601.htm",
+"papers": [
+{
+"title": "Penetrating sporadic return predictability",
+"authors": [
+"Yundong Tu",
+"Xinling Xie"
+],
+"year": 2023,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2023.105509",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/23601.htm",
+"https://lmeqf.pku.edu.cn/info/1098/1168.htm",
+"https://www.sciencedirect.com/science/article/pii/S0304407623002257",
+"https://api.crossref.org/works/10.1016/j.jeconom.2023.105509",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "237",
+"issue": "1",
+"pages": "105509",
+"tier": "econ_field"
+},
+{
+"title": "Regime-Specific Return Predictability in Quantiles",
+"authors": [
+"Xinling Xie",
+"Yundong Tu"
+],
+"year": 2026,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2025.2573151",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/23601.htm",
+"https://dsbi.swufe.edu.cn/info/1161/3501.htm",
+"https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2573151",
+"https://api.crossref.org/works/10.1080/07350015.2025.2573151",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "44",
+"issue": "3",
+"pages": "965-978",
+"tier": "econ_field"
+}
+]
+},
+"pid:hailong-zhao--swufe": {
+"name": "Hailong Zhao",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1029/37741.htm",
+"papers": [
+{
+"title": "Facial Structure and Achievement Drive: Evidence from Financial Analysts",
+"authors": [
+"XIANJIE HE",
+"HUIFANG YIN",
+"YACHANG ZENG",
+"HUAI ZHANG",
+"HAILONG ZHAO"
+],
+"year": 2019,
+"venue": "Journal of Accounting Research",
+"status": "published",
+"doi": "10.1111/1475-679x.12259",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1029/37741.htm",
+"https://api.crossref.org/works/10.1111/1475-679X.12259",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "57",
+"issue": "4",
+"pages": "1013-1057",
+"tier": "business"
+}
+]
+},
+"pid:runhao-zhao--swufe": {
+"name": "Runhao Zhao",
+"verified_only": true,
+"source_url": "https://spft.swufe.edu.cn/info/1071/35683.htm",
+"papers": [
+{
+"title": "Strategic emissions in the rain",
+"authors": [
+"Runhao Zhao",
+"Ye Yuan"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103731",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://spft.swufe.edu.cn/info/1071/35683.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103731",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/50170econ327511.htm"
+],
+"author_index": 0,
+"volume": "181",
+"pages": "103731",
+"tier": "econ_field"
+},
+{
+"title": "Aging in Haze",
+"authors": [
+"Runhao Zhao",
+"Ye Yuan",
+"Chong Liu",
+"Junjian Yi"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2025.103717",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://spft.swufe.edu.cn/info/1071/35683.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2025.103717",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "180",
+"pages": "103717",
+"tier": "econ_field"
+}
+]
+},
+"pid:bin-guo--swufe": {
+"name": "Bin Guo",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14111.htm",
+"papers": [
+{
+"title": "High dimensional stochastic regression with latent factors, endogeneity and nonlinearity",
+"authors": [
+"Jinyuan Chang",
+"Bin Guo",
+"Qiwei Yao"
+],
+"year": 2015,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2015.03.024",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.swufe.edu.cn/info/2041/14111.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2015.03.024",
+"https://www.sciencedirect.com/science/article/pii/S0304407615001025",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "189",
+"issue": "2",
+"pages": "297-312",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhi-jin--swufe": {
+"name": "Zhi Jin",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1028/37311.htm",
+"papers": [
+{
+"title": "The real effects of corruption on M&A flows: Evidence from China's anti-corruption campaign",
+"authors": [
+"Chenghao Huang",
+"Zhi Jin",
+"Siyang Tian",
+"Eliza Wu"
+],
+"year": 2023,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2023.106815",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1028/37311.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2023.106815",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "150",
+"pages": "106815",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_f3a380853d4da2b35b84--swufe": {
+"name": "陈勇",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/22397.htm",
+"papers": [
+{
+"title": "How does government spending news affect interest rates? Evidence from the United States",
+"authors": [
+"Chen Yong",
+"Liu Dingming"
+],
+"year": 2019,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2019.103747",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/22397.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jedc.2019.103747"
+],
+"author_index": 0,
+"volume": "108",
+"pages": "103747",
+"tier": "econ_field"
+}
+]
+},
+"pid:biao-chen--swufe": {
+"name": "Biao Chen",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/1999/22407.htm",
+"papers": [
+{
+"title": "Corporate Social Responsibility and Information Asymmetry: Do Earnings Conference Calls Play a Role?",
+"authors": [
+"Dan Palmon",
+"Yifei Chen",
+"Biao Chen"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-023-05605-8",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jinrong.swufe.edu.cn/info/1999/22407.htm",
+"https://link.springer.com/article/10.1007/s10551-023-05605-8",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "194",
+"issue": "1",
+"pages": "77-101",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_b99aa39af5ed7a4c27b6--swufe": {
+"name": "陈滔",
+"verified_only": true,
+"source_url": "https://jinrong.swufe.edu.cn/info/2009/23037.htm",
+"papers": []
+},
+"pid:cn-p_f76cecb526cee6d88d91--swufe": {
+"name": "陈雪蓉",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14311.htm",
+"papers": []
+},
+"pid:cn-p_3d26b582e1b17b65d7ac--swufe": {
+"name": "陈骋",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/23611.htm",
+"papers": []
+},
+"pid:cn-p_8690c1dd2b7164fd983c--swufe": {
+"name": "马健韬",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/23581.htm",
+"papers": []
+},
+"pid:cn-p_3989f0a950599392776b--swufe": {
+"name": "马昀蓓",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14161.htm",
+"papers": []
+},
+"pid:shenghao-gao--swufe": {
+"name": "Shenghao Gao",
+"verified_only": true,
+"source_url": "https://kj.swufe.edu.cn/info/1028/37321.htm",
+"papers": [
+{
+"title": "Unintended consequence of high bid price exclusion in IPO auctions: Evidence from China",
+"authors": [
+"Di Wu",
+"Xiaoke Cheng",
+"Kam C. Chan",
+"Shenghao Gao"
+],
+"year": 2025,
+"venue": "Journal of Financial Markets",
+"status": "published",
+"doi": "10.1016/j.finmar.2024.100936",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kj.swufe.edu.cn/info/1028/37321.htm",
+"https://api.crossref.org/works/10.1016/j.finmar.2024.100936",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "72",
+"pages": "100936",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_42e871e9ccb45cd6924c--swufe": {
+"name": "鲁万波",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/13791.htm",
+"papers": []
+},
+"pid:yanyong-huang--swufe": {
+"name": "Yanyong Huang",
+"verified_only": true,
+"source_url": "https://stat.swufe.edu.cn/info/2041/14281.htm",
+"papers": []
 }
 }

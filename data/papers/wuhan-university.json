@@ -2547,5 +2547,294 @@
 "status": "published"
 }
 ]
+},
+"pid:xiong-heng--whu": {
+"name": "Xiong Heng",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1702/11019.htm",
+"papers": []
+},
+"pid:cn-p_528a64bfe4b727178941--whu": {
+"name": "余天成",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1745/248951.htm",
+"papers": []
+},
+"pid:jingwen-yu--whu": {
+"name": "Jingwen Yu",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1695/10979.htm",
+"papers": [
+{
+"title": "FOEs and the transmission of US monetary policy shocks: Evidence from China",
+"authors": [
+"Yuanyuan Li",
+"Xun Wang",
+"Jingwen Yu"
+],
+"year": 2026,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2025.103497",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1695/10979.htm",
+"https://ems.whu.edu.cn/szdw/qzjs/jrx.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2025.103497",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "161",
+"pages": "103497",
+"tier": "econ_field"
+}
+]
+},
+"pid:wu-wei--whu": {
+"name": "Wu Wei",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1726/10800.htm",
+"papers": [
+{
+"title": "Meeting the need or falling in line? The effect of laissez‐faire formal leaders on informal leadership",
+"authors": [
+"Ned Wellman",
+"Daniel W. Newton",
+"Danni Wang",
+"Wu Wei",
+"David A. Waldman",
+"Jeffery A. LePine"
+],
+"year": 2019,
+"venue": "Personnel Psychology",
+"status": "published",
+"doi": "10.1111/peps.12308",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1726/10800.htm",
+"https://ems.whu.edu.cn/szdw/qzjs/gsglx.htm",
+"https://api.crossref.org/works/10.1111/peps.12308",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "72",
+"issue": "3",
+"pages": "337-359",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_260422b1831a83108a14--whu": {
+"name": "唐漾一",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1737/236141.htm",
+"papers": []
+},
+"pid:cn-p_07d958a2e7439b91c209--whu": {
+"name": "孙君泽",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1683/215441.htm",
+"papers": []
+},
+"pid:cn-p_8d5a63aea22d7d405956--whu": {
+"name": "孟陆",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1736/277071.htm",
+"papers": []
+},
+"pid:cn-p_d259173b169dcd81a8e8--whu": {
+"name": "张珊珊",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1709/215431.htm",
+"papers": []
+},
+"pid:cn-p_6942de9aa9af7d80f77f--whu": {
+"name": "徐岚",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1734/10769.htm",
+"papers": []
+},
+"pid:cn-p_5941b9144a9bb305ddc2--whu": {
+"name": "李子明",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1999/258361.htm",
+"papers": []
+},
+"pid:xuchao-li--whu": {
+"name": "Xuchao Li",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1682/24414.htm",
+"papers": [
+{
+"title": "Throwing good money after bad: Zombie lending and the supply chain contagion of firm exit",
+"authors": [
+"Yun Dai",
+"Xuchao Li",
+"Dinghua Liu",
+"Jiankun Lu"
+],
+"year": 2021,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2021.06.042",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1682/24414.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jebo.2021.06.042",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://ems.whu.edu.cn/szdw/qzjs/jjx.htm"
+],
+"author_index": 1,
+"volume": "189",
+"pages": "379-402",
+"tier": "econ_field"
+},
+{
+"title": "Bank competition and formation of zombie firms: Evidence from banking deregulation in China",
+"authors": [
+"Xuchao Li",
+"Xiang Shao",
+"Guangjun Shen",
+"Jingxian Zou"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107390",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1682/24414.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jbankfin.2025.107390",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://ems.whu.edu.cn/szdw/qzjs/jjx.htm"
+],
+"author_index": 0,
+"volume": "172",
+"pages": "107390",
+"tier": "econ_field"
+}
+]
+},
+"pid:haitong-li--whu": {
+"name": "Haitong Li",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1745/248971.htm",
+"papers": [
+{
+"title": "Preventive regulatory enforcement and access to trade credit: Evidence from a quasi-natural experiment",
+"authors": [
+"Feng Cao",
+"Haitong Li",
+"Xueyan Zhang",
+"Hong Zou"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2025.102855",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1745/248971.htm",
+"https://ems.whu.edu.cn/szdw/qzjs/hjx.htm",
+"https://ems.whu.edu.cn/info/1591/280921.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2025.102855",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "96",
+"pages": "102855",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_e6abc9e2784f887ea677--whu": {
+"name": "杜旌",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1726/10816.htm",
+"papers": []
+},
+"pid:cn-p_3dd599204ddb3435d83a--whu": {
+"name": "杨中超",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1696/255671.htm",
+"papers": []
+},
+"pid:cn-p_156a77189828c3178d1f--whu": {
+"name": "杨娇娇",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1683/280721.htm",
+"papers": []
+},
+"pid:cn-p_1e28f8c7cd2c5f41d42e--whu": {
+"name": "潘红波",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1742/10373.htm",
+"papers": []
+},
+"pid:cn-p_6955e3f1f9d908f9e7e9--whu": {
+"name": "聂禾",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1696/28029.htm",
+"papers": []
+},
+"pid:cn-p_228057d2d49184454257--whu": {
+"name": "赵奇伟",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1728/10852.htm",
+"papers": []
+},
+"pid:cn-p_5a16754f05b8f0b75272--whu": {
+"name": "陈仁静",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1690/258351.htm",
+"papers": []
+},
+"pid:cn-p_d68399d03dd34a6377f6--whu": {
+"name": "韩国文",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1694/10959.htm",
+"papers": []
+},
+"pid:cn-p_44a54d2aa521f6014f3e--whu": {
+"name": "马子真",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1999/257811.htm",
+"papers": []
+},
+"pid:minxue-huang--whu": {
+"name": "Minxue Huang",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1734/23395.htm",
+"papers": [
+{
+"title": "Tales of Two Channels: Digital Advertising Performance Between AI Recommendation and User Subscription Channels",
+"authors": [
+"Beibei Dong",
+"Mengzhou Zhuang",
+"Eric (Er) Fang",
+"Minxue Huang"
+],
+"year": 2024,
+"venue": "Journal of Marketing",
+"status": "published",
+"doi": "10.1177/00222429231190021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1734/23395.htm",
+"https://api.crossref.org/works/10.1177/00222429231190021"
+],
+"author_index": 3,
+"volume": "88",
+"issue": "2",
+"pages": "141-162",
+"tier": "business"
+}
+]
 }
 }

@@ -2605,5 +2605,238 @@
 "status": "published"
 }
 ]
+},
+"pid:yipin-yu--nau": {
+"name": "Yipin Yu",
+"verified_only": true,
+"source_url": "https://sga.nau.edu.cn/2026/0514/c6377a157447/page.htm",
+"papers": [
+{
+"title": "Will Local Analysts Cater to Government Needs in Earnings Forecasts? Evidence from Financial Misconduct in Chinese State-Owned Enterprises",
+"authors": [
+"Siyi He",
+"Qinglu Jin",
+"Yipin Yu"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-025-05976-0",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sga.nau.edu.cn/2026/0514/c6377a157447/page.htm",
+"https://link.springer.com/article/10.1007/s10551-025-05976-0",
+"https://api.crossref.org/works/10.1007/s10551-025-05976-0",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "201",
+"issue": "3",
+"pages": "663-687",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_55526c67db6eaadf3b85--nau": {
+"name": "刘亚慧",
+"verified_only": true,
+"source_url": "https://sxy.nau.edu.cn/2677/list.htm",
+"papers": [
+{
+"title": "Artificial Intelligence-Powered Digital Streamers in Online Retail: Empirical Insights and Design Strategies from Experiments",
+"authors": [
+"Yahui Liu",
+"Lei Wang",
+"Shuai Yang",
+"Yanwen Wang"
+],
+"year": 2026,
+"venue": "Information Systems Research",
+"status": "published",
+"doi": "10.1287/isre.2023.0024",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.nau.edu.cn/2025/0915/c11310a147656/page.htm",
+"https://api.crossref.org/works/10.1287/isre.2023.0024",
+"https://pub.orcid.org/v3.0/0000-0002-6526-2242/record"
+],
+"author_index": 0,
+"volume": "37",
+"issue": "2",
+"pages": "824-841",
+"tier": "business"
+}
+]
+},
+"pid:yong-jiang--nau": {
+"name": "Yong Jiang",
+"verified_only": true,
+"source_url": "https://finance.nau.edu.cn/2019/0911/c384a57752/page.htm",
+"papers": [
+{
+"title": "Corporate investment decisions amid climate risks: Relocate or stay?",
+"authors": [
+"Yi-Shuai Ren",
+"Tony Klein",
+"Yong Jiang"
+],
+"year": 2025,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2025.103388",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nau.edu.cn/2019/0911/c384a57752/page.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2025.103388"
+],
+"author_index": 2,
+"volume": "157",
+"pages": "103388",
+"tier": "econ_field"
+}
+]
+},
+"pid:jianshun-zhang--nau": {
+"name": "Jianshun Zhang",
+"verified_only": true,
+"source_url": "https://sga.nau.edu.cn/2021/0323/c6377a75786/page.htm",
+"papers": [
+{
+"title": "Tax incentives, environmental regulation and firms’ emission reduction strategies: Evidence from China",
+"authors": [
+"Yu Qi",
+"Jianshun Zhang",
+"Jianwei Chen"
+],
+"year": 2023,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2022.102750",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sga.nau.edu.cn/2021/0323/c6377a75786/page.htm",
+"https://api.crossref.org/works/10.1016/j.jeem.2022.102750"
+],
+"author_index": 1,
+"volume": "117",
+"pages": "102750",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_9dcba0083f41604d3ac9--nau": {
+"name": "王菁华",
+"verified_only": true,
+"source_url": "https://account.nau.edu.cn/2019/0620/c8881a99668/page.htm",
+"papers": [
+{
+"title": "The Unintended Consequence of Land Finance: Evidence from Corporate Tax Avoidance",
+"authors": [
+"Tao Chen",
+"Youchao Tan",
+"Jinghua Wang",
+"Cheng (Colin) Zeng"
+],
+"year": 2022,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2021.4191",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://account.nau.edu.cn/2019/0620/c8881a99668/page.htm",
+"https://xxgk.nau.edu.cn/2023/0218/c9179a109577/page.htm",
+"https://api.crossref.org/works/10.1287/mnsc.2021.4191"
+],
+"author_index": 2,
+"volume": "68",
+"issue": "11",
+"pages": "8319-8342",
+"tier": "business"
+}
+]
+},
+"pid:pengcheng-jiang--nau": {
+"name": "Pengcheng Jiang",
+"verified_only": true,
+"source_url": "https://finance.nau.edu.cn/2025/1024/c383a148802/page.htm",
+"papers": [
+{
+"title": "Green finance policy and labor demand",
+"authors": [
+"Pengcheng Jiang",
+"Hongli Jiang"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111065",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://finance.nau.edu.cn/2025/1024/c383a148802/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2023.111065"
+],
+"author_index": 0,
+"volume": "225",
+"pages": "111065",
+"tier": "econ_field"
+}
+]
+},
+"pid:jianhua-tan--nau": {
+"name": "Jianhua Tan",
+"verified_only": true,
+"source_url": "https://sga.nau.edu.cn/2021/0323/c6377a75785/page.htm",
+"papers": [
+{
+"title": "Indirect export product quality spillover and corporate innovation",
+"authors": [
+"Jianhua Tan",
+"Rongrong Xie",
+"Kam C. Chan"
+],
+"year": 2026,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2026.107739",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sga.nau.edu.cn/2021/0323/c6377a75785/page.htm",
+"https://www.nau.edu.cn/_t1096/2026/0611/c11310a158751/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2026.107739",
+"https://www.sciencedirect.com/science/article/pii/S0378426626001135",
+"https://raw.githubusercontent.com/econ-faculty/econ-faculty.github.io/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/jifm.12197?af=R&sid=researcher"
+],
+"author_index": 0,
+"volume": "189",
+"pages": "107739",
+"tier": "econ_field"
+}
+]
+},
+"pid:zou-miaomiao--nau": {
+"name": "Zou Miaomiao",
+"verified_only": true,
+"source_url": "https://jjxy.nau.edu.cn/2019/0603/c9889a52450/page.htm",
+"papers": []
+},
+"pid:zheng-shiqiao--nau": {
+"name": "Zheng Shiqiao",
+"verified_only": true,
+"source_url": "https://sga.nau.edu.cn/2020/0528/c6377a65493/page.htm",
+"papers": []
+},
+"pid:cn-p_7bcd9b409b9f751bacc0--nau": {
+"name": "陈冬华",
+"verified_only": true,
+"source_url": "https://account.nau.edu.cn/2025/0226/c8880a141024/page.htm",
+"papers": []
 }
 }

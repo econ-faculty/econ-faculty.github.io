@@ -4029,5 +4029,1101 @@
 "yu tu": {
 "name": "Yu Tu",
 "papers": []
+},
+"pid:yu-guodong--sdu": {
+"name": "Yu Guodong",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/iseyg/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_fc855e132d3ced5d67a3--sdu": {
+"name": "于艳妮",
+"verified_only": true,
+"source_url": "https://aais.wh.sdu.edu.cn/info/1008/1231.htm",
+"papers": []
+},
+"pid:ailin-leng--sdu": {
+"name": "Ailin Leng",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/lengailin/zh_CN/",
+"papers": []
+},
+"pid:liu-zhaopeng--sdu": {
+"name": "Liu Zhaopeng",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1100/4431.htm",
+"papers": [
+{
+"title": "Why Leaders' Daily Affect Fluctuation Inhibits Their Justice Rule Adherence: The Mechanism of Ego-Depletion and the Moderating Role of Gender",
+"authors": [
+"Depeng Liu",
+"Isabelle Yi Ren",
+"Liangyu Wei",
+"Guodong Cui",
+"Xuhong Pang",
+"Yiyi Yang",
+"Zhaopeng Liu"
+],
+"year": 2025,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2890",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1100/4431.htm",
+"https://onlinelibrary.wiley.com/doi/10.1002/job.2890",
+"https://api.crossref.org/works/10.1002/job.2890",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 6,
+"volume": "46",
+"issue": "9",
+"pages": "1346-1372",
+"tier": "business"
+},
+{
+"title": "For the sake of my family: Understanding unethical pro-family behavior in the workplace",
+"authors": [
+"Zhaopeng Liu",
+"Huiyao Liao",
+"Yamei Liu"
+],
+"year": 2020,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2463",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1100/4431.htm",
+"https://onlinelibrary.wiley.com/doi/10.1002/job.2463",
+"https://api.crossref.org/works/10.1002/job.2463",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "41",
+"issue": "7",
+"pages": "638-662",
+"tier": "business"
+}
+]
+},
+"pid:liu-guangjian--sdu": {
+"name": "Liu Guangjian",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1100/5467.htm",
+"papers": [
+{
+"title": "Psychological Ownership: A Meta-Analysis and Comparison of Multiple Forms of Attachment in the Workplace",
+"authors": [
+"Yucheng Zhang",
+"Guangjian Liu",
+"Long Zhang",
+"Shan Xu",
+"Mike W.-L. Cheung"
+],
+"year": 2021,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/0149206320917195",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1100/5467.htm",
+"https://journals.sagepub.com/doi/10.1177/0149206320917195",
+"https://api.crossref.org/works/10.1177/0149206320917195",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://english.glxy.sdu.edu.cn/info/1067/1198.htm"
+],
+"author_index": 1,
+"volume": "47",
+"issue": "3",
+"pages": "745-770",
+"tier": "business"
+}
+]
+},
+"pid:liu-depeng--sdu": {
+"name": "Liu Depeng",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1100/3301.htm",
+"papers": [
+{
+"title": "Why Leaders' Daily Affect Fluctuation Inhibits Their Justice Rule Adherence: The Mechanism of Ego-Depletion and the Moderating Role of Gender",
+"authors": [
+"Depeng Liu",
+"Isabelle Yi Ren",
+"Liangyu Wei",
+"Guodong Cui",
+"Xuhong Pang",
+"Yiyi Yang",
+"Zhaopeng Liu"
+],
+"year": 2025,
+"venue": "Journal of Organizational Behavior",
+"status": "published",
+"doi": "10.1002/job.2890",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1100/3301.htm",
+"https://onlinelibrary.wiley.com/doi/10.1002/job.2890",
+"https://api.crossref.org/works/10.1002/job.2890",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "46",
+"issue": "9",
+"pages": "1346-1372",
+"tier": "business"
+}
+]
+},
+"pid:jinliang-liu--sdu": {
+"name": "Jinliang Liu",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/jinliangliu/zh_CN/index.htm",
+"papers": []
+},
+"pid:liu-fu--sdu": {
+"name": "Liu Fu",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1100/7540.htm",
+"papers": [
+{
+"title": "The Impact of Figure–Ground Reversal in Brand Logos on Brand Attitude",
+"authors": [
+"Yi-Na Li",
+"Brady T. Hodges",
+"Liu Fu",
+"Haipeng (Allan) Chen"
+],
+"year": 2026,
+"venue": "Journal of Marketing Research",
+"status": "published",
+"doi": "10.1177/00222437261417659",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1100/7540.htm",
+"https://journals.sagepub.com/doi/10.1177/00222437261417659",
+"https://api.crossref.org/works/10.1177/00222437261417659",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "63",
+"issue": "5",
+"pages": "935-953",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_dd220fc470391f93cca0--sdu": {
+"name": "周剑南",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/zhoujiannan/",
+"papers": []
+},
+"pid:cn-p_ccd3e0da713088a5f005--sdu": {
+"name": "周立学",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhoulixue/zh_CN/index.htm",
+"papers": [
+{
+"title": "Design tools for all-pay contests: Aligning incentives and balancing the playing field",
+"authors": [
+"Rui Gao",
+"Jingfeng Lu",
+"Zhewei Wang",
+"Lixue Zhou"
+],
+"year": 2025,
+"venue": "Journal of Mathematical Economics",
+"status": "published",
+"doi": "10.1016/j.jmateco.2025.103186",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/zhoulixue/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.jmateco.2025.103186",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.econ.sdu.edu.cn/info/1068/13112.htm"
+],
+"author_index": 3,
+"volume": "121",
+"pages": "103186",
+"tier": "econ_field"
+},
+{
+"title": "Winner-leave versus loser-leave in multi-stage nested Tullock contests",
+"authors": [
+"Jingfeng Lu",
+"Yuanzhu Lu",
+"Zhewei Wang",
+"Lixue Zhou"
+],
+"year": 2022,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2022.01.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/zhoulixue/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.geb.2022.01.004",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "132",
+"pages": "337-352",
+"tier": "econ_field"
+},
+{
+"title": "Optimal favoritism in contests with identity-contingent prizes",
+"authors": [
+"Jingfeng Lu",
+"Zhewei Wang",
+"Lixue Zhou"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2022.01.027",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/zhoulixue/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2022.01.027",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "196",
+"pages": "40-50",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_3fe0fbc6bae2d708381a--sdu": {
+"name": "唐甜甜",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/tangtiantian/zh_CN/index.htm",
+"papers": []
+},
+"pid:tang-guiyao--sdu": {
+"name": "Tang Guiyao",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1126/3321.htm",
+"papers": []
+},
+"pid:qianqian-shang--sdu": {
+"name": "Qianqian Shang",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/~7FnY3m/zh_CN/index.htm",
+"papers": []
+},
+"pid:shuguang-jiang--sdu": {
+"name": "Shuguang Jiang",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/jiangshuguang/zh_CN/index.htm",
+"papers": [
+{
+"title": "Thinking against the wind: Narratives, information, and reasoning ability",
+"authors": [
+"Shuguang Jiang",
+"Siyu Wang",
+"Qian Wei"
+],
+"year": 2026,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2026.105267",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/jiangshuguang/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.euroecorev.2026.105267"
+],
+"author_index": 0,
+"volume": "184",
+"pages": "105267",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_4f7750f66eb5d33f4d9d--sdu": {
+"name": "宋彦",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/songyan12345/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_c290e97384dd719d6a80--sdu": {
+"name": "廖璐",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/liaolu/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_59a62e2e4c11bebd899c--sdu": {
+"name": "张伟平",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhangweiping123/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_04947c6c4d6a3c91f609--sdu": {
+"name": "张剑虎",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/Zhang_jianhu/zh_CN/index.htm",
+"papers": [
+{
+"title": "Data portability and the collection of personal data",
+"authors": [
+"Youping Li",
+"Jianhu Zhang"
+],
+"year": 2026,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2026.103289",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/Zhang_jianhu/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.ijindorg.2026.103289",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 1,
+"volume": "106",
+"pages": "103289",
+"tier": "econ_field"
+},
+{
+"title": "The welfare effects of input price discrimination revisited",
+"authors": [
+"Youping Li",
+"Jianhu Zhang"
+],
+"year": 2024,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2024.103083",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/Zhang_jianhu/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1016/j.ijindorg.2024.103083",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 1,
+"volume": "95",
+"pages": "103083",
+"tier": "econ_field"
+},
+{
+"title": "Cost Justification for Wholesale Price Discrimination",
+"authors": [
+"Youping Li",
+"Jianhu Zhang"
+],
+"year": 2026,
+"venue": "Journal of Economics and Management Strategy",
+"status": "published",
+"doi": "10.1111/jems.70044",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/Zhang_jianhu/zh_CN/index.htm",
+"https://api.crossref.org/works/10.1111/jems.70044",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 1,
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_e8f240a93a119fbf7126--sdu": {
+"name": "张博",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/zhangbo3/zh_CN/index.htm",
+"papers": [
+{
+"title": "Homophilous intensity in the online lending market: Bidding behavior and economic effects",
+"authors": [
+"Jianwen Li",
+"Bo Zhang",
+"Mingming Jiang",
+"Jinyan Hu"
+],
+"year": 2023,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2023.106876",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/zhangbo3/zh_CN/index.htm",
+"https://www.view.sdu.edu.cn/info/1021/184650.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2023.106876",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 1,
+"volume": "152",
+"pages": "106876",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_d761212d03ecbf8255b4--sdu": {
+"name": "张宁",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/zhangning123456789101112/zh_CN/index/1359184/list/index.htm",
+"papers": []
+},
+"pid:cn-p_99867a28b1e6127e9c39--sdu": {
+"name": "张弛",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhangchi/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_d5869bdea9cda6e9317c--sdu": {
+"name": "张文",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhangwen522",
+"papers": []
+},
+"pid:yuming-zhang--sdu": {
+"name": "Yuming Zhang",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1132/3367.htm",
+"papers": [
+{
+"title": "Ethical Consumers and Low-Income Sellers on China’s Reward-Based Crowdfunding Platforms: Are Poverty Alleviation Campaigns More Successful?",
+"authors": [
+"Chao Xing",
+"Yuming Zhang",
+"David Tripe"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-024-05666-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1132/3367.htm",
+"https://link.springer.com/article/10.1007/s10551-024-05666-3",
+"https://api.crossref.org/works/10.1007/s10551-024-05666-3",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "191",
+"issue": "4",
+"pages": "793-810",
+"tier": "business"
+}
+]
+},
+"pid:qi-zhang--sdu": {
+"name": "Qi Zhang",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1132/5460.htm",
+"papers": [
+{
+"title": "Anticorruption, Government Subsidies, and Innovation: Evidence from China",
+"authors": [
+"Lily Fang",
+"Josh Lerner",
+"Chaopeng Wu",
+"Qi Zhang"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2022.4611",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1132/5460.htm",
+"https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4611",
+"https://api.crossref.org/works/10.1287/mnsc.2022.4611",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "69",
+"issue": "8",
+"pages": "4363-4388",
+"tier": "business"
+}
+]
+},
+"pid:hongping-zhang--sdu": {
+"name": "Hongping Zhang",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1132/3288.htm",
+"papers": [
+{
+"title": "High Core Self-Evaluators Maintain Creativity",
+"authors": [
+"Hongping Zhang",
+"Ho Kwong Kwan",
+"Xiaomeng Zhang",
+"Long-Zeng Wu"
+],
+"year": 2014,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/0149206312460681",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1132/3288.htm",
+"https://journals.sagepub.com/doi/10.1177/0149206312460681",
+"https://api.crossref.org/works/10.1177/0149206312460681",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "40",
+"issue": "4",
+"pages": "1151-1174",
+"tier": "business"
+}
+]
+},
+"pid:jin-xu--sdu": {
+"name": "Jin Xu",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/jinxu/zh_CN/zhym/519758/list/index.htm",
+"papers": [
+{
+"title": "Competition for networked agents in the lottery Blotto game",
+"authors": [
+"Qian Jiao",
+"Jin Xu"
+],
+"year": 2020,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2020.109644",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/zhym/519758/list/index.htm",
+"https://www.econ.sdu.edu.cn/jytd/jsml.htm",
+"https://faculty.sdu.edu.cn/xujin1/en/zhym/519775/list/index.htm",
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/lwcg/519760/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2020.109644",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "197",
+"pages": "109644",
+"tier": "econ_field"
+},
+{
+"title": "Effort discrimination and curvature of contest technology in conflict networks",
+"authors": [
+"Xiang Sun",
+"Jin Xu",
+"Junjie Zhou"
+],
+"year": 2023,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2023.10.013",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/zhym/519758/list/index.htm",
+"https://www.econ.sdu.edu.cn/jytd/jsml.htm",
+"https://faculty.sdu.edu.cn/xujin1/en/zhym/519775/list/index.htm",
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/lwcg/519760/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.geb.2023.10.013",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "142",
+"pages": "978-991",
+"tier": "econ_field"
+},
+{
+"title": "Equilibrium characterization and shock propagation in conflict networks",
+"authors": [
+"Jin Xu",
+"Yves Zenou",
+"Junjie Zhou"
+],
+"year": 2022,
+"venue": "Journal of Economic Theory",
+"status": "published",
+"doi": "10.1016/j.jet.2022.105571",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/zhym/519758/list/index.htm",
+"https://www.econ.sdu.edu.cn/jytd/jsml.htm",
+"https://faculty.sdu.edu.cn/xujin1/en/zhym/519775/list/index.htm",
+"https://faculty.sdu.edu.cn/jinxu/zh_CN/lwcg/519760/list/index.htm",
+"https://api.crossref.org/works/10.1016/j.jet.2022.105571",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "206",
+"pages": "105571",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_940802b6e73c04e051e4--sdu": {
+"name": "方政",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1094/3294.htm",
+"papers": []
+},
+"pid:cn-p_616e6fec40bd08390cfa--sdu": {
+"name": "朱程康",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/zhuchengkang/zh_CN/index.htm",
+"papers": [
+{
+"title": "Costly Rewards Sustain Cooperation with Imperfect Monitoring",
+"authors": [
+"Jingjing Pan",
+"Jianbiao Li",
+"Xiaofei Niu",
+"Chengkang Zhu"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2024.06479",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/zhuchengkang/zh_CN/index.htm",
+"https://faculty.sdu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbnewsid=114931&wbtreeid=1101",
+"https://api.crossref.org/works/10.1287/mnsc.2024.06479",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 3,
+"volume": "72",
+"issue": "8",
+"pages": "7299-7317",
+"tier": "business"
+},
+{
+"title": "Expectations matter in bottom-line setting: Theory and evidence",
+"authors": [
+"Peikun Chen",
+"Jianbiao Li",
+"Jingjing Pan",
+"Chengkang Zhu"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.106944",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/zhuchengkang/zh_CN/index.htm",
+"https://faculty.sdu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbnewsid=5421&wbtreeid=1101",
+"https://api.crossref.org/works/10.1016/j.jebo.2025.106944",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 3,
+"volume": "231",
+"pages": "106944",
+"tier": "econ_field"
+}
+]
+},
+"pid:junqian-li--sdu": {
+"name": "Junqian Li",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/lijunqian1/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_d86b1c3d0709af21c5db--sdu": {
+"name": "李昭辉",
+"verified_only": true,
+"source_url": "https://shxy.wh.sdu.edu.cn/info/1266/22209.htm",
+"papers": []
+},
+"pid:yue-li--sdu": {
+"name": "Yue Li",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/yueli1992/zh_CN/index.htm",
+"papers": [
+{
+"title": "Product Returns and Assortment Decisions: A Strategic Analysis of Online and Offline Competition",
+"authors": [
+"Yue Li",
+"Raghunath Singh Rao",
+"Paola Mallucci"
+],
+"year": 2025,
+"venue": "Journal of Marketing Research",
+"status": "published",
+"doi": "10.1177/00222437251314370",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/yueli1992/zh_CN/index.htm",
+"https://www.econ.sdu.edu.cn/info/1068/12579.htm",
+"https://api.crossref.org/works/10.1177/00222437251314370",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 0,
+"volume": "62",
+"issue": "5",
+"pages": "895-917",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_f8db13df61e90b847fd0--sdu": {
+"name": "杨逸希",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/yangyixi/zh_CN/index.htm",
+"papers": []
+},
+"pid:eugene-oue--sdu": {
+"name": "Eugene Oue",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/eugeneoue/zh_CN/index.htm",
+"papers": []
+},
+"pid:wenqi-duan--sdu": {
+"name": "Wenqi Duan",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/~YVZr6v/zh_CN/index.htm",
+"papers": [
+{
+"title": "When e-commerce meets smallholders: Boosting incomes and widening gaps in rural China's anti-poverty policy",
+"authors": [
+"Wenqi Duan",
+"Mingming Jiang",
+"Jianhong Qi",
+"Qing Shi"
+],
+"year": 2026,
+"venue": "American Journal of Agricultural Economics",
+"status": "published",
+"doi": "10.1002/ajae.70086",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/~YVZr6v/zh_CN/index.htm",
+"http://faculty.sdu.edu.cn/duanwenqi1/zh_CN/lwcg/1761649/content/480638.htm#lwcg",
+"https://api.crossref.org/works/10.1002/ajae.70086",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 0,
+"tier": "econ_field"
+},
+{
+"title": "Do Industrial Land Discounts Raise Firms' Capital-labor Ratios? Evidence from China",
+"authors": [
+"Wenqi Duan",
+"Jianhong Qi",
+"Yong Tan"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2026.103003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/~YVZr6v/zh_CN/index.htm",
+"http://faculty.sdu.edu.cn/duanwenqi1/zh_CN/lwcg/1761649/content/472467.htm#lwcg",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2026.103003",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 0,
+"volume": "99",
+"pages": "103003",
+"tier": "econ_field"
+},
+{
+"title": "Poverty or pollution: The environmental cost of E-commerce for poverty reduction in China",
+"authors": [
+"Wenqi Duan",
+"Mingming Jiang",
+"Jianhong Qi"
+],
+"year": 2024,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2024.103029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/~YVZr6v/zh_CN/index.htm",
+"http://faculty.sdu.edu.cn/duanwenqi1/zh_CN/lwcg/1761649/content/414950.htm#lwcg",
+"https://api.crossref.org/works/10.1016/j.jeem.2024.103029",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/site/papers.json"
+],
+"author_index": 0,
+"volume": "127",
+"pages": "103029",
+"tier": "econ_field"
+}
+]
+},
+"pid:yongkun-yin--sdu": {
+"name": "Yongkun Yin",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/yongkun_yin/zh_CN/index.htm",
+"papers": []
+},
+"pid:zizhuo-wang--sdu": {
+"name": "Zizhuo Wang",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1129/7140.htm",
+"papers": [
+{
+"title": "Impacts of Distributive Comparison Behavior on Corporate Social Responsibility in Supply Chains: The Role of Small Firms",
+"authors": [
+"Mingzheng Wang",
+"Xin Fang",
+"Zizhuo Wang",
+"Ying-ju Chen"
+],
+"year": 2023,
+"venue": "Manufacturing & Service Operations Management",
+"status": "published",
+"doi": "10.1287/msom.2022.1172",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1129/7140.htm",
+"https://api.crossref.org/works/10.1287/msom.2022.1172"
+],
+"author_index": 2,
+"volume": "25",
+"issue": "2",
+"pages": "686-703",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_610086a63a705e43aef2--sdu": {
+"name": "王晓宇",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/~2U7Vvq/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_2bd66afe85da584642f2--sdu": {
+"name": "王树军",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1129/3359.htm",
+"papers": []
+},
+"pid:cn-p_93484a3a5d87b219364f--sdu": {
+"name": "王溥",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/wangpu123/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_8a63a027ff9d59714d96--sdu": {
+"name": "王益民",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1129/2229.htm",
+"papers": []
+},
+"pid:cn-p_301863582926194acbe5--sdu": {
+"name": "王超",
+"verified_only": true,
+"source_url": "https://aais.wh.sdu.edu.cn/info/1008/1235.htm",
+"papers": []
+},
+"pid:cn-p_32041fab9499a3e76a32--sdu": {
+"name": "石启超",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/shiqc/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_9d273834c5a9f4b0f104--sdu": {
+"name": "许峰",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1130/3426.htm",
+"papers": []
+},
+"pid:cn-p_65a9c433016a5d282c79--sdu": {
+"name": "赵培忻",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1132/3486.htm",
+"papers": []
+},
+"pid:cn-p_d12d8c1524db47e52bb9--sdu": {
+"name": "赵帅",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/zhaoshuai12/zh_CN/index/1468052/list/index.htm",
+"papers": []
+},
+"pid:jie-xin--sdu": {
+"name": "Jie Xin",
+"verified_only": true,
+"source_url": "https://www.glxy.sdu.edu.cn/info/1130/3280.htm",
+"papers": [
+{
+"title": "Work–Family Spillover and Crossover Effects of Sexual Harassment: The Moderating Role of Work–Home Segmentation Preference",
+"authors": [
+"Jie Xin",
+"Shouming Chen",
+"Ho Kwong Kwan",
+"Randy K. Chiu",
+"Frederick Hong-kit Yim"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-015-2966-9",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.glxy.sdu.edu.cn/info/1130/3280.htm",
+"https://faculty.sdu.edu.cn/xinjie/zh_CN/lwcg/559624/content/317732.htm",
+"https://api.crossref.org/works/10.1007/s10551-015-2966-9",
+"https://faculty.sdu.edu.cn/xinjie/zh_CN/index.htm",
+"https://doc.xuehai.net/b1e7d2a47ed9dda2ddc25eaed.html",
+"https://faculty.sdu.edu.cn/xinjie/en/lwcg/559641/content/226061.htm",
+"https://www.archaeology.sdu.edu.cn/info/1084/4268.htm"
+],
+"author_index": 0,
+"volume": "147",
+"issue": "3",
+"pages": "619-629",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_9f6fd05d6f84e3755669--sdu": {
+"name": "郎旭",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/langxu/zh_CN/index.htm",
+"papers": []
+},
+"pid:zheng-kun--sdu": {
+"name": "Zheng Kun",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhengkun/zh_CN/index.htm",
+"papers": []
+},
+"pid:zhuo-chen--sdu": {
+"name": "Zhuo Chen",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/zhuochen/zh_CN/index.htm",
+"papers": [
+{
+"title": "Menu-dependent risk attitudes: Theory and evidence",
+"authors": [
+"Zhuo Chen",
+"Russell Golman",
+"Jason Somerville"
+],
+"year": 2024,
+"venue": "Journal of Risk and Uncertainty",
+"status": "published",
+"doi": "10.1007/s11166-023-09423-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/zhuochen/zh_CN/index.htm",
+"http://www.cer.sdu.edu.cn/szdw1/zzjs/2.htm",
+"https://faculty.sdu.edu.cn/zhuochen/zh_CN/lwcg/1732766/content/424489.htm",
+"https://doi.org/10.1007/s11166-023-09423-1"
+],
+"author_index": 0,
+"volume": "68",
+"issue": "1",
+"pages": "77-105",
+"tier": "econ_field"
+},
+{
+"title": "Preference for hope: A behavioral definition",
+"authors": [
+"Zhuo Chen"
+],
+"year": 2022,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2022.110920",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://faculty.sdu.edu.cn/zhuochen/zh_CN/index.htm",
+"http://www.cer.sdu.edu.cn/szdw1/zzjs/2.htm",
+"https://faculty.sdu.edu.cn/zhuochen/zh_CN/lwcg/1732766/content/423794.htm",
+"https://doi.org/10.1016/j.econlet.2022.110920"
+],
+"author_index": 0,
+"volume": "221",
+"pages": "110920",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_e7a94927ed2098d22a13--sdu": {
+"name": "韦倩",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/weiqian/zh_CN/index.htm",
+"papers": [
+{
+"title": "Thinking against the wind: Narratives, information, and reasoning ability",
+"authors": [
+"Shuguang Jiang",
+"Siyu Wang",
+"Qian Wei"
+],
+"year": 2026,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2026.105267",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.sdu.edu.cn/weiqian/zh_CN/index.htm",
+"http://www.cer.sdu.edu.cn/szdw1/zzjs/3.htm",
+"https://www.cer.sdu.edu.cn/info/1032/12407.htm",
+"https://api.crossref.org/works/10.1016/j.euroecorev.2026.105267"
+],
+"author_index": 2,
+"volume": "184",
+"pages": "105267",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_d29f50ac28496e37476a--sdu": {
+"name": "魏丰",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/weifeng/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_1ccae4494abc33af0fb2--sdu": {
+"name": "魏啸",
+"verified_only": true,
+"source_url": "https://faculty.sdu.edu.cn/weixiao1/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_43ac1f3b1d05c4f52496--sdu": {
+"name": "黄翰国",
+"verified_only": true,
+"source_url": "http://faculty.sdu.edu.cn/huanghanguo/zh_CN/index.htm",
+"papers": []
 }
 }

@@ -975,5 +975,1159 @@
 "xin yang": {
 "name": "Xin Yang",
 "papers": []
+},
+"pid:siyi-he--scu": {
+"name": "Siyi He",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202307/8757.html",
+"papers": [
+{
+"title": "Will Local Analysts Cater to Government Needs in Earnings Forecasts? Evidence from Financial Misconduct in Chinese State-Owned Enterprises",
+"authors": [
+"Siyi He",
+"Qinglu Jin",
+"Yipin Yu"
+],
+"year": 2025,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-025-05976-0",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/202307/8757.html",
+"https://link.springer.com/article/10.1007/s10551-025-05976-0"
+],
+"author_index": 0,
+"volume": "201",
+"issue": "3",
+"pages": "663-687",
+"tier": "business"
+}
+]
+},
+"pid:haiyue-liu--scu": {
+"name": "Haiyue Liu",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/201904/5187.html",
+"papers": [
+{
+"title": "Foreign bank entry and the outward foreign direct investment of companies: evidence from China",
+"authors": [
+"Haiyue Liu",
+"Zhimin Yi",
+"Hua Shang",
+"Zihan Liu"
+],
+"year": 2024,
+"venue": "Journal of International Business Studies",
+"status": "published",
+"doi": "10.1057/s41267-024-00693-8",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/201904/5187.html",
+"https://riem.swufe.edu.cn/info/1281/14571.htm",
+"https://link.springer.com/article/10.1057/s41267-024-00693-8"
+],
+"author_index": 0,
+"volume": "55",
+"issue": "7",
+"pages": "896-913",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_52ea97692bdaa919a0c7--scu": {
+"name": "刘铭",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202410/9669.html",
+"papers": []
+},
+"pid:cn-p_1d8c1e1189c493e20b96--scu": {
+"name": "叶思林",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202312/9090.html",
+"papers": []
+},
+"pid:hongbo-ye--scu": {
+"name": "Hongbo Ye",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/202606/11013.html",
+"papers": []
+},
+"pid:cn-p_be61fda0fcd7ab25845d--scu": {
+"name": "吴萌",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/201904/5128.html",
+"papers": []
+},
+"pid:weimin-zhou--scu": {
+"name": "Weimin Zhou",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/10949.htm",
+"papers": [
+{
+"title": "Monetary policy, intangible capital, and debt contracts",
+"authors": [
+"Renbin Zhang",
+"Weimin Zhou"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2026.102943",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/10949.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2026.102943",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "98",
+"pages": "102943",
+"tier": "econ_field"
+}
+]
+},
+"pid:liming-yao--scu": {
+"name": "Liming Yao",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/201904/5194.html",
+"papers": [
+{
+"title": "Efficient Convexification Strategy for Generalized Geometric Programming Problems",
+"authors": [
+"Hao-Chun Lu",
+"Liming Yao"
+],
+"year": 2019,
+"venue": "INFORMS Journal on Computing",
+"status": "published",
+"doi": "10.1287/ijoc.2018.0850",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/guanlikexue/201904/5194.html",
+"https://link.springer.com/book/10.1007/978-3-642-45429-5",
+"https://www.zgglkx.com/CN/abstract/abstract19307.shtml",
+"https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0850",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/informs-journal-on-computing.jsonl.gz"
+],
+"author_index": 1,
+"volume": "31",
+"issue": "2",
+"pages": "226-234",
+"tier": "business"
+}
+]
+},
+"pid:helin-sun--scu": {
+"name": "Helin Sun",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/202212/8292.html",
+"papers": [
+{
+"title": "CEO's Hometown Identity and Corporate Social Responsibility",
+"authors": [
+"Shenggang Ren",
+"Helin Sun",
+"Yi Tang"
+],
+"year": 2023,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/01492063221104988",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/renliziyuan/202212/8292.html",
+"https://journals.sagepub.com/doi/10.1177/01492063221104988"
+],
+"author_index": 1,
+"volume": "49",
+"issue": "7",
+"pages": "2455-2489",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_39306585b7ecd626171c--scu": {
+"name": "应东岳",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/11066.htm",
+"papers": []
+},
+"pid:qianwei-ying--scu": {
+"name": "Qianwei Ying",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/201904/5197.html",
+"papers": [
+{
+"title": "Does regulatory punishment improve financial media’s information intermediary role?",
+"authors": [
+"Shanye Yang",
+"Qianwei Ying",
+"Jinsong Liu"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111321",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/201904/5197.html",
+"https://ir.specialsci.cn/skdx/scholar/result?page=2&scholar=e235779334d9ef3d%3AQianwei+YING",
+"https://www.sciencedirect.com/science/article/pii/S0165176523003464",
+"https://api.crossref.org/works/10.1016/j.econlet.2023.111321",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "232",
+"pages": "111321",
+"tier": "econ_field"
+}
+]
+},
+"pid:chengcheng-liao--scu": {
+"name": "Chengcheng Liao",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/yingxiao/202207/8003.html",
+"papers": [
+{
+"title": "When and How Artificial Intelligence Augments Employee Creativity",
+"authors": [
+"Nan Jia",
+"Xueming Luo",
+"Zheng Fang",
+"Chengcheng Liao"
+],
+"year": 2024,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2022.0426",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/yingxiao/202207/8003.html",
+"https://journals.aom.org/doi/abs/10.5465/amj.2022.0426"
+],
+"author_index": 3,
+"volume": "67",
+"issue": "1",
+"pages": "5-32",
+"tier": "business"
+}
+]
+},
+"pid:pan-zhang--scu": {
+"name": "Pan Zhang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/yingxiao/201909/5772.html",
+"papers": [
+{
+"title": "“What I Customize Is Mine, So I Take Responsibility For It”: Customization Enhances Socially Responsible Consumer Behaviour Through Psychological Ownership in the Sharing Economy",
+"authors": [
+"Lu Huang",
+"Wanqing Feng",
+"Zerui Zhao",
+"Pan Zhang"
+],
+"year": 2026,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-025-06156-w",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/yingxiao/201909/5772.html",
+"https://www.sciencedirect.com/science/article/abs/pii/S2212571X23000057",
+"https://link.springer.com/article/10.1007/s10551-025-06156-w",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-ethics.jsonl.gz"
+],
+"author_index": 3,
+"volume": "207",
+"issue": "1",
+"pages": "35-55",
+"tier": "business"
+}
+]
+},
+"pid:qiang-wen--scu": {
+"name": "Qiang Wen",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202010/6689.html",
+"papers": [
+{
+"title": "The Impact of the COVID-19 Pandemic on Consumption: Learning from High-Frequency Transaction Data",
+"authors": [
+"Haiqiang Chen",
+"Wenlan Qian",
+"Qiang Wen"
+],
+"year": 2021,
+"venue": "AEA Papers and Proceedings",
+"status": "published",
+"doi": "10.1257/pandp.20211003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/202010/6689.html",
+"https://faculty.xmu.edu.cn/CHQ/en/zdylm/1025337/list/index.htm",
+"https://www.aeaweb.org/articles?id=10.1257/pandp.20211003"
+],
+"author_index": 2,
+"volume": "111",
+"pages": "307-311",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-fang--scu": {
+"name": "Zheng Fang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/yingxiao/202104/7103.html",
+"papers": [
+{
+"title": "When and How Artificial Intelligence Augments Employee Creativity",
+"authors": [
+"Nan Jia",
+"Xueming Luo",
+"Zheng Fang",
+"Chengcheng Liao"
+],
+"year": 2024,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2022.0426",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/yingxiao/202104/7103.html",
+"https://journals.aom.org/doi/abs/10.5465/amj.2022.0426"
+],
+"author_index": 2,
+"volume": "67",
+"issue": "1",
+"pages": "5-32",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_bf82ab3b7bbba574933a--scu": {
+"name": "曾自强",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/201907/5719.html",
+"papers": []
+},
+"pid:cn-p_b9566f868f28f4a844d5--scu": {
+"name": "朱兵",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/201904/5097.html",
+"papers": []
+},
+"pid:ziyang-li--scu": {
+"name": "Ziyang Li",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/201904/5177.html",
+"papers": [
+{
+"title": "Performance evaluation criteria and information processing in complex decision making",
+"authors": [
+"Xiqiong He",
+"Xi (Jason) Kuang",
+"Ziyang Li",
+"Jordan Samet"
+],
+"year": 2026,
+"venue": "Accounting, Organizations and Society",
+"status": "published",
+"doi": "10.1016/j.aos.2026.101632",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/201904/5177.html",
+"https://www.sciencedirect.com/science/article/pii/S0361368226000012",
+"https://aaahq.org/Portals/0/documents/meetings/2021/2021%20ABO%20Abstracts.pdf?ver=2021-10-04-154854-637",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12833"
+],
+"author_index": 2,
+"volume": "116",
+"pages": "101632",
+"tier": "business"
+}
+]
+},
+"pid:jiangyi-li--scu": {
+"name": "Jiangyi Li",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1128/11252.htm",
+"papers": [
+{
+"title": "Housing wealth and labor supply: Evidence from a regression discontinuity design",
+"authors": [
+"Han Li",
+"Jiangyi Li",
+"Yi Lu",
+"Huihua Xie"
+],
+"year": 2020,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2020.104139",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1128/11252.htm",
+"https://www.sciencedirect.com/science/article/pii/S0047272720300037"
+],
+"author_index": 1,
+"volume": "183",
+"pages": "104139",
+"tier": "econ_field"
+},
+{
+"title": "Do housing regulations affect child development? Evidence and mechanisms",
+"authors": [
+"Han Li",
+"Jiangyi Li",
+"Yi Lu",
+"Huihua Xie"
+],
+"year": 2023,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2023.104995",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1128/11252.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0047272723001779"
+],
+"author_index": 1,
+"volume": "227",
+"pages": "104995",
+"tier": "econ_field"
+},
+{
+"title": "Housing property rights, collateral, and entrepreneurship: Evidence from China",
+"authors": [
+"Gang-Zhi Fan",
+"Han Li",
+"Jiangyi Li",
+"Jian Zhang"
+],
+"year": 2022,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2022.106588",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1128/11252.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426622001844"
+],
+"author_index": 2,
+"volume": "143",
+"pages": "106588",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_c45ca7015c1fba8c56d6--scu": {
+"name": "李颖",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/201904/5115.html",
+"papers": []
+},
+"pid:jinyu-yang--scu": {
+"name": "Jinyu Yang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/202211/8234.html",
+"papers": [
+{
+"title": "Personal income tax and corporate innovation: The key role of inventors’ financial incentives",
+"authors": [
+"Guanchun Liu",
+"Hangjuan Liu",
+"Yuanyuan Liu",
+"Jinyu Yang",
+"Yanren Zhang"
+],
+"year": 2024,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2024.107203",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/renliziyuan/202211/8234.html",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426624001201"
+],
+"author_index": 3,
+"volume": "164",
+"pages": "107203",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_ba1de712a5d23d8cfb77--scu": {
+"name": "杨雪",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/201909/5773.html",
+"papers": []
+},
+"pid:qi-wang--scu": {
+"name": "Qi Wang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202201/7758.html",
+"papers": [
+{
+"title": "Number of brothers, risk sharing, and stock market participation",
+"authors": [
+"Geng Niu",
+"Qi Wang",
+"Han Li",
+"Yang Zhou"
+],
+"year": 2020,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2020.105757",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/202201/7758.html",
+"https://www.sciencedirect.com/science/article/pii/S0378426620300248",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-banking-and-finance.jsonl.gz"
+],
+"author_index": 1,
+"volume": "113",
+"pages": "105757",
+"tier": "econ_field"
+}
+]
+},
+"pid:taolin-wang--scu": {
+"name": "Taolin Wang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/201909/5768.html",
+"papers": [
+{
+"title": "A Social Exchange Perspective of Employee–Organization Relationships and Employee Unethical Pro-organizational Behavior: The Moderating Role of Individual Moral Identity",
+"authors": [
+"Taolin Wang",
+"Lirong Long",
+"Yong Zhang",
+"Wei He"
+],
+"year": 2019,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-018-3782-9",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/renliziyuan/201909/5768.html",
+"https://api.crossref.org/works/10.1007/s10551-018-3782-9",
+"https://link.springer.com/article/10.1007/s10551-018-3782-9",
+"https://journal.psych.ac.cn/xlkxjz/EN/10.3724/SP.J.1042.2020.01246",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://pub.orcid.org/v3.0/0009-0009-3827-8570/record",
+"https://api.openalex.org/works/https://doi.org/10.1007/s10551-018-3782-9",
+"https://api.openalex.org/works/https://doi.org/10.1111/beer.12776"
+],
+"author_index": 0,
+"volume": "159",
+"issue": "2",
+"pages": "473-489",
+"tier": "business"
+}
+]
+},
+"pid:qiuyi-wang--scu": {
+"name": "Qiuyi Wang",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/12193.htm",
+"papers": [
+{
+"title": "English's significance: Exam performance by subject and future income in China",
+"authors": [
+"Ruixue Jia",
+"Hongbin Li",
+"Yu Qin",
+"Qiuyi Wang",
+"Jing Wu"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2026.103756",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/12193.htm",
+"https://www.qiuyiwang.top/research",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2026.103756",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "181",
+"pages": "103756",
+"tier": "econ_field"
+},
+{
+"title": "Export slowdown and increasing land supply: Local government’s responses to export shocks in China",
+"authors": [
+"Qiuyi Wang",
+"Jing Wu",
+"Shuping Wu"
+],
+"year": 2025,
+"venue": "Journal of Urban Economics",
+"status": "published",
+"doi": "10.1016/j.jue.2025.103796",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/12193.htm",
+"https://www.qiuyiwang.top/research",
+"https://api.crossref.org/works/10.1016/j.jue.2025.103796",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "149",
+"pages": "103796",
+"tier": "econ_field"
+},
+{
+"title": "Impact of fertility relaxation on the housing market outcomes",
+"authors": [
+"Keyang Li",
+"Yixun Tang",
+"Qiuyi Wang"
+],
+"year": 2025,
+"venue": "Journal of Urban Economics",
+"status": "published",
+"doi": "10.1016/j.jue.2025.103812",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/12193.htm",
+"https://www.qiuyiwang.top/research",
+"https://api.crossref.org/works/10.1016/j.jue.2025.103812",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "150",
+"pages": "103812",
+"tier": "econ_field"
+},
+{
+"title": "Information disclosure, search cost, and the housing market",
+"authors": [
+"Hefan Zheng",
+"Qiuyi Wang",
+"Keyang Li",
+"Jing Wu"
+],
+"year": 2025,
+"venue": "Regional Science and Urban Economics",
+"status": "published",
+"doi": "10.1016/j.regsciurbeco.2025.104161",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/12193.htm",
+"https://www.qiuyiwang.top/research",
+"https://api.crossref.org/works/10.1016/j.regsciurbeco.2025.104161",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "115",
+"pages": "104161",
+"tier": "econ_field"
+}
+]
+},
+"pid:li-luo--scu": {
+"name": "Li Luo",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/gongye/201904/5107.html",
+"papers": [
+{
+"title": "Analytics for Hospital Resource Planning—Two Case Studies",
+"authors": [
+"Jingui Xie",
+"Weifen Zhuang",
+"Marcus Ang",
+"Mabel C. Chou",
+"Li Luo",
+"David D. Yao"
+],
+"year": 2021,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.13158",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/gongye/201904/5107.html",
+"https://onlinelibrary.wiley.com/doi/10.1111/poms.13158",
+"https://iej.gdut.edu.cn/cn/article/doi/10.3969/j.issn.1007-7375.240007",
+"https://iej.gdut.edu.cn/en/article/doi/10.3969/j.issn.1007-7375.240007",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "30",
+"issue": "6",
+"pages": "1863-1885",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_94225aef0db3a1550951--scu": {
+"name": "罗进",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/10963.htm",
+"papers": []
+},
+"pid:jin-xiao--scu": {
+"name": "Jin Xiao",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/guanlikexue/201904/5125.html",
+"papers": [
+{
+"title": "Black-Box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models",
+"authors": [
+"Jin Xiao",
+"Yuhang Tian",
+"Yanlin Jia",
+"Xiaoyi Jiang",
+"Lean Yu",
+"Shouyang Wang"
+],
+"year": 2023,
+"venue": "INFORMS Journal on Computing",
+"status": "published",
+"doi": "10.1287/ijoc.2023.1297",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/guanlikexue/201904/5125.html",
+"https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.1297",
+"https://dblp.org/pid/62/4290.html",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://www.uni-muenster.de/imperia/md/content/informatik/pria/ieee_tii_2020.pdf"
+],
+"author_index": 0,
+"volume": "35",
+"issue": "5",
+"pages": "986-1001",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_e3f66b9873dcb2de1b1f--scu": {
+"name": "蒋鹏",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/gongye/202110/7492.html",
+"papers": []
+},
+"pid:cn-p_96a21d874109b19796f4--scu": {
+"name": "詹雯婷",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/gongye/202206/7951.html",
+"papers": []
+},
+"pid:da-zhao--scu": {
+"name": "Da Zhao",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1125/7539.htm",
+"papers": [
+{
+"title": "Tradeoff between local protection and public sector performance: Lessons from judicial fiscal centralization",
+"authors": [
+"Da Zhao",
+"Jingyuan Guo",
+"Shule Yu",
+"Litian Yu"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.02.011",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1125/7539.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.02.011",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "220",
+"pages": "254-278",
+"tier": "econ_field"
+},
+{
+"title": "Positive Rainfall Shocks, Overoptimism, and Agricultural Inefficiency in China",
+"authors": [
+"Kaixing Huang",
+"Jingyuan Guo",
+"Da Zhao"
+],
+"year": 2024,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published",
+"doi": "10.1086/727761",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1125/7539.htm",
+"https://api.crossref.org/works/10.1086/727761",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "11",
+"issue": "4",
+"pages": "887-919",
+"tier": "econ_field"
+}
+]
+},
+"pid:guoying-deng--scu": {
+"name": "Guoying Deng",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1128/6982.htm",
+"papers": [
+{
+"title": "Do natural disasters cause an excessive fear of heights? Evidence from the Wenchuan earthquake",
+"authors": [
+"Guoying Deng",
+"Li Gan",
+"Manuel A. Hernandez"
+],
+"year": 2015,
+"venue": "Journal of Urban Economics",
+"status": "published",
+"doi": "10.1016/j.jue.2015.10.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1128/6982.htm",
+"https://www.nber.org/papers/w19515",
+"https://www.sciencedirect.com/science/article/abs/pii/S0094119015000662"
+],
+"author_index": 0,
+"volume": "90",
+"pages": "79-89",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhongqi-deng--scu": {
+"name": "Zhongqi Deng",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1128/10655.htm",
+"papers": [
+{
+"title": "The equilibrium effects of environmental regulation on heterogeneous competing firms: Theory and evidence from Chinese manufacturing",
+"authors": [
+"Ruizhi Pang",
+"Xuping Zhang",
+"Matthew Leisten",
+"Zhongqi Deng"
+],
+"year": 2025,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2025.103161",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1128/10655.htm",
+"https://www.scholat.com/dzhongqi.cn",
+"https://www.researchgate.net/profile/Zhongqi-Deng",
+"https://www.sciencedirect.com/science/article/abs/pii/S016771872500027X"
+],
+"author_index": 3,
+"volume": "100",
+"pages": "103161",
+"tier": "econ_field"
+}
+]
+},
+"pid:xiang-deng--scu": {
+"name": "Xiang Deng",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1128/3173.htm",
+"papers": []
+},
+"pid:mengzhuo-guo--scu": {
+"name": "Mengzhuo Guo",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/gongye/202306/8648.html",
+"papers": []
+},
+"pid:xiaoye-qian--scu": {
+"name": "Xiaoye Qian",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/renliziyuan/201904/5199.html",
+"papers": [
+{
+"title": "Polluted Psyche: Is the Effect of Air Pollution on Unethical Behavior More Physiological or Psychological?",
+"authors": [
+"Shiyang Gong",
+"Jackson G. Lu",
+"John M. Schaubroeck",
+"Qian Li",
+"Qiwei Zhou",
+"Xiaoye Qian"
+],
+"year": 2020,
+"venue": "Psychological Science",
+"status": "published",
+"doi": "10.1177/0956797620943835",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/renliziyuan/201904/5199.html",
+"https://journals.sagepub.com/doi/10.1177/0956797620943835",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 5,
+"volume": "31",
+"issue": "8",
+"pages": "1040-1047",
+"tier": "business"
+}
+]
+},
+"pid:xiaolan-chen--scu": {
+"name": "Xiaolan Chen",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1125/9662.htm",
+"papers": [
+{
+"title": "Does central supervision enhance local environmental enforcement? Quasi-experimental evidence from China",
+"authors": [
+"Bing Zhang",
+"Xiaolan Chen",
+"Huanxiu Guo"
+],
+"year": 2018,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2018.05.009",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1125/9662.htm",
+"https://www.tandfonline.com/doi/full/10.1080/1540496X.2018.1504208",
+"https://pub.orcid.org/v3.0/0000-0001-6558-9598/record",
+"https://api.crossref.org/works/10.1016/j.jpubeco.2018.05.009",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://eset.stanford.edu/people/xiaolan-chen",
+"https://sesu.scu.edu.cn/szdw/zzjs1.htm",
+"https://nsd.pku.edu.cn/docs/826bbd9253af4556a0731629a82a7db3.pdf"
+],
+"author_index": 1,
+"volume": "164",
+"pages": "70-90",
+"tier": "econ_field"
+}
+]
+},
+"pid:xianmeng-chen--scu": {
+"name": "Xianmeng Chen",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/11068.htm",
+"papers": [
+{
+"title": "Export behavior and firm innovation: New method and evidence",
+"authors": [
+"Ting Chen",
+"Xianmeng Chen",
+"Cong Wang",
+"Xunyong Xiang"
+],
+"year": 2018,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2018.05.029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1126/11068.htm",
+"https://onlinelibrary.wiley.com/doi/10.1111/cwe.70026",
+"https://iie.jnu.edu.cn/2021/0618/c10556a631851/page.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2018.05.029",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "170",
+"pages": "76-78",
+"tier": "econ_field"
+}
+]
+},
+"pid:fei-jin--scu": {
+"name": "Fei Jin",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/yingxiao/201909/5753.html",
+"papers": [
+{
+"title": "Keeping it real in human eyes: Receptivity to human vs. AI in luxury authentication and the role of perceived perspective similarity",
+"authors": [
+"Xuejing Ma",
+"Fei Jin",
+"Xianchi Dai"
+],
+"year": 2026,
+"venue": "Journal of the Academy of Marketing Science",
+"status": "published",
+"doi": "10.1007/s11747-025-01136-y",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/yingxiao/201909/5753.html",
+"https://link.springer.com/article/10.1007/s11747-025-01136-y"
+],
+"author_index": 1,
+"volume": "54",
+"issue": "2",
+"pages": "579-595",
+"tier": "business"
+}
+]
+},
+"pid:jingzhou-yan--scu": {
+"name": "Jingzhou Yan",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1125/11796.htm",
+"papers": [
+{
+"title": "Unbiased CCE estimator for Interactive Fixed Effects panels",
+"authors": [
+"Mingjing Chen",
+"Jingzhou Yan"
+],
+"year": 2019,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2018.11.029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1125/11796.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2018.11.029",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "175",
+"pages": "1-4",
+"tier": "econ_field"
+},
+{
+"title": "Sustainable investing with ESG ambiguous information",
+"authors": [
+"Yurong Jin",
+"Jingzhou Yan"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2024.111796",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sesu.scu.edu.cn/info/1125/11796.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2024.111796",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "241",
+"pages": "111796",
+"tier": "econ_field"
+}
+]
+},
+"pid:xinru-ma--scu": {
+"name": "Xinru Ma",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/kuaijixue/202305/8626.html",
+"papers": [
+{
+"title": "Institutional investor inattention bias in auctioned IPOs",
+"authors": [
+"Yeguang Chi",
+"Jingbin He",
+"Xinru Ma",
+"Fei Wu"
+],
+"year": 2023,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2023.106831",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/kuaijixue/202305/8626.html",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426623000560"
+],
+"author_index": 2,
+"volume": "150",
+"pages": "106831",
+"tier": "econ_field"
+}
+]
+},
+"pid:zifu-wei--scu": {
+"name": "Zifu Wei",
+"verified_only": true,
+"source_url": "https://sesu.scu.edu.cn/info/1126/11192.htm",
+"papers": []
+},
+"pid:ziyao-huang--scu": {
+"name": "Ziyao Huang",
+"verified_only": true,
+"source_url": "https://bs.scu.edu.cn/yingxiao/202307/8756.html",
+"papers": [
+{
+"title": "Perceived Fairness of Human Managers Compared with Artificial Intelligence in Employee Performance Evaluation",
+"authors": [
+"Shaojun (Marco) Qin",
+"Nan Jia",
+"Xueming Luo",
+"Chengcheng Liao",
+"Ziyao Huang"
+],
+"year": 2023,
+"venue": "Journal of Management Information Systems",
+"status": "published",
+"doi": "10.1080/07421222.2023.2267316",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.scu.edu.cn/yingxiao/202307/8756.html",
+"https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2267316",
+"https://rsc.scu.edu.cn/info/1101/2471.htm",
+"https://www.researchgate.net/profile/Ziyao-Huang-4",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-management-information-systems.jsonl.gz"
+],
+"author_index": 4,
+"volume": "40",
+"issue": "4",
+"pages": "1039-1070",
+"tier": "business"
+}
+]
 }
 }
