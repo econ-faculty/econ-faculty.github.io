@@ -2418,5 +2418,53 @@
 "status": "published"
 }
 ]
+},
+"pid:zhaojun-yang--sustech": {
+"name": "Zhaojun Yang",
+"verified_only": true,
+"source_url": "https://business.sustech.edu.cn/web/professor_detail.php?id=19",
+"papers": [
+{
+"title": "Dynamic incentive contracts for ESG investing",
+"authors": [
+"Yuqian Zhang",
+"Zhaojun Yang"
+],
+"year": 2024,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2024.102614",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://business.sustech.edu.cn/web/professor_detail.php?id=19",
+"https://osrp.sustech.edu.cn/news/1539.html",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2024.102614"
+],
+"author_index": 1,
+"volume": "87",
+"pages": "102614",
+"publication_type": "journal-article",
+"tier": "econ_field"
+}
+]
+},
+"pid:he-wang--sustech": {
+"name": "He Wang",
+"verified_only": true,
+"source_url": "https://business.sustech.edu.cn/weben/professor_detail.php?id=43",
+"papers": []
+},
+"pid:ting-xu--sustech": {
+"name": "Ting Xu",
+"verified_only": true,
+"source_url": "https://business.sustech.edu.cn/weben/professor_detail.php?id=54",
+"papers": []
+},
+"pid:wei-huang-wayne--sustech": {
+"name": "Wei Huang (Wayne)",
+"verified_only": true,
+"source_url": "https://business.sustech.edu.cn/web/professor_detail.php?id=3",
+"papers": []
 }
 }

@@ -1718,5 +1718,207 @@
 "zhikun lu": {
 "name": "Zhikun Lu",
 "papers": []
+},
+"pid:aleksandar-stojanovic--nyushanghai": {
+"name": "Aleksandar Stojanović",
+"verified_only": true,
+"source_url": "https://www.shnyu.edu.cn/academics/faculty/directory/aleksandar-stojanovic",
+"papers": []
+},
+"pid:ilaf-elard--nyushanghai": {
+"name": "Ilaf Elard",
+"verified_only": true,
+"source_url": "https://www.shnyu.edu.cn/academics/faculty/directory/ilaf-elard",
+"papers": []
+},
+"pid:jaee-cho--nyushanghai": {
+"name": "Jaee Cho",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/jaee-cho",
+"papers": []
+},
+"pid:jingyuan-mo--nyushanghai": {
+"name": "Jingyuan Mo",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/jingyuan-mo-0",
+"papers": [
+{
+"title": "The value of guarantor monitoring: evidence from bond defaults in China",
+"authors": [
+"Haoyu Gao",
+"Yuting Huang",
+"Jingyuan Mo"
+],
+"year": 2026,
+"venue": "Review of Finance",
+"status": "published",
+"doi": "10.1093/rof/rfaf067",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shanghai.nyu.edu/academics/faculty/directory/jingyuan-mo-0",
+"https://academic.oup.com/rof/article-abstract/30/1/163/8374224"
+],
+"author_index": 2,
+"volume": "30(1)",
+"pages": "163–192",
+"tier": "business"
+}
+]
+},
+"pid:offer-shapir--nyushanghai": {
+"name": "Offer Shapir",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/offer-shapir",
+"papers": [
+{
+"title": "Country financial development and the extension of trade credit by firms with market power",
+"authors": [
+"Koresh Galil",
+"Offer Moshe Shapir",
+"Rodrigo Zeidan"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107516",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shanghai.nyu.edu/academics/faculty/directory/offer-shapir",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426625001360"
+],
+"author_index": 1,
+"volume": "178",
+"pages": "107516",
+"tier": "econ_field"
+}
+]
+},
+"pid:rodrigo-zeidan--nyushanghai": {
+"name": "Rodrigo Zeidan",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/rodrigo-zeidan",
+"papers": [
+{
+"title": "Country financial development and the extension of trade credit by firms with market power",
+"authors": [
+"Koresh Galil",
+"Offer Moshe Shapir",
+"Rodrigo Zeidan"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107516",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shanghai.nyu.edu/academics/faculty/directory/rodrigo-zeidan",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426625001360"
+],
+"author_index": 2,
+"volume": "178",
+"pages": "107516",
+"tier": "econ_field"
+}
+]
+},
+"pid:yu-amanda-zhou--nyushanghai": {
+"name": "Yu (Amanda) Zhou",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/yu-amanda-zhou",
+"papers": []
+},
+"pid:nan-xu--nyushanghai": {
+"name": "Nan Xu",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/nan-xu",
+"papers": []
+},
+"pid:heini-shi--nyushanghai": {
+"name": "Heini Shi",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/heini-shi",
+"papers": []
+},
+"pid:xiaodong-yang--nyushanghai": {
+"name": "Xiaodong Yang",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaodong-yang",
+"papers": [
+{
+"title": "Partial centralization in a durable-good supply chain",
+"authors": [
+"Jin Li",
+"Xiaodong Yang",
+"Victor Shi",
+"Gangshu (George) Cai"
+],
+"year": 2023,
+"venue": "Production and Operations Management",
+"status": "published",
+"doi": "10.1111/poms.14006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shanghai.nyu.edu/academics/faculty/directory/xiaodong-yang",
+"https://onlinelibrary.wiley.com/doi/10.1111/poms.14006",
+"https://sem.shmtu.edu.cn/2019/1023/c7485a43684/page.htm"
+],
+"author_index": 1,
+"volume": "32",
+"issue": "9",
+"pages": "2775-2787",
+"tier": "business"
+}
+]
+},
+"pid:weiwei-weng--nyushanghai": {
+"name": "Weiwei Weng",
+"verified_only": true,
+"source_url": "https://www.shnyu.edu.cn/academics/faculty/directory/weiwei-weng",
+"papers": []
+},
+"pid:dan-zheng--nyushanghai": {
+"name": "Dan Zheng",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/dan-zheng",
+"papers": [
+{
+"title": "Retail price discount depth and perceived quality uncertainty",
+"authors": [
+"Dan Zheng",
+"Yuxin Chen",
+"Zhe Zhang",
+"Hai Che"
+],
+"year": 2022,
+"venue": "Journal of Retailing",
+"status": "published",
+"doi": "10.1016/j.jretai.2021.12.001",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shanghai.nyu.edu/academics/faculty/directory/dan-zheng",
+"https://shanghai.nyu.edu/cn/shizi/zheng-dan-dan-zheng",
+"https://api.crossref.org/works/10.1016/j.jretai.2021.12.001",
+"https://docshare.wps.com/document/retail-price-discount-depth-and-perceived-quality-uncertainty/13084/",
+"https://www.fdsm.fudan.edu.cn/En/2025/1106/c1063a24595/page2.htm",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "98",
+"issue": "3",
+"pages": "542-557",
+"tier": "business"
+}
+]
+},
+"pid:jing-chen--nyushanghai": {
+"name": "Jing Chen",
+"verified_only": true,
+"source_url": "https://shanghai.nyu.edu/academics/faculty/directory/jing-chen",
+"papers": []
 }
 }

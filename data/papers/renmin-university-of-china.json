@@ -33719,5 +33719,2754 @@
 "status": "published"
 }
 ]
+},
+"pid:changgui-dong--ruc": {
+"name": "Changgui Dong",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/f686edceb7b34eddbbebf040e8a23df8.htm",
+"papers": []
+},
+"pid:chaoping-li--ruc": {
+"name": "Chaoping Li",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/e14a9baf3bb04564b4aa79c021c53220.htm",
+"papers": [
+{
+"title": "How do I trust thee? The employee‐organization relationship, supervisory support, and middle manager trust in the organization",
+"authors": [
+"Ann Yan Zhang",
+"Anne S. Tsui",
+"Lynda Jiwen Song",
+"Chaoping Li",
+"Liangding Jia"
+],
+"year": 2008,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.20200",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://en.spap.ruc.edu.cn/staff/faculty1/e14a9baf3bb04564b4aa79c021c53220.htm",
+"https://api.crossref.org/works/10.1002/hrm.20200",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/human-resource-management.jsonl.gz"
+],
+"author_index": 3,
+"volume": "47",
+"issue": "1",
+"pages": "111-132",
+"tier": "business"
+}
+]
+},
+"pid:fangying-gong--ruc": {
+"name": "Fangying Gong",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/6a65d5205b7a4093bd690d96afbe2eef.htm",
+"papers": []
+},
+"pid:jeffrey-chu--ruc": {
+"name": "Jeffrey Chu",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/JeffreyChu/index.html",
+"papers": []
+},
+"pid:jian-yang--ruc": {
+"name": "Jian Yang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/36fc287cad3747b2b41f0027388edc43.htm",
+"papers": []
+},
+"pid:jiejing-wang--ruc": {
+"name": "Jiejing Wang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/e563e25368a740fe8d2dd2ec084c8b9f.htm",
+"papers": []
+},
+"pid:lei-zhang--ruc": {
+"name": "Lei Zhang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/6d02d6e3578248f285d837e01c327079.htm",
+"papers": []
+},
+"pid:leizhen-zang--ruc": {
+"name": "Leizhen Zang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/3cc7ebb78f96406d911c89c891373aa1.htm",
+"papers": [
+{
+"title": "Does democracy cause innovation? An empirical test of the popper hypothesis",
+"authors": [
+"Yanyan Gao",
+"Leizhen Zang",
+"Antoine Roth",
+"Puqu Wang"
+],
+"year": 2017,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2017.05.014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://en.spap.ruc.edu.cn/staff/faculty1/3cc7ebb78f96406d911c89c891373aa1.htm",
+"https://api.crossref.org/works/10.1016/j.respol.2017.05.014",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/research-policy.jsonl.gz"
+],
+"author_index": 1,
+"volume": "46",
+"issue": "7",
+"pages": "1272-1283",
+"tier": "business"
+}
+]
+},
+"pid:minrui-zheng--ruc": {
+"name": "Minrui Zheng",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/553a6da921a74613aa3c661ac5326fb3.htm",
+"papers": []
+},
+"pid:nandiyang-zhang--ruc": {
+"name": "Nandiyang Zhang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/2d1e552ad9b44ebe91135869bd002d8f.htm",
+"papers": []
+},
+"pid:qin-zhou--ruc": {
+"name": "Qin Zhou",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/ea4581a4f5834a28a05ae51657f13a87.htm",
+"papers": [
+{
+"title": "Healthcare utilization at retirement in China",
+"authors": [
+"Qin Zhou",
+"Karen Eggleston",
+"Gordon G. Liu"
+],
+"year": 2021,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.4400",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://en.spap.ruc.edu.cn/staff/faculty1/ea4581a4f5834a28a05ae51657f13a87.htm",
+"https://api.crossref.org/works/10.1002/hec.4400",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/health-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "30",
+"issue": "11",
+"pages": "2618-2636",
+"tier": "econ_field"
+}
+]
+},
+"pid:shan-guo--ruc": {
+"name": "Shan Guo",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/2e2830cbbcb34209b29be927e2e1cbf8.htm",
+"papers": []
+},
+"pid:shuhai-zhang--ruc": {
+"name": "Shuhai Zhang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/a918adf0e4d64f168762ac55bc2c6d4e.htm",
+"papers": []
+},
+"pid:wei-liu--ruc": {
+"name": "Wei Liu",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/f6f06eb45c7040ed94b20d3713cebb1a.htm",
+"papers": []
+},
+"pid:xiuying-cheng--ruc": {
+"name": "Xiuying Cheng",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/b9f073854e2f4b05ad990f5cbafa9004.htm",
+"papers": []
+},
+"pid:yang-yu--ruc": {
+"name": "Yang Yu",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/b1d764971c79435086bd1211d45386b3.htm",
+"papers": []
+},
+"pid:ying-liu--ruc": {
+"name": "Ying Liu",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/9dcb9518a4884498a165d60f24e5b201.htm",
+"papers": [
+{
+"title": "Seeing from a short-term perspective: When and why daily abusive supervisor behavior yields functional and dysfunctional consequences.",
+"authors": [
+"Zhenyu Liao",
+"Hun Whee Lee",
+"Russell E. Johnson",
+"Zhaoli Song",
+"Ying Liu"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000508",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://en.spap.ruc.edu.cn/staff/faculty1/9dcb9518a4884498a165d60f24e5b201.htm",
+"https://api.crossref.org/works/10.1037/apl0000508",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-applied-psychology.jsonl.gz"
+],
+"author_index": 4,
+"volume": "106",
+"issue": "3",
+"pages": "377-398",
+"tier": "business"
+}
+]
+},
+"pid:yongmao-fan--ruc": {
+"name": "Yongmao Fan",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/2234c95ee2ed45079eae6432c706dbcd.htm",
+"papers": []
+},
+"pid:youlang-zhang--ruc": {
+"name": "Youlang Zhang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/b6251faa94364549810bfb34e0372ace.htm",
+"papers": []
+},
+"pid:yuanjie-bao--ruc": {
+"name": "Yuanjie Bao",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/04e8b01019354e8588f470e93c875656.htm",
+"papers": []
+},
+"pid:zhenbang-fang--ruc": {
+"name": "Zhenbang Fang",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/2fb1fc70bdd14f658161991e7642269e.htm",
+"papers": []
+},
+"pid:zhihong-yi--ruc": {
+"name": "Zhihong Yi",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/yzh/",
+"papers": [
+{
+"title": "Do Star Analysts Know More Firm-Specific Information? Evidence from China",
+"authors": [
+"Nianhang Xu",
+"Kam C. Chan",
+"Xuanyu Jiang",
+"Zhihong Yi"
+],
+"year": 2013,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2012.08.014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/yzh/",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2012.08.014",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://iacmr.org/2014%E5%B9%B4%E5%B9%B4%E4%BC%9A%E4%BC%9A%E8%AE%AE%E5%A7%94%E5%91%98%E4%BC%9A/"
+],
+"author_index": 3,
+"volume": "37(1)",
+"issue": "1",
+"pages": "89-102",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_rucfin317_c2845453b0bbcc27--ruc": {
+"name": "何平",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/hp/index.htm",
+"papers": []
+},
+"pid:guohui-guan--ruc": {
+"name": "Guohui Guan",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/ggh/index.html",
+"papers": [
+{
+"title": "Equilibrium investment and reinsurance strategies under smooth ambiguity with a general second-order distribution",
+"authors": [
+"Guohui Guan",
+"Bin Li"
+],
+"year": 2022,
+"venue": "Journal of Economic Dynamics and Control",
+"status": "published",
+"doi": "10.1016/j.jedc.2022.104515",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/ggh/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Risk_Management_and_Actuarial_Science/ab683eef173c42aaab3e858de470a384.htm",
+"https://api.crossref.org/works/10.1016/j.jedc.2022.104515"
+],
+"author_index": 0,
+"volume": "143",
+"pages": "104515",
+"publication_type": "journal-article",
+"tier": "econ_field"
+},
+{
+"title": "Equilibrium Portfolio Selection for Smooth Ambiguity Preferences",
+"authors": [
+"Guohui Guan",
+"Zongxia Liang",
+"Jianming Xia"
+],
+"year": 2025,
+"venue": "Mathematics of Operations Research",
+"status": "published",
+"doi": "10.1287/moor.2023.0112",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/ggh/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Risk_Management_and_Actuarial_Science/ab683eef173c42aaab3e858de470a384.htm",
+"https://api.crossref.org/works/10.1287/moor.2023.0112"
+],
+"author_index": 0,
+"volume": "50",
+"issue": "2",
+"pages": "1042-1071",
+"publication_type": "journal-article",
+"tier": "business"
+},
+{
+"title": "Equilibrium Portfolio Selection Under Beliefs-Dependent Utilities",
+"authors": [
+"Xiaochen Chen",
+"Guohui Guan",
+"Zongxia Liang"
+],
+"year": 2026,
+"venue": "Mathematics of Operations Research",
+"status": "published",
+"doi": "10.1287/moor.2024.0772",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/ggh/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Risk_Management_and_Actuarial_Science/ab683eef173c42aaab3e858de470a384.htm",
+"https://api.crossref.org/works/10.1287/moor.2024.0772"
+],
+"author_index": 1,
+"volume": "51",
+"issue": "3",
+"pages": "2393-2417",
+"publication_type": "journal-article",
+"tier": "business"
+}
+]
+},
+"pid:ji-yikuan--ruc": {
+"name": "Ji Yikuan",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/J/apyjyk/index.htm",
+"papers": []
+},
+"pid:junxin-feng--ruc": {
+"name": "Junxin Feng",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/366bbb8d6b5448eda1b3c3aca978b88f.htm",
+"papers": [
+{
+"title": "Institutional Entrepreneurs",
+"authors": [
+"David Daokui Li",
+"Junxin Feng",
+"Hongping Jiang"
+],
+"year": 2006,
+"venue": "AEA Papers and Proceedings",
+"status": "published",
+"doi": "10.1257/000282806777211775",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/366bbb8d6b5448eda1b3c3aca978b88f.htm",
+"https://api.crossref.org/works/10.1257/000282806777211775",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "96(2)",
+"issue": "2",
+"pages": "358-362",
+"tier": "econ_field"
+}
+]
+},
+"pid:feng-wen--ruc": {
+"name": "FENG Wen",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/fw/e3480268b17247be82c9090a65e30b33.htm",
+"papers": [
+{
+"title": "Does new venture team power hierarchy enhance or impair new venture performance? A contingency perspective",
+"authors": [
+"Xiao-Yun Xie",
+"Wen Feng",
+"Qiongjing Hu"
+],
+"year": 2020,
+"venue": "Journal of Business Venturing",
+"status": "published",
+"doi": "10.1016/j.jbusvent.2020.106059",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/fw/e3480268b17247be82c9090a65e30b33.htm",
+"https://api.crossref.org/works/10.1016/j.jbusvent.2020.106059",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-venturing.jsonl.gz"
+],
+"author_index": 1,
+"volume": "35",
+"issue": "6",
+"pages": "106059",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_rucfin317_fb49b258a8cf50bc--ruc": {
+"name": "刘佳承",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/ljc/index.htm",
+"papers": []
+},
+"pid:shouying-liu--ruc": {
+"name": "Shouying Liu",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/0de4162557e949b3b0de1c7f01b9e1bb.htm",
+"papers": [
+{
+"title": "Land titling, human capital misallocation, and agricultural productivity in China",
+"authors": [
+"Shouying Liu",
+"Sen Ma",
+"Lijuan Yin",
+"Jiong Zhu"
+],
+"year": 2023,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2023.103165",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/0de4162557e949b3b0de1c7f01b9e1bb.htm",
+"https://econ.ruc.edu.cn/yxzt/yljjyj_yx/87a091567cc048a9b2148d6371853e89.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2023.103165",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "165",
+"pages": "103165",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_rucfin317_a17ef0f4acec7ff0--ruc": {
+"name": "刘振亚",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/lzy/index.htm",
+"papers": []
+},
+"pid:chenran-liu--ruc": {
+"name": "Chenran Liu",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/1bff13ed36744f2caaf9608de01ba42d.htm",
+"papers": [
+{
+"title": "Suing the government under weak rule of law: Evidence from administrative litigation reform in China",
+"authors": [
+"Guangyu Cao",
+"Chenran Liu",
+"Li-An Zhou"
+],
+"year": 2023,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2023.104895",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/1bff13ed36744f2caaf9608de01ba42d.htm",
+"https://api.crossref.org/works/10.1016/j.jpubeco.2023.104895",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "222",
+"pages": "104895",
+"tier": "econ_field"
+}
+]
+},
+"pid:liu-songbo--ruc": {
+"name": "LIU Songbo",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lsb/bf0debdb9afc4dabaa548e6cd94a3199.htm",
+"papers": [
+{
+"title": "Leader humility and team creativity: The role of team information sharing, psychological safety, and power distance.",
+"authors": [
+"Jia Hu",
+"Berrin Erdogan",
+"Kaifeng Jiang",
+"Talya N. Bauer",
+"Songbo Liu"
+],
+"year": 2018,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000277",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lsb/bf0debdb9afc4dabaa548e6cd94a3199.htm",
+"http://slhr.ruc.edu.cn/yclm/zycg/cg_2018/index.htm",
+"https://api.crossref.org/works/10.1037/apl0000277",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-applied-psychology.jsonl.gz"
+],
+"author_index": 4,
+"volume": "103",
+"issue": "3",
+"pages": "313-323",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_rucfin317_5f379278c22caf51--ruc": {
+"name": "刘泽豪",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/lzh/index.htm",
+"papers": [
+{
+"title": "A fiscal theory of money and bank liquidity provision",
+"authors": [
+"Ping He",
+"Zehao Liu",
+"Chengbo Xie"
+],
+"year": 2023,
+"venue": "Journal of Economic Theory",
+"status": "published",
+"doi": "10.1016/j.jet.2023.105744",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sf.ruc.edu.cn/jszy/lzh/index.htm",
+"https://api.crossref.org/works/10.1016/j.jet.2023.105744",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://sites.google.com/view/zehaoliu/research"
+],
+"author_index": 1,
+"volume": "214",
+"pages": "105744",
+"tier": "econ_field"
+}
+]
+},
+"pid:chang-liu--ruc": {
+"name": "Chang Liu",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/fjs/777df505587649ed8f6c6408bb76c937.htm",
+"papers": []
+},
+"pid:liu-xiangbo--ruc": {
+"name": "LIU Xiangbo",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/lxb/b505d701d02c42d49fe6558085010635.htm",
+"papers": []
+},
+"pid:peng-liu--ruc": {
+"name": "Peng Liu",
+"verified_only": true,
+"source_url": "http://en.spap.ruc.edu.cn/staff/faculty1/aa012961cb6e40978be77bfad4911614.htm",
+"papers": []
+},
+"pid:jian-shi--ruc": {
+"name": "Jian Shi",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/sj/773aa8c210e1428488bb7c079629b2ea.htm",
+"papers": [
+{
+"title": "Are Bad Leaders Indeed Bad for Employees? A Meta-Analysis of Longitudinal Studies Between Destructive Leadership and Employee Outcomes",
+"authors": [
+"Peikai Li",
+"Kui Yin",
+"Jian Shi",
+"Tom G. E. Damen",
+"Toon W. Taris"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-023-05449-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/sj/773aa8c210e1428488bb7c079629b2ea.htm",
+"https://api.crossref.org/works/10.1007/s10551-023-05449-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-ethics.jsonl.gz"
+],
+"author_index": 2,
+"volume": "191",
+"issue": "2",
+"pages": "399-413",
+"tier": "business"
+}
+]
+},
+"pid:lu-yuan--ruc": {
+"name": "Lu Yuan",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/L/lyapy/index.htm",
+"papers": []
+},
+"pid:xiaoling-lu--ruc": {
+"name": "Xiaoling Lu",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/lxl/index.html",
+"papers": [
+{
+"title": "Graphical Assistant Grouped Network Autoregression Model: A Bayesian Nonparametric Recourse",
+"authors": [
+"Yimeng Ren",
+"Xuening Zhu",
+"Xiaoling Lu",
+"Guanyu Hu"
+],
+"year": 2024,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2022.2143784",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/lxl/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Data_Science_and_Big_Data_Analytics/7fcaf60c06b14931a9e943a2a1622814.htm",
+"https://api.crossref.org/works/10.1080/07350015.2022.2143784",
+"https://doi.org/10.1080/07350015.2022.2143784"
+],
+"author_index": 2,
+"volume": "42",
+"issue": "1",
+"pages": "49-63",
+"tier": "econ_field"
+}
+]
+},
+"pid:jian-wu--ruc": {
+"name": "Jian Wu",
+"verified_only": true,
+"source_url": "https://see.ruc.edu.cn/jszy/wj/index.htm",
+"papers": [
+{
+"title": "Reindeer Ewenki's fading culture",
+"authors": [
+"Jing Wang",
+"Junping Sun",
+"Achyut Aryal",
+"David Raubenheimer",
+"Deguang Liu",
+"Yan Sheng",
+"Dunhu Chang",
+"Lei Shi",
+"Jian Wu",
+"Zhong Ma",
+"Hongchen Wang",
+"Xiuxiang Meng"
+],
+"year": 2015,
+"venue": "Science",
+"status": "published",
+"doi": "10.1126/science.347.6225.957-a",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://see.ruc.edu.cn/jszy/wj/index.htm",
+"https://pubmed.ncbi.nlm.nih.gov/25722402/"
+],
+"author_index": 8,
+"volume": "347",
+"issue": "6225",
+"pages": "957",
+"publication_type": "Letter",
+"tier": "science"
+}
+]
+},
+"pid:ben-wu--ruc": {
+"name": "Ben Wu",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/wb1/index.html",
+"papers": [
+{
+"title": "Network-Assisted High-Dimensional Factor Model Estimation",
+"authors": [
+"Wanwan Liang",
+"Xinyan Fan",
+"Ben Wu",
+"Bo Zhang"
+],
+"year": 2026,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2025.2548851",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/wb1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/a5774947aa41428b91c8bf771fa7815c.htm",
+"https://api.crossref.org/works/10.1080/07350015.2025.2548851",
+"https://doi.org/10.1080/07350015.2025.2548851"
+],
+"author_index": 2,
+"volume": "44",
+"issue": "2",
+"pages": "665-676",
+"tier": "econ_field"
+}
+]
+},
+"pid:feng-zhou--ruc": {
+"name": "Feng Zhou",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/zf1/index.html",
+"papers": []
+},
+"pid:ming-zhou--ruc": {
+"name": "Ming Zhou",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/zm/index.html",
+"papers": []
+},
+"pid:jing-zhou--ruc": {
+"name": "Jing Zhou",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/zj1/index.html",
+"papers": [
+{
+"title": "Estimating Spatial Autocorrelation With Sampled Network Data",
+"authors": [
+"Jing Zhou",
+"Yundong Tu",
+"Yuxin Chen",
+"Hansheng Wang"
+],
+"year": 2017,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2015.1061437",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/zj1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Economic_and_Social_Statistics/27212ec50fd64cac9decab05e7e6e6e3.htm",
+"https://api.crossref.org/works/10.1080/07350015.2015.1061437"
+],
+"author_index": 0,
+"volume": "35",
+"issue": "1",
+"pages": "130-138",
+"publication_type": "journal-article",
+"tier": "econ_field"
+},
+{
+"title": "Autoregressive Model With Spatial Dependence and Missing Data",
+"authors": [
+"Jing Zhou",
+"Jin Liu",
+"Feifei Wang",
+"Hansheng Wang"
+],
+"year": 2022,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2020.1766471",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/zj1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Economic_and_Social_Statistics/27212ec50fd64cac9decab05e7e6e6e3.htm",
+"https://api.crossref.org/works/10.1080/07350015.2020.1766471"
+],
+"author_index": 0,
+"volume": "40",
+"issue": "1",
+"pages": "28-34",
+"publication_type": "journal-article",
+"tier": "econ_field"
+}
+]
+},
+"pid:fuxiu-jiang--ruc": {
+"name": "Fuxiu Jiang",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/jfx/",
+"papers": [
+{
+"title": "Corporate Governance in China: A Survey",
+"authors": [
+"Fuxiu Jiang",
+"Kenneth A Kim"
+],
+"year": 2020,
+"venue": "Review of Finance",
+"status": "published",
+"doi": "10.1093/rof/rfaa012",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/jfx/",
+"https://api.crossref.org/works/10.1093/rof/rfaa012",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "24(4)",
+"issue": "4",
+"pages": "733-772",
+"tier": "business"
+}
+]
+},
+"pid:shengmin-sun--ruc": {
+"name": "Shengmin Sun",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/38e856abc20543fe9cf22f0699aaf73a.htm",
+"papers": [
+{
+"title": "Economic shocks and the selection of bureaucrats in a meritocracy: evidence from a trade regulation in China",
+"authors": [
+"Yang Cai",
+"Shengmin Sun"
+],
+"year": 2026,
+"venue": "Journal of Law, Economics, and Organization",
+"status": "published",
+"doi": "10.1093/jleo/ewag016",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/38e856abc20543fe9cf22f0699aaf73a.htm",
+"https://api.crossref.org/works/10.1093/jleo/ewag016",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "online first",
+"tier": "econ_field"
+}
+]
+},
+"pid:wenkai-sun--ruc": {
+"name": "Wenkai Sun",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/798ed70f7bba4501ae4d099c7bbc2de0.htm",
+"papers": [
+{
+"title": "Health Consequences of Rural‐to‐Urban Migration: Evidence from Panel Data in China",
+"authors": [
+"Yang Song",
+"Wenkai Sun"
+],
+"year": 2016,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.3212",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/798ed70f7bba4501ae4d099c7bbc2de0.htm",
+"https://econ.ruc.edu.cn/szdw/jsml/ajyspx/jjxxfjjxjys/swk/index.htm",
+"https://api.crossref.org/works/10.1002/hec.3212",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "25",
+"issue": "10",
+"pages": "1252-1267",
+"tier": "econ_field"
+}
+]
+},
+"pid:sun-jintao--ruc": {
+"name": "Sun Jintao",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/S/sjt/index.htm",
+"papers": []
+},
+"pid:tao-sun--ruc": {
+"name": "Tao Sun",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/st1/index.html",
+"papers": []
+},
+"pid:sun-pin--ruc": {
+"name": "Sun Pin",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/S/pysp/index.htm",
+"papers": []
+},
+"pid:cn-p_0a897ad770620a77a7bd--ruc": {
+"name": "宋华",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/sh/",
+"papers": []
+},
+"pid:chang-song--ruc": {
+"name": "Chang Song",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/sc/index.htm",
+"papers": []
+},
+"pid:jianxin-yin--ruc": {
+"name": "Jianxin Yin",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/yjx1/index.html",
+"papers": []
+},
+"pid:tianqi-gan--ruc": {
+"name": "Tianqi Gan",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/0e3e2b5311a54356a69fe1890452192f.htm",
+"papers": []
+},
+"pid:jun-pang--ruc": {
+"name": "Jun Pang",
+"verified_only": true,
+"source_url": "https://see.ruc.edu.cn/jszy/pj/index.htm",
+"papers": [
+{
+"title": "Does freight structure transformation improve air quality?–Evidence from China's “shifting freight from truck to rail” policy",
+"authors": [
+"Yuchao Liang",
+"Guohua Zheng",
+"Jinuo Wang",
+"Jun Pang"
+],
+"year": 2025,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2025.103179",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://see.ruc.edu.cn/jszy/pj/index.htm",
+"https://www.sciencedirect.com/science/article/pii/S0095069625000634"
+],
+"author_index": 3,
+"volume": "132",
+"pages": "103179",
+"publication_type": "journal article",
+"tier": "econ_field"
+}
+]
+},
+"pid:jun-liao--ruc": {
+"name": "Jun Liao",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/lj1/index.html",
+"papers": [
+{
+"title": "Model averaging based on leave-subject-out cross-validation for vector autoregressions",
+"authors": [
+"Jun Liao",
+"Xianpeng Zong",
+"Xinyu Zhang",
+"Guohua Zou"
+],
+"year": 2019,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2018.10.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/lj1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Economic_and_Social_Statistics/adf2f387cae9420dbc6c23cf4360e5b2.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2018.10.007"
+],
+"author_index": 0,
+"volume": "209",
+"issue": "1",
+"pages": "35-60",
+"publication_type": "journal-article",
+"tier": "econ_field"
+},
+{
+"title": "Model averaging prediction for time series models with a diverging number of parameters",
+"authors": [
+"Jun Liao",
+"Guohua Zou",
+"Yan Gao",
+"Xinyu Zhang"
+],
+"year": 2021,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2020.10.004",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/lj1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Economic_and_Social_Statistics/adf2f387cae9420dbc6c23cf4360e5b2.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2020.10.004"
+],
+"author_index": 0,
+"volume": "223",
+"issue": "1",
+"pages": "190-221",
+"publication_type": "journal-article",
+"tier": "econ_field"
+}
+]
+},
+"pid:yuan-zhang--ruc": {
+"name": "Yuan Zhang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/zy/index.html",
+"papers": []
+},
+"pid:min-zhang--ruc": {
+"name": "Min Zhang",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zm/",
+"papers": [
+{
+"title": "Auditor-provided nonpublic signals of misreporting and CFO dismissal",
+"authors": [
+"Phillip T. Lamoreaux",
+"Summer Zhujun Liu",
+"Nathan J. Newton",
+"Min Zhang"
+],
+"year": 2026,
+"venue": "Review of Accounting Studies",
+"status": "published",
+"doi": "10.1007/s11142-025-09915-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zm/",
+"https://api.crossref.org/works/10.1007/s11142-025-09915-2",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://onlinelibrary.wiley.com/doi/10.1111/auar.12400"
+],
+"author_index": 3,
+"volume": "31(1)",
+"issue": "1",
+"pages": "489-525",
+"tier": "business"
+}
+]
+},
+"pid:jingfeng-zhang--ruc": {
+"name": "Jingfeng Zhang",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/acb9ee283f654ea4a4547db80eb1c1ca.htm",
+"papers": []
+},
+"pid:shihui-zhang--ruc": {
+"name": "Shihui Zhang",
+"verified_only": true,
+"source_url": "https://see.ruc.edu.cn/jszy/zsh/index.htm",
+"papers": [
+{
+"title": "Focus on health for global adaptation to climate change",
+"authors": [
+"Shihui Zhang",
+"Wenjia Cai",
+"Chi Zhang",
+"Margaret Chan Fung Fu-Chun",
+"Peng Gong"
+],
+"year": 2023,
+"venue": "Nature",
+"status": "published",
+"doi": "10.1038/d41586-023-01913-1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://see.ruc.edu.cn/jszy/zsh/index.htm",
+"https://www.nature.com/articles/d41586-023-01913-1"
+],
+"author_index": 0,
+"volume": "618",
+"issue": "7965",
+"pages": "457",
+"publication_type": "Correspondence",
+"tier": "science"
+}
+]
+},
+"pid:peng-guanghua--ruc": {
+"name": "PENG Guanghua",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/pgh/5b5d6aaf102649b29f1dfda56ff682de.htm",
+"papers": []
+},
+"pid:xu-shiyong--ruc": {
+"name": "XU Shiyong",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/xsy/723cb3d96c4048eb961fd7bdc56e8a03.htm",
+"papers": [
+{
+"title": "How Multi-Source Gossip Affects Targets’ Emotions and Strategic Behavioral Responses",
+"authors": [
+"Boqiang Zong",
+"Elena Martinescu",
+"Bianca Beersma",
+"Shiyong Xu",
+"Lihua Zhang"
+],
+"year": 2024,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-022-05322-8",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/xsy/723cb3d96c4048eb961fd7bdc56e8a03.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/XU_Shiyong/a1e4bff7bf564bd4910fa39d17dc4df7.htm",
+"https://api.crossref.org/works/10.1007/s10551-022-05322-8",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-business-ethics.jsonl.gz"
+],
+"author_index": 3,
+"volume": "189",
+"issue": "2",
+"pages": "385-402",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_24556288e8041f9ae58b--ruc": {
+"name": "戴德明",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/ddm/",
+"papers": []
+},
+"pid:cn-p_rucfin317_438531e62bcfe5b7--ruc": {
+"name": "戴稳胜",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/dws/index.htm",
+"papers": []
+},
+"pid:cao-jia--ruc": {
+"name": "Cao Jia",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/C/apycj/index.htm",
+"papers": []
+},
+"pid:wei-li--ruc": {
+"name": "Wei Li",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/lw/index.html",
+"papers": [
+{
+"title": "On rank estimators in increasing dimensions",
+"authors": [
+"Yanqin Fan",
+"Fang Han",
+"Wei Li",
+"Xiao-Hua Zhou"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2019.08.003",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/lw/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Biostatistics_and_Epidemiology/4c444083c91d4407ac34677e9469196a.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2019.08.003",
+"https://doi.org/10.1016/j.jeconom.2019.08.003"
+],
+"author_index": 2,
+"volume": "214",
+"issue": "2",
+"pages": "379-412",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_8c9a7bd24baab51b36dd--ruc": {
+"name": "李勇",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/c7b024fed4554b9e932ffc0a88cf8f43.htm",
+"papers": []
+},
+"pid:jiasheng-li--ruc": {
+"name": "Jiasheng Li",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/lj/index.htm",
+"papers": [
+{
+"title": "Do Engine-Specific Tax Programs Work? A Structural Analysis of Market Spillovers and Welfare Implications",
+"authors": [
+"Jiasheng Li",
+"Pei Li",
+"Yi Lu"
+],
+"year": 2026,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.70021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sf.ruc.edu.cn/jszy/lj/index.htm",
+"https://jiashengli.weebly.com/research.html",
+"https://onlinelibrary.wiley.com/doi/10.1111/iere.70021",
+"https://api.crossref.org/works/10.1111/iere.70021",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "67",
+"issue": "1",
+"pages": "287-312",
+"tier": "econ_field"
+}
+]
+},
+"pid:rong-li-456a7d83df--ruc": {
+"name": "Rong Li",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/lr/index.html",
+"papers": []
+},
+"pid:yang-li--ruc": {
+"name": "Yang Li",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/ly/index.html",
+"papers": [
+{
+"title": "Design Strategies for Networked Experiments via Interference Balancing",
+"authors": [
+"Haoyu Yang",
+"Yichen Qin",
+"Yan Yu",
+"Yang Li"
+],
+"year": 2026,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2026.2658067",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/ly/index.html",
+"https://api.crossref.org/works/10.1080/07350015.2026.2658067",
+"https://doi.org/10.1080/07350015.2026.2658067"
+],
+"author_index": 3,
+"pages": "1-14",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_ce43d8c7f3c0872e8120--ruc": {
+"name": "李晓光",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/lxg/",
+"papers": []
+},
+"pid:cn-p_dfa4180902864f4ba04e--ruc": {
+"name": "李晨煦",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/lcx/",
+"papers": []
+},
+"pid:li-yuhui--ruc": {
+"name": "LI Yuhui",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lyh/2080ce86e8444d84aaf9b527489956bc.htm",
+"papers": [
+{
+"title": "Social Exchange Implications of Own and CoWorkers' Experiences of Supervisory Abuse",
+"authors": [
+"Ann C. Peng",
+"John M. Schaubroeck",
+"Yuhui Li"
+],
+"year": 2014,
+"venue": "Academy of Management Journal",
+"status": "published",
+"doi": "10.5465/amj.2012.0080",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lyh/2080ce86e8444d84aaf9b527489956bc.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/LI_Yuhui/529c84cde16a4207a433a5cb3922f7bb.htm",
+"https://api.crossref.org/works/10.5465/amj.2012.0080",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/academy-of-management-journal.jsonl.gz"
+],
+"author_index": 2,
+"volume": "57",
+"issue": "5",
+"pages": "1385-1405",
+"tier": "business"
+},
+{
+"title": "Employee conscientiousness, agreeableness, and supervisor justice rule compliance: A three-study investigation.",
+"authors": [
+"Jason L. Huang",
+"Russell Cropanzano",
+"Andrew Li",
+"Ping Shao",
+"Xin-an Zhang",
+"Yuhui Li"
+],
+"year": 2017,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000248",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lyh/2080ce86e8444d84aaf9b527489956bc.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/LI_Yuhui/529c84cde16a4207a433a5cb3922f7bb.htm",
+"https://api.crossref.org/works/10.1037/apl0000248",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-applied-psychology.jsonl.gz"
+],
+"author_index": 5,
+"volume": "102",
+"issue": "11",
+"pages": "1564-1589",
+"tier": "business"
+},
+{
+"title": "Unintended consequences of being proactive? Linking proactive personality to coworker envy, helping, and undermining, and the moderating role of prosocial motivation.",
+"authors": [
+"Jiaqing Sun",
+"Wen-Dong Li",
+"Yuhui Li",
+"Robert C. Liden",
+"Shuping Li",
+"Xin Zhang"
+],
+"year": 2021,
+"venue": "Journal of Applied Psychology",
+"status": "published",
+"doi": "10.1037/apl0000494",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lyh/2080ce86e8444d84aaf9b527489956bc.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/LI_Yuhui/529c84cde16a4207a433a5cb3922f7bb.htm",
+"https://api.crossref.org/works/10.1037/apl0000494",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-applied-psychology.jsonl.gz"
+],
+"author_index": 2,
+"volume": "106",
+"issue": "2",
+"pages": "250-267",
+"tier": "business"
+},
+{
+"title": "Discrete emotions linking abusive supervision to employee intention and behavior",
+"authors": [
+"Ann Chunyan Peng",
+"John M. Schaubroeck",
+"Sinhui Chong",
+"Yuhui Li"
+],
+"year": 2019,
+"venue": "Personnel Psychology",
+"status": "published",
+"doi": "10.1111/peps.12310",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/lyh/2080ce86e8444d84aaf9b527489956bc.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/LI_Yuhui/529c84cde16a4207a433a5cb3922f7bb.htm",
+"https://api.crossref.org/works/10.1111/peps.12310",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/personnel-psychology.jsonl.gz"
+],
+"author_index": 3,
+"volume": "72",
+"issue": "3",
+"pages": "393-419",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_43db1168c74713c0c7d0--ruc": {
+"name": "李莹",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/shbz/ly/339abf6407cd497388a2fa9b60764925.htm",
+"papers": []
+},
+"pid:cn-p_01c3dd8230fbdf4e00c7--ruc": {
+"name": "李谭卉一",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/lthy/index.htm",
+"papers": []
+},
+"pid:cn-p_rucfin317_bb6f60bc02e629af--ruc": {
+"name": "杜君",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/dj/index.htm",
+"papers": []
+},
+"pid:cn-p_a9d28238d5778897dfd3--ruc": {
+"name": "杨成",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/201d912604c14324b70fdc87d396ead5.htm",
+"papers": []
+},
+"pid:hanfang-yang--ruc": {
+"name": "Hanfang Yang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/yhf1/index.html",
+"papers": []
+},
+"pid:lin-lin--ruc": {
+"name": "Lin Lin",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/ll/0609b9f77c1a448b9d1bcb947f24cdb7.htm",
+"papers": [
+{
+"title": "The cross-spousal effect of education on health",
+"authors": [
+"Rufei Guo",
+"Lin Lin",
+"Junjian Yi",
+"Junsen Zhang"
+],
+"year": 2020,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2020.102493",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/ll/0609b9f77c1a448b9d1bcb947f24cdb7.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2020.102493",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-development-economics.jsonl.gz"
+],
+"author_index": 1,
+"volume": "146",
+"pages": "102493",
+"tier": "econ_field"
+}
+]
+},
+"pid:li-yaxin--ruc": {
+"name": "Li Yaxin",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/L/pylyx/index.htm",
+"papers": []
+},
+"pid:hao-mei--ruc": {
+"name": "Hao Mei",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/mh1/index.html",
+"papers": []
+},
+"pid:wang-sangui--ruc": {
+"name": "Wang Sangui",
+"verified_only": true,
+"source_url": "http://sard.ruc.edu.cn/szll/zzjs/qzjs/df92a41f63264bb9947176f55f3e6ec5.htm",
+"papers": [
+{
+"title": "Regional poverty targeting in China",
+"authors": [
+"Albert Park",
+"Sangui Wang",
+"Guobao Wu"
+],
+"year": 2002,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/s0047-2727(01)00108-6",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sard.ruc.edu.cn/szll/zzjs/qzjs/df92a41f63264bb9947176f55f3e6ec5.htm",
+"https://www.albertfpark.com/publications.html",
+"https://researchportal.hkust.edu.hk/en/publications/regional-poverty-targeting-in-china/",
+"https://api.crossref.org/works/10.1016/S0047-2727(01)00108-6"
+],
+"author_index": 1,
+"volume": "86",
+"issue": "1",
+"pages": "123-153",
+"tier": "econ_field"
+},
+{
+"title": "Community-based development and poverty alleviation: An evaluation of China's poor village investment program",
+"authors": [
+"Albert Park",
+"Sangui Wang"
+],
+"year": 2010,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2010.06.005",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sard.ruc.edu.cn/szll/zzjs/qzjs/df92a41f63264bb9947176f55f3e6ec5.htm",
+"https://www.albertfpark.com/publications.html",
+"https://researchportal.hkust.edu.hk/en/publications/community-based-development-and-poverty-alleviation-an-evaluation/",
+"https://api.crossref.org/works/10.1016/j.jpubeco.2010.06.005"
+],
+"author_index": 1,
+"volume": "94",
+"issue": "9-10",
+"pages": "790-799",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_cabd187428e4fc431081--ruc": {
+"name": "汪紫珈",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/b722af998df74aa1aa0878cc7e15407c.htm",
+"papers": []
+},
+"pid:kexin-wang--ruc": {
+"name": "Kexin Wang",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/wkx/index.htm",
+"papers": [
+{
+"title": "Invest Local or Remote? The Effects of COVID-19 Lockdowns on Venture Capital Investment Around the World",
+"authors": [
+"Pengfei Han",
+"Chunrui Liu",
+"Xuan Tian",
+"Kexin Wang"
+],
+"year": 2026,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2024.04374",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sf.ruc.edu.cn/jszy/wkx/index.htm",
+"https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.04374",
+"https://api.crossref.org/works/10.1287/mnsc.2024.04374",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 3,
+"volume": "72",
+"issue": "4",
+"pages": "3351-3370",
+"tier": "business"
+}
+]
+},
+"pid:chunyan-wang--ruc": {
+"name": "Chunyan Wang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/wcy1/index.html",
+"papers": []
+},
+"pid:jingye-wang--ruc": {
+"name": "Jingye Wang",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/wjy/index.htm",
+"papers": []
+},
+"pid:xinyue-wang--ruc": {
+"name": "Xinyue Wang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/wxy1/index.html",
+"papers": []
+},
+"pid:wu-wang--ruc": {
+"name": "Wu Wang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/ww1/index.html",
+"papers": [
+{
+"title": "Homogeneity and Sparsity Analysis for High-Dimensional Panel Data Models",
+"authors": [
+"Wu Wang",
+"Zhongyi Zhu"
+],
+"year": 2024,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2022.2140667",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/ww1/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/ff245862fb6c4d2aafeab115b66c939f.htm",
+"https://api.crossref.org/works/10.1080/07350015.2022.2140667",
+"https://doi.org/10.1080/07350015.2022.2140667"
+],
+"author_index": 0,
+"volume": "42",
+"issue": "1",
+"pages": "26-35",
+"tier": "econ_field"
+}
+]
+},
+"pid:chang-wang--ruc": {
+"name": "Chang Wang",
+"verified_only": true,
+"source_url": "https://see.ruc.edu.cn/jszy/wc/index.htm",
+"papers": []
+},
+"pid:xiangrui-wang--ruc": {
+"name": "Xiangrui Wang",
+"verified_only": true,
+"source_url": "http://sard.ruc.edu.cn/szll/zzjs/fjs/7855c7e56bf14fd3a3ce833d34e4dfbd.htm",
+"papers": []
+},
+"pid:feifei-wang--ruc": {
+"name": "Feifei Wang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/wff/index.html",
+"papers": [
+{
+"title": "Two-mode network autoregressive model for large-scale networks",
+"authors": [
+"Danyang Huang",
+"Feifei Wang",
+"Xuening Zhu",
+"Hansheng Wang"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2020.01.014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/wff/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Data_Science_and_Big_Data_Analytics/63e329ab1daa48398d2266c65b88c0fc.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2020.01.014",
+"https://doi.org/10.1016/j.jeconom.2020.01.014"
+],
+"author_index": 1,
+"volume": "216",
+"issue": "1",
+"pages": "203-219",
+"tier": "econ_field"
+},
+{
+"title": "Sequential Text-Term Selection in Vector Space Models",
+"authors": [
+"Feifei Wang",
+"Jingyuan Liu",
+"Hansheng Wang"
+],
+"year": 2021,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2019.1634079",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/wff/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Data_Science_and_Big_Data_Analytics/63e329ab1daa48398d2266c65b88c0fc.htm",
+"https://api.crossref.org/works/10.1080/07350015.2019.1634079",
+"https://doi.org/10.1080/07350015.2019.1634079"
+],
+"author_index": 0,
+"volume": "39",
+"issue": "1",
+"pages": "82-97",
+"tier": "econ_field"
+}
+]
+},
+"pid:wang-xuening--ruc": {
+"name": "WANG Xuening",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/wxn/fe77780a83444f1081fab419618f3325.htm",
+"papers": [
+{
+"title": "US Permanent Residency, Job Mobility, and Earnings",
+"authors": [
+"Xuening Wang"
+],
+"year": 2021,
+"venue": "Journal of Labor Economics",
+"status": "published",
+"doi": "10.1086/709689",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/wxn/fe77780a83444f1081fab419618f3325.htm",
+"https://api.crossref.org/works/10.1086/709689",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-labor-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "39",
+"issue": "3",
+"pages": "639-671",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_b3f63366ea5bade51ba6--ruc": {
+"name": "王霞",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/c2d1516949be47c0b0c4955aa52a4432.htm",
+"papers": []
+},
+"pid:maozai-tian--ruc": {
+"name": "Maozai Tian",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/tmz/index.html",
+"papers": []
+},
+"pid:yanbing-bai--ruc": {
+"name": "Yanbing Bai",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/byb1/index.html",
+"papers": []
+},
+"pid:cn-p_578abd92aed946d88112--ruc": {
+"name": "祝金龙",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zjl/",
+"papers": []
+},
+"pid:kai-zhang--ruc": {
+"name": "Kai Zhang",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zk/",
+"papers": [
+{
+"title": "Expressing religious identities in the workplace: Analyzing a neglected diversity dimension",
+"authors": [
+"Diether Gebert",
+"Sabine Boerner",
+"Eric Kearney",
+"James E King",
+"Kai Zhang",
+"Lynda Jiwen Song"
+],
+"year": 2014,
+"venue": "Human Relations",
+"status": "published",
+"doi": "10.1177/0018726713496830",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zk/",
+"https://api.crossref.org/works/10.1177/0018726713496830",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 4,
+"volume": "67(5)",
+"issue": "5",
+"pages": "543-563",
+"tier": "business"
+}
+]
+},
+"pid:runzhuo-zhai--ruc": {
+"name": "Runzhuo Zhai",
+"verified_only": true,
+"source_url": "http://sard.ruc.edu.cn/szll/zzjs/fjs/fdc45b72940244f98e614130c5c12733.htm",
+"papers": []
+},
+"pid:cn-p_rucfin317_42d0f47c08d0cbc5--ruc": {
+"name": "翟福昕",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/dfx/index.htm",
+"papers": []
+},
+"pid:cn-p_rucfin317_762613bf25fb36cd--ruc": {
+"name": "胡晴",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/hq_hq/index.htm",
+"papers": []
+},
+"pid:su-zhongxing--ruc": {
+"name": "SU Zhongxing",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/szx/55b45a170b5743c68673733c42232364.htm",
+"papers": [
+{
+"title": "The “HR–line‐connecting HRM system” and its effects on employee turnover",
+"authors": [
+"Sunghoon Kim",
+"Zhong‐Xing Su",
+"Patrick M. Wright"
+],
+"year": 2018,
+"venue": "Human Resource Management",
+"status": "published",
+"doi": "10.1002/hrm.21905",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/szx/55b45a170b5743c68673733c42232364.htm",
+"https://api.crossref.org/works/10.1002/hrm.21905",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/human-resource-management.jsonl.gz"
+],
+"author_index": 1,
+"volume": "57",
+"issue": "5",
+"pages": "1219-1231",
+"tier": "business"
+},
+{
+"title": "Going Beyond the SHRM Paradigm: Examining Four Approaches to Governing Employees",
+"authors": [
+"Zhong-Xing Su",
+"Patrick M. Wright",
+"Michael D. Ulrich"
+],
+"year": 2018,
+"venue": "Journal of Management",
+"status": "published",
+"doi": "10.1177/0149206315618011",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/rlzygl/szx/55b45a170b5743c68673733c42232364.htm",
+"https://api.crossref.org/works/10.1177/0149206315618011",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-management.jsonl.gz"
+],
+"author_index": 0,
+"volume": "44",
+"issue": "4",
+"pages": "1598-1619",
+"tier": "business"
+}
+]
+},
+"pid:xinyan-fan--ruc": {
+"name": "Xinyan Fan",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/fxy/index.html",
+"papers": [
+{
+"title": "Bipartite network influence analysis of a two-mode network",
+"authors": [
+"Yujia Wu",
+"Wei Lan",
+"Xinyan Fan",
+"Kuangnan Fang"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2023.105562",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/fxy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/93139a469f5248038ef85a9d5168774f.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2023.105562",
+"https://doi.org/10.1016/j.jeconom.2023.105562"
+],
+"author_index": 2,
+"volume": "239",
+"issue": "2",
+"pages": "105562",
+"tier": "econ_field"
+},
+{
+"title": "Covariance Model with General Linear Structure and Divergent Parameters",
+"authors": [
+"Xinyan Fan",
+"Wei Lan",
+"Tao Zou",
+"Chih-Ling Tsai"
+],
+"year": 2024,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2022.2142593",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/fxy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/93139a469f5248038ef85a9d5168774f.htm",
+"https://api.crossref.org/works/10.1080/07350015.2022.2142593",
+"https://doi.org/10.1080/07350015.2022.2142593"
+],
+"author_index": 0,
+"volume": "42",
+"issue": "1",
+"pages": "36-48",
+"tier": "econ_field"
+}
+]
+},
+"pid:lei-ge--ruc": {
+"name": "Lei Ge",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/fea3723225674f648224755a1b247658.htm",
+"papers": []
+},
+"pid:dong-xiaoqi--ruc": {
+"name": "Dong Xiaoqi",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/D/pydxq/index.htm",
+"papers": []
+},
+"pid:yating-jiang--ruc": {
+"name": "Yating Jiang",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/9624dca0a8b84721b80d6f9a5505fb48.htm",
+"papers": []
+},
+"pid:hong-lan--ruc": {
+"name": "Hong Lan",
+"verified_only": true,
+"source_url": "https://see.ruc.edu.cn/jszy/lh/index.htm",
+"papers": []
+},
+"pid:zhibo-cai--ruc": {
+"name": "Zhibo Cai",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/czb1/index.html",
+"papers": []
+},
+"pid:pei-jiansuo--ruc": {
+"name": "Pei Jiansuo",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/P/pjs11/index.htm",
+"papers": []
+},
+"pid:cn-p_064c16fc665cd14a3bfd--ruc": {
+"name": "许开全",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/xkq/",
+"papers": []
+},
+"pid:songtao-tan--ruc": {
+"name": "Songtao Tan",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/tst/index.htm",
+"papers": [
+{
+"title": "Hometown Ties and the Quality of Government Monitoring: Evidence from Rotation of Chinese Auditors",
+"authors": [
+"Jian Chu",
+"Raymond Fisman",
+"Songtao Tan",
+"Yongxiang Wang"
+],
+"year": 2021,
+"venue": "American Economic Journal: Applied Economics",
+"status": "published",
+"doi": "10.1257/app.20190516",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sf.ruc.edu.cn/jszy/tst/index.htm",
+"https://cepr.org/about/people/songtao-tan",
+"https://api.crossref.org/works/10.1257/app.20190516",
+"https://www.aeaweb.org/articles?id=10.1257/app.20190516",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "13",
+"issue": "3",
+"pages": "176-201",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhao-liqiu--ruc": {
+"name": "ZHAO Liqiu",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"papers": [
+{
+"title": "Do only children have poor vision? Evidence from China's One‐Child Policy",
+"authors": [
+"Liqiu Zhao",
+"Minghai Zhou"
+],
+"year": 2018,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.3661",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"https://api.crossref.org/works/10.1002/hec.3661",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/health-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "27",
+"issue": "7",
+"pages": "1131-1146",
+"tier": "econ_field"
+},
+{
+"title": "Place-based affirmative action in college admission and educational attainment",
+"authors": [
+"Liqiu Zhao",
+"Yongming Luo",
+"Li Li"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2025.103624",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2025.103624",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-development-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "179",
+"pages": "103624",
+"tier": "econ_field"
+},
+{
+"title": "Public long-term care insurance and consumption of elderly households: Evidence from China",
+"authors": [
+"Hong Liu",
+"Jinqiu Ma",
+"Liqiu Zhao"
+],
+"year": 2023,
+"venue": "Journal of Health Economics",
+"status": "published",
+"doi": "10.1016/j.jhealeco.2023.102759",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"https://api.crossref.org/works/10.1016/j.jhealeco.2023.102759",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-health-economics.jsonl.gz"
+],
+"author_index": 2,
+"volume": "90",
+"pages": "102759",
+"tier": "econ_field"
+},
+{
+"title": "Disruptive Peers in the Classroom and Students’ Academic Outcomes: Evidence and Mechanisms",
+"authors": [
+"Liqiu Zhao",
+"Zhong Zhao"
+],
+"year": 2021,
+"venue": "Labour Economics",
+"status": "published",
+"doi": "10.1016/j.labeco.2020.101954",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"https://api.crossref.org/works/10.1016/j.labeco.2020.101954",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/labour-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "68",
+"pages": "101954",
+"tier": "econ_field"
+},
+{
+"title": "Everybody needs good neighbors? Labor mobility costs, cities and matching",
+"authors": [
+"Wouter Torfs",
+"Liqiu Zhao"
+],
+"year": 2015,
+"venue": "Regional Science and Urban Economics",
+"status": "published",
+"doi": "10.1016/j.regsciurbeco.2015.08.005",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zlq/fab0f8483e1843f28776b5630f19c05a.htm",
+"https://api.crossref.org/works/10.1016/j.regsciurbeco.2015.08.005",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/regional-science-and-urban-economics.jsonl.gz"
+],
+"author_index": 1,
+"volume": "55",
+"pages": "39-54",
+"tier": "econ_field"
+}
+]
+},
+"pid:zhao-zhong--ruc": {
+"name": "ZHAO Zhong",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zz/af3ba84ecb414c35b73ffc13d7a6c13f.htm",
+"papers": [
+{
+"title": "Sensitivity of propensity score methods to the specifications",
+"authors": [
+"Zhong Zhao"
+],
+"year": 2008,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2007.05.010",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zz/af3ba84ecb414c35b73ffc13d7a6c13f.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/ZHAO_Zhong/286134867ca04328b175a52bcb124aed.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2007.05.010",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economics-letters.jsonl.gz"
+],
+"author_index": 0,
+"volume": "98",
+"issue": "3",
+"pages": "309-319",
+"tier": "econ_field"
+},
+{
+"title": "The impact of training duration on employment outcomes: Evidence from LATE estimates",
+"authors": [
+"Jochen Kluve",
+"Ulf Rinne",
+"Arne Uhlendorff",
+"Zhong Zhao"
+],
+"year": 2013,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2013.06.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zz/af3ba84ecb414c35b73ffc13d7a6c13f.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/ZHAO_Zhong/286134867ca04328b175a52bcb124aed.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2013.06.002",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economics-letters.jsonl.gz"
+],
+"author_index": 3,
+"volume": "120",
+"issue": "3",
+"pages": "487-490",
+"tier": "econ_field"
+},
+{
+"title": "Social learning and health insurance enrollment: Evidence from China's New Cooperative Medical Scheme",
+"authors": [
+"Hong Liu",
+"Qi Sun",
+"Zhong Zhao"
+],
+"year": 2014,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2013.10.012",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zz/af3ba84ecb414c35b73ffc13d7a6c13f.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/ZHAO_Zhong/286134867ca04328b175a52bcb124aed.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2013.10.012",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"author_index": 2,
+"volume": "97",
+"pages": "84-102",
+"tier": "econ_field"
+},
+{
+"title": "Employment structure in China from 1990 to 2015",
+"authors": [
+"Peng Ge",
+"Wenkai Sun",
+"Zhong Zhao"
+],
+"year": 2021,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2021.02.022",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zz/af3ba84ecb414c35b73ffc13d7a6c13f.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/ZHAO_Zhong/286134867ca04328b175a52bcb124aed.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2021.02.022",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"author_index": 2,
+"volume": "185",
+"pages": "168-190",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_b3b81b340625ac1ada11--ruc": {
+"name": "赵晶",
+"verified_only": true,
+"source_url": "https://www.rmbs.ruc.edu.cn/szyky/sz/qzjs/zjzj/",
+"papers": []
+},
+"pid:cn-p_rucfin317_f3ddcf479c1b24f4--ruc": {
+"name": "邓凯骅",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/dkh/index.htm",
+"papers": []
+},
+"pid:cn-p_2f334ea8d5ed3d933973--ruc": {
+"name": "邹先强",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm",
+"papers": [
+{
+"title": "Labor market outcomes, cognitive skills, and noncognitive skills in rural China",
+"authors": [
+"Paul Glewwe",
+"Yang Song",
+"Xianqiang Zou"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2021.11.021",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2021.11.021",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"volume": "193",
+"pages": "294-311",
+"tier": "econ_field"
+},
+{
+"title": "Unintended consequences of maternity leave entitlements on female labor market outcomes in China",
+"authors": [
+"Hong Liu",
+"Jiaying Li",
+"Hong Song",
+"Xianqiang Zou"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.106782",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2024.106782",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"volume": "228",
+"pages": "106782",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-honghao--ruc": {
+"name": "Zheng Honghao",
+"verified_only": true,
+"source_url": "https://ae.ruc.edu.cn/szdw/qzjs/apypx/Z/zhhapy/index.htm",
+"papers": []
+},
+"pid:liuyi-guo--ruc": {
+"name": "Liuyi Guo",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/b5f7a1db03b24fe7b864009acd77d5e2.htm",
+"papers": []
+},
+"pid:liping-lu--ruc": {
+"name": "Liping Lu",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/llp/index.htm",
+"papers": []
+},
+"pid:weikai-chen--ruc": {
+"name": "Weikai Chen",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/e60da55df93d4915b63e29e10b3f3e1d.htm",
+"papers": []
+},
+"pid:siyu-chen--ruc": {
+"name": "Siyu Chen",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/98035ebc749244ea81414c8bfe79f99c.htm",
+"papers": []
+},
+"pid:chen-minpeng--ruc": {
+"name": "Chen Minpeng",
+"verified_only": true,
+"source_url": "http://sard.ruc.edu.cn/szll/zzjs/qzjs/5ab3449b4e764fc9a2beda18bd8b55f7.htm",
+"papers": []
+},
+"pid:cn-p_rucfin317_c4d93619abfaf0de--ruc": {
+"name": "陈昭晶",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/czj/index.htm",
+"papers": []
+},
+"pid:chen-zeyang--ruc": {
+"name": "CHEN Zeyang",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/czy/88349c23170347b899c28787f56e408a.htm",
+"papers": [
+{
+"title": "Does gift competition hurt? An experimental study of multilateral gift exchange",
+"authors": [
+"Zeyang Chen",
+"Wanchuan Lin",
+"Juanjuan Meng"
+],
+"year": 2022,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2022.07.022",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/czy/88349c23170347b899c28787f56e408a.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2022.07.022",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"author_index": 0,
+"volume": "201",
+"pages": "260-275",
+"tier": "econ_field"
+},
+{
+"title": "What’s in a Face? An Experiment on Facial Information and Loan-Approval Decision",
+"authors": [
+"Zeyang Chen",
+"Yu-Jane Liu",
+"Juanjuan Meng",
+"Zeng Wang"
+],
+"year": 2023,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2022.4436",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/czy/88349c23170347b899c28787f56e408a.htm",
+"https://api.crossref.org/works/10.1287/mnsc.2022.4436",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/management-science.jsonl.gz"
+],
+"author_index": 0,
+"volume": "69",
+"issue": "4",
+"pages": "2263-2283",
+"tier": "business"
+}
+]
+},
+"pid:lei-ziteng--ruc": {
+"name": "LEI Ziteng",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/lzt/e697f7f5e6e84b7eb204d705bc27089e.htm",
+"papers": [
+{
+"title": "Family companionship and elderly suicide: Evidence from the Chinese Lunar New Year",
+"authors": [
+"Hanming Fang",
+"Ziteng Lei",
+"Liguo Lin",
+"Peng Zhang",
+"Maigeng Zhou"
+],
+"year": 2023,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2023.103055",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/lzt/e697f7f5e6e84b7eb204d705bc27089e.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2023.103055",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-development-economics.jsonl.gz"
+],
+"author_index": 1,
+"volume": "162",
+"pages": "103055",
+"tier": "econ_field"
+},
+{
+"title": "Vulnerable Boys: Short-term and Long-term Gender Differences in the Impacts of Adolescent Disadvantage.",
+"authors": [
+"Ziteng Lei",
+"Shelly Lundberg"
+],
+"year": 2020,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2020.07.020",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/lzt/e697f7f5e6e84b7eb204d705bc27089e.htm",
+"https://api.crossref.org/works/10.1016/j.jebo.2020.07.020",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-economic-behavior-and-organization.jsonl.gz"
+],
+"author_index": 0,
+"volume": "178",
+"pages": "424-448",
+"tier": "econ_field"
+},
+{
+"title": "Chasing Clean Air: Pollution-Induced Travels in China",
+"authors": [
+"Shuai Chen",
+"Yuyu Chen",
+"Ziteng Lei",
+"Jie-Sheng Tan-Soo"
+],
+"year": 2021,
+"venue": "Journal of the Association of Environmental and Resource Economists",
+"status": "published",
+"doi": "10.1086/711476",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/lzt/e697f7f5e6e84b7eb204d705bc27089e.htm",
+"https://api.crossref.org/works/10.1086/711476",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-the-association-of-environmental-and-resource-economists.jsonl.gz"
+],
+"author_index": 2,
+"volume": "8",
+"issue": "1",
+"pages": "59-89",
+"tier": "econ_field"
+}
+]
+},
+"pid:han-jun--ruc": {
+"name": "HAN Jun",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/hj/3ef8d5aabacc46b7b03396811bac9bc6.htm",
+"papers": [
+{
+"title": "Globalization and wage inequality: Evidence from urban China",
+"authors": [
+"Jun Han",
+"Runjuan Liu",
+"Junsen Zhang"
+],
+"year": 2012,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2011.12.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/hj/3ef8d5aabacc46b7b03396811bac9bc6.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/HAN_Jun/7c832223938f4535816b8e5d13d1a05a.htm",
+"https://api.crossref.org/works/10.1016/j.jinteco.2011.12.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-international-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "87",
+"issue": "2",
+"pages": "288-297",
+"tier": "econ_field"
+},
+{
+"title": "Market structure, imperfect tariff pass-through, and household welfare in Urban China",
+"authors": [
+"Jun Han",
+"Runjuan Liu",
+"Beyza Ural Marchand",
+"Junsen Zhang"
+],
+"year": 2016,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2016.02.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/hj/3ef8d5aabacc46b7b03396811bac9bc6.htm",
+"http://slhr.ruc.edu.cn/En/Teacher_Home/HAN_Jun/7c832223938f4535816b8e5d13d1a05a.htm",
+"https://api.crossref.org/works/10.1016/j.jinteco.2016.02.006",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/journal-of-international-economics.jsonl.gz"
+],
+"author_index": 0,
+"volume": "100",
+"pages": "220-232",
+"tier": "econ_field"
+}
+]
+},
+"pid:song-han--ruc": {
+"name": "Song Han",
+"verified_only": true,
+"source_url": "https://econ.ruc.edu.cn/jszy/fd4bf16914d944c592c0db52203f48be.htm",
+"papers": [
+{
+"title": "The Effects of Consumers’ Price Expectations on Sellers’ Dynamic Pricing Strategies",
+"authors": [
+"Hong Yuan",
+"Song Han"
+],
+"year": 2011,
+"venue": "Journal of Marketing Research",
+"status": "published",
+"doi": "10.1509/jmkr.48.1.48",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.ruc.edu.cn/jszy/fd4bf16914d944c592c0db52203f48be.htm",
+"https://api.crossref.org/works/10.1509/jmkr.48.1.48",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "48(1)",
+"issue": "1",
+"pages": "48-61",
+"tier": "business"
+}
+]
+},
+"pid:wei-yan--ruc": {
+"name": "Wei Yan",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/yw/index.htm",
+"papers": []
+},
+"pid:yong-ma--ruc": {
+"name": "Yong Ma",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/my/index.htm",
+"papers": [
+{
+"title": "Financial development and the effectiveness of monetary policy",
+"authors": [
+"Yong Ma",
+"Xingkai Lin"
+],
+"year": 2016,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2016.03.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"http://sf.ruc.edu.cn/jszy/my/index.htm",
+"https://www.imi.ruc.edu.cn/en/PUBLICATIONS/WorkingPaper/cf72fa50734d41c2979726f9a1a5e973.htm",
+"http://sf.ruc.edu.cn/xzyj/cjsx/xslw/xslw_2016/3cf230f02c034178a5ba83a246b76355.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2016.03.002",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426616300048",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "68",
+"pages": "1-11",
+"tier": "econ_field"
+}
+]
+},
+"pid:runhong-ma--ruc": {
+"name": "Runhong Ma",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/mrh/index.htm",
+"papers": []
+},
+"pid:guangyuan-gao--ruc": {
+"name": "Guangyuan Gao",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/ggy/4f6321436f2444359cedab5b5d8acc10.htm",
+"papers": []
+},
+"pid:cn-p_rucfin317_3eda9d44323f908b--ruc": {
+"name": "高添驰",
+"verified_only": true,
+"source_url": "http://sf.ruc.edu.cn/jszy/gtc/index.htm",
+"papers": []
+},
+"pid:danyang-huang--ruc": {
+"name": "Danyang Huang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"papers": [
+{
+"title": "Multivariate spatial autoregressive model for large scale social networks",
+"authors": [
+"Xuening Zhu",
+"Danyang Huang",
+"Rui Pan",
+"Hansheng Wang"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2018.11.018",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/6d7d24a58d854ed5958c3c7c0d596306.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2018.11.018",
+"https://doi.org/10.1016/j.jeconom.2018.11.018"
+],
+"author_index": 1,
+"volume": "215",
+"issue": "2",
+"pages": "591-606",
+"tier": "econ_field"
+},
+{
+"title": "Two-mode network autoregressive model for large-scale networks",
+"authors": [
+"Danyang Huang",
+"Feifei Wang",
+"Xuening Zhu",
+"Hansheng Wang"
+],
+"year": 2020,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2020.01.014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/6d7d24a58d854ed5958c3c7c0d596306.htm",
+"https://api.crossref.org/works/10.1016/j.jeconom.2020.01.014",
+"https://doi.org/10.1016/j.jeconom.2020.01.014"
+],
+"author_index": 0,
+"volume": "216",
+"issue": "1",
+"pages": "203-219",
+"tier": "econ_field"
+},
+{
+"title": "Reduced rank multivariate spatial autoregressive model for large-scale networks",
+"authors": [
+"Tianyi Zhu",
+"Dan Pu",
+"Yingying Ma",
+"Danyang Huang",
+"Wei Lan"
+],
+"year": 2026,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2026.106247",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://api.crossref.org/works/10.1016/j.jeconom.2026.106247",
+"https://doi.org/10.1016/j.jeconom.2026.106247"
+],
+"author_index": 3,
+"volume": "255",
+"pages": "106247",
+"tier": "econ_field"
+},
+{
+"title": "Feature Screening for Ultrahigh Dimensional Categorical Data With Applications",
+"authors": [
+"Danyang Huang",
+"Runze Li",
+"Hansheng Wang"
+],
+"year": 2014,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2013.863158",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/6d7d24a58d854ed5958c3c7c0d596306.htm",
+"https://api.crossref.org/works/10.1080/07350015.2013.863158",
+"https://doi.org/10.1080/07350015.2013.863158"
+],
+"author_index": 0,
+"volume": "32",
+"issue": "2",
+"pages": "237-244",
+"tier": "econ_field"
+},
+{
+"title": "A Statistical Model for Social Network Labeling",
+"authors": [
+"Danyang Huang",
+"Jun Yin",
+"Tao Shi",
+"Hansheng Wang"
+],
+"year": 2016,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2015.1039014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/6d7d24a58d854ed5958c3c7c0d596306.htm",
+"https://api.crossref.org/works/10.1080/07350015.2015.1039014",
+"https://doi.org/10.1080/07350015.2015.1039014"
+],
+"author_index": 0,
+"volume": "34",
+"issue": "3",
+"pages": "368-374",
+"tier": "econ_field"
+},
+{
+"title": "Network Gradient Descent Algorithm for Decentralized Federated Learning",
+"authors": [
+"Shuyuan Wu",
+"Danyang Huang",
+"Hansheng Wang"
+],
+"year": 2023,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2022.2074426",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://stat.ruc.edu.cn/jszy/hdy/index.html",
+"https://stat.ruc.edu.cn/EN/DepartmentFaculty/Department_of_Mathematical_Statistics/6d7d24a58d854ed5958c3c7c0d596306.htm",
+"https://api.crossref.org/works/10.1080/07350015.2022.2074426",
+"https://doi.org/10.1080/07350015.2022.2074426"
+],
+"author_index": 1,
+"volume": "41",
+"issue": "3",
+"pages": "806-818",
+"tier": "econ_field"
+}
+]
+},
+"pid:bo-huang-a332ec3ecf--ruc": {
+"name": "Bo Huang",
+"verified_only": true,
+"source_url": "http://sard.ruc.edu.cn/szll/zzjs/fjs/8a91a02942ad495384463c340e4d55e0.htm",
+"papers": []
+},
+"pid:chuling-huang--ruc": {
+"name": "Chuling Huang",
+"verified_only": true,
+"source_url": "http://slhr.ruc.edu.cn/szdw/zzjs/ldgx/hcl/45055ad8123547c6ae6e0f4e39640526.htm",
+"papers": []
+},
+"pid:hui-huang--ruc": {
+"name": "Hui Huang",
+"verified_only": true,
+"source_url": "https://stat.ruc.edu.cn/jszy/hh/index.html",
+"papers": []
 }
 }

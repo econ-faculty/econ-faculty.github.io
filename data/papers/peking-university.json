@@ -36981,5 +36981,235 @@
 "status": "published"
 }
 ]
+},
+"pid:haiyang-zheng--pku": {
+"name": "Haiyang Zheng",
+"verified_only": true,
+"source_url": "https://english.phbs.pku.edu.cn/info/3812/44592.htm",
+"papers": []
+},
+"pid:liu-shiyao--pku": {
+"name": "Liu Shiyao",
+"verified_only": true,
+"source_url": "https://en.nsd.pku.edu.cn/faculty/fulltime/l/527613.htm",
+"papers": []
+},
+"pid:minsoo-lee--pku": {
+"name": "Minsoo Lee",
+"verified_only": true,
+"source_url": "https://english.phbs.pku.edu.cn/info/3812/62642.htm",
+"papers": []
+},
+"pid:soojin-roh--pku": {
+"name": "Soojin Roh",
+"verified_only": true,
+"source_url": "https://english.phbs.pku.edu.cn/info/3812/43952.htm",
+"papers": []
+},
+"pid:wang-yuan--pku": {
+"name": "Wang Yuan",
+"verified_only": true,
+"source_url": "https://en.nsd.pku.edu.cn/faculty/fulltime/w/542213.htm",
+"papers": []
+},
+"pid:xi-tianyang--pku": {
+"name": "Xi Tianyang",
+"verified_only": true,
+"source_url": "https://en.nsd.pku.edu.cn/faculty/fulltime/x/239541.htm",
+"papers": []
+},
+"pid:zhang-junni--pku": {
+"name": "Zhang Junni",
+"verified_only": true,
+"source_url": "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm",
+"papers": []
+},
+"pid:zhuo-chen--pku": {
+"name": "Zhuo Chen",
+"verified_only": true,
+"source_url": "https://english.phbs.pku.edu.cn/info/3812/44052.htm",
+"papers": []
+},
+"pid:cn-p_81f2ad7d6fdec0ea7b24--pku": {
+"name": "崔小勇",
+"verified_only": true,
+"source_url": "https://econ.pku.edu.cn/szdw/zzjs/ybjs/sczxx/50170econ327553.htm",
+"papers": [
+{
+"title": "Laplace transform methods for linearizing multidimensional systems",
+"authors": [
+"Cui Xiaoyong",
+"Liutang Gong"
+],
+"year": 2006,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2005.07.023",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.pku.edu.cn/szdw/zzjs/ybjs/sczxx/50170econ327553.htm",
+"https://api.crossref.org/works/10.1016%2Fj.econlet.2005.07.023"
+],
+"author_index": 0,
+"volume": "90",
+"issue": "2",
+"pages": "176-182",
+"tier": "econ_field"
+},
+{
+"title": "Supply-side optimal capital taxation with endogenous wage inequality",
+"authors": [
+"Xiaoyong Cui",
+"Liutang Gong",
+"Wenjian Li"
+],
+"year": 2021,
+"venue": "Journal of Public Economics",
+"status": "published",
+"doi": "10.1016/j.jpubeco.2021.104421",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.pku.edu.cn/szdw/zzjs/ybjs/sczxx/50170econ327553.htm",
+"https://api.crossref.org/works/10.1016%2Fj.jpubeco.2021.104421"
+],
+"author_index": 0,
+"volume": "198",
+"pages": "104421",
+"tier": "econ_field"
+}
+]
+},
+"pid:zheng-zhang-4e057a0a63--pku": {
+"name": "Zheng Zhang",
+"verified_only": true,
+"source_url": "https://en.gsm.pku.edu.cn/faculty/zheng86/",
+"papers": [
+{
+"title": "Speculation Spillovers",
+"authors": [
+"Yu-Jane Liu",
+"Zheng Zhang",
+"Longkai Zhao"
+],
+"year": 2015,
+"venue": "Management Science",
+"status": "published",
+"doi": "10.1287/mnsc.2014.1914",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://en.gsm.pku.edu.cn/faculty/zheng86/",
+"https://en.gsm.pku.edu.cn/system/resource/getjsoncs_en.jsp?type=3&user_id=zheng86",
+"https://api.crossref.org/works/10.1287/mnsc.2014.1914"
+],
+"author_index": 1,
+"volume": "61",
+"issue": "3",
+"pages": "649-664",
+"tier": "business"
+}
+]
+},
+"pid:cn-p_128976f25e01aa0e9ade--pku": {
+"name": "张鹏飞",
+"verified_only": true,
+"source_url": "https://econ.pku.edu.cn/szdw/zzjs/ybjs/scyjjxx/50170econ327568.htm",
+"papers": []
+},
+"pid:minghua-jiang--pku": {
+"name": "Minghua Jiang",
+"verified_only": true,
+"source_url": "https://en.gsm.pku.edu.cn/marketing/Faculty_Directory.htm",
+"papers": [
+{
+"title": "Estimating Promotion Effects Using Big Data: A Partially Profiled LASSO Model with Endogeneity Correction*",
+"authors": [
+"Luping Sun",
+"Xiaona Zheng",
+"Ying Jin",
+"Minghua Jiang",
+"Hansheng Wang"
+],
+"year": 2019,
+"venue": "Decision Sciences",
+"status": "published",
+"doi": "10.1111/deci.12354",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://en.gsm.pku.edu.cn/marketing/Faculty_Directory.htm",
+"https://www.gsm.pku.edu.cn/faculty_and_research/sxgh/xslw/a2019.htm",
+"https://onlinelibrary.wiley.com/doi/10.1111/deci.12354"
+],
+"author_index": 3,
+"volume": "50",
+"issue": "4",
+"pages": "816-846",
+"tier": "business"
+}
+]
+},
+"pid:mingjin-wang--pku": {
+"name": "Mingjin Wang",
+"verified_only": true,
+"source_url": "https://en.gsm.pku.edu.cn/faculty/mjwang/",
+"papers": []
+},
+"pid:xiaona-zheng--pku": {
+"name": "Xiaona Zheng",
+"verified_only": true,
+"source_url": "https://en.gsm.pku.edu.cn/faculty/xzheng/",
+"papers": []
+},
+"pid:cn-p_f5670461f5333904d36d--pku": {
+"name": "锁凌燕",
+"verified_only": true,
+"source_url": "https://econ.pku.edu.cn/szdw/zzjs/ybjs/sfxglybxxx/50170econ327549.htm",
+"papers": []
+},
+"pid:zhengfei-lu--pku": {
+"name": "Zhengfei Lu",
+"verified_only": true,
+"source_url": "https://www.gsm.pku.edu.cn/faculty/zflu/",
+"papers": [
+{
+"title": "Bank discrimination, holding bank ownership, and economic consequences: Evidence from China",
+"authors": [
+"Zhengfei Lu",
+"Jigao Zhu",
+"Weining Zhang"
+],
+"year": 2012,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2011.07.012",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.gsm.pku.edu.cn/faculty/zflu/",
+"https://www.sciencedirect.com/science/article/pii/S0378426611002238",
+"https://raw.githubusercontent.com/econ-faculty/econ-faculty.github.io/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "36",
+"issue": "2",
+"pages": "341-354",
+"tier": "econ_field"
+}
+]
+},
+"pid:cn-p_837c149abb12e8020400--pku": {
+"name": "黎新平",
+"verified_only": true,
+"source_url": "https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/50170econ374743.htm",
+"papers": []
+},
+"pid:liutang-gong--pku": {
+"name": "Liutang Gong",
+"verified_only": true,
+"source_url": "https://en.gsm.pku.edu.cn/faculty/ltgong/",
+"papers": []
 }
 }
