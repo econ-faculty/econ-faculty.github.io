@@ -493,10 +493,7 @@
   "unit": "National School of Development",
   "unit_type": "economics",
   "area": null,
-  "other_units": [
-   "Peking University HSBC Business School - Economics",
-   "Peking University HSBC Business School"
-  ],
+  "other_units": "Peking University HSBC Business School - Economics",
   "fields_raw": "International economics (trade); development economics",
   "fields_std": [
    "International Trade",

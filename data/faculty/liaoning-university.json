@@ -1484,10 +1484,7 @@
   "unit": "Li Anmin Institute of Economic Research",
   "unit_type": "economics",
   "area": null,
-  "other_units": [
-   "Sunwah International Business School; Asia-Australia Business College",
-   "Sunwah International Business School"
-  ],
+  "other_units": "Sunwah International Business School; Asia-Australia Business College",
   "fields_raw": "International finance; macroeconomics; applied econometrics",
   "fields_std": [
    "International Finance",
