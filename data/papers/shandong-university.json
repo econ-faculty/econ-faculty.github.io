@@ -5125,5 +5125,47 @@
 "verified_only": true,
 "source_url": "http://faculty.sdu.edu.cn/huanghanguo/zh_CN/index.htm",
 "papers": []
+},
+"pid:xiaodong-yan--sdu": {
+"name": "Xiaodong Yan",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/yxd_fyjy/jbxx.htm",
+"papers": []
+},
+"pid:cn-p_080985562a89e5fd43bb--sdu": {
+"name": "冯新伟",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/fxw_js/jbxx.htm",
+"papers": []
+},
+"pid:cn-p_cd8993d6237433e1b0fe--sdu": {
+"name": "嵇少林",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/jsl_js.htm",
+"papers": []
+},
+"pid:cn-p_325b08d2f17f8bfc0384--sdu": {
+"name": "李蔚郁",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/lwy/jbxx.htm",
+"papers": []
+},
+"pid:cn-p_e4ef773fb8b32f9cdc85--sdu": {
+"name": "杨淑振",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/ysz_js.htm",
+"papers": []
+},
+"pid:cn-p_3659a0254a40018cb024--sdu": {
+"name": "王振华",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/wzh.htm",
+"papers": []
+},
+"pid:cn-p_35bf4cbe189cc7fe0738--sdu": {
+"name": "赵玮",
+"verified_only": true,
+"source_url": "https://mathfinance.sdu.edu.cn/sz/yjyjs1/zw/jbxx.htm",
+"papers": []
 }
 }

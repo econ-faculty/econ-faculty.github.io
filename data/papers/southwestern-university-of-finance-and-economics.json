@@ -13393,5 +13393,108 @@
 "verified_only": true,
 "source_url": "https://stat.swufe.edu.cn/info/2041/14281.htm",
 "papers": []
+},
+"pid:bach-dong-xuan--swufe": {
+"name": "Bach Dong-Xuan",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1181/3241.htm",
+"papers": []
+},
+"pid:lin-senran--swufe": {
+"name": "Lin Senran",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1151/2471.htm",
+"papers": []
+},
+"pid:liu-zihao--swufe": {
+"name": "Liu Zihao",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1181/3771.htm",
+"papers": []
+},
+"pid:luo-qinyue--swufe": {
+"name": "Luo Qinyue",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1181/3181.htm",
+"papers": []
+},
+"pid:pham-hien--swufe": {
+"name": "Pham Hien",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1181/3661.htm",
+"papers": []
+},
+"pid:zhang-xinhan--swufe": {
+"name": "Zhang Xinhan",
+"verified_only": true,
+"source_url": "https://ies.swufe.edu.cn/info/1181/3131.htm",
+"papers": []
+},
+"pid:changyuan-xia--swufe": {
+"name": "Changyuan Xia",
+"verified_only": true,
+"source_url": "https://icfs.swufe.edu.cn/info/1086/2697.htm",
+"papers": [
+{
+"title": "Corporate Tax Benefits from Hometown-Connected Politicians",
+"authors": [
+"Chunfang Cao",
+"C. S. Agnes Cheng",
+"Changyuan Xia",
+"Jing Xie",
+"Cheng Zeng"
+],
+"year": 2024,
+"venue": "The Accounting Review",
+"status": "published",
+"doi": "10.2308/tar-2020-0162",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://icfs.swufe.edu.cn/szdw/zzjs1/jraqyfzyjzx.htm",
+"https://icfs.swufe.edu.cn/info/1086/2697.htm",
+"https://static.cninfo.com.cn/finalpage/2025-04-23/1223219361.PDF",
+"https://yz.swufe.edu.cn/__local/F/A7/2A/1436EA1F0638C75209893BA9A26_7C497263_52E52.pdf?e=.pdf",
+"https://research.polyu.edu.hk/en/publications/corporate-tax-benefits-from-hometown-connected-politicians/",
+"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251384",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/the-accounting-review.jsonl.gz"
+],
+"author_index": 2,
+"volume": "99",
+"issue": "3",
+"pages": "59-86"
+}
+]
+},
+"pid:cheng-xin--swufe": {
+"name": "Cheng Xin",
+"verified_only": true,
+"source_url": "https://icfs.swufe.edu.cn/info/1086/2700.htm",
+"papers": [
+{
+"title": "Is the renminbi a safe-haven currency? Evidence from conditional coskewness and cokurtosis",
+"authors": [
+"Xin Cheng",
+"Hongyi Chen",
+"Yinggang Zhou"
+],
+"year": 2021,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2021.102359",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://icfs.swufe.edu.cn/info/1086/2700.htm",
+"https://icfs.swufe.edu.cn/info/1034/1833.htm",
+"https://ideas.repec.org/a/eee/jimfin/v113y2021ics0261560621000085.html",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "113",
+"pages": "102359"
+}
+]
 }
 }

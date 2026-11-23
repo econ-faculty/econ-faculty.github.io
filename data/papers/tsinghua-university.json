@@ -22336,5 +22336,218 @@
 "verified_only": true,
 "source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7468.htm",
 "papers": []
+},
+"pid:shi-mai--tsinghua": {
+"name": "Shi Mai",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1023/7441.htm",
+"papers": []
+},
+"pid:tang-xiao--tsinghua": {
+"name": "Tang Xiao",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7480.htm",
+"papers": [
+{
+"title": "How can governments mitigate statistical data manipulation? Evidence from China's enterprises’ direct report reform",
+"authors": [
+"Jingyu Zhang",
+"Zhongyu Wang",
+"Xiao Tang"
+],
+"year": 2025,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2025.112293",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.sppm.tsinghua.edu.cn/english/info/1066/1944.htm",
+"https://finance.sina.com.cn/wm/2025-03-26/doc-ineqyers1717883.shtml",
+"https://www.sciencedirect.com/science/article/abs/pii/S0165176525001302",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data"
+],
+"author_index": 2,
+"volume": "250",
+"pages": "112293"
+}
+]
+},
+"pid:liao-li--tsinghua": {
+"name": "LIAO Li",
+"verified_only": true,
+"source_url": "https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm",
+"papers": [
+{
+"title": "What If Borrowers Were Informed about Credit Reporting? Two Natural Field Experiments",
+"authors": [
+"Li Liao",
+"Xiumin Martin",
+"Ni Wang",
+"Zhengwei Wang",
+"Jun Yang"
+],
+"year": 2023,
+"venue": "The Accounting Review",
+"status": "published",
+"doi": "10.2308/tar-2021-0191",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm",
+"https://doi.org/10.2308/TAR-2021-0191"
+],
+"author_index": 0,
+"volume": "98",
+"issue": "3",
+"pages": "397-425"
+}
+]
+},
+"pid:zhu-guilan--tsinghua": {
+"name": "Zhu Guilan",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7474.htm",
+"papers": []
+},
+"pid:gui-tian-han--tsinghua": {
+"name": "Gui Tian Han",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1022/7431.htm",
+"papers": []
+},
+"pid:mei-ciqi--tsinghua": {
+"name": "MEI Ciqi",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7467.htm",
+"papers": []
+},
+"pid:poon-kit--tsinghua": {
+"name": "POON Kit",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1022/7424.htm",
+"papers": []
+},
+"pid:wang-qingxin--tsinghua": {
+"name": "WANG Qingxin",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1023/7434.htm",
+"papers": []
+},
+"pid:cheng-wenhao--tsinghua": {
+"name": "CHENG Wenhao",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7482.htm",
+"papers": []
+},
+"pid:zhao-wei--tsinghua": {
+"name": "ZHAO Wei",
+"verified_only": true,
+"source_url": "https://www.sem.tsinghua.edu.cn/info/1203/37460.htm",
+"papers": []
+},
+"pid:zhao-jing--tsinghua": {
+"name": "Zhao Jing",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1025/7452.htm",
+"papers": [
+{
+"title": "Information nudges and tax compliance: Evidence from a field experiment in China",
+"authors": [
+"Wenhui Yang",
+"Jing Zhao",
+"Hao Zhou"
+],
+"year": 2024,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2024.106779",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.sppm.tsinghua.edu.cn/english/info/1067/1958.htm",
+"https://www.sppm.tsinghua.edu.cn/info/1025/7452.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0167268124003937",
+"https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-dai-hoc-hue/quan-tri-kinh-doanh/tax-compliance-nudges-evidence-from-a-field-experiment-in-china-eco-228/136994383",
+"https://rigvc.uibe.edu.cn/kyry/qzkyry/46137.htm"
+],
+"author_index": 1,
+"volume": "228",
+"pages": "106779"
+}
+]
+},
+"pid:chen-tian-hao--tsinghua": {
+"name": "Chen Tian Hao",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1024/7465.htm",
+"papers": []
+},
+"pid:chen-ling--tsinghua": {
+"name": "Chen Ling",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1025/7445.htm",
+"papers": [
+{
+"title": "An institutionalized policy-making mechanism: China’s return to techno-industrial policy",
+"authors": [
+"Ling Chen",
+"Barry Naughton"
+],
+"year": 2016,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2016.09.014",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.sppm.tsinghua.edu.cn/info/1063/8334.htm",
+"https://www.sciencedirect.com/science/article/pii/S0048733316301482",
+"https://www.sppm.tsinghua.edu.cn/info/1025/7445.htm",
+"https://www.sppm.tsinghua.edu.cn/szdw/qzjs/zzyggzcyjs.htm"
+],
+"author_index": 0,
+"volume": "45",
+"issue": "10",
+"pages": "2138-2152"
+}
+]
+},
+"pid:wei-jiuchang--tsinghua": {
+"name": "Wei Jiuchang",
+"verified_only": true,
+"source_url": "https://www.sppm.tsinghua.edu.cn/info/1023/9074.htm",
+"papers": [
+{
+"title": "Well Known or Well Liked? The Effects of Corporate Reputation on Firm Value at the Onset of a Corporate Crisis",
+"authors": [
+"Jiuchang Wei",
+"Zhe Ouyang",
+"Haipeng (Allan) Chen"
+],
+"year": 2017,
+"venue": "Strategic Management Journal",
+"status": "published",
+"doi": "10.1002/smj.2639",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.sppm.tsinghua.edu.cn/english/info/1065/2071.htm",
+"https://hazards.colorado.edu/api/v2/uploads/cv/jiuchang_wei2023-1678420662203.pdf",
+"https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.2639",
+"https://github.com/econ-faculty/econ-faculty.github.io/tree/8f9733418ee47b54738ec9d050debf266004cfd9/data"
+],
+"author_index": 0,
+"volume": "38",
+"issue": "10",
+"pages": "2103-2120"
+}
+]
+},
+"pid:li-bo--tsinghua": {
+"name": "LI Bo",
+"verified_only": true,
+"source_url": "https://www.sem.tsinghua.edu.cn/info/1210/31951.htm",
+"papers": []
 }
 }

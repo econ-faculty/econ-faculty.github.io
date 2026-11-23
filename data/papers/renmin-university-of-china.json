@@ -36468,5 +36468,159 @@
 "verified_only": true,
 "source_url": "https://stat.ruc.edu.cn/jszy/hh/index.html",
 "papers": []
+},
+"pid:ruiming-liu--ruc": {
+"name": "Ruiming Liu",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/js/bdd2100121654c4584b7a2fb1320e8fc.htm",
+"papers": [
+{
+"title": "Financing constraints and share pledges: Evidence from the share pledge reform in China",
+"authors": [
+"Yang Shi",
+"Jiachen Li",
+"Ruiming Liu"
+],
+"year": 2023,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2022.102337",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nads.ruc.edu.cn/zkcg/xsfb_zkcg/A/index1.htm",
+"https://www.sciencedirect.com/science/article/pii/S0929119922001808",
+"https://nads.ruc.edu.cn/yjtd/qzjs/index.htm",
+"https://nads.ruc.edu.cn/yjtd/qzjs/js/bdd2100121654c4584b7a2fb1320e8fc.htm"
+],
+"author_index": 2,
+"volume": "78",
+"pages": "102337"
+}
+]
+},
+"pid:yin-heng--ruc": {
+"name": "Yin Heng",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm",
+"papers": [
+{
+"title": "Industrial policy and capacity utilization: Evidence from China’s five-year plans",
+"authors": [
+"Hui Li",
+"Wenzhuo Lu",
+"Xiaochen Xie",
+"Heng Yin"
+],
+"year": 2026,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2025.103237",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602250666788865",
+"https://doi.org/10.1016/j.ijindorg.2025.103237",
+"https://nads.ruc.edu.cn/yjtd/qzjs/index.htm",
+"https://en.nads.ruc.edu.cn/ResearchTeams/FulltimeTeachers/Professor/7d4363d045fb42e8b63b66584670d1da.htm"
+],
+"author_index": 3,
+"volume": "104",
+"pages": "103237"
+}
+]
+},
+"pid:yi-fang--ruc": {
+"name": "Yi Fang",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/js/b86ab2cd16bd4f2c8ba6f5cd9b105866.htm",
+"papers": [
+{
+"title": "Personal income tax reform and health insurance purchases: Evidence from a quasi-natural experiment in China",
+"authors": [
+"Yi Fang",
+"Wenrui Zeng",
+"Xuan Zhang",
+"Yang Zhao"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.107069",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nads.ruc.edu.cn/yjtd/qzjs/js/b86ab2cd16bd4f2c8ba6f5cd9b105866.htm",
+"https://doi.org/10.1016/j.jebo.2025.107069",
+"https://nads.ruc.edu.cn/yjtd/qzjs/index.htm"
+],
+"author_index": 0,
+"volume": "235",
+"pages": "107069"
+}
+]
+},
+"pid:jingxian-zou--ruc": {
+"name": "Jingxian Zou",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/js/961f126aed6c43138e7cebc57e137480.htm",
+"papers": [
+{
+"title": "Bank competition and formation of zombie firms: Evidence from banking deregulation in China",
+"authors": [
+"Xuchao Li",
+"Xiang Shao",
+"Guangjun Shen",
+"Jingxian Zou"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107390",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://nads.ruc.edu.cn/yjtd/qzjs/js/961f126aed6c43138e7cebc57e137480.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0378426625000111",
+"https://nads.ruc.edu.cn/yjtd/qzjs/index.htm"
+],
+"author_index": 3,
+"volume": "172",
+"pages": "107390"
+}
+]
+},
+"pid:qiangyuan-chen--ruc": {
+"name": "Qiangyuan Chen",
+"verified_only": true,
+"source_url": "https://nads.ruc.edu.cn/yjtd/qzjs/js/33671670d25b49c3b18cca4e3f15d839.htm",
+"papers": [
+{
+"title": "Ecological costs of energy infrastructure: Evidence from migratory bird tracking",
+"authors": [
+"Qiangyuan Chen",
+"Jianmin Li",
+"Yuanning Liang",
+"Weiping Zhao",
+"Yunqian Cheng",
+"Tian Huang"
+],
+"year": 2026,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2026.103352",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ir.pku.edu.cn/handle/20.500.11897/794315",
+"https://doi.org/10.1016/j.jeem.2026.103352",
+"https://nads.ruc.edu.cn/yjtd/qzjs/index.htm",
+"https://nads.ruc.edu.cn/yjtd/qzjs/js/33671670d25b49c3b18cca4e3f15d839.htm"
+],
+"author_index": 0,
+"volume": "138",
+"pages": "103352"
+}
+]
 }
 }

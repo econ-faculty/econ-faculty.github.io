@@ -35333,5 +35333,219 @@
 "verified_only": true,
 "source_url": "https://fisf.fudan.edu.cn/show-65-186.html",
 "papers": []
+},
+"pid:yankun-hou--fudan": {
+"name": "Yankun Hou",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/en_show-112-176.html",
+"papers": []
+},
+"pid:jing-zhou--fudan": {
+"name": "Jing Zhou",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14212",
+"papers": []
+},
+"pid:dunzhe-tang--fudan": {
+"name": "Dunzhe Tang",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/en_show-112-159.html",
+"papers": [
+{
+"title": "Optimal primary dealer selection in financial networks",
+"authors": [
+"Rongtai Chu",
+"Zhongjie Fan",
+"Zehao Liu",
+"Dunzhe Tang"
+],
+"year": 2024,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111480",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ir.pku.edu.cn/handle/20.500.11897/693777",
+"https://www.sciencedirect.com/science/article/pii/S0165176523005062"
+],
+"author_index": 3,
+"volume": "234",
+"pages": "111480"
+}
+]
+},
+"pid:jinqing-zhang--fudan": {
+"name": "Jinqing Zhang",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14269",
+"papers": [
+{
+"title": "Dynamic portfolio optimization with ambiguity aversion",
+"authors": [
+"Jinqing Zhang",
+"Zeyu Jin",
+"Yunbi An"
+],
+"year": 2017,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2017.03.007",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/en/info/1018/1003.htm",
+"https://econ.fudan.edu.cn/info/1024/4073.htm",
+"https://www.sciencedirect.com/science/article/pii/S0378426617300572",
+"https://ideas.repec.org/a/eee/jbfina/v79y2017icp95-109.html",
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14269"
+],
+"author_index": 0,
+"volume": "79",
+"pages": "95-109"
+}
+]
+},
+"pid:huailu-li--fudan": {
+"name": "Huailu Li",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14143",
+"papers": []
+},
+"pid:qingxu-yang--fudan": {
+"name": "Qingxu Yang",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/info/1143/46849.htm",
+"papers": [
+{
+"title": "Women in the Courtroom: Technology and Justice",
+"authors": [
+"Heng Chen",
+"Yuyu Chen",
+"Qingxu Yang"
+],
+"year": 2026,
+"venue": "Review of Economic Studies",
+"status": "published",
+"doi": "10.1093/restud/rdaf066",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://hub.hku.hk/handle/10722/379761",
+"https://www.hkubs.hku.hk/sc/people/qingxu-yang/"
+],
+"author_index": 2,
+"volume": "93",
+"issue": "3",
+"pages": "1574-1601"
+}
+]
+},
+"pid:xiaoyan-fan--fudan": {
+"name": "Xiaoyan Fan",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14135",
+"papers": [
+{
+"title": "The Role of Firm Factors in Demand, Cost, and Export Market Selection for Chinese Footwear Producers",
+"authors": [
+"Mark J Roberts",
+"Daniel Yi Xu",
+"Xiaoyan Fan",
+"Shengxing Zhang"
+],
+"year": 2018,
+"venue": "Review of Economic Studies",
+"status": "published",
+"doi": "10.1093/restud/rdx066",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14135",
+"https://econ.fudan.edu.cn/info/1760/19342.htm",
+"https://api.crossref.org/works/10.1093/restud/rdx066",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 2,
+"volume": "85",
+"issue": "4",
+"pages": "2429-2461"
+}
+]
+},
+"pid:shen-hongbo--fudan": {
+"name": "Shen Hongbo",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=46708",
+"papers": [
+{
+"title": "Does the carbon emission trading system enhance firms’ green development? A perspective from the market mechanism",
+"authors": [
+"Ming Huang",
+"Kanglong Hong",
+"Hongbo Shen",
+"Kai Wang"
+],
+"year": 2026,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2026.103639",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://api.crossref.org/works/10.1016/j.jimonfin.2026.103639",
+"https://api.openalex.org/works/https://doi.org/10.1016/j.jimonfin.2026.103639",
+"https://api.openalex.org/authors/A5129733320",
+"https://faculty.fudan.edu.cn/shenhongbo1/zh_CN/lwcg/172874/list/index.htm",
+"https://www.sciencedirect.com/science/article/pii/S0261560626001245",
+"https://www.tandfonline.com/doi/full/10.1080/1540496X.2026.2717732"
+],
+"author_index": 2,
+"volume": "167",
+"pages": "103639"
+}
+]
+},
+"pid:jianyong-fan--fudan": {
+"name": "Jianyong Fan",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14244",
+"papers": [
+{
+"title": "Persistent effects of universities on local industrial growth: Evidence from China's policy-induced college relocation in the 1950s",
+"authors": [
+"Jianyong Fan",
+"Wei Tang",
+"Feng Zhang"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2025.103628",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14244",
+"https://econ.fudan.edu.cn/info/1760/36497.htm",
+"https://api.crossref.org/works/10.1016/j.jdeveco.2025.103628",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "179",
+"pages": "103628"
+}
+]
+},
+"pid:fan-gao--fudan": {
+"name": "Fan Gao",
+"verified_only": true,
+"source_url": "https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14138",
+"papers": []
+},
+"pid:wenjui-terry-huang--fudan": {
+"name": "Wenjui (Terry) Huang",
+"verified_only": true,
+"source_url": "https://fisf.fudan.edu.cn/en_show-112-134.html",
+"papers": []
 }
 }

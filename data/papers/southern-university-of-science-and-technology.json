@@ -2466,5 +2466,17 @@
 "verified_only": true,
 "source_url": "https://business.sustech.edu.cn/web/professor_detail.php?id=3",
 "papers": []
+},
+"pid:cn-p_5bdd528f50b00b9978eb--sustech": {
+"name": "朱斌",
+"verified_only": true,
+"source_url": "https://sph.sustech.edu.cn/faculty/detail/id/37.html?cid=121&lang=zh-cn",
+"papers": []
+},
+"pid:cn-p_acdf5f80245d9e1bb0ff--sustech": {
+"name": "韩昕昕",
+"verified_only": true,
+"source_url": "https://sph.sustech.edu.cn/faculty/detail/id/29.html?lang=zh-cn",
+"papers": []
 }
 }

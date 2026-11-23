@@ -1925,5 +1925,11 @@
 "tier": "business"
 }
 ]
+},
+"pid:li-shao--zju": {
+"name": "Li Shao",
+"verified_only": true,
+"source_url": "https://person.zju.edu.cn/shaoli",
+"papers": []
 }
 }

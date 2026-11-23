@@ -10243,5 +10243,144 @@
 "tier": "econ_field"
 }
 ]
+},
+"pid:yifan-jia--nankai": {
+"name": "Yifan Jia",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2019/0101/c10955a573976/page.htm",
+"papers": []
+},
+"pid:bing-ren--nankai": {
+"name": "Bing Ren",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13653a573068/page.htm",
+"papers": []
+},
+"pid:xiao-liu--nankai": {
+"name": "Xiao Liu",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13654a578598/page.htm",
+"papers": [
+{
+"title": "Creditor protection and government procurement contracting",
+"authors": [
+"Xiao Liu",
+"Zhiming Ma",
+"Lufei Ruan"
+],
+"year": 2025,
+"venue": "Journal of Accounting and Economics",
+"status": "published",
+"doi": "10.1016/j.jacceco.2024.101742",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.nankai.edu.cn/2019/0101/c10955a578580/page.htm",
+"https://www.sciencedirect.com/science/article/pii/S0165410124000727"
+],
+"author_index": 0,
+"volume": "79",
+"issue": "2-3",
+"pages": "101742"
+}
+]
+},
+"pid:yuli-zhang--nankai": {
+"name": "Yuli Zhang",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13653a573058/page.htm",
+"papers": [
+{
+"title": "Exploring an Inverted U–Shape Relationship between Entrepreneurial Orientation and Performance in Chinese Ventures",
+"authors": [
+"Jintong Tang",
+"Zhi Tang",
+"Louis D. Marino",
+"Yuli Zhang",
+"Qianwen Li"
+],
+"year": 2008,
+"venue": "Entrepreneurship Theory and Practice",
+"status": "published",
+"doi": "10.1111/j.1540-6520.2007.00223.x",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.nankai.edu.cn/2025/0101/c13653a573058/page.htm",
+"https://api.crossref.org/works/10.1111/j.1540-6520.2007.00223.x"
+],
+"author_index": 3,
+"volume": "32",
+"issue": "1",
+"pages": "219-239"
+}
+]
+},
+"pid:jixun-zhang--nankai": {
+"name": "Jixun Zhang",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13654a573396/page.htm",
+"papers": [
+{
+"title": "When Do Qualitative Risk Disclosures Backfire? The Effects of a Mismatch in Hedge Disclosure Formats on Investors' Judgments",
+"authors": [
+"Yanan He",
+"Hun‐Tong Tan",
+"Feng Yeo",
+"Jixun Zhang"
+],
+"year": 2019,
+"venue": "Contemporary Accounting Research",
+"status": "published",
+"doi": "10.1111/1911-3846.12518",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.nankai.edu.cn/2019/0101/c10955a573955/page.htm",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/1911-3846.12518"
+],
+"author_index": 3,
+"volume": "36",
+"issue": "4",
+"pages": "2093-2112"
+}
+]
+},
+"pid:li-tian--nankai": {
+"name": "Li Tian",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13653a573065/page.htm",
+"papers": []
+},
+"pid:hongzhi-xue--nankai": {
+"name": "Hongzhi Xue",
+"verified_only": true,
+"source_url": "https://bs.nankai.edu.cn/2025/0101/c13653a573062/page.htm",
+"papers": [
+{
+"title": "Prior Experience and Social Class as Moderators of the Planning‐Performance Relationship in C hina's Emerging Economy",
+"authors": [
+"Yuli Zhang",
+"Jun Yang",
+"Jintong Tang",
+"Kevin Au",
+"Hongzhi Xue"
+],
+"year": 2013,
+"venue": "Strategic Entrepreneurship Journal",
+"status": "published",
+"doi": "10.1002/sej.1155",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://bs.nankai.edu.cn/2025/0101/c13653a573062/page.htm",
+"https://api.crossref.org/works/10.1002/sej.1155"
+],
+"author_index": 4,
+"volume": "7",
+"issue": "3",
+"pages": "214-229"
+}
+]
 }
 }

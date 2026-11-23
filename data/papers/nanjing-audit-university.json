@@ -2838,5 +2838,118 @@
 "verified_only": true,
 "source_url": "https://account.nau.edu.cn/2025/0226/c8880a141024/page.htm",
 "papers": []
+},
+"pid:cn-p_7bde039044ff6fbc5d50--nau": {
+"name": "余嘉凌",
+"verified_only": true,
+"source_url": "https://sia.nau.edu.cn/2024/1217/c9415a139836/page.htm",
+"papers": []
+},
+"pid:cn-p_7b35ae5ca7c69863cc5e--nau": {
+"name": "巨敏",
+"verified_only": true,
+"source_url": "https://sia.nau.edu.cn/2023/0115/c9415a109130/page.htm",
+"papers": []
+},
+"pid:cn-p_c17b52a541d3969884a3--nau": {
+"name": "庞艳红",
+"verified_only": true,
+"source_url": "https://sia.nau.edu.cn/2023/0112/c9415a109069/page.htm",
+"papers": []
+},
+"pid:ying-li--nau": {
+"name": "Ying Li",
+"verified_only": true,
+"source_url": "https://shsjxy.nau.edu.cn/2024/0701/c7696a132949/page.htm",
+"papers": [
+{
+"title": "Corporate voluntary disclosure via WeChat",
+"authors": [
+"Ying Li",
+"Qianqian Huang",
+"Tao Yuan"
+],
+"year": 2025,
+"venue": "Journal of Banking and Finance",
+"status": "published",
+"doi": "10.1016/j.jbankfin.2025.107393",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shsjxy.nau.edu.cn/fjs/list.htm",
+"https://shsjxy.nau.edu.cn/2024/0701/c7696a132949/page.htm",
+"https://api.crossref.org/works/10.1016/j.jbankfin.2025.107393"
+],
+"author_index": 0,
+"volume": "176",
+"pages": "107393"
+}
+]
+},
+"pid:hui-lin--nau": {
+"name": "Hui Lin",
+"verified_only": true,
+"source_url": "https://shsjxy.nau.edu.cn/2024/0729/c7696a150034/page.htm",
+"papers": [
+{
+"title": "Political Connections and Firm Value in China: An Event Study",
+"authors": [
+"Feng Liu",
+"Hui Lin",
+"Huiying Wu"
+],
+"year": 2018,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-016-3316-2",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://shsjxy.nau.edu.cn/fjs/list.htm",
+"https://shsjxy.nau.edu.cn/2024/0729/c7696a150034/page.htm",
+"https://api.crossref.org/works/10.1007/s10551-016-3316-2"
+],
+"author_index": 1,
+"volume": "152",
+"issue": "2",
+"pages": "551-571"
+}
+]
+},
+"pid:cn-p_4302b1bbbcf2dc6159ae--nau": {
+"name": "潘晨",
+"verified_only": true,
+"source_url": "https://sia.nau.edu.cn/2023/0112/c9415a119840/page.htm",
+"papers": []
+},
+"pid:danping-chen--nau": {
+"name": "Danping Chen",
+"verified_only": true,
+"source_url": "https://sia.nau.edu.cn/2023/0112/c9415a109068/page.htm",
+"papers": [
+{
+"title": "Does Environmental Information Disclosure Benefit Waste Discharge Reduction? Evidence from China",
+"authors": [
+"Rongbing Huang",
+"Danping Chen"
+],
+"year": 2015,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-014-2173-0",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://sia.nau.edu.cn/2023/0112/c9415a109068/page.htm",
+"https://link.springer.com/article/10.1007/s10551-014-2173-0",
+"https://api.crossref.org/works/10.1007%2Fs10551-014-2173-0",
+"https://pxjy.nau.edu.cn/2019/0326/c5585a49541/page.htm"
+],
+"author_index": 1,
+"volume": "129",
+"issue": "3",
+"pages": "535-552"
+}
+]
 }
 }

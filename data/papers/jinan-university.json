@@ -8141,5 +8141,157 @@
 "verified_only": true,
 "source_url": "https://birmingham.jnu.edu.cn/2025/0811/c37979a841272/page.htm",
 "papers": []
+},
+"pid:wan-chuang--jinan": {
+"name": "Wan Chuang",
+"verified_only": true,
+"source_url": "https://faculty.jnu.edu.cn/jjxy/wc1/list.htm",
+"papers": [
+{
+"title": "Estimation and Inference for Multi-Kink Quantile Regression",
+"authors": [
+"Wei Zhong",
+"Chuang Wan",
+"Wenyang Zhang"
+],
+"year": 2021,
+"venue": "Journal of Business & Economic Statistics",
+"status": "published",
+"doi": "10.1080/07350015.2021.1901720",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.jnu.edu.cn/jjxy/wc1/list.htm",
+"https://eprints.whiterose.ac.uk/id/eprint/171973/"
+],
+"author_index": 1,
+"volume": "40",
+"issue": "3",
+"pages": "1123-1139"
+},
+{
+"title": "A Multi-Kink quantile regression model with common structure for panel data analysis",
+"authors": [
+"Yan Sun",
+"Chuang Wan",
+"Wenyang Zhang",
+"Wei Zhong"
+],
+"year": 2024,
+"venue": "Journal of Econometrics",
+"status": "published",
+"doi": "10.1016/j.jeconom.2022.04.012",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://faculty.jnu.edu.cn/jjxy/wc1/list.htm",
+"https://eprints.whiterose.ac.uk/id/eprint/186315/"
+],
+"author_index": 1,
+"volume": "239",
+"issue": "2",
+"pages": "105304"
+}
+]
+},
+"pid:cn-p_01db6a727f6d142cb23e--jinan": {
+"name": "刘博真",
+"verified_only": true,
+"source_url": "https://iie.jnu.edu.cn/2023/1205/c10551a783353/page.htm",
+"papers": []
+},
+"pid:cn-p_35f370e698884d3ddf65--jinan": {
+"name": "周浦",
+"verified_only": true,
+"source_url": "https://szly.jnu.edu.cn/2025/0715/c41997a840570/page.htm",
+"papers": []
+},
+"pid:ming-fang--jinan": {
+"name": "Ming Fang",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2025/1015/c42164a844285/page.htm",
+"papers": []
+},
+"pid:yiran-cao--jinan": {
+"name": "Yiran Cao",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2025/0415/c24923a833931/page.htm",
+"papers": []
+},
+"pid:cn-p_434d892c73c87cdf9208--jinan": {
+"name": "李文丽",
+"verified_only": true,
+"source_url": "https://szly.jnu.edu.cn/2025/0716/c41998a840638/page.htm",
+"papers": []
+},
+"pid:cn-p_cd8aede4d7bd563902b2--jinan": {
+"name": "杨理瑜",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2024/0127/c24917a806759/page.htm",
+"papers": []
+},
+"pid:cn-p_55f1c1c17a8cc65e0218--jinan": {
+"name": "林丹",
+"verified_only": true,
+"source_url": "https://szly.jnu.edu.cn/2025/0715/c41997a840571/page.htm",
+"papers": []
+},
+"pid:shuangxin-wang--jinan": {
+"name": "Shuangxin Wang",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2025/0319/c24917a832073/page.htm",
+"papers": []
+},
+"pid:cn-p_59a06999db5f7c3edc4e--jinan": {
+"name": "袁哲旻",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2025/0910/c24927a842309/page.htm",
+"papers": []
+},
+"pid:wenbo-zhao--jinan": {
+"name": "Wenbo Zhao",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2025/0407/c24917a833320/page.htm",
+"papers": []
+},
+"pid:cn-p_13026da11113979a1a53--jinan": {
+"name": "邹航",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2022/0411/c42191a689641/page.htm",
+"papers": []
+},
+"pid:cn-p_486edbacb855c27ebee5--jinan": {
+"name": "陈伟旋",
+"verified_only": true,
+"source_url": "https://szly.jnu.edu.cn/2025/0715/c41997a840563/page.htm",
+"papers": []
+},
+"pid:jing-gao--jinan": {
+"name": "Jing Gao",
+"verified_only": true,
+"source_url": "https://ec.jnu.edu.cn/2026/0904/c42297a862592/page.htm",
+"papers": [
+{
+"title": "Differentiated agricultural sensitivity and adaptability to rising temperatures across regions and sectors in China",
+"authors": [
+"Xiaoguang Chen",
+"Xiaomeng Cui",
+"Jing Gao"
+],
+"year": 2023,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2023.102801",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://iesr.jnu.edu.cn/_upload/article/files/80/d2/b4f2011d4f5d8734cc589f8432a0/d103426d-2b81-4cf9-8099-6c470aaa0e70.pdf",
+"https://ideas.repec.org/a/eee/jeeman/v119y2023ics0095069623000190.html"
+],
+"author_index": 2,
+"volume": "119",
+"pages": "102801"
+}
+]
 }
 }

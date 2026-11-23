@@ -16178,5 +16178,212 @@
 "tier": "business"
 }
 ]
+},
+"pid:liang-sun--sysu": {
+"name": "Liang Sun",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/263",
+"papers": [
+{
+"title": "Local Political Corruption and Financial Reporting Conservatism",
+"authors": [
+"Xin Chang",
+"Shanmin Li",
+"Chun Liu",
+"Liang Sun",
+"Wenrui Zhang"
+],
+"year": 2025,
+"venue": "The Accounting Review",
+"status": "published",
+"doi": "10.2308/tar-2021-0061",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/263",
+"https://api.crossref.org/works/10.2308%2Ftar-2021-0061"
+],
+"author_index": 3,
+"volume": "100",
+"issue": "2",
+"pages": "45-70"
+}
+]
+},
+"pid:dandan-zhu--sysu": {
+"name": "Dandan Zhu",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/ZhuDandan",
+"papers": [
+{
+"title": "Digitalization through fiscal competition",
+"authors": [
+"Guangzhong Li",
+"Guanchun Liu",
+"Yan Liu",
+"Dandan Zhu"
+],
+"year": 2026,
+"venue": "European Economic Review",
+"status": "published",
+"doi": "10.1016/j.euroecorev.2026.105496",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://lingnan.sysu.edu.cn/faculty/ZhuDandan",
+"https://www.sciencedirect.com/science/article/pii/S0014292126002400"
+],
+"author_index": 3,
+"volume": "190",
+"pages": "105496"
+}
+]
+},
+"pid:shigang-li--sysu": {
+"name": "Shigang Li",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/259",
+"papers": [
+{
+"title": "Production Function Estimation With Resource Misallocation",
+"authors": [
+"Shigang Li",
+"Jiawei Mo"
+],
+"year": 2026,
+"venue": "Journal of Applied Econometrics",
+"status": "published",
+"doi": "10.1002/jae.70043",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/259",
+"https://doi.org/10.1002%2Fjae.70043"
+],
+"author_index": 0,
+"volume": "41",
+"issue": "3",
+"pages": "280-294"
+}
+]
+},
+"pid:mingyang-li--sysu": {
+"name": "Mingyang Li",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/281",
+"papers": [
+{
+"title": "Faster fiscal stimulus and a higher government spending multiplier in China: Mixed-frequency identification with SVAR",
+"authors": [
+"Mingyang Li",
+"Linlin Niu"
+],
+"year": 2021,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2021.110135",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/281",
+"https://doi.org/10.1016%2Fj.econlet.2021.110135"
+],
+"author_index": 0,
+"volume": "209",
+"pages": "110135"
+}
+]
+},
+"pid:jiao-hui-yang--sysu": {
+"name": "Jiao-Hui Yang",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/267",
+"papers": [
+{
+"title": "Dynamic information spillovers in intraregionally-focused spot and forward currency markets",
+"authors": [
+"Xi Wang",
+"Jiao-Hui Yang",
+"Kai-Li Wang",
+"Christopher Fawson"
+],
+"year": 2017,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2016.11.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/267",
+"https://api.crossref.org/works/10.1016%2Fj.jimonfin.2016.11.002"
+],
+"author_index": 1,
+"volume": "71",
+"pages": "78-110"
+}
+]
+},
+"pid:jiada-lin--sysu": {
+"name": "Jiada Lin",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/2684",
+"papers": [
+{
+"title": "Externalities of the personality traits: The effect of peer personality on students’ mental health",
+"authors": [
+"Liping Chen",
+"Jiada Lin",
+"Zhifeng Wang"
+],
+"year": 2026,
+"venue": "Journal of Development Economics",
+"status": "published",
+"doi": "10.1016/j.jdeveco.2025.103680",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/2684",
+"https://doi.org/10.1016%2Fj.jdeveco.2025.103680"
+],
+"author_index": 1,
+"volume": "179",
+"pages": "103680"
+}
+]
+},
+"pid:fengping-tian--sysu": {
+"name": "Fengping Tian",
+"verified_only": true,
+"source_url": "https://isbf.sysu.edu.cn/zh-hans/teacher/266",
+"papers": [
+{
+"title": "A quantile regression approach to panel data analysis of health‐care expenditure in Organisation for Economic Co‐operation and Development countries",
+"authors": [
+"Fengping Tian",
+"Jiti Gao",
+"Ke Yang"
+],
+"year": 2018,
+"venue": "Health Economics",
+"status": "published",
+"doi": "10.1002/hec.3811",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://isbf.sysu.edu.cn/zh-hans/teacher/266",
+"https://doi.org/10.1002%2Fhec.3811"
+],
+"author_index": 0,
+"volume": "27",
+"issue": "12",
+"pages": "1921-1944"
+}
+]
+},
+"pid:feiting-xu--sysu": {
+"name": "Feiting Xu",
+"verified_only": true,
+"source_url": "https://lingnan.sysu.edu.cn/faculty/XuFeiting",
+"papers": []
 }
 }

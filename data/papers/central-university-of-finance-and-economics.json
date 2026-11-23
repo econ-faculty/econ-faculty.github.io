@@ -13034,5 +13034,38 @@
 "tier": "econ_field"
 }
 ]
+},
+"pid:shuhuai-zhang--cufe": {
+"name": "Shuhuai Zhang",
+"verified_only": true,
+"source_url": "https://econ.cufe.edu.cn/info/1034/8923.htm",
+"papers": [
+{
+"title": "Air pollution exposure and donation to its victims: Evidence from online charitable giving",
+"authors": [
+"Peng Shen",
+"Xincheng Wang",
+"Yinxiao Wang",
+"Yucheng Wang",
+"Chu A.(Alex) Yu",
+"Shuhuai Zhang"
+],
+"year": 2026,
+"venue": "Journal of Environmental Economics and Management",
+"status": "published",
+"doi": "10.1016/j.jeem.2025.103245",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://econ.cufe.edu.cn/info/1034/8923.htm",
+"https://shuhuaizhang.github.io/research/",
+"https://ideas.repec.org/a/eee/jeeman/v135y2026ics0095069625001299.html",
+"https://shuhuaizhang.github.io/"
+],
+"author_index": 5,
+"volume": "135",
+"pages": "103245"
+}
+]
 }
 }

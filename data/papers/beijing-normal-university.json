@@ -8713,5 +8713,41 @@
 "tier": "business"
 }
 ]
+},
+"pid:zhen-yu--bnu": {
+"name": "Zhen Yu",
+"verified_only": true,
+"source_url": "https://faculty.bnu.edu.cn/yuzhen/zh_CN/index.htm",
+"papers": []
+},
+"pid:cn-p_568dad652575ce782bed--bnu": {
+"name": "刘英俊",
+"verified_only": true,
+"source_url": "https://bibs.bnu.edu.cn/teachers/qzjs/fg/f9da79ec81e44f07b0571e5078abde58.htm",
+"papers": []
+},
+"pid:cn-p_72166f3d07d50d3b20e1--bnu": {
+"name": "果佳",
+"verified_only": true,
+"source_url": "https://ag.bnu.edu.cn/yjtd/qzry/92bb159620824d8d8e31c4b1195b9946.htm",
+"papers": []
+},
+"pid:zhang-qian--bnu": {
+"name": "Zhang Qian",
+"verified_only": true,
+"source_url": "https://faculty.bnu.edu.cn/zhangqian1/zh_CN/index.htm",
+"papers": []
+},
+"pid:hongping-lian--bnu": {
+"name": "Hongping Lian",
+"verified_only": true,
+"source_url": "https://ag.bnu.edu.cn/yjtd/qzry/04bb62562dd742d893d1e00793e0fb17.htm",
+"papers": []
+},
+"pid:han-wenjing--bnu": {
+"name": "Han Wenjing",
+"verified_only": true,
+"source_url": "https://faculty.bnu.edu.cn/hanwenjing1/zh_CN/index.htm",
+"papers": []
 }
 }

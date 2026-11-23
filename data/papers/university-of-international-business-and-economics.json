@@ -13288,5 +13288,187 @@
 "verified_only": true,
 "source_url": "https://sbf.uibe.edu.cn/szdw/xyjs/jszc/68822d608ec141109e0925b214bb2102.htm",
 "papers": []
+},
+"pid:cn-p_08d3430aed74af9b3dd8--uibe": {
+"name": "刘一诚",
+"verified_only": true,
+"source_url": "https://soe.uibe.edu.cn/szdw/xyjsaxx/jrgcx/133727fd9f3a453c8394dd33548f1238.htm",
+"papers": []
+},
+"pid:zexin-ye--uibe": {
+"name": "Zexin Ye",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1181&TypeName=%E4%BA%A7%E4%B8%9A%E4%B8%8E%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB",
+"papers": []
+},
+"pid:yifan-zhang--uibe": {
+"name": "Yifan Zhang",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1180&TypeName=%E4%BA%A7%E4%B8%9A%E4%B8%8E%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB",
+"papers": []
+},
+"pid:xiaohan-zhang--uibe": {
+"name": "Xiaohan Zhang",
+"verified_only": true,
+"source_url": "https://rigvc.uibe.edu.cn/kyry/qzkyry/c1870e09ad24408fab1b978acb8e517c.htm",
+"papers": []
+},
+"pid:qian-cao--uibe": {
+"name": "Qian Cao",
+"verified_only": true,
+"source_url": "https://rigvc.uibe.edu.cn/kyry/qzkyry/cdfc4732ed5e4b99865754405f0cc092.htm",
+"papers": []
+},
+"pid:wenbo-zhu--uibe": {
+"name": "Wenbo Zhu",
+"verified_only": true,
+"source_url": "https://rigvc.uibe.edu.cn/kyry/qzkyry/61932.htm",
+"papers": []
+},
+"pid:xiongfei-li--uibe": {
+"name": "Xiongfei Li",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1133&TypeName=",
+"papers": []
+},
+"pid:yingxin-du--uibe": {
+"name": "Yingxin Du",
+"verified_only": true,
+"source_url": "https://ciwto.uibe.edu.cn/yjdw/yjdw2/qzyjry/61361.htm",
+"papers": [
+{
+"title": "Bilateral trade and shocks in political relations: Evidence from China and some of its major trading partners, 1990–2013",
+"authors": [
+"Yingxin Du",
+"Jiandong Ju",
+"Carlos D. Ramirez",
+"Xi Yao"
+],
+"year": 2017,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2017.07.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ciwto.uibe.edu.cn/yjdw/yjdw2/qzyjry/61361.htm",
+"https://ciwto.uibe.edu.cn/english/newsevents/73025.htm",
+"https://ideas.repec.org/a/eee/inecon/v108y2017icp211-225.html"
+],
+"author_index": 0,
+"volume": "108",
+"pages": "211-225"
+}
+]
+},
+"pid:donglin-lin--uibe": {
+"name": "Donglin Lin",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/site_zzyjsw/szxx/ViewTeacher.aspx?NewsID=1176&TypeName=%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E5%AD%A6%E7%B3%BB",
+"papers": [
+{
+"title": "Pains or gains: Trade war, trade deficit, and tariff evasion",
+"authors": [
+"Yi Che",
+"Donglin Lin",
+"Yan Zhang"
+],
+"year": 2025,
+"venue": "Journal of International Economics",
+"status": "published",
+"doi": "10.1016/j.jinteco.2025.104090",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://site.uibe.edu.cn/site_zzyjsw/szxx/ViewTeacher.aspx?NewsID=1176&TypeName=%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E5%AD%A6%E7%B3%BB",
+"https://api.crossref.org/works/10.1016/j.jinteco.2025.104090",
+"https://doi.org/10.1016/j.jinteco.2025.104090",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 1,
+"volume": "155",
+"pages": "104090"
+}
+]
+},
+"pid:xiangru-wu--uibe": {
+"name": "Xiangru Wu",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1135&TypeName=%E5%9B%BD%E9%99%85%E8%BF%90%E8%BE%93%E4%B8%8E%E7%89%A9%E6%B5%81%E5%AD%A6%E7%B3%BB",
+"papers": []
+},
+"pid:ran-wang--uibe": {
+"name": "Ran Wang",
+"verified_only": true,
+"source_url": "https://rigvc.uibe.edu.cn/kyry/qzkyry/67250ea0c33b4e17aa65803c605e3746.htm",
+"papers": [
+{
+"title": "The Demand for Global and Local Environmental Protection: Experimental Evidence from Climate Change Mitigation in Beijing",
+"authors": [
+"Andreas Löschel",
+"Jiansuo Pei",
+"Ran Wang",
+"Bodo Sturm",
+"Wolfgang Buchholz",
+"Zhongxiu Zhao"
+],
+"year": 2021,
+"venue": "Land Economics",
+"status": "published",
+"doi": "10.3368/wple.97.1.061219-0076r1",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://rigvc.uibe.edu.cn/english/Faculty/FulltimeProfessors/3fec096598324a59aa7480199ef6b99a.htm",
+"https://www.econbiz.de/Record/-/10012797184",
+"https://doi.org/10.3368/wple.97.1.061219-0076R1"
+],
+"author_index": 2,
+"volume": "97",
+"issue": "1",
+"pages": "137-154"
+}
+]
+},
+"pid:nan-he--uibe": {
+"name": "Nan He",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1126&TypeName=%E9%87%91%E8%9E%8D%E5%AD%A6%E7%B3%BB",
+"papers": [
+{
+"title": "Is 1/N investment portfolio optimal under ambiguity?",
+"authors": [
+"Nan He",
+"Tan Wang"
+],
+"year": 2025,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2025.112624",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1126&TypeName=%E9%87%91%E8%9E%8D%E5%AD%A6%E7%B3%BB",
+"https://api.crossref.org/works/10.1016/j.econlet.2025.112624",
+"https://doi.org/10.1016/j.econlet.2025.112624",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/journals.json"
+],
+"author_index": 0,
+"volume": "256",
+"pages": "112624"
+}
+]
+},
+"pid:junyuan-chen--uibe": {
+"name": "Junyuan Chen",
+"verified_only": true,
+"source_url": "https://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1170&TypeName=%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E5%AD%A6%E7%B3%BB",
+"papers": []
+},
+"pid:guoxuan-ma--uibe": {
+"name": "Guoxuan Ma",
+"verified_only": true,
+"source_url": "https://rigvc.uibe.edu.cn/kyry/qzkyry/97e526c5e5cc4903b26ce17daa5f16ed.htm",
+"papers": []
 }
 }

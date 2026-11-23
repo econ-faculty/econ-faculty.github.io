@@ -7436,5 +7436,97 @@
 "verified_only": true,
 "source_url": "https://nubs.nju.edu.cn/lj/list.htm",
 "papers": []
+},
+"pid:cn-p_3b64b1c11e66db1ba860--nju": {
+"name": "于君博",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20230323/i240671.html",
+"papers": []
+},
+"pid:cn-p_73a61927b407819e0fb4--nju": {
+"name": "吴少微",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20210629/i203583.html",
+"papers": []
+},
+"pid:ba-zhi-chao--nju": {
+"name": "Ba Zhi-Chao",
+"verified_only": true,
+"source_url": "https://njusz.nju.edu.cn/3d/51/c52366a605521/page.htm",
+"papers": [
+{
+"title": "Characterizing the policy mix and its impact on energy sustainable transformation: The case of China’s energy policy",
+"authors": [
+"Leilei Liu",
+"Zhichao Ba",
+"Liuhong Wang",
+"Gang Li"
+],
+"year": 2026,
+"venue": "Research Policy",
+"status": "published",
+"doi": "10.1016/j.respol.2026.105515",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://dmi.nju.edu.cn/b4/c6/c63122a767174/page.htm",
+"https://pub.orcid.org/v3.0/0000-0001-7005-8265/record",
+"https://pub.orcid.org/v3.0/0000-0001-7005-8265/work/213375142",
+"https://api.crossref.org/works/10.1016/j.respol.2026.105515"
+],
+"author_index": 1,
+"volume": "55",
+"issue": "6",
+"pages": "105515"
+}
+]
+},
+"pid:cn-p_e1734627620198e8757e--nju": {
+"name": "张伟栋",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20230512/i245746.html",
+"papers": []
+},
+"pid:cn-p_d24c0565bf085132b936--nju": {
+"name": "彭彬彬",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20230110/i237724.html",
+"papers": []
+},
+"pid:cn-p_b28b25b1ffc2f9a23831--nju": {
+"name": "李岩",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20220519/i222614.html",
+"papers": []
+},
+"pid:yang-lijing--nju": {
+"name": "Yang Lijing",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20210629/i203590.html",
+"papers": []
+},
+"pid:xue-lin--nju": {
+"name": "Xue LIN",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20201209/i173550.html",
+"papers": []
+},
+"pid:cn-p_5911fee6ec019b3f4888--nju": {
+"name": "王志浩",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20230927/i251077.html",
+"papers": []
+},
+"pid:yanbing-han--nju": {
+"name": "Yanbing Han",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20211124/i209352.html",
+"papers": []
+},
+"pid:cn-p_22cf5ee64eb73cf37ab7--nju": {
+"name": "鲍晓鸣",
+"verified_only": true,
+"source_url": "https://public.nju.edu.cn/szdw/qzjs/azy/20210629/i203538.html",
+"papers": []
 }
 }

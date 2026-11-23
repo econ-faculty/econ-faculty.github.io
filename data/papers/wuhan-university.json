@@ -2836,5 +2836,291 @@
 "tier": "business"
 }
 ]
+},
+"pid:shijun-he--whu": {
+"name": "Shijun He",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1682/11115.htm",
+"papers": [
+{
+"title": "Social Norms and Household Savings Rates in China",
+"authors": [
+"Yvonne Jie Chen",
+"Zhiwu Chen",
+"Shijun He"
+],
+"year": 2019,
+"venue": "Review of Finance",
+"status": "published",
+"doi": "10.1093/rof/rfy029",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.heisee.com/info/1682/11115.htm",
+"https://m.heisee.com/info/2354/266781.htm",
+"https://academic.oup.com/rof/article-abstract/23/5/961/5094894"
+],
+"author_index": 2,
+"volume": "23",
+"issue": "5",
+"pages": "961-991"
+}
+]
+},
+"pid:jingsheng-yu--whu": {
+"name": "Jingsheng Yu",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1683/24484.htm",
+"papers": [
+{
+"title": "A new perspective on Kesten's school choice with consent idea",
+"authors": [
+"Qianfeng Tang",
+"Jingsheng Yu"
+],
+"year": 2014,
+"venue": "Journal of Economic Theory",
+"status": "published",
+"doi": "10.1016/j.jet.2014.10.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1683/24484.htm",
+"https://api.crossref.org/works/10.1016/j.jet.2014.10.002",
+"https://doi.org/10.1016/j.jet.2014.10.002"
+],
+"author_index": 1,
+"volume": "154",
+"pages": "543-561"
+},
+{
+"title": "A market design approach to job rotation",
+"authors": [
+"Jingsheng Yu",
+"Jun Zhang"
+],
+"year": 2020,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2020.01.002",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1683/24484.htm",
+"https://api.crossref.org/works/10.1016/j.geb.2020.01.002",
+"https://doi.org/10.1016/j.geb.2020.01.002"
+],
+"author_index": 0,
+"volume": "120",
+"pages": "180-192"
+},
+{
+"title": "Cores and mechanisms in restricted housing markets",
+"authors": [
+"Jingsheng Yu",
+"Jun Zhang"
+],
+"year": 2022,
+"venue": "Journal of Mathematical Economics",
+"status": "published",
+"doi": "10.1016/j.jmateco.2021.102625",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1683/24484.htm",
+"https://api.crossref.org/works/10.1016/j.jmateco.2021.102625",
+"https://doi.org/10.1016/j.jmateco.2021.102625"
+],
+"author_index": 0,
+"volume": "100",
+"pages": "102625"
+},
+{
+"title": "On the existence of a strong Nash equilibrium under the efficiency-adjusted deferred acceptance mechanism",
+"authors": [
+"Yao Cheng",
+"Dazhong Wang",
+"Jingsheng Yu"
+],
+"year": 2026,
+"venue": "Games and Economic Behavior",
+"status": "published",
+"doi": "10.1016/j.geb.2026.04.006",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1683/24484.htm",
+"https://api.crossref.org/works/10.1016/j.geb.2026.04.006",
+"https://doi.org/10.1016/j.geb.2026.04.006"
+],
+"author_index": 2,
+"volume": "158",
+"pages": "505-526"
+},
+{
+"title": "An Efficient and Incentive‐Compatible Dynamic Multi‐Item Auction Under Budget Constraints",
+"authors": [
+"Zaifu Yang",
+"Jingsheng Yu"
+],
+"year": 2026,
+"venue": "International Economic Review",
+"status": "published",
+"doi": "10.1111/iere.70017",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1683/24484.htm",
+"https://api.crossref.org/works/10.1111/iere.70017",
+"https://doi.org/10.1111/iere.70017",
+"https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.70017"
+],
+"author_index": 1,
+"volume": "67",
+"issue": "1",
+"pages": "313-328"
+}
+]
+},
+"pid:kaixiang-peng--whu": {
+"name": "Kaixiang Peng",
+"verified_only": true,
+"source_url": "https://www.heisee.com/info/1680/24413.htm",
+"papers": [
+{
+"title": "Social-economic change and its impact on violence: Homicide history of Qing China",
+"authors": [
+"Zhiwu Chen",
+"Kaixiang Peng",
+"Lijun Zhu"
+],
+"year": 2017,
+"venue": "Explorations in Economic History",
+"status": "published",
+"doi": "10.1016/j.eeh.2016.12.001",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.heisee.com/info/1680/24413.htm",
+"https://www.sciencedirect.com/science/article/abs/pii/S0014498316302017"
+],
+"author_index": 1,
+"volume": "63",
+"pages": "8-25"
+}
+]
+},
+"pid:cn-p_928d0c35a6188ea43d2f--whu": {
+"name": "李辉",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1983/248931.htm",
+"papers": [
+{
+"title": "Hometown favoritism in traffic citations: Evidence from China",
+"authors": [
+"Min Dai",
+"Hui Li"
+],
+"year": 2023,
+"venue": "Economics Letters",
+"status": "published",
+"doi": "10.1016/j.econlet.2023.111221",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1983/248931.htm",
+"https://api.crossref.org/works/10.1016/j.econlet.2023.111221",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/economics-letters.jsonl.gz"
+],
+"author_index": 1,
+"volume": "229",
+"pages": "111221"
+},
+{
+"title": "Industrial policy and capacity utilization: Evidence from China’s five-year plans",
+"authors": [
+"Hui Li",
+"Wenzhuo Lu",
+"Xiaochen Xie",
+"Heng Yin"
+],
+"year": 2026,
+"venue": "International Journal of Industrial Organization",
+"status": "published",
+"doi": "10.1016/j.ijindorg.2025.103237",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1983/248931.htm",
+"https://api.crossref.org/works/10.1016/j.ijindorg.2025.103237",
+"https://github.com/econ-faculty/econ-faculty.github.io/blob/8f9733418ee47b54738ec9d050debf266004cfd9/data/paperdb/corpus/international-journal-of-industrial-organization.jsonl.gz"
+],
+"author_index": 0,
+"volume": "104",
+"pages": "103237"
+}
+]
+},
+"pid:cn-p_1d649b2b713ed4ab7d60--whu": {
+"name": "汪涛",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1734/10773.htm",
+"papers": [
+{
+"title": "Norm enforcement on minorities: Evidence from traffic violations",
+"authors": [
+"Xiaoyang Deng",
+"Tao Wang",
+"Lian Xue",
+"Shuo Yang"
+],
+"year": 2025,
+"venue": "Journal of Economic Behavior and Organization",
+"status": "published",
+"doi": "10.1016/j.jebo.2025.106930",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://www.sciencedirect.com/science/article/pii/S0167268125000502",
+"https://ems.whu.edu.cn/info/1734/10773.htm"
+],
+"author_index": 1,
+"volume": "231",
+"pages": "106930"
+}
+]
+},
+"pid:cn-p_d2e76a2ebde2081c91af--whu": {
+"name": "熊琛",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1695/294971.htm",
+"papers": [
+{
+"title": "Fiscal stress and monetary policy stance in oil-exporting countries",
+"authors": [
+"Hao Jin",
+"Chen Xiong"
+],
+"year": 2021,
+"venue": "Journal of International Money and Finance",
+"status": "published",
+"doi": "10.1016/j.jimonfin.2020.102302",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://ems.whu.edu.cn/info/1695/294971.htm",
+"https://api.crossref.org/works/10.1016/j.jimonfin.2020.102302"
+],
+"author_index": 1,
+"volume": "111",
+"pages": "102302"
+}
+]
+},
+"pid:cn-p_37105ebd446781c69368--whu": {
+"name": "聂军",
+"verified_only": true,
+"source_url": "https://ems.whu.edu.cn/info/1706/26911.htm",
+"papers": []
 }
 }

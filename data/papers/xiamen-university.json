@@ -8820,5 +8820,133 @@
 "verified_only": true,
 "source_url": "https://faculty.xmu.edu.cn/GM/zh_CN/index.htm",
 "papers": []
+},
+"pid:yijing-lyu--xiamen": {
+"name": "Yijing Lyu",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=886",
+"papers": [
+{
+"title": "Rebellion Under Exploitation: How and When Exploitative Leadership Evokes Employees’ Workplace Deviance",
+"authors": [
+"Yijing Lyu",
+"Long-Zeng Wu",
+"Yijiao Ye",
+"Ho Kwong Kwan",
+"Yuanyi Chen"
+],
+"year": 2023,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-022-05207-w",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://scholar.xmu.edu.cn/Authors/Index?id=LvYiJing",
+"https://link.springer.com/article/10.1007/s10551-022-05207-w"
+],
+"author_index": 0,
+"volume": "185",
+"issue": "3",
+"pages": "483-498"
+}
+]
+},
+"pid:yuting-pang--xiamen": {
+"name": "Yuting Pang",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1266",
+"papers": [
+{
+"title": "From Stigma to Acceptance: Ethical Implications of Anthropomorphic Design in Healthcare Chatbots",
+"authors": [
+"Fangyuan Chen",
+"Yuting Pang",
+"Lili Wang"
+],
+"year": 2026,
+"venue": "Journal of Business Ethics",
+"status": "published",
+"doi": "10.1007/s10551-025-06052-3",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://link.springer.com/article/10.1007/s10551-025-06052-3"
+],
+"author_index": 1,
+"volume": "203",
+"issue": "3",
+"pages": "507-529"
+}
+]
+},
+"pid:yating-zhang--xiamen": {
+"name": "Yating Zhang",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1280",
+"papers": [
+{
+"title": "Assortment Optimization Under History-Dependent Effects",
+"authors": [
+"Taotao He",
+"Yating Zhang",
+"Huan Zheng"
+],
+"year": 2026,
+"venue": "Operations Research",
+"status": "published",
+"doi": "10.1287/opre.2024.1273",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://zhangyt00.github.io/",
+"https://pubsonline.informs.org/doi/10.1287/opre.2024.1273"
+],
+"author_index": 1,
+"volume": "74",
+"issue": "5",
+"pages": "2672-2693"
+}
+]
+},
+"pid:jin-hui-luo--xiamen": {
+"name": "Jin-hui Luo",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=528",
+"papers": [
+{
+"title": "Air pollution and analyst information production",
+"authors": [
+"Chao Kevin Li",
+"Jin-hui Luo",
+"Naomi S. Soderstrom"
+],
+"year": 2020,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2019.101536",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://scholar.xmu.edu.cn/Authors/Index?id=LuoJinHui",
+"https://www.sciencedirect.com/science/article/pii/S0929119919300239"
+],
+"author_index": 1,
+"volume": "60",
+"pages": "101536"
+}
+]
+},
+"pid:xina-yuan--xiamen": {
+"name": "XiNa Yuan",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=524",
+"papers": []
+},
+"pid:cn-p_0460cd32a6e26e3e1797--xiamen": {
+"name": "贾艳丽",
+"verified_only": true,
+"source_url": "https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=771",
+"papers": []
 }
 }

@@ -5620,5 +5620,36 @@
 "verified_only": true,
 "source_url": "https://wls.zuel.edu.cn/2016/0407/c3776a83878/page.htm",
 "papers": []
+},
+"pid:wang-shan--zuel": {
+"name": "Wang Shan",
+"verified_only": true,
+"source_url": "https://kjxy.zuel.edu.cn/ws/main.htm",
+"papers": [
+{
+"title": "Prosocial cultural heritage and corporate philanthropy",
+"authors": [
+"Li Huang",
+"Oliver Zhen Li",
+"Shan Wang",
+"Lijun Xia"
+],
+"year": 2026,
+"venue": "Journal of Corporate Finance",
+"status": "published",
+"doi": "10.1016/j.jcorpfin.2026.103038",
+"eligible_field_top_plus": true,
+"verification_status": "verified",
+"source_urls": [
+"https://kjxy.zuel.edu.cn/ws/main.htm",
+"https://api.crossref.org/works/10.1016/j.jcorpfin.2026.103038",
+"https://api.openalex.org/works/https://doi.org/10.1016/j.jcorpfin.2026.103038",
+"https://onlinelibrary.wiley.com/doi/10.1111/irfi.70028"
+],
+"author_index": 2,
+"volume": "101",
+"pages": "103038"
+}
+]
 }
 }
